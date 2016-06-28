@@ -2,13 +2,14 @@
   "id": 336725717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.127915,33.614094,-112.127915,33.614094",
     "geom:latitude":33.614094,
     "geom:longitude":-112.127915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 W Hearn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336725717,
-    "wof:lastmodified":1448997208,
+    "wof:lastmodified":1466328440,
     "wof:name":"Holly's Ebay Auctions",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auction"
     ]
 },
-  "bbox": [-112.127915,33.614094,-112.127915,33.614094],
+  "bbox": [
+    -112.127915,
+    33.614094,
+    -112.127915,
+    33.614094
+],
   "geometry": {"coordinates":[-112.127915,33.614094],"type":"Point"}
 }

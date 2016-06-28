@@ -2,13 +2,14 @@
   "id": 168955387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.743242,32.879546,-111.743242,32.879546",
     "geom:latitude":32.879546,
     "geom:longitude":-111.743242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Florence Blvd",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168955387,
-    "wof:lastmodified":1449028306,
+    "wof:lastmodified":1466331150,
     "wof:name":"District 5 Office-Casa Grande",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.743242,32.879546,-111.743242,32.879546],
+  "bbox": [
+    -111.743242,
+    32.879546,
+    -111.743242,
+    32.879546
+],
   "geometry": {"coordinates":[-111.743242,32.879546],"type":"Point"}
 }

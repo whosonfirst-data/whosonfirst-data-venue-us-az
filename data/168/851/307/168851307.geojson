@@ -2,13 +2,14 @@
   "id": 168851307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966413,33.354509,-111.966413,33.354509",
     "geom:latitude":33.354509,
     "geom:longitude":-111.966413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7151 S Harl Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808471,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
-        85814393,
-        85917469
+        85808471,
+        85917469,
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":168851307,
-    "wof:lastmodified":1449028275,
+    "wof:lastmodified":1466325815,
     "wof:name":"Assured Space Access",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.966413,33.354509,-111.966413,33.354509],
+  "bbox": [
+    -111.966413,
+    33.354509,
+    -111.966413,
+    33.354509
+],
   "geometry": {"coordinates":[-111.966413,33.354509],"type":"Point"}
 }

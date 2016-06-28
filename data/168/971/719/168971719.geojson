@@ -2,13 +2,14 @@
   "id": 168971719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.72273,33.379329,-111.72273,33.379329",
     "geom:latitude":33.379329,
     "geom:longitude":-111.72273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851359,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168971719,
-    "wof:lastmodified":1449028163,
+    "wof:lastmodified":1466331378,
     "wof:name":"Lewis Linda A",
     "wof:parent_id":85851359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.72273,33.379329,-111.72273,33.379329],
+  "bbox": [
+    -111.72273,
+    33.379329,
+    -111.72273,
+    33.379329
+],
   "geometry": {"coordinates":[-111.72273,33.379329],"type":"Point"}
 }

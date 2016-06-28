@@ -2,13 +2,14 @@
   "id": 336708763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030562,33.312711,-112.030562,33.312711",
     "geom:latitude":33.312711,
     "geom:longitude":-112.030562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14644 S 24th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336708763,
-    "wof:lastmodified":1448997117,
+    "wof:lastmodified":1466328390,
     "wof:name":"Collision Dynamics",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-112.030562,33.312711,-112.030562,33.312711],
+  "bbox": [
+    -112.030562,
+    33.312711,
+    -112.030562,
+    33.312711
+],
   "geometry": {"coordinates":[-112.030562,33.312711],"type":"Point"}
 }

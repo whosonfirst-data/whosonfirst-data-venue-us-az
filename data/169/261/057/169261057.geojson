@@ -2,13 +2,14 @@
   "id": 169261057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961065,32.265407,-110.961065,32.265407",
     "geom:latitude":32.265407,
     "geom:longitude":-110.961065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.darksky.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169261057,
-    "wof:lastmodified":1449032736,
+    "wof:lastmodified":1466332667,
     "wof:name":"International Dark Sky Assn",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.961065,32.265407,-110.961065,32.265407],
+  "bbox": [
+    -110.961065,
+    32.265407,
+    -110.961065,
+    32.265407
+],
   "geometry": {"coordinates":[-110.961065,32.265407],"type":"Point"}
 }

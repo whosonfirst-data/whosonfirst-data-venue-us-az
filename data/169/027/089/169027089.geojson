@@ -2,13 +2,14 @@
   "id": 169027089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983913,33.754463,-111.983913,33.754463",
     "geom:latitude":33.754463,
     "geom:longitude":-111.983913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29637 N 46th St",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169027089,
-    "wof:lastmodified":1449033305,
+    "wof:lastmodified":1466326602,
     "wof:name":"Glaxo Smith Kline Phrmateucals",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.983913,33.754463,-111.983913,33.754463],
+  "bbox": [
+    -111.983913,
+    33.754463,
+    -111.983913,
+    33.754463
+],
   "geometry": {"coordinates":[-111.983913,33.754463],"type":"Point"}
 }

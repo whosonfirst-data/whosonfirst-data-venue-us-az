@@ -2,13 +2,14 @@
   "id": 169241447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.960567,33.584219,-111.960567,33.584219",
     "geom:latitude":33.584219,
     "geom:longitude":-111.960567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10601 N 56th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858855,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169241447,
-    "wof:lastmodified":1449035880,
+    "wof:lastmodified":1466332609,
     "wof:name":"Shell Hospitality Inc",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.960567,33.584219,-111.960567,33.584219],
+  "bbox": [
+    -111.960567,
+    33.584219,
+    -111.960567,
+    33.584219
+],
   "geometry": {"coordinates":[-111.960567,33.584219],"type":"Point"}
 }

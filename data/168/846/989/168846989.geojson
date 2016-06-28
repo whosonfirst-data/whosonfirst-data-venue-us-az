@@ -2,13 +2,14 @@
   "id": 168846989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.699194,35.028087,-110.699194,35.028087",
     "geom:latitude":35.028087,
     "geom:longitude":-110.699194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Oak St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":168846989,
-    "wof:lastmodified":1449028407,
+    "wof:lastmodified":1466327586,
     "wof:name":"Winslow Unified School Distrct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.699194,35.028087,-110.699194,35.028087],
-  "geometry": {"coordinates":[-110.699194,35.028087],"type":"Point"}
+  "bbox": [
+    -110.699194,
+    35.028087,
+    -110.699194,
+    35.028087
+],
+  "geometry": {"coordinates":[-110.69919400000001,35.028087],"type":"Point"}
 }

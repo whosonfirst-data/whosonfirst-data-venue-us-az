@@ -2,13 +2,14 @@
   "id": 336905081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939969,33.305445,-111.939969,33.305445",
     "geom:latitude":33.305445,
     "geom:longitude":-111.939969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5690 W Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336905081,
-    "wof:lastmodified":1448997379,
+    "wof:lastmodified":1466330464,
     "wof:name":"AZ Family Dentistry",
     "wof:parent_id":85855285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-111.939969,33.305445,-111.939969,33.305445],
+  "bbox": [
+    -111.939969,
+    33.305445,
+    -111.939969,
+    33.305445
+],
   "geometry": {"coordinates":[-111.939969,33.305445],"type":"Point"}
 }

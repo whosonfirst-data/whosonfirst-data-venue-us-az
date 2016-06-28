@@ -2,13 +2,14 @@
   "id": 336647445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.280487,33.50296,-112.280487,33.50296",
     "geom:latitude":33.50296,
     "geom:longitude":-112.280487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 N 102nd Ave # 1192",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336647445,
-    "wof:lastmodified":1448997461,
+    "wof:lastmodified":1466326925,
     "wof:name":"Sc Ltd, Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "controls"
     ]
 },
-  "bbox": [-112.280487,33.50296,-112.280487,33.50296],
-  "geometry": {"coordinates":[-112.280487,33.50296],"type":"Point"}
+  "bbox": [
+    -112.280487,
+    33.50296,
+    -112.280487,
+    33.50296
+],
+  "geometry": {"coordinates":[-112.28048699999999,33.50296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169326599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139304,33.623642,-112.139304,33.623642",
     "geom:latitude":33.623642,
     "geom:longitude":-112.139304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 W Acapulco Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853607,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169326599,
-    "wof:lastmodified":1449034073,
+    "wof:lastmodified":1466333102,
     "wof:name":"Bears Around Us",
     "wof:parent_id":85853607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.139304,33.623642,-112.139304,33.623642],
+  "bbox": [
+    -112.139304,
+    33.623642,
+    -112.139304,
+    33.623642
+],
   "geometry": {"coordinates":[-112.139304,33.623642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153020935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96439,33.750273,-111.96439,33.750273",
     "geom:latitude":33.750273,
     "geom:longitude":-111.96439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 E Skinner Dr",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153020935,
-    "wof:lastmodified":1449040537,
+    "wof:lastmodified":1466327161,
     "wof:name":"Kendall Brookhart",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.96439,33.750273,-111.96439,33.750273],
-  "geometry": {"coordinates":[-111.96439,33.750273],"type":"Point"}
+  "bbox": [
+    -111.96439,
+    33.750273,
+    -111.96439,
+    33.750273
+],
+  "geometry": {"coordinates":[-111.96438999999999,33.750273],"type":"Point"}
 }

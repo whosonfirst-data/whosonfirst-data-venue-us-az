@@ -2,13 +2,14 @@
   "id": 169316205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.994567,33.582067,-111.994567,33.582067",
     "geom:latitude":33.582067,
     "geom:longitude":-111.994567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 E Cannon Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85819319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169316205,
-    "wof:lastmodified":1449034929,
+    "wof:lastmodified":1466333142,
     "wof:name":"Groupworks Inc",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.994567,33.582067,-111.994567,33.582067],
+  "bbox": [
+    -111.994567,
+    33.582067,
+    -111.994567,
+    33.582067
+],
   "geometry": {"coordinates":[-111.994567,33.582067],"type":"Point"}
 }

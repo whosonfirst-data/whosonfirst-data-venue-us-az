@@ -2,13 +2,14 @@
   "id": 169183813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.350307,34.578465,-112.350307,34.578465",
     "geom:latitude":34.578465,
     "geom:longitude":-112.350307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6503 E 6th St",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169183813,
-    "wof:lastmodified":1449034459,
+    "wof:lastmodified":1466332014,
     "wof:name":"Advanced Laser Models",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.350307,34.578465,-112.350307,34.578465],
+  "bbox": [
+    -112.350307,
+    34.578465,
+    -112.350307,
+    34.578465
+],
   "geometry": {"coordinates":[-112.350307,34.578465],"type":"Point"}
 }

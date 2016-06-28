@@ -2,13 +2,14 @@
   "id": 353669951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271304,33.551365,-112.271304,33.551365",
     "geom:latitude":33.551365,
     "geom:longitude":-112.271304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9744 W Northern Ave Ste 1",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353669951,
-    "wof:lastmodified":1449018543,
+    "wof:lastmodified":1466329526,
     "wof:name":"Park West Mall",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mall"
     ]
 },
-  "bbox": [-112.271304,33.551365,-112.271304,33.551365],
+  "bbox": [
+    -112.271304,
+    33.551365,
+    -112.271304,
+    33.551365
+],
   "geometry": {"coordinates":[-112.271304,33.551365],"type":"Point"}
 }

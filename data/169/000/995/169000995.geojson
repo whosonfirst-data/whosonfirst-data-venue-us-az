@@ -2,13 +2,14 @@
   "id": 169000995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.287145,34.109106,-109.287145,34.109106",
     "geom:latitude":34.109106,
     "geom:longitude":-109.287145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Butler St",
     "sg:city":"Eagar",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169000995,
-    "wof:lastmodified":1449033223,
+    "wof:lastmodified":1466325835,
     "wof:name":"Eagar Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.287145,34.109106,-109.287145,34.109106],
+  "bbox": [
+    -109.287145,
+    34.109106,
+    -109.287145,
+    34.109106
+],
   "geometry": {"coordinates":[-109.287145,34.109106],"type":"Point"}
 }

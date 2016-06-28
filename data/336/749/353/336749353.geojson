@@ -2,13 +2,14 @@
   "id": 336749353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.852521,33.414921,-111.852521,33.414921",
     "geom:latitude":33.414921,
     "geom:longitude":-111.852521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 W Main St Fl 1",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336749353,
-    "wof:lastmodified":1448997258,
+    "wof:lastmodified":1466328789,
     "wof:name":"Quality Inn Royal Mesa",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-111.852521,33.414921,-111.852521,33.414921],
+  "bbox": [
+    -111.852521,
+    33.414921,
+    -111.852521,
+    33.414921
+],
   "geometry": {"coordinates":[-111.852521,33.414921],"type":"Point"}
 }

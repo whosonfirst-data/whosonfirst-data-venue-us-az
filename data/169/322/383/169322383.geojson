@@ -2,13 +2,14 @@
   "id": 169322383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.219797,33.387388,-112.219797,33.387388",
     "geom:latitude":33.387388,
     "geom:longitude":-112.219797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6419 S 75th Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169322383,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1466333193,
     "wof:name":"South Mountain",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.219797,33.387388,-112.219797,33.387388],
+  "bbox": [
+    -112.219797,
+    33.387388,
+    -112.219797,
+    33.387388
+],
   "geometry": {"coordinates":[-112.219797,33.387388],"type":"Point"}
 }

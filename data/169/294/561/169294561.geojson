@@ -2,13 +2,14 @@
   "id": 169294561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.322525,33.616153,-112.322525,33.616153",
     "geom:latitude":33.616153,
     "geom:longitude":-112.322525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14405 N Palm St",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169294561,
-    "wof:lastmodified":1449035032,
+    "wof:lastmodified":1466332923,
     "wof:name":"Water Department",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.322525,33.616153,-112.322525,33.616153],
+  "bbox": [
+    -112.322525,
+    33.616153,
+    -112.322525,
+    33.616153
+],
   "geometry": {"coordinates":[-112.322525,33.616153],"type":"Point"}
 }

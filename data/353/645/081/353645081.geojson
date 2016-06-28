@@ -2,13 +2,14 @@
   "id": 353645081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.415331,33.452891,-112.415331,33.452891",
     "geom:latitude":33.452891,
     "geom:longitude":-112.415331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16627 W Fillmore St",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353645081,
-    "wof:lastmodified":1449018514,
+    "wof:lastmodified":1466329062,
     "wof:name":"Arizona Support",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-112.415331,33.452891,-112.415331,33.452891],
-  "geometry": {"coordinates":[-112.415331,33.452891],"type":"Point"}
+  "bbox": [
+    -112.415331,
+    33.452891,
+    -112.415331,
+    33.452891
+],
+  "geometry": {"coordinates":[-112.41533099999999,33.452891],"type":"Point"}
 }

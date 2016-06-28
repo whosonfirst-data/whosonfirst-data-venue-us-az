@@ -2,13 +2,14 @@
   "id": 320742865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.130099,33.491488,-112.130099,33.491488",
     "geom:latitude":33.491488,
     "geom:longitude":-112.130099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320742865,
-    "wof:lastmodified":1449011491,
+    "wof:lastmodified":1466328733,
     "wof:name":"Mary's Auto Sales",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-112.130099,33.491488,-112.130099,33.491488],
+  "bbox": [
+    -112.130099,
+    33.491488,
+    -112.130099,
+    33.491488
+],
   "geometry": {"coordinates":[-112.130099,33.491488],"type":"Point"}
 }

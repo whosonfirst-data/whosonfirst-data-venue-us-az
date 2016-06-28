@@ -2,13 +2,14 @@
   "id": 353847579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909214,32.529929,-110.909214,32.529929",
     "geom:latitude":32.529929,
     "geom:longitude":-110.909214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63701 E Saddlebrooke Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353847579,
-    "wof:lastmodified":1449019180,
+    "wof:lastmodified":1466330764,
     "wof:name":"Northwest Allied Physicians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909214,32.529929,-110.909214,32.529929],
-  "geometry": {"coordinates":[-110.909214,32.529929],"type":"Point"}
+  "bbox": [
+    -110.909214,
+    32.529929,
+    -110.909214,
+    32.529929
+],
+  "geometry": {"coordinates":[-110.90921400000001,32.529929],"type":"Point"}
 }

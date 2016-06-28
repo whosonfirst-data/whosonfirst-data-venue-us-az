@@ -2,13 +2,14 @@
   "id": 152907333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.912033,32.267623,-110.912033,32.267623",
     "geom:latitude":32.267623,
     "geom:longitude":-110.912033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3757 E Hardy Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.redlineservice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152907333,
-    "wof:lastmodified":1449048568,
+    "wof:lastmodified":1466327468,
     "wof:name":"Redline Service",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.912033,32.267623,-110.912033,32.267623],
-  "geometry": {"coordinates":[-110.912033,32.267623],"type":"Point"}
+  "bbox": [
+    -110.912033,
+    32.267623,
+    -110.912033,
+    32.267623
+],
+  "geometry": {"coordinates":[-110.91203299999999,32.267623],"type":"Point"}
 }

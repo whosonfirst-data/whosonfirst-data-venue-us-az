@@ -2,13 +2,14 @@
   "id": 169243259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.813067,32.211733,-110.813067,32.211733",
     "geom:latitude":32.211733,
     "geom:longitude":-110.813067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Sarnoff Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169243259,
-    "wof:lastmodified":1449033760,
+    "wof:lastmodified":1466332387,
     "wof:name":"Steele Elementary School",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.813067,32.211733,-110.813067,32.211733],
+  "bbox": [
+    -110.813067,
+    32.211733,
+    -110.813067,
+    32.211733
+],
   "geometry": {"coordinates":[-110.813067,32.211733],"type":"Point"}
 }

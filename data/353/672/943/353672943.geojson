@@ -2,13 +2,14 @@
   "id": 353672943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.216749,33.589569,-112.216749,33.589569",
     "geom:latitude":33.589569,
     "geom:longitude":-112.216749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7309 W Cameron Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353672943,
-    "wof:lastmodified":1449018420,
+    "wof:lastmodified":1466329398,
     "wof:name":"JV Mechanical",
     "wof:parent_id":85820415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.216749,33.589569,-112.216749,33.589569],
-  "geometry": {"coordinates":[-112.216749,33.589569],"type":"Point"}
+  "bbox": [
+    -112.216749,
+    33.589569,
+    -112.216749,
+    33.589569
+],
+  "geometry": {"coordinates":[-112.21674899999999,33.589569],"type":"Point"}
 }

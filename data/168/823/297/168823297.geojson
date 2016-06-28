@@ -2,13 +2,14 @@
   "id": 168823297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.752282,33.4156,-111.752282,33.4156",
     "geom:latitude":33.4156,
     "geom:longitude":-111.752282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168823297,
-    "wof:lastmodified":1449028585,
+    "wof:lastmodified":1466325727,
     "wof:name":"Lees Trailer Service & Supply",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.752282,33.4156,-111.752282,33.4156],
-  "geometry": {"coordinates":[-111.752282,33.4156],"type":"Point"}
+  "bbox": [
+    -111.752282,
+    33.4156,
+    -111.752282,
+    33.4156
+],
+  "geometry": {"coordinates":[-111.75228199999999,33.4156],"type":"Point"}
 }

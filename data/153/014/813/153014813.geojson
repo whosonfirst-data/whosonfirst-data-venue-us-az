@@ -2,13 +2,14 @@
   "id": 153014813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.013726,34.185901,-110.013726,34.185901",
     "geom:latitude":34.185901,
     "geom:longitude":-110.013726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4945 White Mountain Ave",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153014813,
-    "wof:lastmodified":1449040568,
+    "wof:lastmodified":1466326555,
     "wof:name":"Khadija's Bakery & Bistro",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.013726,34.185901,-110.013726,34.185901],
-  "geometry": {"coordinates":[-110.013726,34.185901],"type":"Point"}
+  "bbox": [
+    -110.013726,
+    34.185901,
+    -110.013726,
+    34.185901
+],
+  "geometry": {"coordinates":[-110.01372600000001,34.185901],"type":"Point"}
 }

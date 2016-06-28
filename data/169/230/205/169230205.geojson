@@ -2,13 +2,14 @@
   "id": 169230205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.944041,32.227761,-110.944041,32.227761",
     "geom:latitude":32.227761,
     "geom:longitude":-110.944041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 E 6th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169230205,
-    "wof:lastmodified":1449035127,
+    "wof:lastmodified":1466332330,
     "wof:name":"Sacred Grounds Trading Post",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.944041,32.227761,-110.944041,32.227761],
+  "bbox": [
+    -110.944041,
+    32.227761,
+    -110.944041,
+    32.227761
+],
   "geometry": {"coordinates":[-110.944041,32.227761],"type":"Point"}
 }

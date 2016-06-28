@@ -2,13 +2,14 @@
   "id": 169380701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.540026,33.68596,-112.540026,33.68596",
     "geom:latitude":33.68596,
     "geom:longitude":-112.540026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22451 W Adobe Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169380701,
-    "wof:lastmodified":1449034205,
+    "wof:lastmodified":1466333812,
     "wof:name":"Arizona Nova",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.540026,33.68596,-112.540026,33.68596],
+  "bbox": [
+    -112.540026,
+    33.68596,
+    -112.540026,
+    33.68596
+],
   "geometry": {"coordinates":[-112.540026,33.68596],"type":"Point"}
 }

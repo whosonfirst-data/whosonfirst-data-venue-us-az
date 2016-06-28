@@ -2,13 +2,14 @@
   "id": 153056431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910319,33.686197,-111.910319,33.686197",
     "geom:latitude":33.686197,
     "geom:longitude":-111.910319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21922 N 79th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880947,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153056431,
-    "wof:lastmodified":1449040466,
+    "wof:lastmodified":1466327622,
     "wof:name":"Catalana Custom Pools & Spas",
     "wof:parent_id":85880947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.910319,33.686197,-111.910319,33.686197],
+  "bbox": [
+    -111.910319,
+    33.686197,
+    -111.910319,
+    33.686197
+],
   "geometry": {"coordinates":[-111.910319,33.686197],"type":"Point"}
 }

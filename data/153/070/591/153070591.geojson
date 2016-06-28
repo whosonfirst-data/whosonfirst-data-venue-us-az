@@ -2,13 +2,14 @@
   "id": 153070591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.781021,33.392214,-110.781021,33.392214",
     "geom:latitude":33.392214,
     "geom:longitude":-110.781021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 S High St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153070591,
-    "wof:lastmodified":1449040559,
+    "wof:lastmodified":1466328550,
     "wof:name":"ABC E-Z Legal Forms & Packets",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.781021,33.392214,-110.781021,33.392214],
+  "bbox": [
+    -110.781021,
+    33.392214,
+    -110.781021,
+    33.392214
+],
   "geometry": {"coordinates":[-110.781021,33.392214],"type":"Point"}
 }

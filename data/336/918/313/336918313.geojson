@@ -2,13 +2,14 @@
   "id": 336918313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.820881,33.364273,-111.820881,33.364273",
     "geom:latitude":33.364273,
     "geom:longitude":-111.820881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 W Guadalupe Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336918313,
-    "wof:lastmodified":1448997654,
+    "wof:lastmodified":1466330607,
     "wof:name":"Moving Squad",
     "wof:parent_id":85852583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "piano"
     ]
 },
-  "bbox": [-111.820881,33.364273,-111.820881,33.364273],
+  "bbox": [
+    -111.820881,
+    33.364273,
+    -111.820881,
+    33.364273
+],
   "geometry": {"coordinates":[-111.820881,33.364273],"type":"Point"}
 }

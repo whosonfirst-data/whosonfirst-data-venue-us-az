@@ -2,13 +2,14 @@
   "id": 153009375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026579,33.664701,-112.026579,33.664701",
     "geom:latitude":33.664701,
     "geom:longitude":-112.026579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19601 N 26th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153009375,
-    "wof:lastmodified":1449040811,
+    "wof:lastmodified":1466326049,
     "wof:name":"Southwest Hot Deals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.026579,33.664701,-112.026579,33.664701],
+  "bbox": [
+    -112.026579,
+    33.664701,
+    -112.026579,
+    33.664701
+],
   "geometry": {"coordinates":[-112.026579,33.664701],"type":"Point"}
 }

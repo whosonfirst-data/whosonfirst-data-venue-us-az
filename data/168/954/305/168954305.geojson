@@ -2,13 +2,14 @@
   "id": 168954305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.272003,32.066096,-111.272003,32.066096",
     "geom:latitude":32.066096,
     "geom:longitude":-111.272003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10176 S Deadwood Ranch Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168954305,
-    "wof:lastmodified":1449028488,
+    "wof:lastmodified":1466330999,
     "wof:name":"Upholstery Specialist",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.272003,32.066096,-111.272003,32.066096],
+  "bbox": [
+    -111.272003,
+    32.066096,
+    -111.272003,
+    32.066096
+],
   "geometry": {"coordinates":[-111.272003,32.066096],"type":"Point"}
 }

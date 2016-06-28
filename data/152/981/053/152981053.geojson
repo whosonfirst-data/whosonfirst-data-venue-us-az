@@ -2,13 +2,14 @@
   "id": 152981053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023772,33.393515,-112.023772,33.393515",
     "geom:latitude":33.393515,
     "geom:longitude":-112.023772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2648 E Southern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811071,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152981053,
-    "wof:lastmodified":1449048976,
+    "wof:lastmodified":1466328975,
     "wof:name":"R B Homes",
     "wof:parent_id":85811071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023772,33.393515,-112.023772,33.393515],
-  "geometry": {"coordinates":[-112.023772,33.393515],"type":"Point"}
+  "bbox": [
+    -112.023772,
+    33.393515,
+    -112.023772,
+    33.393515
+],
+  "geometry": {"coordinates":[-112.02377199999999,33.393515],"type":"Point"}
 }

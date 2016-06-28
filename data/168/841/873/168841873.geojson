@@ -2,13 +2,14 @@
   "id": 168841873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.98554,32.25034,-110.98554,32.25034",
     "geom:latitude":32.25034,
     "geom:longitude":-110.98554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168841873,
-    "wof:lastmodified":1449027936,
+    "wof:lastmodified":1466327313,
     "wof:name":"Spectrum HR Systems Corp",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.98554,32.25034,-110.98554,32.25034],
+  "bbox": [
+    -110.98554,
+    32.25034,
+    -110.98554,
+    32.25034
+],
   "geometry": {"coordinates":[-110.98554,32.25034],"type":"Point"}
 }

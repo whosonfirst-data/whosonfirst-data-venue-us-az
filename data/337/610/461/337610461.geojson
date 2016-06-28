@@ -2,13 +2,14 @@
   "id": 337610461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.867238,33.619336,-111.867238,33.619336",
     "geom:latitude":33.619336,
     "geom:longitude":-111.867238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14700 N 100th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337610461,
-    "wof:lastmodified":1449027728,
+    "wof:lastmodified":1466327210,
     "wof:name":"Financial Federal Incorporated",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-111.867238,33.619336,-111.867238,33.619336],
+  "bbox": [
+    -111.867238,
+    33.619336,
+    -111.867238,
+    33.619336
+],
   "geometry": {"coordinates":[-111.867238,33.619336],"type":"Point"}
 }

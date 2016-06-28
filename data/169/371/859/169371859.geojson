@@ -2,13 +2,14 @@
   "id": 169371859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97824,32.277071,-110.97824,32.277071",
     "geom:latitude":32.277071,
     "geom:longitude":-110.97824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3847 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169371859,
-    "wof:lastmodified":1449035227,
+    "wof:lastmodified":1466333782,
     "wof:name":"Rubberized Coatings of America",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.97824,32.277071,-110.97824,32.277071],
+  "bbox": [
+    -110.97824,
+    32.277071,
+    -110.97824,
+    32.277071
+],
   "geometry": {"coordinates":[-110.97824,32.277071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320636623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091308,33.442865,-112.091308,33.442865",
     "geom:latitude":33.442865,
     "geom:longitude":-112.091308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 S 15th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320636623,
-    "wof:lastmodified":1449012750,
+    "wof:lastmodified":1466326698,
     "wof:name":"Fuelco",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "gas-liquefied"
     ]
 },
-  "bbox": [-112.091308,33.442865,-112.091308,33.442865],
+  "bbox": [
+    -112.091308,
+    33.442865,
+    -112.091308,
+    33.442865
+],
   "geometry": {"coordinates":[-112.091308,33.442865],"type":"Point"}
 }

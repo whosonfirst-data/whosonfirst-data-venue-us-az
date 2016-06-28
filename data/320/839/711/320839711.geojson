@@ -2,13 +2,14 @@
   "id": 320839711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105629,33.585774,-112.105629,33.585774",
     "geom:latitude":33.585774,
     "geom:longitude":-112.105629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2224 W Desert Cove Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320839711,
-    "wof:lastmodified":1449013497,
+    "wof:lastmodified":1466330348,
     "wof:name":"Burns Pest Elimination",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "bee"
     ]
 },
-  "bbox": [-112.105629,33.585774,-112.105629,33.585774],
-  "geometry": {"coordinates":[-112.105629,33.585774],"type":"Point"}
+  "bbox": [
+    -112.105629,
+    33.585774,
+    -112.105629,
+    33.585774
+],
+  "geometry": {"coordinates":[-112.10562899999999,33.585774],"type":"Point"}
 }

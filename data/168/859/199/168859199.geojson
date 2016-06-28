@@ -2,13 +2,14 @@
   "id": 168859199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939141,33.407326,-111.939141,33.407326",
     "geom:latitude":33.407326,
     "geom:longitude":-111.939141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 E Broadway Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881389,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168859199,
-    "wof:lastmodified":1449028323,
+    "wof:lastmodified":1466326505,
     "wof:name":"In & Out Cash",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.939141,33.407326,-111.939141,33.407326],
-  "geometry": {"coordinates":[-111.939141,33.407326],"type":"Point"}
+  "bbox": [
+    -111.939141,
+    33.407326,
+    -111.939141,
+    33.407326
+],
+  "geometry": {"coordinates":[-111.93914100000001,33.407326],"type":"Point"}
 }

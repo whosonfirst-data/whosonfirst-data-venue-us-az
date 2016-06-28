@@ -2,13 +2,14 @@
   "id": 353530301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.826282,33.277037,-111.826282,33.277037",
     "geom:latitude":33.277037,
     "geom:longitude":-111.826282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Germann Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353530301,
-    "wof:lastmodified":1449019619,
+    "wof:lastmodified":1466327706,
     "wof:name":"Ssc Auto Repair",
     "wof:parent_id":85876661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.826282,33.277037,-111.826282,33.277037],
-  "geometry": {"coordinates":[-111.826282,33.277037],"type":"Point"}
+  "bbox": [
+    -111.826282,
+    33.277037,
+    -111.826282,
+    33.277037
+],
+  "geometry": {"coordinates":[-111.82628200000001,33.277037],"type":"Point"}
 }

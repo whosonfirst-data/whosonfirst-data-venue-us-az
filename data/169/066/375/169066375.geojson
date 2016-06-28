@@ -2,13 +2,14 @@
   "id": 169066375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.688573,33.36502,-111.688573,33.36502",
     "geom:latitude":33.36502,
     "geom:longitude":-111.688573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4776 E Guadalupe Rd",
     "sg:city":"Higley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169066375,
-    "wof:lastmodified":1449033646,
+    "wof:lastmodified":1466329728,
     "wof:name":"Superstition Satellite & Sound",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.688573,33.36502,-111.688573,33.36502],
-  "geometry": {"coordinates":[-111.688573,33.36502],"type":"Point"}
+  "bbox": [
+    -111.688573,
+    33.36502,
+    -111.688573,
+    33.36502
+],
+  "geometry": {"coordinates":[-111.68857300000001,33.36502],"type":"Point"}
 }

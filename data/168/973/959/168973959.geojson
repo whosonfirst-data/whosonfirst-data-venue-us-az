@@ -2,13 +2,14 @@
   "id": 168973959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.922787,31.38335,-109.922787,31.38335",
     "geom:latitude":31.38335,
     "geom:longitude":-109.922787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 S Naco Hwy",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85826387
+        85633793,
+        85826387,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168973959,
-    "wof:lastmodified":1449028243,
+    "wof:lastmodified":1466331249,
     "wof:name":"Bisbee Congregation",
     "wof:parent_id":85826387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.922787,31.38335,-109.922787,31.38335],
+  "bbox": [
+    -109.922787,
+    31.38335,
+    -109.922787,
+    31.38335
+],
   "geometry": {"coordinates":[-109.922787,31.38335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169197017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.250162,33.50683,-112.250162,33.50683",
     "geom:latitude":33.50683,
     "geom:longitude":-112.250162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8741 W Pierson St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856669,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85856669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169197017,
-    "wof:lastmodified":1449035539,
+    "wof:lastmodified":1466332043,
     "wof:name":"Jfl Trading",
     "wof:parent_id":85856669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.250162,33.50683,-112.250162,33.50683],
+  "bbox": [
+    -112.250162,
+    33.50683,
+    -112.250162,
+    33.50683
+],
   "geometry": {"coordinates":[-112.250162,33.50683],"type":"Point"}
 }

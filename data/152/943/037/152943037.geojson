@@ -2,13 +2,14 @@
   "id": 152943037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.237165,33.631571,-112.237165,33.631571",
     "geom:latitude":33.631571,
     "geom:longitude":-112.237165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16101 N 83rd Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152943037,
-    "wof:lastmodified":1449045521,
+    "wof:lastmodified":1466326892,
     "wof:name":"Peoria Sports Complex Stadium",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.237165,33.631571,-112.237165,33.631571],
+  "bbox": [
+    -112.237165,
+    33.631571,
+    -112.237165,
+    33.631571
+],
   "geometry": {"coordinates":[-112.237165,33.631571],"type":"Point"}
 }

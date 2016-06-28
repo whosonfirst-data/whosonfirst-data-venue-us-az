@@ -2,13 +2,14 @@
   "id": 169311847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.671113,35.161314,-111.671113,35.161314",
     "geom:latitude":35.161314,
     "geom:longitude":-111.671113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 W Cattle Drive Trl",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169311847,
-    "wof:lastmodified":1449033465,
+    "wof:lastmodified":1466333126,
     "wof:name":"Whats Your Flavor Ice Cream",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.671113,35.161314,-111.671113,35.161314],
-  "geometry": {"coordinates":[-111.671113,35.161314],"type":"Point"}
+  "bbox": [
+    -111.671113,
+    35.161314,
+    -111.671113,
+    35.161314
+],
+  "geometry": {"coordinates":[-111.67111300000001,35.161314],"type":"Point"}
 }

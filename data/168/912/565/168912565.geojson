@@ -2,13 +2,14 @@
   "id": 168912565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.934612,32.126827,-110.934612,32.126827",
     "geom:latitude":32.126827,
     "geom:longitude":-110.934612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 S Tucson Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168912565,
-    "wof:lastmodified":1449028146,
+    "wof:lastmodified":1466329987,
     "wof:name":"Adobe Car & Van Rental",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.934612,32.126827,-110.934612,32.126827],
+  "bbox": [
+    -110.934612,
+    32.126827,
+    -110.934612,
+    32.126827
+],
   "geometry": {"coordinates":[-110.934612,32.126827],"type":"Point"}
 }

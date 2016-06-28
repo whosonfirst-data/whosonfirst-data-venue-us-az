@@ -2,13 +2,14 @@
   "id": 153003503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.343202,34.474791,-114.343202,34.474791",
     "geom:latitude":34.474791,
     "geom:longitude":-114.343202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1674 McCulloch Blvd N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153003503,
-    "wof:lastmodified":1449040796,
+    "wof:lastmodified":1466325732,
     "wof:name":"Net Superstore",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.343202,34.474791,-114.343202,34.474791],
-  "geometry": {"coordinates":[-114.343202,34.474791],"type":"Point"}
+  "bbox": [
+    -114.343202,
+    34.474791,
+    -114.343202,
+    34.474791
+],
+  "geometry": {"coordinates":[-114.34320200000001,34.474791],"type":"Point"}
 }

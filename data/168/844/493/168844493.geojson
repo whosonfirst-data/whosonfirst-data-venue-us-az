@@ -2,13 +2,14 @@
   "id": 168844493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008157,33.484719,-112.008157,33.484719",
     "geom:latitude":33.484719,
     "geom:longitude":-112.008157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 N 34th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168844493,
-    "wof:lastmodified":1449028106,
+    "wof:lastmodified":1466327407,
     "wof:name":"T&T Concrete Contractors Inc",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.008157,33.484719,-112.008157,33.484719],
+  "bbox": [
+    -112.008157,
+    33.484719,
+    -112.008157,
+    33.484719
+],
   "geometry": {"coordinates":[-112.008157,33.484719],"type":"Point"}
 }

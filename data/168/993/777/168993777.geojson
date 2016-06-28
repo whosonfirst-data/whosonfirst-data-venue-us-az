@@ -2,13 +2,14 @@
   "id": 168993777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.782412,33.391533,-110.782412,33.391533",
     "geom:latitude":33.391533,
     "geom:longitude":-110.782412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 S Broad St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168993777,
-    "wof:lastmodified":1449028119,
+    "wof:lastmodified":1466331503,
     "wof:name":"Fedex Ground Inc",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.782412,33.391533,-110.782412,33.391533],
-  "geometry": {"coordinates":[-110.782412,33.391533],"type":"Point"}
+  "bbox": [
+    -110.782412,
+    33.391533,
+    -110.782412,
+    33.391533
+],
+  "geometry": {"coordinates":[-110.78241199999999,33.391533],"type":"Point"}
 }

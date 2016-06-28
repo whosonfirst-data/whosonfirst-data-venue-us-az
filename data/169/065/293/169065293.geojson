@@ -2,13 +2,14 @@
   "id": 169065293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.873926,33.305928,-111.873926,33.305928",
     "geom:latitude":33.305928,
     "geom:longitude":-111.873926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 W Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876639,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169065293,
-    "wof:lastmodified":1449035926,
+    "wof:lastmodified":1466329338,
     "wof:name":"Crystal Springs Car Wash",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.873926,33.305928,-111.873926,33.305928],
+  "bbox": [
+    -111.873926,
+    33.305928,
+    -111.873926,
+    33.305928
+],
   "geometry": {"coordinates":[-111.873926,33.305928],"type":"Point"}
 }

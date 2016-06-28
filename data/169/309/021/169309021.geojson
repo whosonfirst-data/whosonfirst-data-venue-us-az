@@ -2,13 +2,14 @@
   "id": 169309021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953417,32.227699,-110.953417,32.227699",
     "geom:latitude":32.227699,
     "geom:longitude":-110.953417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 E 6th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169309021,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1466333041,
     "wof:name":"Belushes Bar & Grill",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953417,32.227699,-110.953417,32.227699],
+  "bbox": [
+    -110.953417,
+    32.227699,
+    -110.953417,
+    32.227699
+],
   "geometry": {"coordinates":[-110.953417,32.227699],"type":"Point"}
 }

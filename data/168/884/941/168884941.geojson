@@ -2,13 +2,14 @@
   "id": 168884941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.772625,32.219884,-110.772625,32.219884",
     "geom:latitude":32.219884,
     "geom:longitude":-110.772625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Houghton Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168884941,
-    "wof:lastmodified":1449028431,
+    "wof:lastmodified":1466328606,
     "wof:name":"Saguaro Physicians",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.772625,32.219884,-110.772625,32.219884],
-  "geometry": {"coordinates":[-110.772625,32.219884],"type":"Point"}
+  "bbox": [
+    -110.772625,
+    32.219884,
+    -110.772625,
+    32.219884
+],
+  "geometry": {"coordinates":[-110.77262500000001,32.219884],"type":"Point"}
 }

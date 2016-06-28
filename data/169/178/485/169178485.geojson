@@ -2,13 +2,14 @@
   "id": 169178485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94512,32.333209,-110.94512,32.333209",
     "geom:latitude":32.333209,
     "geom:longitude":-110.94512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 E Skyline Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.pcmaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169178485,
-    "wof:lastmodified":1449035052,
+    "wof:lastmodified":1466332165,
     "wof:name":"Pacific Coast Mortgage",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.94512,32.333209,-110.94512,32.333209],
+  "bbox": [
+    -110.94512,
+    32.333209,
+    -110.94512,
+    32.333209
+],
   "geometry": {"coordinates":[-110.94512,32.333209],"type":"Point"}
 }

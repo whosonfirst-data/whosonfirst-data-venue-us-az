@@ -2,13 +2,14 @@
   "id": 169411199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945832,33.35483,-111.945832,33.35483",
     "geom:latitude":33.35483,
     "geom:longitude":-111.945832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7305 S Kyrene Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824561,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85824561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169411199,
-    "wof:lastmodified":1449032839,
+    "wof:lastmodified":1466333712,
     "wof:name":"Dos Amgos Mxican Imports L L C",
     "wof:parent_id":85824561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.945832,33.35483,-111.945832,33.35483],
+  "bbox": [
+    -111.945832,
+    33.35483,
+    -111.945832,
+    33.35483
+],
   "geometry": {"coordinates":[-111.945832,33.35483],"type":"Point"}
 }

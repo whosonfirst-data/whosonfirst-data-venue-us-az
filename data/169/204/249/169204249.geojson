@@ -2,13 +2,14 @@
   "id": 169204249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.484134,34.559464,-112.484134,34.559464",
     "geom:latitude":34.559464,
     "geom:longitude":-112.484134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Iron Springs Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169204249,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1466332158,
     "wof:name":"New Frontiers Natural Mktplc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.484134,34.559464,-112.484134,34.559464],
+  "bbox": [
+    -112.484134,
+    34.559464,
+    -112.484134,
+    34.559464
+],
   "geometry": {"coordinates":[-112.484134,34.559464],"type":"Point"}
 }

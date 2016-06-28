@@ -2,13 +2,14 @@
   "id": 169350845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.387306,33.651429,-112.387306,33.651429",
     "geom:latitude":33.651429,
     "geom:longitude":-112.387306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18334 N Kokopelli Ct",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169350845,
-    "wof:lastmodified":1449034362,
+    "wof:lastmodified":1466333562,
     "wof:name":"Medi Smart Corporation",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.387306,33.651429,-112.387306,33.651429],
+  "bbox": [
+    -112.387306,
+    33.651429,
+    -112.387306,
+    33.651429
+],
   "geometry": {"coordinates":[-112.387306,33.651429],"type":"Point"}
 }

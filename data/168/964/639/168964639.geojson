@@ -2,13 +2,14 @@
   "id": 168964639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004118,33.477572,-112.004118,33.477572",
     "geom:latitude":33.477572,
     "geom:longitude":-112.004118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2613 N 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168964639,
-    "wof:lastmodified":1449028379,
+    "wof:lastmodified":1466331244,
     "wof:name":"Compess Supplies",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004118,33.477572,-112.004118,33.477572],
-  "geometry": {"coordinates":[-112.004118,33.477572],"type":"Point"}
+  "bbox": [
+    -112.004118,
+    33.477572,
+    -112.004118,
+    33.477572
+],
+  "geometry": {"coordinates":[-112.00411800000001,33.477572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353785063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.532276,31.348091,-109.532276,31.348091",
     "geom:latitude":31.348091,
     "geom:longitude":-109.532276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 N San Antonio Ave",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353785063,
-    "wof:lastmodified":1449020384,
+    "wof:lastmodified":1466330330,
     "wof:name":"H&R Block",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-109.532276,31.348091,-109.532276,31.348091],
+  "bbox": [
+    -109.532276,
+    31.348091,
+    -109.532276,
+    31.348091
+],
   "geometry": {"coordinates":[-109.532276,31.348091],"type":"Point"}
 }

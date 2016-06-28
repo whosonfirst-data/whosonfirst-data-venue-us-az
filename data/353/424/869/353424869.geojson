@@ -2,13 +2,14 @@
   "id": 353424869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909121,33.395095,-111.909121,33.395095",
     "geom:latitude":33.395095,
     "geom:longitude":-111.909121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 S Mcclintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":353424869,
-    "wof:lastmodified":1449020636,
+    "wof:lastmodified":1466326459,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "charity"
     ]
 },
-  "bbox": [-111.909121,33.395095,-111.909121,33.395095],
+  "bbox": [
+    -111.909121,
+    33.395095,
+    -111.909121,
+    33.395095
+],
   "geometry": {"coordinates":[-111.909121,33.395095],"type":"Point"}
 }

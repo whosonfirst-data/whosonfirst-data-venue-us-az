@@ -2,13 +2,14 @@
   "id": 153040163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137145,33.84649,-112.137145,33.84649",
     "geom:latitude":33.84649,
     "geom:longitude":-112.137145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39920 N Gavilan Peak Pkwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153040163,
-    "wof:lastmodified":1449040804,
+    "wof:lastmodified":1466326481,
     "wof:name":"Arizona-American Water Company",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.137145,33.84649,-112.137145,33.84649],
+  "bbox": [
+    -112.137145,
+    33.84649,
+    -112.137145,
+    33.84649
+],
   "geometry": {"coordinates":[-112.137145,33.84649],"type":"Point"}
 }

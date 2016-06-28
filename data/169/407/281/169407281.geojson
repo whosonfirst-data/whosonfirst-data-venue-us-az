@@ -2,13 +2,14 @@
   "id": 169407281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967636,32.250349,-110.967636,32.250349",
     "geom:latitude":32.250349,
     "geom:longitude":-110.967636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     "sg:website":"www.westernerproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169407281,
-    "wof:lastmodified":1449034524,
+    "wof:lastmodified":1466334038,
     "wof:name":"Westerner Products Inc",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.967636,32.250349,-110.967636,32.250349],
+  "bbox": [
+    -110.967636,
+    32.250349,
+    -110.967636,
+    32.250349
+],
   "geometry": {"coordinates":[-110.967636,32.250349],"type":"Point"}
 }

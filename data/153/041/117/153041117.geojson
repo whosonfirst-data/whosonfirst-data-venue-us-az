@@ -2,13 +2,14 @@
   "id": 153041117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.195599,33.583926,-112.195599,33.583926",
     "geom:latitude":33.583926,
     "geom:longitude":-112.195599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6318 W Christy Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843371,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85843371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153041117,
-    "wof:lastmodified":1449040504,
+    "wof:lastmodified":1466326550,
     "wof:name":"Straight & Narrow Co",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.195599,33.583926,-112.195599,33.583926],
+  "bbox": [
+    -112.195599,
+    33.583926,
+    -112.195599,
+    33.583926
+],
   "geometry": {"coordinates":[-112.195599,33.583926],"type":"Point"}
 }

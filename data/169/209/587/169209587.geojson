@@ -2,13 +2,14 @@
   "id": 169209587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190778,33.41065,-112.190778,33.41065",
     "geom:latitude":33.41065,
     "geom:longitude":-112.190778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6058 W Encinas Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169209587,
-    "wof:lastmodified":1449035603,
+    "wof:lastmodified":1466332233,
     "wof:name":"Custom Painted Ceilings",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.190778,33.41065,-112.190778,33.41065],
-  "geometry": {"coordinates":[-112.190778,33.41065],"type":"Point"}
+  "bbox": [
+    -112.190778,
+    33.41065,
+    -112.190778,
+    33.41065
+],
+  "geometry": {"coordinates":[-112.19077799999999,33.41065],"type":"Point"}
 }

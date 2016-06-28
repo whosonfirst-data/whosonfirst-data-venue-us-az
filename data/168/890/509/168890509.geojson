@@ -2,13 +2,14 @@
   "id": 168890509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922,32.482962,-110.922,32.482962",
     "geom:latitude":32.482962,
     "geom:longitude":-110.922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15270 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168890509,
-    "wof:lastmodified":1449027945,
+    "wof:lastmodified":1466328880,
     "wof:name":"Kelley's Coffee & Fudge Factry",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.922,32.482962,-110.922,32.482962],
+  "bbox": [
+    -110.922,
+    32.482962,
+    -110.922,
+    32.482962
+],
   "geometry": {"coordinates":[-110.922,32.482962],"type":"Point"}
 }

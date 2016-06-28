@@ -2,13 +2,14 @@
   "id": 153014875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.407586,33.118261,-111.407586,33.118261",
     "geom:latitude":33.118261,
     "geom:longitude":-111.407586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14765 E Arizona Farms Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153014875,
-    "wof:lastmodified":1449040569,
+    "wof:lastmodified":1466326559,
     "wof:name":"Big Dog Dairy Inc",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.407586,33.118261,-111.407586,33.118261],
-  "geometry": {"coordinates":[-111.407586,33.118261],"type":"Point"}
+  "bbox": [
+    -111.407586,
+    33.118261,
+    -111.407586,
+    33.118261
+],
+  "geometry": {"coordinates":[-111.40758599999999,33.118261],"type":"Point"}
 }

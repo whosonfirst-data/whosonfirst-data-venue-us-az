@@ -2,13 +2,14 @@
   "id": 152936881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.826236,32.284693,-110.826236,32.284693",
     "geom:latitude":32.284693,
     "geom:longitude":-110.826236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 N Sunset Cliff Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152936881,
-    "wof:lastmodified":1449045848,
+    "wof:lastmodified":1466326459,
     "wof:name":"Silicon Shark Computer",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.826236,32.284693,-110.826236,32.284693],
-  "geometry": {"coordinates":[-110.826236,32.284693],"type":"Point"}
+  "bbox": [
+    -110.826236,
+    32.284693,
+    -110.826236,
+    32.284693
+],
+  "geometry": {"coordinates":[-110.82623599999999,32.284693],"type":"Point"}
 }

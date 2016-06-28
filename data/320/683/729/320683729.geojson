@@ -2,13 +2,14 @@
   "id": 320683729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082483,33.509876,-112.082483,33.509876",
     "geom:latitude":33.509876,
     "geom:longitude":-112.082483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5025 N 7th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320683729,
-    "wof:lastmodified":1449012654,
+    "wof:lastmodified":1466327815,
     "wof:name":"Awesome Cleaners",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "house"
     ]
 },
-  "bbox": [-112.082483,33.509876,-112.082483,33.509876],
+  "bbox": [
+    -112.082483,
+    33.509876,
+    -112.082483,
+    33.509876
+],
   "geometry": {"coordinates":[-112.082483,33.509876],"type":"Point"}
 }

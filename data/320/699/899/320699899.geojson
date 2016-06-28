@@ -2,13 +2,14 @@
   "id": 320699899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102547,33.495024,-112.102547,33.495024",
     "geom:latitude":33.495024,
     "geom:longitude":-112.102547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320699899,
-    "wof:lastmodified":1449011765,
+    "wof:lastmodified":1466328065,
     "wof:name":"Pan American Elementary School",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.102547,33.495024,-112.102547,33.495024],
+  "bbox": [
+    -112.102547,
+    33.495024,
+    -112.102547,
+    33.495024
+],
   "geometry": {"coordinates":[-112.102547,33.495024],"type":"Point"}
 }

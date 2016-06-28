@@ -2,13 +2,14 @@
   "id": 169263669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.80131,32.235389,-110.80131,32.235389",
     "geom:latitude":32.235389,
     "geom:longitude":-110.80131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8880 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169263669,
-    "wof:lastmodified":1449035864,
+    "wof:lastmodified":1466332645,
     "wof:name":"Mountain Pacific Mortgage Comp",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.80131,32.235389,-110.80131,32.235389],
+  "bbox": [
+    -110.80131,
+    32.235389,
+    -110.80131,
+    32.235389
+],
   "geometry": {"coordinates":[-110.80131,32.235389],"type":"Point"}
 }

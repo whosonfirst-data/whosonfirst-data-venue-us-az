@@ -2,13 +2,14 @@
   "id": 169333313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.9609,32.259705,-110.9609,32.259705",
     "geom:latitude":32.259705,
     "geom:longitude":-110.9609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2976 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169333313,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1466333340,
     "wof:name":"D C Auto Sales",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.9609,32.259705,-110.9609,32.259705],
+  "bbox": [
+    -110.9609,
+    32.259705,
+    -110.9609,
+    32.259705
+],
   "geometry": {"coordinates":[-110.9609,32.259705],"type":"Point"}
 }

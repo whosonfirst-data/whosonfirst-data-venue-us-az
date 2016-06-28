@@ -2,13 +2,14 @@
   "id": 336700131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.984397,33.358533,-111.984397,33.358533",
     "geom:latitude":33.358533,
     "geom:longitude":-111.984397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4346 E Mcneil St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336700131,
-    "wof:lastmodified":1448997924,
+    "wof:lastmodified":1466328027,
     "wof:name":"Janet Neisewander",
     "wof:parent_id":85808471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-111.984397,33.358533,-111.984397,33.358533],
+  "bbox": [
+    -111.984397,
+    33.358533,
+    -111.984397,
+    33.358533
+],
   "geometry": {"coordinates":[-111.984397,33.358533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169207321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925178,33.363677,-111.925178,33.363677",
     "geom:latitude":33.363677,
     "geom:longitude":-111.925178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"959 E Guadalupe Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881385,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169207321,
-    "wof:lastmodified":1449034991,
+    "wof:lastmodified":1466332169,
     "wof:name":"Sun Flower Florist",
     "wof:parent_id":85881385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.925178,33.363677,-111.925178,33.363677],
+  "bbox": [
+    -111.925178,
+    33.363677,
+    -111.925178,
+    33.363677
+],
   "geometry": {"coordinates":[-111.925178,33.363677],"type":"Point"}
 }

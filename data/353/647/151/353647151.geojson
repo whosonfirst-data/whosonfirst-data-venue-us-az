@@ -2,13 +2,14 @@
   "id": 353647151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358021,33.474117,-112.358021,33.474117",
     "geom:latitude":33.474117,
     "geom:longitude":-112.358021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3361 N Litchfield Road",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353647151,
-    "wof:lastmodified":1449019466,
+    "wof:lastmodified":1466329357,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-112.358021,33.474117,-112.358021,33.474117],
-  "geometry": {"coordinates":[-112.358021,33.474117],"type":"Point"}
+  "bbox": [
+    -112.358021,
+    33.474117,
+    -112.358021,
+    33.474117
+],
+  "geometry": {"coordinates":[-112.35802099999999,33.474117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169400413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939942,33.777529,-111.939942,33.777529",
     "geom:latitude":33.777529,
     "geom:longitude":-111.939942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6540 E Ashler Hills Dr",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.cindyfoster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169400413,
-    "wof:lastmodified":1449032988,
+    "wof:lastmodified":1466333591,
     "wof:name":"Education Solutions & Assoc",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.939942,33.777529,-111.939942,33.777529],
+  "bbox": [
+    -111.939942,
+    33.777529,
+    -111.939942,
+    33.777529
+],
   "geometry": {"coordinates":[-111.939942,33.777529],"type":"Point"}
 }

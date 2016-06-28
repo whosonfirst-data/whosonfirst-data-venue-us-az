@@ -2,13 +2,14 @@
   "id": 336716203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.146791,33.570795,-112.146791,33.570795",
     "geom:latitude":33.570795,
     "geom:longitude":-112.146791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 W Mission Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336716203,
-    "wof:lastmodified":1448997088,
+    "wof:lastmodified":1466328282,
     "wof:name":"Grime Busters Pressure Washing",
     "wof:parent_id":85877825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.146791,33.570795,-112.146791,33.570795],
-  "geometry": {"coordinates":[-112.146791,33.570795],"type":"Point"}
+  "bbox": [
+    -112.146791,
+    33.570795,
+    -112.146791,
+    33.570795
+],
+  "geometry": {"coordinates":[-112.14679099999999,33.570795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336710573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.994468,33.720854,-111.994468,33.720854",
     "geom:latitude":33.720854,
     "geom:longitude":-111.994468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4129 E Prickly Pear Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336710573,
-    "wof:lastmodified":1448996992,
+    "wof:lastmodified":1466328404,
     "wof:name":"Means Telecom",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-111.994468,33.720854,-111.994468,33.720854],
+  "bbox": [
+    -111.994468,
+    33.720854,
+    -111.994468,
+    33.720854
+],
   "geometry": {"coordinates":[-111.994468,33.720854],"type":"Point"}
 }

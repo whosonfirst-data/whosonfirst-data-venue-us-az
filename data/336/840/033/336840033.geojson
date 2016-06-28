@@ -2,13 +2,14 @@
   "id": 336840033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861145,33.306227,-111.861145,33.306227",
     "geom:latitude":33.306227,
     "geom:longitude":-111.861145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1076 W Chandler Blvd Ste 109",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336840033,
-    "wof:lastmodified":1448997791,
+    "wof:lastmodified":1466329824,
     "wof:name":"Troon Pain Mangement",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.861145,33.306227,-111.861145,33.306227],
-  "geometry": {"coordinates":[-111.861145,33.306227],"type":"Point"}
+  "bbox": [
+    -111.861145,
+    33.306227,
+    -111.861145,
+    33.306227
+],
+  "geometry": {"coordinates":[-111.86114499999999,33.306227],"type":"Point"}
 }

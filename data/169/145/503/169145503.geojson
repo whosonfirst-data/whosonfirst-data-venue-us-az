@@ -2,13 +2,14 @@
   "id": 169145503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183033,33.524257,-112.183033,33.524257",
     "geom:latitude":33.524257,
     "geom:longitude":-112.183033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 N 57th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169145503,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466331706,
     "wof:name":"Special Maching Technology",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183033,33.524257,-112.183033,33.524257],
-  "geometry": {"coordinates":[-112.183033,33.524257],"type":"Point"}
+  "bbox": [
+    -112.183033,
+    33.524257,
+    -112.183033,
+    33.524257
+],
+  "geometry": {"coordinates":[-112.18303299999999,33.524257],"type":"Point"}
 }

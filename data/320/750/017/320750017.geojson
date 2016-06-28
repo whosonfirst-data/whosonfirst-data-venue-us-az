@@ -2,13 +2,14 @@
   "id": 320750017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9608,33.489658,-111.9608,33.489658",
     "geom:latitude":33.489658,
     "geom:longitude":-111.9608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3641 N 56th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320750017,
-    "wof:lastmodified":1449013505,
+    "wof:lastmodified":1466328860,
     "wof:name":"Prince of Peace Lutheran Church",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-111.9608,33.489658,-111.9608,33.489658],
-  "geometry": {"coordinates":[-111.9608,33.489658],"type":"Point"}
+  "bbox": [
+    -111.9608,
+    33.489658,
+    -111.9608,
+    33.489658
+],
+  "geometry": {"coordinates":[-111.96080000000001,33.489658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169394629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.447286,34.73843,-112.447286,34.73843",
     "geom:latitude":34.73843,
     "geom:longitude":-112.447286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 E Rd 1 S",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169394629,
-    "wof:lastmodified":1449033330,
+    "wof:lastmodified":1466333972,
     "wof:name":"Tricia Miller Inc",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.447286,34.73843,-112.447286,34.73843],
-  "geometry": {"coordinates":[-112.447286,34.73843],"type":"Point"}
+  "bbox": [
+    -112.447286,
+    34.73843,
+    -112.447286,
+    34.73843
+],
+  "geometry": {"coordinates":[-112.44728600000001,34.73843],"type":"Point"}
 }

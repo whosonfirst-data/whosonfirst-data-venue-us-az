@@ -2,13 +2,14 @@
   "id": 336676755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056728,33.368735,-112.056728,33.368735",
     "geom:latitude":33.368735,
     "geom:longitude":-112.056728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 E Ardmore Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":336676755,
-    "wof:lastmodified":1448997616,
+    "wof:lastmodified":1466327603,
     "wof:name":"A-Page-4-U2",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "signaling"
     ]
 },
-  "bbox": [-112.056728,33.368735,-112.056728,33.368735],
-  "geometry": {"coordinates":[-112.056728,33.368735],"type":"Point"}
+  "bbox": [
+    -112.056728,
+    33.368735,
+    -112.056728,
+    33.368735
+],
+  "geometry": {"coordinates":[-112.05672800000001,33.368735],"type":"Point"}
 }

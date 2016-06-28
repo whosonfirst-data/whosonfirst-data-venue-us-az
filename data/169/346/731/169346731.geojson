@@ -2,13 +2,14 @@
   "id": 169346731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038903,33.449229,-112.038903,33.449229",
     "geom:latitude":33.449229,
     "geom:longitude":-112.038903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 N 20th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     "sg:website":"www.performanceradiator.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169346731,
-    "wof:lastmodified":1449032669,
+    "wof:lastmodified":1466333544,
     "wof:name":"Performance Radiator Inc",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.038903,33.449229,-112.038903,33.449229],
+  "bbox": [
+    -112.038903,
+    33.449229,
+    -112.038903,
+    33.449229
+],
   "geometry": {"coordinates":[-112.038903,33.449229],"type":"Point"}
 }

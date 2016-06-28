@@ -2,13 +2,14 @@
   "id": 169062925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.819854,32.206348,-110.819854,32.206348",
     "geom:latitude":32.206348,
     "geom:longitude":-110.819854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8190 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169062925,
-    "wof:lastmodified":1449035718,
+    "wof:lastmodified":1466329373,
     "wof:name":"Naughton's",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.819854,32.206348,-110.819854,32.206348],
-  "geometry": {"coordinates":[-110.819854,32.206348],"type":"Point"}
+  "bbox": [
+    -110.819854,
+    32.206348,
+    -110.819854,
+    32.206348
+],
+  "geometry": {"coordinates":[-110.81985400000001,32.206348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169396719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.399241,33.611493,-112.399241,33.611493",
     "geom:latitude":33.611493,
     "geom:longitude":-112.399241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15744 W Redfield Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169396719,
-    "wof:lastmodified":1449034852,
+    "wof:lastmodified":1466333976,
     "wof:name":"Pamela Sears Law Office",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.399241,33.611493,-112.399241,33.611493],
+  "bbox": [
+    -112.399241,
+    33.611493,
+    -112.399241,
+    33.611493
+],
   "geometry": {"coordinates":[-112.399241,33.611493],"type":"Point"}
 }

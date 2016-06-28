@@ -2,13 +2,14 @@
   "id": 169327147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909652,32.238862,-110.909652,32.238862",
     "geom:latitude":32.238862,
     "geom:longitude":-110.909652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 N Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169327147,
-    "wof:lastmodified":1449032928,
+    "wof:lastmodified":1466333264,
     "wof:name":"Quik Mart 18",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909652,32.238862,-110.909652,32.238862],
-  "geometry": {"coordinates":[-110.909652,32.238862],"type":"Point"}
+  "bbox": [
+    -110.909652,
+    32.238862,
+    -110.909652,
+    32.238862
+],
+  "geometry": {"coordinates":[-110.90965199999999,32.238862],"type":"Point"}
 }

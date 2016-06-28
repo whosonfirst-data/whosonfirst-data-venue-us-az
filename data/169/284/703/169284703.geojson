@@ -2,13 +2,14 @@
   "id": 169284703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.288979,33.693624,-112.288979,33.693624",
     "geom:latitude":33.693624,
     "geom:longitude":-112.288979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23174 N 106th Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169284703,
-    "wof:lastmodified":1449034734,
+    "wof:lastmodified":1466332888,
     "wof:name":"Phoenix Carpet Svc",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.288979,33.693624,-112.288979,33.693624],
+  "bbox": [
+    -112.288979,
+    33.693624,
+    -112.288979,
+    33.693624
+],
   "geometry": {"coordinates":[-112.288979,33.693624],"type":"Point"}
 }

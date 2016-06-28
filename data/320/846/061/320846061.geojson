@@ -2,13 +2,14 @@
   "id": 320846061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.150362,33.59634,-112.150362,33.59634",
     "geom:latitude":33.59634,
     "geom:longitude":-112.150362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4212 W Cactus Rd Ste 1114",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320846061,
-    "wof:lastmodified":1449014126,
+    "wof:lastmodified":1466330241,
     "wof:name":"Water-N-Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "companies-bottled"
     ]
 },
-  "bbox": [-112.150362,33.59634,-112.150362,33.59634],
+  "bbox": [
+    -112.150362,
+    33.59634,
+    -112.150362,
+    33.59634
+],
   "geometry": {"coordinates":[-112.150362,33.59634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336627989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963333,33.445674,-111.963333,33.445674",
     "geom:latitude":33.445674,
     "geom:longitude":-111.963333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5454 E Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336627989,
-    "wof:lastmodified":1448998040,
+    "wof:lastmodified":1466326483,
     "wof:name":"Gma Manufacturing",
     "wof:parent_id":85834573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.963333,33.445674,-111.963333,33.445674],
-  "geometry": {"coordinates":[-111.963333,33.445674],"type":"Point"}
+  "bbox": [
+    -111.963333,
+    33.445674,
+    -111.963333,
+    33.445674
+],
+  "geometry": {"coordinates":[-111.96333300000001,33.445674],"type":"Point"}
 }

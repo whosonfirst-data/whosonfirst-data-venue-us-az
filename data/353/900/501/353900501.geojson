@@ -2,13 +2,14 @@
   "id": 353900501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010905,34.743136,-112.010905,34.743136",
     "geom:latitude":34.743136,
     "geom:longitude":-112.010905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Main St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353900501,
-    "wof:lastmodified":1449019353,
+    "wof:lastmodified":1466330992,
     "wof:name":"Navarro's Tire",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.010905,34.743136,-112.010905,34.743136],
-  "geometry": {"coordinates":[-112.010905,34.743136],"type":"Point"}
+  "bbox": [
+    -112.010905,
+    34.743136,
+    -112.010905,
+    34.743136
+],
+  "geometry": {"coordinates":[-112.01090499999999,34.743136],"type":"Point"}
 }

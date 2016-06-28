@@ -2,13 +2,14 @@
   "id": 353599177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.197319,33.616218,-112.197319,33.616218",
     "geom:latitude":33.616218,
     "geom:longitude":-112.197319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6390 W Crocus Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353599177,
-    "wof:lastmodified":1449019443,
+    "wof:lastmodified":1466328506,
     "wof:name":"Gce West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "testing"
     ]
 },
-  "bbox": [-112.197319,33.616218,-112.197319,33.616218],
-  "geometry": {"coordinates":[-112.197319,33.616218],"type":"Point"}
+  "bbox": [
+    -112.197319,
+    33.616218,
+    -112.197319,
+    33.616218
+],
+  "geometry": {"coordinates":[-112.19731899999999,33.616218],"type":"Point"}
 }

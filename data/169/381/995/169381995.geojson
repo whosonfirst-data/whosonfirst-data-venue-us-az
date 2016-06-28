@@ -2,13 +2,14 @@
   "id": 169381995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000185,33.402054,-112.000185,33.402054",
     "geom:latitude":33.402054,
     "geom:longitude":-112.000185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4829 S 38th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169381995,
-    "wof:lastmodified":1449032948,
+    "wof:lastmodified":1466333894,
     "wof:name":"Carroll Shelby Ent",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.000185,33.402054,-112.000185,33.402054],
+  "bbox": [
+    -112.000185,
+    33.402054,
+    -112.000185,
+    33.402054
+],
   "geometry": {"coordinates":[-112.000185,33.402054],"type":"Point"}
 }

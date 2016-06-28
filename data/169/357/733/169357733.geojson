@@ -2,13 +2,14 @@
   "id": 169357733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.236896,33.440911,-112.236896,33.440911",
     "geom:latitude":33.440911,
     "geom:longitude":-112.236896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 W Sherman St",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169357733,
-    "wof:lastmodified":1449035549,
+    "wof:lastmodified":1466333657,
     "wof:name":"Cactus Surfacing Solutions",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.236896,33.440911,-112.236896,33.440911],
+  "bbox": [
+    -112.236896,
+    33.440911,
+    -112.236896,
+    33.440911
+],
   "geometry": {"coordinates":[-112.236896,33.440911],"type":"Point"}
 }

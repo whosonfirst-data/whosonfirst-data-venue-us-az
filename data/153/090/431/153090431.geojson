@@ -2,13 +2,14 @@
   "id": 153090431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976194,33.334394,-111.976194,33.334394",
     "geom:latitude":33.334394,
     "geom:longitude":-111.976194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 E Warner Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     "sg:website":"www.mesapeds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814393,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
-        85840707,
-        85917479
+        85814393,
+        85917479,
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":153090431,
-    "wof:lastmodified":1449040717,
+    "wof:lastmodified":1466329523,
     "wof:name":"Mesa Pediatrics Pro Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976194,33.334394,-111.976194,33.334394],
-  "geometry": {"coordinates":[-111.976194,33.334394],"type":"Point"}
+  "bbox": [
+    -111.976194,
+    33.334394,
+    -111.976194,
+    33.334394
+],
+  "geometry": {"coordinates":[-111.97619400000001,33.334394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168956699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842773,33.862285,-111.842773,33.862285",
     "geom:latitude":33.862285,
     "geom:longitude":-111.842773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11049 E Tamarisk Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880939,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":168956699,
-    "wof:lastmodified":1449027901,
+    "wof:lastmodified":1466331157,
     "wof:name":"Jk Sk Inc",
     "wof:parent_id":85880939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.842773,33.862285,-111.842773,33.862285],
-  "geometry": {"coordinates":[-111.842773,33.862285],"type":"Point"}
+  "bbox": [
+    -111.842773,
+    33.862285,
+    -111.842773,
+    33.862285
+],
+  "geometry": {"coordinates":[-111.84277299999999,33.862285],"type":"Point"}
 }

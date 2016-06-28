@@ -2,13 +2,14 @@
   "id": 320619257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069252,33.433153,-112.069252,33.433153",
     "geom:latitude":33.433153,
     "geom:longitude":-112.069252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 E Pima St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320619257,
-    "wof:lastmodified":1449011925,
+    "wof:lastmodified":1466326236,
     "wof:name":"R3 Glass",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.069252,33.433153,-112.069252,33.433153],
-  "geometry": {"coordinates":[-112.069252,33.433153],"type":"Point"}
+  "bbox": [
+    -112.069252,
+    33.433153,
+    -112.069252,
+    33.433153
+],
+  "geometry": {"coordinates":[-112.06925200000001,33.433153],"type":"Point"}
 }

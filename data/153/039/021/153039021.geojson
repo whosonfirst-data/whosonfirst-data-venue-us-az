@@ -2,13 +2,14 @@
   "id": 153039021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.990909,32.250247,-110.990909,32.250247",
     "geom:latitude":32.250247,
     "geom:longitude":-110.990909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.granitetransformations.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153039021,
-    "wof:lastmodified":1449040763,
+    "wof:lastmodified":1466326397,
     "wof:name":"Granite Transformations-Tucson",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.990909,32.250247,-110.990909,32.250247],
+  "bbox": [
+    -110.990909,
+    32.250247,
+    -110.990909,
+    32.250247
+],
   "geometry": {"coordinates":[-110.990909,32.250247],"type":"Point"}
 }

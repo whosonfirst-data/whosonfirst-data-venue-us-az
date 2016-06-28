@@ -2,13 +2,14 @@
   "id": 320857673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029243,33.604117,-112.029243,33.604117",
     "geom:latitude":33.604117,
     "geom:longitude":-112.029243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13002 N Victor Hugo Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320857673,
-    "wof:lastmodified":1449013688,
+    "wof:lastmodified":1466330611,
     "wof:name":"New Weston Arizona",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "gardener"
     ]
 },
-  "bbox": [-112.029243,33.604117,-112.029243,33.604117],
-  "geometry": {"coordinates":[-112.029243,33.604117],"type":"Point"}
+  "bbox": [
+    -112.029243,
+    33.604117,
+    -112.029243,
+    33.604117
+],
+  "geometry": {"coordinates":[-112.02924299999999,33.604117],"type":"Point"}
 }

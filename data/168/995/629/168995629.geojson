@@ -2,13 +2,14 @@
   "id": 168995629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.097409,33.69209,-112.097409,33.69209",
     "geom:latitude":33.69209,
     "geom:longitude":-112.097409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25225 N 18th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168995629,
-    "wof:lastmodified":1449028507,
+    "wof:lastmodified":1466331748,
     "wof:name":"Bill's Pest & Termite Co",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.097409,33.69209,-112.097409,33.69209],
+  "bbox": [
+    -112.097409,
+    33.69209,
+    -112.097409,
+    33.69209
+],
   "geometry": {"coordinates":[-112.097409,33.69209],"type":"Point"}
 }

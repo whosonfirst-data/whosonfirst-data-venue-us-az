@@ -2,13 +2,14 @@
   "id": 153040579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156443,35.21919,-114.156443,35.21919",
     "geom:latitude":35.21919,
     "geom:longitude":-114.156443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3659 US Hwy 68",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153040579,
-    "wof:lastmodified":1449040801,
+    "wof:lastmodified":1466326510,
     "wof:name":"Trophy Mart",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.156443,35.21919,-114.156443,35.21919],
+  "bbox": [
+    -114.156443,
+    35.21919,
+    -114.156443,
+    35.21919
+],
   "geometry": {"coordinates":[-114.156443,35.21919],"type":"Point"}
 }

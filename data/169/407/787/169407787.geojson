@@ -2,13 +2,14 @@
   "id": 169407787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.772774,32.220076,-110.772774,32.220076",
     "geom:latitude":32.220076,
     "geom:longitude":-110.772774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Houghton Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169407787,
-    "wof:lastmodified":1449034523,
+    "wof:lastmodified":1466334087,
     "wof:name":"Paloverde Scientific",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.772774,32.220076,-110.772774,32.220076],
+  "bbox": [
+    -110.772774,
+    32.220076,
+    -110.772774,
+    32.220076
+],
   "geometry": {"coordinates":[-110.772774,32.220076],"type":"Point"}
 }

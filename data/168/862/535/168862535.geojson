@@ -2,13 +2,14 @@
   "id": 168862535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173342,33.562838,-112.173342,33.562838",
     "geom:latitude":33.562838,
     "geom:longitude":-112.173342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 N 53rd Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858249,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85858249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168862535,
-    "wof:lastmodified":1449028618,
+    "wof:lastmodified":1466326807,
     "wof:name":"Denise Blau",
     "wof:parent_id":85858249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173342,33.562838,-112.173342,33.562838],
-  "geometry": {"coordinates":[-112.173342,33.562838],"type":"Point"}
+  "bbox": [
+    -112.173342,
+    33.562838,
+    -112.173342,
+    33.562838
+],
+  "geometry": {"coordinates":[-112.17334200000001,33.562838],"type":"Point"}
 }

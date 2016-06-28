@@ -2,13 +2,14 @@
   "id": 320636625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08593,33.446011,-112.08593,33.446011",
     "geom:latitude":33.446011,
     "geom:longitude":-112.08593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 W Madison",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320636625,
-    "wof:lastmodified":1449012749,
+    "wof:lastmodified":1466326698,
     "wof:name":"ResellElectronics",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "security-systems"
     ]
 },
-  "bbox": [-112.08593,33.446011,-112.08593,33.446011],
+  "bbox": [
+    -112.08593,
+    33.446011,
+    -112.08593,
+    33.446011
+],
   "geometry": {"coordinates":[-112.08593,33.446011],"type":"Point"}
 }

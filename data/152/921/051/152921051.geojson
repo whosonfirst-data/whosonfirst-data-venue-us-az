@@ -2,13 +2,14 @@
   "id": 152921051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073781,33.486255,-112.073781,33.486255",
     "geom:latitude":33.486255,
     "geom:longitude":-112.073781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cuefinancial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152921051,
-    "wof:lastmodified":1449047265,
+    "wof:lastmodified":1466327065,
     "wof:name":"Cue Financial Group Inc",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073781,33.486255,-112.073781,33.486255],
+  "bbox": [
+    -112.073781,
+    33.486255,
+    -112.073781,
+    33.486255
+],
   "geometry": {"coordinates":[-112.073781,33.486255],"type":"Point"}
 }

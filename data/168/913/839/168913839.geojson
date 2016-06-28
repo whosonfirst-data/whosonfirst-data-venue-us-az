@@ -2,13 +2,14 @@
   "id": 168913839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.306568,34.48121,-114.306568,34.48121",
     "geom:latitude":34.48121,
     "geom:longitude":-114.306568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 Holiday Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168913839,
-    "wof:lastmodified":1449028065,
+    "wof:lastmodified":1466330055,
     "wof:name":"New Era Carpet & Upholstery",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.306568,34.48121,-114.306568,34.48121],
+  "bbox": [
+    -114.306568,
+    34.48121,
+    -114.306568,
+    34.48121
+],
   "geometry": {"coordinates":[-114.306568,34.48121],"type":"Point"}
 }

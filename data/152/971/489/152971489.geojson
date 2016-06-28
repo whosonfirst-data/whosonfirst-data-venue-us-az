@@ -2,13 +2,14 @@
   "id": 152971489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.949663,34.135001,-109.949663,34.135001",
     "geom:latitude":34.135001,
     "geom:longitude":-109.949663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 E White Mountain Blvd",
     "sg:city":"Pinetop",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152971489,
-    "wof:lastmodified":1449046638,
+    "wof:lastmodified":1466328744,
     "wof:name":"Johnny Angels",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.949663,34.135001,-109.949663,34.135001],
+  "bbox": [
+    -109.949663,
+    34.135001,
+    -109.949663,
+    34.135001
+],
   "geometry": {"coordinates":[-109.949663,34.135001],"type":"Point"}
 }

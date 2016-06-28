@@ -2,13 +2,14 @@
   "id": 169157093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.180126,33.6287,-112.180126,33.6287",
     "geom:latitude":33.6287,
     "geom:longitude":-112.180126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 W Tierra Buena Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877831,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169157093,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466331775,
     "wof:name":"Cools Tile LLC",
     "wof:parent_id":85877831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.180126,33.6287,-112.180126,33.6287],
+  "bbox": [
+    -112.180126,
+    33.6287,
+    -112.180126,
+    33.6287
+],
   "geometry": {"coordinates":[-112.180126,33.6287],"type":"Point"}
 }

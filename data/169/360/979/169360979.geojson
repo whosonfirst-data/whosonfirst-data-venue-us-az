@@ -2,13 +2,14 @@
   "id": 169360979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06403,33.509887,-112.06403,33.509887",
     "geom:latitude":33.509887,
     "geom:longitude":-112.06403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 N 8th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169360979,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1466333684,
     "wof:name":"Swan Financial Services",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.06403,33.509887,-112.06403,33.509887],
+  "bbox": [
+    -112.06403,
+    33.509887,
+    -112.06403,
+    33.509887
+],
   "geometry": {"coordinates":[-112.06403,33.509887],"type":"Point"}
 }

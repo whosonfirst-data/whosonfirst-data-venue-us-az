@@ -2,13 +2,14 @@
   "id": 169253381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.819495,32.222399,-110.819495,32.222399",
     "geom:latitude":32.222399,
     "geom:longitude":-110.819495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 N Maguire Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169253381,
-    "wof:lastmodified":1449035546,
+    "wof:lastmodified":1466332532,
     "wof:name":"Barber Shop Quartet Society",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.819495,32.222399,-110.819495,32.222399],
+  "bbox": [
+    -110.819495,
+    32.222399,
+    -110.819495,
+    32.222399
+],
   "geometry": {"coordinates":[-110.819495,32.222399],"type":"Point"}
 }

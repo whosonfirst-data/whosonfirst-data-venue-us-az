@@ -2,13 +2,14 @@
   "id": 169120999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.290865,33.619896,-112.290865,33.619896",
     "geom:latitude":33.619896,
     "geom:longitude":-112.290865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14814 N del Webb Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169120999,
-    "wof:lastmodified":1449035491,
+    "wof:lastmodified":1466331355,
     "wof:name":"Desert Sun Computer Company",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.290865,33.619896,-112.290865,33.619896],
+  "bbox": [
+    -112.290865,
+    33.619896,
+    -112.290865,
+    33.619896
+],
   "geometry": {"coordinates":[-112.290865,33.619896],"type":"Point"}
 }

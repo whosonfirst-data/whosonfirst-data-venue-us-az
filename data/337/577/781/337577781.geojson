@@ -2,13 +2,14 @@
   "id": 337577781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.831725,33.58508,-111.831725,33.58508",
     "geom:latitude":33.58508,
     "geom:longitude":-111.831725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10921 N 115th St Apt 1011",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337577781,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1466326915,
     "wof:name":"Jamille Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-111.831725,33.58508,-111.831725,33.58508],
-  "geometry": {"coordinates":[-111.831725,33.58508],"type":"Point"}
+  "bbox": [
+    -111.831725,
+    33.58508,
+    -111.831725,
+    33.58508
+],
+  "geometry": {"coordinates":[-111.83172500000001,33.58508],"type":"Point"}
 }

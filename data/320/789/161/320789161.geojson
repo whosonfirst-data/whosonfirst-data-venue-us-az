@@ -2,13 +2,14 @@
   "id": 320789161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096576,33.538575,-112.096576,33.538575",
     "geom:latitude":33.538575,
     "geom:longitude":-112.096576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 W Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320789161,
-    "wof:lastmodified":1449012939,
+    "wof:lastmodified":1466329707,
     "wof:name":"Goot's Pharmerica",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.096576,33.538575,-112.096576,33.538575],
+  "bbox": [
+    -112.096576,
+    33.538575,
+    -112.096576,
+    33.538575
+],
   "geometry": {"coordinates":[-112.096576,33.538575],"type":"Point"}
 }

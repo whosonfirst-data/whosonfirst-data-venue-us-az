@@ -2,13 +2,14 @@
   "id": 153053593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.99194,33.65333,-111.99194,33.65333",
     "geom:latitude":33.65333,
     "geom:longitude":-111.99194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 E Bluefield Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843785,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153053593,
-    "wof:lastmodified":1449040421,
+    "wof:lastmodified":1466327424,
     "wof:name":"Precision Digs",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.99194,33.65333,-111.99194,33.65333],
+  "bbox": [
+    -111.99194,
+    33.65333,
+    -111.99194,
+    33.65333
+],
   "geometry": {"coordinates":[-111.99194,33.65333],"type":"Point"}
 }

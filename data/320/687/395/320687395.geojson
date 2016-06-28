@@ -2,13 +2,14 @@
   "id": 320687395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065008,33.522421,-112.065008,33.522421",
     "geom:latitude":33.522421,
     "geom:longitude":-112.065008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5829 N 7th St Ste 2A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320687395,
-    "wof:lastmodified":1449012306,
+    "wof:lastmodified":1466327847,
     "wof:name":"Phoenix Church Of God",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-112.065008,33.522421,-112.065008,33.522421],
-  "geometry": {"coordinates":[-112.065008,33.522421],"type":"Point"}
+  "bbox": [
+    -112.065008,
+    33.522421,
+    -112.065008,
+    33.522421
+],
+  "geometry": {"coordinates":[-112.06500800000001,33.522421],"type":"Point"}
 }

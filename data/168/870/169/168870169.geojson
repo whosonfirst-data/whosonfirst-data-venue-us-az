@@ -2,13 +2,14 @@
   "id": 168870169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910983,34.640861,-111.910983,34.640861",
     "geom:latitude":34.640861,
     "geom:longitude":-111.910983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3454 W Middle Verde Rd",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168870169,
-    "wof:lastmodified":1449027965,
+    "wof:lastmodified":1466327909,
     "wof:name":"Realty Experts Inc",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.910983,34.640861,-111.910983,34.640861],
+  "bbox": [
+    -111.910983,
+    34.640861,
+    -111.910983,
+    34.640861
+],
   "geometry": {"coordinates":[-111.910983,34.640861],"type":"Point"}
 }

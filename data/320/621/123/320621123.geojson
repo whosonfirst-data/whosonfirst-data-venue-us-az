@@ -2,13 +2,14 @@
   "id": 320621123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071243,33.456782,-112.071243,33.456782",
     "geom:latitude":33.456782,
     "geom:longitude":-112.071243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N 2nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320621123,
-    "wof:lastmodified":1449014516,
+    "wof:lastmodified":1466326288,
     "wof:name":"Serverlift",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "truck"
     ]
 },
-  "bbox": [-112.071243,33.456782,-112.071243,33.456782],
+  "bbox": [
+    -112.071243,
+    33.456782,
+    -112.071243,
+    33.456782
+],
   "geometry": {"coordinates":[-112.071243,33.456782],"type":"Point"}
 }

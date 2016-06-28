@@ -2,13 +2,14 @@
   "id": 168947899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.718085,32.85608,-111.718085,32.85608",
     "geom:latitude":32.85608,
     "geom:longitude":-111.718085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13934 W Noble Cir",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168947899,
-    "wof:lastmodified":1449028342,
+    "wof:lastmodified":1466330969,
     "wof:name":"Custom Backhoe Service",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.718085,32.85608,-111.718085,32.85608],
+  "bbox": [
+    -111.718085,
+    32.85608,
+    -111.718085,
+    32.85608
+],
   "geometry": {"coordinates":[-111.718085,32.85608],"type":"Point"}
 }

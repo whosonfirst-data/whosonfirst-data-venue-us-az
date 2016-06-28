@@ -2,13 +2,14 @@
   "id": 152948239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.199705,33.623691,-112.199705,33.623691",
     "geom:latitude":33.623691,
     "geom:longitude":-112.199705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6628 W Acapulco Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877815,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152948239,
-    "wof:lastmodified":1449047961,
+    "wof:lastmodified":1466327253,
     "wof:name":"Aliva LLC",
     "wof:parent_id":85877815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.199705,33.623691,-112.199705,33.623691],
-  "geometry": {"coordinates":[-112.199705,33.623691],"type":"Point"}
+  "bbox": [
+    -112.199705,
+    33.623691,
+    -112.199705,
+    33.623691
+],
+  "geometry": {"coordinates":[-112.19970499999999,33.623691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353763697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.397861,33.496904,-112.397861,33.496904",
     "geom:latitude":33.496904,
     "geom:longitude":-112.397861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4256 N 157th Ave",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353763697,
-    "wof:lastmodified":1449020784,
+    "wof:lastmodified":1466330377,
     "wof:name":"Az West Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.397861,33.496904,-112.397861,33.496904],
-  "geometry": {"coordinates":[-112.397861,33.496904],"type":"Point"}
+  "bbox": [
+    -112.397861,
+    33.496904,
+    -112.397861,
+    33.496904
+],
+  "geometry": {"coordinates":[-112.39786100000001,33.496904],"type":"Point"}
 }

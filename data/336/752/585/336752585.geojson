@@ -2,13 +2,14 @@
   "id": 336752585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829461,33.451484,-111.829461,33.451484",
     "geom:latitude":33.451484,
     "geom:longitude":-111.829461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 E Mckellips Rd Ste 137",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336752585,
-    "wof:lastmodified":1448997122,
+    "wof:lastmodified":1466329047,
     "wof:name":"A2z Diesel Performance Solutions Inc.",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-111.829461,33.451484,-111.829461,33.451484],
-  "geometry": {"coordinates":[-111.829461,33.451484],"type":"Point"}
+  "bbox": [
+    -111.829461,
+    33.451484,
+    -111.829461,
+    33.451484
+],
+  "geometry": {"coordinates":[-111.82946099999999,33.451484],"type":"Point"}
 }

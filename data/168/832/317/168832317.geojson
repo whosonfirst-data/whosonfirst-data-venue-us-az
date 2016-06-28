@@ -2,13 +2,14 @@
   "id": 168832317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047766,33.452285,-112.047766,33.452285",
     "geom:latitude":33.452285,
     "geom:longitude":-112.047766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168832317,
-    "wof:lastmodified":1449027772,
+    "wof:lastmodified":1466326169,
     "wof:name":"AAA Charlie's Moving",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047766,33.452285,-112.047766,33.452285],
+  "bbox": [
+    -112.047766,
+    33.452285,
+    -112.047766,
+    33.452285
+],
   "geometry": {"coordinates":[-112.047766,33.452285],"type":"Point"}
 }

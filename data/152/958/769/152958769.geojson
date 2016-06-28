@@ -2,13 +2,14 @@
   "id": 152958769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.985463,32.393357,-110.985463,32.393357",
     "geom:latitude":32.393357,
     "geom:longitude":-110.985463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 N Renard Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152958769,
-    "wof:lastmodified":1449047899,
+    "wof:lastmodified":1466328119,
     "wof:name":"Western Window Wear",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.985463,32.393357,-110.985463,32.393357],
+  "bbox": [
+    -110.985463,
+    32.393357,
+    -110.985463,
+    32.393357
+],
   "geometry": {"coordinates":[-110.985463,32.393357],"type":"Point"}
 }

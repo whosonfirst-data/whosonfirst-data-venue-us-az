@@ -2,13 +2,14 @@
   "id": 353622315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.338648,33.464197,-112.338648,33.464197",
     "geom:latitude":33.464197,
     "geom:longitude":-112.338648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13065 W McDowell Road",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353622315,
-    "wof:lastmodified":1449020363,
+    "wof:lastmodified":1466329026,
     "wof:name":"Aesthetic Dental Health",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.338648,33.464197,-112.338648,33.464197],
-  "geometry": {"coordinates":[-112.338648,33.464197],"type":"Point"}
+  "bbox": [
+    -112.338648,
+    33.464197,
+    -112.338648,
+    33.464197
+],
+  "geometry": {"coordinates":[-112.33864800000001,33.464197],"type":"Point"}
 }

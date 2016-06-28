@@ -2,13 +2,14 @@
   "id": 153011599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134119,33.508772,-112.134119,33.508772",
     "geom:latitude":33.508772,
     "geom:longitude":-112.134119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4837 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153011599,
-    "wof:lastmodified":1449040732,
+    "wof:lastmodified":1466326138,
     "wof:name":"AAA Family Dental",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134119,33.508772,-112.134119,33.508772],
+  "bbox": [
+    -112.134119,
+    33.508772,
+    -112.134119,
+    33.508772
+],
   "geometry": {"coordinates":[-112.134119,33.508772],"type":"Point"}
 }

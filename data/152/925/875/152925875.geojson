@@ -2,13 +2,14 @@
   "id": 152925875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.276524,33.497247,-112.276524,33.497247",
     "geom:latitude":33.497247,
     "geom:longitude":-112.276524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9985 W Mackenzie Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152925875,
-    "wof:lastmodified":1449044328,
+    "wof:lastmodified":1466327745,
     "wof:name":"Planet Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.276524,33.497247,-112.276524,33.497247],
-  "geometry": {"coordinates":[-112.276524,33.497247],"type":"Point"}
+  "bbox": [
+    -112.276524,
+    33.497247,
+    -112.276524,
+    33.497247
+],
+  "geometry": {"coordinates":[-112.27652399999999,33.497247],"type":"Point"}
 }

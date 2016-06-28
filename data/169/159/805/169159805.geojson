@@ -2,13 +2,14 @@
   "id": 169159805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029815,33.509256,-112.029815,33.509256",
     "geom:latitude":33.509256,
     "geom:longitude":-112.029815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806131,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169159805,
-    "wof:lastmodified":1449033078,
+    "wof:lastmodified":1466331731,
     "wof:name":"Chris S Leason",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.029815,33.509256,-112.029815,33.509256],
+  "bbox": [
+    -112.029815,
+    33.509256,
+    -112.029815,
+    33.509256
+],
   "geometry": {"coordinates":[-112.029815,33.509256],"type":"Point"}
 }

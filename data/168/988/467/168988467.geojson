@@ -2,13 +2,14 @@
   "id": 168988467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.172819,31.482911,-110.172819,31.482911",
     "geom:latitude":31.482911,
     "geom:longitude":-110.172819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4739 S Ranch Rd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168988467,
-    "wof:lastmodified":1449028018,
+    "wof:lastmodified":1466331544,
     "wof:name":"D&D Sales Manufacturers",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.172819,31.482911,-110.172819,31.482911],
+  "bbox": [
+    -110.172819,
+    31.482911,
+    -110.172819,
+    31.482911
+],
   "geometry": {"coordinates":[-110.172819,31.482911],"type":"Point"}
 }

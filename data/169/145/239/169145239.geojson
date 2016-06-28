@@ -2,13 +2,14 @@
   "id": 169145239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858713,31.949245,-110.858713,31.949245",
     "geom:latitude":31.949245,
     "geom:longitude":-110.858713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16809 S Wilmot Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169145239,
-    "wof:lastmodified":1449033690,
+    "wof:lastmodified":1466331696,
     "wof:name":"A-1 Messner Sitter Svc",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.858713,31.949245,-110.858713,31.949245],
-  "geometry": {"coordinates":[-110.858713,31.949245],"type":"Point"}
+  "bbox": [
+    -110.858713,
+    31.949245,
+    -110.858713,
+    31.949245
+],
+  "geometry": {"coordinates":[-110.85871299999999,31.949245],"type":"Point"}
 }

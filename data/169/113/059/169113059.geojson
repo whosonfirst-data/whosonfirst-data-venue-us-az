@@ -2,13 +2,14 @@
   "id": 169113059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.770058,32.15276,-110.770058,32.15276",
     "geom:latitude":32.15276,
     "geom:longitude":-110.770058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5428 S Thunder Sky Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169113059,
-    "wof:lastmodified":1449035685,
+    "wof:lastmodified":1466331241,
     "wof:name":"Beads Of Courage Inc",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.770058,32.15276,-110.770058,32.15276],
-  "geometry": {"coordinates":[-110.770058,32.15276],"type":"Point"}
+  "bbox": [
+    -110.770058,
+    32.15276,
+    -110.770058,
+    32.15276
+],
+  "geometry": {"coordinates":[-110.77005800000001,32.15276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336677253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00087,33.387847,-112.00087,33.387847",
     "geom:latitude":33.387847,
     "geom:longitude":-112.00087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 E Saint Catherine Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336677253,
-    "wof:lastmodified":1448997318,
+    "wof:lastmodified":1466327617,
     "wof:name":"Event Photos",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographers-commercial"
     ]
 },
-  "bbox": [-112.00087,33.387847,-112.00087,33.387847],
-  "geometry": {"coordinates":[-112.00087,33.387847],"type":"Point"}
+  "bbox": [
+    -112.00087,
+    33.387847,
+    -112.00087,
+    33.387847
+],
+  "geometry": {"coordinates":[-112.00087000000001,33.387847],"type":"Point"}
 }

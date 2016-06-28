@@ -2,13 +2,14 @@
   "id": 169152079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.888276,34.630913,-111.888276,34.630913",
     "geom:latitude":34.630913,
     "geom:longitude":-111.888276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 W Middle Verde Rd",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169152079,
-    "wof:lastmodified":1449035202,
+    "wof:lastmodified":1466331754,
     "wof:name":"Tickaboo Farms",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.888276,34.630913,-111.888276,34.630913],
+  "bbox": [
+    -111.888276,
+    34.630913,
+    -111.888276,
+    34.630913
+],
   "geometry": {"coordinates":[-111.888276,34.630913],"type":"Point"}
 }

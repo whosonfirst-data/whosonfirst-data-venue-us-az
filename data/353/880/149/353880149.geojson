@@ -2,13 +2,14 @@
   "id": 353880149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.606117,35.211148,-111.606117,35.211148",
     "geom:latitude":35.211148,
     "geom:longitude":-111.606117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2724 E Lakin Dr Ste 6",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353880149,
-    "wof:lastmodified":1449020820,
+    "wof:lastmodified":1466330822,
     "wof:name":"Jack Grants Office",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.606117,35.211148,-111.606117,35.211148],
+  "bbox": [
+    -111.606117,
+    35.211148,
+    -111.606117,
+    35.211148
+],
   "geometry": {"coordinates":[-111.606117,35.211148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169027153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.990133,33.781754,-111.990133,33.781754",
     "geom:latitude":33.781754,
     "geom:longitude":-111.990133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 E Desert Forest Trl",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169027153,
-    "wof:lastmodified":1449033306,
+    "wof:lastmodified":1466326608,
     "wof:name":"Accura Systems Inc",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.990133,33.781754,-111.990133,33.781754],
+  "bbox": [
+    -111.990133,
+    33.781754,
+    -111.990133,
+    33.781754
+],
   "geometry": {"coordinates":[-111.990133,33.781754],"type":"Point"}
 }

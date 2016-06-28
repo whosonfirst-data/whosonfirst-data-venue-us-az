@@ -2,13 +2,14 @@
   "id": 169079683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054508,33.500316,-112.054508,33.500316",
     "geom:latitude":33.500316,
     "geom:longitude":-112.054508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 N Longview Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169079683,
-    "wof:lastmodified":1449035414,
+    "wof:lastmodified":1466329893,
     "wof:name":"Consolidated Astertive Assets",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054508,33.500316,-112.054508,33.500316],
+  "bbox": [
+    -112.054508,
+    33.500316,
+    -112.054508,
+    33.500316
+],
   "geometry": {"coordinates":[-112.054508,33.500316],"type":"Point"}
 }

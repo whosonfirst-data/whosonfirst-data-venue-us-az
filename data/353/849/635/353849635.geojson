@@ -2,13 +2,14 @@
   "id": 353849635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.066421,32.344866,-111.066421,32.344866",
     "geom:latitude":32.344866,
     "geom:longitude":-111.066421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 W Massingale Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353849635,
-    "wof:lastmodified":1449018721,
+    "wof:lastmodified":1466330645,
     "wof:name":"Casas Adobes Realty",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-111.066421,32.344866,-111.066421,32.344866],
-  "geometry": {"coordinates":[-111.066421,32.344866],"type":"Point"}
+  "bbox": [
+    -111.066421,
+    32.344866,
+    -111.066421,
+    32.344866
+],
+  "geometry": {"coordinates":[-111.06642100000001,32.344866],"type":"Point"}
 }

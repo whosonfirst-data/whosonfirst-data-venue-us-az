@@ -2,13 +2,14 @@
   "id": 336739409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.129051,33.805407,-112.129051,33.805407",
     "geom:latitude":33.805407,
     "geom:longitude":-112.129051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34807 N 32nd Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336739409,
-    "wof:lastmodified":1448997397,
+    "wof:lastmodified":1466328613,
     "wof:name":"Gs Ironhorse",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-112.129051,33.805407,-112.129051,33.805407],
+  "bbox": [
+    -112.129051,
+    33.805407,
+    -112.129051,
+    33.805407
+],
   "geometry": {"coordinates":[-112.129051,33.805407],"type":"Point"}
 }

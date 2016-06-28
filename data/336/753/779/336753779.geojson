@@ -2,13 +2,14 @@
   "id": 336753779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.831844,33.415138,-111.831844,33.415138",
     "geom:latitude":33.415138,
     "geom:longitude":-111.831844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 W Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336753779,
-    "wof:lastmodified":1448997054,
+    "wof:lastmodified":1466328852,
     "wof:name":"Twelve West Main",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-111.831844,33.415138,-111.831844,33.415138],
+  "bbox": [
+    -111.831844,
+    33.415138,
+    -111.831844,
+    33.415138
+],
   "geometry": {"coordinates":[-111.831844,33.415138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353514733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96642,33.345913,-111.96642,33.345913",
     "geom:latitude":33.345913,
     "geom:longitude":-111.96642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7855 S Test Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353514733,
-    "wof:lastmodified":1449019548,
+    "wof:lastmodified":1466327431,
     "wof:name":"Mini of Tempe",
     "wof:parent_id":85814393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-111.96642,33.345913,-111.96642,33.345913],
+  "bbox": [
+    -111.96642,
+    33.345913,
+    -111.96642,
+    33.345913
+],
   "geometry": {"coordinates":[-111.96642,33.345913],"type":"Point"}
 }

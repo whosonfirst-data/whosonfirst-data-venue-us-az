@@ -2,13 +2,14 @@
   "id": 336635509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027291,33.446287,-112.027291,33.446287",
     "geom:latitude":33.446287,
     "geom:longitude":-112.027291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 E Madison St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336635509,
-    "wof:lastmodified":1448997418,
+    "wof:lastmodified":1466326669,
     "wof:name":"Got Truck",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.027291,33.446287,-112.027291,33.446287],
-  "geometry": {"coordinates":[-112.027291,33.446287],"type":"Point"}
+  "bbox": [
+    -112.027291,
+    33.446287,
+    -112.027291,
+    33.446287
+],
+  "geometry": {"coordinates":[-112.02729100000001,33.446287],"type":"Point"}
 }

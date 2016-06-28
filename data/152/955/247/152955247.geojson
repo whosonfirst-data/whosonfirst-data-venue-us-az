@@ -2,13 +2,14 @@
   "id": 152955247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885152,33.372439,-111.885152,33.372439",
     "geom:latitude":33.372439,
     "geom:longitude":-111.885152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2359 W Lobo Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152955247,
-    "wof:lastmodified":1449047504,
+    "wof:lastmodified":1466327743,
     "wof:name":"Production Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885152,33.372439,-111.885152,33.372439],
-  "geometry": {"coordinates":[-111.885152,33.372439],"type":"Point"}
+  "bbox": [
+    -111.885152,
+    33.372439,
+    -111.885152,
+    33.372439
+],
+  "geometry": {"coordinates":[-111.88515200000001,33.372439],"type":"Point"}
 }

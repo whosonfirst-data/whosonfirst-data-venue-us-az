@@ -2,13 +2,14 @@
   "id": 168995693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.935521,32.163243,-110.935521,32.163243",
     "geom:latitude":32.163243,
     "geom:longitude":-110.935521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2252 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168995693,
-    "wof:lastmodified":1449028504,
+    "wof:lastmodified":1466331750,
     "wof:name":"WTH Auto",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.935521,32.163243,-110.935521,32.163243],
-  "geometry": {"coordinates":[-110.935521,32.163243],"type":"Point"}
+  "bbox": [
+    -110.935521,
+    32.163243,
+    -110.935521,
+    32.163243
+],
+  "geometry": {"coordinates":[-110.93552099999999,32.163243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169322703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.895794,32.236269,-110.895794,32.236269",
     "geom:latitude":32.236269,
     "geom:longitude":-110.895794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4551 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169322703,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1466333223,
     "wof:name":"Auto Cash Loans",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.895794,32.236269,-110.895794,32.236269],
+  "bbox": [
+    -110.895794,
+    32.236269,
+    -110.895794,
+    32.236269
+],
   "geometry": {"coordinates":[-110.895794,32.236269],"type":"Point"}
 }

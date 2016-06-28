@@ -2,13 +2,14 @@
   "id": 169420415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220599,33.656131,-112.220599,33.656131",
     "geom:latitude":33.656131,
     "geom:longitude":-112.220599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7536 W Wescott Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877777,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169420415,
-    "wof:lastmodified":1449034260,
+    "wof:lastmodified":1466334193,
     "wof:name":"Lf & Mh Properties LLC",
     "wof:parent_id":85877777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220599,33.656131,-112.220599,33.656131],
-  "geometry": {"coordinates":[-112.220599,33.656131],"type":"Point"}
+  "bbox": [
+    -112.220599,
+    33.656131,
+    -112.220599,
+    33.656131
+],
+  "geometry": {"coordinates":[-112.22059900000001,33.656131],"type":"Point"}
 }

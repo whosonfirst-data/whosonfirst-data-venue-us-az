@@ -2,13 +2,14 @@
   "id": 168872329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.198557,33.579929,-112.198557,33.579929",
     "geom:latitude":33.579929,
     "geom:longitude":-112.198557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10329 N 65th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843371,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85843371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168872329,
-    "wof:lastmodified":1449027843,
+    "wof:lastmodified":1466327657,
     "wof:name":"Nurses Who Care",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.198557,33.579929,-112.198557,33.579929],
-  "geometry": {"coordinates":[-112.198557,33.579929],"type":"Point"}
+  "bbox": [
+    -112.198557,
+    33.579929,
+    -112.198557,
+    33.579929
+],
+  "geometry": {"coordinates":[-112.19855699999999,33.579929],"type":"Point"}
 }

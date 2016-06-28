@@ -2,13 +2,14 @@
   "id": 336812197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.844571,33.375152,-111.844571,33.375152",
     "geom:latitude":33.375152,
     "geom:longitude":-111.844571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 S Vineyard Ste 135",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336812197,
-    "wof:lastmodified":1448996945,
+    "wof:lastmodified":1466329680,
     "wof:name":"Desert Family Medicine",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.844571,33.375152,-111.844571,33.375152],
+  "bbox": [
+    -111.844571,
+    33.375152,
+    -111.844571,
+    33.375152
+],
   "geometry": {"coordinates":[-111.844571,33.375152],"type":"Point"}
 }

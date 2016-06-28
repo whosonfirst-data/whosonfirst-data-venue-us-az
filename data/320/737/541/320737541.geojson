@@ -2,13 +2,14 @@
   "id": 320737541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123947,33.482555,-112.123947,33.482555",
     "geom:latitude":33.482555,
     "geom:longitude":-112.123947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 N 30th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320737541,
-    "wof:lastmodified":1449012087,
+    "wof:lastmodified":1466328870,
     "wof:name":"Barry Metals Co Inc",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.123947,33.482555,-112.123947,33.482555],
+  "bbox": [
+    -112.123947,
+    33.482555,
+    -112.123947,
+    33.482555
+],
   "geometry": {"coordinates":[-112.123947,33.482555],"type":"Point"}
 }

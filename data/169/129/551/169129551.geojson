@@ -2,13 +2,14 @@
   "id": 169129551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841367,32.142649,-110.841367,32.142649",
     "geom:latitude":32.142649,
     "geom:longitude":-110.841367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7075 E Southpoint Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169129551,
-    "wof:lastmodified":1449035320,
+    "wof:lastmodified":1466331543,
     "wof:name":"Parker Hannifin Corporation",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.841367,32.142649,-110.841367,32.142649],
-  "geometry": {"coordinates":[-110.841367,32.142649],"type":"Point"}
+  "bbox": [
+    -110.841367,
+    32.142649,
+    -110.841367,
+    32.142649
+],
+  "geometry": {"coordinates":[-110.84136700000001,32.142649],"type":"Point"}
 }

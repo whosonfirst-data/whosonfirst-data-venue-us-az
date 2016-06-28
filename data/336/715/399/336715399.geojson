@@ -2,13 +2,14 @@
   "id": 336715399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.128326,33.539274,-112.128326,33.539274",
     "geom:latitude":33.539274,
     "geom:longitude":-112.128326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7040 N 32nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336715399,
-    "wof:lastmodified":1448997812,
+    "wof:lastmodified":1466328269,
     "wof:name":"Shepbird Farm",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.128326,33.539274,-112.128326,33.539274],
+  "bbox": [
+    -112.128326,
+    33.539274,
+    -112.128326,
+    33.539274
+],
   "geometry": {"coordinates":[-112.128326,33.539274],"type":"Point"}
 }

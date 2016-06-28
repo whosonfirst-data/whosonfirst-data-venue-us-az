@@ -2,13 +2,14 @@
   "id": 169306413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939119,32.345701,-110.939119,32.345701",
     "geom:latitude":32.345701,
     "geom:longitude":-110.939119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7620 N Cll Sin Controversia",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169306413,
-    "wof:lastmodified":1449035807,
+    "wof:lastmodified":1466333014,
     "wof:name":"Toumey Companies",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939119,32.345701,-110.939119,32.345701],
-  "geometry": {"coordinates":[-110.939119,32.345701],"type":"Point"}
+  "bbox": [
+    -110.939119,
+    32.345701,
+    -110.939119,
+    32.345701
+],
+  "geometry": {"coordinates":[-110.93911900000001,32.345701],"type":"Point"}
 }

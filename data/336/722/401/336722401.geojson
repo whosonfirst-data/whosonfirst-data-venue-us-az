@@ -2,13 +2,14 @@
   "id": 336722401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149687,33.538431,-112.149687,33.538431",
     "geom:latitude":33.538431,
     "geom:longitude":-112.149687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 W Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336722401,
-    "wof:lastmodified":1448997306,
+    "wof:lastmodified":1466328373,
     "wof:name":"Cinnabar Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.149687,33.538431,-112.149687,33.538431],
+  "bbox": [
+    -112.149687,
+    33.538431,
+    -112.149687,
+    33.538431
+],
   "geometry": {"coordinates":[-112.149687,33.538431],"type":"Point"}
 }

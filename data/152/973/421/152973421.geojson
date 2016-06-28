@@ -2,13 +2,14 @@
   "id": 152973421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.836912,33.354977,-111.836912,33.354977",
     "geom:latitude":33.354977,
     "geom:longitude":-111.836912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Chilton Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85836675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152973421,
-    "wof:lastmodified":1449047069,
+    "wof:lastmodified":1466328575,
     "wof:name":"Sudden Impact Partners Inc",
     "wof:parent_id":85836675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.836912,33.354977,-111.836912,33.354977],
+  "bbox": [
+    -111.836912,
+    33.354977,
+    -111.836912,
+    33.354977
+],
   "geometry": {"coordinates":[-111.836912,33.354977],"type":"Point"}
 }

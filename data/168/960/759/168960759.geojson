@@ -2,13 +2,14 @@
   "id": 168960759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.784125,32.277973,-110.784125,32.277973",
     "geom:latitude":32.277973,
     "geom:longitude":-110.784125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 N Via de Cordoba",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168960759,
-    "wof:lastmodified":1449028332,
+    "wof:lastmodified":1466331080,
     "wof:name":"Global Innovations",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.784125,32.277973,-110.784125,32.277973],
+  "bbox": [
+    -110.784125,
+    32.277973,
+    -110.784125,
+    32.277973
+],
   "geometry": {"coordinates":[-110.784125,32.277973],"type":"Point"}
 }

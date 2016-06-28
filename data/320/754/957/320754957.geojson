@@ -2,13 +2,14 @@
   "id": 320754957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008244,33.510119,-112.008244,33.510119",
     "geom:latitude":33.510119,
     "geom:longitude":-112.008244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3414 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320754957,
-    "wof:lastmodified":1449013719,
+    "wof:lastmodified":1466329451,
     "wof:name":"I Tint Windows",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tinting"
     ]
 },
-  "bbox": [-112.008244,33.510119,-112.008244,33.510119],
+  "bbox": [
+    -112.008244,
+    33.510119,
+    -112.008244,
+    33.510119
+],
   "geometry": {"coordinates":[-112.008244,33.510119],"type":"Point"}
 }

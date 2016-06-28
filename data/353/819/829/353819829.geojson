@@ -2,13 +2,14 @@
   "id": 353819829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.875117,32.20056,-110.875117,32.20056",
     "geom:latitude":32.20056,
     "geom:longitude":-110.875117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 S Craycroft Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353819829,
-    "wof:lastmodified":1449018860,
+    "wof:lastmodified":1466330509,
     "wof:name":"Noble Motors",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-110.875117,32.20056,-110.875117,32.20056],
+  "bbox": [
+    -110.875117,
+    32.20056,
+    -110.875117,
+    32.20056
+],
   "geometry": {"coordinates":[-110.875117,32.20056],"type":"Point"}
 }

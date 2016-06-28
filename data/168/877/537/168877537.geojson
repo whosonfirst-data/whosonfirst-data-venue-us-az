@@ -2,13 +2,14 @@
   "id": 168877537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.867575,33.344951,-111.867575,33.344951",
     "geom:latitude":33.344951,
     "geom:longitude":-111.867575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 W Mission Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168877537,
-    "wof:lastmodified":1449028313,
+    "wof:lastmodified":1466328049,
     "wof:name":"P B Magic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.867575,33.344951,-111.867575,33.344951],
+  "bbox": [
+    -111.867575,
+    33.344951,
+    -111.867575,
+    33.344951
+],
   "geometry": {"coordinates":[-111.867575,33.344951],"type":"Point"}
 }

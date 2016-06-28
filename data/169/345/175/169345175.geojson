@@ -2,13 +2,14 @@
   "id": 169345175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.097765,33.611176,-112.097765,33.611176",
     "geom:latitude":33.611176,
     "geom:longitude":-112.097765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 W Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852225,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169345175,
-    "wof:lastmodified":1449035701,
+    "wof:lastmodified":1466333438,
     "wof:name":"Filiberto's Mexican Food",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.097765,33.611176,-112.097765,33.611176],
+  "bbox": [
+    -112.097765,
+    33.611176,
+    -112.097765,
+    33.611176
+],
   "geometry": {"coordinates":[-112.097765,33.611176],"type":"Point"}
 }

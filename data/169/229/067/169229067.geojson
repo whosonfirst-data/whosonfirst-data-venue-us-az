@@ -2,13 +2,14 @@
   "id": 169229067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190491,33.550779,-112.190491,33.550779",
     "geom:latitude":33.550779,
     "geom:longitude":-112.190491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7721 N 61st Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877805,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169229067,
-    "wof:lastmodified":1449035293,
+    "wof:lastmodified":1466332177,
     "wof:name":"Jani Queen",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.190491,33.550779,-112.190491,33.550779],
-  "geometry": {"coordinates":[-112.190491,33.550779],"type":"Point"}
+  "bbox": [
+    -112.190491,
+    33.550779,
+    -112.190491,
+    33.550779
+],
+  "geometry": {"coordinates":[-112.19049099999999,33.550779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168896633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.97432,34.178909,-109.97432,34.178909",
     "geom:latitude":34.178909,
     "geom:longitude":-109.97432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Juniper Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168896633,
-    "wof:lastmodified":1449028041,
+    "wof:lastmodified":1466329264,
     "wof:name":"Greg Stevenson Trucking",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.97432,34.178909,-109.97432,34.178909],
-  "geometry": {"coordinates":[-109.97432,34.178909],"type":"Point"}
+  "bbox": [
+    -109.97432,
+    34.178909,
+    -109.97432,
+    34.178909
+],
+  "geometry": {"coordinates":[-109.97432000000001,34.178909],"type":"Point"}
 }

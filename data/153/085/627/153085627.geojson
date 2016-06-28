@@ -2,13 +2,14 @@
   "id": 153085627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.685989,33.493628,-111.685989,33.493628",
     "geom:latitude":33.493628,
     "geom:longitude":-111.685989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 N Everest",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872433
+        85633793,
+        85872433,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153085627,
-    "wof:lastmodified":1449040456,
+    "wof:lastmodified":1466329076,
     "wof:name":"Total Quality Manufacturing",
     "wof:parent_id":85872433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.685989,33.493628,-111.685989,33.493628],
-  "geometry": {"coordinates":[-111.685989,33.493628],"type":"Point"}
+  "bbox": [
+    -111.685989,
+    33.493628,
+    -111.685989,
+    33.493628
+],
+  "geometry": {"coordinates":[-111.68598900000001,33.493628],"type":"Point"}
 }

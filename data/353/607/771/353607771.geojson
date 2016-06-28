@@ -2,13 +2,14 @@
   "id": 353607771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.143143,33.650295,-112.143143,33.650295",
     "geom:latitude":33.650295,
     "geom:longitude":-112.143143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18037 N 39th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353607771,
-    "wof:lastmodified":1449018593,
+    "wof:lastmodified":1466328623,
     "wof:name":"Graham Slam Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.143143,33.650295,-112.143143,33.650295],
-  "geometry": {"coordinates":[-112.143143,33.650295],"type":"Point"}
+  "bbox": [
+    -112.143143,
+    33.650295,
+    -112.143143,
+    33.650295
+],
+  "geometry": {"coordinates":[-112.14314299999999,33.650295],"type":"Point"}
 }

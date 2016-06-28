@@ -2,13 +2,14 @@
   "id": 353838797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.815131,32.189526,-110.815131,32.189526",
     "geom:latitude":32.189526,
     "geom:longitude":-110.815131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 S Sarnoff Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353838797,
-    "wof:lastmodified":1449018559,
+    "wof:lastmodified":1466330516,
     "wof:name":"Angel Wings Counseling",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.815131,32.189526,-110.815131,32.189526],
-  "geometry": {"coordinates":[-110.815131,32.189526],"type":"Point"}
+  "bbox": [
+    -110.815131,
+    32.189526,
+    -110.815131,
+    32.189526
+],
+  "geometry": {"coordinates":[-110.81513099999999,32.189526],"type":"Point"}
 }

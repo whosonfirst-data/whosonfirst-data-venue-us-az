@@ -2,13 +2,14 @@
   "id": 320772607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054252,33.553156,-112.054252,33.553156",
     "geom:latitude":33.553156,
     "geom:longitude":-112.054252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 E Northern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320772607,
-    "wof:lastmodified":1449012928,
+    "wof:lastmodified":1466329275,
     "wof:name":"Kumon Math & Reading Center Of N. Central",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-112.054252,33.553156,-112.054252,33.553156],
-  "geometry": {"coordinates":[-112.054252,33.553156],"type":"Point"}
+  "bbox": [
+    -112.054252,
+    33.553156,
+    -112.054252,
+    33.553156
+],
+  "geometry": {"coordinates":[-112.05425200000001,33.553156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320629921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056382,33.464075,-112.056382,33.464075",
     "geom:latitude":33.464075,
     "geom:longitude":-112.056382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 N 12th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320629921,
-    "wof:lastmodified":1449014090,
+    "wof:lastmodified":1466326523,
     "wof:name":"La Loma Village",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-112.056382,33.464075,-112.056382,33.464075],
+  "bbox": [
+    -112.056382,
+    33.464075,
+    -112.056382,
+    33.464075
+],
   "geometry": {"coordinates":[-112.056382,33.464075],"type":"Point"}
 }

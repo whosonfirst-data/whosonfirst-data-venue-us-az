@@ -2,13 +2,14 @@
   "id": 152914487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857886,32.2782,-110.857886,32.2782",
     "geom:latitude":32.2782,
     "geom:longitude":-110.857886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3980 N Four Winds Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152914487,
-    "wof:lastmodified":1449046070,
+    "wof:lastmodified":1466326199,
     "wof:name":"Four Winds Landscape & Mntnc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.857886,32.2782,-110.857886,32.2782],
-  "geometry": {"coordinates":[-110.857886,32.2782],"type":"Point"}
+  "bbox": [
+    -110.857886,
+    32.2782,
+    -110.857886,
+    32.2782
+],
+  "geometry": {"coordinates":[-110.85788599999999,32.2782],"type":"Point"}
 }

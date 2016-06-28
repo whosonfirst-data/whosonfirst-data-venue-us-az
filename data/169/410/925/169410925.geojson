@@ -2,13 +2,14 @@
   "id": 169410925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.048606,33.673812,-112.048606,33.673812",
     "geom:latitude":33.673812,
     "geom:longitude":-112.048606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20622 N 16th Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169410925,
-    "wof:lastmodified":1449032726,
+    "wof:lastmodified":1466334097,
     "wof:name":"Childrens Path To Peace Inc",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.048606,33.673812,-112.048606,33.673812],
-  "geometry": {"coordinates":[-112.048606,33.673812],"type":"Point"}
+  "bbox": [
+    -112.048606,
+    33.673812,
+    -112.048606,
+    33.673812
+],
+  "geometry": {"coordinates":[-112.04860600000001,33.673812],"type":"Point"}
 }

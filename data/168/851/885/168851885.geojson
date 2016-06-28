@@ -2,13 +2,14 @@
   "id": 168851885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102026,33.859792,-112.102026,33.859792",
     "geom:latitude":33.859792,
     "geom:longitude":-112.102026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41207 N Congressional Dr",
     "sg:city":"Anthem",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168851885,
-    "wof:lastmodified":1449028276,
+    "wof:lastmodified":1466325862,
     "wof:name":"Metropolitan Insurance",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.102026,33.859792,-112.102026,33.859792],
+  "bbox": [
+    -112.102026,
+    33.859792,
+    -112.102026,
+    33.859792
+],
   "geometry": {"coordinates":[-112.102026,33.859792],"type":"Point"}
 }

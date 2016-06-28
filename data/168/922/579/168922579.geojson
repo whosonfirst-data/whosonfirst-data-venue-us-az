@@ -2,13 +2,14 @@
   "id": 168922579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.287748,34.130282,-109.287748,34.130282",
     "geom:latitude":34.130282,
     "geom:longitude":-109.287748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S Mountain Ave",
     "sg:city":"Springerville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168922579,
-    "wof:lastmodified":1449027848,
+    "wof:lastmodified":1466330422,
     "wof:name":"Satellite Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.287748,34.130282,-109.287748,34.130282],
-  "geometry": {"coordinates":[-109.287748,34.130282],"type":"Point"}
+  "bbox": [
+    -109.287748,
+    34.130282,
+    -109.287748,
+    34.130282
+],
+  "geometry": {"coordinates":[-109.28774799999999,34.130282],"type":"Point"}
 }

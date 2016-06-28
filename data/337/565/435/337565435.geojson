@@ -2,13 +2,14 @@
   "id": 337565435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.8965,33.572411,-111.8965,33.572411",
     "geom:latitude":33.572411,
     "geom:longitude":-111.8965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8625 E Mountain View Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337565435,
-    "wof:lastmodified":1449027663,
+    "wof:lastmodified":1466326834,
     "wof:name":"Mountain View Park",
     "wof:parent_id":85833181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.8965,33.572411,-111.8965,33.572411],
+  "bbox": [
+    -111.8965,
+    33.572411,
+    -111.8965,
+    33.572411
+],
   "geometry": {"coordinates":[-111.8965,33.572411],"type":"Point"}
 }

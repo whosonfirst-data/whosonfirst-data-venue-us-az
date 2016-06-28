@@ -2,13 +2,14 @@
   "id": 168833359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.737725,33.35566,-111.737725,33.35566",
     "geom:latitude":33.35566,
     "geom:longitude":-111.737725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Portland Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.beverlyhillshummer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168833359,
-    "wof:lastmodified":1449027871,
+    "wof:lastmodified":1466326330,
     "wof:name":"BEVERLYHILLSHUMMER.COM",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.737725,33.35566,-111.737725,33.35566],
+  "bbox": [
+    -111.737725,
+    33.35566,
+    -111.737725,
+    33.35566
+],
   "geometry": {"coordinates":[-111.737725,33.35566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168937369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958392,32.170591,-110.958392,32.170591",
     "geom:latitude":32.170591,
     "geom:longitude":-110.958392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Fair St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.hookframe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168937369,
-    "wof:lastmodified":1449027922,
+    "wof:lastmodified":1466330580,
     "wof:name":"Hook Frame Equipment",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.958392,32.170591,-110.958392,32.170591],
+  "bbox": [
+    -110.958392,
+    32.170591,
+    -110.958392,
+    32.170591
+],
   "geometry": {"coordinates":[-110.958392,32.170591],"type":"Point"}
 }

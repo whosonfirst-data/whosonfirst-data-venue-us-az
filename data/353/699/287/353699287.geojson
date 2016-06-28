@@ -2,13 +2,14 @@
   "id": 353699287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.619606,32.724945,-114.619606,32.724945",
     "geom:latitude":32.724945,
     "geom:longitude":-114.619606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 S Madison Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353699287,
-    "wof:lastmodified":1449018597,
+    "wof:lastmodified":1466329619,
     "wof:name":"The New Broom Company",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile-contractors"
     ]
 },
-  "bbox": [-114.619606,32.724945,-114.619606,32.724945],
+  "bbox": [
+    -114.619606,
+    32.724945,
+    -114.619606,
+    32.724945
+],
   "geometry": {"coordinates":[-114.619606,32.724945],"type":"Point"}
 }

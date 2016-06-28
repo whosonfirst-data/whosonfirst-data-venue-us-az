@@ -2,13 +2,14 @@
   "id": 153051163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490924,34.543806,-112.490924,34.543806",
     "geom:latitude":34.543806,
     "geom:longitude":-112.490924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 W Gurley St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153051163,
-    "wof:lastmodified":1449040649,
+    "wof:lastmodified":1466327253,
     "wof:name":"Prescott Paddle Outfitters",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.490924,34.543806,-112.490924,34.543806],
-  "geometry": {"coordinates":[-112.490924,34.543806],"type":"Point"}
+  "bbox": [
+    -112.490924,
+    34.543806,
+    -112.490924,
+    34.543806
+],
+  "geometry": {"coordinates":[-112.49092400000001,34.543806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153049053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995044,32.278235,-110.995044,32.278235",
     "geom:latitude":32.278235,
     "geom:longitude":-110.995044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3955 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153049053,
-    "wof:lastmodified":1449040578,
+    "wof:lastmodified":1466327102,
     "wof:name":"Tucson College Of Beauty",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995044,32.278235,-110.995044,32.278235],
-  "geometry": {"coordinates":[-110.995044,32.278235],"type":"Point"}
+  "bbox": [
+    -110.995044,
+    32.278235,
+    -110.995044,
+    32.278235
+],
+  "geometry": {"coordinates":[-110.99504399999999,32.278235],"type":"Point"}
 }

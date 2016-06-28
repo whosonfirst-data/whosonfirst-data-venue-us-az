@@ -2,13 +2,14 @@
   "id": 353784365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.545757,31.349588,-109.545757,31.349588",
     "geom:latitude":31.349588,
     "geom:longitude":-109.545757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E 15th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353784365,
-    "wof:lastmodified":1449019947,
+    "wof:lastmodified":1466330448,
     "wof:name":"Douglas Villas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "listing"
     ]
 },
-  "bbox": [-109.545757,31.349588,-109.545757,31.349588],
-  "geometry": {"coordinates":[-109.545757,31.349588],"type":"Point"}
+  "bbox": [
+    -109.545757,
+    31.349588,
+    -109.545757,
+    31.349588
+],
+  "geometry": {"coordinates":[-109.54575699999999,31.349588],"type":"Point"}
 }

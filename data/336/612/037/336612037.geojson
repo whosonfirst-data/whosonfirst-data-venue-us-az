@@ -2,13 +2,14 @@
   "id": 336612037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223664,33.48004,-112.223664,33.48004",
     "geom:latitude":33.48004,
     "geom:longitude":-112.223664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7609 W Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336612037,
-    "wof:lastmodified":1448997428,
+    "wof:lastmodified":1466326184,
     "wof:name":"Golden Corral",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "buffet"
     ]
 },
-  "bbox": [-112.223664,33.48004,-112.223664,33.48004],
+  "bbox": [
+    -112.223664,
+    33.48004,
+    -112.223664,
+    33.48004
+],
   "geometry": {"coordinates":[-112.223664,33.48004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168917101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.71942,33.606382,-111.71942,33.606382",
     "geom:latitude":33.606382,
     "geom:longitude":-111.71942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16852 E Parkview Ave",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168917101,
-    "wof:lastmodified":1449028477,
+    "wof:lastmodified":1466330193,
     "wof:name":"Mammas Italian",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.71942,33.606382,-111.71942,33.606382],
+  "bbox": [
+    -111.71942,
+    33.606382,
+    -111.71942,
+    33.606382
+],
   "geometry": {"coordinates":[-111.71942,33.606382],"type":"Point"}
 }

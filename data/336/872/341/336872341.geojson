@@ -2,13 +2,14 @@
   "id": 336872341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.855219,33.31333,-111.855219,33.31333",
     "geom:latitude":33.31333,
     "geom:longitude":-111.855219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Galveston Street",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336872341,
-    "wof:lastmodified":1448997028,
+    "wof:lastmodified":1466330158,
     "wof:name":"Tempe Korean Presbyterian Church",
     "wof:parent_id":85876683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-111.855219,33.31333,-111.855219,33.31333],
-  "geometry": {"coordinates":[-111.855219,33.31333],"type":"Point"}
+  "bbox": [
+    -111.855219,
+    33.31333,
+    -111.855219,
+    33.31333
+],
+  "geometry": {"coordinates":[-111.85521900000001,33.31333],"type":"Point"}
 }

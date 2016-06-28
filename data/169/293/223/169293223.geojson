@@ -2,13 +2,14 @@
   "id": 169293223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.460516,34.604623,-112.460516,34.604623",
     "geom:latitude":34.604623,
     "geom:longitude":-112.460516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Tower Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169293223,
-    "wof:lastmodified":1449033336,
+    "wof:lastmodified":1466332923,
     "wof:name":"Prescott Winair Co",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.460516,34.604623,-112.460516,34.604623],
+  "bbox": [
+    -112.460516,
+    34.604623,
+    -112.460516,
+    34.604623
+],
   "geometry": {"coordinates":[-112.460516,34.604623],"type":"Point"}
 }

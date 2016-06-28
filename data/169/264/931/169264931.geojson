@@ -2,13 +2,14 @@
   "id": 169264931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.805887,33.393296,-111.805887,33.393296",
     "geom:latitude":33.393296,
     "geom:longitude":-111.805887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 E Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169264931,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1466332487,
     "wof:name":"Griffin Brothers",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.805887,33.393296,-111.805887,33.393296],
+  "bbox": [
+    -111.805887,
+    33.393296,
+    -111.805887,
+    33.393296
+],
   "geometry": {"coordinates":[-111.805887,33.393296],"type":"Point"}
 }

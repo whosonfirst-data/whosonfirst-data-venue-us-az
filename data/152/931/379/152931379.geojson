@@ -2,13 +2,14 @@
   "id": 152931379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.879058,33.311706,-111.879058,33.311706",
     "geom:latitude":33.311706,
     "geom:longitude":-111.879058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 N Home Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826095,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85826095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152931379,
-    "wof:lastmodified":1449048505,
+    "wof:lastmodified":1466326074,
     "wof:name":"Faith Foundations Church",
     "wof:parent_id":85826095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.879058,33.311706,-111.879058,33.311706],
+  "bbox": [
+    -111.879058,
+    33.311706,
+    -111.879058,
+    33.311706
+],
   "geometry": {"coordinates":[-111.879058,33.311706],"type":"Point"}
 }

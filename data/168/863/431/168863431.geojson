@@ -2,13 +2,14 @@
   "id": 168863431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.209293,33.648094,-112.209293,33.648094",
     "geom:latitude":33.648094,
     "geom:longitude":-112.209293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7021 W Stockman Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168863431,
-    "wof:lastmodified":1449028298,
+    "wof:lastmodified":1466326888,
     "wof:name":"Penney S Flores",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.209293,33.648094,-112.209293,33.648094],
+  "bbox": [
+    -112.209293,
+    33.648094,
+    -112.209293,
+    33.648094
+],
   "geometry": {"coordinates":[-112.209293,33.648094],"type":"Point"}
 }

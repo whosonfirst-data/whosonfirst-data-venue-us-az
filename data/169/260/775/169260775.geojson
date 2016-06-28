@@ -2,13 +2,14 @@
   "id": 169260775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.456584,33.352814,-111.456584,33.352814",
     "geom:latitude":33.352814,
     "geom:longitude":-111.456584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6877 S Kings Ranch Rd",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169260775,
-    "wof:lastmodified":1449033247,
+    "wof:lastmodified":1466332606,
     "wof:name":"Prudential Arizona Properties",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.456584,33.352814,-111.456584,33.352814],
-  "geometry": {"coordinates":[-111.456584,33.352814],"type":"Point"}
+  "bbox": [
+    -111.456584,
+    33.352814,
+    -111.456584,
+    33.352814
+],
+  "geometry": {"coordinates":[-111.45658400000001,33.352814],"type":"Point"}
 }

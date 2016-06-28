@@ -2,13 +2,14 @@
   "id": 169338981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974572,32.221561,-110.974572,32.221561",
     "geom:latitude":32.221561,
     "geom:longitude":-110.974572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sc.co.pima.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871765,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169338981,
-    "wof:lastmodified":1449033831,
+    "wof:lastmodified":1466333416,
     "wof:name":"Pima County Clerk-Superior Ct",
     "wof:parent_id":85871765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974572,32.221561,-110.974572,32.221561],
-  "geometry": {"coordinates":[-110.974572,32.221561],"type":"Point"}
+  "bbox": [
+    -110.974572,
+    32.221561,
+    -110.974572,
+    32.221561
+],
+  "geometry": {"coordinates":[-110.97457199999999,32.221561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336668477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098413,33.352879,-112.098413,33.352879",
     "geom:latitude":33.352879,
     "geom:longitude":-112.098413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 W Desert View Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336668477,
-    "wof:lastmodified":1448997682,
+    "wof:lastmodified":1466327388,
     "wof:name":"Casa Of Cantera",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098413,33.352879,-112.098413,33.352879],
-  "geometry": {"coordinates":[-112.098413,33.352879],"type":"Point"}
+  "bbox": [
+    -112.098413,
+    33.352879,
+    -112.098413,
+    33.352879
+],
+  "geometry": {"coordinates":[-112.09841299999999,33.352879],"type":"Point"}
 }

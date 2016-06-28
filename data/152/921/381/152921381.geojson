@@ -2,13 +2,14 @@
   "id": 152921381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.599162,35.074187,-114.599162,35.074187",
     "geom:latitude":35.074187,
     "geom:longitude":-114.599162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1590 Camino Ct",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152921381,
-    "wof:lastmodified":1449047262,
+    "wof:lastmodified":1466327089,
     "wof:name":"Esperanza Farming",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.599162,35.074187,-114.599162,35.074187],
-  "geometry": {"coordinates":[-114.599162,35.074187],"type":"Point"}
+  "bbox": [
+    -114.599162,
+    35.074187,
+    -114.599162,
+    35.074187
+],
+  "geometry": {"coordinates":[-114.59916200000001,35.074187],"type":"Point"}
 }

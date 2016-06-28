@@ -2,13 +2,14 @@
   "id": 169405827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.248926,33.68026,-112.248926,33.68026",
     "geom:latitude":33.68026,
     "geom:longitude":-112.248926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8776 W Melinda Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169405827,
-    "wof:lastmodified":1449035682,
+    "wof:lastmodified":1466334066,
     "wof:name":"Drywall Impressions LLC",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.248926,33.68026,-112.248926,33.68026],
+  "bbox": [
+    -112.248926,
+    33.68026,
+    -112.248926,
+    33.68026
+],
   "geometry": {"coordinates":[-112.248926,33.68026],"type":"Point"}
 }

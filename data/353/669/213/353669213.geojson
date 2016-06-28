@@ -2,13 +2,14 @@
   "id": 353669213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.28978,33.557184,-112.28978,33.557184",
     "geom:latitude":33.557184,
     "geom:longitude":-112.28978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8411 N 107th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353669213,
-    "wof:lastmodified":1449018544,
+    "wof:lastmodified":1466329361,
     "wof:name":"Country Meadows Golf Course",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "courses-private"
     ]
 },
-  "bbox": [-112.28978,33.557184,-112.28978,33.557184],
-  "geometry": {"coordinates":[-112.28978,33.557184],"type":"Point"}
+  "bbox": [
+    -112.28978,
+    33.557184,
+    -112.28978,
+    33.557184
+],
+  "geometry": {"coordinates":[-112.28977999999999,33.557184],"type":"Point"}
 }

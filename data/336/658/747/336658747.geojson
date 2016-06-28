@@ -2,13 +2,14 @@
   "id": 336658747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018346,33.412526,-112.018346,33.412526",
     "geom:latitude":33.412526,
     "geom:longitude":-112.018346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2935 E Illini St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336658747,
-    "wof:lastmodified":1448996899,
+    "wof:lastmodified":1466327146,
     "wof:name":"Sav-Trac Of Arizona",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "equipment"
     ]
 },
-  "bbox": [-112.018346,33.412526,-112.018346,33.412526],
-  "geometry": {"coordinates":[-112.018346,33.412526],"type":"Point"}
+  "bbox": [
+    -112.018346,
+    33.412526,
+    -112.018346,
+    33.412526
+],
+  "geometry": {"coordinates":[-112.01834599999999,33.412526],"type":"Point"}
 }

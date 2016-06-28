@@ -2,13 +2,14 @@
   "id": 152970559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975699,32.317209,-110.975699,32.317209",
     "geom:latitude":32.317209,
     "geom:longitude":-110.975699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6002 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152970559,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1466328463,
     "wof:name":"One Hour Martanizing",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975699,32.317209,-110.975699,32.317209],
-  "geometry": {"coordinates":[-110.975699,32.317209],"type":"Point"}
+  "bbox": [
+    -110.975699,
+    32.317209,
+    -110.975699,
+    32.317209
+],
+  "geometry": {"coordinates":[-110.97569900000001,32.317209],"type":"Point"}
 }

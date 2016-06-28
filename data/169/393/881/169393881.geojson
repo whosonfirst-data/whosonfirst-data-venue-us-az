@@ -2,13 +2,14 @@
   "id": 169393881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.753476,32.273132,-110.753476,32.273132",
     "geom:latitude":32.273132,
     "geom:longitude":-110.753476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11133 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169393881,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1466333998,
     "wof:name":"Ram-Mac Products Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.753476,32.273132,-110.753476,32.273132],
-  "geometry": {"coordinates":[-110.753476,32.273132],"type":"Point"}
+  "bbox": [
+    -110.753476,
+    32.273132,
+    -110.753476,
+    32.273132
+],
+  "geometry": {"coordinates":[-110.75347600000001,32.273132],"type":"Point"}
 }

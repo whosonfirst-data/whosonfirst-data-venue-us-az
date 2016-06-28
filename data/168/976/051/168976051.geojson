@@ -2,13 +2,14 @@
   "id": 168976051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.368126,34.534,-114.368126,34.534",
     "geom:latitude":34.534,
     "geom:longitude":-114.368126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Old State Hwy 95",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168976051,
-    "wof:lastmodified":1449028088,
+    "wof:lastmodified":1466331380,
     "wof:name":"Busy B Laundromat",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.368126,34.534,-114.368126,34.534],
+  "bbox": [
+    -114.368126,
+    34.534,
+    -114.368126,
+    34.534
+],
   "geometry": {"coordinates":[-114.368126,34.534],"type":"Point"}
 }

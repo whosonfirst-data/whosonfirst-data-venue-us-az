@@ -2,13 +2,14 @@
   "id": 353708899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.605044,32.703506,-114.605044,32.703506",
     "geom:latitude":32.703506,
     "geom:longitude":-114.605044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 S Yuma Palms Pkwy",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353708899,
-    "wof:lastmodified":1449018659,
+    "wof:lastmodified":1466329675,
     "wof:name":"Buffalo Wild Wings",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-114.605044,32.703506,-114.605044,32.703506],
-  "geometry": {"coordinates":[-114.605044,32.703506],"type":"Point"}
+  "bbox": [
+    -114.605044,
+    32.703506,
+    -114.605044,
+    32.703506
+],
+  "geometry": {"coordinates":[-114.60504400000001,32.703506],"type":"Point"}
 }

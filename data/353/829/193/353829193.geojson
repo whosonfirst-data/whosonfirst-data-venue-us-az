@@ -2,13 +2,14 @@
   "id": 353829193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922334,32.173702,-110.922334,32.173702",
     "geom:latitude":32.173702,
     "geom:longitude":-110.922334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3262 E Columbia St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353829193,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466330470,
     "wof:name":"Appliance Plus, Inc.",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-110.922334,32.173702,-110.922334,32.173702],
-  "geometry": {"coordinates":[-110.922334,32.173702],"type":"Point"}
+  "bbox": [
+    -110.922334,
+    32.173702,
+    -110.922334,
+    32.173702
+],
+  "geometry": {"coordinates":[-110.92233400000001,32.173702],"type":"Point"}
 }

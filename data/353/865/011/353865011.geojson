@@ -2,13 +2,14 @@
   "id": 353865011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.000931,34.164467,-110.000931,34.164467",
     "geom:latitude":34.164467,
     "geom:longitude":-110.000931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Navajo Way",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353865011,
-    "wof:lastmodified":1449020183,
+    "wof:lastmodified":1466331052,
     "wof:name":"B & O",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-110.000931,34.164467,-110.000931,34.164467],
-  "geometry": {"coordinates":[-110.000931,34.164467],"type":"Point"}
+  "bbox": [
+    -110.000931,
+    34.164467,
+    -110.000931,
+    34.164467
+],
+  "geometry": {"coordinates":[-110.00093099999999,34.164467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169302107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.022043,31.809884,-111.022043,31.809884",
     "geom:latitude":31.809884,
     "geom:longitude":-111.022043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1996 W Cll Estio",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169302107,
-    "wof:lastmodified":1449033797,
+    "wof:lastmodified":1466333007,
     "wof:name":"99 West",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.022043,31.809884,-111.022043,31.809884],
+  "bbox": [
+    -111.022043,
+    31.809884,
+    -111.022043,
+    31.809884
+],
   "geometry": {"coordinates":[-111.022043,31.809884],"type":"Point"}
 }

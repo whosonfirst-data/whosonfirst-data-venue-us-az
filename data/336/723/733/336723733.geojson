@@ -2,13 +2,14 @@
   "id": 336723733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151512,33.55021,-112.151512,33.55021",
     "geom:latitude":33.55021,
     "geom:longitude":-112.151512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 N 43rd Ave # 711",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336723733,
-    "wof:lastmodified":1448997568,
+    "wof:lastmodified":1466328396,
     "wof:name":"Richard Feldhake DMD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "teeth"
     ]
 },
-  "bbox": [-112.151512,33.55021,-112.151512,33.55021],
+  "bbox": [
+    -112.151512,
+    33.55021,
+    -112.151512,
+    33.55021
+],
   "geometry": {"coordinates":[-112.151512,33.55021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353405611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909072,33.425588,-111.909072,33.425588",
     "geom:latitude":33.425588,
     "geom:longitude":-111.909072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Mcclintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353405611,
-    "wof:lastmodified":1449020602,
+    "wof:lastmodified":1466326301,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85881433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-111.909072,33.425588,-111.909072,33.425588],
-  "geometry": {"coordinates":[-111.909072,33.425588],"type":"Point"}
+  "bbox": [
+    -111.909072,
+    33.425588,
+    -111.909072,
+    33.425588
+],
+  "geometry": {"coordinates":[-111.90907199999999,33.425588],"type":"Point"}
 }

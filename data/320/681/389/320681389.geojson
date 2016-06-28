@@ -2,13 +2,14 @@
   "id": 320681389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090532,33.51942,-112.090532,33.51942",
     "geom:latitude":33.51942,
     "geom:longitude":-112.090532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 W San Miguel Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320681389,
-    "wof:lastmodified":1449013535,
+    "wof:lastmodified":1466327787,
     "wof:name":"V W International",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.090532,33.51942,-112.090532,33.51942],
+  "bbox": [
+    -112.090532,
+    33.51942,
+    -112.090532,
+    33.51942
+],
   "geometry": {"coordinates":[-112.090532,33.51942],"type":"Point"}
 }

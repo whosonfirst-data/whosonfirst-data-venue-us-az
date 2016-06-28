@@ -2,13 +2,14 @@
   "id": 169085967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073705,33.485152,-112.073705,33.485152",
     "geom:latitude":33.485152,
     "geom:longitude":-112.073705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.duckanddecanter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169085967,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466330375,
     "wof:name":"Duck & Decanter",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073705,33.485152,-112.073705,33.485152],
+  "bbox": [
+    -112.073705,
+    33.485152,
+    -112.073705,
+    33.485152
+],
   "geometry": {"coordinates":[-112.073705,33.485152],"type":"Point"}
 }

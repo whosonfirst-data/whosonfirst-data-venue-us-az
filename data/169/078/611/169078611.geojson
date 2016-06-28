@@ -2,13 +2,14 @@
   "id": 169078611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.829933,32.250802,-110.829933,32.250802",
     "geom:latitude":32.250802,
     "geom:longitude":-110.829933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7671 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169078611,
-    "wof:lastmodified":1449035451,
+    "wof:lastmodified":1466330010,
     "wof:name":"Skywise Radio Satellite",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.829933,32.250802,-110.829933,32.250802],
+  "bbox": [
+    -110.829933,
+    32.250802,
+    -110.829933,
+    32.250802
+],
   "geometry": {"coordinates":[-110.829933,32.250802],"type":"Point"}
 }

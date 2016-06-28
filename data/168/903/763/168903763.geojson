@@ -2,13 +2,14 @@
   "id": 168903763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.849068,32.287291,-110.849068,32.287291",
     "geom:latitude":32.287291,
     "geom:longitude":-110.849068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 N Ver Rosada",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168903763,
-    "wof:lastmodified":1449027815,
+    "wof:lastmodified":1466329539,
     "wof:name":"Royal Formal Wear",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.849068,32.287291,-110.849068,32.287291],
+  "bbox": [
+    -110.849068,
+    32.287291,
+    -110.849068,
+    32.287291
+],
   "geometry": {"coordinates":[-110.849068,32.287291],"type":"Point"}
 }

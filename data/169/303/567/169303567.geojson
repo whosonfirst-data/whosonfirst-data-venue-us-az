@@ -2,13 +2,14 @@
   "id": 169303567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05298,33.561963,-112.05298,33.561963",
     "geom:latitude":33.561963,
     "geom:longitude":-112.05298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 E Orchid Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852109,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169303567,
-    "wof:lastmodified":1449032714,
+    "wof:lastmodified":1466333043,
     "wof:name":"Addison & Taylor Enterprises",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.05298,33.561963,-112.05298,33.561963],
-  "geometry": {"coordinates":[-112.05298,33.561963],"type":"Point"}
+  "bbox": [
+    -112.05298,
+    33.561963,
+    -112.05298,
+    33.561963
+],
+  "geometry": {"coordinates":[-112.05298000000001,33.561963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168823155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047057,33.640401,-112.047057,33.640401",
     "geom:latitude":33.640401,
     "geom:longitude":-112.047057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866819,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168823155,
-    "wof:lastmodified":1449028585,
+    "wof:lastmodified":1466325713,
     "wof:name":"Spring Crest Drapery Center",
     "wof:parent_id":85866819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047057,33.640401,-112.047057,33.640401],
+  "bbox": [
+    -112.047057,
+    33.640401,
+    -112.047057,
+    33.640401
+],
   "geometry": {"coordinates":[-112.047057,33.640401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168937045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.470455,34.531636,-112.470455,34.531636",
     "geom:latitude":34.531636,
     "geom:longitude":-112.470455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Montezuma St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.crystalcreekhomes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168937045,
-    "wof:lastmodified":1449027920,
+    "wof:lastmodified":1466330721,
     "wof:name":"Crystal Creek Builders",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.470455,34.531636,-112.470455,34.531636],
+  "bbox": [
+    -112.470455,
+    34.531636,
+    -112.470455,
+    34.531636
+],
   "geometry": {"coordinates":[-112.470455,34.531636],"type":"Point"}
 }

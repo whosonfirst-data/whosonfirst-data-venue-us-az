@@ -2,13 +2,14 @@
   "id": 168901357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119014,33.564365,-112.119014,33.564365",
     "geom:latitude":33.564365,
     "geom:longitude":-112.119014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2744 W Lawrence Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168901357,
-    "wof:lastmodified":1449028099,
+    "wof:lastmodified":1466329813,
     "wof:name":"Hary Roud Enterprise",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119014,33.564365,-112.119014,33.564365],
-  "geometry": {"coordinates":[-112.119014,33.564365],"type":"Point"}
+  "bbox": [
+    -112.119014,
+    33.564365,
+    -112.119014,
+    33.564365
+],
+  "geometry": {"coordinates":[-112.11901400000001,33.564365],"type":"Point"}
 }

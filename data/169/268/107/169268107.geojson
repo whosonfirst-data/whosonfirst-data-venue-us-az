@@ -2,13 +2,14 @@
   "id": 169268107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.698192,33.44314,-111.698192,33.44314",
     "geom:latitude":33.44314,
     "geom:longitude":-111.698192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6157 E Hobart St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872427,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169268107,
-    "wof:lastmodified":1449034561,
+    "wof:lastmodified":1466332693,
     "wof:name":"Move U Realty",
     "wof:parent_id":85872427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.698192,33.44314,-111.698192,33.44314],
-  "geometry": {"coordinates":[-111.698192,33.44314],"type":"Point"}
+  "bbox": [
+    -111.698192,
+    33.44314,
+    -111.698192,
+    33.44314
+],
+  "geometry": {"coordinates":[-111.69819200000001,33.44314],"type":"Point"}
 }

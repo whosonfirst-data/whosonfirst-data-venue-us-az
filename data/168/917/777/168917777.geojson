@@ -2,13 +2,14 @@
   "id": 168917777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.100051,33.680063,-112.100051,33.680063",
     "geom:latitude":33.680063,
     "geom:longitude":-112.100051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1919 W Lone Cactus Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168917777,
-    "wof:lastmodified":1449028477,
+    "wof:lastmodified":1466330249,
     "wof:name":"Family Travel Assn",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.100051,33.680063,-112.100051,33.680063],
-  "geometry": {"coordinates":[-112.100051,33.680063],"type":"Point"}
+  "bbox": [
+    -112.100051,
+    33.680063,
+    -112.100051,
+    33.680063
+],
+  "geometry": {"coordinates":[-112.10005099999999,33.680063],"type":"Point"}
 }

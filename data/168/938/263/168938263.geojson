@@ -2,13 +2,14 @@
   "id": 168938263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974983,33.530981,-111.974983,33.530981",
     "geom:latitude":33.530981,
     "geom:longitude":-111.974983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4949 E Lincoln Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.esavagetalent.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811269,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168938263,
-    "wof:lastmodified":1449028368,
+    "wof:lastmodified":1466330761,
     "wof:name":"Elizabeth Savage Talent Agency",
     "wof:parent_id":85811269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.974983,33.530981,-111.974983,33.530981],
-  "geometry": {"coordinates":[-111.974983,33.530981],"type":"Point"}
+  "bbox": [
+    -111.974983,
+    33.530981,
+    -111.974983,
+    33.530981
+],
+  "geometry": {"coordinates":[-111.97498299999999,33.530981],"type":"Point"}
 }

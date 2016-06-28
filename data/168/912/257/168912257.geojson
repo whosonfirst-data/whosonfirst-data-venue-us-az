@@ -2,13 +2,14 @@
   "id": 168912257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.092402,33.445088,-112.092402,33.445088",
     "geom:latitude":33.445088,
     "geom:longitude":-112.092402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1558 W Jackson St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.gccu.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168912257,
-    "wof:lastmodified":1449028145,
+    "wof:lastmodified":1466329968,
     "wof:name":"Grand Canyon State Emplys CU",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.092402,33.445088,-112.092402,33.445088],
-  "geometry": {"coordinates":[-112.092402,33.445088],"type":"Point"}
+  "bbox": [
+    -112.092402,
+    33.445088,
+    -112.092402,
+    33.445088
+],
+  "geometry": {"coordinates":[-112.09240200000001,33.445088],"type":"Point"}
 }

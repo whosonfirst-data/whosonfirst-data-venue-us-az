@@ -2,13 +2,14 @@
   "id": 152937211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.347682,34.582196,-112.347682,34.582196",
     "geom:latitude":34.582196,
     "geom:longitude":-112.347682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 E State Rte 69",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152937211,
-    "wof:lastmodified":1449045177,
+    "wof:lastmodified":1466326484,
     "wof:name":"Seventh Avenue Auto Parts",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.347682,34.582196,-112.347682,34.582196],
-  "geometry": {"coordinates":[-112.347682,34.582196],"type":"Point"}
+  "bbox": [
+    -112.347682,
+    34.582196,
+    -112.347682,
+    34.582196
+],
+  "geometry": {"coordinates":[-112.34768200000001,34.582196],"type":"Point"}
 }

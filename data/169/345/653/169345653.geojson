@@ -2,13 +2,14 @@
   "id": 169345653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134244,33.554959,-112.134244,33.554959",
     "geom:latitude":33.554959,
     "geom:longitude":-112.134244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8123 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.lifeskillscenters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840313,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169345653,
-    "wof:lastmodified":1449035697,
+    "wof:lastmodified":1466333544,
     "wof:name":"Life Skills Ctr Of Az",
     "wof:parent_id":85840313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134244,33.554959,-112.134244,33.554959],
+  "bbox": [
+    -112.134244,
+    33.554959,
+    -112.134244,
+    33.554959
+],
   "geometry": {"coordinates":[-112.134244,33.554959],"type":"Point"}
 }

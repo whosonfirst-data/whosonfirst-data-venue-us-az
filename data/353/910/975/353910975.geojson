@@ -2,13 +2,14 @@
   "id": 353910975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011497,35.240857,-114.011497,35.240857",
     "geom:latitude":35.240857,
     "geom:longitude":-114.011497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 N Bank St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353910975,
-    "wof:lastmodified":1449019310,
+    "wof:lastmodified":1466331151,
     "wof:name":"Steel Erection And Maintenance, Inc.",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "erectors"
     ]
 },
-  "bbox": [-114.011497,35.240857,-114.011497,35.240857],
-  "geometry": {"coordinates":[-114.011497,35.240857],"type":"Point"}
+  "bbox": [
+    -114.011497,
+    35.240857,
+    -114.011497,
+    35.240857
+],
+  "geometry": {"coordinates":[-114.01149700000001,35.240857],"type":"Point"}
 }

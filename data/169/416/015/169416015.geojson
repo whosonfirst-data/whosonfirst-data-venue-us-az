@@ -2,13 +2,14 @@
   "id": 169416015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.261926,33.551511,-112.261926,33.551511",
     "geom:latitude":33.551511,
     "geom:longitude":-112.261926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9284 W Northern Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877835,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169416015,
-    "wof:lastmodified":1449034156,
+    "wof:lastmodified":1466334096,
     "wof:name":"2 B Wireless",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.261926,33.551511,-112.261926,33.551511],
+  "bbox": [
+    -112.261926,
+    33.551511,
+    -112.261926,
+    33.551511
+],
   "geometry": {"coordinates":[-112.261926,33.551511],"type":"Point"}
 }

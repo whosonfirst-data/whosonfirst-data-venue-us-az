@@ -2,13 +2,14 @@
   "id": 320643055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991985,33.45121,-111.991985,33.45121",
     "geom:latitude":33.45121,
     "geom:longitude":-111.991985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4127 E Van Buren St Ste 210",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320643055,
-    "wof:lastmodified":1449014475,
+    "wof:lastmodified":1466326839,
     "wof:name":"Protiviti",
     "wof:parent_id":85852393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "coach"
     ]
 },
-  "bbox": [-111.991985,33.45121,-111.991985,33.45121],
+  "bbox": [
+    -111.991985,
+    33.45121,
+    -111.991985,
+    33.45121
+],
   "geometry": {"coordinates":[-111.991985,33.45121],"type":"Point"}
 }

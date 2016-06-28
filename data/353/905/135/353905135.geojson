@@ -2,13 +2,14 @@
   "id": 353905135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790123,34.871631,-111.790123,34.871631",
     "geom:latitude":34.871631,
     "geom:longitude":-111.790123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Mogollon Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353905135,
-    "wof:lastmodified":1449019267,
+    "wof:lastmodified":1466331185,
     "wof:name":"Thunder Mountain Design & Communications",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-111.790123,34.871631,-111.790123,34.871631],
-  "geometry": {"coordinates":[-111.790123,34.871631],"type":"Point"}
+  "bbox": [
+    -111.790123,
+    34.871631,
+    -111.790123,
+    34.871631
+],
+  "geometry": {"coordinates":[-111.79012299999999,34.871631],"type":"Point"}
 }

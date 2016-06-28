@@ -2,13 +2,14 @@
   "id": 168831457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068914,33.316369,-112.068914,33.316369",
     "geom:latitude":33.316369,
     "geom:longitude":-112.068914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 E Mountain Sage Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168831457,
-    "wof:lastmodified":1449028228,
+    "wof:lastmodified":1466326088,
     "wof:name":"T W Lewis Co Whistling Rock",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.068914,33.316369,-112.068914,33.316369],
-  "geometry": {"coordinates":[-112.068914,33.316369],"type":"Point"}
+  "bbox": [
+    -112.068914,
+    33.316369,
+    -112.068914,
+    33.316369
+],
+  "geometry": {"coordinates":[-112.06891400000001,33.316369],"type":"Point"}
 }

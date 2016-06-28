@@ -2,13 +2,14 @@
   "id": 337504849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.958397,33.582581,-111.958397,33.582581",
     "geom:latitude":33.582581,
     "geom:longitude":-111.958397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 N 57th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337504849,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1466326293,
     "wof:name":"Golden Swan Manor",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "aged"
     ]
 },
-  "bbox": [-111.958397,33.582581,-111.958397,33.582581],
-  "geometry": {"coordinates":[-111.958397,33.582581],"type":"Point"}
+  "bbox": [
+    -111.958397,
+    33.582581,
+    -111.958397,
+    33.582581
+],
+  "geometry": {"coordinates":[-111.95839700000001,33.582581],"type":"Point"}
 }

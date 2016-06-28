@@ -2,13 +2,14 @@
   "id": 336931825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.741149,33.364762,-111.741149,33.364762",
     "geom:latitude":33.364762,
     "geom:longitude":-111.741149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 E Guadalupe Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336931825,
-    "wof:lastmodified":1448997920,
+    "wof:lastmodified":1466330695,
     "wof:name":"3d Medical Billing",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "billing"
     ]
 },
-  "bbox": [-111.741149,33.364762,-111.741149,33.364762],
-  "geometry": {"coordinates":[-111.741149,33.364762],"type":"Point"}
+  "bbox": [
+    -111.741149,
+    33.364762,
+    -111.741149,
+    33.364762
+],
+  "geometry": {"coordinates":[-111.74114899999999,33.364762],"type":"Point"}
 }

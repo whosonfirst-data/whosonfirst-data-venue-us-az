@@ -2,13 +2,14 @@
   "id": 153024585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.964138,32.230328,-110.964138,32.230328",
     "geom:latitude":32.230328,
     "geom:longitude":-110.964138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N 3rd Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024585,
-    "wof:lastmodified":1449040556,
+    "wof:lastmodified":1466327468,
     "wof:name":"Ghost Cow Glass Works",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.964138,32.230328,-110.964138,32.230328],
-  "geometry": {"coordinates":[-110.964138,32.230328],"type":"Point"}
+  "bbox": [
+    -110.964138,
+    32.230328,
+    -110.964138,
+    32.230328
+],
+  "geometry": {"coordinates":[-110.96413800000001,32.230328],"type":"Point"}
 }

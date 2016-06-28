@@ -2,13 +2,14 @@
   "id": 169303683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.220459,34.200165,-114.220459,34.200165",
     "geom:latitude":34.200165,
     "geom:longitude":-114.220459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8862 Riverside Dr",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169303683,
-    "wof:lastmodified":1449032711,
+    "wof:lastmodified":1466333057,
     "wof:name":"Verde West RV Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.220459,34.200165,-114.220459,34.200165],
-  "geometry": {"coordinates":[-114.220459,34.200165],"type":"Point"}
+  "bbox": [
+    -114.220459,
+    34.200165,
+    -114.220459,
+    34.200165
+],
+  "geometry": {"coordinates":[-114.22045900000001,34.200165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168917053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.208875,33.665054,-112.208875,33.665054",
     "geom:latitude":33.665054,
     "geom:longitude":-112.208875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19914 N 69th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877777,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168917053,
-    "wof:lastmodified":1449028476,
+    "wof:lastmodified":1466330189,
     "wof:name":"Talking Shirts Inc",
     "wof:parent_id":85877777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.208875,33.665054,-112.208875,33.665054],
-  "geometry": {"coordinates":[-112.208875,33.665054],"type":"Point"}
+  "bbox": [
+    -112.208875,
+    33.665054,
+    -112.208875,
+    33.665054
+],
+  "geometry": {"coordinates":[-112.20887500000001,33.665054],"type":"Point"}
 }

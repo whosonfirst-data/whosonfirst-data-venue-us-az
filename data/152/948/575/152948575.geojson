@@ -2,13 +2,14 @@
   "id": 152948575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.077052,32.382248,-111.077052,32.382248",
     "geom:latitude":32.382248,
     "geom:longitude":-111.077052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 N Linda Vista Ranch Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.rickpeterson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152948575,
-    "wof:lastmodified":1449047958,
+    "wof:lastmodified":1466327273,
     "wof:name":"Peterson Productions",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.077052,32.382248,-111.077052,32.382248],
-  "geometry": {"coordinates":[-111.077052,32.382248],"type":"Point"}
+  "bbox": [
+    -111.077052,
+    32.382248,
+    -111.077052,
+    32.382248
+],
+  "geometry": {"coordinates":[-111.07705199999999,32.382248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353886267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.701241,35.040833,-110.701241,35.040833",
     "geom:latitude":35.040833,
     "geom:longitude":-110.701241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Mikes Pike St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":353886267,
-    "wof:lastmodified":1449019671,
+    "wof:lastmodified":1466330882,
     "wof:name":"Walmart Supercenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "tire"
     ]
 },
-  "bbox": [-110.701241,35.040833,-110.701241,35.040833],
+  "bbox": [
+    -110.701241,
+    35.040833,
+    -110.701241,
+    35.040833
+],
   "geometry": {"coordinates":[-110.701241,35.040833],"type":"Point"}
 }

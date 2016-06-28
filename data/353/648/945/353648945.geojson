@@ -2,13 +2,14 @@
   "id": 353648945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.363486,33.485899,-112.363486,33.485899",
     "geom:latitude":33.485899,
     "geom:longitude":-112.363486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14140 W Indian School Rd Ste B-1",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353648945,
-    "wof:lastmodified":1449018961,
+    "wof:lastmodified":1466329139,
     "wof:name":"Ground Control",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "wine"
     ]
 },
-  "bbox": [-112.363486,33.485899,-112.363486,33.485899],
-  "geometry": {"coordinates":[-112.363486,33.485899],"type":"Point"}
+  "bbox": [
+    -112.363486,
+    33.485899,
+    -112.363486,
+    33.485899
+],
+  "geometry": {"coordinates":[-112.36348599999999,33.485899],"type":"Point"}
 }

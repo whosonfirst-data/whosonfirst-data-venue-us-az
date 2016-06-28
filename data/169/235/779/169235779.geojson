@@ -2,13 +2,14 @@
   "id": 169235779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.908491,32.221564,-110.908491,32.221564",
     "geom:latitude":32.221564,
     "geom:longitude":-110.908491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.hslproperties.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169235779,
-    "wof:lastmodified":1449033259,
+    "wof:lastmodified":1466332403,
     "wof:name":"HSL Properties",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.908491,32.221564,-110.908491,32.221564],
+  "bbox": [
+    -110.908491,
+    32.221564,
+    -110.908491,
+    32.221564
+],
   "geometry": {"coordinates":[-110.908491,32.221564],"type":"Point"}
 }

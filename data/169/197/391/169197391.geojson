@@ -2,13 +2,14 @@
   "id": 169197391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090034,33.571162,-112.090034,33.571162",
     "geom:latitude":33.571162,
     "geom:longitude":-112.090034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 W Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169197391,
-    "wof:lastmodified":1449035540,
+    "wof:lastmodified":1466332078,
     "wof:name":"Northwood Construction",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.090034,33.571162,-112.090034,33.571162],
+  "bbox": [
+    -112.090034,
+    33.571162,
+    -112.090034,
+    33.571162
+],
   "geometry": {"coordinates":[-112.090034,33.571162],"type":"Point"}
 }

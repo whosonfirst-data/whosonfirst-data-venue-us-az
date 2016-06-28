@@ -2,13 +2,14 @@
   "id": 169411643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.595579,32.698718,-114.595579,32.698718",
     "geom:latitude":32.698718,
     "geom:longitude":-114.595579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 S Pate Dr",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169411643,
-    "wof:lastmodified":1449032845,
+    "wof:lastmodified":1466333759,
     "wof:name":"Total Truck & Hitch",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.595579,32.698718,-114.595579,32.698718],
+  "bbox": [
+    -114.595579,
+    32.698718,
+    -114.595579,
+    32.698718
+],
   "geometry": {"coordinates":[-114.595579,32.698718],"type":"Point"}
 }

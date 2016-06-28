@@ -2,13 +2,14 @@
   "id": 153034373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114911,33.643475,-112.114911,33.643475",
     "geom:latitude":33.643475,
     "geom:longitude":-112.114911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17455 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153034373,
-    "wof:lastmodified":1449040384,
+    "wof:lastmodified":1466326078,
     "wof:name":"Arizona Signscapes",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.114911,33.643475,-112.114911,33.643475],
-  "geometry": {"coordinates":[-112.114911,33.643475],"type":"Point"}
+  "bbox": [
+    -112.114911,
+    33.643475,
+    -112.114911,
+    33.643475
+],
+  "geometry": {"coordinates":[-112.11491100000001,33.643475],"type":"Point"}
 }

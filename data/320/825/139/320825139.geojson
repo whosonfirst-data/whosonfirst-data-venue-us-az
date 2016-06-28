@@ -2,13 +2,14 @@
   "id": 320825139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131098,33.687465,-112.131098,33.687465",
     "geom:latitude":33.687465,
     "geom:longitude":-112.131098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 W Via Montoya Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320825139,
-    "wof:lastmodified":1449011402,
+    "wof:lastmodified":1466330135,
     "wof:name":"Wood N Johnson Custom Tables L",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.131098,33.687465,-112.131098,33.687465],
-  "geometry": {"coordinates":[-112.131098,33.687465],"type":"Point"}
+  "bbox": [
+    -112.131098,
+    33.687465,
+    -112.131098,
+    33.687465
+],
+  "geometry": {"coordinates":[-112.13109799999999,33.687465],"type":"Point"}
 }

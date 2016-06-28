@@ -2,13 +2,14 @@
   "id": 320849993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120936,33.588863,-112.120936,33.588863",
     "geom:latitude":33.588863,
     "geom:longitude":-112.120936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11223 N 28th Dr Ste F101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320849993,
-    "wof:lastmodified":1449011946,
+    "wof:lastmodified":1466330439,
     "wof:name":"Altamont Mortgage",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-112.120936,33.588863,-112.120936,33.588863],
+  "bbox": [
+    -112.120936,
+    33.588863,
+    -112.120936,
+    33.588863
+],
   "geometry": {"coordinates":[-112.120936,33.588863],"type":"Point"}
 }

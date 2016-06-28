@@ -2,13 +2,14 @@
   "id": 153052345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968563,32.36176,-110.968563,32.36176",
     "geom:latitude":32.36176,
     "geom:longitude":-110.968563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 E Mountain Sunset Pl",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.rockyourworld.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153052345,
-    "wof:lastmodified":1449040530,
+    "wof:lastmodified":1466327897,
     "wof:name":"Rock Your World",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.968563,32.36176,-110.968563,32.36176],
+  "bbox": [
+    -110.968563,
+    32.36176,
+    -110.968563,
+    32.36176
+],
   "geometry": {"coordinates":[-110.968563,32.36176],"type":"Point"}
 }

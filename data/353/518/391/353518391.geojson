@@ -2,13 +2,14 @@
   "id": 353518391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930501,33.341919,-111.930501,33.341919",
     "geom:latitude":33.341919,
     "geom:longitude":-111.930501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E Carver Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353518391,
-    "wof:lastmodified":1449019697,
+    "wof:lastmodified":1466327489,
     "wof:name":"Palo Verde Shotcrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.930501,33.341919,-111.930501,33.341919],
-  "geometry": {"coordinates":[-111.930501,33.341919],"type":"Point"}
+  "bbox": [
+    -111.930501,
+    33.341919,
+    -111.930501,
+    33.341919
+],
+  "geometry": {"coordinates":[-111.93050100000001,33.341919],"type":"Point"}
 }

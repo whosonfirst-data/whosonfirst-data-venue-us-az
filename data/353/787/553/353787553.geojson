@@ -2,13 +2,14 @@
   "id": 353787553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.160392,31.340321,-110.160392,31.340321",
     "geom:latitude":31.340321,
     "geom:longitude":-110.160392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11615 S Apache Sky Rd",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353787553,
-    "wof:lastmodified":1449019413,
+    "wof:lastmodified":1466330369,
     "wof:name":"American Border Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-110.160392,31.340321,-110.160392,31.340321],
+  "bbox": [
+    -110.160392,
+    31.340321,
+    -110.160392,
+    31.340321
+],
   "geometry": {"coordinates":[-110.160392,31.340321],"type":"Point"}
 }

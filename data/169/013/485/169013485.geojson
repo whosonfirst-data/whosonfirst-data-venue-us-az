@@ -2,13 +2,14 @@
   "id": 169013485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.793117,33.572228,-111.793117,33.572228",
     "geom:latitude":33.572228,
     "geom:longitude":-111.793117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13307 E del Timbre Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169013485,
-    "wof:lastmodified":1449034926,
+    "wof:lastmodified":1466327175,
     "wof:name":"Tokyo Express Take Two",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.793117,33.572228,-111.793117,33.572228],
+  "bbox": [
+    -111.793117,
+    33.572228,
+    -111.793117,
+    33.572228
+],
   "geometry": {"coordinates":[-111.793117,33.572228],"type":"Point"}
 }

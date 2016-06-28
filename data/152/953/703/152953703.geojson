@@ -2,13 +2,14 @@
   "id": 152953703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.067404,33.452951,-112.067404,33.452951",
     "geom:latitude":33.452951,
     "geom:longitude":-112.067404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 N 5th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152953703,
-    "wof:lastmodified":1449047484,
+    "wof:lastmodified":1466327634,
     "wof:name":"International Genomics",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.067404,33.452951,-112.067404,33.452951],
+  "bbox": [
+    -112.067404,
+    33.452951,
+    -112.067404,
+    33.452951
+],
   "geometry": {"coordinates":[-112.067404,33.452951],"type":"Point"}
 }

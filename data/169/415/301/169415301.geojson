@@ -2,13 +2,14 @@
   "id": 169415301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82195,33.381368,-111.82195,33.381368",
     "geom:latitude":33.381368,
     "geom:longitude":-111.82195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 E Juanita Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.robrad.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833339,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169415301,
-    "wof:lastmodified":1449035053,
+    "wof:lastmodified":1466334162,
     "wof:name":"Robrad Tool & Engineering Inc",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.82195,33.381368,-111.82195,33.381368],
+  "bbox": [
+    -111.82195,
+    33.381368,
+    -111.82195,
+    33.381368
+],
   "geometry": {"coordinates":[-111.82195,33.381368],"type":"Point"}
 }

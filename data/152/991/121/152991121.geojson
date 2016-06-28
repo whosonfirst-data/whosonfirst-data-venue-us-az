@@ -2,13 +2,14 @@
   "id": 152991121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.654311,35.202786,-111.654311,35.202786",
     "geom:latitude":35.202786,
     "geom:longitude":-111.654311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Bonito St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152991121,
-    "wof:lastmodified":1449045761,
+    "wof:lastmodified":1466329572,
     "wof:name":"Adventure Discovery Tours",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.654311,35.202786,-111.654311,35.202786],
-  "geometry": {"coordinates":[-111.654311,35.202786],"type":"Point"}
+  "bbox": [
+    -111.654311,
+    35.202786,
+    -111.654311,
+    35.202786
+],
+  "geometry": {"coordinates":[-111.65431100000001,35.202786],"type":"Point"}
 }

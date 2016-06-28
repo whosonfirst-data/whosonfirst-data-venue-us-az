@@ -2,13 +2,14 @@
   "id": 336895023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917928,33.305484,-111.917928,33.305484",
     "geom:latitude":33.305484,
     "geom:longitude":-111.917928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 W Chandler Blvd Ste 1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336895023,
-    "wof:lastmodified":1448997402,
+    "wof:lastmodified":1466330271,
     "wof:name":"Model Home Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "curtain"
     ]
 },
-  "bbox": [-111.917928,33.305484,-111.917928,33.305484],
+  "bbox": [
+    -111.917928,
+    33.305484,
+    -111.917928,
+    33.305484
+],
   "geometry": {"coordinates":[-111.917928,33.305484],"type":"Point"}
 }

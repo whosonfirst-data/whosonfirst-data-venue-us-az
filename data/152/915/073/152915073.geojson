@@ -2,13 +2,14 @@
   "id": 152915073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974074,32.250299,-110.974074,32.250299",
     "geom:latitude":32.250299,
     "geom:longitude":-110.974074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.kellypaper.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152915073,
-    "wof:lastmodified":1449048862,
+    "wof:lastmodified":1466326236,
     "wof:name":"Kelly Paper",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974074,32.250299,-110.974074,32.250299],
+  "bbox": [
+    -110.974074,
+    32.250299,
+    -110.974074,
+    32.250299
+],
   "geometry": {"coordinates":[-110.974074,32.250299],"type":"Point"}
 }

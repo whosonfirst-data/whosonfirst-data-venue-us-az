@@ -2,13 +2,14 @@
   "id": 169270505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065189,33.606866,-112.065189,33.606866",
     "geom:latitude":33.606866,
     "geom:longitude":-112.065189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13236 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824655,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85824655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169270505,
-    "wof:lastmodified":1449033281,
+    "wof:lastmodified":1466332702,
     "wof:name":"Sales Improvement Pros Inc",
     "wof:parent_id":85824655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065189,33.606866,-112.065189,33.606866],
+  "bbox": [
+    -112.065189,
+    33.606866,
+    -112.065189,
+    33.606866
+],
   "geometry": {"coordinates":[-112.065189,33.606866],"type":"Point"}
 }

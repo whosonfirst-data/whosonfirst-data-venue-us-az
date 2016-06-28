@@ -2,13 +2,14 @@
   "id": 336912981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.832036,33.352016,-111.832036,33.352016",
     "geom:latitude":33.352016,
     "geom:longitude":-111.832036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 N. William Dillard Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336912981,
-    "wof:lastmodified":1448997490,
+    "wof:lastmodified":1466330528,
     "wof:name":"T.E.A.M Arizona Motorcyclist Training Centers",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-111.832036,33.352016,-111.832036,33.352016],
+  "bbox": [
+    -111.832036,
+    33.352016,
+    -111.832036,
+    33.352016
+],
   "geometry": {"coordinates":[-111.832036,33.352016],"type":"Point"}
 }

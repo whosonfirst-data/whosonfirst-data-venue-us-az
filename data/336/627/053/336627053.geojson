@@ -2,13 +2,14 @@
   "id": 336627053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982211,33.421879,-111.982211,33.421879",
     "geom:latitude":33.421879,
     "geom:longitude":-111.982211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 E University Dr # 255",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336627053,
-    "wof:lastmodified":1448998039,
+    "wof:lastmodified":1466326459,
     "wof:name":"Fishel & Bocker Hr Associates, Inc",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-111.982211,33.421879,-111.982211,33.421879],
-  "geometry": {"coordinates":[-111.982211,33.421879],"type":"Point"}
+  "bbox": [
+    -111.982211,
+    33.421879,
+    -111.982211,
+    33.421879
+],
+  "geometry": {"coordinates":[-111.98221100000001,33.421879],"type":"Point"}
 }

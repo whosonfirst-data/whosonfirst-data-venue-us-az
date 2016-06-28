@@ -2,13 +2,14 @@
   "id": 336667171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995361,33.40728,-111.995361,33.40728",
     "geom:latitude":33.40728,
     "geom:longitude":-111.995361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 E Broadway Rd # B15",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":336667171,
-    "wof:lastmodified":1448997636,
+    "wof:lastmodified":1466327355,
     "wof:name":"Jan-Pro of Phoenix",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-111.995361,33.40728,-111.995361,33.40728],
+  "bbox": [
+    -111.995361,
+    33.40728,
+    -111.995361,
+    33.40728
+],
   "geometry": {"coordinates":[-111.995361,33.40728],"type":"Point"}
 }

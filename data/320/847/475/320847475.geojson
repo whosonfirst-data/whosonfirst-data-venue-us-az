@@ -2,13 +2,14 @@
   "id": 320847475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.140026,33.599881,-112.140026,33.599881",
     "geom:latitude":33.599881,
     "geom:longitude":-112.140026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12630 N 38th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320847475,
-    "wof:lastmodified":1449012637,
+    "wof:lastmodified":1466330273,
     "wof:name":"Mettle Artisan",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"
     ]
 },
-  "bbox": [-112.140026,33.599881,-112.140026,33.599881],
-  "geometry": {"coordinates":[-112.140026,33.599881],"type":"Point"}
+  "bbox": [
+    -112.140026,
+    33.599881,
+    -112.140026,
+    33.599881
+],
+  "geometry": {"coordinates":[-112.14002600000001,33.599881],"type":"Point"}
 }

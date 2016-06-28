@@ -2,13 +2,14 @@
   "id": 320834987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014929,33.582425,-112.014929,33.582425",
     "geom:latitude":33.582425,
     "geom:longitude":-112.014929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 E Shea Blvd 121",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320834987,
-    "wof:lastmodified":1449011585,
+    "wof:lastmodified":1466330305,
     "wof:name":"Whitt Appraisals Inc",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-112.014929,33.582425,-112.014929,33.582425],
+  "bbox": [
+    -112.014929,
+    33.582425,
+    -112.014929,
+    33.582425
+],
   "geometry": {"coordinates":[-112.014929,33.582425],"type":"Point"}
 }

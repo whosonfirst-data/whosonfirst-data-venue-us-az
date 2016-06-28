@@ -2,13 +2,14 @@
   "id": 169237465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918406,33.322984,-111.918406,33.322984",
     "geom:latitude":33.322984,
     "geom:longitude":-111.918406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 N Lakeshore Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831471,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85831471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169237465,
-    "wof:lastmodified":1449032766,
+    "wof:lastmodified":1466332394,
     "wof:name":"Arizona High Tech Talent",
     "wof:parent_id":85831471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.918406,33.322984,-111.918406,33.322984],
+  "bbox": [
+    -111.918406,
+    33.322984,
+    -111.918406,
+    33.322984
+],
   "geometry": {"coordinates":[-111.918406,33.322984],"type":"Point"}
 }

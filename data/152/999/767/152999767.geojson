@@ -2,13 +2,14 @@
   "id": 152999767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.941137,33.768238,-111.941137,33.768238",
     "geom:latitude":33.768238,
     "geom:longitude":-111.941137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31205 N 65th St",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880937,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152999767,
-    "wof:lastmodified":1449048345,
+    "wof:lastmodified":1466329970,
     "wof:name":"Presseler Construction",
     "wof:parent_id":85880937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.941137,33.768238,-111.941137,33.768238],
+  "bbox": [
+    -111.941137,
+    33.768238,
+    -111.941137,
+    33.768238
+],
   "geometry": {"coordinates":[-111.941137,33.768238],"type":"Point"}
 }

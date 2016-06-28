@@ -2,13 +2,14 @@
   "id": 153003947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858602,32.066074,-110.858602,32.066074",
     "geom:latitude":32.066074,
     "geom:longitude":-110.858602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 S Wilmot Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153003947,
-    "wof:lastmodified":1449040792,
+    "wof:lastmodified":1466325767,
     "wof:name":"Tucson Police Dept Academy",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.858602,32.066074,-110.858602,32.066074],
+  "bbox": [
+    -110.858602,
+    32.066074,
+    -110.858602,
+    32.066074
+],
   "geometry": {"coordinates":[-110.858602,32.066074],"type":"Point"}
 }

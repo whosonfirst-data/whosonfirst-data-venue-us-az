@@ -2,13 +2,14 @@
   "id": 169400639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991903,33.631536,-111.991903,33.631536",
     "geom:latitude":33.631536,
     "geom:longitude":-111.991903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15815 N 41st Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169400639,
-    "wof:lastmodified":1449032994,
+    "wof:lastmodified":1466333617,
     "wof:name":"Bcs Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.991903,33.631536,-111.991903,33.631536],
-  "geometry": {"coordinates":[-111.991903,33.631536],"type":"Point"}
+  "bbox": [
+    -111.991903,
+    33.631536,
+    -111.991903,
+    33.631536
+],
+  "geometry": {"coordinates":[-111.99190299999999,33.631536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353810893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986458,32.250176,-110.986458,32.250176",
     "geom:latitude":32.250176,
     "geom:longitude":-110.986458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2395 N Fairview Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353810893,
-    "wof:lastmodified":1449019015,
+    "wof:lastmodified":1466330352,
     "wof:name":"Desert Diesel",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-110.986458,32.250176,-110.986458,32.250176],
+  "bbox": [
+    -110.986458,
+    32.250176,
+    -110.986458,
+    32.250176
+],
   "geometry": {"coordinates":[-110.986458,32.250176],"type":"Point"}
 }

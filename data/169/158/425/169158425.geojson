@@ -2,13 +2,14 @@
   "id": 169158425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995162,32.258994,-110.995162,32.258994",
     "geom:latitude":32.258994,
     "geom:longitude":-110.995162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169158425,
-    "wof:lastmodified":1449034889,
+    "wof:lastmodified":1466331799,
     "wof:name":"Arizona Hose & Rubber Co Inc",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995162,32.258994,-110.995162,32.258994],
-  "geometry": {"coordinates":[-110.995162,32.258994],"type":"Point"}
+  "bbox": [
+    -110.995162,
+    32.258994,
+    -110.995162,
+    32.258994
+],
+  "geometry": {"coordinates":[-110.99516199999999,32.258994],"type":"Point"}
 }

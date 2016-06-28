@@ -2,13 +2,14 @@
   "id": 320819435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.092013,33.695302,-112.092013,33.695302",
     "geom:latitude":33.695302,
     "geom:longitude":-112.092013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 W Parkside Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320819435,
-    "wof:lastmodified":1449012153,
+    "wof:lastmodified":1466329969,
     "wof:name":"Northwest Industrial Airpark Owners Association, Inc.",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.092013,33.695302,-112.092013,33.695302],
-  "geometry": {"coordinates":[-112.092013,33.695302],"type":"Point"}
+  "bbox": [
+    -112.092013,
+    33.695302,
+    -112.092013,
+    33.695302
+],
+  "geometry": {"coordinates":[-112.09201299999999,33.695302],"type":"Point"}
 }

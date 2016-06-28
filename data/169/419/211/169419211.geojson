@@ -2,13 +2,14 @@
   "id": 169419211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.926487,31.374822,-109.926487,31.374822",
     "geom:latitude":31.374822,
     "geom:longitude":-109.926487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 S Naco Hwy",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169419211,
-    "wof:lastmodified":1449035905,
+    "wof:lastmodified":1466334151,
     "wof:name":"Zips Auto Recyclers",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.926487,31.374822,-109.926487,31.374822],
-  "geometry": {"coordinates":[-109.926487,31.374822],"type":"Point"}
+  "bbox": [
+    -109.926487,
+    31.374822,
+    -109.926487,
+    31.374822
+],
+  "geometry": {"coordinates":[-109.92648699999999,31.374822],"type":"Point"}
 }

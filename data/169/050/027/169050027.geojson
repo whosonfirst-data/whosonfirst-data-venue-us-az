@@ -2,13 +2,14 @@
   "id": 169050027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.231135,33.536532,-112.231135,33.536532",
     "geom:latitude":33.536532,
     "geom:longitude":-112.231135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6923 N 80th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169050027,
-    "wof:lastmodified":1449034509,
+    "wof:lastmodified":1466328339,
     "wof:name":"Setting Sun Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.231135,33.536532,-112.231135,33.536532],
-  "geometry": {"coordinates":[-112.231135,33.536532],"type":"Point"}
+  "bbox": [
+    -112.231135,
+    33.536532,
+    -112.231135,
+    33.536532
+],
+  "geometry": {"coordinates":[-112.23113499999999,33.536532],"type":"Point"}
 }

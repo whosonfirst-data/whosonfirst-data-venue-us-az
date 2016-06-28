@@ -2,13 +2,14 @@
   "id": 169159025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108455,33.556213,-112.108455,33.556213",
     "geom:latitude":33.556213,
     "geom:longitude":-112.108455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8146 N 23rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.cumminsallison.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840313,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169159025,
-    "wof:lastmodified":1449033079,
+    "wof:lastmodified":1466331709,
     "wof:name":"Cummins-Allison Corp Ind",
     "wof:parent_id":85840313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.108455,33.556213,-112.108455,33.556213],
-  "geometry": {"coordinates":[-112.108455,33.556213],"type":"Point"}
+  "bbox": [
+    -112.108455,
+    33.556213,
+    -112.108455,
+    33.556213
+],
+  "geometry": {"coordinates":[-112.10845500000001,33.556213],"type":"Point"}
 }

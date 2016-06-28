@@ -2,13 +2,14 @@
   "id": 152949981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94071,31.333753,-110.94071,31.333753",
     "geom:latitude":31.333753,
     "geom:longitude":-110.94071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152949981,
-    "wof:lastmodified":1449047169,
+    "wof:lastmodified":1466327366,
     "wof:name":"KORYS LOMA LINDA",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.94071,31.333753,-110.94071,31.333753],
+  "bbox": [
+    -110.94071,
+    31.333753,
+    -110.94071,
+    31.333753
+],
   "geometry": {"coordinates":[-110.94071,31.333753],"type":"Point"}
 }

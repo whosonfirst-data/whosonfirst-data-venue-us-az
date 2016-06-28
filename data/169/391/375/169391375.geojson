@@ -2,13 +2,14 @@
   "id": 169391375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925825,33.382082,-111.925825,33.382082",
     "geom:latitude":33.382082,
     "geom:longitude":-111.925825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 S Lakeshore Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881387,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169391375,
-    "wof:lastmodified":1449034797,
+    "wof:lastmodified":1466333882,
     "wof:name":"John E Burger",
     "wof:parent_id":85881387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.925825,33.382082,-111.925825,33.382082],
+  "bbox": [
+    -111.925825,
+    33.382082,
+    -111.925825,
+    33.382082
+],
   "geometry": {"coordinates":[-111.925825,33.382082],"type":"Point"}
 }

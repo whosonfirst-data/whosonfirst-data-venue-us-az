@@ -2,13 +2,14 @@
   "id": 169162165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.377155,33.644512,-112.377155,33.644512",
     "geom:latitude":33.644512,
     "geom:longitude":-112.377155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17617 N Kimberly Way",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169162165,
-    "wof:lastmodified":1449035485,
+    "wof:lastmodified":1466331847,
     "wof:name":"Premier Landscape Maintenance",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.377155,33.644512,-112.377155,33.644512],
+  "bbox": [
+    -112.377155,
+    33.644512,
+    -112.377155,
+    33.644512
+],
   "geometry": {"coordinates":[-112.377155,33.644512],"type":"Point"}
 }

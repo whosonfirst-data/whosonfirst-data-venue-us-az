@@ -2,13 +2,14 @@
   "id": 353859443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.822159,32.294393,-110.822159,32.294393",
     "geom:latitude":32.294393,
     "geom:longitude":-110.822159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7990 E Snyder Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353859443,
-    "wof:lastmodified":1449020072,
+    "wof:lastmodified":1466330862,
     "wof:name":"Pinnacle Heights",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-110.822159,32.294393,-110.822159,32.294393],
+  "bbox": [
+    -110.822159,
+    32.294393,
+    -110.822159,
+    32.294393
+],
   "geometry": {"coordinates":[-110.822159,32.294393],"type":"Point"}
 }

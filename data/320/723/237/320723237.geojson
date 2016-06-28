@@ -2,13 +2,14 @@
   "id": 320723237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047638,33.490662,-112.047638,33.490662",
     "geom:latitude":33.490662,
     "geom:longitude":-112.047638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 N 16th St Ste 117",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320723237,
-    "wof:lastmodified":1449013441,
+    "wof:lastmodified":1466328628,
     "wof:name":"Citadel Real Estate",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.047638,33.490662,-112.047638,33.490662],
-  "geometry": {"coordinates":[-112.047638,33.490662],"type":"Point"}
+  "bbox": [
+    -112.047638,
+    33.490662,
+    -112.047638,
+    33.490662
+],
+  "geometry": {"coordinates":[-112.04763800000001,33.490662],"type":"Point"}
 }

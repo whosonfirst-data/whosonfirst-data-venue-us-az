@@ -2,13 +2,14 @@
   "id": 336736861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103839,33.775282,-112.103839,33.775282",
     "geom:latitude":33.775282,
     "geom:longitude":-112.103839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32014 N 20th Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":336736861,
-    "wof:lastmodified":1448997990,
+    "wof:lastmodified":1466328847,
     "wof:name":"3d/ocStudio Additions Plan Design",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "improvement"
     ]
 },
-  "bbox": [-112.103839,33.775282,-112.103839,33.775282],
-  "geometry": {"coordinates":[-112.103839,33.775282],"type":"Point"}
+  "bbox": [
+    -112.103839,
+    33.775282,
+    -112.103839,
+    33.775282
+],
+  "geometry": {"coordinates":[-112.10383899999999,33.775282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152927791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.820377,32.20635,-110.820377,32.20635",
     "geom:latitude":32.20635,
     "geom:longitude":-110.820377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.drivetime.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152927791,
-    "wof:lastmodified":1449048444,
+    "wof:lastmodified":1466325824,
     "wof:name":"Drive Time Car Sales",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.820377,32.20635,-110.820377,32.20635],
-  "geometry": {"coordinates":[-110.820377,32.20635],"type":"Point"}
+  "bbox": [
+    -110.820377,
+    32.20635,
+    -110.820377,
+    32.20635
+],
+  "geometry": {"coordinates":[-110.82037699999999,32.20635],"type":"Point"}
 }

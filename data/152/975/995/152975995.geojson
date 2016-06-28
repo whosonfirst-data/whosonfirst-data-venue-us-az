@@ -2,13 +2,14 @@
   "id": 152975995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.910885,32.259737,-110.910885,32.259737",
     "geom:latitude":32.259737,
     "geom:longitude":-110.910885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 E Monte Vista Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152975995,
-    "wof:lastmodified":1449048279,
+    "wof:lastmodified":1466328738,
     "wof:name":"Budget Insurance",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.910885,32.259737,-110.910885,32.259737],
-  "geometry": {"coordinates":[-110.910885,32.259737],"type":"Point"}
+  "bbox": [
+    -110.910885,
+    32.259737,
+    -110.910885,
+    32.259737
+],
+  "geometry": {"coordinates":[-110.91088499999999,32.259737],"type":"Point"}
 }

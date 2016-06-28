@@ -2,13 +2,14 @@
   "id": 168946507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115103,33.464889,-112.115103,33.464889",
     "geom:latitude":33.464889,
     "geom:longitude":-112.115103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 N 26th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168946507,
-    "wof:lastmodified":1449028499,
+    "wof:lastmodified":1466331091,
     "wof:name":"Harman Industries LLC",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.115103,33.464889,-112.115103,33.464889],
+  "bbox": [
+    -112.115103,
+    33.464889,
+    -112.115103,
+    33.464889
+],
   "geometry": {"coordinates":[-112.115103,33.464889],"type":"Point"}
 }

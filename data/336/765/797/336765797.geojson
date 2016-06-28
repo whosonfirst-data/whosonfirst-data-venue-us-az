@@ -2,13 +2,14 @@
   "id": 336765797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861967,33.362036,-111.861967,33.362036",
     "geom:latitude":33.362036,
     "geom:longitude":-111.861967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1341 W Onza Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336765797,
-    "wof:lastmodified":1448997558,
+    "wof:lastmodified":1466329312,
     "wof:name":"Storage Overhead Systems",
     "wof:parent_id":85832561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-111.861967,33.362036,-111.861967,33.362036],
-  "geometry": {"coordinates":[-111.861967,33.362036],"type":"Point"}
+  "bbox": [
+    -111.861967,
+    33.362036,
+    -111.861967,
+    33.362036
+],
+  "geometry": {"coordinates":[-111.86196700000001,33.362036],"type":"Point"}
 }

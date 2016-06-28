@@ -2,13 +2,14 @@
   "id": 168929825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134223,33.546254,-112.134223,33.546254",
     "geom:latitude":33.546254,
     "geom:longitude":-112.134223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7509 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.nuwayrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840313,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168929825,
-    "wof:lastmodified":1449028060,
+    "wof:lastmodified":1466330581,
     "wof:name":"Nu Way Realty Group",
     "wof:parent_id":85840313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134223,33.546254,-112.134223,33.546254],
-  "geometry": {"coordinates":[-112.134223,33.546254],"type":"Point"}
+  "bbox": [
+    -112.134223,
+    33.546254,
+    -112.134223,
+    33.546254
+],
+  "geometry": {"coordinates":[-112.13422300000001,33.546254],"type":"Point"}
 }

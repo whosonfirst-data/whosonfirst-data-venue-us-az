@@ -2,13 +2,14 @@
   "id": 169332295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.981815,32.327567,-110.981815,32.327567",
     "geom:latitude":32.327567,
     "geom:longitude":-110.981815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6621 N Los Arboles Cir",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169332295,
-    "wof:lastmodified":1449034526,
+    "wof:lastmodified":1466333294,
     "wof:name":"Beck Center Shaklee Distr",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.981815,32.327567,-110.981815,32.327567],
+  "bbox": [
+    -110.981815,
+    32.327567,
+    -110.981815,
+    32.327567
+],
   "geometry": {"coordinates":[-110.981815,32.327567],"type":"Point"}
 }

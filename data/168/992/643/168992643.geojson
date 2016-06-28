@@ -2,13 +2,14 @@
   "id": 168992643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.730793,33.603379,-111.730793,33.603379",
     "geom:latitude":33.603379,
     "geom:longitude":-111.730793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13225 N Fountain Hills Blvd",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168992643,
-    "wof:lastmodified":1449028136,
+    "wof:lastmodified":1466331434,
     "wof:name":"Ridge View Apartments",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.730793,33.603379,-111.730793,33.603379],
-  "geometry": {"coordinates":[-111.730793,33.603379],"type":"Point"}
+  "bbox": [
+    -111.730793,
+    33.603379,
+    -111.730793,
+    33.603379
+],
+  "geometry": {"coordinates":[-111.73079300000001,33.603379],"type":"Point"}
 }

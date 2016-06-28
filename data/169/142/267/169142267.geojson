@@ -2,13 +2,14 @@
   "id": 169142267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052407,34.732876,-112.052407,34.732876",
     "geom:latitude":34.732876,
     "geom:longitude":-112.052407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 W Desert Willow Dr",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169142267,
-    "wof:lastmodified":1449035303,
+    "wof:lastmodified":1466331662,
     "wof:name":"P & D Auto Brokers Inc",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.052407,34.732876,-112.052407,34.732876],
+  "bbox": [
+    -112.052407,
+    34.732876,
+    -112.052407,
+    34.732876
+],
   "geometry": {"coordinates":[-112.052407,34.732876],"type":"Point"}
 }

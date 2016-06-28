@@ -2,13 +2,14 @@
   "id": 168877247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.784054,32.189967,-110.784054,32.189967",
     "geom:latitude":32.189967,
     "geom:longitude":-110.784054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 S Pace West Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168877247,
-    "wof:lastmodified":1449028314,
+    "wof:lastmodified":1466328025,
     "wof:name":"Haveco",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.784054,32.189967,-110.784054,32.189967],
+  "bbox": [
+    -110.784054,
+    32.189967,
+    -110.784054,
+    32.189967
+],
   "geometry": {"coordinates":[-110.784054,32.189967],"type":"Point"}
 }

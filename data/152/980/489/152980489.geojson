@@ -2,13 +2,14 @@
   "id": 152980489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.067603,31.730852,-111.067603,31.730852",
     "geom:latitude":31.730852,
     "geom:longitude":-111.067603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4902 W de la Canoa Dr",
     "sg:city":"Amado",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152980489,
-    "wof:lastmodified":1449044611,
+    "wof:lastmodified":1466328944,
     "wof:name":"S Fragoza Trucking",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.067603,31.730852,-111.067603,31.730852],
-  "geometry": {"coordinates":[-111.067603,31.730852],"type":"Point"}
+  "bbox": [
+    -111.067603,
+    31.730852,
+    -111.067603,
+    31.730852
+],
+  "geometry": {"coordinates":[-111.06760300000001,31.730852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153037219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996562,33.309549,-111.996562,33.309549",
     "geom:latitude":33.309549,
     "geom:longitude":-111.996562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15216 S 40th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153037219,
-    "wof:lastmodified":1449040824,
+    "wof:lastmodified":1466326272,
     "wof:name":"ELR Financial",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.996562,33.309549,-111.996562,33.309549],
+  "bbox": [
+    -111.996562,
+    33.309549,
+    -111.996562,
+    33.309549
+],
   "geometry": {"coordinates":[-111.996562,33.309549],"type":"Point"}
 }

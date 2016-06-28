@@ -2,13 +2,14 @@
   "id": 353689883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.59565,33.743221,-112.59565,33.743221",
     "geom:latitude":33.743221,
     "geom:longitude":-112.59565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24717 W Red Robin Dr",
     "sg:city":"Wittmann",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353689883,
-    "wof:lastmodified":1449020398,
+    "wof:lastmodified":1466329539,
     "wof:name":"Rc Service Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.59565,33.743221,-112.59565,33.743221],
-  "geometry": {"coordinates":[-112.59565,33.743221],"type":"Point"}
+  "bbox": [
+    -112.59565,
+    33.743221,
+    -112.59565,
+    33.743221
+],
+  "geometry": {"coordinates":[-112.59565000000001,33.743221],"type":"Point"}
 }

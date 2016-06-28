@@ -2,13 +2,14 @@
   "id": 169097003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.695946,35.022413,-110.695946,35.022413",
     "geom:latitude":35.022413,
     "geom:longitude":-110.695946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E 2nd St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169097003,
-    "wof:lastmodified":1449033981,
+    "wof:lastmodified":1466330970,
     "wof:name":"Winslow Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.695946,35.022413,-110.695946,35.022413],
-  "geometry": {"coordinates":[-110.695946,35.022413],"type":"Point"}
+  "bbox": [
+    -110.695946,
+    35.022413,
+    -110.695946,
+    35.022413
+],
+  "geometry": {"coordinates":[-110.69594600000001,35.022413],"type":"Point"}
 }

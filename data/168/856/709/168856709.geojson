@@ -2,13 +2,14 @@
   "id": 168856709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203723,33.684482,-112.203723,33.684482",
     "geom:latitude":33.684482,
     "geom:longitude":-112.203723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6735 W Hillcrest Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877795,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168856709,
-    "wof:lastmodified":1449027979,
+    "wof:lastmodified":1466326286,
     "wof:name":"Place At Glendale",
     "wof:parent_id":85877795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.203723,33.684482,-112.203723,33.684482],
+  "bbox": [
+    -112.203723,
+    33.684482,
+    -112.203723,
+    33.684482
+],
   "geometry": {"coordinates":[-112.203723,33.684482],"type":"Point"}
 }

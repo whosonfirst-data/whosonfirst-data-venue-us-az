@@ -2,13 +2,14 @@
   "id": 169263273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.919369,31.40165,-109.919369,31.40165",
     "geom:latitude":31.40165,
     "geom:longitude":-109.919369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 State Hwy 92",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -34,10 +35,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85826387
+        85633793,
+        85826387,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169263273,
-    "wof:lastmodified":1449035867,
+    "wof:lastmodified":1466332677,
     "wof:name":"Eads Construction Redi Mix Inc",
     "wof:parent_id":85826387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.919369,31.40165,-109.919369,31.40165],
+  "bbox": [
+    -109.919369,
+    31.40165,
+    -109.919369,
+    31.40165
+],
   "geometry": {"coordinates":[-109.919369,31.40165],"type":"Point"}
 }

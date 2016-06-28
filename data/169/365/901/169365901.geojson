@@ -2,13 +2,14 @@
   "id": 169365901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943513,32.213408,-110.943513,32.213408",
     "geom:latitude":32.213408,
     "geom:longitude":-110.943513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2034 E 17th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169365901,
-    "wof:lastmodified":1449033226,
+    "wof:lastmodified":1466333678,
     "wof:name":"North Star Intl",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943513,32.213408,-110.943513,32.213408],
+  "bbox": [
+    -110.943513,
+    32.213408,
+    -110.943513,
+    32.213408
+],
   "geometry": {"coordinates":[-110.943513,32.213408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168946977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.535638,32.675673,-114.535638,32.675673",
     "geom:latitude":32.675673,
     "geom:longitude":-114.535638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5635 E Gila Ridge Rd",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803325,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85803325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168946977,
-    "wof:lastmodified":1449028501,
+    "wof:lastmodified":1466330973,
     "wof:name":"Bard Date Company LLC",
     "wof:parent_id":85803325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.535638,32.675673,-114.535638,32.675673],
-  "geometry": {"coordinates":[-114.535638,32.675673],"type":"Point"}
+  "bbox": [
+    -114.535638,
+    32.675673,
+    -114.535638,
+    32.675673
+],
+  "geometry": {"coordinates":[-114.53563800000001,32.675673],"type":"Point"}
 }

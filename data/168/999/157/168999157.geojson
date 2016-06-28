@@ -2,13 +2,14 @@
   "id": 168999157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.498652,34.519776,-112.498652,34.519776",
     "geom:latitude":34.519776,
     "geom:longitude":-112.498652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Copper Canyon Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168999157,
-    "wof:lastmodified":1449028497,
+    "wof:lastmodified":1466331707,
     "wof:name":"Doherty Construction",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.498652,34.519776,-112.498652,34.519776],
-  "geometry": {"coordinates":[-112.498652,34.519776],"type":"Point"}
+  "bbox": [
+    -112.498652,
+    34.519776,
+    -112.498652,
+    34.519776
+],
+  "geometry": {"coordinates":[-112.49865200000001,34.519776],"type":"Point"}
 }

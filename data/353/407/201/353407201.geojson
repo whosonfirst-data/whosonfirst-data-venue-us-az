@@ -2,13 +2,14 @@
   "id": 353407201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974647,33.41919,-111.974647,33.41919",
     "geom:latitude":33.41919,
     "geom:longitude":-111.974647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Park Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353407201,
-    "wof:lastmodified":1449019673,
+    "wof:lastmodified":1466326313,
     "wof:name":"M G Global",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "representative"
     ]
 },
-  "bbox": [-111.974647,33.41919,-111.974647,33.41919],
+  "bbox": [
+    -111.974647,
+    33.41919,
+    -111.974647,
+    33.41919
+],
   "geometry": {"coordinates":[-111.974647,33.41919],"type":"Point"}
 }

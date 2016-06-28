@@ -2,13 +2,14 @@
   "id": 169002449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.260541,33.677712,-112.260541,33.677712",
     "geom:latitude":33.677712,
     "geom:longitude":-112.260541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9335 W Quail Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169002449,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466325911,
     "wof:name":"Arizona Sports Installation",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.260541,33.677712,-112.260541,33.677712],
+  "bbox": [
+    -112.260541,
+    33.677712,
+    -112.260541,
+    33.677712
+],
   "geometry": {"coordinates":[-112.260541,33.677712],"type":"Point"}
 }

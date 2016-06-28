@@ -2,13 +2,14 @@
   "id": 153001213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011082,34.739602,-112.011082,34.739602",
     "geom:latitude":34.739602,
     "geom:longitude":-112.011082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 E Mingus Ave",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153001213,
-    "wof:lastmodified":1449040443,
+    "wof:lastmodified":1466326574,
     "wof:name":"Cottonwood Waste Water Plant",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.011082,34.739602,-112.011082,34.739602],
+  "bbox": [
+    -112.011082,
+    34.739602,
+    -112.011082,
+    34.739602
+],
   "geometry": {"coordinates":[-112.011082,34.739602],"type":"Point"}
 }

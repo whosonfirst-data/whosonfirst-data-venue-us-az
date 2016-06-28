@@ -2,13 +2,14 @@
   "id": 169261411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149143,33.563472,-112.149143,33.563472",
     "geom:latitude":33.563472,
     "geom:longitude":-112.149143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 W Barbara Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877825,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85877825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169261411,
-    "wof:lastmodified":1449032735,
+    "wof:lastmodified":1466332625,
     "wof:name":"Red Mesa Coffee Co LLC",
     "wof:parent_id":85877825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.149143,33.563472,-112.149143,33.563472],
+  "bbox": [
+    -112.149143,
+    33.563472,
+    -112.149143,
+    33.563472
+],
   "geometry": {"coordinates":[-112.149143,33.563472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169000175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.753346,33.284932,-111.753346,33.284932",
     "geom:latitude":33.284932,
     "geom:longitude":-111.753346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15255 E Willis Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169000175,
-    "wof:lastmodified":1449033222,
+    "wof:lastmodified":1466325762,
     "wof:name":"Electronic Development Co Inc",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.753346,33.284932,-111.753346,33.284932],
-  "geometry": {"coordinates":[-111.753346,33.284932],"type":"Point"}
+  "bbox": [
+    -111.753346,
+    33.284932,
+    -111.753346,
+    33.284932
+],
+  "geometry": {"coordinates":[-111.75334599999999,33.284932],"type":"Point"}
 }

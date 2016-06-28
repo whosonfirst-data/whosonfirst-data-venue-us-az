@@ -2,13 +2,14 @@
   "id": 353819521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.811156,32.206501,-110.811156,32.206501",
     "geom:latitude":32.206501,
     "geom:longitude":-110.811156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8503 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -92,10 +93,11 @@
         }
     ],
     "wof:id":353819521,
-    "wof:lastmodified":1449018859,
+    "wof:lastmodified":1466330430,
     "wof:name":"Protech ADT Authorized Dealer",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -117,6 +119,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-110.811156,32.206501,-110.811156,32.206501],
+  "bbox": [
+    -110.811156,
+    32.206501,
+    -110.811156,
+    32.206501
+],
   "geometry": {"coordinates":[-110.811156,32.206501],"type":"Point"}
 }

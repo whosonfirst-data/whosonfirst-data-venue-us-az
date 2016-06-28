@@ -2,13 +2,14 @@
   "id": 320667127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068321,33.509276,-112.068321,33.509276",
     "geom:latitude":33.509276,
     "geom:longitude":-112.068321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 E Camelback Rd Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320667127,
-    "wof:lastmodified":1449013713,
+    "wof:lastmodified":1466327448,
     "wof:name":"Kelli Berry & Assoc",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-112.068321,33.509276,-112.068321,33.509276],
+  "bbox": [
+    -112.068321,
+    33.509276,
+    -112.068321,
+    33.509276
+],
   "geometry": {"coordinates":[-112.068321,33.509276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168931083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018653,33.531178,-112.018653,33.531178",
     "geom:latitude":33.531178,
     "geom:longitude":-112.018653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 E Sierra Vista Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168931083,
-    "wof:lastmodified":1449028521,
+    "wof:lastmodified":1466330527,
     "wof:name":"Sherman Kasper & Assoc",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.018653,33.531178,-112.018653,33.531178],
+  "bbox": [
+    -112.018653,
+    33.531178,
+    -112.018653,
+    33.531178
+],
   "geometry": {"coordinates":[-112.018653,33.531178],"type":"Point"}
 }

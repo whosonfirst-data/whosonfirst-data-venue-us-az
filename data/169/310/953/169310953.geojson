@@ -2,13 +2,14 @@
   "id": 169310953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.819986,32.280503,-110.819986,32.280503",
     "geom:latitude":32.280503,
     "geom:longitude":-110.819986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 N Ocotillo Canyon Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.dovebid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169310953,
-    "wof:lastmodified":1449034717,
+    "wof:lastmodified":1466333135,
     "wof:name":"Dovebid Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.819986,32.280503,-110.819986,32.280503],
+  "bbox": [
+    -110.819986,
+    32.280503,
+    -110.819986,
+    32.280503
+],
   "geometry": {"coordinates":[-110.819986,32.280503],"type":"Point"}
 }

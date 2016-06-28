@@ -2,13 +2,14 @@
   "id": 320747867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973166,33.480084,-111.973166,33.480084",
     "geom:latitude":33.480084,
     "geom:longitude":-111.973166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320747867,
-    "wof:lastmodified":1449011935,
+    "wof:lastmodified":1466328837,
     "wof:name":"St Theresa Elementary School",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-111.973166,33.480084,-111.973166,33.480084],
-  "geometry": {"coordinates":[-111.973166,33.480084],"type":"Point"}
+  "bbox": [
+    -111.973166,
+    33.480084,
+    -111.973166,
+    33.480084
+],
+  "geometry": {"coordinates":[-111.97316600000001,33.480084],"type":"Point"}
 }

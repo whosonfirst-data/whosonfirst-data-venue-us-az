@@ -2,13 +2,14 @@
   "id": 169151897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073898,33.457503,-112.073898,33.457503",
     "geom:latitude":33.457503,
     "geom:longitude":-112.073898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169151897,
-    "wof:lastmodified":1449032717,
+    "wof:lastmodified":1466331669,
     "wof:name":"Recruiting Office",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073898,33.457503,-112.073898,33.457503],
+  "bbox": [
+    -112.073898,
+    33.457503,
+    -112.073898,
+    33.457503
+],
   "geometry": {"coordinates":[-112.073898,33.457503],"type":"Point"}
 }

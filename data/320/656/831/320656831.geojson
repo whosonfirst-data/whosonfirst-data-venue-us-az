@@ -2,13 +2,14 @@
   "id": 320656831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114253,33.465936,-112.114253,33.465936",
     "geom:latitude":33.465936,
     "geom:longitude":-112.114253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2544 W Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320656831,
-    "wof:lastmodified":1449013700,
+    "wof:lastmodified":1466327182,
     "wof:name":"Arizona Street Rod Shop",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "repairing"
     ]
 },
-  "bbox": [-112.114253,33.465936,-112.114253,33.465936],
-  "geometry": {"coordinates":[-112.114253,33.465936],"type":"Point"}
+  "bbox": [
+    -112.114253,
+    33.465936,
+    -112.114253,
+    33.465936
+],
+  "geometry": {"coordinates":[-112.11425300000001,33.465936],"type":"Point"}
 }

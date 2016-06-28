@@ -2,13 +2,14 @@
   "id": 169104597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181946,33.524457,-112.181946,33.524457",
     "geom:latitude":33.524457,
     "geom:longitude":-112.181946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6028 N 57th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.haskellauto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169104597,
-    "wof:lastmodified":1449034041,
+    "wof:lastmodified":1466331065,
     "wof:name":"Haskell Auto Svc Corp",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181946,33.524457,-112.181946,33.524457],
+  "bbox": [
+    -112.181946,
+    33.524457,
+    -112.181946,
+    33.524457
+],
   "geometry": {"coordinates":[-112.181946,33.524457],"type":"Point"}
 }

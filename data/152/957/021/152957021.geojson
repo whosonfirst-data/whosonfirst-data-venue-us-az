@@ -2,13 +2,14 @@
   "id": 152957021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145444,33.900328,-112.145444,33.900328",
     "geom:latitude":33.900328,
     "geom:longitude":-112.145444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3812 W Jenny Lin Rd",
     "sg:city":"New River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152957021,
-    "wof:lastmodified":1449048230,
+    "wof:lastmodified":1466327792,
     "wof:name":"Field Service Engineering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.145444,33.900328,-112.145444,33.900328],
+  "bbox": [
+    -112.145444,
+    33.900328,
+    -112.145444,
+    33.900328
+],
   "geometry": {"coordinates":[-112.145444,33.900328],"type":"Point"}
 }

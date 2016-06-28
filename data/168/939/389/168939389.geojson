@@ -2,13 +2,14 @@
   "id": 168939389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790276,33.379079,-111.790276,33.379079",
     "geom:latitude":33.379079,
     "geom:longitude":-111.790276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168939389,
-    "wof:lastmodified":1449027987,
+    "wof:lastmodified":1466330774,
     "wof:name":"Huntington Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.790276,33.379079,-111.790276,33.379079],
-  "geometry": {"coordinates":[-111.790276,33.379079],"type":"Point"}
+  "bbox": [
+    -111.790276,
+    33.379079,
+    -111.790276,
+    33.379079
+],
+  "geometry": {"coordinates":[-111.79027600000001,33.379079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320745057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124252,33.493487,-112.124252,33.493487",
     "geom:latitude":33.493487,
     "geom:longitude":-112.124252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 W Fairmount Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320745057,
-    "wof:lastmodified":1449014794,
+    "wof:lastmodified":1466328779,
     "wof:name":"Fsg Electric",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.124252,33.493487,-112.124252,33.493487],
+  "bbox": [
+    -112.124252,
+    33.493487,
+    -112.124252,
+    33.493487
+],
   "geometry": {"coordinates":[-112.124252,33.493487],"type":"Point"}
 }

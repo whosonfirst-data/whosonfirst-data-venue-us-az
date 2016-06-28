@@ -2,13 +2,14 @@
   "id": 153088419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.901453,33.705997,-111.901453,33.705997",
     "geom:latitude":33.705997,
     "geom:longitude":-111.901453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24202 N 83rd St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.kiltrentalusa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813251,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85813251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153088419,
-    "wof:lastmodified":1449040708,
+    "wof:lastmodified":1466329223,
     "wof:name":"Kilt Rental-Claymore Imports",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.901453,33.705997,-111.901453,33.705997],
+  "bbox": [
+    -111.901453,
+    33.705997,
+    -111.901453,
+    33.705997
+],
   "geometry": {"coordinates":[-111.901453,33.705997],"type":"Point"}
 }

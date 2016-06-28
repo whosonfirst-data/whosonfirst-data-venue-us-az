@@ -2,13 +2,14 @@
   "id": 168858937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036513,33.377729,-112.036513,33.377729",
     "geom:latitude":33.377729,
     "geom:longitude":-112.036513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 E Baseline Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871011,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168858937,
-    "wof:lastmodified":1449027861,
+    "wof:lastmodified":1466326482,
     "wof:name":"A All Insurance Group",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036513,33.377729,-112.036513,33.377729],
+  "bbox": [
+    -112.036513,
+    33.377729,
+    -112.036513,
+    33.377729
+],
   "geometry": {"coordinates":[-112.036513,33.377729],"type":"Point"}
 }

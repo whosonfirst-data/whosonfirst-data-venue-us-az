@@ -2,13 +2,14 @@
   "id": 169184675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.684473,33.409619,-111.684473,33.409619",
     "geom:latitude":33.409619,
     "geom:longitude":-111.684473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 S Power Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820311,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169184675,
-    "wof:lastmodified":1449033253,
+    "wof:lastmodified":1466331865,
     "wof:name":"Cigarettes Cheaper",
     "wof:parent_id":85820311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.684473,33.409619,-111.684473,33.409619],
+  "bbox": [
+    -111.684473,
+    33.409619,
+    -111.684473,
+    33.409619
+],
   "geometry": {"coordinates":[-111.684473,33.409619],"type":"Point"}
 }

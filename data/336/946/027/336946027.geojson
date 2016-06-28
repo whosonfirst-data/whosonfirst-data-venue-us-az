@@ -2,13 +2,14 @@
   "id": 336946027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.85991,33.232989,-111.85991,33.232989",
     "geom:latitude":33.232989,
     "geom:longitude":-111.85991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4980 S Alma School Rd Ste A-3",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336946027,
-    "wof:lastmodified":1448997888,
+    "wof:lastmodified":1466330640,
     "wof:name":"CMG CareToday",
     "wof:parent_id":85876665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "care"
     ]
 },
-  "bbox": [-111.85991,33.232989,-111.85991,33.232989],
+  "bbox": [
+    -111.85991,
+    33.232989,
+    -111.85991,
+    33.232989
+],
   "geometry": {"coordinates":[-111.85991,33.232989],"type":"Point"}
 }

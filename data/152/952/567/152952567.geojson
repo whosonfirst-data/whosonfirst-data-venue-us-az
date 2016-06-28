@@ -2,13 +2,14 @@
   "id": 152952567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.856242,32.250733,-110.856242,32.250733",
     "geom:latitude":32.250733,
     "geom:longitude":-110.856242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6417 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.moranquick.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152952567,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1466327551,
     "wof:name":"Moran Quick & Assoc",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.856242,32.250733,-110.856242,32.250733],
-  "geometry": {"coordinates":[-110.856242,32.250733],"type":"Point"}
+  "bbox": [
+    -110.856242,
+    32.250733,
+    -110.856242,
+    32.250733
+],
+  "geometry": {"coordinates":[-110.85624199999999,32.250733],"type":"Point"}
 }

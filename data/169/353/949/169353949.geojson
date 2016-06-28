@@ -2,13 +2,14 @@
   "id": 169353949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.766967,33.353274,-111.766967,33.353274",
     "geom:latitude":33.353274,
     "geom:longitude":-111.766967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 E Southshore Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169353949,
-    "wof:lastmodified":1449033634,
+    "wof:lastmodified":1466333329,
     "wof:name":"Dean A Coats",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.766967,33.353274,-111.766967,33.353274],
-  "geometry": {"coordinates":[-111.766967,33.353274],"type":"Point"}
+  "bbox": [
+    -111.766967,
+    33.353274,
+    -111.766967,
+    33.353274
+],
+  "geometry": {"coordinates":[-111.76696699999999,33.353274],"type":"Point"}
 }

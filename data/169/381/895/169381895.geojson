@@ -2,13 +2,14 @@
   "id": 169381895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974529,33.331554,-111.974529,33.331554",
     "geom:latitude":33.331554,
     "geom:longitude":-111.974529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5140 E Oneida St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814393,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
-        85840707,
-        85917479
+        85814393,
+        85917479,
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169381895,
-    "wof:lastmodified":1449032946,
+    "wof:lastmodified":1466333884,
     "wof:name":"G & T Painting Professionals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.974529,33.331554,-111.974529,33.331554],
+  "bbox": [
+    -111.974529,
+    33.331554,
+    -111.974529,
+    33.331554
+],
   "geometry": {"coordinates":[-111.974529,33.331554],"type":"Point"}
 }

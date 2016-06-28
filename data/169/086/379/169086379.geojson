@@ -2,13 +2,14 @@
   "id": 169086379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177063,33.67273,-112.177063,33.67273",
     "geom:latitude":33.67273,
     "geom:longitude":-112.177063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20711 N 55th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169086379,
-    "wof:lastmodified":1449034902,
+    "wof:lastmodified":1466330209,
     "wof:name":"Associated Retina",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177063,33.67273,-112.177063,33.67273],
+  "bbox": [
+    -112.177063,
+    33.67273,
+    -112.177063,
+    33.67273
+],
   "geometry": {"coordinates":[-112.177063,33.67273],"type":"Point"}
 }

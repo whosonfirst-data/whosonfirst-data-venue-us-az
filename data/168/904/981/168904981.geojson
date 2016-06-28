@@ -2,13 +2,14 @@
   "id": 168904981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117914,33.62299,-112.117914,33.62299",
     "geom:latitude":33.62299,
     "geom:longitude":-112.117914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15022 N 27th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811951,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168904981,
-    "wof:lastmodified":1449028613,
+    "wof:lastmodified":1466329628,
     "wof:name":"Composed Computers",
     "wof:parent_id":85811951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117914,33.62299,-112.117914,33.62299],
+  "bbox": [
+    -112.117914,
+    33.62299,
+    -112.117914,
+    33.62299
+],
   "geometry": {"coordinates":[-112.117914,33.62299],"type":"Point"}
 }

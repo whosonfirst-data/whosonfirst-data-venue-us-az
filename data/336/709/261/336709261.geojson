@@ -2,13 +2,14 @@
   "id": 336709261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014603,33.668227,-112.014603,33.668227",
     "geom:latitude":33.668227,
     "geom:longitude":-112.014603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 E Wahalla Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336709261,
-    "wof:lastmodified":1448997163,
+    "wof:lastmodified":1466328191,
     "wof:name":"Mayo Foundation For Medical Education And Research",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-112.014603,33.668227,-112.014603,33.668227],
-  "geometry": {"coordinates":[-112.014603,33.668227],"type":"Point"}
+  "bbox": [
+    -112.014603,
+    33.668227,
+    -112.014603,
+    33.668227
+],
+  "geometry": {"coordinates":[-112.01460299999999,33.668227],"type":"Point"}
 }

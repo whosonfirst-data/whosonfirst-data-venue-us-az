@@ -2,13 +2,14 @@
   "id": 169401013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932024,33.647868,-111.932024,33.647868",
     "geom:latitude":33.647868,
     "geom:longitude":-111.932024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 E Princess Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858215,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169401013,
-    "wof:lastmodified":1449035475,
+    "wof:lastmodified":1466333663,
     "wof:name":"Marsha Lafferty",
     "wof:parent_id":85858215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.932024,33.647868,-111.932024,33.647868],
+  "bbox": [
+    -111.932024,
+    33.647868,
+    -111.932024,
+    33.647868
+],
   "geometry": {"coordinates":[-111.932024,33.647868],"type":"Point"}
 }

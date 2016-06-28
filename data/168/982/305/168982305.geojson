@@ -2,13 +2,14 @@
   "id": 168982305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.993957,32.221827,-110.993957,32.221827",
     "geom:latitude":32.221827,
     "geom:longitude":-110.993957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 W Alameda St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168982305,
-    "wof:lastmodified":1449027903,
+    "wof:lastmodified":1466331434,
     "wof:name":"Ca Development & Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.993957,32.221827,-110.993957,32.221827],
-  "geometry": {"coordinates":[-110.993957,32.221827],"type":"Point"}
+  "bbox": [
+    -110.993957,
+    32.221827,
+    -110.993957,
+    32.221827
+],
+  "geometry": {"coordinates":[-110.99395699999999,32.221827],"type":"Point"}
 }

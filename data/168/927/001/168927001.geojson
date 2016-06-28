@@ -2,13 +2,14 @@
   "id": 168927001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896985,33.414858,-111.896985,33.414858",
     "geom:latitude":33.414858,
     "geom:longitude":-111.896985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 E Apache Blvd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168927001,
-    "wof:lastmodified":1449028508,
+    "wof:lastmodified":1466330717,
     "wof:name":"Apache Rivers Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.896985,33.414858,-111.896985,33.414858],
+  "bbox": [
+    -111.896985,
+    33.414858,
+    -111.896985,
+    33.414858
+],
   "geometry": {"coordinates":[-111.896985,33.414858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336802623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.739461,33.381193,-111.739461,33.381193",
     "geom:latitude":33.381193,
     "geom:longitude":-111.739461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1847 S Greenfield Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":336802623,
-    "wof:lastmodified":1448997832,
+    "wof:lastmodified":1466329392,
     "wof:name":"Kimball S Porter Ins Agcy Inc - State Farm Insurance Agent",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "casualty"
     ]
 },
-  "bbox": [-111.739461,33.381193,-111.739461,33.381193],
-  "geometry": {"coordinates":[-111.739461,33.381193],"type":"Point"}
+  "bbox": [
+    -111.739461,
+    33.381193,
+    -111.739461,
+    33.381193
+],
+  "geometry": {"coordinates":[-111.73946100000001,33.381193],"type":"Point"}
 }

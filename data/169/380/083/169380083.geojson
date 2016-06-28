@@ -2,13 +2,14 @@
   "id": 169380083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.774548,33.347457,-111.774548,33.347457",
     "geom:latitude":33.347457,
     "geom:longitude":-111.774548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Park Grove Ct",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169380083,
-    "wof:lastmodified":1449034202,
+    "wof:lastmodified":1466333743,
     "wof:name":"Weather Vane Restaurant",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.774548,33.347457,-111.774548,33.347457],
+  "bbox": [
+    -111.774548,
+    33.347457,
+    -111.774548,
+    33.347457
+],
   "geometry": {"coordinates":[-111.774548,33.347457],"type":"Point"}
 }

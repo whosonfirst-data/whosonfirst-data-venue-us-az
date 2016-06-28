@@ -2,13 +2,14 @@
   "id": 169215121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.932758,32.230591,-110.932758,32.230591",
     "geom:latitude":32.230591,
     "geom:longitude":-110.932758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 E 4th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169215121,
-    "wof:lastmodified":1449035389,
+    "wof:lastmodified":1466332191,
     "wof:name":"Thomas Patterson Guitar",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.932758,32.230591,-110.932758,32.230591],
-  "geometry": {"coordinates":[-110.932758,32.230591],"type":"Point"}
+  "bbox": [
+    -110.932758,
+    32.230591,
+    -110.932758,
+    32.230591
+],
+  "geometry": {"coordinates":[-110.93275800000001,32.230591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169244557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.791074,34.643442,-111.791074,34.643442",
     "geom:latitude":34.643442,
     "geom:longitude":-111.791074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3482 E Beaver Creek Rd",
     "sg:city":"Rimrock",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853611,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85853611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169244557,
-    "wof:lastmodified":1449033991,
+    "wof:lastmodified":1466332642,
     "wof:name":"Pazzesco's Restaurant & Pzzr",
     "wof:parent_id":85853611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.791074,34.643442,-111.791074,34.643442],
-  "geometry": {"coordinates":[-111.791074,34.643442],"type":"Point"}
+  "bbox": [
+    -111.791074,
+    34.643442,
+    -111.791074,
+    34.643442
+],
+  "geometry": {"coordinates":[-111.79107399999999,34.643442],"type":"Point"}
 }

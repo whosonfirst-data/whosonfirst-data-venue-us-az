@@ -2,13 +2,14 @@
   "id": 169289571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.984321,32.282975,-110.984321,32.282975",
     "geom:latitude":32.282975,
     "geom:longitude":-110.984321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 W Limberlost Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169289571,
-    "wof:lastmodified":1449035417,
+    "wof:lastmodified":1466332961,
     "wof:name":"L & D Claim Processing Inc",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.984321,32.282975,-110.984321,32.282975],
-  "geometry": {"coordinates":[-110.984321,32.282975],"type":"Point"}
+  "bbox": [
+    -110.984321,
+    32.282975,
+    -110.984321,
+    32.282975
+],
+  "geometry": {"coordinates":[-110.98432099999999,32.282975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169269843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173228,33.49498,-112.173228,33.49498",
     "geom:latitude":33.49498,
     "geom:longitude":-112.173228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 N 53rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169269843,
-    "wof:lastmodified":1449034755,
+    "wof:lastmodified":1466332721,
     "wof:name":"Arizona Sportservice",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173228,33.49498,-112.173228,33.49498],
-  "geometry": {"coordinates":[-112.173228,33.49498],"type":"Point"}
+  "bbox": [
+    -112.173228,
+    33.49498,
+    -112.173228,
+    33.49498
+],
+  "geometry": {"coordinates":[-112.17322799999999,33.49498],"type":"Point"}
 }

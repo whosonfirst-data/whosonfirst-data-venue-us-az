@@ -2,13 +2,14 @@
   "id": 336849973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.865791,33.306099,-111.865791,33.306099",
     "geom:latitude":33.306099,
     "geom:longitude":-111.865791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1256 W Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336849973,
-    "wof:lastmodified":1448997148,
+    "wof:lastmodified":1466330031,
     "wof:name":"American Central Re Co",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-111.865791,33.306099,-111.865791,33.306099],
+  "bbox": [
+    -111.865791,
+    33.306099,
+    -111.865791,
+    33.306099
+],
   "geometry": {"coordinates":[-111.865791,33.306099],"type":"Point"}
 }

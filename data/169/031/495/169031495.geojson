@@ -2,13 +2,14 @@
   "id": 169031495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931935,33.478714,-111.931935,33.478714",
     "geom:latitude":33.478714,
     "geom:longitude":-111.931935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 N 69th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169031495,
-    "wof:lastmodified":1449033915,
+    "wof:lastmodified":1466327000,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.931935,33.478714,-111.931935,33.478714],
+  "bbox": [
+    -111.931935,
+    33.478714,
+    -111.931935,
+    33.478714
+],
   "geometry": {"coordinates":[-111.931935,33.478714],"type":"Point"}
 }

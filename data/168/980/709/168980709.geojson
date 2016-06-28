@@ -2,13 +2,14 @@
   "id": 168980709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.788776,32.20903,-110.788776,32.20903",
     "geom:latitude":32.20903,
     "geom:longitude":-110.788776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9662 E Catalina Hills Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168980709,
-    "wof:lastmodified":1449027823,
+    "wof:lastmodified":1466331467,
     "wof:name":"Mosaic Quilting",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.788776,32.20903,-110.788776,32.20903],
+  "bbox": [
+    -110.788776,
+    32.20903,
+    -110.788776,
+    32.20903
+],
   "geometry": {"coordinates":[-110.788776,32.20903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169378031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058437,33.546742,-112.058437,33.546742",
     "geom:latitude":33.546742,
     "geom:longitude":-112.058437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 E Wagon Wheel Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848897,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85848897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169378031,
-    "wof:lastmodified":1449034918,
+    "wof:lastmodified":1466333737,
     "wof:name":"Etcetera & Co",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.058437,33.546742,-112.058437,33.546742],
+  "bbox": [
+    -112.058437,
+    33.546742,
+    -112.058437,
+    33.546742
+],
   "geometry": {"coordinates":[-112.058437,33.546742],"type":"Point"}
 }

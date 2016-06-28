@@ -2,13 +2,14 @@
   "id": 168876055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.299762,33.596562,-112.299762,33.596562",
     "geom:latitude":33.596562,
     "geom:longitude":-112.299762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11207 W Nevada Ave",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168876055,
-    "wof:lastmodified":1449027924,
+    "wof:lastmodified":1466327939,
     "wof:name":"A E Lewis & Sons Builder Inc",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.299762,33.596562,-112.299762,33.596562],
+  "bbox": [
+    -112.299762,
+    33.596562,
+    -112.299762,
+    33.596562
+],
   "geometry": {"coordinates":[-112.299762,33.596562],"type":"Point"}
 }

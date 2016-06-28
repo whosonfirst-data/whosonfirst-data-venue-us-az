@@ -2,13 +2,14 @@
   "id": 153014519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.84985,32.268238,-110.84985,32.268238",
     "geom:latitude":32.268238,
     "geom:longitude":-110.84985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 N Wild Daisy Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.proso.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153014519,
-    "wof:lastmodified":1449040569,
+    "wof:lastmodified":1466326535,
     "wof:name":"Professional Solutions",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.84985,32.268238,-110.84985,32.268238],
+  "bbox": [
+    -110.84985,
+    32.268238,
+    -110.84985,
+    32.268238
+],
   "geometry": {"coordinates":[-110.84985,32.268238],"type":"Point"}
 }

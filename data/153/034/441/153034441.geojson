@@ -2,13 +2,14 @@
   "id": 153034441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.327567,31.645582,-110.327567,31.645582",
     "geom:latitude":31.645582,
     "geom:longitude":-110.327567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 E Apache St",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834203,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85834203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153034441,
-    "wof:lastmodified":1449040382,
+    "wof:lastmodified":1466327789,
     "wof:name":"Thompson Day Care",
     "wof:parent_id":85834203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.327567,31.645582,-110.327567,31.645582],
+  "bbox": [
+    -110.327567,
+    31.645582,
+    -110.327567,
+    31.645582
+],
   "geometry": {"coordinates":[-110.327567,31.645582],"type":"Point"}
 }

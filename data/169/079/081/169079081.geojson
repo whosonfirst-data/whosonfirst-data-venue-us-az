@@ -2,13 +2,14 @@
   "id": 169079081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.618059,32.724109,-114.618059,32.724109",
     "geom:latitude":32.724109,
     "geom:longitude":-114.618059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 S Main St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169079081,
-    "wof:lastmodified":1449035412,
+    "wof:lastmodified":1466329983,
     "wof:name":"Aquarium House",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.618059,32.724109,-114.618059,32.724109],
+  "bbox": [
+    -114.618059,
+    32.724109,
+    -114.618059,
+    32.724109
+],
   "geometry": {"coordinates":[-114.618059,32.724109],"type":"Point"}
 }

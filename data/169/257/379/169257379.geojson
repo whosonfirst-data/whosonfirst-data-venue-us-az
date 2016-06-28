@@ -2,13 +2,14 @@
   "id": 169257379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.610489,35.211715,-111.610489,35.211715",
     "geom:latitude":35.211715,
     "geom:longitude":-111.610489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 E 7th Ave",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169257379,
-    "wof:lastmodified":1449033657,
+    "wof:lastmodified":1466332532,
     "wof:name":"Flag Stamp & Engraving LLC",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.610489,35.211715,-111.610489,35.211715],
+  "bbox": [
+    -111.610489,
+    35.211715,
+    -111.610489,
+    35.211715
+],
   "geometry": {"coordinates":[-111.610489,35.211715],"type":"Point"}
 }

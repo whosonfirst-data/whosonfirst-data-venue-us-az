@@ -2,13 +2,14 @@
   "id": 336822917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.843772,33.393345,-111.843772,33.393345",
     "geom:latitude":33.393345,
     "geom:longitude":-111.843772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":336822917,
-    "wof:lastmodified":1448997968,
+    "wof:lastmodified":1466329794,
     "wof:name":"Swiss Oven Bakery",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakers-wholesale"
     ]
 },
-  "bbox": [-111.843772,33.393345,-111.843772,33.393345],
+  "bbox": [
+    -111.843772,
+    33.393345,
+    -111.843772,
+    33.393345
+],
   "geometry": {"coordinates":[-111.843772,33.393345],"type":"Point"}
 }

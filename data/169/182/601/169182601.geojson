@@ -2,13 +2,14 @@
   "id": 169182601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.944032,32.212239,-110.944032,32.212239",
     "geom:latitude":32.212239,
     "geom:longitude":-110.944032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 E 18th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169182601,
-    "wof:lastmodified":1449034773,
+    "wof:lastmodified":1466331987,
     "wof:name":"Springhill Suites",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.944032,32.212239,-110.944032,32.212239],
-  "geometry": {"coordinates":[-110.944032,32.212239],"type":"Point"}
+  "bbox": [
+    -110.944032,
+    32.212239,
+    -110.944032,
+    32.212239
+],
+  "geometry": {"coordinates":[-110.94403200000001,32.212239],"type":"Point"}
 }

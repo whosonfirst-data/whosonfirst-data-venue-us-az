@@ -2,13 +2,14 @@
   "id": 320847243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121871,33.587121,-112.121871,33.587121",
     "geom:latitude":33.587121,
     "geom:longitude":-112.121871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11024 N 28th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320847243,
-    "wof:lastmodified":1449012637,
+    "wof:lastmodified":1466330269,
     "wof:name":"Bosom Buddies",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-112.121871,33.587121,-112.121871,33.587121],
+  "bbox": [
+    -112.121871,
+    33.587121,
+    -112.121871,
+    33.587121
+],
   "geometry": {"coordinates":[-112.121871,33.587121],"type":"Point"}
 }

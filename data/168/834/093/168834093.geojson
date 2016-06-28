@@ -2,13 +2,14 @@
   "id": 168834093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.474652,34.588459,-112.474652,34.588459",
     "geom:latitude":34.588459,
     "geom:longitude":-112.474652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2590 Willow Creek Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168834093,
-    "wof:lastmodified":1449027850,
+    "wof:lastmodified":1466326306,
     "wof:name":"RTD Roofing Inc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.474652,34.588459,-112.474652,34.588459],
-  "geometry": {"coordinates":[-112.474652,34.588459],"type":"Point"}
+  "bbox": [
+    -112.474652,
+    34.588459,
+    -112.474652,
+    34.588459
+],
+  "geometry": {"coordinates":[-112.47465200000001,34.588459],"type":"Point"}
 }

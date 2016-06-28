@@ -2,13 +2,14 @@
   "id": 168960261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.86068,32.259192,-109.86068,32.259192",
     "geom:latitude":32.259192,
     "geom:longitude":-109.86068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Sunset Strip",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168960261,
-    "wof:lastmodified":1449028329,
+    "wof:lastmodified":1466331134,
     "wof:name":"Western Mountain States",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.86068,32.259192,-109.86068,32.259192],
+  "bbox": [
+    -109.86068,
+    32.259192,
+    -109.86068,
+    32.259192
+],
   "geometry": {"coordinates":[-109.86068,32.259192],"type":"Point"}
 }

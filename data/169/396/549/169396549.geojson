@@ -2,13 +2,14 @@
   "id": 169396549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.884204,32.22159,-110.884204,32.22159",
     "geom:latitude":32.22159,
     "geom:longitude":-110.884204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4934 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812787,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85812787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169396549,
-    "wof:lastmodified":1449034852,
+    "wof:lastmodified":1466333961,
     "wof:name":"Montano's Communications Inc",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.884204,32.22159,-110.884204,32.22159],
+  "bbox": [
+    -110.884204,
+    32.22159,
+    -110.884204,
+    32.22159
+],
   "geometry": {"coordinates":[-110.884204,32.22159],"type":"Point"}
 }

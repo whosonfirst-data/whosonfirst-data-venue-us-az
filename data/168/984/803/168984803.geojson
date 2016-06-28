@@ -2,13 +2,14 @@
   "id": 168984803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622026,32.720295,-114.622026,32.720295",
     "geom:latitude":32.720295,
     "geom:longitude":-114.622026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 S 2nd Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168984803,
-    "wof:lastmodified":1449028205,
+    "wof:lastmodified":1466331478,
     "wof:name":"Yuma Nghborhood Dev Organizati",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622026,32.720295,-114.622026,32.720295],
-  "geometry": {"coordinates":[-114.622026,32.720295],"type":"Point"}
+  "bbox": [
+    -114.622026,
+    32.720295,
+    -114.622026,
+    32.720295
+],
+  "geometry": {"coordinates":[-114.62202600000001,32.720295],"type":"Point"}
 }

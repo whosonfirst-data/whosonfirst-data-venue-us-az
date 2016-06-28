@@ -2,13 +2,14 @@
   "id": 169183621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.928333,32.219839,-110.928333,32.219839",
     "geom:latitude":32.219839,
     "geom:longitude":-110.928333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Eastbourne Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169183621,
-    "wof:lastmodified":1449034460,
+    "wof:lastmodified":1466331997,
     "wof:name":"Broadway Village Apartments",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.928333,32.219839,-110.928333,32.219839],
-  "geometry": {"coordinates":[-110.928333,32.219839],"type":"Point"}
+  "bbox": [
+    -110.928333,
+    32.219839,
+    -110.928333,
+    32.219839
+],
+  "geometry": {"coordinates":[-110.92833299999999,32.219839],"type":"Point"}
 }

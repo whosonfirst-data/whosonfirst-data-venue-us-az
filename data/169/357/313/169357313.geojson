@@ -2,13 +2,14 @@
   "id": 169357313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.19888,33.652991,-112.19888,33.652991",
     "geom:latitude":33.652991,
     "geom:longitude":-112.19888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6412 W Villa Theresa Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169357313,
-    "wof:lastmodified":1449035550,
+    "wof:lastmodified":1466333606,
     "wof:name":"New Reflections Adult Care",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.19888,33.652991,-112.19888,33.652991],
+  "bbox": [
+    -112.19888,
+    33.652991,
+    -112.19888,
+    33.652991
+],
   "geometry": {"coordinates":[-112.19888,33.652991],"type":"Point"}
 }

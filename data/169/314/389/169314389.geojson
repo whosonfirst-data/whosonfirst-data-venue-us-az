@@ -2,13 +2,14 @@
   "id": 169314389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047421,33.530648,-112.047421,33.530648",
     "geom:latitude":33.530648,
     "geom:longitude":-112.047421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6315 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169314389,
-    "wof:lastmodified":1449035822,
+    "wof:lastmodified":1466333111,
     "wof:name":"North Point Apartments",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047421,33.530648,-112.047421,33.530648],
+  "bbox": [
+    -112.047421,
+    33.530648,
+    -112.047421,
+    33.530648
+],
   "geometry": {"coordinates":[-112.047421,33.530648],"type":"Point"}
 }

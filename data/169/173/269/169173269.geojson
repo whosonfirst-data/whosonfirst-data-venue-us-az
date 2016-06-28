@@ -2,13 +2,14 @@
   "id": 169173269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177454,33.540503,-112.177454,33.540503",
     "geom:latitude":33.540503,
     "geom:longitude":-112.177454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7112 N 55th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877785,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169173269,
-    "wof:lastmodified":1449033326,
+    "wof:lastmodified":1466331789,
     "wof:name":"Keil & Keil",
     "wof:parent_id":85877785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177454,33.540503,-112.177454,33.540503],
+  "bbox": [
+    -112.177454,
+    33.540503,
+    -112.177454,
+    33.540503
+],
   "geometry": {"coordinates":[-112.177454,33.540503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320681065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.079467,33.509352,-112.079467,33.509352",
     "geom:latitude":33.509352,
     "geom:longitude":-112.079467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Camelback Rd # 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320681065,
-    "wof:lastmodified":1449013536,
+    "wof:lastmodified":1466327934,
     "wof:name":"Klockwork Landscaping",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.079467,33.509352,-112.079467,33.509352],
-  "geometry": {"coordinates":[-112.079467,33.509352],"type":"Point"}
+  "bbox": [
+    -112.079467,
+    33.509352,
+    -112.079467,
+    33.509352
+],
+  "geometry": {"coordinates":[-112.07946699999999,33.509352],"type":"Point"}
 }

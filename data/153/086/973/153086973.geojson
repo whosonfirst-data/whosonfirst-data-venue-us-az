@@ -2,13 +2,14 @@
   "id": 153086973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.778104,33.582924,-111.778104,33.582924",
     "geom:latitude":33.582924,
     "geom:longitude":-111.778104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14021 E Becker Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.oraclearchitecture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153086973,
-    "wof:lastmodified":1449040683,
+    "wof:lastmodified":1466329186,
     "wof:name":"Oracle Architecture & Planning",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.778104,33.582924,-111.778104,33.582924],
+  "bbox": [
+    -111.778104,
+    33.582924,
+    -111.778104,
+    33.582924
+],
   "geometry": {"coordinates":[-111.778104,33.582924],"type":"Point"}
 }

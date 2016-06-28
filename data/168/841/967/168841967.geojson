@@ -2,13 +2,14 @@
   "id": 168841967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026008,33.509408,-112.026008,33.509408",
     "geom:latitude":33.509408,
     "geom:longitude":-112.026008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806131,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168841967,
-    "wof:lastmodified":1449027943,
+    "wof:lastmodified":1466327322,
     "wof:name":"Ace Security Co",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.026008,33.509408,-112.026008,33.509408],
+  "bbox": [
+    -112.026008,
+    33.509408,
+    -112.026008,
+    33.509408
+],
   "geometry": {"coordinates":[-112.026008,33.509408],"type":"Point"}
 }

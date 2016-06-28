@@ -2,13 +2,14 @@
   "id": 168855573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013123,33.465806,-112.013123,33.465806",
     "geom:latitude":33.465806,
     "geom:longitude":-112.013123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3118 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168855573,
-    "wof:lastmodified":1449028355,
+    "wof:lastmodified":1466326191,
     "wof:name":"Full Circle Healthcare",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013123,33.465806,-112.013123,33.465806],
-  "geometry": {"coordinates":[-112.013123,33.465806],"type":"Point"}
+  "bbox": [
+    -112.013123,
+    33.465806,
+    -112.013123,
+    33.465806
+],
+  "geometry": {"coordinates":[-112.01312299999999,33.465806],"type":"Point"}
 }

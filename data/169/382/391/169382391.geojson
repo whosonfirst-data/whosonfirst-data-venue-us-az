@@ -2,13 +2,14 @@
   "id": 169382391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.739195,33.623931,-111.739195,33.623931",
     "geom:latitude":33.623931,
     "geom:longitude":-111.739195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15833 E Eagle Crest Rd",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169382391,
-    "wof:lastmodified":1449033564,
+    "wof:lastmodified":1466334101,
     "wof:name":"Vactrax LLC",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.739195,33.623931,-111.739195,33.623931],
+  "bbox": [
+    -111.739195,
+    33.623931,
+    -111.739195,
+    33.623931
+],
   "geometry": {"coordinates":[-111.739195,33.623931],"type":"Point"}
 }

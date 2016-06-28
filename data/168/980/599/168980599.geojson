@@ -2,13 +2,14 @@
   "id": 168980599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.707722,32.800959,-109.707722,32.800959",
     "geom:latitude":32.800959,
     "geom:longitude":-109.707722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 US Hwy 191",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":168980599,
-    "wof:lastmodified":1449027823,
+    "wof:lastmodified":1466331457,
     "wof:name":"Fender Vendor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.707722,32.800959,-109.707722,32.800959],
+  "bbox": [
+    -109.707722,
+    32.800959,
+    -109.707722,
+    32.800959
+],
   "geometry": {"coordinates":[-109.707722,32.800959],"type":"Point"}
 }

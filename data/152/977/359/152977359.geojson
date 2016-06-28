@@ -2,13 +2,14 @@
   "id": 152977359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.74089,33.332416,-111.74089,33.332416",
     "geom:latitude":33.332416,
     "geom:longitude":-111.74089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 E San Tan Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152977359,
-    "wof:lastmodified":1449048998,
+    "wof:lastmodified":1466329012,
     "wof:name":"Felder Aqusitions & Sales LLC",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.74089,33.332416,-111.74089,33.332416],
-  "geometry": {"coordinates":[-111.74089,33.332416],"type":"Point"}
+  "bbox": [
+    -111.74089,
+    33.332416,
+    -111.74089,
+    33.332416
+],
+  "geometry": {"coordinates":[-111.74088999999999,33.332416],"type":"Point"}
 }

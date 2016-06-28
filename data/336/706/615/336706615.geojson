@@ -2,13 +2,14 @@
   "id": 336706615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020149,33.311291,-112.020149,33.311291",
     "geom:latitude":33.311291,
     "geom:longitude":-112.020149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 E Rock Wren Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336706615,
-    "wof:lastmodified":1448997002,
+    "wof:lastmodified":1466328151,
     "wof:name":"Phoenix Analog, Inc",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "device"
     ]
 },
-  "bbox": [-112.020149,33.311291,-112.020149,33.311291],
+  "bbox": [
+    -112.020149,
+    33.311291,
+    -112.020149,
+    33.311291
+],
   "geometry": {"coordinates":[-112.020149,33.311291],"type":"Point"}
 }

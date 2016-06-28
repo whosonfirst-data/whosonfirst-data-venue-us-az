@@ -2,13 +2,14 @@
   "id": 169264603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929217,33.447496,-111.929217,33.447496",
     "geom:latitude":33.447496,
     "geom:longitude":-111.929217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 N Date Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169264603,
-    "wof:lastmodified":1449034830,
+    "wof:lastmodified":1466332466,
     "wof:name":"Bookshelf Ranch",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.929217,33.447496,-111.929217,33.447496],
-  "geometry": {"coordinates":[-111.929217,33.447496],"type":"Point"}
+  "bbox": [
+    -111.929217,
+    33.447496,
+    -111.929217,
+    33.447496
+],
+  "geometry": {"coordinates":[-111.92921699999999,33.447496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153002949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098332,34.312113,-112.098332,34.312113",
     "geom:latitude":34.312113,
     "geom:longitude":-112.098332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20822 E Larry Ln",
     "sg:city":"Mayer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844103,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85844103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153002949,
-    "wof:lastmodified":1449040738,
+    "wof:lastmodified":1466327587,
     "wof:name":"Noble Computer Technologies",
     "wof:parent_id":85844103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098332,34.312113,-112.098332,34.312113],
+  "bbox": [
+    -112.098332,
+    34.312113,
+    -112.098332,
+    34.312113
+],
   "geometry": {"coordinates":[-112.098332,34.312113],"type":"Point"}
 }

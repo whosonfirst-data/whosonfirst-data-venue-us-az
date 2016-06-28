@@ -2,13 +2,14 @@
   "id": 353673917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.244605,33.568111,-112.244605,33.568111",
     "geom:latitude":33.568111,
     "geom:longitude":-112.244605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8626 W Sanna St",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353673917,
-    "wof:lastmodified":1449019256,
+    "wof:lastmodified":1466329409,
     "wof:name":"Peterson & Franklin Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.244605,33.568111,-112.244605,33.568111],
-  "geometry": {"coordinates":[-112.244605,33.568111],"type":"Point"}
+  "bbox": [
+    -112.244605,
+    33.568111,
+    -112.244605,
+    33.568111
+],
+  "geometry": {"coordinates":[-112.24460500000001,33.568111],"type":"Point"}
 }

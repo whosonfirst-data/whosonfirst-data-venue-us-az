@@ -2,13 +2,14 @@
   "id": 353807111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.99949,32.337141,-110.99949,32.337141",
     "geom:latitude":32.337141,
     "geom:longitude":-110.99949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 W Ina Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353807111,
-    "wof:lastmodified":1449018916,
+    "wof:lastmodified":1466330427,
     "wof:name":"John S Welsh Md",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-110.99949,32.337141,-110.99949,32.337141],
-  "geometry": {"coordinates":[-110.99949,32.337141],"type":"Point"}
+  "bbox": [
+    -110.99949,
+    32.337141,
+    -110.99949,
+    32.337141
+],
+  "geometry": {"coordinates":[-110.99948999999999,32.337141],"type":"Point"}
 }

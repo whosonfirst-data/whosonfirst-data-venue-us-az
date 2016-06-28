@@ -2,13 +2,14 @@
   "id": 336748801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052592,33.052979,-112.052592,33.052979",
     "geom:latitude":33.052979,
     "geom:longitude":-112.052592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45234 W Honeycutt Ave",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336748801,
-    "wof:lastmodified":1448997752,
+    "wof:lastmodified":1466328779,
     "wof:name":"The Corp Of Church Of Christ Latter-Day St",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-112.052592,33.052979,-112.052592,33.052979],
+  "bbox": [
+    -112.052592,
+    33.052979,
+    -112.052592,
+    33.052979
+],
   "geometry": {"coordinates":[-112.052592,33.052979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353625925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.350167,33.449817,-112.350167,33.449817",
     "geom:latitude":33.449817,
     "geom:longitude":-112.350167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Van Buren St",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353625925,
-    "wof:lastmodified":1449020840,
+    "wof:lastmodified":1466328869,
     "wof:name":"Eveland Sales Avondale Auto Center",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-112.350167,33.449817,-112.350167,33.449817],
+  "bbox": [
+    -112.350167,
+    33.449817,
+    -112.350167,
+    33.449817
+],
   "geometry": {"coordinates":[-112.350167,33.449817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169407667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880973,33.693988,-111.880973,33.693988",
     "geom:latitude":33.693988,
     "geom:longitude":-111.880973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9346 E Paraiso Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842017,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85842017,
         85880947
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169407667,
-    "wof:lastmodified":1449034522,
+    "wof:lastmodified":1466334077,
     "wof:name":"Myers Master Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.880973,33.693988,-111.880973,33.693988],
+  "bbox": [
+    -111.880973,
+    33.693988,
+    -111.880973,
+    33.693988
+],
   "geometry": {"coordinates":[-111.880973,33.693988],"type":"Point"}
 }

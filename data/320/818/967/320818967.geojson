@@ -2,13 +2,14 @@
   "id": 320818967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10047,33.676482,-112.10047,33.676482",
     "geom:latitude":33.676482,
     "geom:longitude":-112.10047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 W Rose Garden Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":320818967,
-    "wof:lastmodified":1449013077,
+    "wof:lastmodified":1466330073,
     "wof:name":"Sprinkler World",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "bamboo"
     ]
 },
-  "bbox": [-112.10047,33.676482,-112.10047,33.676482],
+  "bbox": [
+    -112.10047,
+    33.676482,
+    -112.10047,
+    33.676482
+],
   "geometry": {"coordinates":[-112.10047,33.676482],"type":"Point"}
 }

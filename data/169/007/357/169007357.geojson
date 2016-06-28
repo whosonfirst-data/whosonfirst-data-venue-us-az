@@ -2,13 +2,14 @@
   "id": 169007357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.830853,33.393404,-111.830853,33.393404",
     "geom:latitude":33.393404,
     "geom:longitude":-111.830853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846607,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85846607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169007357,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466326607,
     "wof:name":"Elite Auto Repair",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.830853,33.393404,-111.830853,33.393404],
+  "bbox": [
+    -111.830853,
+    33.393404,
+    -111.830853,
+    33.393404
+],
   "geometry": {"coordinates":[-111.830853,33.393404],"type":"Point"}
 }

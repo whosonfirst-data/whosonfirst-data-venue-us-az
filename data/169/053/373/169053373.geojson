@@ -2,13 +2,14 @@
   "id": 169053373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.335614,31.626481,-110.335614,31.626481",
     "geom:latitude":31.626481,
     "geom:longitude":-110.335614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 N Huachuca Blvd",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834203,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85834203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169053373,
-    "wof:lastmodified":1449033312,
+    "wof:lastmodified":1466328588,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":85834203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.335614,31.626481,-110.335614,31.626481],
-  "geometry": {"coordinates":[-110.335614,31.626481],"type":"Point"}
+  "bbox": [
+    -110.335614,
+    31.626481,
+    -110.335614,
+    31.626481
+],
+  "geometry": {"coordinates":[-110.33561400000001,31.626481],"type":"Point"}
 }

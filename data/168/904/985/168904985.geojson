@@ -2,13 +2,14 @@
   "id": 168904985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.835552,32.220926,-110.835552,32.220926",
     "geom:latitude":32.220926,
     "geom:longitude":-110.835552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7340 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.awardstogo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168904985,
-    "wof:lastmodified":1449028606,
+    "wof:lastmodified":1466329762,
     "wof:name":"Awards To Go",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.835552,32.220926,-110.835552,32.220926],
-  "geometry": {"coordinates":[-110.835552,32.220926],"type":"Point"}
+  "bbox": [
+    -110.835552,
+    32.220926,
+    -110.835552,
+    32.220926
+],
+  "geometry": {"coordinates":[-110.83555200000001,32.220926],"type":"Point"}
 }

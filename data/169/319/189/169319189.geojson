@@ -2,13 +2,14 @@
   "id": 169319189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858714,31.949275,-110.858714,31.949275",
     "geom:latitude":31.949275,
     "geom:longitude":-110.858714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16805 S Wilmot Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169319189,
-    "wof:lastmodified":1449034027,
+    "wof:lastmodified":1466333169,
     "wof:name":"Sentry of AZ Security Iron",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.858714,31.949275,-110.858714,31.949275],
-  "geometry": {"coordinates":[-110.858714,31.949275],"type":"Point"}
+  "bbox": [
+    -110.858714,
+    31.949275,
+    -110.858714,
+    31.949275
+],
+  "geometry": {"coordinates":[-110.85871400000001,31.949275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169419631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.084535,33.514205,-112.084535,33.514205",
     "geom:latitude":33.514205,
     "geom:longitude":-112.084535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 W Oregon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169419631,
-    "wof:lastmodified":1449035904,
+    "wof:lastmodified":1466334115,
     "wof:name":"Custom Security & Alarm LLC",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.084535,33.514205,-112.084535,33.514205],
+  "bbox": [
+    -112.084535,
+    33.514205,
+    -112.084535,
+    33.514205
+],
   "geometry": {"coordinates":[-112.084535,33.514205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169340603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.1709,33.534925,-112.1709,33.534925",
     "geom:latitude":33.534925,
     "geom:longitude":-112.1709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5222 W Ocotillo Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169340603,
-    "wof:lastmodified":1449035211,
+    "wof:lastmodified":1466333372,
     "wof:name":"Auto Collision Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.1709,33.534925,-112.1709,33.534925],
+  "bbox": [
+    -112.1709,
+    33.534925,
+    -112.1709,
+    33.534925
+],
   "geometry": {"coordinates":[-112.1709,33.534925],"type":"Point"}
 }

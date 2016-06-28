@@ -2,13 +2,14 @@
   "id": 168915427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.774361,32.096229,-110.774361,32.096229",
     "geom:latitude":32.096229,
     "geom:longitude":-110.774361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10216 E Cll Estrella Fugaz",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168915427,
-    "wof:lastmodified":1449028580,
+    "wof:lastmodified":1466330221,
     "wof:name":"Select Electric & Design",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.774361,32.096229,-110.774361,32.096229],
+  "bbox": [
+    -110.774361,
+    32.096229,
+    -110.774361,
+    32.096229
+],
   "geometry": {"coordinates":[-110.774361,32.096229],"type":"Point"}
 }

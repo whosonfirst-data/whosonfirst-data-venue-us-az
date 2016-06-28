@@ -2,13 +2,14 @@
   "id": 168824357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.766405,32.16813,-110.766405,32.16813",
     "geom:latitude":32.16813,
     "geom:longitude":-110.766405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4590 S Laredo Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168824357,
-    "wof:lastmodified":1449028028,
+    "wof:lastmodified":1466325803,
     "wof:name":"Floor Care Of Tucson",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.766405,32.16813,-110.766405,32.16813],
-  "geometry": {"coordinates":[-110.766405,32.16813],"type":"Point"}
+  "bbox": [
+    -110.766405,
+    32.16813,
+    -110.766405,
+    32.16813
+],
+  "geometry": {"coordinates":[-110.76640500000001,32.16813],"type":"Point"}
 }

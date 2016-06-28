@@ -2,13 +2,14 @@
   "id": 153025827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.099542,33.603728,-112.099542,33.603728",
     "geom:latitude":33.603728,
     "geom:longitude":-112.099542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12851 N 19th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824655,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85824655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153025827,
-    "wof:lastmodified":1449040753,
+    "wof:lastmodified":1466327532,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":85824655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.099542,33.603728,-112.099542,33.603728],
+  "bbox": [
+    -112.099542,
+    33.603728,
+    -112.099542,
+    33.603728
+],
   "geometry": {"coordinates":[-112.099542,33.603728],"type":"Point"}
 }

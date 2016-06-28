@@ -2,13 +2,14 @@
   "id": 169135043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.497731,34.549849,-112.497731,34.549849",
     "geom:latitude":34.549849,
     "geom:longitude":-112.497731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Pine Woods Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169135043,
-    "wof:lastmodified":1449033952,
+    "wof:lastmodified":1466331574,
     "wof:name":"Precision Custom Repair",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.497731,34.549849,-112.497731,34.549849],
+  "bbox": [
+    -112.497731,
+    34.549849,
+    -112.497731,
+    34.549849
+],
   "geometry": {"coordinates":[-112.497731,34.549849],"type":"Point"}
 }

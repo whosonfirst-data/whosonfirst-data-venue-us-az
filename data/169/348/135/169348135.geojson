@@ -2,13 +2,14 @@
   "id": 169348135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.250417,33.559762,-112.250417,33.559762",
     "geom:latitude":33.559762,
     "geom:longitude":-112.250417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8715 W Seldon Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169348135,
-    "wof:lastmodified":1449032832,
+    "wof:lastmodified":1466333528,
     "wof:name":"Dutchman Electric",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.250417,33.559762,-112.250417,33.559762],
+  "bbox": [
+    -112.250417,
+    33.559762,
+    -112.250417,
+    33.559762
+],
   "geometry": {"coordinates":[-112.250417,33.559762],"type":"Point"}
 }

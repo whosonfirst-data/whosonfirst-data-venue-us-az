@@ -2,13 +2,14 @@
   "id": 336620217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220911,33.496794,-112.220911,33.496794",
     "geom:latitude":33.496794,
     "geom:longitude":-112.220911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7505 W Devonshire Ave Ste 7",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336620217,
-    "wof:lastmodified":1448997929,
+    "wof:lastmodified":1466326329,
     "wof:name":"Westside Tattoo",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-112.220911,33.496794,-112.220911,33.496794],
+  "bbox": [
+    -112.220911,
+    33.496794,
+    -112.220911,
+    33.496794
+],
   "geometry": {"coordinates":[-112.220911,33.496794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168986081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.289936,31.963598,-110.289936,31.963598",
     "geom:latitude":31.963598,
     "geom:longitude":-110.289936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 E 7th St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168986081,
-    "wof:lastmodified":1449028428,
+    "wof:lastmodified":1466331513,
     "wof:name":"Bugwiser Exterminating Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.289936,31.963598,-110.289936,31.963598],
+  "bbox": [
+    -110.289936,
+    31.963598,
+    -110.289936,
+    31.963598
+],
   "geometry": {"coordinates":[-110.289936,31.963598],"type":"Point"}
 }

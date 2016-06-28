@@ -2,13 +2,14 @@
   "id": 169307791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.969687,33.479981,-111.969687,33.479981",
     "geom:latitude":33.479981,
     "geom:longitude":-111.969687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5109 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885499,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169307791,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466333252,
     "wof:name":"Tercon Construction Svc",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.969687,33.479981,-111.969687,33.479981],
-  "geometry": {"coordinates":[-111.969687,33.479981],"type":"Point"}
+  "bbox": [
+    -111.969687,
+    33.479981,
+    -111.969687,
+    33.479981
+],
+  "geometry": {"coordinates":[-111.96968699999999,33.479981],"type":"Point"}
 }

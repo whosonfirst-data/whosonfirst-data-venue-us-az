@@ -2,13 +2,14 @@
   "id": 168917033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.836899,32.16791,-110.836899,32.16791",
     "geom:latitude":32.16791,
     "geom:longitude":-110.836899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4648 S Goldenrod Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168917033,
-    "wof:lastmodified":1449028478,
+    "wof:lastmodified":1466330187,
     "wof:name":"Haven Place",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.836899,32.16791,-110.836899,32.16791],
+  "bbox": [
+    -110.836899,
+    32.16791,
+    -110.836899,
+    32.16791
+],
   "geometry": {"coordinates":[-110.836899,32.16791],"type":"Point"}
 }

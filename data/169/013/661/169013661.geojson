@@ -2,13 +2,14 @@
   "id": 169013661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090428,33.681758,-112.090428,33.681758",
     "geom:latitude":33.681758,
     "geom:longitude":-112.090428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21609 N 14th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.admiraleng.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169013661,
-    "wof:lastmodified":1449034927,
+    "wof:lastmodified":1466327191,
     "wof:name":"Admiral Engineering & Mfg Co",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.090428,33.681758,-112.090428,33.681758],
+  "bbox": [
+    -112.090428,
+    33.681758,
+    -112.090428,
+    33.681758
+],
   "geometry": {"coordinates":[-112.090428,33.681758],"type":"Point"}
 }

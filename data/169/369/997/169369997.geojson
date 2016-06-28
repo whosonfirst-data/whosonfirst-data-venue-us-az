@@ -2,13 +2,14 @@
   "id": 169369997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.175417,33.53988,-112.175417,33.53988",
     "geom:latitude":33.53988,
     "geom:longitude":-112.175417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 W Glenn Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.thechildrenscenter.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877785,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169369997,
-    "wof:lastmodified":1449035794,
+    "wof:lastmodified":1466333803,
     "wof:name":"Children's Center-Nrdvlpmntl",
     "wof:parent_id":85877785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.175417,33.53988,-112.175417,33.53988],
+  "bbox": [
+    -112.175417,
+    33.53988,
+    -112.175417,
+    33.53988
+],
   "geometry": {"coordinates":[-112.175417,33.53988],"type":"Point"}
 }

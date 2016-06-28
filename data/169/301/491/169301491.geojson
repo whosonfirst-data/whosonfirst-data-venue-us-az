@@ -2,13 +2,14 @@
   "id": 169301491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121111,33.542276,-112.121111,33.542276",
     "geom:latitude":33.542276,
     "geom:longitude":-112.121111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 W Myrtle Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169301491,
-    "wof:lastmodified":1449033529,
+    "wof:lastmodified":1466333243,
     "wof:name":"Over The Hill Transport Inc",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.121111,33.542276,-112.121111,33.542276],
+  "bbox": [
+    -112.121111,
+    33.542276,
+    -112.121111,
+    33.542276
+],
   "geometry": {"coordinates":[-112.121111,33.542276],"type":"Point"}
 }

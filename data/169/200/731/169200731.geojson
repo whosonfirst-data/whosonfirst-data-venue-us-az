@@ -2,13 +2,14 @@
   "id": 169200731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950939,33.30219,-111.950939,33.30219",
     "geom:latitude":33.30219,
     "geom:longitude":-111.950939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Roosevelt Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.osbornestucco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855285,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85855285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169200731,
-    "wof:lastmodified":1449034000,
+    "wof:lastmodified":1466332301,
     "wof:name":"Osborne Stucco Inc",
     "wof:parent_id":85855285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.950939,33.30219,-111.950939,33.30219],
-  "geometry": {"coordinates":[-111.950939,33.30219],"type":"Point"}
+  "bbox": [
+    -111.950939,
+    33.30219,
+    -111.950939,
+    33.30219
+],
+  "geometry": {"coordinates":[-111.95093900000001,33.30219],"type":"Point"}
 }

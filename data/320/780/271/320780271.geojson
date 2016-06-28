@@ -2,13 +2,14 @@
   "id": 320780271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081551,33.56509,-112.081551,33.56509",
     "geom:latitude":33.56509,
     "geom:longitude":-112.081551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 W Lawrence Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320780271,
-    "wof:lastmodified":1449014044,
+    "wof:lastmodified":1466329594,
     "wof:name":"Floorcloths Of Arizona",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.081551,33.56509,-112.081551,33.56509],
+  "bbox": [
+    -112.081551,
+    33.56509,
+    -112.081551,
+    33.56509
+],
   "geometry": {"coordinates":[-112.081551,33.56509],"type":"Point"}
 }

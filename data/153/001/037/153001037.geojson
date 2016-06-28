@@ -2,13 +2,14 @@
   "id": 153001037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.788871,33.399486,-110.788871,33.399486",
     "geom:latitude":33.399486,
     "geom:longitude":-110.788871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 N Broad St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153001037,
-    "wof:lastmodified":1449040448,
+    "wof:lastmodified":1466325798,
     "wof:name":"Tanning & Nails",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.788871,33.399486,-110.788871,33.399486],
+  "bbox": [
+    -110.788871,
+    33.399486,
+    -110.788871,
+    33.399486
+],
   "geometry": {"coordinates":[-110.788871,33.399486],"type":"Point"}
 }

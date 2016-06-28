@@ -2,13 +2,14 @@
   "id": 336860945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890931,33.337029,-111.890931,33.337029",
     "geom:latitude":33.337029,
     "geom:longitude":-111.890931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 W Colt Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336860945,
-    "wof:lastmodified":1448997428,
+    "wof:lastmodified":1466330181,
     "wof:name":"Burnt Biscuit Cookout Company",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-111.890931,33.337029,-111.890931,33.337029],
-  "geometry": {"coordinates":[-111.890931,33.337029],"type":"Point"}
+  "bbox": [
+    -111.890931,
+    33.337029,
+    -111.890931,
+    33.337029
+],
+  "geometry": {"coordinates":[-111.89093099999999,33.337029],"type":"Point"}
 }

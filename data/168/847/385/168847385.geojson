@@ -2,13 +2,14 @@
   "id": 168847385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.859004,33.360451,-111.859004,33.360451",
     "geom:latitude":33.360451,
     "geom:longitude":-111.859004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 S Alma School Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832561,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85832561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168847385,
-    "wof:lastmodified":1449028038,
+    "wof:lastmodified":1466327625,
     "wof:name":"Steve Fanto MD",
     "wof:parent_id":85832561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.859004,33.360451,-111.859004,33.360451],
+  "bbox": [
+    -111.859004,
+    33.360451,
+    -111.859004,
+    33.360451
+],
   "geometry": {"coordinates":[-111.859004,33.360451],"type":"Point"}
 }

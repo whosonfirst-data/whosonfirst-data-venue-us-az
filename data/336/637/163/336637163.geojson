@@ -2,13 +2,14 @@
   "id": 336637163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055491,33.44818,-112.055491,33.44818",
     "geom:latitude":33.44818,
     "geom:longitude":-112.055491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 E Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336637163,
-    "wof:lastmodified":1448996920,
+    "wof:lastmodified":1466326711,
     "wof:name":"Merchants Building Maintenance",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.055491,33.44818,-112.055491,33.44818],
+  "bbox": [
+    -112.055491,
+    33.44818,
+    -112.055491,
+    33.44818
+],
   "geometry": {"coordinates":[-112.055491,33.44818],"type":"Point"}
 }

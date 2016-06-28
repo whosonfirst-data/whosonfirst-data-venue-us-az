@@ -2,13 +2,14 @@
   "id": 336816187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842963,33.36478,-111.842963,33.36478",
     "geom:latitude":33.36478,
     "geom:longitude":-111.842963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W Guadalupe Rd Ste 101",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336816187,
-    "wof:lastmodified":1448997564,
+    "wof:lastmodified":1466329535,
     "wof:name":"AZ Lucky Star",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.842963,33.36478,-111.842963,33.36478],
+  "bbox": [
+    -111.842963,
+    33.36478,
+    -111.842963,
+    33.36478
+],
   "geometry": {"coordinates":[-111.842963,33.36478],"type":"Point"}
 }

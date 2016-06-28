@@ -2,13 +2,14 @@
   "id": 169116137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.148809,35.228952,-114.148809,35.228952",
     "geom:latitude":35.228952,
     "geom:longitude":-114.148809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 Chino Dr",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169116137,
-    "wof:lastmodified":1449033174,
+    "wof:lastmodified":1466331286,
     "wof:name":"Desert Sunset Trailer Park",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.148809,35.228952,-114.148809,35.228952],
+  "bbox": [
+    -114.148809,
+    35.228952,
+    -114.148809,
+    35.228952
+],
   "geometry": {"coordinates":[-114.148809,35.228952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320700053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102019,33.534553,-112.102019,33.534553",
     "geom:latitude":33.534553,
     "geom:longitude":-112.102019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 W Tuckey Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320700053,
-    "wof:lastmodified":1449014637,
+    "wof:lastmodified":1466328310,
     "wof:name":"North Palms",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.102019,33.534553,-112.102019,33.534553],
+  "bbox": [
+    -112.102019,
+    33.534553,
+    -112.102019,
+    33.534553
+],
   "geometry": {"coordinates":[-112.102019,33.534553],"type":"Point"}
 }

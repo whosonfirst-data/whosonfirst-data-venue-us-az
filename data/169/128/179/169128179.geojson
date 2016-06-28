@@ -2,13 +2,14 @@
   "id": 169128179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886477,33.655067,-111.886477,33.655067",
     "geom:latitude":33.655067,
     "geom:longitude":-111.886477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9020 E Nittany Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880969,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169128179,
-    "wof:lastmodified":1449033968,
+    "wof:lastmodified":1466331502,
     "wof:name":"Valniceks Painting",
     "wof:parent_id":85880969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.886477,33.655067,-111.886477,33.655067],
+  "bbox": [
+    -111.886477,
+    33.655067,
+    -111.886477,
+    33.655067
+],
   "geometry": {"coordinates":[-111.886477,33.655067],"type":"Point"}
 }

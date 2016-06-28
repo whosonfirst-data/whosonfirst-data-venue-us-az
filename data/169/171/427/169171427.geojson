@@ -2,13 +2,14 @@
   "id": 169171427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885204,34.618415,-111.885204,34.618415",
     "geom:latitude":34.618415,
     "geom:longitude":-111.885204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1886 W Cimarron Dr",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169171427,
-    "wof:lastmodified":1449035981,
+    "wof:lastmodified":1466331868,
     "wof:name":"Worden Automotive Svc",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885204,34.618415,-111.885204,34.618415],
+  "bbox": [
+    -111.885204,
+    34.618415,
+    -111.885204,
+    34.618415
+],
   "geometry": {"coordinates":[-111.885204,34.618415],"type":"Point"}
 }

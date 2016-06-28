@@ -2,13 +2,14 @@
   "id": 168925715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07315,33.509356,-112.07315,33.509356",
     "geom:latitude":33.509356,
     "geom:longitude":-112.07315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168925715,
-    "wof:lastmodified":1449027782,
+    "wof:lastmodified":1466330389,
     "wof:name":"Natural Foot Inc",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.07315,33.509356,-112.07315,33.509356],
+  "bbox": [
+    -112.07315,
+    33.509356,
+    -112.07315,
+    33.509356
+],
   "geometry": {"coordinates":[-112.07315,33.509356],"type":"Point"}
 }

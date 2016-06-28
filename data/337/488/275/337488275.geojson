@@ -2,13 +2,14 @@
   "id": 337488275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926178,33.507721,-111.926178,33.507721",
     "geom:latitude":33.507721,
     "geom:longitude":-111.926178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":337488275,
-    "wof:lastmodified":1449027721,
+    "wof:lastmodified":1466326146,
     "wof:name":"Lincoln Financial",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "planner"
     ]
 },
-  "bbox": [-111.926178,33.507721,-111.926178,33.507721],
-  "geometry": {"coordinates":[-111.926178,33.507721],"type":"Point"}
+  "bbox": [
+    -111.926178,
+    33.507721,
+    -111.926178,
+    33.507721
+],
+  "geometry": {"coordinates":[-111.92617799999999,33.507721],"type":"Point"}
 }

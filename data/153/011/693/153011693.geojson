@@ -2,13 +2,14 @@
   "id": 153011693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.099618,33.638132,-112.099618,33.638132",
     "geom:latitude":33.638132,
     "geom:longitude":-112.099618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16819 N 19th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835119,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153011693,
-    "wof:lastmodified":1449040731,
+    "wof:lastmodified":1466326145,
     "wof:name":"Turf Plaza Smoke Shop",
     "wof:parent_id":85835119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.099618,33.638132,-112.099618,33.638132],
-  "geometry": {"coordinates":[-112.099618,33.638132],"type":"Point"}
+  "bbox": [
+    -112.099618,
+    33.638132,
+    -112.099618,
+    33.638132
+],
+  "geometry": {"coordinates":[-112.09961800000001,33.638132],"type":"Point"}
 }

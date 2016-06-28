@@ -2,13 +2,14 @@
   "id": 152990345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.895378,32.22144,-110.895378,32.22144",
     "geom:latitude":32.22144,
     "geom:longitude":-110.895378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152990345,
-    "wof:lastmodified":1449047394,
+    "wof:lastmodified":1466329526,
     "wof:name":"A Z Nail Supply",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.895378,32.22144,-110.895378,32.22144],
-  "geometry": {"coordinates":[-110.895378,32.22144],"type":"Point"}
+  "bbox": [
+    -110.895378,
+    32.22144,
+    -110.895378,
+    32.22144
+],
+  "geometry": {"coordinates":[-110.89537799999999,32.22144],"type":"Point"}
 }

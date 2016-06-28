@@ -2,13 +2,14 @@
   "id": 169275297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118569,33.596472,-112.118569,33.596472",
     "geom:latitude":33.596472,
     "geom:longitude":-112.118569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 W Cactus Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.flamesgymnastics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169275297,
-    "wof:lastmodified":1449033750,
+    "wof:lastmodified":1466332737,
     "wof:name":"Flames Gymnastic Academy",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.118569,33.596472,-112.118569,33.596472],
-  "geometry": {"coordinates":[-112.118569,33.596472],"type":"Point"}
+  "bbox": [
+    -112.118569,
+    33.596472,
+    -112.118569,
+    33.596472
+],
+  "geometry": {"coordinates":[-112.11856899999999,33.596472],"type":"Point"}
 }

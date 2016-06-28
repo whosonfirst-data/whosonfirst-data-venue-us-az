@@ -2,13 +2,14 @@
   "id": 337601699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916521,33.612523,-111.916521,33.612523",
     "geom:latitude":33.612523,
     "geom:longitude":-111.916521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 E Gray Rd Ste B2",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337601699,
-    "wof:lastmodified":1449027307,
+    "wof:lastmodified":1466327129,
     "wof:name":"Digicomm Communications Corp.",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "network"
     ]
 },
-  "bbox": [-111.916521,33.612523,-111.916521,33.612523],
+  "bbox": [
+    -111.916521,
+    33.612523,
+    -111.916521,
+    33.612523
+],
   "geometry": {"coordinates":[-111.916521,33.612523],"type":"Point"}
 }

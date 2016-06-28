@@ -2,13 +2,14 @@
   "id": 353781625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.285988,31.947101,-110.285988,31.947101",
     "geom:latitude":31.947101,
     "geom:longitude":-110.285988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Highway 80",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353781625,
-    "wof:lastmodified":1449018733,
+    "wof:lastmodified":1466330313,
     "wof:name":"Shields Street",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-110.285988,31.947101,-110.285988,31.947101],
+  "bbox": [
+    -110.285988,
+    31.947101,
+    -110.285988,
+    31.947101
+],
   "geometry": {"coordinates":[-110.285988,31.947101],"type":"Point"}
 }

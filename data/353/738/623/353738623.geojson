@@ -2,13 +2,14 @@
   "id": 353738623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.237511,33.62867,-112.237511,33.62867",
     "geom:latitude":33.62867,
     "geom:longitude":-112.237511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15814 N 83rd Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353738623,
-    "wof:lastmodified":1449020106,
+    "wof:lastmodified":1466329911,
     "wof:name":"McDuffys Peoria",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-112.237511,33.62867,-112.237511,33.62867],
+  "bbox": [
+    -112.237511,
+    33.62867,
+    -112.237511,
+    33.62867
+],
   "geometry": {"coordinates":[-112.237511,33.62867],"type":"Point"}
 }

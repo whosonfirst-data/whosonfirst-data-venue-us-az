@@ -2,13 +2,14 @@
   "id": 153007223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.825724,32.231452,-110.825724,32.231452",
     "geom:latitude":32.231452,
     "geom:longitude":-110.825724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7809 E 3rd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153007223,
-    "wof:lastmodified":1449040742,
+    "wof:lastmodified":1466325879,
     "wof:name":"Gary Eggers Construction",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.825724,32.231452,-110.825724,32.231452],
-  "geometry": {"coordinates":[-110.825724,32.231452],"type":"Point"}
+  "bbox": [
+    -110.825724,
+    32.231452,
+    -110.825724,
+    32.231452
+],
+  "geometry": {"coordinates":[-110.82572399999999,32.231452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353703661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.615985,32.698532,-114.615985,32.698532",
     "geom:latitude":32.698532,
     "geom:longitude":-114.615985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 E 16th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353703661,
-    "wof:lastmodified":1449019038,
+    "wof:lastmodified":1466329643,
     "wof:name":"U-Haul",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "trailer"
     ]
 },
-  "bbox": [-114.615985,32.698532,-114.615985,32.698532],
-  "geometry": {"coordinates":[-114.615985,32.698532],"type":"Point"}
+  "bbox": [
+    -114.615985,
+    32.698532,
+    -114.615985,
+    32.698532
+],
+  "geometry": {"coordinates":[-114.61598499999999,32.698532],"type":"Point"}
 }

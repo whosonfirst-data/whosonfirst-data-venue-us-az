@@ -2,13 +2,14 @@
   "id": 169025003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974252,32.368285,-110.974252,32.368285",
     "geom:latitude":32.368285,
     "geom:longitude":-110.974252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 W Spring Valley Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169025003,
-    "wof:lastmodified":1449035423,
+    "wof:lastmodified":1466326417,
     "wof:name":"Oro Valley Technologies",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974252,32.368285,-110.974252,32.368285],
-  "geometry": {"coordinates":[-110.974252,32.368285],"type":"Point"}
+  "bbox": [
+    -110.974252,
+    32.368285,
+    -110.974252,
+    32.368285
+],
+  "geometry": {"coordinates":[-110.97425200000001,32.368285],"type":"Point"}
 }

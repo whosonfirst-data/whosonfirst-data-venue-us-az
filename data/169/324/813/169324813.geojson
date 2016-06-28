@@ -2,13 +2,14 @@
   "id": 169324813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973613,33.591705,-111.973613,33.591705",
     "geom:latitude":33.591705,
     "geom:longitude":-111.973613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11625 N 50th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169324813,
-    "wof:lastmodified":1449034614,
+    "wof:lastmodified":1466333233,
     "wof:name":"Healthtek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973613,33.591705,-111.973613,33.591705],
+  "bbox": [
+    -111.973613,
+    33.591705,
+    -111.973613,
+    33.591705
+],
   "geometry": {"coordinates":[-111.973613,33.591705],"type":"Point"}
 }

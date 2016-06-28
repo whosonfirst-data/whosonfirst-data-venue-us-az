@@ -2,13 +2,14 @@
   "id": 169375735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.049177,35.188858,-114.049177,35.188858",
     "geom:latitude":35.188858,
     "geom:longitude":-114.049177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N 6th St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169375735,
-    "wof:lastmodified":1449032806,
+    "wof:lastmodified":1466333772,
     "wof:name":"Flashy Rag Boutique",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.049177,35.188858,-114.049177,35.188858],
+  "bbox": [
+    -114.049177,
+    35.188858,
+    -114.049177,
+    35.188858
+],
   "geometry": {"coordinates":[-114.049177,35.188858],"type":"Point"}
 }

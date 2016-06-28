@@ -2,13 +2,14 @@
   "id": 337451225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.280297,33.493859,-112.280297,33.493859",
     "geom:latitude":33.493859,
     "geom:longitude":-112.280297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10240 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337451225,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1466325944,
     "wof:name":"Healthy Advice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-112.280297,33.493859,-112.280297,33.493859],
+  "bbox": [
+    -112.280297,
+    33.493859,
+    -112.280297,
+    33.493859
+],
   "geometry": {"coordinates":[-112.280297,33.493859],"type":"Point"}
 }

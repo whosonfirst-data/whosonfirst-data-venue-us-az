@@ -2,13 +2,14 @@
   "id": 353783447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.892852,31.429517,-109.892852,31.429517",
     "geom:latitude":31.429517,
     "geom:longitude":-109.892852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Erie St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353783447,
-    "wof:lastmodified":1449018325,
+    "wof:lastmodified":1466330147,
     "wof:name":"Border Fitness Plus",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-109.892852,31.429517,-109.892852,31.429517],
+  "bbox": [
+    -109.892852,
+    31.429517,
+    -109.892852,
+    31.429517
+],
   "geometry": {"coordinates":[-109.892852,31.429517],"type":"Point"}
 }

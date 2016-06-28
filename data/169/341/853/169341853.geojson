@@ -2,13 +2,14 @@
   "id": 169341853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.317711,31.945405,-110.317711,31.945405",
     "geom:latitude":31.945405,
     "geom:longitude":-110.317711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 S Via Coyote",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169341853,
-    "wof:lastmodified":1449035815,
+    "wof:lastmodified":1466333524,
     "wof:name":"M C I Construction Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.317711,31.945405,-110.317711,31.945405],
+  "bbox": [
+    -110.317711,
+    31.945405,
+    -110.317711,
+    31.945405
+],
   "geometry": {"coordinates":[-110.317711,31.945405],"type":"Point"}
 }

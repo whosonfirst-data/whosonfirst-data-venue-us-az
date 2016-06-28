@@ -2,13 +2,14 @@
   "id": 168861449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.917541,32.188084,-110.917541,32.188084",
     "geom:latitude":32.188084,
     "geom:longitude":-110.917541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 S Palo Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168861449,
-    "wof:lastmodified":1449028591,
+    "wof:lastmodified":1466326714,
     "wof:name":"Cascade Electric Inc",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.917541,32.188084,-110.917541,32.188084],
+  "bbox": [
+    -110.917541,
+    32.188084,
+    -110.917541,
+    32.188084
+],
   "geometry": {"coordinates":[-110.917541,32.188084],"type":"Point"}
 }

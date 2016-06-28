@@ -2,13 +2,14 @@
   "id": 169286133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.836655,33.348442,-111.836655,33.348442",
     "geom:latitude":33.348442,
     "geom:longitude":-111.836655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 E Alamo Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.deiaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818853,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85818853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169286133,
-    "wof:lastmodified":1449033557,
+    "wof:lastmodified":1466332829,
     "wof:name":"Device Engineering Inc",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.836655,33.348442,-111.836655,33.348442],
-  "geometry": {"coordinates":[-111.836655,33.348442],"type":"Point"}
+  "bbox": [
+    -111.836655,
+    33.348442,
+    -111.836655,
+    33.348442
+],
+  "geometry": {"coordinates":[-111.83665499999999,33.348442],"type":"Point"}
 }

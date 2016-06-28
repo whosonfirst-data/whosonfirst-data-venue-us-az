@@ -2,13 +2,14 @@
   "id": 169401079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.870701,32.282474,-109.870701,32.282474",
     "geom:latitude":32.282474,
     "geom:longitude":-109.870701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 W Marguerite Rd",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169401079,
-    "wof:lastmodified":1449035474,
+    "wof:lastmodified":1466333670,
     "wof:name":"Bill's Pump Svc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.870701,32.282474,-109.870701,32.282474],
+  "bbox": [
+    -109.870701,
+    32.282474,
+    -109.870701,
+    32.282474
+],
   "geometry": {"coordinates":[-109.870701,32.282474],"type":"Point"}
 }

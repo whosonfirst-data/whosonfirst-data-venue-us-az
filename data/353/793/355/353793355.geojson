@@ -2,13 +2,14 @@
   "id": 353793355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940801,31.333803,-110.940801,31.333803",
     "geom:latitude":31.333803,
     "geom:longitude":-110.940801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353793355,
-    "wof:lastmodified":1449019663,
+    "wof:lastmodified":1466330475,
     "wof:name":"Bracker's Dept Store",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "women's"
     ]
 },
-  "bbox": [-110.940801,31.333803,-110.940801,31.333803],
-  "geometry": {"coordinates":[-110.940801,31.333803],"type":"Point"}
+  "bbox": [
+    -110.940801,
+    31.333803,
+    -110.940801,
+    31.333803
+],
+  "geometry": {"coordinates":[-110.94080099999999,31.333803],"type":"Point"}
 }

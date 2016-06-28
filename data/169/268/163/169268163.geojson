@@ -2,13 +2,14 @@
   "id": 169268163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.077883,33.504677,-112.077883,33.504677",
     "geom:latitude":33.504677,
     "geom:longitude":-112.077883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W Coolidge St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169268163,
-    "wof:lastmodified":1449034567,
+    "wof:lastmodified":1466332931,
     "wof:name":"RESA",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.077883,33.504677,-112.077883,33.504677],
+  "bbox": [
+    -112.077883,
+    33.504677,
+    -112.077883,
+    33.504677
+],
   "geometry": {"coordinates":[-112.077883,33.504677],"type":"Point"}
 }

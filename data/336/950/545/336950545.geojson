@@ -2,13 +2,14 @@
   "id": 336950545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.775617,33.241573,-111.775617,33.241573",
     "geom:latitude":33.241573,
     "geom:longitude":-111.775617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 E Tonto Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":336950545,
-    "wof:lastmodified":1448997375,
+    "wof:lastmodified":1466330820,
     "wof:name":"Sunset Gate",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-111.775617,33.241573,-111.775617,33.241573],
+  "bbox": [
+    -111.775617,
+    33.241573,
+    -111.775617,
+    33.241573
+],
   "geometry": {"coordinates":[-111.775617,33.241573],"type":"Point"}
 }

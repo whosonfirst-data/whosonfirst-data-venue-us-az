@@ -2,13 +2,14 @@
   "id": 169159781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92762,31.350499,-110.92762,31.350499",
     "geom:latitude":31.350499,
     "geom:longitude":-110.92762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"969 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169159781,
-    "wof:lastmodified":1449033078,
+    "wof:lastmodified":1466331730,
     "wof:name":"Tonyxmlapss Dog Grooming",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.92762,31.350499,-110.92762,31.350499],
+  "bbox": [
+    -110.92762,
+    31.350499,
+    -110.92762,
+    31.350499
+],
   "geometry": {"coordinates":[-110.92762,31.350499],"type":"Point"}
 }

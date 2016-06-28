@@ -2,13 +2,14 @@
   "id": 169243973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.886609,31.421809,-109.886609,31.421809",
     "geom:latitude":31.421809,
     "geom:longitude":-109.886609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Bisbee Rd",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169243973,
-    "wof:lastmodified":1449033760,
+    "wof:lastmodified":1466332411,
     "wof:name":"South Eastern Arizona Health",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.886609,31.421809,-109.886609,31.421809],
-  "geometry": {"coordinates":[-109.886609,31.421809],"type":"Point"}
+  "bbox": [
+    -109.886609,
+    31.421809,
+    -109.886609,
+    31.421809
+],
+  "geometry": {"coordinates":[-109.88660900000001,31.421809],"type":"Point"}
 }

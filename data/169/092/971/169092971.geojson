@@ -2,13 +2,14 @@
   "id": 169092971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598316,32.669418,-114.598316,32.669418",
     "geom:latitude":32.669418,
     "geom:longitude":-114.598316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2181 E 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895867,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169092971,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1466330511,
     "wof:name":"Airport Office",
     "wof:parent_id":85895867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598316,32.669418,-114.598316,32.669418],
+  "bbox": [
+    -114.598316,
+    32.669418,
+    -114.598316,
+    32.669418
+],
   "geometry": {"coordinates":[-114.598316,32.669418],"type":"Point"}
 }

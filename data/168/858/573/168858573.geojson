@@ -2,13 +2,14 @@
   "id": 168858573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.934076,32.220556,-110.934076,32.220556",
     "geom:latitude":32.220556,
     "geom:longitude":-110.934076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 S Stratford Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168858573,
-    "wof:lastmodified":1449027864,
+    "wof:lastmodified":1466326450,
     "wof:name":"Tremendez Jewelry Repair",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.934076,32.220556,-110.934076,32.220556],
+  "bbox": [
+    -110.934076,
+    32.220556,
+    -110.934076,
+    32.220556
+],
   "geometry": {"coordinates":[-110.934076,32.220556],"type":"Point"}
 }

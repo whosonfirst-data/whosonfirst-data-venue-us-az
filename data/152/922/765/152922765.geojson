@@ -2,13 +2,14 @@
   "id": 152922765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091156,33.508915,-112.091156,33.508915",
     "geom:latitude":33.508915,
     "geom:longitude":-112.091156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4831 N 15th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152922765,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1466327252,
     "wof:name":"M S Discount Cigarettes",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.091156,33.508915,-112.091156,33.508915],
+  "bbox": [
+    -112.091156,
+    33.508915,
+    -112.091156,
+    33.508915
+],
   "geometry": {"coordinates":[-112.091156,33.508915],"type":"Point"}
 }

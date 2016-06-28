@@ -2,13 +2,14 @@
   "id": 169013755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.335979,33.638535,-112.335979,33.638535",
     "geom:latitude":33.638535,
     "geom:longitude":-112.335979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12851 W Bell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169013755,
-    "wof:lastmodified":1449034926,
+    "wof:lastmodified":1466327199,
     "wof:name":"Dapper Dog Grooming Shop",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.335979,33.638535,-112.335979,33.638535],
-  "geometry": {"coordinates":[-112.335979,33.638535],"type":"Point"}
+  "bbox": [
+    -112.335979,
+    33.638535,
+    -112.335979,
+    33.638535
+],
+  "geometry": {"coordinates":[-112.33597899999999,33.638535],"type":"Point"}
 }

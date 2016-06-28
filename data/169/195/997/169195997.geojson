@@ -2,13 +2,14 @@
   "id": 169195997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955092,32.171799,-110.955092,32.171799",
     "geom:latitude":32.171799,
     "geom:longitude":-110.955092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 S Fremont Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169195997,
-    "wof:lastmodified":1449034859,
+    "wof:lastmodified":1466332288,
     "wof:name":"Prime LLC",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.955092,32.171799,-110.955092,32.171799],
-  "geometry": {"coordinates":[-110.955092,32.171799],"type":"Point"}
+  "bbox": [
+    -110.955092,
+    32.171799,
+    -110.955092,
+    32.171799
+],
+  "geometry": {"coordinates":[-110.95509199999999,32.171799],"type":"Point"}
 }

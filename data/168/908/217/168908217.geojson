@@ -2,13 +2,14 @@
   "id": 168908217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.742233,32.884782,-111.742233,32.884782",
     "geom:latitude":32.884782,
     "geom:longitude":-111.742233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 N Gilbert Ave",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168908217,
-    "wof:lastmodified":1449028211,
+    "wof:lastmodified":1466329922,
     "wof:name":"Cg Performance Center",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.742233,32.884782,-111.742233,32.884782],
+  "bbox": [
+    -111.742233,
+    32.884782,
+    -111.742233,
+    32.884782
+],
   "geometry": {"coordinates":[-111.742233,32.884782],"type":"Point"}
 }

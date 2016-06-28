@@ -2,13 +2,14 @@
   "id": 152953411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156389,33.664008,-112.156389,33.664008",
     "geom:latitude":33.664008,
     "geom:longitude":-112.156389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19602 N 45th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152953411,
-    "wof:lastmodified":1449047482,
+    "wof:lastmodified":1466327611,
     "wof:name":"Deer Valley Unified Sch Dist",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.156389,33.664008,-112.156389,33.664008],
+  "bbox": [
+    -112.156389,
+    33.664008,
+    -112.156389,
+    33.664008
+],
   "geometry": {"coordinates":[-112.156389,33.664008],"type":"Point"}
 }

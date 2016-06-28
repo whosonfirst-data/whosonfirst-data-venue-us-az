@@ -2,13 +2,14 @@
   "id": 320805439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.079182,33.621482,-112.079182,33.621482",
     "geom:latitude":33.621482,
     "geom:longitude":-112.079182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Gleneagles Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320805439,
-    "wof:lastmodified":1449012518,
+    "wof:lastmodified":1466329860,
     "wof:name":"West Usa Business Brokers",
     "wof:parent_id":85851573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-112.079182,33.621482,-112.079182,33.621482],
+  "bbox": [
+    -112.079182,
+    33.621482,
+    -112.079182,
+    33.621482
+],
   "geometry": {"coordinates":[-112.079182,33.621482],"type":"Point"}
 }

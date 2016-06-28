@@ -2,13 +2,14 @@
   "id": 168863955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.96348,34.151897,-109.96348,34.151897",
     "geom:latitude":34.151897,
     "geom:longitude":-109.96348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Deer Crossing Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168863955,
-    "wof:lastmodified":1449028301,
+    "wof:lastmodified":1466326935,
     "wof:name":"Squirrels Nest",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.96348,34.151897,-109.96348,34.151897],
+  "bbox": [
+    -109.96348,
+    34.151897,
+    -109.96348,
+    34.151897
+],
   "geometry": {"coordinates":[-109.96348,34.151897],"type":"Point"}
 }

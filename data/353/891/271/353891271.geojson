@@ -2,13 +2,14 @@
   "id": 353891271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.424227,34.645911,-112.424227,34.645911",
     "geom:latitude":34.645911,
     "geom:longitude":-112.424227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Clubhouse Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353891271,
-    "wof:lastmodified":1449019824,
+    "wof:lastmodified":1466331047,
     "wof:name":"Mustang Cafe",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-112.424227,34.645911,-112.424227,34.645911],
+  "bbox": [
+    -112.424227,
+    34.645911,
+    -112.424227,
+    34.645911
+],
   "geometry": {"coordinates":[-112.424227,34.645911],"type":"Point"}
 }

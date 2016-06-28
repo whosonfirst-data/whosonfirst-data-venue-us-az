@@ -2,13 +2,14 @@
   "id": 336820123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.848094,33.37868,-111.848094,33.37868",
     "geom:latitude":33.37868,
     "geom:longitude":-111.848094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 W Baseline Road",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336820123,
-    "wof:lastmodified":1448997514,
+    "wof:lastmodified":1466329610,
     "wof:name":"Best Friends Animal Hospital",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-111.848094,33.37868,-111.848094,33.37868],
+  "bbox": [
+    -111.848094,
+    33.37868,
+    -111.848094,
+    33.37868
+],
   "geometry": {"coordinates":[-111.848094,33.37868],"type":"Point"}
 }

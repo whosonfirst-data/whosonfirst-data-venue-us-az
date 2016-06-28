@@ -2,13 +2,14 @@
   "id": 168834525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.972862,31.979707,-110.972862,31.979707",
     "geom:latitude":31.979707,
     "geom:longitude":-110.972862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Cam Rancho Viejo",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168834525,
-    "wof:lastmodified":1449027854,
+    "wof:lastmodified":1466326347,
     "wof:name":"Fcw New Horzns Home Buyng Srvc",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.972862,31.979707,-110.972862,31.979707],
-  "geometry": {"coordinates":[-110.972862,31.979707],"type":"Point"}
+  "bbox": [
+    -110.972862,
+    31.979707,
+    -110.972862,
+    31.979707
+],
+  "geometry": {"coordinates":[-110.97286200000001,31.979707],"type":"Point"}
 }

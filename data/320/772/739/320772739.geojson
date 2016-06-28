@@ -2,13 +2,14 @@
   "id": 320772739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070118,33.574992,-112.070118,33.574992",
     "geom:latitude":33.574992,
     "geom:longitude":-112.070118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 E Mountain View Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320772739,
-    "wof:lastmodified":1449012927,
+    "wof:lastmodified":1466329278,
     "wof:name":"S & S Sunnyslope Investments",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "intervention"
     ]
 },
-  "bbox": [-112.070118,33.574992,-112.070118,33.574992],
-  "geometry": {"coordinates":[-112.070118,33.574992],"type":"Point"}
+  "bbox": [
+    -112.070118,
+    33.574992,
+    -112.070118,
+    33.574992
+],
+  "geometry": {"coordinates":[-112.07011799999999,33.574992],"type":"Point"}
 }

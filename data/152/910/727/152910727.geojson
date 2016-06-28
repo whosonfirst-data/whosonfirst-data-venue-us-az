@@ -2,13 +2,14 @@
   "id": 152910727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.27782,33.599045,-112.27782,33.599045",
     "geom:latitude":33.599045,
     "geom:longitude":-112.27782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10147 W Grand Ave",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152910727,
-    "wof:lastmodified":1449046242,
+    "wof:lastmodified":1466325841,
     "wof:name":"Thomas T Pham PC",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.27782,33.599045,-112.27782,33.599045],
-  "geometry": {"coordinates":[-112.27782,33.599045],"type":"Point"}
+  "bbox": [
+    -112.27782,
+    33.599045,
+    -112.27782,
+    33.599045
+],
+  "geometry": {"coordinates":[-112.27782000000001,33.599045],"type":"Point"}
 }

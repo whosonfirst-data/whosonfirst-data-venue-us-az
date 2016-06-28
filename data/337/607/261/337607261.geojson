@@ -2,13 +2,14 @@
   "id": 337607261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.922821,33.618011,-111.922821,33.618011",
     "geom:latitude":33.618011,
     "geom:longitude":-111.922821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7335 E Acoma Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337607261,
-    "wof:lastmodified":1449027038,
+    "wof:lastmodified":1466327181,
     "wof:name":"Paradise Valley Septic",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "tanks-treatment"
     ]
 },
-  "bbox": [-111.922821,33.618011,-111.922821,33.618011],
+  "bbox": [
+    -111.922821,
+    33.618011,
+    -111.922821,
+    33.618011
+],
   "geometry": {"coordinates":[-111.922821,33.618011],"type":"Point"}
 }

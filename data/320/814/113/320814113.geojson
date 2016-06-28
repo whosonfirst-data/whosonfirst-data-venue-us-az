@@ -2,13 +2,14 @@
   "id": 320814113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053841,33.657089,-112.053841,33.657089",
     "geom:latitude":33.657089,
     "geom:longitude":-112.053841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 E Rosemonte Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320814113,
-    "wof:lastmodified":1449011945,
+    "wof:lastmodified":1466329896,
     "wof:name":"The Glass Resort",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.053841,33.657089,-112.053841,33.657089],
-  "geometry": {"coordinates":[-112.053841,33.657089],"type":"Point"}
+  "bbox": [
+    -112.053841,
+    33.657089,
+    -112.053841,
+    33.657089
+],
+  "geometry": {"coordinates":[-112.05384100000001,33.657089],"type":"Point"}
 }

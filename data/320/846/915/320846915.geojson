@@ -2,13 +2,14 @@
   "id": 320846915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11995,33.594123,-112.11995,33.594123",
     "geom:latitude":33.594123,
     "geom:longitude":-112.11995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11850 N 28th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -110,10 +111,11 @@
         }
     ],
     "wof:id":320846915,
-    "wof:lastmodified":1449014128,
+    "wof:lastmodified":1466330261,
     "wof:name":"Sherwin-Williams Company",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -138,6 +140,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.11995,33.594123,-112.11995,33.594123],
+  "bbox": [
+    -112.11995,
+    33.594123,
+    -112.11995,
+    33.594123
+],
   "geometry": {"coordinates":[-112.11995,33.594123],"type":"Point"}
 }

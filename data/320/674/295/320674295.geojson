@@ -2,13 +2,14 @@
   "id": 320674295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073792,33.48204,-112.073792,33.48204",
     "geom:latitude":33.48204,
     "geom:longitude":-112.073792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320674295,
-    "wof:lastmodified":1449014037,
+    "wof:lastmodified":1466327633,
     "wof:name":"Teach for America",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-112.073792,33.48204,-112.073792,33.48204],
+  "bbox": [
+    -112.073792,
+    33.48204,
+    -112.073792,
+    33.48204
+],
   "geometry": {"coordinates":[-112.073792,33.48204],"type":"Point"}
 }

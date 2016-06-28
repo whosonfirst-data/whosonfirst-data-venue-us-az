@@ -2,13 +2,14 @@
   "id": 152923357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111627,33.363078,-112.111627,33.363078",
     "geom:latitude":33.363078,
     "geom:longitude":-112.111627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 W Dobbins Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152923357,
-    "wof:lastmodified":1449048763,
+    "wof:lastmodified":1466327460,
     "wof:name":"Byrd Custom Builders Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.111627,33.363078,-112.111627,33.363078],
+  "bbox": [
+    -112.111627,
+    33.363078,
+    -112.111627,
+    33.363078
+],
   "geometry": {"coordinates":[-112.111627,33.363078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169142207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963878,33.355202,-111.963878,33.355202",
     "geom:latitude":33.355202,
     "geom:longitude":-111.963878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Drake Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     "sg:website":"www.phasefourstudios.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808471,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
-        85814393,
-        85917469
+        85808471,
+        85917469,
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169142207,
-    "wof:lastmodified":1449035301,
+    "wof:lastmodified":1466331659,
     "wof:name":"Phase Four Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.963878,33.355202,-111.963878,33.355202],
-  "geometry": {"coordinates":[-111.963878,33.355202],"type":"Point"}
+  "bbox": [
+    -111.963878,
+    33.355202,
+    -111.963878,
+    33.355202
+],
+  "geometry": {"coordinates":[-111.96387799999999,33.355202],"type":"Point"}
 }

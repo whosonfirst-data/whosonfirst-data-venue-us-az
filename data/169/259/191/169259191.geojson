@@ -2,13 +2,14 @@
   "id": 169259191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.035337,32.324206,-111.035337,32.324206",
     "geom:latitude":32.324206,
     "geom:longitude":-111.035337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 N Ave Manzana",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169259191,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1466332534,
     "wof:name":"Gestalt Institute Of Az Inc",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.035337,32.324206,-111.035337,32.324206],
+  "bbox": [
+    -111.035337,
+    32.324206,
+    -111.035337,
+    32.324206
+],
   "geometry": {"coordinates":[-111.035337,32.324206],"type":"Point"}
 }

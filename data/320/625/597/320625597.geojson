@@ -2,13 +2,14 @@
   "id": 320625597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062027,33.460155,-112.062027,33.460155",
     "geom:latitude":33.460155,
     "geom:longitude":-112.062027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 N 9th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320625597,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466326408,
     "wof:name":"J E Grigsby",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.062027,33.460155,-112.062027,33.460155],
+  "bbox": [
+    -112.062027,
+    33.460155,
+    -112.062027,
+    33.460155
+],
   "geometry": {"coordinates":[-112.062027,33.460155],"type":"Point"}
 }

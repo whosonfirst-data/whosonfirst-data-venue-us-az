@@ -2,13 +2,14 @@
   "id": 168973745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.790271,33.399716,-110.790271,33.399716",
     "geom:latitude":33.399716,
     "geom:longitude":-110.790271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Hackney Ave",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168973745,
-    "wof:lastmodified":1449028245,
+    "wof:lastmodified":1466331236,
     "wof:name":"At Home Solutions",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.790271,33.399716,-110.790271,33.399716],
+  "bbox": [
+    -110.790271,
+    33.399716,
+    -110.790271,
+    33.399716
+],
   "geometry": {"coordinates":[-110.790271,33.399716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168853663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.810371,33.383506,-111.810371,33.383506",
     "geom:latitude":33.383506,
     "geom:longitude":-111.810371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 E Impala Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.copperstate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168853663,
-    "wof:lastmodified":1449028081,
+    "wof:lastmodified":1466326022,
     "wof:name":"Copper State Bolt & Nut Co",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.810371,33.383506,-111.810371,33.383506],
+  "bbox": [
+    -111.810371,
+    33.383506,
+    -111.810371,
+    33.383506
+],
   "geometry": {"coordinates":[-111.810371,33.383506],"type":"Point"}
 }

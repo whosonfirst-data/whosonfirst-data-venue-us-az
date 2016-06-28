@@ -2,13 +2,14 @@
   "id": 169397971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011525,35.25561,-114.011525,35.25561",
     "geom:latitude":35.25561,
     "geom:longitude":-114.011525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 N Bank St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169397971,
-    "wof:lastmodified":1449033997,
+    "wof:lastmodified":1466334009,
     "wof:name":"Gamers Zone Internet Access",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.011525,35.25561,-114.011525,35.25561],
-  "geometry": {"coordinates":[-114.011525,35.25561],"type":"Point"}
+  "bbox": [
+    -114.011525,
+    35.25561,
+    -114.011525,
+    35.25561
+],
+  "geometry": {"coordinates":[-114.01152500000001,35.25561],"type":"Point"}
 }

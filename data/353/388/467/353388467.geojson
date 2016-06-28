@@ -2,13 +2,14 @@
   "id": 353388467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.904171,33.409415,-111.904171,33.409415",
     "geom:latitude":33.409415,
     "geom:longitude":-111.904171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 S Los Feliz Dr Suite #114",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353388467,
-    "wof:lastmodified":1449018337,
+    "wof:lastmodified":1466326169,
     "wof:name":"Lifetime Air Conditioning",
     "wof:parent_id":85881403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.904171,33.409415,-111.904171,33.409415],
-  "geometry": {"coordinates":[-111.904171,33.409415],"type":"Point"}
+  "bbox": [
+    -111.904171,
+    33.409415,
+    -111.904171,
+    33.409415
+],
+  "geometry": {"coordinates":[-111.90417100000001,33.409415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168940459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.732204,33.966684,-112.732204,33.966684",
     "geom:latitude":33.966684,
     "geom:longitude":-112.732204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 W Wickenburg Way",
     "sg:city":"Wickenburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168940459,
-    "wof:lastmodified":1449027957,
+    "wof:lastmodified":1466330782,
     "wof:name":"Gatehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.732204,33.966684,-112.732204,33.966684],
+  "bbox": [
+    -112.732204,
+    33.966684,
+    -112.732204,
+    33.966684
+],
   "geometry": {"coordinates":[-112.732204,33.966684],"type":"Point"}
 }

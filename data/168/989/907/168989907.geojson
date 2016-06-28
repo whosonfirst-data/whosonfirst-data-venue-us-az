@@ -2,13 +2,14 @@
   "id": 168989907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.29243,33.60119,-112.29243,33.60119",
     "geom:latitude":33.60119,
     "geom:longitude":-112.29243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10725 W Oakmont Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168989907,
-    "wof:lastmodified":1449028352,
+    "wof:lastmodified":1466331588,
     "wof:name":"Oakmont Men's Club",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.29243,33.60119,-112.29243,33.60119],
+  "bbox": [
+    -112.29243,
+    33.60119,
+    -112.29243,
+    33.60119
+],
   "geometry": {"coordinates":[-112.29243,33.60119],"type":"Point"}
 }

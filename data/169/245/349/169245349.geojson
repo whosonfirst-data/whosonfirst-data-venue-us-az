@@ -2,13 +2,14 @@
   "id": 169245349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999236,32.408608,-110.999236,32.408608",
     "geom:latitude":32.408608,
     "geom:longitude":-110.999236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11095 N Desert Flower Dr",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169245349,
-    "wof:lastmodified":1449035853,
+    "wof:lastmodified":1466332469,
     "wof:name":"Cleaning Frenzy Svc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.999236,32.408608,-110.999236,32.408608],
+  "bbox": [
+    -110.999236,
+    32.408608,
+    -110.999236,
+    32.408608
+],
   "geometry": {"coordinates":[-110.999236,32.408608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336902663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.970403,33.302383,-111.970403,33.302383",
     "geom:latitude":33.302383,
     "geom:longitude":-111.970403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Weber Dr Ste 2",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336902663,
-    "wof:lastmodified":1448997734,
+    "wof:lastmodified":1466330455,
     "wof:name":"Pro Formance Driving Events",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-111.970403,33.302383,-111.970403,33.302383],
+  "bbox": [
+    -111.970403,
+    33.302383,
+    -111.970403,
+    33.302383
+],
   "geometry": {"coordinates":[-111.970403,33.302383],"type":"Point"}
 }

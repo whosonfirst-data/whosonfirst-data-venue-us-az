@@ -2,13 +2,14 @@
   "id": 320731087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045398,33.48024,-112.045398,33.48024",
     "geom:latitude":33.48024,
     "geom:longitude":-112.045398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320731087,
-    "wof:lastmodified":1449014547,
+    "wof:lastmodified":1466328781,
     "wof:name":"Thomas Karvel",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-112.045398,33.48024,-112.045398,33.48024],
-  "geometry": {"coordinates":[-112.045398,33.48024],"type":"Point"}
+  "bbox": [
+    -112.045398,
+    33.48024,
+    -112.045398,
+    33.48024
+],
+  "geometry": {"coordinates":[-112.04539800000001,33.48024],"type":"Point"}
 }

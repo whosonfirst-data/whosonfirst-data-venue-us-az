@@ -2,13 +2,14 @@
   "id": 153038663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057308,33.618208,-112.057308,33.618208",
     "geom:latitude":33.618208,
     "geom:longitude":-112.057308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 E Acoma Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153038663,
-    "wof:lastmodified":1449040672,
+    "wof:lastmodified":1466326374,
     "wof:name":"Smith Family Trust",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.057308,33.618208,-112.057308,33.618208],
-  "geometry": {"coordinates":[-112.057308,33.618208],"type":"Point"}
+  "bbox": [
+    -112.057308,
+    33.618208,
+    -112.057308,
+    33.618208
+],
+  "geometry": {"coordinates":[-112.05730800000001,33.618208],"type":"Point"}
 }

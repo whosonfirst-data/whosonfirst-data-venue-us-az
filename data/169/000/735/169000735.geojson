@@ -2,13 +2,14 @@
   "id": 169000735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.795559,32.236503,-110.795559,32.236503",
     "geom:latitude":32.236503,
     "geom:longitude":-110.795559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9157 E Helen St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169000735,
-    "wof:lastmodified":1449033224,
+    "wof:lastmodified":1466325813,
     "wof:name":"Jws Construction Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.795559,32.236503,-110.795559,32.236503],
+  "bbox": [
+    -110.795559,
+    32.236503,
+    -110.795559,
+    32.236503
+],
   "geometry": {"coordinates":[-110.795559,32.236503],"type":"Point"}
 }

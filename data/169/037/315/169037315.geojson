@@ -2,13 +2,14 @@
   "id": 169037315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.735881,32.229956,-110.735881,32.229956",
     "geom:latitude":32.229956,
     "geom:longitude":-110.735881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 N Ave Venado",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169037315,
-    "wof:lastmodified":1449036033,
+    "wof:lastmodified":1466327510,
     "wof:name":"KERN Builders Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.735881,32.229956,-110.735881,32.229956],
-  "geometry": {"coordinates":[-110.735881,32.229956],"type":"Point"}
+  "bbox": [
+    -110.735881,
+    32.229956,
+    -110.735881,
+    32.229956
+],
+  "geometry": {"coordinates":[-110.73588100000001,32.229956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336954781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925877,33.519561,-111.925877,33.519561",
     "geom:latitude":33.519561,
     "geom:longitude":-111.925877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5725 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":336954781,
-    "wof:lastmodified":1448997882,
+    "wof:lastmodified":1466330970,
     "wof:name":"Stat Health Services",
     "wof:parent_id":85829861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.925877,33.519561,-111.925877,33.519561],
+  "bbox": [
+    -111.925877,
+    33.519561,
+    -111.925877,
+    33.519561
+],
   "geometry": {"coordinates":[-111.925877,33.519561],"type":"Point"}
 }

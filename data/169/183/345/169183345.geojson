@@ -2,13 +2,14 @@
   "id": 169183345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.840127,33.394262,-111.840127,33.394262",
     "geom:latitude":33.394262,
     "geom:longitude":-111.840127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 S Country Club Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846607,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85846607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169183345,
-    "wof:lastmodified":1449034461,
+    "wof:lastmodified":1466331976,
     "wof:name":"Direct Access TV",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.840127,33.394262,-111.840127,33.394262],
+  "bbox": [
+    -111.840127,
+    33.394262,
+    -111.840127,
+    33.394262
+],
   "geometry": {"coordinates":[-111.840127,33.394262],"type":"Point"}
 }

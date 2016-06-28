@@ -2,13 +2,14 @@
   "id": 353837159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943863,32.236,-110.943863,32.236",
     "geom:latitude":32.236,
     "geom:longitude":-110.943863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353837159,
-    "wof:lastmodified":1449018651,
+    "wof:lastmodified":1466330812,
     "wof:name":"Four Points by Sheraton Tucson University Plaza",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943863,32.236,-110.943863,32.236],
-  "geometry": {"coordinates":[-110.943863,32.236],"type":"Point"}
+  "bbox": [
+    -110.943863,
+    32.236,
+    -110.943863,
+    32.236
+],
+  "geometry": {"coordinates":[-110.94386299999999,32.236],"type":"Point"}
 }

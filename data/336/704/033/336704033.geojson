@@ -2,13 +2,14 @@
   "id": 336704033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.988591,33.305141,-111.988591,33.305141",
     "geom:latitude":33.305141,
     "geom:longitude":-111.988591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 E Chandler Blvd # 2024",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336704033,
-    "wof:lastmodified":1448997230,
+    "wof:lastmodified":1466328099,
     "wof:name":"Allegro Apartments",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-111.988591,33.305141,-111.988591,33.305141],
+  "bbox": [
+    -111.988591,
+    33.305141,
+    -111.988591,
+    33.305141
+],
   "geometry": {"coordinates":[-111.988591,33.305141],"type":"Point"}
 }

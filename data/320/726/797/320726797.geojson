@@ -2,13 +2,14 @@
   "id": 320726797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025535,33.509619,-112.025535,33.509619",
     "geom:latitude":33.509619,
     "geom:longitude":-112.025535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2596 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320726797,
-    "wof:lastmodified":1449013834,
+    "wof:lastmodified":1466328469,
     "wof:name":"Bamboo Club",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "asian"
     ]
 },
-  "bbox": [-112.025535,33.509619,-112.025535,33.509619],
+  "bbox": [
+    -112.025535,
+    33.509619,
+    -112.025535,
+    33.509619
+],
   "geometry": {"coordinates":[-112.025535,33.509619],"type":"Point"}
 }

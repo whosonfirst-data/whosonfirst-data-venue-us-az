@@ -2,13 +2,14 @@
   "id": 336654359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.990453,33.414652,-111.990453,33.414652",
     "geom:latitude":33.414652,
     "geom:longitude":-111.990453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4202 E Elwood St Ste 22",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336654359,
-    "wof:lastmodified":1448997299,
+    "wof:lastmodified":1466327037,
     "wof:name":"Pull Out Shelf Company",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-111.990453,33.414652,-111.990453,33.414652],
+  "bbox": [
+    -111.990453,
+    33.414652,
+    -111.990453,
+    33.414652
+],
   "geometry": {"coordinates":[-111.990453,33.414652],"type":"Point"}
 }

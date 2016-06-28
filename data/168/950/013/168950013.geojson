@@ -2,13 +2,14 @@
   "id": 168950013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949978,32.413703,-110.949978,32.413703",
     "geom:latitude":32.413703,
     "geom:longitude":-110.949978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11400 N Skywire Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168950013,
-    "wof:lastmodified":1449028070,
+    "wof:lastmodified":1466330974,
     "wof:name":"Southwest Rehab Consultants",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949978,32.413703,-110.949978,32.413703],
+  "bbox": [
+    -110.949978,
+    32.413703,
+    -110.949978,
+    32.413703
+],
   "geometry": {"coordinates":[-110.949978,32.413703],"type":"Point"}
 }

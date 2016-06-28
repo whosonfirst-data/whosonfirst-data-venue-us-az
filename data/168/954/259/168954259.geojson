@@ -2,13 +2,14 @@
   "id": 168954259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.048068,33.531049,-112.048068,33.531049",
     "geom:latitude":33.531049,
     "geom:longitude":-112.048068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 E Maryland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.ejengineering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168954259,
-    "wof:lastmodified":1449028488,
+    "wof:lastmodified":1466330873,
     "wof:name":"Echeverri Josephs Engineering",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.048068,33.531049,-112.048068,33.531049],
+  "bbox": [
+    -112.048068,
+    33.531049,
+    -112.048068,
+    33.531049
+],
   "geometry": {"coordinates":[-112.048068,33.531049],"type":"Point"}
 }

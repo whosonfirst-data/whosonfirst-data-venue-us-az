@@ -2,13 +2,14 @@
   "id": 168871517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.975493,35.224017,-113.975493,35.224017",
     "geom:latitude":35.224017,
     "geom:longitude":-113.975493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 Roma Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168871517,
-    "wof:lastmodified":1449028001,
+    "wof:lastmodified":1466327586,
     "wof:name":"Advance Janitorial",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.975493,35.224017,-113.975493,35.224017],
+  "bbox": [
+    -113.975493,
+    35.224017,
+    -113.975493,
+    35.224017
+],
   "geometry": {"coordinates":[-113.975493,35.224017],"type":"Point"}
 }

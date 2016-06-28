@@ -2,13 +2,14 @@
   "id": 320829995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.0336,33.584572,-112.0336,33.584572",
     "geom:latitude":33.584572,
     "geom:longitude":-112.0336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Christy Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320829995,
-    "wof:lastmodified":1449014719,
+    "wof:lastmodified":1466330187,
     "wof:name":"A R C Specialties",
     "wof:parent_id":85851187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "rebuild"
     ]
 },
-  "bbox": [-112.0336,33.584572,-112.0336,33.584572],
-  "geometry": {"coordinates":[-112.0336,33.584572],"type":"Point"}
+  "bbox": [
+    -112.0336,
+    33.584572,
+    -112.0336,
+    33.584572
+],
+  "geometry": {"coordinates":[-112.03360000000001,33.584572],"type":"Point"}
 }

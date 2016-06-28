@@ -2,13 +2,14 @@
   "id": 169094981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.211243,33.630121,-112.211243,33.630121",
     "geom:latitude":33.630121,
     "geom:longitude":-112.211243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16012 N 71st Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830395,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85830395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169094981,
-    "wof:lastmodified":1449034755,
+    "wof:lastmodified":1466330652,
     "wof:name":"K & K Kitchen Supply",
     "wof:parent_id":85830395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.211243,33.630121,-112.211243,33.630121],
+  "bbox": [
+    -112.211243,
+    33.630121,
+    -112.211243,
+    33.630121
+],
   "geometry": {"coordinates":[-112.211243,33.630121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169303463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.849906,33.370348,-111.849906,33.370348",
     "geom:latitude":33.370348,
     "geom:longitude":-111.849906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Mendoza Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872449,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169303463,
-    "wof:lastmodified":1449032713,
+    "wof:lastmodified":1466333242,
     "wof:name":"Robert Emmet Doyle Real Proper",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.849906,33.370348,-111.849906,33.370348],
+  "bbox": [
+    -111.849906,
+    33.370348,
+    -111.849906,
+    33.370348
+],
   "geometry": {"coordinates":[-111.849906,33.370348],"type":"Point"}
 }

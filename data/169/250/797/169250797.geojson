@@ -2,13 +2,14 @@
   "id": 169250797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.335637,33.612915,-112.335637,33.612915",
     "geom:latitude":33.612915,
     "geom:longitude":-112.335637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12817 W Via Camille",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169250797,
-    "wof:lastmodified":1449034570,
+    "wof:lastmodified":1466332572,
     "wof:name":"Friendly Mobile Computer Svc",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.335637,33.612915,-112.335637,33.612915],
-  "geometry": {"coordinates":[-112.335637,33.612915],"type":"Point"}
+  "bbox": [
+    -112.335637,
+    33.612915,
+    -112.335637,
+    33.612915
+],
+  "geometry": {"coordinates":[-112.33563700000001,33.612915],"type":"Point"}
 }

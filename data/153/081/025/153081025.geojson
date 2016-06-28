@@ -2,13 +2,14 @@
   "id": 153081025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.96809,32.221943,-110.96809,32.221943",
     "geom:latitude":32.221943,
     "geom:longitude":-110.96809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.studio220tucson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153081025,
-    "wof:lastmodified":1449040478,
+    "wof:lastmodified":1466329159,
     "wof:name":"Studio 220",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.96809,32.221943,-110.96809,32.221943],
+  "bbox": [
+    -110.96809,
+    32.221943,
+    -110.96809,
+    32.221943
+],
   "geometry": {"coordinates":[-110.96809,32.221943],"type":"Point"}
 }

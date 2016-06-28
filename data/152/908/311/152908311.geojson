@@ -2,13 +2,14 @@
   "id": 152908311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022828,33.403377,-112.022828,33.403377",
     "geom:latitude":33.403377,
     "geom:longitude":-112.022828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2758 E Wier Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152908311,
-    "wof:lastmodified":1449046920,
+    "wof:lastmodified":1466325720,
     "wof:name":"Lorper Properties",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022828,33.403377,-112.022828,33.403377],
+  "bbox": [
+    -112.022828,
+    33.403377,
+    -112.022828,
+    33.403377
+],
   "geometry": {"coordinates":[-112.022828,33.403377],"type":"Point"}
 }

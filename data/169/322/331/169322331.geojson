@@ -2,13 +2,14 @@
   "id": 169322331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.738084,32.178163,-110.738084,32.178163",
     "geom:latitude":32.178163,
     "geom:longitude":-110.738084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 S Old Spanish Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.saguarocorners.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169322331,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1466333188,
     "wof:name":"Saguaro Corners Restaurant",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.738084,32.178163,-110.738084,32.178163],
+  "bbox": [
+    -110.738084,
+    32.178163,
+    -110.738084,
+    32.178163
+],
   "geometry": {"coordinates":[-110.738084,32.178163],"type":"Point"}
 }

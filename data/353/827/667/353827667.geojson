@@ -2,13 +2,14 @@
   "id": 353827667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.918144,32.198492,-110.918144,32.198492",
     "geom:latitude":32.198492,
     "geom:longitude":-110.918144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 S March Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353827667,
-    "wof:lastmodified":1449019170,
+    "wof:lastmodified":1466330602,
     "wof:name":"Maintenance Service",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-110.918144,32.198492,-110.918144,32.198492],
+  "bbox": [
+    -110.918144,
+    32.198492,
+    -110.918144,
+    32.198492
+],
   "geometry": {"coordinates":[-110.918144,32.198492],"type":"Point"}
 }

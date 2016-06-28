@@ -2,13 +2,14 @@
   "id": 168868003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925477,33.414843,-111.925477,33.414843",
     "geom:latitude":33.414843,
     "geom:longitude":-111.925477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 E Apache Blvd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cityinthedesert.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881405,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168868003,
-    "wof:lastmodified":1449027804,
+    "wof:lastmodified":1466327285,
     "wof:name":"City In The Desert Metro Chr",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.925477,33.414843,-111.925477,33.414843],
+  "bbox": [
+    -111.925477,
+    33.414843,
+    -111.925477,
+    33.414843
+],
   "geometry": {"coordinates":[-111.925477,33.414843],"type":"Point"}
 }

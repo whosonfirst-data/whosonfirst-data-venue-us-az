@@ -2,13 +2,14 @@
   "id": 320685421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.085716,33.524361,-112.085716,33.524361",
     "geom:latitude":33.524361,
     "geom:longitude":-112.085716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 W Solcito Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320685421,
-    "wof:lastmodified":1449014875,
+    "wof:lastmodified":1466327995,
     "wof:name":"Arizona Filing Products Inc",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-112.085716,33.524361,-112.085716,33.524361],
-  "geometry": {"coordinates":[-112.085716,33.524361],"type":"Point"}
+  "bbox": [
+    -112.085716,
+    33.524361,
+    -112.085716,
+    33.524361
+],
+  "geometry": {"coordinates":[-112.08571600000001,33.524361],"type":"Point"}
 }

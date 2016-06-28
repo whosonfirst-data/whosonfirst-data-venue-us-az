@@ -2,13 +2,14 @@
   "id": 169251791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.894059,33.602927,-111.894059,33.602927",
     "geom:latitude":33.602927,
     "geom:longitude":-111.894059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8699 E Aster Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851695,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85851695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169251791,
-    "wof:lastmodified":1449032745,
+    "wof:lastmodified":1466332652,
     "wof:name":"Campbell Family LLC",
     "wof:parent_id":85851695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.894059,33.602927,-111.894059,33.602927],
+  "bbox": [
+    -111.894059,
+    33.602927,
+    -111.894059,
+    33.602927
+],
   "geometry": {"coordinates":[-111.894059,33.602927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169254343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.178069,33.458831,-112.178069,33.458831",
     "geom:latitude":33.458831,
     "geom:longitude":-112.178069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5522 W Roosevelt St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828957,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85828957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169254343,
-    "wof:lastmodified":1449034962,
+    "wof:lastmodified":1466332528,
     "wof:name":"Bearing Distributors Inc",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.178069,33.458831,-112.178069,33.458831],
-  "geometry": {"coordinates":[-112.178069,33.458831],"type":"Point"}
+  "bbox": [
+    -112.178069,
+    33.458831,
+    -112.178069,
+    33.458831
+],
+  "geometry": {"coordinates":[-112.17806899999999,33.458831],"type":"Point"}
 }

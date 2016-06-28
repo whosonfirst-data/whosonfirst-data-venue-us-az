@@ -2,13 +2,14 @@
   "id": 169381745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922161,32.297733,-110.922161,32.297733",
     "geom:latitude":32.297733,
     "geom:longitude":-110.922161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 E Corte Galicia",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169381745,
-    "wof:lastmodified":1449032948,
+    "wof:lastmodified":1466334105,
     "wof:name":"Trendwest Properties LLC",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.922161,32.297733,-110.922161,32.297733],
+  "bbox": [
+    -110.922161,
+    32.297733,
+    -110.922161,
+    32.297733
+],
   "geometry": {"coordinates":[-110.922161,32.297733],"type":"Point"}
 }

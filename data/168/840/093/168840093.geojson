@@ -2,13 +2,14 @@
   "id": 168840093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.979533,32.304018,-110.979533,32.304018",
     "geom:latitude":32.304018,
     "geom:longitude":-110.979533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 W Cresta Loma Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.onqmarketing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168840093,
-    "wof:lastmodified":1449028399,
+    "wof:lastmodified":1466327118,
     "wof:name":"On Q Marketing Svc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.979533,32.304018,-110.979533,32.304018],
+  "bbox": [
+    -110.979533,
+    32.304018,
+    -110.979533,
+    32.304018
+],
   "geometry": {"coordinates":[-110.979533,32.304018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320811113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050731,33.65727,-112.050731,33.65727",
     "geom:latitude":33.65727,
     "geom:longitude":-112.050731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1457 E Rosemonte Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320811113,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466329839,
     "wof:name":"Western Inspectors Inc.",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-112.050731,33.65727,-112.050731,33.65727],
+  "bbox": [
+    -112.050731,
+    33.65727,
+    -112.050731,
+    33.65727
+],
   "geometry": {"coordinates":[-112.050731,33.65727],"type":"Point"}
 }

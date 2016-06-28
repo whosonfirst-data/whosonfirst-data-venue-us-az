@@ -2,13 +2,14 @@
   "id": 169329423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.850054,32.25794,-110.850054,32.25794",
     "geom:latitude":32.25794,
     "geom:longitude":-110.850054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 N Cam Principal",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169329423,
-    "wof:lastmodified":1449033600,
+    "wof:lastmodified":1466333500,
     "wof:name":"Jhn Land & Cattle LLC",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.850054,32.25794,-110.850054,32.25794],
+  "bbox": [
+    -110.850054,
+    32.25794,
+    -110.850054,
+    32.25794
+],
   "geometry": {"coordinates":[-110.850054,32.25794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153081993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.911146,32.190705,-110.911146,32.190705",
     "geom:latitude":32.190705,
     "geom:longitude":-110.911146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 E 38th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.addisigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153081993,
-    "wof:lastmodified":1449040478,
+    "wof:lastmodified":1466329429,
     "wof:name":"Addisigns Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.911146,32.190705,-110.911146,32.190705],
+  "bbox": [
+    -110.911146,
+    32.190705,
+    -110.911146,
+    32.190705
+],
   "geometry": {"coordinates":[-110.911146,32.190705],"type":"Point"}
 }

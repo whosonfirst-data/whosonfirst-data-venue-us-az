@@ -2,13 +2,14 @@
   "id": 169112577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.453967,34.727027,-112.453967,34.727027",
     "geom:latitude":34.727027,
     "geom:longitude":-112.453967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 N US Hwy 89",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169112577,
-    "wof:lastmodified":1449034194,
+    "wof:lastmodified":1466331221,
     "wof:name":"Better Than Clean",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.453967,34.727027,-112.453967,34.727027],
-  "geometry": {"coordinates":[-112.453967,34.727027],"type":"Point"}
+  "bbox": [
+    -112.453967,
+    34.727027,
+    -112.453967,
+    34.727027
+],
+  "geometry": {"coordinates":[-112.45396700000001,34.727027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168920985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.979228,32.246477,-110.979228,32.246477",
     "geom:latitude":32.246477,
     "geom:longitude":-110.979228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 N 13th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168920985,
-    "wof:lastmodified":1449028397,
+    "wof:lastmodified":1466330464,
     "wof:name":"Kino Station",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.979228,32.246477,-110.979228,32.246477],
-  "geometry": {"coordinates":[-110.979228,32.246477],"type":"Point"}
+  "bbox": [
+    -110.979228,
+    32.246477,
+    -110.979228,
+    32.246477
+],
+  "geometry": {"coordinates":[-110.97922800000001,32.246477],"type":"Point"}
 }

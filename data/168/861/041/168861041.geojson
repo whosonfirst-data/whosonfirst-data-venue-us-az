@@ -2,13 +2,14 @@
   "id": 168861041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.468562,33.358302,-111.468562,33.358302",
     "geom:latitude":33.358302,
     "geom:longitude":-111.468562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7138 US Hwy 60",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168861041,
-    "wof:lastmodified":1449028590,
+    "wof:lastmodified":1466326678,
     "wof:name":"Texaco Gold Canyon",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.468562,33.358302,-111.468562,33.358302],
-  "geometry": {"coordinates":[-111.468562,33.358302],"type":"Point"}
+  "bbox": [
+    -111.468562,
+    33.358302,
+    -111.468562,
+    33.358302
+],
+  "geometry": {"coordinates":[-111.46856200000001,33.358302],"type":"Point"}
 }

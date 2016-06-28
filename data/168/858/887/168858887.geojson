@@ -2,13 +2,14 @@
   "id": 168858887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.480258,34.564002,-112.480258,34.564002",
     "geom:latitude":34.564002,
     "geom:longitude":-112.480258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Danita St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168858887,
-    "wof:lastmodified":1449027866,
+    "wof:lastmodified":1466326478,
     "wof:name":"M J's Cleaning",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.480258,34.564002,-112.480258,34.564002],
-  "geometry": {"coordinates":[-112.480258,34.564002],"type":"Point"}
+  "bbox": [
+    -112.480258,
+    34.564002,
+    -112.480258,
+    34.564002
+],
+  "geometry": {"coordinates":[-112.48025800000001,34.564002],"type":"Point"}
 }

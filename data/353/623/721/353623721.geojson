@@ -2,13 +2,14 @@
   "id": 353623721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.287985,33.460519,-112.287985,33.460519",
     "geom:latitude":33.460519,
     "geom:longitude":-112.287985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10555 W Papago Fwy",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353623721,
-    "wof:lastmodified":1449020040,
+    "wof:lastmodified":1466328854,
     "wof:name":"Salazar Auto Group",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-112.287985,33.460519,-112.287985,33.460519],
-  "geometry": {"coordinates":[-112.287985,33.460519],"type":"Point"}
+  "bbox": [
+    -112.287985,
+    33.460519,
+    -112.287985,
+    33.460519
+],
+  "geometry": {"coordinates":[-112.28798500000001,33.460519],"type":"Point"}
 }

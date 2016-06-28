@@ -2,13 +2,14 @@
   "id": 320782827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108944,33.569574,-112.108944,33.569574",
     "geom:latitude":33.569574,
     "geom:longitude":-112.108944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 W Mission Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":320782827,
-    "wof:lastmodified":1449011244,
+    "wof:lastmodified":1466329762,
     "wof:name":"Phoenix Towing Service",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-112.108944,33.569574,-112.108944,33.569574],
-  "geometry": {"coordinates":[-112.108944,33.569574],"type":"Point"}
+  "bbox": [
+    -112.108944,
+    33.569574,
+    -112.108944,
+    33.569574
+],
+  "geometry": {"coordinates":[-112.10894399999999,33.569574],"type":"Point"}
 }

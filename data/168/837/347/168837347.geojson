@@ -2,13 +2,14 @@
   "id": 168837347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.084786,33.573055,-112.084786,33.573055",
     "geom:latitude":33.573055,
     "geom:longitude":-112.084786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9402 N 9th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168837347,
-    "wof:lastmodified":1449027891,
+    "wof:lastmodified":1466326826,
     "wof:name":"North Phoenix Auto",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.084786,33.573055,-112.084786,33.573055],
-  "geometry": {"coordinates":[-112.084786,33.573055],"type":"Point"}
+  "bbox": [
+    -112.084786,
+    33.573055,
+    -112.084786,
+    33.573055
+],
+  "geometry": {"coordinates":[-112.08478599999999,33.573055],"type":"Point"}
 }

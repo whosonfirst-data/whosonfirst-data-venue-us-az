@@ -2,13 +2,14 @@
   "id": 152989541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.975534,33.37813,-111.975534,33.37813",
     "geom:latitude":33.37813,
     "geom:longitude":-111.975534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 W Baseline Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852111,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152989541,
-    "wof:lastmodified":1449047689,
+    "wof:lastmodified":1466329484,
     "wof:name":"Petes Cuban Cafe",
     "wof:parent_id":85852111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.975534,33.37813,-111.975534,33.37813],
+  "bbox": [
+    -111.975534,
+    33.37813,
+    -111.975534,
+    33.37813
+],
   "geometry": {"coordinates":[-111.975534,33.37813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153001451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.800221,33.438178,-111.800221,33.438178",
     "geom:latitude":33.438178,
     "geom:longitude":-111.800221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 N Barkley",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858913,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153001451,
-    "wof:lastmodified":1449040445,
+    "wof:lastmodified":1466326776,
     "wof:name":"B P Granite",
     "wof:parent_id":85858913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.800221,33.438178,-111.800221,33.438178],
-  "geometry": {"coordinates":[-111.800221,33.438178],"type":"Point"}
+  "bbox": [
+    -111.800221,
+    33.438178,
+    -111.800221,
+    33.438178
+],
+  "geometry": {"coordinates":[-111.80022099999999,33.438178],"type":"Point"}
 }

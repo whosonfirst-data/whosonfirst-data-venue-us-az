@@ -2,13 +2,14 @@
   "id": 169406121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971204,32.264821,-110.971204,32.264821",
     "geom:latitude":32.264821,
     "geom:longitude":-110.971204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169406121,
-    "wof:lastmodified":1449034458,
+    "wof:lastmodified":1466334019,
     "wof:name":"Fort Lowell Family Care",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971204,32.264821,-110.971204,32.264821],
+  "bbox": [
+    -110.971204,
+    32.264821,
+    -110.971204,
+    32.264821
+],
   "geometry": {"coordinates":[-110.971204,32.264821],"type":"Point"}
 }

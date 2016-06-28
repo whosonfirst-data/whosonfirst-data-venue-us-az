@@ -2,13 +2,14 @@
   "id": 353633935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.555021,33.432301,-112.555021,33.432301",
     "geom:latitude":33.432301,
     "geom:longitude":-112.555021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23451 W Cocopah St",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353633935,
-    "wof:lastmodified":1449020763,
+    "wof:lastmodified":1466329205,
     "wof:name":"Affordable Limousines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-112.555021,33.432301,-112.555021,33.432301],
+  "bbox": [
+    -112.555021,
+    33.432301,
+    -112.555021,
+    33.432301
+],
   "geometry": {"coordinates":[-112.555021,33.432301],"type":"Point"}
 }

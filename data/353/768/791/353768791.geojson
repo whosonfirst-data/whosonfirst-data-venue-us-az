@@ -2,13 +2,14 @@
   "id": 353768791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.750447,33.383736,-110.750447,33.383736",
     "geom:latitude":33.383736,
     "geom:longitude":-110.750447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 E Vista Cir",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353768791,
-    "wof:lastmodified":1449019247,
+    "wof:lastmodified":1466330230,
     "wof:name":"Jh Maintenance",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-110.750447,33.383736,-110.750447,33.383736],
-  "geometry": {"coordinates":[-110.750447,33.383736],"type":"Point"}
+  "bbox": [
+    -110.750447,
+    33.383736,
+    -110.750447,
+    33.383736
+],
+  "geometry": {"coordinates":[-110.75044699999999,33.383736],"type":"Point"}
 }

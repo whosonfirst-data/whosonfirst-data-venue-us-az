@@ -2,13 +2,14 @@
   "id": 320690587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056267,33.506638,-112.056267,33.506638",
     "geom:latitude":33.506638,
     "geom:longitude":-112.056267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 N 12th St Ste A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320690587,
-    "wof:lastmodified":1449013237,
+    "wof:lastmodified":1466327889,
     "wof:name":"American Pos Systems",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.056267,33.506638,-112.056267,33.506638],
-  "geometry": {"coordinates":[-112.056267,33.506638],"type":"Point"}
+  "bbox": [
+    -112.056267,
+    33.506638,
+    -112.056267,
+    33.506638
+],
+  "geometry": {"coordinates":[-112.05626700000001,33.506638],"type":"Point"}
 }

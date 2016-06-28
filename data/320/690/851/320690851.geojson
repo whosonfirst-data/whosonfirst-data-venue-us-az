@@ -2,13 +2,14 @@
   "id": 320690851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058043,33.494701,-112.058043,33.494701",
     "geom:latitude":33.494701,
     "geom:longitude":-112.058043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320690851,
-    "wof:lastmodified":1449013238,
+    "wof:lastmodified":1466328126,
     "wof:name":"Buckeye & Goodyear Appraisals",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-112.058043,33.494701,-112.058043,33.494701],
+  "bbox": [
+    -112.058043,
+    33.494701,
+    -112.058043,
+    33.494701
+],
   "geometry": {"coordinates":[-112.058043,33.494701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169093199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.76977,33.28495,-111.76977,33.28495",
     "geom:latitude":33.28495,
     "geom:longitude":-111.76977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14434 E Willis Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169093199,
-    "wof:lastmodified":1449032691,
+    "wof:lastmodified":1466330529,
     "wof:name":"Golden Touch Lawn Maintenance",
     "wof:parent_id":85876675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.76977,33.28495,-111.76977,33.28495],
-  "geometry": {"coordinates":[-111.76977,33.28495],"type":"Point"}
+  "bbox": [
+    -111.76977,
+    33.28495,
+    -111.76977,
+    33.28495
+],
+  "geometry": {"coordinates":[-111.76976999999999,33.28495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336835795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.729527,33.477383,-111.729527,33.477383",
     "geom:latitude":33.477383,
     "geom:longitude":-111.729527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 E Virginia St Ste 102",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336835795,
-    "wof:lastmodified":1448997090,
+    "wof:lastmodified":1466329763,
     "wof:name":"Red Mountain Roofing",
     "wof:parent_id":85851601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-111.729527,33.477383,-111.729527,33.477383],
+  "bbox": [
+    -111.729527,
+    33.477383,
+    -111.729527,
+    33.477383
+],
   "geometry": {"coordinates":[-111.729527,33.477383],"type":"Point"}
 }

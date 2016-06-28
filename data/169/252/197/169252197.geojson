@@ -2,13 +2,14 @@
   "id": 169252197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.709899,33.390875,-111.709899,33.390875",
     "geom:latitude":33.390875,
     "geom:longitude":-111.709899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5634 E Grove Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169252197,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466332509,
     "wof:name":"Shellem Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.709899,33.390875,-111.709899,33.390875],
-  "geometry": {"coordinates":[-111.709899,33.390875],"type":"Point"}
+  "bbox": [
+    -111.709899,
+    33.390875,
+    -111.709899,
+    33.390875
+],
+  "geometry": {"coordinates":[-111.70989899999999,33.390875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169079595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.877169,32.148706,-110.877169,32.148706",
     "geom:latitude":32.148706,
     "geom:longitude":-110.877169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5351 E Drexel Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081135,
-        85633793,
         85688719,
-        85831051
+        85633793,
+        85831051,
+        102081135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169079595,
-    "wof:lastmodified":1449035414,
+    "wof:lastmodified":1466329886,
     "wof:name":"Gary's Towing",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.877169,32.148706,-110.877169,32.148706],
-  "geometry": {"coordinates":[-110.877169,32.148706],"type":"Point"}
+  "bbox": [
+    -110.877169,
+    32.148706,
+    -110.877169,
+    32.148706
+],
+  "geometry": {"coordinates":[-110.87716899999999,32.148706],"type":"Point"}
 }

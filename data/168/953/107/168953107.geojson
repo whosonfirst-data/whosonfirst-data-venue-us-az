@@ -2,13 +2,14 @@
   "id": 168953107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.936489,33.408399,-111.936489,33.408399",
     "geom:latitude":33.408399,
     "geom:longitude":-111.936489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 E Bonita Way",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881389,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168953107,
-    "wof:lastmodified":1449028293,
+    "wof:lastmodified":1466330980,
     "wof:name":"Lew Hodge's Stump Grinding",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.936489,33.408399,-111.936489,33.408399],
-  "geometry": {"coordinates":[-111.936489,33.408399],"type":"Point"}
+  "bbox": [
+    -111.936489,
+    33.408399,
+    -111.936489,
+    33.408399
+],
+  "geometry": {"coordinates":[-111.93648899999999,33.408399],"type":"Point"}
 }

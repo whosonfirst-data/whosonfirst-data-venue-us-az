@@ -2,13 +2,14 @@
   "id": 336596717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030853,33.639539,-112.030853,33.639539",
     "geom:latitude":33.639539,
     "geom:longitude":-112.030853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16840 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336596717,
-    "wof:lastmodified":1448997507,
+    "wof:lastmodified":1466325906,
     "wof:name":"My Sister's Appliances",
     "wof:parent_id":85866819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.030853,33.639539,-112.030853,33.639539],
-  "geometry": {"coordinates":[-112.030853,33.639539],"type":"Point"}
+  "bbox": [
+    -112.030853,
+    33.639539,
+    -112.030853,
+    33.639539
+],
+  "geometry": {"coordinates":[-112.03085299999999,33.639539],"type":"Point"}
 }

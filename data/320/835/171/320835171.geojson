@@ -2,13 +2,14 @@
   "id": 320835171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.984902,33.583333,-111.984902,33.583333",
     "geom:latitude":33.583333,
     "geom:longitude":-111.984902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10634 N 44th Ct",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320835171,
-    "wof:lastmodified":1449011789,
+    "wof:lastmodified":1466330144,
     "wof:name":"Red Fox",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.984902,33.583333,-111.984902,33.583333],
-  "geometry": {"coordinates":[-111.984902,33.583333],"type":"Point"}
+  "bbox": [
+    -111.984902,
+    33.583333,
+    -111.984902,
+    33.583333
+],
+  "geometry": {"coordinates":[-111.98490200000001,33.583333],"type":"Point"}
 }

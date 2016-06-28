@@ -2,13 +2,14 @@
   "id": 320629863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042882,33.474815,-112.042882,33.474815",
     "geom:latitude":33.474815,
     "geom:longitude":-112.042882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 E Sheridan St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320629863,
-    "wof:lastmodified":1449014090,
+    "wof:lastmodified":1466326521,
     "wof:name":"Turbo Tile",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile-contractors"
     ]
 },
-  "bbox": [-112.042882,33.474815,-112.042882,33.474815],
-  "geometry": {"coordinates":[-112.042882,33.474815],"type":"Point"}
+  "bbox": [
+    -112.042882,
+    33.474815,
+    -112.042882,
+    33.474815
+],
+  "geometry": {"coordinates":[-112.04288200000001,33.474815],"type":"Point"}
 }

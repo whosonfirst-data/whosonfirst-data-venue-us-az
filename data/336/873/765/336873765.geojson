@@ -2,13 +2,14 @@
   "id": 336873765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841003,33.315701,-111.841003,33.315701",
     "geom:latitude":33.315701,
     "geom:longitude":-111.841003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Arizona Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336873765,
-    "wof:lastmodified":1448997171,
+    "wof:lastmodified":1466330178,
     "wof:name":"Chandler Inn",
     "wof:parent_id":85876681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-111.841003,33.315701,-111.841003,33.315701],
+  "bbox": [
+    -111.841003,
+    33.315701,
+    -111.841003,
+    33.315701
+],
   "geometry": {"coordinates":[-111.841003,33.315701],"type":"Point"}
 }

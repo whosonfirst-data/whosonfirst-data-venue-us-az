@@ -2,13 +2,14 @@
   "id": 152979899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.159753,33.526958,-112.159753,33.526958",
     "geom:latitude":33.526958,
     "geom:longitude":-112.159753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4516 W Keim Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152979899,
-    "wof:lastmodified":1449047561,
+    "wof:lastmodified":1466329184,
     "wof:name":"Cullers Landscape & Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.159753,33.526958,-112.159753,33.526958],
-  "geometry": {"coordinates":[-112.159753,33.526958],"type":"Point"}
+  "bbox": [
+    -112.159753,
+    33.526958,
+    -112.159753,
+    33.526958
+],
+  "geometry": {"coordinates":[-112.15975299999999,33.526958],"type":"Point"}
 }

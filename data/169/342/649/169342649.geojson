@@ -2,13 +2,14 @@
   "id": 169342649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105518,33.385108,-112.105518,33.385108",
     "geom:latitude":33.385108,
     "geom:longitude":-112.105518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 W Vineyard Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169342649,
-    "wof:lastmodified":1449035727,
+    "wof:lastmodified":1466333427,
     "wof:name":"Native Touch Clothing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.105518,33.385108,-112.105518,33.385108],
+  "bbox": [
+    -112.105518,
+    33.385108,
+    -112.105518,
+    33.385108
+],
   "geometry": {"coordinates":[-112.105518,33.385108],"type":"Point"}
 }

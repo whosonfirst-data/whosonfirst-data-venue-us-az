@@ -2,13 +2,14 @@
   "id": 153007727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.983599,32.167964,-110.983599,32.167964",
     "geom:latitude":32.167964,
     "geom:longitude":-110.983599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 W Ohio St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153007727,
-    "wof:lastmodified":1449040742,
+    "wof:lastmodified":1466325916,
     "wof:name":"Moyzas Custom Plastering LLC",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.983599,32.167964,-110.983599,32.167964],
+  "bbox": [
+    -110.983599,
+    32.167964,
+    -110.983599,
+    32.167964
+],
   "geometry": {"coordinates":[-110.983599,32.167964],"type":"Point"}
 }

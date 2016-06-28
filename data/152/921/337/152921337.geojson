@@ -2,13 +2,14 @@
   "id": 152921337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.726131,33.457277,-111.726131,33.457277",
     "geom:latitude":33.457277,
     "geom:longitude":-111.726131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4753 E Falcon Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803247,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85803247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152921337,
-    "wof:lastmodified":1449047265,
+    "wof:lastmodified":1466327086,
     "wof:name":"Impala Bobs Inc",
     "wof:parent_id":85803247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.726131,33.457277,-111.726131,33.457277],
+  "bbox": [
+    -111.726131,
+    33.457277,
+    -111.726131,
+    33.457277
+],
   "geometry": {"coordinates":[-111.726131,33.457277],"type":"Point"}
 }

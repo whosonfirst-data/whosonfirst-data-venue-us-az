@@ -2,13 +2,14 @@
   "id": 153011141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.439889,33.355186,-112.439889,33.355186",
     "geom:latitude":33.355186,
     "geom:longitude":-112.439889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17665 W Elliot Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153011141,
-    "wof:lastmodified":1449040731,
+    "wof:lastmodified":1466326107,
     "wof:name":"Estrella Mtn Ranch Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.439889,33.355186,-112.439889,33.355186],
-  "geometry": {"coordinates":[-112.439889,33.355186],"type":"Point"}
+  "bbox": [
+    -112.439889,
+    33.355186,
+    -112.439889,
+    33.355186
+],
+  "geometry": {"coordinates":[-112.43988899999999,33.355186],"type":"Point"}
 }

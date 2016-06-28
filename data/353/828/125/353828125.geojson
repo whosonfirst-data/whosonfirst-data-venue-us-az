@@ -2,13 +2,14 @@
   "id": 353828125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974516,32.194189,-110.974516,32.194189",
     "geom:latitude":32.194189,
     "geom:longitude":-110.974516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 S 10th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353828125,
-    "wof:lastmodified":1449019565,
+    "wof:lastmodified":1466330460,
     "wof:name":"Magnum Paving, Inc.",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sealcoating"
     ]
 },
-  "bbox": [-110.974516,32.194189,-110.974516,32.194189],
-  "geometry": {"coordinates":[-110.974516,32.194189],"type":"Point"}
+  "bbox": [
+    -110.974516,
+    32.194189,
+    -110.974516,
+    32.194189
+],
+  "geometry": {"coordinates":[-110.97451599999999,32.194189],"type":"Point"}
 }

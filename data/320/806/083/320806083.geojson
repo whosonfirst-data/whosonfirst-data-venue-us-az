@@ -2,13 +2,14 @@
   "id": 320806083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.110105,33.62173,-112.110105,33.62173",
     "geom:latitude":33.62173,
     "geom:longitude":-112.110105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 W Country Gables Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320806083,
-    "wof:lastmodified":1449011250,
+    "wof:lastmodified":1466329880,
     "wof:name":"Advantage Payment Systems",
     "wof:parent_id":85811951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "card-merchant"
     ]
 },
-  "bbox": [-112.110105,33.62173,-112.110105,33.62173],
+  "bbox": [
+    -112.110105,
+    33.62173,
+    -112.110105,
+    33.62173
+],
   "geometry": {"coordinates":[-112.110105,33.62173],"type":"Point"}
 }

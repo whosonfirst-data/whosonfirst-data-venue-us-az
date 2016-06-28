@@ -2,13 +2,14 @@
   "id": 353835191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.95936,32.272081,-110.95936,32.272081",
     "geom:latitude":32.272081,
     "geom:longitude":-110.95936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353835191,
-    "wof:lastmodified":1449018620,
+    "wof:lastmodified":1466330664,
     "wof:name":"The Fountains",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "finder"
     ]
 },
-  "bbox": [-110.95936,32.272081,-110.95936,32.272081],
+  "bbox": [
+    -110.95936,
+    32.272081,
+    -110.95936,
+    32.272081
+],
   "geometry": {"coordinates":[-110.95936,32.272081],"type":"Point"}
 }

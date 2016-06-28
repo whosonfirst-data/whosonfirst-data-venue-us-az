@@ -2,13 +2,14 @@
   "id": 336680337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223683,33.459848,-112.223683,33.459848",
     "geom:latitude":33.459848,
     "geom:longitude":-112.223683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7650 W Latham St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336680337,
-    "wof:lastmodified":1448997688,
+    "wof:lastmodified":1466327692,
     "wof:name":"Cardinal Freight Carriers",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.223683,33.459848,-112.223683,33.459848],
-  "geometry": {"coordinates":[-112.223683,33.459848],"type":"Point"}
+  "bbox": [
+    -112.223683,
+    33.459848,
+    -112.223683,
+    33.459848
+],
+  "geometry": {"coordinates":[-112.22368299999999,33.459848],"type":"Point"}
 }

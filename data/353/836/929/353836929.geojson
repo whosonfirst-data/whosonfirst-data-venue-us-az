@@ -2,13 +2,14 @@
   "id": 353836929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958003,32.23891,-110.958003,32.23891",
     "geom:latitude":32.23891,
     "geom:longitude":-110.958003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 N Tyndall Ave # 116",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353836929,
-    "wof:lastmodified":1449019924,
+    "wof:lastmodified":1466330504,
     "wof:name":"University Garden Apartments",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.958003,32.23891,-110.958003,32.23891],
-  "geometry": {"coordinates":[-110.958003,32.23891],"type":"Point"}
+  "bbox": [
+    -110.958003,
+    32.23891,
+    -110.958003,
+    32.23891
+],
+  "geometry": {"coordinates":[-110.95800300000001,32.23891],"type":"Point"}
 }

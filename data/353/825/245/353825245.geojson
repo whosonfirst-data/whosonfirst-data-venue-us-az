@@ -2,13 +2,14 @@
   "id": 353825245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.885102,32.250594,-110.885102,32.250594",
     "geom:latitude":32.250594,
     "geom:longitude":-110.885102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 E GRANT RD",
     "sg:city":"TUCSON",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353825245,
-    "wof:lastmodified":1449018340,
+    "wof:lastmodified":1466330557,
     "wof:name":"Extended Stay America Tucson - Grant Road",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-110.885102,32.250594,-110.885102,32.250594],
+  "bbox": [
+    -110.885102,
+    32.250594,
+    -110.885102,
+    32.250594
+],
   "geometry": {"coordinates":[-110.885102,32.250594],"type":"Point"}
 }

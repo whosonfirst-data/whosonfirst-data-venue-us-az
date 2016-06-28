@@ -2,13 +2,14 @@
   "id": 153000569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.980667,32.286403,-110.980667,32.286403",
     "geom:latitude":32.286403,
     "geom:longitude":-110.980667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 W Wetmore Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.desertkiaoftucson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153000569,
-    "wof:lastmodified":1449040408,
+    "wof:lastmodified":1466326998,
     "wof:name":"Desert KIA Of Tucson",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.980667,32.286403,-110.980667,32.286403],
+  "bbox": [
+    -110.980667,
+    32.286403,
+    -110.980667,
+    32.286403
+],
   "geometry": {"coordinates":[-110.980667,32.286403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168825917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970921,32.219951,-110.970921,32.219951",
     "geom:latitude":32.219951,
     "geom:longitude":-110.970921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168825917,
-    "wof:lastmodified":1449027791,
+    "wof:lastmodified":1466325861,
     "wof:name":"Insiders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970921,32.219951,-110.970921,32.219951],
+  "bbox": [
+    -110.970921,
+    32.219951,
+    -110.970921,
+    32.219951
+],
   "geometry": {"coordinates":[-110.970921,32.219951],"type":"Point"}
 }

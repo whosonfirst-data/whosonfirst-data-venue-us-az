@@ -2,13 +2,14 @@
   "id": 337480451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919678,33.486519,-111.919678,33.486519",
     "geom:latitude":33.486519,
     "geom:longitude":-111.919678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 E Angus Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337480451,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1466326084,
     "wof:name":"A Touch Of Grace",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.919678,33.486519,-111.919678,33.486519],
+  "bbox": [
+    -111.919678,
+    33.486519,
+    -111.919678,
+    33.486519
+],
   "geometry": {"coordinates":[-111.919678,33.486519],"type":"Point"}
 }

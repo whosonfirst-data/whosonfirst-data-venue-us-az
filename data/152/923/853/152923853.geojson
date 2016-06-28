@@ -2,13 +2,14 @@
   "id": 152923853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.79793,33.396305,-111.79793,33.396305",
     "geom:latitude":33.396305,
     "geom:longitude":-111.79793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 S Daley",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152923853,
-    "wof:lastmodified":1449048762,
+    "wof:lastmodified":1466327492,
     "wof:name":"John Westover & Assoc",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.79793,33.396305,-111.79793,33.396305],
-  "geometry": {"coordinates":[-111.79793,33.396305],"type":"Point"}
+  "bbox": [
+    -111.79793,
+    33.396305,
+    -111.79793,
+    33.396305
+],
+  "geometry": {"coordinates":[-111.79792999999999,33.396305],"type":"Point"}
 }

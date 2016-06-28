@@ -2,13 +2,14 @@
   "id": 152968001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948046,32.136085,-110.948046,32.136085",
     "geom:latitude":32.136085,
     "geom:longitude":-110.948046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6360 S del Moral Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152968001,
-    "wof:lastmodified":1449044588,
+    "wof:lastmodified":1466328840,
     "wof:name":"Hardrock Concrete Placement",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948046,32.136085,-110.948046,32.136085],
-  "geometry": {"coordinates":[-110.948046,32.136085],"type":"Point"}
+  "bbox": [
+    -110.948046,
+    32.136085,
+    -110.948046,
+    32.136085
+],
+  "geometry": {"coordinates":[-110.94804600000001,32.136085],"type":"Point"}
 }

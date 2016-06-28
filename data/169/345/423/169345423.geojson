@@ -2,13 +2,14 @@
   "id": 169345423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.88395,32.255272,-110.88395,32.255272",
     "geom:latitude":32.255272,
     "geom:longitude":-110.88395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Wyatt Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169345423,
-    "wof:lastmodified":1449035698,
+    "wof:lastmodified":1466333453,
     "wof:name":"Pilot Parents Of Southern Az",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.88395,32.255272,-110.88395,32.255272],
+  "bbox": [
+    -110.88395,
+    32.255272,
+    -110.88395,
+    32.255272
+],
   "geometry": {"coordinates":[-110.88395,32.255272],"type":"Point"}
 }

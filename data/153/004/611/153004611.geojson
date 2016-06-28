@@ -2,13 +2,14 @@
   "id": 153004611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.919012,32.18442,-110.919012,32.18442",
     "geom:latitude":32.18442,
     "geom:longitude":-110.919012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 S Broadmont Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153004611,
-    "wof:lastmodified":1449040512,
+    "wof:lastmodified":1466325743,
     "wof:name":"CYC Complete Auto Body Parts",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.919012,32.18442,-110.919012,32.18442],
+  "bbox": [
+    -110.919012,
+    32.18442,
+    -110.919012,
+    32.18442
+],
   "geometry": {"coordinates":[-110.919012,32.18442],"type":"Point"}
 }

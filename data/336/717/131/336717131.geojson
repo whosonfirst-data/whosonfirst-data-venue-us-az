@@ -2,13 +2,14 @@
   "id": 336717131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137597,33.567542,-112.137597,33.567542",
     "geom:latitude":33.567542,
     "geom:longitude":-112.137597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 W Dunlap Ave Ste K",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336717131,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466328301,
     "wof:name":"Phoenix 3612",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "data"
     ]
 },
-  "bbox": [-112.137597,33.567542,-112.137597,33.567542],
+  "bbox": [
+    -112.137597,
+    33.567542,
+    -112.137597,
+    33.567542
+],
   "geometry": {"coordinates":[-112.137597,33.567542],"type":"Point"}
 }

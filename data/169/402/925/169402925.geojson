@@ -2,13 +2,14 @@
   "id": 169402925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026604,33.640457,-112.026604,33.640457",
     "geom:latitude":33.640457,
     "geom:longitude":-112.026604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840437,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169402925,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1466334075,
     "wof:name":"Esperanza Community Collegial",
     "wof:parent_id":85840437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.026604,33.640457,-112.026604,33.640457],
-  "geometry": {"coordinates":[-112.026604,33.640457],"type":"Point"}
+  "bbox": [
+    -112.026604,
+    33.640457,
+    -112.026604,
+    33.640457
+],
+  "geometry": {"coordinates":[-112.02660400000001,33.640457],"type":"Point"}
 }

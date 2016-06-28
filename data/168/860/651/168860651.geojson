@@ -2,13 +2,14 @@
   "id": 168860651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.163781,33.652294,-112.163781,33.652294",
     "geom:latitude":33.652294,
     "geom:longitude":-112.163781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4827 W Bluefield Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858917,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85858917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168860651,
-    "wof:lastmodified":1449028125,
+    "wof:lastmodified":1466326642,
     "wof:name":"L&L Gifts & More",
     "wof:parent_id":85858917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.163781,33.652294,-112.163781,33.652294],
+  "bbox": [
+    -112.163781,
+    33.652294,
+    -112.163781,
+    33.652294
+],
   "geometry": {"coordinates":[-112.163781,33.652294],"type":"Point"}
 }

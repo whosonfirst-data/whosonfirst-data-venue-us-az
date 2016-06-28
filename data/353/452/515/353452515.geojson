@@ -2,13 +2,14 @@
   "id": 353452515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.951231,33.404621,-111.951231,33.404621",
     "geom:latitude":33.404621,
     "geom:longitude":-111.951231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 W 22nd St Ste 101",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353452515,
-    "wof:lastmodified":1449018850,
+    "wof:lastmodified":1466326669,
     "wof:name":"Heritage Window Covering",
     "wof:parent_id":85881415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.951231,33.404621,-111.951231,33.404621],
-  "geometry": {"coordinates":[-111.951231,33.404621],"type":"Point"}
+  "bbox": [
+    -111.951231,
+    33.404621,
+    -111.951231,
+    33.404621
+],
+  "geometry": {"coordinates":[-111.95123100000001,33.404621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169112595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.300546,31.969015,-110.300546,31.969015",
     "geom:latitude":31.969015,
     "geom:longitude":-110.300546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 W 4th St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169112595,
-    "wof:lastmodified":1449034194,
+    "wof:lastmodified":1466331165,
     "wof:name":"Job Service Ofc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.300546,31.969015,-110.300546,31.969015],
+  "bbox": [
+    -110.300546,
+    31.969015,
+    -110.300546,
+    31.969015
+],
   "geometry": {"coordinates":[-110.300546,31.969015],"type":"Point"}
 }

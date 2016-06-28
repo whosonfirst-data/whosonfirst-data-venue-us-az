@@ -2,13 +2,14 @@
   "id": 169347395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117059,33.654603,-112.117059,33.654603",
     "geom:latitude":33.654603,
     "geom:longitude":-112.117059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 W Union Hills Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847865,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85847865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169347395,
-    "wof:lastmodified":1449034278,
+    "wof:lastmodified":1466333454,
     "wof:name":"Am/PM Mini Market",
     "wof:parent_id":85847865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117059,33.654603,-112.117059,33.654603],
+  "bbox": [
+    -112.117059,
+    33.654603,
+    -112.117059,
+    33.654603
+],
   "geometry": {"coordinates":[-112.117059,33.654603],"type":"Point"}
 }

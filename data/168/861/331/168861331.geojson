@@ -2,13 +2,14 @@
   "id": 168861331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050846,33.509029,-112.050846,33.509029",
     "geom:latitude":33.509029,
     "geom:longitude":-112.050846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 N 14th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168861331,
-    "wof:lastmodified":1449028591,
+    "wof:lastmodified":1466326704,
     "wof:name":"Camelback Volkswagen Saab",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.050846,33.509029,-112.050846,33.509029],
-  "geometry": {"coordinates":[-112.050846,33.509029],"type":"Point"}
+  "bbox": [
+    -112.050846,
+    33.509029,
+    -112.050846,
+    33.509029
+],
+  "geometry": {"coordinates":[-112.05084600000001,33.509029],"type":"Point"}
 }

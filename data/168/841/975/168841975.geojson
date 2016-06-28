@@ -2,13 +2,14 @@
   "id": 168841975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154836,33.63934,-112.154836,33.63934",
     "geom:latitude":33.63934,
     "geom:longitude":-112.154836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.arizonahealthfoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840735,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168841975,
-    "wof:lastmodified":1449027940,
+    "wof:lastmodified":1466327323,
     "wof:name":"Arizona Health Foods Inc",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154836,33.63934,-112.154836,33.63934],
+  "bbox": [
+    -112.154836,
+    33.63934,
+    -112.154836,
+    33.63934
+],
   "geometry": {"coordinates":[-112.154836,33.63934],"type":"Point"}
 }

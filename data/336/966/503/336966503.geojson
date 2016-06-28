@@ -2,13 +2,14 @@
   "id": 336966503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.915366,33.491203,-111.915366,33.491203",
     "geom:latitude":33.491203,
     "geom:longitude":-111.915366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 E 2nd St Unit 105",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336966503,
-    "wof:lastmodified":1448996927,
+    "wof:lastmodified":1466330948,
     "wof:name":"Adaptive Health Forensic",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-111.915366,33.491203,-111.915366,33.491203],
-  "geometry": {"coordinates":[-111.915366,33.491203],"type":"Point"}
+  "bbox": [
+    -111.915366,
+    33.491203,
+    -111.915366,
+    33.491203
+],
+  "geometry": {"coordinates":[-111.91536600000001,33.491203],"type":"Point"}
 }

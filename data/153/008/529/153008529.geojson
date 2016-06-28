@@ -2,13 +2,14 @@
   "id": 153008529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271412,33.63805,-112.271412,33.63805",
     "geom:latitude":33.63805,
     "geom:longitude":-112.271412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9877 W Bell Rd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153008529,
-    "wof:lastmodified":1449040480,
+    "wof:lastmodified":1466325945,
     "wof:name":"Augie's Hair Studio",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.271412,33.63805,-112.271412,33.63805],
+  "bbox": [
+    -112.271412,
+    33.63805,
+    -112.271412,
+    33.63805
+],
   "geometry": {"coordinates":[-112.271412,33.63805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169023275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.936674,33.329383,-111.936674,33.329383",
     "geom:latitude":33.329383,
     "geom:longitude":-111.936674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 E Caroline Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876693,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85876693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169023275,
-    "wof:lastmodified":1449035632,
+    "wof:lastmodified":1466326256,
     "wof:name":"Jennifer Rives & Associates",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.936674,33.329383,-111.936674,33.329383],
+  "bbox": [
+    -111.936674,
+    33.329383,
+    -111.936674,
+    33.329383
+],
   "geometry": {"coordinates":[-111.936674,33.329383],"type":"Point"}
 }

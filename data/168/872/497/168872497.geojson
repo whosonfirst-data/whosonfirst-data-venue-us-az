@@ -2,13 +2,14 @@
   "id": 168872497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.824306,32.24293,-110.824306,32.24293",
     "geom:latitude":32.24293,
     "geom:longitude":-110.824306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7821 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168872497,
-    "wof:lastmodified":1449027846,
+    "wof:lastmodified":1466327674,
     "wof:name":"Starlight Auto Sales",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.824306,32.24293,-110.824306,32.24293],
-  "geometry": {"coordinates":[-110.824306,32.24293],"type":"Point"}
+  "bbox": [
+    -110.824306,
+    32.24293,
+    -110.824306,
+    32.24293
+],
+  "geometry": {"coordinates":[-110.82430600000001,32.24293],"type":"Point"}
 }

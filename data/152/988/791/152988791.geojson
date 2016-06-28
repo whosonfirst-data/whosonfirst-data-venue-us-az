@@ -2,13 +2,14 @@
   "id": 152988791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.086375,32.195178,-111.086375,32.195178",
     "geom:latitude":32.195178,
     "geom:longitude":-111.086375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 W Lone Star Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152988791,
-    "wof:lastmodified":1449045903,
+    "wof:lastmodified":1466329440,
     "wof:name":"Tucson Estates Foothills",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.086375,32.195178,-111.086375,32.195178],
+  "bbox": [
+    -111.086375,
+    32.195178,
+    -111.086375,
+    32.195178
+],
   "geometry": {"coordinates":[-111.086375,32.195178],"type":"Point"}
 }

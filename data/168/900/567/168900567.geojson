@@ -2,13 +2,14 @@
   "id": 168900567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.985317,33.496982,-111.985317,33.496982",
     "geom:latitude":33.496982,
     "geom:longitude":-111.985317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4429 E Devonshire Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885499,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168900567,
-    "wof:lastmodified":1449028113,
+    "wof:lastmodified":1466329470,
     "wof:name":"Accent Custom Design Services",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.985317,33.496982,-111.985317,33.496982],
-  "geometry": {"coordinates":[-111.985317,33.496982],"type":"Point"}
+  "bbox": [
+    -111.985317,
+    33.496982,
+    -111.985317,
+    33.496982
+],
+  "geometry": {"coordinates":[-111.98531699999999,33.496982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336607511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01346,33.632853,-112.01346,33.632853",
     "geom:latitude":33.632853,
     "geom:longitude":-112.01346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16020 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336607511,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1466326109,
     "wof:name":"Hahn's Outdoor Power Equip Inc",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01346,33.632853,-112.01346,33.632853],
-  "geometry": {"coordinates":[-112.01346,33.632853],"type":"Point"}
+  "bbox": [
+    -112.01346,
+    33.632853,
+    -112.01346,
+    33.632853
+],
+  "geometry": {"coordinates":[-112.01345999999999,33.632853],"type":"Point"}
 }

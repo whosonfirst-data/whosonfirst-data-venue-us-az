@@ -2,13 +2,14 @@
   "id": 152981867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999385,32.289646,-110.999385,32.289646",
     "geom:latitude":32.289646,
     "geom:longitude":-110.999385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4517 N Pomona Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152981867,
-    "wof:lastmodified":1449048977,
+    "wof:lastmodified":1466329021,
     "wof:name":"Toms Snack Foods",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.999385,32.289646,-110.999385,32.289646],
+  "bbox": [
+    -110.999385,
+    32.289646,
+    -110.999385,
+    32.289646
+],
   "geometry": {"coordinates":[-110.999385,32.289646],"type":"Point"}
 }

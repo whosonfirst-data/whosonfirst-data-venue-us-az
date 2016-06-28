@@ -2,13 +2,14 @@
   "id": 169314947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.575483,35.035364,-114.575483,35.035364",
     "geom:latitude":35.035364,
     "geom:longitude":-114.575483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 Amber Ave",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169314947,
-    "wof:lastmodified":1449035822,
+    "wof:lastmodified":1466333126,
     "wof:name":"Magnolia Home Decor",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.575483,35.035364,-114.575483,35.035364],
-  "geometry": {"coordinates":[-114.575483,35.035364],"type":"Point"}
+  "bbox": [
+    -114.575483,
+    35.035364,
+    -114.575483,
+    35.035364
+],
+  "geometry": {"coordinates":[-114.57548300000001,35.035364],"type":"Point"}
 }

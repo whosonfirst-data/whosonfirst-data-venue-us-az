@@ -2,13 +2,14 @@
   "id": 336748441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.126021,32.959403,-112.126021,32.959403",
     "geom:latitude":32.959403,
     "geom:longitude":-112.126021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8716 N Thunderbird Rd",
     "sg:city":"Maricopa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336748441,
-    "wof:lastmodified":1448997750,
+    "wof:lastmodified":1466328771,
     "wof:name":"Maricopa Air & Electric",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.126021,32.959403,-112.126021,32.959403],
-  "geometry": {"coordinates":[-112.126021,32.959403],"type":"Point"}
+  "bbox": [
+    -112.126021,
+    32.959403,
+    -112.126021,
+    32.959403
+],
+  "geometry": {"coordinates":[-112.12602099999999,32.959403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353561669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.209122,33.558183,-112.209122,33.558183",
     "geom:latitude":33.558183,
     "geom:longitude":-112.209122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6952 NW Grand Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353561669,
-    "wof:lastmodified":1449020057,
+    "wof:lastmodified":1466328346,
     "wof:name":"Advanced Insulation, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "insulation"
     ]
 },
-  "bbox": [-112.209122,33.558183,-112.209122,33.558183],
-  "geometry": {"coordinates":[-112.209122,33.558183],"type":"Point"}
+  "bbox": [
+    -112.209122,
+    33.558183,
+    -112.209122,
+    33.558183
+],
+  "geometry": {"coordinates":[-112.20912199999999,33.558183],"type":"Point"}
 }

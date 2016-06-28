@@ -2,13 +2,14 @@
   "id": 153083505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.93178,33.622739,-111.93178,33.622739",
     "geom:latitude":33.622739,
     "geom:longitude":-111.93178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 E Greenway Pkwy",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814389,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85814389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153083505,
-    "wof:lastmodified":1449040548,
+    "wof:lastmodified":1466329194,
     "wof:name":"Mark D Svejda Law Offices",
     "wof:parent_id":85814389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.93178,33.622739,-111.93178,33.622739],
+  "bbox": [
+    -111.93178,
+    33.622739,
+    -111.93178,
+    33.622739
+],
   "geometry": {"coordinates":[-111.93178,33.622739],"type":"Point"}
 }

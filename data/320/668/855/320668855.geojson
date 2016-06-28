@@ -2,13 +2,14 @@
   "id": 320668855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070889,33.482226,-112.070889,33.482226",
     "geom:latitude":33.482226,
     "geom:longitude":-112.070889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 N 2nd St Ste 301",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320668855,
-    "wof:lastmodified":1449013875,
+    "wof:lastmodified":1466327494,
     "wof:name":"US Drug Enforcement Administration - Phoenix Division - Headquarters",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agencies-government"
     ]
 },
-  "bbox": [-112.070889,33.482226,-112.070889,33.482226],
-  "geometry": {"coordinates":[-112.070889,33.482226],"type":"Point"}
+  "bbox": [
+    -112.070889,
+    33.482226,
+    -112.070889,
+    33.482226
+],
+  "geometry": {"coordinates":[-112.07088899999999,33.482226],"type":"Point"}
 }

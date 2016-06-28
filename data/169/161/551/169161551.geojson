@@ -2,13 +2,14 @@
   "id": 169161551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.753547,33.425107,-111.753547,33.425107",
     "geom:latitude":33.425107,
     "geom:longitude":-111.753547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Val Vista Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169161551,
-    "wof:lastmodified":1449033982,
+    "wof:lastmodified":1466331878,
     "wof:name":"Mabuhay Cruise Tour & Travel",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.753547,33.425107,-111.753547,33.425107],
+  "bbox": [
+    -111.753547,
+    33.425107,
+    -111.753547,
+    33.425107
+],
   "geometry": {"coordinates":[-111.753547,33.425107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168918667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996966,33.350681,-111.996966,33.350681",
     "geom:latitude":33.350681,
     "geom:longitude":-111.996966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4044 E San Gabriel Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840707,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168918667,
-    "wof:lastmodified":1449028292,
+    "wof:lastmodified":1466330242,
     "wof:name":"Jean Cappello",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.996966,33.350681,-111.996966,33.350681],
+  "bbox": [
+    -111.996966,
+    33.350681,
+    -111.996966,
+    33.350681
+],
   "geometry": {"coordinates":[-111.996966,33.350681],"type":"Point"}
 }

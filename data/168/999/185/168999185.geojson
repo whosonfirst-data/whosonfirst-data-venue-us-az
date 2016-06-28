@@ -2,13 +2,14 @@
   "id": 168999185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939751,32.218844,-110.939751,32.218844",
     "geom:latitude":32.218844,
     "geom:longitude":-110.939751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 E 13th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168999185,
-    "wof:lastmodified":1449028496,
+    "wof:lastmodified":1466331708,
     "wof:name":"Cambrian Woodworks",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939751,32.218844,-110.939751,32.218844],
+  "bbox": [
+    -110.939751,
+    32.218844,
+    -110.939751,
+    32.218844
+],
   "geometry": {"coordinates":[-110.939751,32.218844],"type":"Point"}
 }

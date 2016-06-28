@@ -2,13 +2,14 @@
   "id": 169288349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.882275,32.243354,-110.882275,32.243354",
     "geom:latitude":32.243354,
     "geom:longitude":-110.882275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5118 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169288349,
-    "wof:lastmodified":1449033019,
+    "wof:lastmodified":1466332859,
     "wof:name":"West Of The Pecos Gun Shop",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.882275,32.243354,-110.882275,32.243354],
-  "geometry": {"coordinates":[-110.882275,32.243354],"type":"Point"}
+  "bbox": [
+    -110.882275,
+    32.243354,
+    -110.882275,
+    32.243354
+],
+  "geometry": {"coordinates":[-110.88227500000001,32.243354],"type":"Point"}
 }

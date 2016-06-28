@@ -2,13 +2,14 @@
   "id": 169301029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.88676,32.119493,-110.88676,32.119493",
     "geom:latitude":32.119493,
     "geom:longitude":-110.88676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7291 S Comstock Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081135,
-        85633793,
         85688719,
-        85831051
+        85633793,
+        85831051,
+        102081135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169301029,
-    "wof:lastmodified":1449033534,
+    "wof:lastmodified":1466333004,
     "wof:name":"Eagle One Mailworks",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.88676,32.119493,-110.88676,32.119493],
+  "bbox": [
+    -110.88676,
+    32.119493,
+    -110.88676,
+    32.119493
+],
   "geometry": {"coordinates":[-110.88676,32.119493],"type":"Point"}
 }

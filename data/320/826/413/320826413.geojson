@@ -2,13 +2,14 @@
   "id": 320826413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091743,33.691131,-112.091743,33.691131",
     "geom:latitude":33.691131,
     "geom:longitude":-112.091743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22642 N 15th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320826413,
-    "wof:lastmodified":1449013965,
+    "wof:lastmodified":1466330152,
     "wof:name":"Total Seal, Inc.",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gaskets-manufacturers"
     ]
 },
-  "bbox": [-112.091743,33.691131,-112.091743,33.691131],
-  "geometry": {"coordinates":[-112.091743,33.691131],"type":"Point"}
+  "bbox": [
+    -112.091743,
+    33.691131,
+    -112.091743,
+    33.691131
+],
+  "geometry": {"coordinates":[-112.09174299999999,33.691131],"type":"Point"}
 }

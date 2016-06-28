@@ -2,13 +2,14 @@
   "id": 353404911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.964103,33.415548,-111.964103,33.415548",
     "geom:latitude":33.415548,
     "geom:longitude":-111.964103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 W 12th Pl",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353404911,
-    "wof:lastmodified":1449019943,
+    "wof:lastmodified":1466326297,
     "wof:name":"Qw Express",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding"
     ]
 },
-  "bbox": [-111.964103,33.415548,-111.964103,33.415548],
-  "geometry": {"coordinates":[-111.964103,33.415548],"type":"Point"}
+  "bbox": [
+    -111.964103,
+    33.415548,
+    -111.964103,
+    33.415548
+],
+  "geometry": {"coordinates":[-111.96410299999999,33.415548],"type":"Point"}
 }

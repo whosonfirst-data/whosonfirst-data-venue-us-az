@@ -2,13 +2,14 @@
   "id": 169139811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.823754,33.412864,-110.823754,33.412864",
     "geom:latitude":33.412864,
     "geom:longitude":-110.823754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5232 Golden Hill",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169139811,
-    "wof:lastmodified":1449032981,
+    "wof:lastmodified":1466331582,
     "wof:name":"Sally's Dog Grooming",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.823754,33.412864,-110.823754,33.412864],
-  "geometry": {"coordinates":[-110.823754,33.412864],"type":"Point"}
+  "bbox": [
+    -110.823754,
+    33.412864,
+    -110.823754,
+    33.412864
+],
+  "geometry": {"coordinates":[-110.82375399999999,33.412864],"type":"Point"}
 }

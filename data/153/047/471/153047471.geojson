@@ -2,13 +2,14 @@
   "id": 153047471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.825152,32.250617,-110.825152,32.250617",
     "geom:latitude":32.250617,
     "geom:longitude":-110.825152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7844 E Wrightstown Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153047471,
-    "wof:lastmodified":1449040673,
+    "wof:lastmodified":1466326991,
     "wof:name":"Pilates Experience",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.825152,32.250617,-110.825152,32.250617],
+  "bbox": [
+    -110.825152,
+    32.250617,
+    -110.825152,
+    32.250617
+],
   "geometry": {"coordinates":[-110.825152,32.250617],"type":"Point"}
 }

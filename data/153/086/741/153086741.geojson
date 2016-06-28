@@ -2,13 +2,14 @@
   "id": 153086741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.085499,34.477345,-110.085499,34.477345",
     "geom:latitude":34.477345,
     "geom:longitude":-110.085499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Main St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153086741,
-    "wof:lastmodified":1449040676,
+    "wof:lastmodified":1466329166,
     "wof:name":"Maverik Country Store",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.085499,34.477345,-110.085499,34.477345],
+  "bbox": [
+    -110.085499,
+    34.477345,
+    -110.085499,
+    34.477345
+],
   "geometry": {"coordinates":[-110.085499,34.477345],"type":"Point"}
 }

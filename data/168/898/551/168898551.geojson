@@ -2,13 +2,14 @@
   "id": 168898551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.892717,32.242336,-110.892717,32.242336",
     "geom:latitude":32.242336,
     "geom:longitude":-110.892717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1661 N Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168898551,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1466329552,
     "wof:name":"Flagstar Bank Home Loan Ctr",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.892717,32.242336,-110.892717,32.242336],
+  "bbox": [
+    -110.892717,
+    32.242336,
+    -110.892717,
+    32.242336
+],
   "geometry": {"coordinates":[-110.892717,32.242336],"type":"Point"}
 }

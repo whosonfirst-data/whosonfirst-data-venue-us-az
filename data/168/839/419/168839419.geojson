@@ -2,13 +2,14 @@
   "id": 168839419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.840852,32.178483,-110.840852,32.178483",
     "geom:latitude":32.178483,
     "geom:longitude":-110.840852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 S Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168839419,
-    "wof:lastmodified":1449028249,
+    "wof:lastmodified":1466327037,
     "wof:name":"Epic Fire Protection",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.840852,32.178483,-110.840852,32.178483],
+  "bbox": [
+    -110.840852,
+    32.178483,
+    -110.840852,
+    32.178483
+],
   "geometry": {"coordinates":[-110.840852,32.178483],"type":"Point"}
 }

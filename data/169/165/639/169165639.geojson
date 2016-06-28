@@ -2,13 +2,14 @@
   "id": 169165639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.253425,31.472149,-110.253425,31.472149",
     "geom:latitude":31.472149,
     "geom:longitude":-110.253425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5331 S San Paulo Ave",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169165639,
-    "wof:lastmodified":1449035975,
+    "wof:lastmodified":1466331889,
     "wof:name":"Saufoi Leutele",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.253425,31.472149,-110.253425,31.472149],
-  "geometry": {"coordinates":[-110.253425,31.472149],"type":"Point"}
+  "bbox": [
+    -110.253425,
+    31.472149,
+    -110.253425,
+    31.472149
+],
+  "geometry": {"coordinates":[-110.25342499999999,31.472149],"type":"Point"}
 }

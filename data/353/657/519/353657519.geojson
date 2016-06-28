@@ -2,13 +2,14 @@
   "id": 353657519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156595,33.37973,-112.156595,33.37973",
     "geom:latitude":33.37973,
     "geom:longitude":-112.156595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4522 W Ellis St",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353657519,
-    "wof:lastmodified":1449018544,
+    "wof:lastmodified":1466329255,
     "wof:name":"Arizona Golf Simulators",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-112.156595,33.37973,-112.156595,33.37973],
+  "bbox": [
+    -112.156595,
+    33.37973,
+    -112.156595,
+    33.37973
+],
   "geometry": {"coordinates":[-112.156595,33.37973],"type":"Point"}
 }

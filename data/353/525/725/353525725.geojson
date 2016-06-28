@@ -2,13 +2,14 @@
   "id": 353525725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.857338,33.280942,-111.857338,33.280942",
     "geom:latitude":33.280942,
     "geom:longitude":-111.857338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 S Beverly Ct",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353525725,
-    "wof:lastmodified":1449020291,
+    "wof:lastmodified":1466327619,
     "wof:name":"Oem Data",
     "wof:parent_id":85876685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "developer"
     ]
 },
-  "bbox": [-111.857338,33.280942,-111.857338,33.280942],
+  "bbox": [
+    -111.857338,
+    33.280942,
+    -111.857338,
+    33.280942
+],
   "geometry": {"coordinates":[-111.857338,33.280942],"type":"Point"}
 }

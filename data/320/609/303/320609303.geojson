@@ -2,13 +2,14 @@
   "id": 320609303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07254,33.4482,-112.07254,33.4482",
     "geom:latitude":33.4482,
     "geom:longitude":-112.07254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N 1st St Ste 400",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320609303,
-    "wof:lastmodified":1449012670,
+    "wof:lastmodified":1466325991,
     "wof:name":"Army Recruiting Command",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-112.07254,33.4482,-112.07254,33.4482],
+  "bbox": [
+    -112.07254,
+    33.4482,
+    -112.07254,
+    33.4482
+],
   "geometry": {"coordinates":[-112.07254,33.4482],"type":"Point"}
 }

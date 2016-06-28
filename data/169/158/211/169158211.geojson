@@ -2,13 +2,14 @@
   "id": 169158211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924699,32.264912,-110.924699,32.264912",
     "geom:latitude":32.264912,
     "geom:longitude":-110.924699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.arizonaschildren.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169158211,
-    "wof:lastmodified":1449034890,
+    "wof:lastmodified":1466331783,
     "wof:name":"Arizona Children's Assn",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.924699,32.264912,-110.924699,32.264912],
+  "bbox": [
+    -110.924699,
+    32.264912,
+    -110.924699,
+    32.264912
+],
   "geometry": {"coordinates":[-110.924699,32.264912],"type":"Point"}
 }

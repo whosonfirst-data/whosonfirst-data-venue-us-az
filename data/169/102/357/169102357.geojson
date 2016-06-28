@@ -2,13 +2,14 @@
   "id": 169102357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.087115,33.672232,-112.087115,33.672232",
     "geom:latitude":33.672232,
     "geom:longitude":-112.087115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 W Tonopah Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169102357,
-    "wof:lastmodified":1449035714,
+    "wof:lastmodified":1466330844,
     "wof:name":"High Mountain Lea & Findings",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.087115,33.672232,-112.087115,33.672232],
+  "bbox": [
+    -112.087115,
+    33.672232,
+    -112.087115,
+    33.672232
+],
   "geometry": {"coordinates":[-112.087115,33.672232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169342369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.307054,31.964087,-110.307054,31.964087",
     "geom:latitude":31.964087,
     "geom:longitude":-110.307054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S Ocotillo Ave",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169342369,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1466333414,
     "wof:name":"Brett Clerc DDS",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.307054,31.964087,-110.307054,31.964087],
-  "geometry": {"coordinates":[-110.307054,31.964087],"type":"Point"}
+  "bbox": [
+    -110.307054,
+    31.964087,
+    -110.307054,
+    31.964087
+],
+  "geometry": {"coordinates":[-110.30705399999999,31.964087],"type":"Point"}
 }

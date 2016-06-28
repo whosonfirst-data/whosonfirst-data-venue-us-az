@@ -2,13 +2,14 @@
   "id": 169412899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.748129,32.879603,-111.748129,32.879603",
     "geom:latitude":32.879603,
     "geom:longitude":-111.748129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E Florence Blvd",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169412899,
-    "wof:lastmodified":1449033363,
+    "wof:lastmodified":1466333893,
     "wof:name":"Casa Grande City Court",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.748129,32.879603,-111.748129,32.879603],
-  "geometry": {"coordinates":[-111.748129,32.879603],"type":"Point"}
+  "bbox": [
+    -111.748129,
+    32.879603,
+    -111.748129,
+    32.879603
+],
+  "geometry": {"coordinates":[-111.74812900000001,32.879603],"type":"Point"}
 }

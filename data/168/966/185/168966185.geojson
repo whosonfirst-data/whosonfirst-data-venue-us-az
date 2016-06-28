@@ -2,13 +2,14 @@
   "id": 168966185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.883257,33.570051,-111.883257,33.570051",
     "geom:latitude":33.570051,
     "geom:longitude":-111.883257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9188 E San Salvador Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     "sg:website":"www.assadi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85803087
+        85633793,
+        85803087,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168966185,
-    "wof:lastmodified":1449027774,
+    "wof:lastmodified":1466331218,
     "wof:name":"Gitenstein & Assadi",
     "wof:parent_id":85803087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.883257,33.570051,-111.883257,33.570051],
+  "bbox": [
+    -111.883257,
+    33.570051,
+    -111.883257,
+    33.570051
+],
   "geometry": {"coordinates":[-111.883257,33.570051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353809545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.989761,32.297649,-110.989761,32.297649",
     "geom:latitude":32.297649,
     "geom:longitude":-110.989761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 W River Rd Ste 2",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353809545,
-    "wof:lastmodified":1449020364,
+    "wof:lastmodified":1466330326,
     "wof:name":"All Pro Carpet & Upholstery",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-110.989761,32.297649,-110.989761,32.297649],
+  "bbox": [
+    -110.989761,
+    32.297649,
+    -110.989761,
+    32.297649
+],
   "geometry": {"coordinates":[-110.989761,32.297649],"type":"Point"}
 }

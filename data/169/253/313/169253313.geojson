@@ -2,13 +2,14 @@
   "id": 169253313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929496,32.218945,-110.929496,32.218945",
     "geom:latitude":32.218945,
     "geom:longitude":-110.929496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 E Devon St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169253313,
-    "wof:lastmodified":1449035545,
+    "wof:lastmodified":1466332524,
     "wof:name":"Hometown Newspaper Distrs",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.929496,32.218945,-110.929496,32.218945],
+  "bbox": [
+    -110.929496,
+    32.218945,
+    -110.929496,
+    32.218945
+],
   "geometry": {"coordinates":[-110.929496,32.218945],"type":"Point"}
 }

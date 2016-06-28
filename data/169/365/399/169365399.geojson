@@ -2,13 +2,14 @@
   "id": 169365399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062678,33.530902,-112.062678,33.530902",
     "geom:latitude":33.530902,
     "geom:longitude":-112.062678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 E Maryland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169365399,
-    "wof:lastmodified":1449033223,
+    "wof:lastmodified":1466333618,
     "wof:name":"Grunow Electronics Co",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.062678,33.530902,-112.062678,33.530902],
-  "geometry": {"coordinates":[-112.062678,33.530902],"type":"Point"}
+  "bbox": [
+    -112.062678,
+    33.530902,
+    -112.062678,
+    33.530902
+],
+  "geometry": {"coordinates":[-112.06267800000001,33.530902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168825359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947907,33.403954,-111.947907,33.403954",
     "geom:latitude":33.403954,
     "geom:longitude":-111.947907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 S Roosevelt St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881415,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168825359,
-    "wof:lastmodified":1449027790,
+    "wof:lastmodified":1466325813,
     "wof:name":"PSI",
     "wof:parent_id":85881415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.947907,33.403954,-111.947907,33.403954],
+  "bbox": [
+    -111.947907,
+    33.403954,
+    -111.947907,
+    33.403954
+],
   "geometry": {"coordinates":[-111.947907,33.403954],"type":"Point"}
 }

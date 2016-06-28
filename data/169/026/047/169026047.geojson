@@ -2,13 +2,14 @@
   "id": 169026047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.040681,32.34396,-111.040681,32.34396",
     "geom:latitude":32.34396,
     "geom:longitude":-111.040681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3336 W Sophia St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169026047,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1466326511,
     "wof:name":"Renovations Hardy Pool",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.040681,32.34396,-111.040681,32.34396],
-  "geometry": {"coordinates":[-111.040681,32.34396],"type":"Point"}
+  "bbox": [
+    -111.040681,
+    32.34396,
+    -111.040681,
+    32.34396
+],
+  "geometry": {"coordinates":[-111.04068100000001,32.34396],"type":"Point"}
 }

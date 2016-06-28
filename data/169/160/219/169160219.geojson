@@ -2,13 +2,14 @@
   "id": 169160219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943736,32.284081,-110.943736,32.284081",
     "geom:latitude":32.284081,
     "geom:longitude":-110.943736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4280 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.fticonsulting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169160219,
-    "wof:lastmodified":1449035438,
+    "wof:lastmodified":1466331824,
     "wof:name":"FTI Consulting",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943736,32.284081,-110.943736,32.284081],
+  "bbox": [
+    -110.943736,
+    32.284081,
+    -110.943736,
+    32.284081
+],
   "geometry": {"coordinates":[-110.943736,32.284081],"type":"Point"}
 }

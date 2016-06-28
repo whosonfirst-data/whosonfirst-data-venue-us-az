@@ -2,13 +2,14 @@
   "id": 336719167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.126408,33.576351,-112.126408,33.576351",
     "geom:latitude":33.576351,
     "geom:longitude":-112.126408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10040 N 31st Ave Ste D-100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336719167,
-    "wof:lastmodified":1448997067,
+    "wof:lastmodified":1466328336,
     "wof:name":"Consumer Credit Counseling",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "debt"
     ]
 },
-  "bbox": [-112.126408,33.576351,-112.126408,33.576351],
+  "bbox": [
+    -112.126408,
+    33.576351,
+    -112.126408,
+    33.576351
+],
   "geometry": {"coordinates":[-112.126408,33.576351],"type":"Point"}
 }

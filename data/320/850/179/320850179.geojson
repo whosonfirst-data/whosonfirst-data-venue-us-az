@@ -2,13 +2,14 @@
   "id": 320850179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112288,33.609965,-112.112288,33.609965",
     "geom:latitude":33.609965,
     "geom:longitude":-112.112288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2443 W Sharon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320850179,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466330294,
     "wof:name":"Watchdog Pet Care",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-112.112288,33.609965,-112.112288,33.609965],
-  "geometry": {"coordinates":[-112.112288,33.609965],"type":"Point"}
+  "bbox": [
+    -112.112288,
+    33.609965,
+    -112.112288,
+    33.609965
+],
+  "geometry": {"coordinates":[-112.11228800000001,33.609965],"type":"Point"}
 }

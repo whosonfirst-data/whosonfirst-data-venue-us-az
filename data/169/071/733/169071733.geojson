@@ -2,13 +2,14 @@
   "id": 169071733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.577549,35.238835,-111.577549,35.238835",
     "geom:latitude":35.238835,
     "geom:longitude":-111.577549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 N Snowflake Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169071733,
-    "wof:lastmodified":1449034760,
+    "wof:lastmodified":1466329641,
     "wof:name":"Brook Better Health Ctr",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.577549,35.238835,-111.577549,35.238835],
+  "bbox": [
+    -111.577549,
+    35.238835,
+    -111.577549,
+    35.238835
+],
   "geometry": {"coordinates":[-111.577549,35.238835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168974251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923593,33.438203,-111.923593,33.438203",
     "geom:latitude":33.438203,
     "geom:longitude":-111.923593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 N Mary St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168974251,
-    "wof:lastmodified":1449028482,
+    "wof:lastmodified":1466331268,
     "wof:name":"Canyon State Welding Supply",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.923593,33.438203,-111.923593,33.438203],
+  "bbox": [
+    -111.923593,
+    33.438203,
+    -111.923593,
+    33.438203
+],
   "geometry": {"coordinates":[-111.923593,33.438203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320733205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030213,33.500881,-112.030213,33.500881",
     "geom:latitude":33.500881,
     "geom:longitude":-112.030213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 N 24th St Ste 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320733205,
-    "wof:lastmodified":1449011772,
+    "wof:lastmodified":1466328798,
     "wof:name":"Carl Osterman Cpa",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-112.030213,33.500881,-112.030213,33.500881],
+  "bbox": [
+    -112.030213,
+    33.500881,
+    -112.030213,
+    33.500881
+],
   "geometry": {"coordinates":[-112.030213,33.500881],"type":"Point"}
 }

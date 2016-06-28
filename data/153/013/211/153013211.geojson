@@ -2,13 +2,14 @@
   "id": 153013211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08247,33.506614,-112.08247,33.506614",
     "geom:latitude":33.506614,
     "geom:longitude":-112.08247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 N 7th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153013211,
-    "wof:lastmodified":1449040684,
+    "wof:lastmodified":1466326443,
     "wof:name":"Now & Then Antiques",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.08247,33.506614,-112.08247,33.506614],
+  "bbox": [
+    -112.08247,
+    33.506614,
+    -112.08247,
+    33.506614
+],
   "geometry": {"coordinates":[-112.08247,33.506614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153034781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.218773,33.584246,-112.218773,33.584246",
     "geom:latitude":33.584246,
     "geom:longitude":-112.218773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7407 W Mercer Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153034781,
-    "wof:lastmodified":1449040382,
+    "wof:lastmodified":1466326106,
     "wof:name":"Gordon's A-C Svc",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.218773,33.584246,-112.218773,33.584246],
+  "bbox": [
+    -112.218773,
+    33.584246,
+    -112.218773,
+    33.584246
+],
   "geometry": {"coordinates":[-112.218773,33.584246],"type":"Point"}
 }

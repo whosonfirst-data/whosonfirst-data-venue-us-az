@@ -2,13 +2,14 @@
   "id": 152931389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.484046,34.566617,-112.484046,34.566617",
     "geom:latitude":34.566617,
     "geom:longitude":-112.484046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Black Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152931389,
-    "wof:lastmodified":1449048507,
+    "wof:lastmodified":1466326075,
     "wof:name":"Keller Williams Check Realty",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.484046,34.566617,-112.484046,34.566617],
-  "geometry": {"coordinates":[-112.484046,34.566617],"type":"Point"}
+  "bbox": [
+    -112.484046,
+    34.566617,
+    -112.484046,
+    34.566617
+],
+  "geometry": {"coordinates":[-112.48404600000001,34.566617],"type":"Point"}
 }

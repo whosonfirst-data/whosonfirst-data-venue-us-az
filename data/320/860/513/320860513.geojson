@@ -2,13 +2,14 @@
   "id": 320860513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010526,33.630357,-112.010526,33.630357",
     "geom:latitude":33.630357,
     "geom:longitude":-112.010526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 E Tierra Buena Lane",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320860513,
-    "wof:lastmodified":1449012913,
+    "wof:lastmodified":1466330485,
     "wof:name":"Phx-Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-112.010526,33.630357,-112.010526,33.630357],
+  "bbox": [
+    -112.010526,
+    33.630357,
+    -112.010526,
+    33.630357
+],
   "geometry": {"coordinates":[-112.010526,33.630357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152955119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.773827,32.292996,-110.773827,32.292996",
     "geom:latitude":32.292996,
     "geom:longitude":-110.773827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10219 E Rio de Oro Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152955119,
-    "wof:lastmodified":1449047507,
+    "wof:lastmodified":1466327734,
     "wof:name":"Kent D Maas Appraisal & Assoc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.773827,32.292996,-110.773827,32.292996],
+  "bbox": [
+    -110.773827,
+    32.292996,
+    -110.773827,
+    32.292996
+],
   "geometry": {"coordinates":[-110.773827,32.292996],"type":"Point"}
 }

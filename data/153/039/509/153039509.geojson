@@ -2,13 +2,14 @@
   "id": 153039509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.945512,35.25897,-113.945512,35.25897",
     "geom:latitude":35.25897,
     "geom:longitude":-113.945512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Flightline Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153039509,
-    "wof:lastmodified":1449040762,
+    "wof:lastmodified":1466326431,
     "wof:name":"Sheble's Riviera Aviation",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.945512,35.25897,-113.945512,35.25897],
-  "geometry": {"coordinates":[-113.945512,35.25897],"type":"Point"}
+  "bbox": [
+    -113.945512,
+    35.25897,
+    -113.945512,
+    35.25897
+],
+  "geometry": {"coordinates":[-113.94551199999999,35.25897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168925749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.083198,33.621728,-112.083198,33.621728",
     "geom:latitude":33.621728,
     "geom:longitude":-112.083198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Gleneagles Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851573,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168925749,
-    "wof:lastmodified":1449027781,
+    "wof:lastmodified":1466330391,
     "wof:name":"Native Amrcn Mrrage Enhncement",
     "wof:parent_id":85851573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.083198,33.621728,-112.083198,33.621728],
+  "bbox": [
+    -112.083198,
+    33.621728,
+    -112.083198,
+    33.621728
+],
   "geometry": {"coordinates":[-112.083198,33.621728],"type":"Point"}
 }

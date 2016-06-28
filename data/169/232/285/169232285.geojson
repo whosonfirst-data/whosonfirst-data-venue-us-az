@@ -2,13 +2,14 @@
   "id": 169232285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996198,33.635909,-111.996198,33.635909",
     "geom:latitude":33.635909,
     "geom:longitude":-111.996198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16448 N 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ckengr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843785,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169232285,
-    "wof:lastmodified":1449033751,
+    "wof:lastmodified":1466332353,
     "wof:name":"C K Engineering",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.996198,33.635909,-111.996198,33.635909],
-  "geometry": {"coordinates":[-111.996198,33.635909],"type":"Point"}
+  "bbox": [
+    -111.996198,
+    33.635909,
+    -111.996198,
+    33.635909
+],
+  "geometry": {"coordinates":[-111.99619800000001,33.635909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336614227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.217414,33.480133,-112.217414,33.480133",
     "geom:latitude":33.480133,
     "geom:longitude":-112.217414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7333 W Thomas Road",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336614227,
-    "wof:lastmodified":1448998049,
+    "wof:lastmodified":1466326223,
     "wof:name":"Grandpa's Pizza",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-112.217414,33.480133,-112.217414,33.480133],
-  "geometry": {"coordinates":[-112.217414,33.480133],"type":"Point"}
+  "bbox": [
+    -112.217414,
+    33.480133,
+    -112.217414,
+    33.480133
+],
+  "geometry": {"coordinates":[-112.21741400000001,33.480133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169348233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.754111,32.849199,-109.754111,32.849199",
     "geom:latitude":32.849199,
     "geom:longitude":-109.754111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 US Hwy 70",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169348233,
-    "wof:lastmodified":1449032834,
+    "wof:lastmodified":1466333442,
     "wof:name":"Thatcher Building Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.754111,32.849199,-109.754111,32.849199],
-  "geometry": {"coordinates":[-109.754111,32.849199],"type":"Point"}
+  "bbox": [
+    -109.754111,
+    32.849199,
+    -109.754111,
+    32.849199
+],
+  "geometry": {"coordinates":[-109.75411099999999,32.849199],"type":"Point"}
 }

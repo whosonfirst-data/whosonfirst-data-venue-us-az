@@ -2,13 +2,14 @@
   "id": 168849177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.837566,32.247732,-109.837566,32.247732",
     "geom:latitude":32.247732,
     "geom:longitude":-109.837566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Arizona Ave",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168849177,
-    "wof:lastmodified":1449027919,
+    "wof:lastmodified":1466327657,
     "wof:name":"Romero Cirilo",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.837566,32.247732,-109.837566,32.247732],
+  "bbox": [
+    -109.837566,
+    32.247732,
+    -109.837566,
+    32.247732
+],
   "geometry": {"coordinates":[-109.837566,32.247732],"type":"Point"}
 }

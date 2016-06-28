@@ -2,13 +2,14 @@
   "id": 169200727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.347822,34.479938,-114.347822,34.479938",
     "geom:latitude":34.479938,
     "geom:longitude":-114.347822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Lake Havasu Ave N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169200727,
-    "wof:lastmodified":1449033998,
+    "wof:lastmodified":1466332148,
     "wof:name":"Island Suites",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.347822,34.479938,-114.347822,34.479938],
-  "geometry": {"coordinates":[-114.347822,34.479938],"type":"Point"}
+  "bbox": [
+    -114.347822,
+    34.479938,
+    -114.347822,
+    34.479938
+],
+  "geometry": {"coordinates":[-114.34782199999999,34.479938],"type":"Point"}
 }

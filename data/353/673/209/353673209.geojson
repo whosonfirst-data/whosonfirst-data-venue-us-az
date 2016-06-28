@@ -2,13 +2,14 @@
   "id": 353673209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.281067,33.55756,-112.281067,33.55756",
     "geom:latitude":33.55756,
     "geom:longitude":-112.281067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 N 103rd Ave Lot 145",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353673209,
-    "wof:lastmodified":1449019255,
+    "wof:lastmodified":1466329401,
     "wof:name":"Frederick S Metal Wood Prod",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.281067,33.55756,-112.281067,33.55756],
-  "geometry": {"coordinates":[-112.281067,33.55756],"type":"Point"}
+  "bbox": [
+    -112.281067,
+    33.55756,
+    -112.281067,
+    33.55756
+],
+  "geometry": {"coordinates":[-112.28106699999999,33.55756],"type":"Point"}
 }

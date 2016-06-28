@@ -2,13 +2,14 @@
   "id": 169305375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.130123,33.476127,-112.130123,33.476127",
     "geom:latitude":33.476127,
     "geom:longitude":-112.130123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 N 33rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.amerprec.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169305375,
-    "wof:lastmodified":1449033192,
+    "wof:lastmodified":1466333242,
     "wof:name":"American Precision Machining",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.130123,33.476127,-112.130123,33.476127],
+  "bbox": [
+    -112.130123,
+    33.476127,
+    -112.130123,
+    33.476127
+],
   "geometry": {"coordinates":[-112.130123,33.476127],"type":"Point"}
 }

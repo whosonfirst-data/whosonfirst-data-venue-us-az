@@ -2,13 +2,14 @@
   "id": 169097429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939958,32.2631,-110.939958,32.2631",
     "geom:latitude":32.2631,
     "geom:longitude":-110.939958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 E Hedrick Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169097429,
-    "wof:lastmodified":1449033980,
+    "wof:lastmodified":1466330865,
     "wof:name":"Tucson Community School Inc",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939958,32.2631,-110.939958,32.2631],
+  "bbox": [
+    -110.939958,
+    32.2631,
+    -110.939958,
+    32.2631
+],
   "geometry": {"coordinates":[-110.939958,32.2631],"type":"Point"}
 }

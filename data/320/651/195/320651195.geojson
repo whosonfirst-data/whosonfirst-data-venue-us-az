@@ -2,13 +2,14 @@
   "id": 320651195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11714,33.46878,-112.11714,33.46878",
     "geom:latitude":33.46878,
     "geom:longitude":-112.11714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320651195,
-    "wof:lastmodified":1449012003,
+    "wof:lastmodified":1466327034,
     "wof:name":"Southwest Diesel & Electrical Corp.",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "engines-diesel-fuel"
     ]
 },
-  "bbox": [-112.11714,33.46878,-112.11714,33.46878],
-  "geometry": {"coordinates":[-112.11714,33.46878],"type":"Point"}
+  "bbox": [
+    -112.11714,
+    33.46878,
+    -112.11714,
+    33.46878
+],
+  "geometry": {"coordinates":[-112.11714000000001,33.46878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169208941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.868241,32.395998,-112.868241,32.395998",
     "geom:latitude":32.395998,
     "geom:longitude":-112.868241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 N Rosser Rd",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169208941,
-    "wof:lastmodified":1449033067,
+    "wof:lastmodified":1466332262,
     "wof:name":"Desert Dogue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.868241,32.395998,-112.868241,32.395998],
+  "bbox": [
+    -112.868241,
+    32.395998,
+    -112.868241,
+    32.395998
+],
   "geometry": {"coordinates":[-112.868241,32.395998],"type":"Point"}
 }

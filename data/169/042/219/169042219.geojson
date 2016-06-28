@@ -2,13 +2,14 @@
   "id": 169042219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955405,32.244455,-110.955405,32.244455",
     "geom:latitude":32.244455,
     "geom:longitude":-110.955405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 N Fremont Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169042219,
-    "wof:lastmodified":1449035165,
+    "wof:lastmodified":1466328149,
     "wof:name":"Premier Antiques",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.955405,32.244455,-110.955405,32.244455],
+  "bbox": [
+    -110.955405,
+    32.244455,
+    -110.955405,
+    32.244455
+],
   "geometry": {"coordinates":[-110.955405,32.244455],"type":"Point"}
 }

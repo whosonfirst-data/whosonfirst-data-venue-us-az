@@ -2,13 +2,14 @@
   "id": 169026757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.927581,32.170504,-110.927581,32.170504",
     "geom:latitude":32.170504,
     "geom:longitude":-110.927581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 E Michigan St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169026757,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1466326573,
     "wof:name":"International Inst of AP Physl",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.927581,32.170504,-110.927581,32.170504],
+  "bbox": [
+    -110.927581,
+    32.170504,
+    -110.927581,
+    32.170504
+],
   "geometry": {"coordinates":[-110.927581,32.170504],"type":"Point"}
 }

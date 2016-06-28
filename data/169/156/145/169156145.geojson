@@ -2,13 +2,14 @@
   "id": 169156145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.116659,32.369898,-111.116659,32.369898",
     "geom:latitude":32.369898,
     "geom:longitude":-111.116659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8996 N Lawndale Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169156145,
-    "wof:lastmodified":1449033343,
+    "wof:lastmodified":1466331777,
     "wof:name":"Snyder Family Revoc Trust",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.116659,32.369898,-111.116659,32.369898],
+  "bbox": [
+    -111.116659,
+    32.369898,
+    -111.116659,
+    32.369898
+],
   "geometry": {"coordinates":[-111.116659,32.369898],"type":"Point"}
 }

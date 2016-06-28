@@ -2,13 +2,14 @@
   "id": 169275605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931399,33.491325,-111.931399,33.491325",
     "geom:latitude":33.491325,
     "geom:longitude":-111.931399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6946 E 2nd St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169275605,
-    "wof:lastmodified":1449033749,
+    "wof:lastmodified":1466332768,
     "wof:name":"STS Foundation",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.931399,33.491325,-111.931399,33.491325],
+  "bbox": [
+    -111.931399,
+    33.491325,
+    -111.931399,
+    33.491325
+],
   "geometry": {"coordinates":[-111.931399,33.491325],"type":"Point"}
 }

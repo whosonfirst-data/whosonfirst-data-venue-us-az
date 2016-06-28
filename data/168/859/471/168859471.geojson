@@ -2,13 +2,14 @@
   "id": 168859471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.815517,33.411896,-110.815517,33.411896",
     "geom:latitude":33.411896,
     "geom:longitude":-110.815517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Cobb Ave",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168859471,
-    "wof:lastmodified":1449028322,
+    "wof:lastmodified":1466326533,
     "wof:name":"University Of Arizona",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.815517,33.411896,-110.815517,33.411896],
+  "bbox": [
+    -110.815517,
+    33.411896,
+    -110.815517,
+    33.411896
+],
   "geometry": {"coordinates":[-110.815517,33.411896],"type":"Point"}
 }

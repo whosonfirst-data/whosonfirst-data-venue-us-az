@@ -2,13 +2,14 @@
   "id": 169080729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939994,33.424361,-111.939994,33.424361",
     "geom:latitude":33.424361,
     "geom:longitude":-111.939994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Mill Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881395,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169080729,
-    "wof:lastmodified":1449035873,
+    "wof:lastmodified":1466329949,
     "wof:name":"Beeloes Cafe",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.939994,33.424361,-111.939994,33.424361],
+  "bbox": [
+    -111.939994,
+    33.424361,
+    -111.939994,
+    33.424361
+],
   "geometry": {"coordinates":[-111.939994,33.424361],"type":"Point"}
 }

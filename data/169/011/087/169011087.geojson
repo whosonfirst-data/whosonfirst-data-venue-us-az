@@ -2,13 +2,14 @@
   "id": 169011087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.795076,32.19589,-110.795076,32.19589",
     "geom:latitude":32.19589,
     "geom:longitude":-110.795076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 S Roberto Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169011087,
-    "wof:lastmodified":1449035360,
+    "wof:lastmodified":1466326978,
     "wof:name":"R D Oaks & Assoc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.795076,32.19589,-110.795076,32.19589],
-  "geometry": {"coordinates":[-110.795076,32.19589],"type":"Point"}
+  "bbox": [
+    -110.795076,
+    32.19589,
+    -110.795076,
+    32.19589
+],
+  "geometry": {"coordinates":[-110.79507599999999,32.19589],"type":"Point"}
 }

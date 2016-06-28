@@ -2,13 +2,14 @@
   "id": 169289291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.996458,32.199507,-110.996458,32.199507",
     "geom:latitude":32.199507,
     "geom:longitude":-110.996458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 S Mission Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169289291,
-    "wof:lastmodified":1449035416,
+    "wof:lastmodified":1466332855,
     "wof:name":"Wreckless Intentions",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.996458,32.199507,-110.996458,32.199507],
+  "bbox": [
+    -110.996458,
+    32.199507,
+    -110.996458,
+    32.199507
+],
   "geometry": {"coordinates":[-110.996458,32.199507],"type":"Point"}
 }

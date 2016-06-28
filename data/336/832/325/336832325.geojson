@@ -2,13 +2,14 @@
   "id": 336832325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.769732,33.437267,-111.769732,33.437267",
     "geom:latitude":33.437267,
     "geom:longitude":-111.769732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 E Brown Rd Ste 5",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336832325,
-    "wof:lastmodified":1448996923,
+    "wof:lastmodified":1466329742,
     "wof:name":"Delta Ventures Financials",
     "wof:parent_id":85872445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "investment"
     ]
 },
-  "bbox": [-111.769732,33.437267,-111.769732,33.437267],
+  "bbox": [
+    -111.769732,
+    33.437267,
+    -111.769732,
+    33.437267
+],
   "geometry": {"coordinates":[-111.769732,33.437267],"type":"Point"}
 }

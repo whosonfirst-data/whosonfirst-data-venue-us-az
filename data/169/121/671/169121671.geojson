@@ -2,13 +2,14 @@
   "id": 169121671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16996,33.673271,-112.16996,33.673271",
     "geom:latitude":33.673271,
     "geom:longitude":-112.16996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20725 N 51st Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169121671,
-    "wof:lastmodified":1449035233,
+    "wof:lastmodified":1466331398,
     "wof:name":"Da vida Homes By D B Pollock",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16996,33.673271,-112.16996,33.673271],
+  "bbox": [
+    -112.16996,
+    33.673271,
+    -112.16996,
+    33.673271
+],
   "geometry": {"coordinates":[-112.16996,33.673271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169339119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082373,33.569885,-112.082373,33.569885",
     "geom:latitude":33.569885,
     "geom:longitude":-112.082373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 W Mission Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169339119,
-    "wof:lastmodified":1449034144,
+    "wof:lastmodified":1466333318,
     "wof:name":"Dry Plus Roofing",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.082373,33.569885,-112.082373,33.569885],
+  "bbox": [
+    -112.082373,
+    33.569885,
+    -112.082373,
+    33.569885
+],
   "geometry": {"coordinates":[-112.082373,33.569885],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353652769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.395864,33.459169,-112.395864,33.459169",
     "geom:latitude":33.459169,
     "geom:longitude":-112.395864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15605 W Roosevelt St Ste 106",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353652769,
-    "wof:lastmodified":1449019896,
+    "wof:lastmodified":1466329183,
     "wof:name":"Ivy League Dogs",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.395864,33.459169,-112.395864,33.459169],
+  "bbox": [
+    -112.395864,
+    33.459169,
+    -112.395864,
+    33.459169
+],
   "geometry": {"coordinates":[-112.395864,33.459169],"type":"Point"}
 }

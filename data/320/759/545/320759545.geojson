@@ -2,13 +2,14 @@
   "id": 320759545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006706,33.531929,-112.006706,33.531929",
     "geom:latitude":33.531929,
     "geom:longitude":-112.006706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 E Lincoln Dr Unit 8",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320759545,
-    "wof:lastmodified":1449015018,
+    "wof:lastmodified":1466329052,
     "wof:name":"Best Western Equity",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-112.006706,33.531929,-112.006706,33.531929],
-  "geometry": {"coordinates":[-112.006706,33.531929],"type":"Point"}
+  "bbox": [
+    -112.006706,
+    33.531929,
+    -112.006706,
+    33.531929
+],
+  "geometry": {"coordinates":[-112.00670599999999,33.531929],"type":"Point"}
 }

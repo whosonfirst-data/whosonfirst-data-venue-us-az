@@ -2,13 +2,14 @@
   "id": 353875217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.680721,35.187864,-111.680721,35.187864",
     "geom:latitude":35.187864,
     "geom:longitude":-111.680721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 S Railroad Springs Blvd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353875217,
-    "wof:lastmodified":1449020148,
+    "wof:lastmodified":1466330954,
     "wof:name":"Whistle Stop Fueling Station",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.680721,35.187864,-111.680721,35.187864],
-  "geometry": {"coordinates":[-111.680721,35.187864],"type":"Point"}
+  "bbox": [
+    -111.680721,
+    35.187864,
+    -111.680721,
+    35.187864
+],
+  "geometry": {"coordinates":[-111.68072100000001,35.187864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336666111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064732,33.416835,-112.064732,33.416835",
     "geom:latitude":33.416835,
     "geom:longitude":-112.064732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 S 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":336666111,
-    "wof:lastmodified":1448997332,
+    "wof:lastmodified":1466327332,
     "wof:name":"Pac Van",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "unit"
     ]
 },
-  "bbox": [-112.064732,33.416835,-112.064732,33.416835],
-  "geometry": {"coordinates":[-112.064732,33.416835],"type":"Point"}
+  "bbox": [
+    -112.064732,
+    33.416835,
+    -112.064732,
+    33.416835
+],
+  "geometry": {"coordinates":[-112.06473200000001,33.416835],"type":"Point"}
 }

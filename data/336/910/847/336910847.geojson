@@ -2,13 +2,14 @@
   "id": 336910847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.808159,33.349865,-111.808159,33.349865",
     "geom:latitude":33.349865,
     "geom:longitude":-111.808159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 W Elliot Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":336910847,
-    "wof:lastmodified":1448997392,
+    "wof:lastmodified":1466330435,
     "wof:name":"Marketside",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-111.808159,33.349865,-111.808159,33.349865],
+  "bbox": [
+    -111.808159,
+    33.349865,
+    -111.808159,
+    33.349865
+],
   "geometry": {"coordinates":[-111.808159,33.349865],"type":"Point"}
 }

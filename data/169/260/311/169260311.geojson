@@ -2,13 +2,14 @@
   "id": 169260311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047455,33.640471,-112.047455,33.640471",
     "geom:latitude":33.640471,
     "geom:longitude":-112.047455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866819,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169260311,
-    "wof:lastmodified":1449033245,
+    "wof:lastmodified":1466332580,
     "wof:name":"Richard M Allen DDS",
     "wof:parent_id":85866819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047455,33.640471,-112.047455,33.640471],
+  "bbox": [
+    -112.047455,
+    33.640471,
+    -112.047455,
+    33.640471
+],
   "geometry": {"coordinates":[-112.047455,33.640471],"type":"Point"}
 }

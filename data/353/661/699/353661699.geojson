@@ -2,13 +2,14 @@
   "id": 353661699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.338045,33.49343,-112.338045,33.49343",
     "geom:latitude":33.49343,
     "geom:longitude":-112.338045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12958 W Indian School Rd",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353661699,
-    "wof:lastmodified":1449020532,
+    "wof:lastmodified":1466329318,
     "wof:name":"Gametag",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hobby"
     ]
 },
-  "bbox": [-112.338045,33.49343,-112.338045,33.49343],
-  "geometry": {"coordinates":[-112.338045,33.49343],"type":"Point"}
+  "bbox": [
+    -112.338045,
+    33.49343,
+    -112.338045,
+    33.49343
+],
+  "geometry": {"coordinates":[-112.33804499999999,33.49343],"type":"Point"}
 }

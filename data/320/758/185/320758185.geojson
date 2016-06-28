@@ -2,13 +2,14 @@
   "id": 320758185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004063,33.508605,-112.004063,33.508605",
     "geom:latitude":33.508605,
     "geom:longitude":-112.004063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4848 N 36th St Ste 132",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320758185,
-    "wof:lastmodified":1449012394,
+    "wof:lastmodified":1466329020,
     "wof:name":"Remodeling Phoenix",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.004063,33.508605,-112.004063,33.508605],
+  "bbox": [
+    -112.004063,
+    33.508605,
+    -112.004063,
+    33.508605
+],
   "geometry": {"coordinates":[-112.004063,33.508605],"type":"Point"}
 }

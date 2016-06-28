@@ -2,13 +2,14 @@
   "id": 169150919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965682,32.227806,-110.965682,32.227806",
     "geom:latitude":32.227806,
     "geom:longitude":-110.965682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 E 6th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169150919,
-    "wof:lastmodified":1449032726,
+    "wof:lastmodified":1466331745,
     "wof:name":"S & R Retail Group",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965682,32.227806,-110.965682,32.227806],
+  "bbox": [
+    -110.965682,
+    32.227806,
+    -110.965682,
+    32.227806
+],
   "geometry": {"coordinates":[-110.965682,32.227806],"type":"Point"}
 }

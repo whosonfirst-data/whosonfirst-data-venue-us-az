@@ -2,13 +2,14 @@
   "id": 320706193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10045,33.487799,-112.10045,33.487799",
     "geom:latitude":33.487799,
     "geom:longitude":-112.10045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 W Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320706193,
-    "wof:lastmodified":1449011510,
+    "wof:lastmodified":1466328189,
     "wof:name":"Iglesia De Cristo",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.10045,33.487799,-112.10045,33.487799],
+  "bbox": [
+    -112.10045,
+    33.487799,
+    -112.10045,
+    33.487799
+],
   "geometry": {"coordinates":[-112.10045,33.487799],"type":"Point"}
 }

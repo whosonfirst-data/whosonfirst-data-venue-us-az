@@ -2,13 +2,14 @@
   "id": 169064143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.940818,33.775765,-111.940818,33.775765",
     "geom:latitude":33.775765,
     "geom:longitude":-111.940818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6506 E Cll de Las Estrellas",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169064143,
-    "wof:lastmodified":1449033851,
+    "wof:lastmodified":1466329255,
     "wof:name":"Threadworks Unlimited",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.940818,33.775765,-111.940818,33.775765],
-  "geometry": {"coordinates":[-111.940818,33.775765],"type":"Point"}
+  "bbox": [
+    -111.940818,
+    33.775765,
+    -111.940818,
+    33.775765
+],
+  "geometry": {"coordinates":[-111.94081799999999,33.775765],"type":"Point"}
 }

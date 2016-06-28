@@ -2,13 +2,14 @@
   "id": 169345627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.918047,32.13641,-110.918047,32.13641",
     "geom:latitude":32.13641,
     "geom:longitude":-110.918047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 E Britannia Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169345627,
-    "wof:lastmodified":1449035700,
+    "wof:lastmodified":1466333472,
     "wof:name":"Davis Selected Advisers LP",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.918047,32.13641,-110.918047,32.13641],
+  "bbox": [
+    -110.918047,
+    32.13641,
+    -110.918047,
+    32.13641
+],
   "geometry": {"coordinates":[-110.918047,32.13641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153081665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.907629,33.605506,-111.907629,33.605506",
     "geom:latitude":33.605506,
     "geom:longitude":-111.907629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13062 N 80th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851695,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85851695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153081665,
-    "wof:lastmodified":1449040475,
+    "wof:lastmodified":1466329214,
     "wof:name":"Marine Electric Company",
     "wof:parent_id":85851695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.907629,33.605506,-111.907629,33.605506],
+  "bbox": [
+    -111.907629,
+    33.605506,
+    -111.907629,
+    33.605506
+],
   "geometry": {"coordinates":[-111.907629,33.605506],"type":"Point"}
 }

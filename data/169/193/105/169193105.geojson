@@ -2,13 +2,14 @@
   "id": 169193105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921005,33.669791,-111.921005,33.669791",
     "geom:latitude":33.669791,
     "geom:longitude":-111.921005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20201 N Scottsdale Healthcare Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880947,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169193105,
-    "wof:lastmodified":1449033229,
+    "wof:lastmodified":1466332051,
     "wof:name":"Thompson Peak Intl Medicine",
     "wof:parent_id":85880947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921005,33.669791,-111.921005,33.669791],
-  "geometry": {"coordinates":[-111.921005,33.669791],"type":"Point"}
+  "bbox": [
+    -111.921005,
+    33.669791,
+    -111.921005,
+    33.669791
+],
+  "geometry": {"coordinates":[-111.92100499999999,33.669791],"type":"Point"}
 }

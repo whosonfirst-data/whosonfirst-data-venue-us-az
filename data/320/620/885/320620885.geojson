@@ -2,13 +2,14 @@
   "id": 320620885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073825,33.450717,-112.073825,33.450717",
     "geom:latitude":33.450717,
     "geom:longitude":-112.073825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 N Central Ave 507",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320620885,
-    "wof:lastmodified":1449014640,
+    "wof:lastmodified":1466326281,
     "wof:name":"Phoenix Transit System",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "line"
     ]
 },
-  "bbox": [-112.073825,33.450717,-112.073825,33.450717],
+  "bbox": [
+    -112.073825,
+    33.450717,
+    -112.073825,
+    33.450717
+],
   "geometry": {"coordinates":[-112.073825,33.450717],"type":"Point"}
 }

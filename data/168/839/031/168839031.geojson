@@ -2,13 +2,14 @@
   "id": 168839031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.811613,32.186389,-110.811613,32.186389",
     "geom:latitude":32.186389,
     "geom:longitude":-110.811613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8355 E Fond du Lac Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168839031,
-    "wof:lastmodified":1449028247,
+    "wof:lastmodified":1466327004,
     "wof:name":"Mitchell's Handyman Svc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.811613,32.186389,-110.811613,32.186389],
-  "geometry": {"coordinates":[-110.811613,32.186389],"type":"Point"}
+  "bbox": [
+    -110.811613,
+    32.186389,
+    -110.811613,
+    32.186389
+],
+  "geometry": {"coordinates":[-110.81161299999999,32.186389],"type":"Point"}
 }

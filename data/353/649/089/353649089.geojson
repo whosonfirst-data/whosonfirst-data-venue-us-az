@@ -2,13 +2,14 @@
   "id": 353649089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.375519,33.451904,-112.375519,33.451904",
     "geom:latitude":33.451904,
     "geom:longitude":-112.375519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 N Bullard Ave Ste E-50",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353649089,
-    "wof:lastmodified":1449019978,
+    "wof:lastmodified":1466329143,
     "wof:name":"AZ Battery Store",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.375519,33.451904,-112.375519,33.451904],
+  "bbox": [
+    -112.375519,
+    33.451904,
+    -112.375519,
+    33.451904
+],
   "geometry": {"coordinates":[-112.375519,33.451904],"type":"Point"}
 }

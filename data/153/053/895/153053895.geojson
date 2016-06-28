@@ -2,13 +2,14 @@
   "id": 153053895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837244,33.435124,-111.837244,33.435124",
     "geom:latitude":33.435124,
     "geom:longitude":-111.837244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 W Brown Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872453,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153053895,
-    "wof:lastmodified":1449040420,
+    "wof:lastmodified":1466327443,
     "wof:name":"Open Gate Christian Cnslng",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.837244,33.435124,-111.837244,33.435124],
+  "bbox": [
+    -111.837244,
+    33.435124,
+    -111.837244,
+    33.435124
+],
   "geometry": {"coordinates":[-111.837244,33.435124],"type":"Point"}
 }

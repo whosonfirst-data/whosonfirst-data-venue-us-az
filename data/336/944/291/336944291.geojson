@@ -2,13 +2,14 @@
   "id": 336944291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.848503,33.250118,-111.848503,33.250118",
     "geom:latitude":33.250118,
     "geom:longitude":-111.848503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 S Arizona Avenue",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336944291,
-    "wof:lastmodified":1448997494,
+    "wof:lastmodified":1466330767,
     "wof:name":"Petco",
     "wof:parent_id":85839207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-111.848503,33.250118,-111.848503,33.250118],
-  "geometry": {"coordinates":[-111.848503,33.250118],"type":"Point"}
+  "bbox": [
+    -111.848503,
+    33.250118,
+    -111.848503,
+    33.250118
+],
+  "geometry": {"coordinates":[-111.84850299999999,33.250118],"type":"Point"}
 }

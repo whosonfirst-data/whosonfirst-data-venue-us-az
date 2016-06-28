@@ -2,13 +2,14 @@
   "id": 320731597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042543,33.50923,-112.042543,33.50923",
     "geom:latitude":33.50923,
     "geom:longitude":-112.042543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 E Camelback Rd Ste B1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320731597,
-    "wof:lastmodified":1449014549,
+    "wof:lastmodified":1466328790,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "video"
     ]
 },
-  "bbox": [-112.042543,33.50923,-112.042543,33.50923],
-  "geometry": {"coordinates":[-112.042543,33.50923],"type":"Point"}
+  "bbox": [
+    -112.042543,
+    33.50923,
+    -112.042543,
+    33.50923
+],
+  "geometry": {"coordinates":[-112.04254299999999,33.50923],"type":"Point"}
 }

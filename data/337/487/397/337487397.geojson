@@ -2,13 +2,14 @@
   "id": 337487397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923468,33.501399,-111.923468,33.501399",
     "geom:latitude":33.501399,
     "geom:longitude":-111.923468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7307 E Indian Plz Ste 111",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337487397,
-    "wof:lastmodified":1449027210,
+    "wof:lastmodified":1466326137,
     "wof:name":"Arizona Point Of Sales",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.923468,33.501399,-111.923468,33.501399],
+  "bbox": [
+    -111.923468,
+    33.501399,
+    -111.923468,
+    33.501399
+],
   "geometry": {"coordinates":[-111.923468,33.501399],"type":"Point"}
 }

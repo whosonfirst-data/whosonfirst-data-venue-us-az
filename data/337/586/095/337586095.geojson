@@ -2,13 +2,14 @@
   "id": 337586095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.897622,33.582091,-111.897622,33.582091",
     "geom:latitude":33.582091,
     "geom:longitude":-111.897622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8560 E Shea Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337586095,
-    "wof:lastmodified":1449027651,
+    "wof:lastmodified":1466326990,
     "wof:name":"Scottsdale Professional",
     "wof:parent_id":85808393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "condominium"
     ]
 },
-  "bbox": [-111.897622,33.582091,-111.897622,33.582091],
+  "bbox": [
+    -111.897622,
+    33.582091,
+    -111.897622,
+    33.582091
+],
   "geometry": {"coordinates":[-111.897622,33.582091],"type":"Point"}
 }

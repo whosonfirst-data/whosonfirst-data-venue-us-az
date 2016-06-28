@@ -2,13 +2,14 @@
   "id": 169407467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916503,33.489695,-111.916503,33.489695",
     "geom:latitude":33.489695,
     "geom:longitude":-111.916503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 N Carhill Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880951,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169407467,
-    "wof:lastmodified":1449034522,
+    "wof:lastmodified":1466334057,
     "wof:name":"Sun Dance Realty",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916503,33.489695,-111.916503,33.489695],
-  "geometry": {"coordinates":[-111.916503,33.489695],"type":"Point"}
+  "bbox": [
+    -111.916503,
+    33.489695,
+    -111.916503,
+    33.489695
+],
+  "geometry": {"coordinates":[-111.91650300000001,33.489695],"type":"Point"}
 }

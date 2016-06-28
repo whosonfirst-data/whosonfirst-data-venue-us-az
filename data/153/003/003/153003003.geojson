@@ -2,13 +2,14 @@
   "id": 153003003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057453,34.770358,-112.057453,34.770358",
     "geom:latitude":34.770358,
     "geom:longitude":-112.057453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 1st South St",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153003003,
-    "wof:lastmodified":1449040796,
+    "wof:lastmodified":1466327344,
     "wof:name":"Glenarm Land Company",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.057453,34.770358,-112.057453,34.770358],
+  "bbox": [
+    -112.057453,
+    34.770358,
+    -112.057453,
+    34.770358
+],
   "geometry": {"coordinates":[-112.057453,34.770358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353836173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960989,32.241581,-110.960989,32.241581",
     "geom:latitude":32.241581,
     "geom:longitude":-110.960989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E Lee St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353836173,
-    "wof:lastmodified":1449019924,
+    "wof:lastmodified":1466330497,
     "wof:name":"University Lee Apts",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.960989,32.241581,-110.960989,32.241581],
+  "bbox": [
+    -110.960989,
+    32.241581,
+    -110.960989,
+    32.241581
+],
   "geometry": {"coordinates":[-110.960989,32.241581],"type":"Point"}
 }

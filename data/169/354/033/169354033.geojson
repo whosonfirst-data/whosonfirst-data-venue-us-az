@@ -2,13 +2,14 @@
   "id": 169354033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.871901,32.403695,-112.871901,32.403695",
     "geom:latitude":32.403695,
     "geom:longitude":-112.871901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W Schwartz Rd",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169354033,
-    "wof:lastmodified":1449035581,
+    "wof:lastmodified":1466333338,
     "wof:name":"Hunter Sales Custom Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.871901,32.403695,-112.871901,32.403695],
-  "geometry": {"coordinates":[-112.871901,32.403695],"type":"Point"}
+  "bbox": [
+    -112.871901,
+    32.403695,
+    -112.871901,
+    32.403695
+],
+  "geometry": {"coordinates":[-112.87190099999999,32.403695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336964141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926147,33.481013,-111.926147,33.481013",
     "geom:latitude":33.481013,
     "geom:longitude":-111.926147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336964141,
-    "wof:lastmodified":1448997756,
+    "wof:lastmodified":1466330799,
     "wof:name":"Checker O'Reilly Auto Parts",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-111.926147,33.481013,-111.926147,33.481013],
+  "bbox": [
+    -111.926147,
+    33.481013,
+    -111.926147,
+    33.481013
+],
   "geometry": {"coordinates":[-111.926147,33.481013],"type":"Point"}
 }

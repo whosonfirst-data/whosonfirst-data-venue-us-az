@@ -2,13 +2,14 @@
   "id": 152973861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945727,33.335516,-111.945727,33.335516",
     "geom:latitude":33.335516,
     "geom:longitude":-111.945727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 S Kyrene Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828883,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85828883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152973861,
-    "wof:lastmodified":1449047071,
+    "wof:lastmodified":1466328605,
     "wof:name":"Tempe Schools Credit Union",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.945727,33.335516,-111.945727,33.335516],
-  "geometry": {"coordinates":[-111.945727,33.335516],"type":"Point"}
+  "bbox": [
+    -111.945727,
+    33.335516,
+    -111.945727,
+    33.335516
+],
+  "geometry": {"coordinates":[-111.94572700000001,33.335516],"type":"Point"}
 }

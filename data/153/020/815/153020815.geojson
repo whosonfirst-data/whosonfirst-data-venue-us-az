@@ -2,13 +2,14 @@
   "id": 153020815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010098,33.529148,-112.010098,33.529148",
     "geom:latitude":33.529148,
     "geom:longitude":-112.010098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 N 34th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153020815,
-    "wof:lastmodified":1449040537,
+    "wof:lastmodified":1466327152,
     "wof:name":"Thomas Finke",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010098,33.529148,-112.010098,33.529148],
+  "bbox": [
+    -112.010098,
+    33.529148,
+    -112.010098,
+    33.529148
+],
   "geometry": {"coordinates":[-112.010098,33.529148],"type":"Point"}
 }

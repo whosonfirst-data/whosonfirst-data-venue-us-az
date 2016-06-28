@@ -2,13 +2,14 @@
   "id": 169332281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.527665,33.402027,-111.527665,33.402027",
     "geom:latitude":33.402027,
     "geom:longitude":-111.527665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E Old West Hwy",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169332281,
-    "wof:lastmodified":1449034526,
+    "wof:lastmodified":1466333294,
     "wof:name":"Apache Landscape Center LLC",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.527665,33.402027,-111.527665,33.402027],
+  "bbox": [
+    -111.527665,
+    33.402027,
+    -111.527665,
+    33.402027
+],
   "geometry": {"coordinates":[-111.527665,33.402027],"type":"Point"}
 }

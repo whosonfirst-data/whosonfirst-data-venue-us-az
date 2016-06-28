@@ -2,13 +2,14 @@
   "id": 320738401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.126401,33.480431,-112.126401,33.480431",
     "geom:latitude":33.480431,
     "geom:longitude":-112.126401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3118 W Thomas Rd Ste 711",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320738401,
-    "wof:lastmodified":1449013995,
+    "wof:lastmodified":1466328637,
     "wof:name":"Momentum Transportation Svc",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.126401,33.480431,-112.126401,33.480431],
+  "bbox": [
+    -112.126401,
+    33.480431,
+    -112.126401,
+    33.480431
+],
   "geometry": {"coordinates":[-112.126401,33.480431],"type":"Point"}
 }

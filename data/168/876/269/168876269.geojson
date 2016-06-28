@@ -2,13 +2,14 @@
   "id": 168876269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.238333,33.655515,-112.238333,33.655515",
     "geom:latitude":33.655515,
     "geom:longitude":-112.238333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18855 N 83rd Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168876269,
-    "wof:lastmodified":1449027926,
+    "wof:lastmodified":1466327952,
     "wof:name":"Quik Trip",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.238333,33.655515,-112.238333,33.655515],
+  "bbox": [
+    -112.238333,
+    33.655515,
+    -112.238333,
+    33.655515
+],
   "geometry": {"coordinates":[-112.238333,33.655515],"type":"Point"}
 }

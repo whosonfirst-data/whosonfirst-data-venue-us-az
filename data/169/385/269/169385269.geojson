@@ -2,13 +2,14 @@
   "id": 169385269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.931745,32.334768,-110.931745,32.334768",
     "geom:latitude":32.334768,
     "geom:longitude":-110.931745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7190 N Sunset Canyon Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169385269,
-    "wof:lastmodified":1449034649,
+    "wof:lastmodified":1466333811,
     "wof:name":"Cynthia Hansen Advertising",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.931745,32.334768,-110.931745,32.334768],
-  "geometry": {"coordinates":[-110.931745,32.334768],"type":"Point"}
+  "bbox": [
+    -110.931745,
+    32.334768,
+    -110.931745,
+    32.334768
+],
+  "geometry": {"coordinates":[-110.93174500000001,32.334768],"type":"Point"}
 }

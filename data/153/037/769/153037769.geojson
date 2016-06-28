@@ -2,13 +2,14 @@
   "id": 153037769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005185,34.731749,-112.005185,34.731749",
     "geom:latitude":34.731749,
     "geom:longitude":-112.005185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 E Cherry St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.americanheritageacademy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153037769,
-    "wof:lastmodified":1449040822,
+    "wof:lastmodified":1466326311,
     "wof:name":"American Heritage Academy",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.005185,34.731749,-112.005185,34.731749],
+  "bbox": [
+    -112.005185,
+    34.731749,
+    -112.005185,
+    34.731749
+],
   "geometry": {"coordinates":[-112.005185,34.731749],"type":"Point"}
 }

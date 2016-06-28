@@ -2,13 +2,14 @@
   "id": 153052059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.302411,33.603415,-112.302411,33.603415",
     "geom:latitude":33.603415,
     "geom:longitude":-112.302411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11350 W Wisconsin Ave",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153052059,
-    "wof:lastmodified":1449040527,
+    "wof:lastmodified":1466327316,
     "wof:name":"Bob's Quality Rv",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.302411,33.603415,-112.302411,33.603415],
-  "geometry": {"coordinates":[-112.302411,33.603415],"type":"Point"}
+  "bbox": [
+    -112.302411,
+    33.603415,
+    -112.302411,
+    33.603415
+],
+  "geometry": {"coordinates":[-112.30241100000001,33.603415],"type":"Point"}
 }

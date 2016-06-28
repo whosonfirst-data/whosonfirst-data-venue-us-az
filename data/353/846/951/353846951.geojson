@@ -2,13 +2,14 @@
   "id": 353846951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92449,32.463768,-110.92449,32.463768",
     "geom:latitude":32.463768,
     "geom:longitude":-110.92449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3245 E Mountainaire Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353846951,
-    "wof:lastmodified":1449020249,
+    "wof:lastmodified":1466330752,
     "wof:name":"Journey To Healing",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-110.92449,32.463768,-110.92449,32.463768],
-  "geometry": {"coordinates":[-110.92449,32.463768],"type":"Point"}
+  "bbox": [
+    -110.92449,
+    32.463768,
+    -110.92449,
+    32.463768
+],
+  "geometry": {"coordinates":[-110.92449000000001,32.463768],"type":"Point"}
 }

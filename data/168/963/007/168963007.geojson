@@ -2,13 +2,14 @@
   "id": 168963007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.727033,33.451917,-111.727033,33.451917",
     "geom:latitude":33.451917,
     "geom:longitude":-111.727033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 E McKellips Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803247,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85803247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168963007,
-    "wof:lastmodified":1449027857,
+    "wof:lastmodified":1466331309,
     "wof:name":"J & J Landscaping Materials",
     "wof:parent_id":85803247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.727033,33.451917,-111.727033,33.451917],
-  "geometry": {"coordinates":[-111.727033,33.451917],"type":"Point"}
+  "bbox": [
+    -111.727033,
+    33.451917,
+    -111.727033,
+    33.451917
+],
+  "geometry": {"coordinates":[-111.72703300000001,33.451917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169210867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.86709,32.545715,-110.86709,32.545715",
     "geom:latitude":32.545715,
     "geom:longitude":-110.86709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36448 S Stoney Flower Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169210867,
-    "wof:lastmodified":1449033807,
+    "wof:lastmodified":1466332257,
     "wof:name":"Cruise One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.86709,32.545715,-110.86709,32.545715],
+  "bbox": [
+    -110.86709,
+    32.545715,
+    -110.86709,
+    32.545715
+],
   "geometry": {"coordinates":[-110.86709,32.545715],"type":"Point"}
 }

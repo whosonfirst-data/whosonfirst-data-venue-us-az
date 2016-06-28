@@ -2,13 +2,14 @@
   "id": 336729091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.12475,33.629554,-112.12475,33.629554",
     "geom:latitude":33.629554,
     "geom:longitude":-112.12475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15802 N 31st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336729091,
-    "wof:lastmodified":1448997496,
+    "wof:lastmodified":1466328744,
     "wof:name":"Sanmarco Bead Designs",
     "wof:parent_id":85843759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-112.12475,33.629554,-112.12475,33.629554],
-  "geometry": {"coordinates":[-112.12475,33.629554],"type":"Point"}
+  "bbox": [
+    -112.12475,
+    33.629554,
+    -112.12475,
+    33.629554
+],
+  "geometry": {"coordinates":[-112.12475000000001,33.629554],"type":"Point"}
 }

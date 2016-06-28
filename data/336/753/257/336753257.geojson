@@ -2,13 +2,14 @@
   "id": 336753257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834068,33.415138,-111.834068,33.415138",
     "geom:latitude":33.415138,
     "geom:longitude":-111.834068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Macdonald Ste 103",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336753257,
-    "wof:lastmodified":1448997055,
+    "wof:lastmodified":1466329039,
     "wof:name":"K And J Maintenance",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-111.834068,33.415138,-111.834068,33.415138],
+  "bbox": [
+    -111.834068,
+    33.415138,
+    -111.834068,
+    33.415138
+],
   "geometry": {"coordinates":[-111.834068,33.415138],"type":"Point"}
 }

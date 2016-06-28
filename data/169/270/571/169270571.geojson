@@ -2,13 +2,14 @@
   "id": 169270571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.061751,33.366993,-112.061751,33.366993",
     "geom:latitude":33.366993,
     "geom:longitude":-112.061751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8602 S 9th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828931,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85828931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169270571,
-    "wof:lastmodified":1449033279,
+    "wof:lastmodified":1466332703,
     "wof:name":"Cesar Bedoya Ministry",
     "wof:parent_id":85828931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.061751,33.366993,-112.061751,33.366993],
+  "bbox": [
+    -112.061751,
+    33.366993,
+    -112.061751,
+    33.366993
+],
   "geometry": {"coordinates":[-112.061751,33.366993],"type":"Point"}
 }

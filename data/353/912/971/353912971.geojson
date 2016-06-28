@@ -2,13 +2,14 @@
   "id": 353912971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.037478,35.22219,-114.037478,35.22219",
     "geom:latitude":35.22219,
     "geom:longitude":-114.037478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Sycamore Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353912971,
-    "wof:lastmodified":1449019523,
+    "wof:lastmodified":1466331094,
     "wof:name":"Doctors Surgery Center Of Kingman",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-114.037478,35.22219,-114.037478,35.22219],
-  "geometry": {"coordinates":[-114.037478,35.22219],"type":"Point"}
+  "bbox": [
+    -114.037478,
+    35.22219,
+    -114.037478,
+    35.22219
+],
+  "geometry": {"coordinates":[-114.03747799999999,35.22219],"type":"Point"}
 }

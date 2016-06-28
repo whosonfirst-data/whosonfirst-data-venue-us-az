@@ -2,13 +2,14 @@
   "id": 169251965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.983542,32.260937,-110.983542,32.260937",
     "geom:latitude":32.260937,
     "geom:longitude":-110.983542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 W Miracle Mile",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169251965,
-    "wof:lastmodified":1449032745,
+    "wof:lastmodified":1466332596,
     "wof:name":"Td Showclub West",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.983542,32.260937,-110.983542,32.260937],
+  "bbox": [
+    -110.983542,
+    32.260937,
+    -110.983542,
+    32.260937
+],
   "geometry": {"coordinates":[-110.983542,32.260937],"type":"Point"}
 }

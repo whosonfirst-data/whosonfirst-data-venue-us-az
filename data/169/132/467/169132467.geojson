@@ -2,13 +2,14 @@
   "id": 169132467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023854,35.209189,-114.023854,35.209189",
     "geom:latitude":35.209189,
     "geom:longitude":-114.023854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Boulder Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169132467,
-    "wof:lastmodified":1449034296,
+    "wof:lastmodified":1466331530,
     "wof:name":"Mandley's",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.023854,35.209189,-114.023854,35.209189],
+  "bbox": [
+    -114.023854,
+    35.209189,
+    -114.023854,
+    35.209189
+],
   "geometry": {"coordinates":[-114.023854,35.209189],"type":"Point"}
 }

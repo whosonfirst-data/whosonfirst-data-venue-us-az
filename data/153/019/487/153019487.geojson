@@ -2,13 +2,14 @@
   "id": 153019487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.793966,34.829068,-111.793966,34.829068",
     "geom:latitude":34.829068,
     "geom:longitude":-111.793966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Back O Beyond Cir",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153019487,
-    "wof:lastmodified":1449040635,
+    "wof:lastmodified":1466326952,
     "wof:name":"New Vision Log Homes",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.793966,34.829068,-111.793966,34.829068],
+  "bbox": [
+    -111.793966,
+    34.829068,
+    -111.793966,
+    34.829068
+],
   "geometry": {"coordinates":[-111.793966,34.829068],"type":"Point"}
 }

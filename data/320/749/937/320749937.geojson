@@ -2,13 +2,14 @@
   "id": 320749937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00755,33.510115,-112.00755,33.510115",
     "geom:latitude":33.510115,
     "geom:longitude":-112.00755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3444 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320749937,
-    "wof:lastmodified":1449012320,
+    "wof:lastmodified":1466329070,
     "wof:name":"Byo Design",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-112.00755,33.510115,-112.00755,33.510115],
-  "geometry": {"coordinates":[-112.00755,33.510115],"type":"Point"}
+  "bbox": [
+    -112.00755,
+    33.510115,
+    -112.00755,
+    33.510115
+],
+  "geometry": {"coordinates":[-112.00754999999999,33.510115],"type":"Point"}
 }

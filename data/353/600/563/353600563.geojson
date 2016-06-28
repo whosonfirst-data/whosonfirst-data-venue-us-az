@@ -2,13 +2,14 @@
   "id": 353600563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.29663,33.531785,-112.29663,33.531785",
     "geom:latitude":33.531785,
     "geom:longitude":-112.29663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6791 N Glen Harbor Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353600563,
-    "wof:lastmodified":1449018492,
+    "wof:lastmodified":1466328531,
     "wof:name":"Airwest Aircraft Maintenance",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "part"
     ]
 },
-  "bbox": [-112.29663,33.531785,-112.29663,33.531785],
-  "geometry": {"coordinates":[-112.29663,33.531785],"type":"Point"}
+  "bbox": [
+    -112.29663,
+    33.531785,
+    -112.29663,
+    33.531785
+],
+  "geometry": {"coordinates":[-112.29662999999999,33.531785],"type":"Point"}
 }

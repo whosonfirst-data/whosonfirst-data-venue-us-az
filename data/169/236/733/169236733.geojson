@@ -2,13 +2,14 @@
   "id": 169236733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.344247,34.494337,-114.344247,34.494337",
     "geom:latitude":34.494337,
     "geom:longitude":-114.344247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Industrial Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169236733,
-    "wof:lastmodified":1449033022,
+    "wof:lastmodified":1466332407,
     "wof:name":"One Day Automotive Svc Ctr",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.344247,34.494337,-114.344247,34.494337],
+  "bbox": [
+    -114.344247,
+    34.494337,
+    -114.344247,
+    34.494337
+],
   "geometry": {"coordinates":[-114.344247,34.494337],"type":"Point"}
 }

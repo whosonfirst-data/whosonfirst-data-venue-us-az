@@ -2,13 +2,14 @@
   "id": 169109117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.571412,35.233025,-111.571412,35.233025",
     "geom:latitude":35.233025,
     "geom:longitude":-111.571412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4940 E Snowshoe Way",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169109117,
-    "wof:lastmodified":1449033832,
+    "wof:lastmodified":1466331077,
     "wof:name":"Jim Ford Babbitt",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.571412,35.233025,-111.571412,35.233025],
+  "bbox": [
+    -111.571412,
+    35.233025,
+    -111.571412,
+    35.233025
+],
   "geometry": {"coordinates":[-111.571412,35.233025],"type":"Point"}
 }

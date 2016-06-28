@@ -2,13 +2,14 @@
   "id": 169108705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119215,33.603569,-112.119215,33.603569",
     "geom:latitude":33.603569,
     "geom:longitude":-112.119215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 W Sweetwater Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852225,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169108705,
-    "wof:lastmodified":1449032743,
+    "wof:lastmodified":1466331055,
     "wof:name":"National Automotive Repair",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119215,33.603569,-112.119215,33.603569],
+  "bbox": [
+    -112.119215,
+    33.603569,
+    -112.119215,
+    33.603569
+],
   "geometry": {"coordinates":[-112.119215,33.603569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320800045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064943,33.607732,-112.064943,33.607732",
     "geom:latitude":33.607732,
     "geom:longitude":-112.064943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320800045,
-    "wof:lastmodified":1449011545,
+    "wof:lastmodified":1466329811,
     "wof:name":"Midfirst Bank",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-112.064943,33.607732,-112.064943,33.607732],
+  "bbox": [
+    -112.064943,
+    33.607732,
+    -112.064943,
+    33.607732
+],
   "geometry": {"coordinates":[-112.064943,33.607732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153063735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096002,33.541109,-112.096002,33.541109",
     "geom:latitude":33.541109,
     "geom:longitude":-112.096002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7121 N 17th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153063735,
-    "wof:lastmodified":1449040372,
+    "wof:lastmodified":1466327920,
     "wof:name":"Meyco Contracting",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.096002,33.541109,-112.096002,33.541109],
+  "bbox": [
+    -112.096002,
+    33.541109,
+    -112.096002,
+    33.541109
+],
   "geometry": {"coordinates":[-112.096002,33.541109],"type":"Point"}
 }

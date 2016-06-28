@@ -2,13 +2,14 @@
   "id": 320642923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028039,33.463112,-112.028039,33.463112",
     "geom:latitude":33.463112,
     "geom:longitude":-112.028039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 E Culver St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320642923,
-    "wof:lastmodified":1449011472,
+    "wof:lastmodified":1466326834,
     "wof:name":"Arimegua Apartments",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.028039,33.463112,-112.028039,33.463112],
-  "geometry": {"coordinates":[-112.028039,33.463112],"type":"Point"}
+  "bbox": [
+    -112.028039,
+    33.463112,
+    -112.028039,
+    33.463112
+],
+  "geometry": {"coordinates":[-112.02803900000001,33.463112],"type":"Point"}
 }

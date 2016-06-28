@@ -2,13 +2,14 @@
   "id": 169411673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.255992,33.551644,-112.255992,33.551644",
     "geom:latitude":33.551644,
     "geom:longitude":-112.255992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9135 W Northern Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169411673,
-    "wof:lastmodified":1449032842,
+    "wof:lastmodified":1466333762,
     "wof:name":"Icon Studios",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.255992,33.551644,-112.255992,33.551644],
-  "geometry": {"coordinates":[-112.255992,33.551644],"type":"Point"}
+  "bbox": [
+    -112.255992,
+    33.551644,
+    -112.255992,
+    33.551644
+],
+  "geometry": {"coordinates":[-112.25599200000001,33.551644],"type":"Point"}
 }

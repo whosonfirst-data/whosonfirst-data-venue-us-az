@@ -2,13 +2,14 @@
   "id": 336601347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.999333,33.626294,-111.999333,33.626294",
     "geom:latitude":33.626294,
     "geom:longitude":-111.999333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3845 E Greenway Rd # 218",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336601347,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1466325993,
     "wof:name":"Ak Productions",
     "wof:parent_id":85840467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "film"
     ]
 },
-  "bbox": [-111.999333,33.626294,-111.999333,33.626294],
-  "geometry": {"coordinates":[-111.999333,33.626294],"type":"Point"}
+  "bbox": [
+    -111.999333,
+    33.626294,
+    -111.999333,
+    33.626294
+],
+  "geometry": {"coordinates":[-111.99933299999999,33.626294],"type":"Point"}
 }

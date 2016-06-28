@@ -2,13 +2,14 @@
   "id": 353864739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.970677,34.158619,-109.970677,34.158619",
     "geom:latitude":34.158619,
     "geom:longitude":-109.970677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 Peterson Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353864739,
-    "wof:lastmodified":1449020835,
+    "wof:lastmodified":1466330743,
     "wof:name":"White Mountain Carpet Cleaning",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-109.970677,34.158619,-109.970677,34.158619],
-  "geometry": {"coordinates":[-109.970677,34.158619],"type":"Point"}
+  "bbox": [
+    -109.970677,
+    34.158619,
+    -109.970677,
+    34.158619
+],
+  "geometry": {"coordinates":[-109.97067699999999,34.158619],"type":"Point"}
 }

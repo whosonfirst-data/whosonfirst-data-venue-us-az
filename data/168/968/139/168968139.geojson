@@ -2,13 +2,14 @@
   "id": 168968139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.832985,33.591239,-111.832985,33.591239",
     "geom:latitude":33.591239,
     "geom:longitude":-111.832985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11591 N 114th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168968139,
-    "wof:lastmodified":1449027818,
+    "wof:lastmodified":1466331344,
     "wof:name":"Comeau Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.832985,33.591239,-111.832985,33.591239],
-  "geometry": {"coordinates":[-111.832985,33.591239],"type":"Point"}
+  "bbox": [
+    -111.832985,
+    33.591239,
+    -111.832985,
+    33.591239
+],
+  "geometry": {"coordinates":[-111.83298499999999,33.591239],"type":"Point"}
 }

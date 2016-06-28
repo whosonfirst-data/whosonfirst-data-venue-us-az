@@ -2,13 +2,14 @@
   "id": 169369455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172299,33.45478,-112.172299,33.45478",
     "geom:latitude":33.45478,
     "geom:longitude":-112.172299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N 52nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828957,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85828957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169369455,
-    "wof:lastmodified":1449035793,
+    "wof:lastmodified":1466333736,
     "wof:name":"US Mdf Products",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172299,33.45478,-112.172299,33.45478],
+  "bbox": [
+    -112.172299,
+    33.45478,
+    -112.172299,
+    33.45478
+],
   "geometry": {"coordinates":[-112.172299,33.45478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168974887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965147,32.223889,-110.965147,32.223889",
     "geom:latitude":32.223889,
     "geom:longitude":-110.965147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 E 9th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168974887,
-    "wof:lastmodified":1449028488,
+    "wof:lastmodified":1466331374,
     "wof:name":"Trini Armenta Law Office",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965147,32.223889,-110.965147,32.223889],
+  "bbox": [
+    -110.965147,
+    32.223889,
+    -110.965147,
+    32.223889
+],
   "geometry": {"coordinates":[-110.965147,32.223889],"type":"Point"}
 }

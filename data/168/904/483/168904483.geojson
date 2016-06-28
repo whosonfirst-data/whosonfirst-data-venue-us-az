@@ -2,13 +2,14 @@
   "id": 168904483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.312863,34.584552,-112.312863,34.584552",
     "geom:latitude":34.584552,
     "geom:longitude":-112.312863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8732 E State Rte 69",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168904483,
-    "wof:lastmodified":1449028612,
+    "wof:lastmodified":1466329592,
     "wof:name":"A Quilter's Dream",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.312863,34.584552,-112.312863,34.584552],
-  "geometry": {"coordinates":[-112.312863,34.584552],"type":"Point"}
+  "bbox": [
+    -112.312863,
+    34.584552,
+    -112.312863,
+    34.584552
+],
+  "geometry": {"coordinates":[-112.31286299999999,34.584552],"type":"Point"}
 }

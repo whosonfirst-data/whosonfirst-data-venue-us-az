@@ -2,13 +2,14 @@
   "id": 353625645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.274886,33.46463,-112.274886,33.46463",
     "geom:latitude":33.46463,
     "geom:longitude":-112.274886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10000 W McDowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353625645,
-    "wof:lastmodified":1449020841,
+    "wof:lastmodified":1466329119,
     "wof:name":"Costco Wholesale",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.274886,33.46463,-112.274886,33.46463],
+  "bbox": [
+    -112.274886,
+    33.46463,
+    -112.274886,
+    33.46463
+],
   "geometry": {"coordinates":[-112.274886,33.46463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169126697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945835,33.350587,-111.945835,33.350587",
     "geom:latitude":33.350587,
     "geom:longitude":-111.945835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7350 S Kyrene Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824561,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
+        85824561,
         85814393
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169126697,
-    "wof:lastmodified":1449033908,
+    "wof:lastmodified":1466331490,
     "wof:name":"McKesson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.945835,33.350587,-111.945835,33.350587],
+  "bbox": [
+    -111.945835,
+    33.350587,
+    -111.945835,
+    33.350587
+],
   "geometry": {"coordinates":[-111.945835,33.350587],"type":"Point"}
 }

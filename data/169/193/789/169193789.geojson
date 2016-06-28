@@ -2,13 +2,14 @@
   "id": 169193789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.938602,32.250416,-110.938602,32.250416",
     "geom:latitude":32.250416,
     "geom:longitude":-110.938602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.consolidatedlenders.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169193789,
-    "wof:lastmodified":1449033229,
+    "wof:lastmodified":1466332112,
     "wof:name":"Consolidated Lenders Corp",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.938602,32.250416,-110.938602,32.250416],
+  "bbox": [
+    -110.938602,
+    32.250416,
+    -110.938602,
+    32.250416
+],
   "geometry": {"coordinates":[-110.938602,32.250416],"type":"Point"}
 }

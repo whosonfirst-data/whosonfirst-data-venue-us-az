@@ -2,13 +2,14 @@
   "id": 320799619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062814,33.607552,-112.062814,33.607552",
     "geom:latitude":33.607552,
     "geom:longitude":-112.062814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320799619,
-    "wof:lastmodified":1449014987,
+    "wof:lastmodified":1466329671,
     "wof:name":"Citywide Insurance",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "bond"
     ]
 },
-  "bbox": [-112.062814,33.607552,-112.062814,33.607552],
+  "bbox": [
+    -112.062814,
+    33.607552,
+    -112.062814,
+    33.607552
+],
   "geometry": {"coordinates":[-112.062814,33.607552],"type":"Point"}
 }

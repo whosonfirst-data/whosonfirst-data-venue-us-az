@@ -2,13 +2,14 @@
   "id": 320731201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023743,33.52306,-112.023743,33.52306",
     "geom:latitude":33.52306,
     "geom:longitude":-112.023743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 E Missouri Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":320731201,
-    "wof:lastmodified":1449014549,
+    "wof:lastmodified":1466328784,
     "wof:name":"Adobe Restaurant",
     "wof:parent_id":85806119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "hall"
     ]
 },
-  "bbox": [-112.023743,33.52306,-112.023743,33.52306],
+  "bbox": [
+    -112.023743,
+    33.52306,
+    -112.023743,
+    33.52306
+],
   "geometry": {"coordinates":[-112.023743,33.52306],"type":"Point"}
 }

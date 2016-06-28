@@ -2,13 +2,14 @@
   "id": 169260893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.793599,32.1977,-110.793599,32.1977",
     "geom:latitude":32.1977,
     "geom:longitude":-110.793599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 S Cathy Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169260893,
-    "wof:lastmodified":1449033246,
+    "wof:lastmodified":1466332609,
     "wof:name":"Advanced Medical Solution",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.793599,32.1977,-110.793599,32.1977],
+  "bbox": [
+    -110.793599,
+    32.1977,
+    -110.793599,
+    32.1977
+],
   "geometry": {"coordinates":[-110.793599,32.1977],"type":"Point"}
 }

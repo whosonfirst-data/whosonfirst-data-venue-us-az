@@ -2,13 +2,14 @@
   "id": 168823777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.246527,33.489009,-112.246527,33.489009",
     "geom:latitude":33.489009,
     "geom:longitude":-112.246527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 N 87th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168823777,
-    "wof:lastmodified":1449028583,
+    "wof:lastmodified":1466325771,
     "wof:name":"Dolphin Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.246527,33.489009,-112.246527,33.489009],
+  "bbox": [
+    -112.246527,
+    33.489009,
+    -112.246527,
+    33.489009
+],
   "geometry": {"coordinates":[-112.246527,33.489009],"type":"Point"}
 }

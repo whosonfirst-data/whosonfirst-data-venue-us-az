@@ -2,13 +2,14 @@
   "id": 169023705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.29132,31.569084,-110.29132,31.569084",
     "geom:latitude":31.569084,
     "geom:longitude":-110.29132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 N 7th St",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169023705,
-    "wof:lastmodified":1449035633,
+    "wof:lastmodified":1466326295,
     "wof:name":"Childtime Learning Ctr",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.29132,31.569084,-110.29132,31.569084],
+  "bbox": [
+    -110.29132,
+    31.569084,
+    -110.29132,
+    31.569084
+],
   "geometry": {"coordinates":[-110.29132,31.569084],"type":"Point"}
 }

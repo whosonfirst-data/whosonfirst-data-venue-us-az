@@ -2,13 +2,14 @@
   "id": 169347323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.338175,33.607851,-112.338175,33.607851",
     "geom:latitude":33.607851,
     "geom:longitude":-112.338175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12954 W Voltaire Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169347323,
-    "wof:lastmodified":1449034275,
+    "wof:lastmodified":1466333450,
     "wof:name":"Torres R&B Plumbing LLC",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.338175,33.607851,-112.338175,33.607851],
-  "geometry": {"coordinates":[-112.338175,33.607851],"type":"Point"}
+  "bbox": [
+    -112.338175,
+    33.607851,
+    -112.338175,
+    33.607851
+],
+  "geometry": {"coordinates":[-112.33817500000001,33.607851],"type":"Point"}
 }

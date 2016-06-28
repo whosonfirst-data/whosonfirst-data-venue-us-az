@@ -2,13 +2,14 @@
   "id": 152916131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047207,33.406968,-112.047207,33.406968",
     "geom:latitude":33.406968,
     "geom:longitude":-112.047207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 S 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853813,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152916131,
-    "wof:lastmodified":1449046831,
+    "wof:lastmodified":1466326243,
     "wof:name":"Bahia De Guymas",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047207,33.406968,-112.047207,33.406968],
+  "bbox": [
+    -112.047207,
+    33.406968,
+    -112.047207,
+    33.406968
+],
   "geometry": {"coordinates":[-112.047207,33.406968],"type":"Point"}
 }

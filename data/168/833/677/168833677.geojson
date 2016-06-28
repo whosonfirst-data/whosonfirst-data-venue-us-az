@@ -2,13 +2,14 @@
   "id": 168833677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.310907,34.591996,-112.310907,34.591996",
     "geom:latitude":34.591996,
     "geom:longitude":-112.310907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3469 N Christine Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168833677,
-    "wof:lastmodified":1449027872,
+    "wof:lastmodified":1466326356,
     "wof:name":"Mel Macari Design & Drafting",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.310907,34.591996,-112.310907,34.591996],
+  "bbox": [
+    -112.310907,
+    34.591996,
+    -112.310907,
+    34.591996
+],
   "geometry": {"coordinates":[-112.310907,34.591996],"type":"Point"}
 }

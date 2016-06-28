@@ -2,13 +2,14 @@
   "id": 169143033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.063507,33.40679,-112.063507,33.40679",
     "geom:latitude":33.40679,
     "geom:longitude":-112.063507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E Broadway Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853813,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169143033,
-    "wof:lastmodified":1449035405,
+    "wof:lastmodified":1466331650,
     "wof:name":"Buy Rite Tire & Auto Ctr",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.063507,33.40679,-112.063507,33.40679],
+  "bbox": [
+    -112.063507,
+    33.40679,
+    -112.063507,
+    33.40679
+],
   "geometry": {"coordinates":[-112.063507,33.40679],"type":"Point"}
 }

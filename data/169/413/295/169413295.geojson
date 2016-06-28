@@ -2,13 +2,14 @@
   "id": 169413295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.928989,33.497277,-111.928989,33.497277",
     "geom:latitude":33.497277,
     "geom:longitude":-111.928989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4222 N Marshall Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.cervinihaas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169413295,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1466333933,
     "wof:name":"Cervini Haas Gallery",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.928989,33.497277,-111.928989,33.497277],
+  "bbox": [
+    -111.928989,
+    33.497277,
+    -111.928989,
+    33.497277
+],
   "geometry": {"coordinates":[-111.928989,33.497277],"type":"Point"}
 }

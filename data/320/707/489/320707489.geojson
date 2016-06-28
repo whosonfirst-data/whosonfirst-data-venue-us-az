@@ -2,13 +2,14 @@
   "id": 320707489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112344,33.505124,-112.112344,33.505124",
     "geom:latitude":33.505124,
     "geom:longitude":-112.112344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4635 N Black Canyon Hwy Ste 102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320707489,
-    "wof:lastmodified":1449014384,
+    "wof:lastmodified":1466328216,
     "wof:name":"AZ All American Telephone Technologies LLC",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-112.112344,33.505124,-112.112344,33.505124],
-  "geometry": {"coordinates":[-112.112344,33.505124],"type":"Point"}
+  "bbox": [
+    -112.112344,
+    33.505124,
+    -112.112344,
+    33.505124
+],
+  "geometry": {"coordinates":[-112.11234399999999,33.505124],"type":"Point"}
 }

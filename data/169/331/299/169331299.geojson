@@ -2,13 +2,14 @@
   "id": 169331299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.786605,33.39485,-110.786605,33.39485",
     "geom:latitude":33.39485,
     "geom:longitude":-110.786605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Broad St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169331299,
-    "wof:lastmodified":1449034691,
+    "wof:lastmodified":1466333505,
     "wof:name":"Highlander Center",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.786605,33.39485,-110.786605,33.39485],
-  "geometry": {"coordinates":[-110.786605,33.39485],"type":"Point"}
+  "bbox": [
+    -110.786605,
+    33.39485,
+    -110.786605,
+    33.39485
+],
+  "geometry": {"coordinates":[-110.78660499999999,33.39485],"type":"Point"}
 }

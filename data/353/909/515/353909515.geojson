@@ -2,13 +2,14 @@
   "id": 353909515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.008027,35.187006,-114.008027,35.187006",
     "geom:latitude":35.187006,
     "geom:longitude":-114.008027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Hualapai Mountain Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353909515,
-    "wof:lastmodified":1449020172,
+    "wof:lastmodified":1466331195,
     "wof:name":"Net West Development",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.008027,35.187006,-114.008027,35.187006],
+  "bbox": [
+    -114.008027,
+    35.187006,
+    -114.008027,
+    35.187006
+],
   "geometry": {"coordinates":[-114.008027,35.187006],"type":"Point"}
 }

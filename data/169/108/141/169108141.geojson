@@ -2,13 +2,14 @@
   "id": 169108141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.946522,32.227531,-110.946522,32.227531",
     "geom:latitude":32.227531,
     "geom:longitude":-110.946522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 N Warren Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169108141,
-    "wof:lastmodified":1449032739,
+    "wof:lastmodified":1466331117,
     "wof:name":"University Of Arizona Intl",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.946522,32.227531,-110.946522,32.227531],
+  "bbox": [
+    -110.946522,
+    32.227531,
+    -110.946522,
+    32.227531
+],
   "geometry": {"coordinates":[-110.946522,32.227531],"type":"Point"}
 }

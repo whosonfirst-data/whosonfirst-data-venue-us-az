@@ -2,13 +2,14 @@
   "id": 336686129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.186528,33.434233,-112.186528,33.434233",
     "geom:latitude":33.434233,
     "geom:longitude":-112.186528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 S 59th Ave Frnt",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336686129,
-    "wof:lastmodified":1448997765,
+    "wof:lastmodified":1466327956,
     "wof:name":"Massey's Truck & Tank Repair, Inc.",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tanks-repair"
     ]
 },
-  "bbox": [-112.186528,33.434233,-112.186528,33.434233],
+  "bbox": [
+    -112.186528,
+    33.434233,
+    -112.186528,
+    33.434233
+],
   "geometry": {"coordinates":[-112.186528,33.434233],"type":"Point"}
 }

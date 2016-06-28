@@ -2,13 +2,14 @@
   "id": 353558667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177551,33.510659,-112.177551,33.510659",
     "geom:latitude":33.510659,
     "geom:longitude":-112.177551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5038 N 55th Ave Apt 2105",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353558667,
-    "wof:lastmodified":1449018960,
+    "wof:lastmodified":1466328100,
     "wof:name":"Advantage Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "listing"
     ]
 },
-  "bbox": [-112.177551,33.510659,-112.177551,33.510659],
-  "geometry": {"coordinates":[-112.177551,33.510659],"type":"Point"}
+  "bbox": [
+    -112.177551,
+    33.510659,
+    -112.177551,
+    33.510659
+],
+  "geometry": {"coordinates":[-112.17755099999999,33.510659],"type":"Point"}
 }

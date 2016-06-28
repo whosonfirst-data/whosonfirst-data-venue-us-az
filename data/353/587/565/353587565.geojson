@@ -2,13 +2,14 @@
   "id": 353587565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.202183,33.585498,-112.202183,33.585498",
     "geom:latitude":33.585498,
     "geom:longitude":-112.202183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11021 N 66th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353587565,
-    "wof:lastmodified":1449019137,
+    "wof:lastmodified":1466328347,
     "wof:name":"Sutcor Building Services",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.202183,33.585498,-112.202183,33.585498],
-  "geometry": {"coordinates":[-112.202183,33.585498],"type":"Point"}
+  "bbox": [
+    -112.202183,
+    33.585498,
+    -112.202183,
+    33.585498
+],
+  "geometry": {"coordinates":[-112.20218300000001,33.585498],"type":"Point"}
 }

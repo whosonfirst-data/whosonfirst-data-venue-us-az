@@ -2,13 +2,14 @@
   "id": 336897409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930917,33.319686,-111.930917,33.319686",
     "geom:latitude":33.319686,
     "geom:longitude":-111.930917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5143 W Megan St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336897409,
-    "wof:lastmodified":1448997860,
+    "wof:lastmodified":1466330425,
     "wof:name":"Tian Labs",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-111.930917,33.319686,-111.930917,33.319686],
-  "geometry": {"coordinates":[-111.930917,33.319686],"type":"Point"}
+  "bbox": [
+    -111.930917,
+    33.319686,
+    -111.930917,
+    33.319686
+],
+  "geometry": {"coordinates":[-111.93091699999999,33.319686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169206881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.853687,33.311997,-111.853687,33.311997",
     "geom:latitude":33.311997,
     "geom:longitude":-111.853687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 W Oakland St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876683,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169206881,
-    "wof:lastmodified":1449034938,
+    "wof:lastmodified":1466332206,
     "wof:name":"Gila Aviation",
     "wof:parent_id":85876683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.853687,33.311997,-111.853687,33.311997],
-  "geometry": {"coordinates":[-111.853687,33.311997],"type":"Point"}
+  "bbox": [
+    -111.853687,
+    33.311997,
+    -111.853687,
+    33.311997
+],
+  "geometry": {"coordinates":[-111.85368699999999,33.311997],"type":"Point"}
 }

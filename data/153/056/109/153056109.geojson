@@ -2,13 +2,14 @@
   "id": 153056109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.335328,34.64688,-112.335328,34.64688",
     "geom:latitude":34.64688,
     "geom:longitude":-112.335328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7330 E Scenic Way",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153056109,
-    "wof:lastmodified":1449040467,
+    "wof:lastmodified":1466327597,
     "wof:name":"Siegel Wine Cellar",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.335328,34.64688,-112.335328,34.64688],
+  "bbox": [
+    -112.335328,
+    34.64688,
+    -112.335328,
+    34.64688
+],
   "geometry": {"coordinates":[-112.335328,34.64688],"type":"Point"}
 }

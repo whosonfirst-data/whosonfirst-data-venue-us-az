@@ -2,13 +2,14 @@
   "id": 320633261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.088258,33.425804,-112.088258,33.425804",
     "geom:latitude":33.425804,
     "geom:longitude":-112.088258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W Watkins St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":320633261,
-    "wof:lastmodified":1449014932,
+    "wof:lastmodified":1466326609,
     "wof:name":"National Counter Tops & Cabinets",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-112.088258,33.425804,-112.088258,33.425804],
+  "bbox": [
+    -112.088258,
+    33.425804,
+    -112.088258,
+    33.425804
+],
   "geometry": {"coordinates":[-112.088258,33.425804],"type":"Point"}
 }

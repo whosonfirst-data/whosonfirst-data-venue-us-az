@@ -2,13 +2,14 @@
   "id": 353784549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.55291,31.34444,-109.55291,31.34444",
     "geom:latitude":31.34444,
     "geom:longitude":-109.55291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E 10th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":353784549,
-    "wof:lastmodified":1449019947,
+    "wof:lastmodified":1466330334,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.55291,31.34444,-109.55291,31.34444],
+  "bbox": [
+    -109.55291,
+    31.34444,
+    -109.55291,
+    31.34444
+],
   "geometry": {"coordinates":[-109.55291,31.34444],"type":"Point"}
 }

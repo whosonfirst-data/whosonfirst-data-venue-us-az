@@ -2,13 +2,14 @@
   "id": 353519275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948112,33.341869,-111.948112,33.341869",
     "geom:latitude":33.341869,
     "geom:longitude":-111.948112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Carver Rd Ste 101",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353519275,
-    "wof:lastmodified":1449020622,
+    "wof:lastmodified":1466327502,
     "wof:name":"Robertson Aviation",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.948112,33.341869,-111.948112,33.341869],
-  "geometry": {"coordinates":[-111.948112,33.341869],"type":"Point"}
+  "bbox": [
+    -111.948112,
+    33.341869,
+    -111.948112,
+    33.341869
+],
+  "geometry": {"coordinates":[-111.94811199999999,33.341869],"type":"Point"}
 }

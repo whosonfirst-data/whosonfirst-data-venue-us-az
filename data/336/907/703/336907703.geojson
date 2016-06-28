@@ -2,13 +2,14 @@
   "id": 336907703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817286,33.378798,-111.817286,33.378798",
     "geom:latitude":33.378798,
     "geom:longitude":-111.817286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336907703,
-    "wof:lastmodified":1448997933,
+    "wof:lastmodified":1466330388,
     "wof:name":"Las Vegas Flooring",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"
     ]
 },
-  "bbox": [-111.817286,33.378798,-111.817286,33.378798],
+  "bbox": [
+    -111.817286,
+    33.378798,
+    -111.817286,
+    33.378798
+],
   "geometry": {"coordinates":[-111.817286,33.378798],"type":"Point"}
 }

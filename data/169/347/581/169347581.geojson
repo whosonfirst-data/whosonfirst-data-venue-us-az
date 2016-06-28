@@ -2,13 +2,14 @@
   "id": 169347581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975434,32.348786,-110.975434,32.348786",
     "geom:latitude":32.348786,
     "geom:longitude":-110.975434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7780 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169347581,
-    "wof:lastmodified":1449034276,
+    "wof:lastmodified":1466333470,
     "wof:name":"Diet Center",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975434,32.348786,-110.975434,32.348786],
-  "geometry": {"coordinates":[-110.975434,32.348786],"type":"Point"}
+  "bbox": [
+    -110.975434,
+    32.348786,
+    -110.975434,
+    32.348786
+],
+  "geometry": {"coordinates":[-110.97543400000001,32.348786],"type":"Point"}
 }

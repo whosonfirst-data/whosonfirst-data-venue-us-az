@@ -2,13 +2,14 @@
   "id": 336687389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.233858,33.421436,-112.233858,33.421436",
     "geom:latitude":33.421436,
     "geom:longitude":-112.233858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 S 81st Avenue",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336687389,
-    "wof:lastmodified":1448997248,
+    "wof:lastmodified":1466327989,
     "wof:name":"Arizona Construction Clean Up",
     "wof:parent_id":85871005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-112.233858,33.421436,-112.233858,33.421436],
+  "bbox": [
+    -112.233858,
+    33.421436,
+    -112.233858,
+    33.421436
+],
   "geometry": {"coordinates":[-112.233858,33.421436],"type":"Point"}
 }

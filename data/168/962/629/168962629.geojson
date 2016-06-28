@@ -2,13 +2,14 @@
   "id": 168962629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.236105,33.578474,-112.236105,33.578474",
     "geom:latitude":33.578474,
     "geom:longitude":-112.236105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8270 W Madison St",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168962629,
-    "wof:lastmodified":1449028235,
+    "wof:lastmodified":1466331203,
     "wof:name":"Realty Experts-Peoria Old Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.236105,33.578474,-112.236105,33.578474],
-  "geometry": {"coordinates":[-112.236105,33.578474],"type":"Point"}
+  "bbox": [
+    -112.236105,
+    33.578474,
+    -112.236105,
+    33.578474
+],
+  "geometry": {"coordinates":[-112.23610499999999,33.578474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320632665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.089256,33.45137,-112.089256,33.45137",
     "geom:latitude":33.45137,
     "geom:longitude":-112.089256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 W Van Buren St # 1057",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320632665,
-    "wof:lastmodified":1449013645,
+    "wof:lastmodified":1466326593,
     "wof:name":"Michelangelo's Mobile Photo Studio",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-112.089256,33.45137,-112.089256,33.45137],
-  "geometry": {"coordinates":[-112.089256,33.45137],"type":"Point"}
+  "bbox": [
+    -112.089256,
+    33.45137,
+    -112.089256,
+    33.45137
+],
+  "geometry": {"coordinates":[-112.08925600000001,33.45137],"type":"Point"}
 }

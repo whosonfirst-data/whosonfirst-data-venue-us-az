@@ -2,13 +2,14 @@
   "id": 168950437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.906234,32.218725,-110.906234,32.218725",
     "geom:latitude":32.218725,
     "geom:longitude":-110.906234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4052 E Cll de Jardin",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168950437,
-    "wof:lastmodified":1449028071,
+    "wof:lastmodified":1466331113,
     "wof:name":"Pro Ventures Inc Marketing",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.906234,32.218725,-110.906234,32.218725],
+  "bbox": [
+    -110.906234,
+    32.218725,
+    -110.906234,
+    32.218725
+],
   "geometry": {"coordinates":[-110.906234,32.218725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320807261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114243,33.62751,-112.114243,33.62751",
     "geom:latitude":33.62751,
     "geom:longitude":-112.114243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15620 N 25th Ave Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320807261,
-    "wof:lastmodified":1449012221,
+    "wof:lastmodified":1466329764,
     "wof:name":"Titanic Plumbing Service",
     "wof:parent_id":85811951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.114243,33.62751,-112.114243,33.62751],
+  "bbox": [
+    -112.114243,
+    33.62751,
+    -112.114243,
+    33.62751
+],
   "geometry": {"coordinates":[-112.114243,33.62751],"type":"Point"}
 }

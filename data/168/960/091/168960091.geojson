@@ -2,13 +2,14 @@
   "id": 168960091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.322649,34.587057,-112.322649,34.587057",
     "geom:latitude":34.587057,
     "geom:longitude":-112.322649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8196 E Valley Rd",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168960091,
-    "wof:lastmodified":1449028330,
+    "wof:lastmodified":1466331049,
     "wof:name":"Mountain Mortgage",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.322649,34.587057,-112.322649,34.587057],
+  "bbox": [
+    -112.322649,
+    34.587057,
+    -112.322649,
+    34.587057
+],
   "geometry": {"coordinates":[-112.322649,34.587057],"type":"Point"}
 }

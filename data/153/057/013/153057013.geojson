@@ -2,13 +2,14 @@
   "id": 153057013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.98904,32.412434,-110.98904,32.412434",
     "geom:latitude":32.412434,
     "geom:longitude":-110.98904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1098 W Bullion Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153057013,
-    "wof:lastmodified":1449040573,
+    "wof:lastmodified":1466327664,
     "wof:name":"Randy Hamilton Structural",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.98904,32.412434,-110.98904,32.412434],
+  "bbox": [
+    -110.98904,
+    32.412434,
+    -110.98904,
+    32.412434
+],
   "geometry": {"coordinates":[-110.98904,32.412434],"type":"Point"}
 }

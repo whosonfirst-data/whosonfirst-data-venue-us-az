@@ -2,13 +2,14 @@
   "id": 169028131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.830542,32.205319,-110.830542,32.205319",
     "geom:latitude":32.205319,
     "geom:longitude":-110.830542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7549 E Juarez St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169028131,
-    "wof:lastmodified":1449034472,
+    "wof:lastmodified":1466326696,
     "wof:name":"La Pianola Mexican Cuisine",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.830542,32.205319,-110.830542,32.205319],
-  "geometry": {"coordinates":[-110.830542,32.205319],"type":"Point"}
+  "bbox": [
+    -110.830542,
+    32.205319,
+    -110.830542,
+    32.205319
+],
+  "geometry": {"coordinates":[-110.83054199999999,32.205319],"type":"Point"}
 }

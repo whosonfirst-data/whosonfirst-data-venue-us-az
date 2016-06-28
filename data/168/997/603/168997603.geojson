@@ -2,13 +2,14 @@
   "id": 168997603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.031687,34.212812,-110.031687,34.212812",
     "geom:latitude":34.212812,
     "geom:longitude":-110.031687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Antler Ln",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168997603,
-    "wof:lastmodified":1449028449,
+    "wof:lastmodified":1466331679,
     "wof:name":"Sams Taxi",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.031687,34.212812,-110.031687,34.212812],
-  "geometry": {"coordinates":[-110.031687,34.212812],"type":"Point"}
+  "bbox": [
+    -110.031687,
+    34.212812,
+    -110.031687,
+    34.212812
+],
+  "geometry": {"coordinates":[-110.03168700000001,34.212812],"type":"Point"}
 }

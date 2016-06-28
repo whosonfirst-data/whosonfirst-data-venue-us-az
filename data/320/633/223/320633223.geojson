@@ -2,13 +2,14 @@
   "id": 320633223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08679,33.427097,-112.08679,33.427097",
     "geom:latitude":33.427097,
     "geom:longitude":-112.08679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 S 11th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320633223,
-    "wof:lastmodified":1449014933,
+    "wof:lastmodified":1466326607,
     "wof:name":"Phoenix Metallics",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "processing-industrial"
     ]
 },
-  "bbox": [-112.08679,33.427097,-112.08679,33.427097],
-  "geometry": {"coordinates":[-112.08679,33.427097],"type":"Point"}
+  "bbox": [
+    -112.08679,
+    33.427097,
+    -112.08679,
+    33.427097
+],
+  "geometry": {"coordinates":[-112.08678999999999,33.427097],"type":"Point"}
 }

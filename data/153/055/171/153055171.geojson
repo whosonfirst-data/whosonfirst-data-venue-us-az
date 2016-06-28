@@ -2,13 +2,14 @@
   "id": 153055171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065582,33.63413,-112.065582,33.63413",
     "geom:latitude":33.63413,
     "geom:longitude":-112.065582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16220 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852841,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153055171,
-    "wof:lastmodified":1449040444,
+    "wof:lastmodified":1466327532,
     "wof:name":"J P Ranger Engineering",
     "wof:parent_id":85852841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065582,33.63413,-112.065582,33.63413],
-  "geometry": {"coordinates":[-112.065582,33.63413],"type":"Point"}
+  "bbox": [
+    -112.065582,
+    33.63413,
+    -112.065582,
+    33.63413
+],
+  "geometry": {"coordinates":[-112.06558200000001,33.63413],"type":"Point"}
 }

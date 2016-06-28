@@ -2,13 +2,14 @@
   "id": 169057951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.032688,32.348176,-111.032688,32.348176",
     "geom:latitude":32.348176,
     "geom:longitude":-111.032688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7651 N Nathan Hale Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169057951,
-    "wof:lastmodified":1449034317,
+    "wof:lastmodified":1466329150,
     "wof:name":"Bobs Western Wear",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.032688,32.348176,-111.032688,32.348176],
-  "geometry": {"coordinates":[-111.032688,32.348176],"type":"Point"}
+  "bbox": [
+    -111.032688,
+    32.348176,
+    -111.032688,
+    32.348176
+],
+  "geometry": {"coordinates":[-111.03268799999999,32.348176],"type":"Point"}
 }

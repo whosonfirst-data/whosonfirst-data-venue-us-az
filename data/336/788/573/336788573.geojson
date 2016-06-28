@@ -2,13 +2,14 @@
   "id": 336788573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.784737,33.39357,-111.784737,33.39357",
     "geom:latitude":33.39357,
     "geom:longitude":-111.784737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 E Southern Ave Ofc",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336788573,
-    "wof:lastmodified":1448997510,
+    "wof:lastmodified":1466329462,
     "wof:name":"Meadows, The",
     "wof:parent_id":85828683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-111.784737,33.39357,-111.784737,33.39357],
-  "geometry": {"coordinates":[-111.784737,33.39357],"type":"Point"}
+  "bbox": [
+    -111.784737,
+    33.39357,
+    -111.784737,
+    33.39357
+],
+  "geometry": {"coordinates":[-111.78473700000001,33.39357],"type":"Point"}
 }

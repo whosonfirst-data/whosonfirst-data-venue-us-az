@@ -2,13 +2,14 @@
   "id": 153055129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976521,33.397301,-111.976521,33.397301",
     "geom:latitude":33.397301,
     "geom:longitude":-111.976521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 W Erie Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.bloodsystemslaboratories.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812107,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85812107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153055129,
-    "wof:lastmodified":1449040443,
+    "wof:lastmodified":1466327529,
     "wof:name":"Blood Systems Laboratory",
     "wof:parent_id":85812107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976521,33.397301,-111.976521,33.397301],
-  "geometry": {"coordinates":[-111.976521,33.397301],"type":"Point"}
+  "bbox": [
+    -111.976521,
+    33.397301,
+    -111.976521,
+    33.397301
+],
+  "geometry": {"coordinates":[-111.97652100000001,33.397301],"type":"Point"}
 }

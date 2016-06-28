@@ -2,13 +2,14 @@
   "id": 168960329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.470152,34.544166,-112.470152,34.544166",
     "geom:latitude":34.544166,
     "geom:longitude":-112.470152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Montezuma St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168960329,
-    "wof:lastmodified":1449028329,
+    "wof:lastmodified":1466331060,
     "wof:name":"Seitz Home Furnishings",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.470152,34.544166,-112.470152,34.544166],
+  "bbox": [
+    -112.470152,
+    34.544166,
+    -112.470152,
+    34.544166
+],
   "geometry": {"coordinates":[-112.470152,34.544166],"type":"Point"}
 }

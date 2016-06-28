@@ -2,13 +2,14 @@
   "id": 169229771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.77541,32.228069,-110.77541,32.228069",
     "geom:latitude":32.228069,
     "geom:longitude":-110.77541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10150 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169229771,
-    "wof:lastmodified":1449035295,
+    "wof:lastmodified":1466332235,
     "wof:name":"BCI Entertainment",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.77541,32.228069,-110.77541,32.228069],
-  "geometry": {"coordinates":[-110.77541,32.228069],"type":"Point"}
+  "bbox": [
+    -110.77541,
+    32.228069,
+    -110.77541,
+    32.228069
+],
+  "geometry": {"coordinates":[-110.77540999999999,32.228069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168949681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.953657,33.55288,-111.953657,33.55288",
     "geom:latitude":33.55288,
     "geom:longitude":-111.953657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5902 E Foothill Dr N",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811043,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168949681,
-    "wof:lastmodified":1449028258,
+    "wof:lastmodified":1466331120,
     "wof:name":"Phoenix Metal Trading Inc",
     "wof:parent_id":85811043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.953657,33.55288,-111.953657,33.55288],
-  "geometry": {"coordinates":[-111.953657,33.55288],"type":"Point"}
+  "bbox": [
+    -111.953657,
+    33.55288,
+    -111.953657,
+    33.55288
+],
+  "geometry": {"coordinates":[-111.95365700000001,33.55288],"type":"Point"}
 }

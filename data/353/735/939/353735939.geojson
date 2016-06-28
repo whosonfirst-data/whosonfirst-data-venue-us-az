@@ -2,13 +2,14 @@
   "id": 353735939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.221499,33.607344,-112.221499,33.607344",
     "geom:latitude":33.607344,
     "geom:longitude":-112.221499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7548 W Alexandria Way",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353735939,
-    "wof:lastmodified":1449020712,
+    "wof:lastmodified":1466330033,
     "wof:name":"Ultralight Flight Introduction",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-112.221499,33.607344,-112.221499,33.607344],
-  "geometry": {"coordinates":[-112.221499,33.607344],"type":"Point"}
+  "bbox": [
+    -112.221499,
+    33.607344,
+    -112.221499,
+    33.607344
+],
+  "geometry": {"coordinates":[-112.22149899999999,33.607344],"type":"Point"}
 }

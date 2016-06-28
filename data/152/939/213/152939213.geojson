@@ -2,13 +2,14 @@
   "id": 152939213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131316,33.829469,-112.131316,33.829469",
     "geom:latitude":33.829469,
     "geom:longitude":-112.131316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38211 N 33rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152939213,
-    "wof:lastmodified":1449045661,
+    "wof:lastmodified":1466326631,
     "wof:name":"Dtcor Tech Painting Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.131316,33.829469,-112.131316,33.829469],
+  "bbox": [
+    -112.131316,
+    33.829469,
+    -112.131316,
+    33.829469
+],
   "geometry": {"coordinates":[-112.131316,33.829469],"type":"Point"}
 }

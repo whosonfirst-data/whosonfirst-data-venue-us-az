@@ -2,13 +2,14 @@
   "id": 353534021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.711036,33.318442,-111.711036,33.318442",
     "geom:latitude":33.318442,
     "geom:longitude":-111.711036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3677 E Oxford Ln",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353534021,
-    "wof:lastmodified":1449018925,
+    "wof:lastmodified":1466327784,
     "wof:name":"City Lights Luxury Trnsprttn",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.711036,33.318442,-111.711036,33.318442],
-  "geometry": {"coordinates":[-111.711036,33.318442],"type":"Point"}
+  "bbox": [
+    -111.711036,
+    33.318442,
+    -111.711036,
+    33.318442
+],
+  "geometry": {"coordinates":[-111.71103599999999,33.318442],"type":"Point"}
 }

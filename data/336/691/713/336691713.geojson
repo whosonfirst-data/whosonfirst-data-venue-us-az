@@ -2,13 +2,14 @@
   "id": 336691713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.208072,33.401167,-112.208072,33.401167",
     "geom:latitude":33.401167,
     "geom:longitude":-112.208072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6844 W Roeser Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336691713,
-    "wof:lastmodified":1448997019,
+    "wof:lastmodified":1466327876,
     "wof:name":"Az Tech Roofing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.208072,33.401167,-112.208072,33.401167],
+  "bbox": [
+    -112.208072,
+    33.401167,
+    -112.208072,
+    33.401167
+],
   "geometry": {"coordinates":[-112.208072,33.401167],"type":"Point"}
 }

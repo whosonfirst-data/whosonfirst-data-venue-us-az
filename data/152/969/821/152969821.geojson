@@ -2,13 +2,14 @@
   "id": 152969821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.735971,33.373873,-111.735971,33.373873",
     "geom:latitude":33.373873,
     "geom:longitude":-111.735971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 E Desert Ln",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858711,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152969821,
-    "wof:lastmodified":1449045404,
+    "wof:lastmodified":1466328418,
     "wof:name":"Champion Built Contracting",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.735971,33.373873,-111.735971,33.373873],
-  "geometry": {"coordinates":[-111.735971,33.373873],"type":"Point"}
+  "bbox": [
+    -111.735971,
+    33.373873,
+    -111.735971,
+    33.373873
+],
+  "geometry": {"coordinates":[-111.73597100000001,33.373873],"type":"Point"}
 }

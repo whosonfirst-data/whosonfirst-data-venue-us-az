@@ -2,13 +2,14 @@
   "id": 353785177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.552365,31.349583,-109.552365,31.349583",
     "geom:latitude":31.349583,
     "geom:longitude":-109.552365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 E 15th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":353785177,
-    "wof:lastmodified":1449020389,
+    "wof:lastmodified":1466330152,
     "wof:name":"El Sol Editor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.552365,31.349583,-109.552365,31.349583],
-  "geometry": {"coordinates":[-109.552365,31.349583],"type":"Point"}
+  "bbox": [
+    -109.552365,
+    31.349583,
+    -109.552365,
+    31.349583
+],
+  "geometry": {"coordinates":[-109.55236499999999,31.349583],"type":"Point"}
 }

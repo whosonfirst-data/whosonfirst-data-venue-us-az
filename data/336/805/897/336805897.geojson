@@ -2,13 +2,14 @@
   "id": 336805897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.677666,33.415314,-111.677666,33.415314",
     "geom:latitude":33.415314,
     "geom:longitude":-111.677666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7127 E Main St Ste C",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336805897,
-    "wof:lastmodified":1448997298,
+    "wof:lastmodified":1466329428,
     "wof:name":"Scottsdale Golf Company",
     "wof:parent_id":85820311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.677666,33.415314,-111.677666,33.415314],
+  "bbox": [
+    -111.677666,
+    33.415314,
+    -111.677666,
+    33.415314
+],
   "geometry": {"coordinates":[-111.677666,33.415314],"type":"Point"}
 }

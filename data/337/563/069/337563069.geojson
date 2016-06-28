@@ -2,13 +2,14 @@
   "id": 337563069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890652,33.568912,-111.890652,33.568912",
     "geom:latitude":33.568912,
     "geom:longitude":-111.890652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8902 E Via Linda Linda Ste 110",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337563069,
-    "wof:lastmodified":1449026946,
+    "wof:lastmodified":1466326812,
     "wof:name":"Sage Advantage, Inc.",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "advertising-telephone"
     ]
 },
-  "bbox": [-111.890652,33.568912,-111.890652,33.568912],
+  "bbox": [
+    -111.890652,
+    33.568912,
+    -111.890652,
+    33.568912
+],
   "geometry": {"coordinates":[-111.890652,33.568912],"type":"Point"}
 }

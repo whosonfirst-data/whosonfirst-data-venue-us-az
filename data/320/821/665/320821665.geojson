@@ -2,13 +2,14 @@
   "id": 320821665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096837,33.683689,-112.096837,33.683689",
     "geom:latitude":33.683689,
     "geom:longitude":-112.096837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 W Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320821665,
-    "wof:lastmodified":1449013298,
+    "wof:lastmodified":1466330104,
     "wof:name":"Gergen Orthodontic",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-112.096837,33.683689,-112.096837,33.683689],
-  "geometry": {"coordinates":[-112.096837,33.683689],"type":"Point"}
+  "bbox": [
+    -112.096837,
+    33.683689,
+    -112.096837,
+    33.683689
+],
+  "geometry": {"coordinates":[-112.09683699999999,33.683689],"type":"Point"}
 }

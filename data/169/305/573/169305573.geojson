@@ -2,13 +2,14 @@
   "id": 169305573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118817,33.487828,-112.118817,33.487828",
     "geom:latitude":33.487828,
     "geom:longitude":-112.118817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 W Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169305573,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1466333050,
     "wof:name":"A M Wholesale",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.118817,33.487828,-112.118817,33.487828],
-  "geometry": {"coordinates":[-112.118817,33.487828],"type":"Point"}
+  "bbox": [
+    -112.118817,
+    33.487828,
+    -112.118817,
+    33.487828
+],
+  "geometry": {"coordinates":[-112.11881700000001,33.487828],"type":"Point"}
 }

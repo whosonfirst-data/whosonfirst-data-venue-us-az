@@ -2,13 +2,14 @@
   "id": 336660911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007006,33.405422,-112.007006,33.405422",
     "geom:latitude":33.405422,
     "geom:longitude":-112.007006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4607 S 35th St Ste 3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336660911,
-    "wof:lastmodified":1448997908,
+    "wof:lastmodified":1466327203,
     "wof:name":"Paul Davis Restoration",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-112.007006,33.405422,-112.007006,33.405422],
+  "bbox": [
+    -112.007006,
+    33.405422,
+    -112.007006,
+    33.405422
+],
   "geometry": {"coordinates":[-112.007006,33.405422],"type":"Point"}
 }

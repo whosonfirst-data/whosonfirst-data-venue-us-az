@@ -2,13 +2,14 @@
   "id": 353404775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.952756,33.414652,-111.952756,33.414652",
     "geom:latitude":33.414652,
     "geom:longitude":-111.952756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 W 13th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353404775,
-    "wof:lastmodified":1449019941,
+    "wof:lastmodified":1466326293,
     "wof:name":"Switchblade Sound",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-111.952756,33.414652,-111.952756,33.414652],
-  "geometry": {"coordinates":[-111.952756,33.414652],"type":"Point"}
+  "bbox": [
+    -111.952756,
+    33.414652,
+    -111.952756,
+    33.414652
+],
+  "geometry": {"coordinates":[-111.95275599999999,33.414652],"type":"Point"}
 }

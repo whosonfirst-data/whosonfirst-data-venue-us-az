@@ -2,13 +2,14 @@
   "id": 353829973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.944899,32.170466,-110.944899,32.170466",
     "geom:latitude":32.170466,
     "geom:longitude":-110.944899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1781 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":353829973,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466330619,
     "wof:name":"ARS/Rescue Rooter of Tucson",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-110.944899,32.170466,-110.944899,32.170466],
-  "geometry": {"coordinates":[-110.944899,32.170466],"type":"Point"}
+  "bbox": [
+    -110.944899,
+    32.170466,
+    -110.944899,
+    32.170466
+],
+  "geometry": {"coordinates":[-110.94489900000001,32.170466],"type":"Point"}
 }

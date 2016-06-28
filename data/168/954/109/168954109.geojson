@@ -2,13 +2,14 @@
   "id": 168954109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.87308,32.250752,-110.87308,32.250752",
     "geom:latitude":32.250752,
     "geom:longitude":-110.87308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.equallyyoked.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168954109,
-    "wof:lastmodified":1449028490,
+    "wof:lastmodified":1466330859,
     "wof:name":"Equally Yoked Christian Single",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.87308,32.250752,-110.87308,32.250752],
+  "bbox": [
+    -110.87308,
+    32.250752,
+    -110.87308,
+    32.250752
+],
   "geometry": {"coordinates":[-110.87308,32.250752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169376669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.910142,32.46578,-110.910142,32.46578",
     "geom:latitude":32.46578,
     "geom:longitude":-110.910142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14340 N Bowman Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169376669,
-    "wof:lastmodified":1449033815,
+    "wof:lastmodified":1466333761,
     "wof:name":"Opening The Way Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.910142,32.46578,-110.910142,32.46578],
-  "geometry": {"coordinates":[-110.910142,32.46578],"type":"Point"}
+  "bbox": [
+    -110.910142,
+    32.46578,
+    -110.910142,
+    32.46578
+],
+  "geometry": {"coordinates":[-110.91014199999999,32.46578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168903299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971964,32.216476,-110.971964,32.216476",
     "geom:latitude":32.216476,
     "geom:longitude":-110.971964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Convent Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871733,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168903299,
-    "wof:lastmodified":1449027814,
+    "wof:lastmodified":1466329691,
     "wof:name":"Raven & Awerkamp",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971964,32.216476,-110.971964,32.216476],
+  "bbox": [
+    -110.971964,
+    32.216476,
+    -110.971964,
+    32.216476
+],
   "geometry": {"coordinates":[-110.971964,32.216476],"type":"Point"}
 }

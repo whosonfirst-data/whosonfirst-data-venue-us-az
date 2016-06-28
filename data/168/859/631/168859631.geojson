@@ -2,13 +2,14 @@
   "id": 168859631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.263987,33.508851,-112.263987,33.508851",
     "geom:latitude":33.508851,
     "geom:longitude":-112.263987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 N 95th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -34,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877835,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719,
-        85856669,
-        85917479
+        85877835,
+        85917479,
+        85856669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +68,20 @@
         }
     ],
     "wof:id":168859631,
-    "wof:lastmodified":1449028324,
+    "wof:lastmodified":1466326549,
     "wof:name":"Crown Mailing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.263987,33.508851,-112.263987,33.508851],
+  "bbox": [
+    -112.263987,
+    33.508851,
+    -112.263987,
+    33.508851
+],
   "geometry": {"coordinates":[-112.263987,33.508851],"type":"Point"}
 }

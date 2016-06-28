@@ -2,13 +2,14 @@
   "id": 169317417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.51992,33.388752,-111.51992,33.388752",
     "geom:latitude":33.388752,
     "geom:longitude":-111.51992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 S Cortez Rd",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169317417,
-    "wof:lastmodified":1449034178,
+    "wof:lastmodified":1466333141,
     "wof:name":"Saguaro Canyon Village",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.51992,33.388752,-111.51992,33.388752],
+  "bbox": [
+    -111.51992,
+    33.388752,
+    -111.51992,
+    33.388752
+],
   "geometry": {"coordinates":[-111.51992,33.388752],"type":"Point"}
 }

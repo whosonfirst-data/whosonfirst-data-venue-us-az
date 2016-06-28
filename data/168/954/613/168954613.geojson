@@ -2,13 +2,14 @@
   "id": 168954613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.480416,34.53908,-112.480416,34.53908",
     "geom:latitude":34.53908,
     "geom:longitude":-112.480416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 High St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":168954613,
-    "wof:lastmodified":1449028490,
+    "wof:lastmodified":1466331035,
     "wof:name":"Stiletto Industries",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.480416,34.53908,-112.480416,34.53908],
-  "geometry": {"coordinates":[-112.480416,34.53908],"type":"Point"}
+  "bbox": [
+    -112.480416,
+    34.53908,
+    -112.480416,
+    34.53908
+],
+  "geometry": {"coordinates":[-112.48041600000001,34.53908],"type":"Point"}
 }

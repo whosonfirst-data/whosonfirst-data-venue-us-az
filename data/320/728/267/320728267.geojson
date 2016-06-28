@@ -2,13 +2,14 @@
   "id": 320728267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026476,33.509377,-112.026476,33.509377",
     "geom:latitude":33.509377,
     "geom:longitude":-112.026476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 E Camelback Rd Suite #140",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320728267,
-    "wof:lastmodified":1449012137,
+    "wof:lastmodified":1466328724,
     "wof:name":"Charles Schwab",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "management"
     ]
 },
-  "bbox": [-112.026476,33.509377,-112.026476,33.509377],
+  "bbox": [
+    -112.026476,
+    33.509377,
+    -112.026476,
+    33.509377
+],
   "geometry": {"coordinates":[-112.026476,33.509377],"type":"Point"}
 }

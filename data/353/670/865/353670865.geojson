@@ -2,13 +2,14 @@
   "id": 353670865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.227263,33.561915,-112.227263,33.561915",
     "geom:latitude":33.561915,
     "geom:longitude":-112.227263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8642 N 78th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353670865,
-    "wof:lastmodified":1449018637,
+    "wof:lastmodified":1466329536,
     "wof:name":"Allegro Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.227263,33.561915,-112.227263,33.561915],
-  "geometry": {"coordinates":[-112.227263,33.561915],"type":"Point"}
+  "bbox": [
+    -112.227263,
+    33.561915,
+    -112.227263,
+    33.561915
+],
+  "geometry": {"coordinates":[-112.22726299999999,33.561915],"type":"Point"}
 }

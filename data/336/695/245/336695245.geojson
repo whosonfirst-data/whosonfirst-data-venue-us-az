@@ -2,13 +2,14 @@
   "id": 336695245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991999,33.336231,-111.991999,33.336231",
     "geom:latitude":33.336231,
     "geom:longitude":-111.991999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 E Sequoia Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336695245,
-    "wof:lastmodified":1448997351,
+    "wof:lastmodified":1466328211,
     "wof:name":"Carpet Remnant Station",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.991999,33.336231,-111.991999,33.336231],
-  "geometry": {"coordinates":[-111.991999,33.336231],"type":"Point"}
+  "bbox": [
+    -111.991999,
+    33.336231,
+    -111.991999,
+    33.336231
+],
+  "geometry": {"coordinates":[-111.99199900000001,33.336231],"type":"Point"}
 }

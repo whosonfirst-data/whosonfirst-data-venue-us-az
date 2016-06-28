@@ -2,13 +2,14 @@
   "id": 336603499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02433,33.640469,-112.02433,33.640469",
     "geom:latitude":33.640469,
     "geom:longitude":-112.02433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336603499,
-    "wof:lastmodified":1448997868,
+    "wof:lastmodified":1466326033,
     "wof:name":"Uncle Milty's Auto Sales",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-112.02433,33.640469,-112.02433,33.640469],
-  "geometry": {"coordinates":[-112.02433,33.640469],"type":"Point"}
+  "bbox": [
+    -112.02433,
+    33.640469,
+    -112.02433,
+    33.640469
+],
+  "geometry": {"coordinates":[-112.02433000000001,33.640469],"type":"Point"}
 }

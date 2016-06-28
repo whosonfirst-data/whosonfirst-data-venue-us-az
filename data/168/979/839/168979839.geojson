@@ -2,13 +2,14 @@
   "id": 168979839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.587002,35.22615,-111.587002,35.22615",
     "geom:latitude":35.22615,
     "geom:longitude":-111.587002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 E el Paso Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":168979839,
-    "wof:lastmodified":1449028321,
+    "wof:lastmodified":1466331478,
     "wof:name":"El Paso Natural Gas Company",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.587002,35.22615,-111.587002,35.22615],
+  "bbox": [
+    -111.587002,
+    35.22615,
+    -111.587002,
+    35.22615
+],
   "geometry": {"coordinates":[-111.587002,35.22615],"type":"Point"}
 }

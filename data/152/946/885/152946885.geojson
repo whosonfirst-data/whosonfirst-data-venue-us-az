@@ -2,13 +2,14 @@
   "id": 152946885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.782309,32.300404,-110.782309,32.300404",
     "geom:latitude":32.300404,
     "geom:longitude":-110.782309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5071 N Pinnacle Cove Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152946885,
-    "wof:lastmodified":1449048367,
+    "wof:lastmodified":1466327161,
     "wof:name":"Arizona Arts",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.782309,32.300404,-110.782309,32.300404],
+  "bbox": [
+    -110.782309,
+    32.300404,
+    -110.782309,
+    32.300404
+],
   "geometry": {"coordinates":[-110.782309,32.300404],"type":"Point"}
 }

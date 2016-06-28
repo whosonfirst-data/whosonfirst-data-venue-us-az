@@ -2,13 +2,14 @@
   "id": 153085147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.955142,35.267438,-113.955142,35.267438",
     "geom:latitude":35.267438,
     "geom:longitude":-113.955142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Mohave Airport Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153085147,
-    "wof:lastmodified":1449040459,
+    "wof:lastmodified":1466329035,
     "wof:name":"Air Treads",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.955142,35.267438,-113.955142,35.267438],
+  "bbox": [
+    -113.955142,
+    35.267438,
+    -113.955142,
+    35.267438
+],
   "geometry": {"coordinates":[-113.955142,35.267438],"type":"Point"}
 }

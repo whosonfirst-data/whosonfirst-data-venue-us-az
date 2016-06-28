@@ -2,13 +2,14 @@
   "id": 169132603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.236594,35.203284,-114.236594,35.203284",
     "geom:latitude":35.203284,
     "geom:longitude":-114.236594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"886 Lynn Ln",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169132603,
-    "wof:lastmodified":1449034296,
+    "wof:lastmodified":1466331541,
     "wof:name":"J & A Concrete",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.236594,35.203284,-114.236594,35.203284],
+  "bbox": [
+    -114.236594,
+    35.203284,
+    -114.236594,
+    35.203284
+],
   "geometry": {"coordinates":[-114.236594,35.203284],"type":"Point"}
 }

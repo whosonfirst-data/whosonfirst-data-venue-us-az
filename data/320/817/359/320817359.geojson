@@ -2,13 +2,14 @@
   "id": 320817359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117241,33.665095,-112.117241,33.665095",
     "geom:latitude":33.665095,
     "geom:longitude":-112.117241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19646 N 27th Ave Ste 205",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320817359,
-    "wof:lastmodified":1449014233,
+    "wof:lastmodified":1466330053,
     "wof:name":"John C. Lincoln Breast Health Center",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-112.117241,33.665095,-112.117241,33.665095],
-  "geometry": {"coordinates":[-112.117241,33.665095],"type":"Point"}
+  "bbox": [
+    -112.117241,
+    33.665095,
+    -112.117241,
+    33.665095
+],
+  "geometry": {"coordinates":[-112.11724100000001,33.665095],"type":"Point"}
 }

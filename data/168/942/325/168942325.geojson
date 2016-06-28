@@ -2,13 +2,14 @@
   "id": 168942325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.809763,33.391672,-111.809763,33.391672",
     "geom:latitude":33.391672,
     "geom:longitude":-111.809763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 S Solomon",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168942325,
-    "wof:lastmodified":1449028130,
+    "wof:lastmodified":1466330630,
     "wof:name":"Cristo El Salvador Assembly",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.809763,33.391672,-111.809763,33.391672],
+  "bbox": [
+    -111.809763,
+    33.391672,
+    -111.809763,
+    33.391672
+],
   "geometry": {"coordinates":[-111.809763,33.391672],"type":"Point"}
 }

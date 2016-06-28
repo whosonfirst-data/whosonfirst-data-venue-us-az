@@ -2,13 +2,14 @@
   "id": 169222515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223588,33.540827,-112.223588,33.540827",
     "geom:latitude":33.540827,
     "geom:longitude":-112.223588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7145 N 76th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169222515,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466332277,
     "wof:name":"Fencing By SK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223588,33.540827,-112.223588,33.540827],
-  "geometry": {"coordinates":[-112.223588,33.540827],"type":"Point"}
+  "bbox": [
+    -112.223588,
+    33.540827,
+    -112.223588,
+    33.540827
+],
+  "geometry": {"coordinates":[-112.22358800000001,33.540827],"type":"Point"}
 }

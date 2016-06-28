@@ -2,13 +2,14 @@
   "id": 169240981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968308,33.300722,-111.968308,33.300722",
     "geom:latitude":33.300722,
     "geom:longitude":-111.968308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7306 W Chicago St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876697,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169240981,
-    "wof:lastmodified":1449033018,
+    "wof:lastmodified":1466332378,
     "wof:name":"Amerifirst Financial Inc",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.968308,33.300722,-111.968308,33.300722],
-  "geometry": {"coordinates":[-111.968308,33.300722],"type":"Point"}
+  "bbox": [
+    -111.968308,
+    33.300722,
+    -111.968308,
+    33.300722
+],
+  "geometry": {"coordinates":[-111.96830799999999,33.300722],"type":"Point"}
 }

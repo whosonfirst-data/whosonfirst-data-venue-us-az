@@ -2,13 +2,14 @@
   "id": 320664569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105365,33.441319,-112.105365,33.441319",
     "geom:latitude":33.441319,
     "geom:longitude":-112.105365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 W Grant St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320664569,
-    "wof:lastmodified":1449012663,
+    "wof:lastmodified":1466327380,
     "wof:name":"Do Iaz",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "distributor"
     ]
 },
-  "bbox": [-112.105365,33.441319,-112.105365,33.441319],
-  "geometry": {"coordinates":[-112.105365,33.441319],"type":"Point"}
+  "bbox": [
+    -112.105365,
+    33.441319,
+    -112.105365,
+    33.441319
+],
+  "geometry": {"coordinates":[-112.10536500000001,33.441319],"type":"Point"}
 }

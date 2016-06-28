@@ -2,13 +2,14 @@
   "id": 168924081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.666536,33.37229,-111.666536,33.37229",
     "geom:latitude":33.37229,
     "geom:longitude":-111.666536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2444 S Buttercup",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872437,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168924081,
-    "wof:lastmodified":1449027976,
+    "wof:lastmodified":1466330281,
     "wof:name":"Lane Slo Antiques",
     "wof:parent_id":85872437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.666536,33.37229,-111.666536,33.37229],
-  "geometry": {"coordinates":[-111.666536,33.37229],"type":"Point"}
+  "bbox": [
+    -111.666536,
+    33.37229,
+    -111.666536,
+    33.37229
+],
+  "geometry": {"coordinates":[-111.66653599999999,33.37229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169310993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.923672,32.181341,-110.923672,32.181341",
     "geom:latitude":32.181341,
     "geom:longitude":-110.923672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 E 46th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169310993,
-    "wof:lastmodified":1449034718,
+    "wof:lastmodified":1466333138,
     "wof:name":"DANMAR DIV",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.923672,32.181341,-110.923672,32.181341],
+  "bbox": [
+    -110.923672,
+    32.181341,
+    -110.923672,
+    32.181341
+],
   "geometry": {"coordinates":[-110.923672,32.181341],"type":"Point"}
 }

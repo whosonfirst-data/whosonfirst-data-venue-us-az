@@ -2,13 +2,14 @@
   "id": 320697491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04913,33.535188,-112.04913,33.535188",
     "geom:latitude":33.535188,
     "geom:longitude":-112.04913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6748 N 15th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320697491,
-    "wof:lastmodified":1449013608,
+    "wof:lastmodified":1466328031,
     "wof:name":"Carrie Smalanskas Court",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealers-wholesale"
     ]
 },
-  "bbox": [-112.04913,33.535188,-112.04913,33.535188],
-  "geometry": {"coordinates":[-112.04913,33.535188],"type":"Point"}
+  "bbox": [
+    -112.04913,
+    33.535188,
+    -112.04913,
+    33.535188
+],
+  "geometry": {"coordinates":[-112.04913000000001,33.535188],"type":"Point"}
 }

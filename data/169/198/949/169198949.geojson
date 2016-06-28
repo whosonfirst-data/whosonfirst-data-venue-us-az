@@ -2,13 +2,14 @@
   "id": 169198949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.914849,32.20692,-110.914849,32.20692",
     "geom:latitude":32.20692,
     "geom:longitude":-110.914849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3566 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169198949,
-    "wof:lastmodified":1449033887,
+    "wof:lastmodified":1466332306,
     "wof:name":"Kino AC & Htg LLC",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.914849,32.20692,-110.914849,32.20692],
+  "bbox": [
+    -110.914849,
+    32.20692,
+    -110.914849,
+    32.20692
+],
   "geometry": {"coordinates":[-110.914849,32.20692],"type":"Point"}
 }

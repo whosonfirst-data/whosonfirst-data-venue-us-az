@@ -2,13 +2,14 @@
   "id": 169385633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.924604,33.823539,-111.924604,33.823539",
     "geom:latitude":33.823539,
     "geom:longitude":-111.924604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37217 N Tom Darlington Dr",
     "sg:city":"Carefree",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169385633,
-    "wof:lastmodified":1449034652,
+    "wof:lastmodified":1466333821,
     "wof:name":"Bank Of America",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.924604,33.823539,-111.924604,33.823539],
+  "bbox": [
+    -111.924604,
+    33.823539,
+    -111.924604,
+    33.823539
+],
   "geometry": {"coordinates":[-111.924604,33.823539],"type":"Point"}
 }

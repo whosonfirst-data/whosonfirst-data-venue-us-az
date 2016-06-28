@@ -2,13 +2,14 @@
   "id": 169368149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.132827,33.474351,-112.132827,33.474351",
     "geom:latitude":33.474351,
     "geom:longitude":-112.132827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2339 N 34th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.wirerope.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169368149,
-    "wof:lastmodified":1449033446,
+    "wof:lastmodified":1466333690,
     "wof:name":"Arizona Wire Rope & Rigging",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.132827,33.474351,-112.132827,33.474351],
-  "geometry": {"coordinates":[-112.132827,33.474351],"type":"Point"}
+  "bbox": [
+    -112.132827,
+    33.474351,
+    -112.132827,
+    33.474351
+],
+  "geometry": {"coordinates":[-112.13282700000001,33.474351],"type":"Point"}
 }

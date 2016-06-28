@@ -2,13 +2,14 @@
   "id": 169260865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.13816,33.442382,-112.13816,33.442382",
     "geom:latitude":33.442382,
     "geom:longitude":-112.13816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3540 W Lincoln St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.informationoutsource.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169260865,
-    "wof:lastmodified":1449033247,
+    "wof:lastmodified":1466332447,
     "wof:name":"Information Outsource",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.13816,33.442382,-112.13816,33.442382],
+  "bbox": [
+    -112.13816,
+    33.442382,
+    -112.13816,
+    33.442382
+],
   "geometry": {"coordinates":[-112.13816,33.442382],"type":"Point"}
 }

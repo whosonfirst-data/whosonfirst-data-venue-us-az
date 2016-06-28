@@ -2,13 +2,14 @@
   "id": 320751673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006706,33.531929,-112.006706,33.531929",
     "geom:latitude":33.531929,
     "geom:longitude":-112.006706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 E Lincoln Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320751673,
-    "wof:lastmodified":1449011458,
+    "wof:lastmodified":1466328900,
     "wof:name":"Lincoln Hills Guard House",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trade"
     ]
 },
-  "bbox": [-112.006706,33.531929,-112.006706,33.531929],
-  "geometry": {"coordinates":[-112.006706,33.531929],"type":"Point"}
+  "bbox": [
+    -112.006706,
+    33.531929,
+    -112.006706,
+    33.531929
+],
+  "geometry": {"coordinates":[-112.00670599999999,33.531929],"type":"Point"}
 }

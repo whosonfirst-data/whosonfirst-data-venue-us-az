@@ -2,13 +2,14 @@
   "id": 320671385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073806,33.493895,-112.073806,33.493895",
     "geom:latitude":33.493895,
     "geom:longitude":-112.073806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 N Central Ave Blg 2, # 2150",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -116,10 +117,11 @@
         }
     ],
     "wof:id":320671385,
-    "wof:lastmodified":1449012126,
+    "wof:lastmodified":1466327560,
     "wof:name":"AT&T Advertising Solutions",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -150,6 +152,11 @@
         "interactive"
     ]
 },
-  "bbox": [-112.073806,33.493895,-112.073806,33.493895],
+  "bbox": [
+    -112.073806,
+    33.493895,
+    -112.073806,
+    33.493895
+],
   "geometry": {"coordinates":[-112.073806,33.493895],"type":"Point"}
 }

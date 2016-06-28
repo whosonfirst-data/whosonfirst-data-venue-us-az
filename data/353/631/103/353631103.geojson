@@ -2,13 +2,14 @@
   "id": 353631103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.584221,33.379398,-112.584221,33.379398",
     "geom:latitude":33.379398,
     "geom:longitude":-112.584221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Baseline Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353631103,
-    "wof:lastmodified":1449019050,
+    "wof:lastmodified":1466328904,
     "wof:name":"Chair Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chair"
     ]
 },
-  "bbox": [-112.584221,33.379398,-112.584221,33.379398],
+  "bbox": [
+    -112.584221,
+    33.379398,
+    -112.584221,
+    33.379398
+],
   "geometry": {"coordinates":[-112.584221,33.379398],"type":"Point"}
 }

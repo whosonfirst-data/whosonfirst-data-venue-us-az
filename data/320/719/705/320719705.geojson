@@ -2,13 +2,14 @@
   "id": 320719705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035609,33.480682,-112.035609,33.480682",
     "geom:latitude":33.480682,
     "geom:longitude":-112.035609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 N Greenfield Rd Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320719705,
-    "wof:lastmodified":1449011735,
+    "wof:lastmodified":1466328604,
     "wof:name":"Loma Linda Gardens",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.035609,33.480682,-112.035609,33.480682],
-  "geometry": {"coordinates":[-112.035609,33.480682],"type":"Point"}
+  "bbox": [
+    -112.035609,
+    33.480682,
+    -112.035609,
+    33.480682
+],
+  "geometry": {"coordinates":[-112.03560899999999,33.480682],"type":"Point"}
 }

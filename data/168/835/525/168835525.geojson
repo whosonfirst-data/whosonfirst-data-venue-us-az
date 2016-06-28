@@ -2,13 +2,14 @@
   "id": 168835525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885978,33.617322,-111.885978,33.617322",
     "geom:latitude":33.617322,
     "geom:longitude":-111.885978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9136 E Winchcomb Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.insightproductions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168835525,
-    "wof:lastmodified":1449027883,
+    "wof:lastmodified":1466326504,
     "wof:name":"Insight Productions Corp",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885978,33.617322,-111.885978,33.617322],
-  "geometry": {"coordinates":[-111.885978,33.617322],"type":"Point"}
+  "bbox": [
+    -111.885978,
+    33.617322,
+    -111.885978,
+    33.617322
+],
+  "geometry": {"coordinates":[-111.88597799999999,33.617322],"type":"Point"}
 }

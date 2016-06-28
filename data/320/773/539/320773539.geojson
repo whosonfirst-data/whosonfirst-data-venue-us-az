@@ -2,13 +2,14 @@
   "id": 320773539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.048059,33.538231,-112.048059,33.538231",
     "geom:latitude":33.538231,
     "geom:longitude":-112.048059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 E Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320773539,
-    "wof:lastmodified":1449011726,
+    "wof:lastmodified":1466329474,
     "wof:name":"Sanchez, Clark - State Farm Insurance Agent",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "business"
     ]
 },
-  "bbox": [-112.048059,33.538231,-112.048059,33.538231],
-  "geometry": {"coordinates":[-112.048059,33.538231],"type":"Point"}
+  "bbox": [
+    -112.048059,
+    33.538231,
+    -112.048059,
+    33.538231
+],
+  "geometry": {"coordinates":[-112.04805899999999,33.538231],"type":"Point"}
 }

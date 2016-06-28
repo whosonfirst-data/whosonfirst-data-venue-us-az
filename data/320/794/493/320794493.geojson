@@ -2,13 +2,14 @@
   "id": 320794493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039177,33.61357,-112.039177,33.61357",
     "geom:latitude":33.61357,
     "geom:longitude":-112.039177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 E Sheena Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320794493,
-    "wof:lastmodified":1449013054,
+    "wof:lastmodified":1466329875,
     "wof:name":"Hlth Ins Of Az",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-112.039177,33.61357,-112.039177,33.61357],
+  "bbox": [
+    -112.039177,
+    33.61357,
+    -112.039177,
+    33.61357
+],
   "geometry": {"coordinates":[-112.039177,33.61357],"type":"Point"}
 }

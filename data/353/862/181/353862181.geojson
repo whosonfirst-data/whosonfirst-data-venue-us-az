@@ -2,13 +2,14 @@
   "id": 353862181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.950595,32.071108,-110.950595,32.071108",
     "geom:latitude":32.071108,
     "geom:longitude":-110.950595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9960 S Creeger Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353862181,
-    "wof:lastmodified":1449020879,
+    "wof:lastmodified":1466330879,
     "wof:name":"Anderson Acres",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bamboo"
     ]
 },
-  "bbox": [-110.950595,32.071108,-110.950595,32.071108],
-  "geometry": {"coordinates":[-110.950595,32.071108],"type":"Point"}
+  "bbox": [
+    -110.950595,
+    32.071108,
+    -110.950595,
+    32.071108
+],
+  "geometry": {"coordinates":[-110.95059500000001,32.071108],"type":"Point"}
 }

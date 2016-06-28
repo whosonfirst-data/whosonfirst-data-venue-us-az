@@ -2,13 +2,14 @@
   "id": 353733945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220745,33.605423,-112.220745,33.605423",
     "geom:latitude":33.605423,
     "geom:longitude":-112.220745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13263 N 75th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353733945,
-    "wof:lastmodified":1449018604,
+    "wof:lastmodified":1466330005,
     "wof:name":"Waste Tire Haulers Of Az",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.220745,33.605423,-112.220745,33.605423],
-  "geometry": {"coordinates":[-112.220745,33.605423],"type":"Point"}
+  "bbox": [
+    -112.220745,
+    33.605423,
+    -112.220745,
+    33.605423
+],
+  "geometry": {"coordinates":[-112.22074499999999,33.605423],"type":"Point"}
 }

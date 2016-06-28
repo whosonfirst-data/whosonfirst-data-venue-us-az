@@ -2,13 +2,14 @@
   "id": 169290661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.355147,34.588905,-112.355147,34.588905",
     "geom:latitude":34.588905,
     "geom:longitude":-112.355147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6282 E Lord Cir",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169290661,
-    "wof:lastmodified":1449034092,
+    "wof:lastmodified":1466332924,
     "wof:name":"Vjs Plumbing Contracts Inc",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.355147,34.588905,-112.355147,34.588905],
+  "bbox": [
+    -112.355147,
+    34.588905,
+    -112.355147,
+    34.588905
+],
   "geometry": {"coordinates":[-112.355147,34.588905],"type":"Point"}
 }

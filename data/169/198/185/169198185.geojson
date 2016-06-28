@@ -2,13 +2,14 @@
   "id": 169198185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.194689,33.538526,-112.194689,33.538526",
     "geom:latitude":33.538526,
     "geom:longitude":-112.194689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.guhsdaz.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877805,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169198185,
-    "wof:lastmodified":1449033886,
+    "wof:lastmodified":1466332112,
     "wof:name":"Glendale High School",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.194689,33.538526,-112.194689,33.538526],
+  "bbox": [
+    -112.194689,
+    33.538526,
+    -112.194689,
+    33.538526
+],
   "geometry": {"coordinates":[-112.194689,33.538526],"type":"Point"}
 }

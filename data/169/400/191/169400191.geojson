@@ -2,13 +2,14 @@
   "id": 169400191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213428,33.545329,-112.213428,33.545329",
     "geom:latitude":33.545329,
     "geom:longitude":-112.213428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 W Orangewood Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169400191,
-    "wof:lastmodified":1449032991,
+    "wof:lastmodified":1466333945,
     "wof:name":"Glendale Kingdom Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.213428,33.545329,-112.213428,33.545329],
-  "geometry": {"coordinates":[-112.213428,33.545329],"type":"Point"}
+  "bbox": [
+    -112.213428,
+    33.545329,
+    -112.213428,
+    33.545329
+],
+  "geometry": {"coordinates":[-112.21342799999999,33.545329],"type":"Point"}
 }

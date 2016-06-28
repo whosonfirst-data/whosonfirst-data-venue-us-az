@@ -2,13 +2,14 @@
   "id": 168962095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109609,33.795698,-112.109609,33.795698",
     "geom:latitude":33.795698,
     "geom:longitude":-112.109609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 W Night Owl Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168962095,
-    "wof:lastmodified":1449028234,
+    "wof:lastmodified":1466331138,
     "wof:name":"Efficient Computer Solutions",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.109609,33.795698,-112.109609,33.795698],
-  "geometry": {"coordinates":[-112.109609,33.795698],"type":"Point"}
+  "bbox": [
+    -112.109609,
+    33.795698,
+    -112.109609,
+    33.795698
+],
+  "geometry": {"coordinates":[-112.10960900000001,33.795698],"type":"Point"}
 }

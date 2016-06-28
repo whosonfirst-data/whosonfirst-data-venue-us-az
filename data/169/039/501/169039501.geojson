@@ -2,13 +2,14 @@
   "id": 169039501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.466078,34.773473,-112.466078,34.773473",
     "geom:latitude":34.773473,
     "geom:longitude":-112.466078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 W Palomino Rd",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.chinoaz.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169039501,
-    "wof:lastmodified":1449035544,
+    "wof:lastmodified":1466327705,
     "wof:name":"Chino Valley Recreation Dept",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.466078,34.773473,-112.466078,34.773473],
+  "bbox": [
+    -112.466078,
+    34.773473,
+    -112.466078,
+    34.773473
+],
   "geometry": {"coordinates":[-112.466078,34.773473],"type":"Point"}
 }

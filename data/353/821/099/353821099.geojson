@@ -2,13 +2,14 @@
   "id": 353821099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.881152,32.220512,-110.881152,32.220512",
     "geom:latitude":32.220512,
     "geom:longitude":-110.881152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5255 E Williams Cir Ste 6800",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353821099,
-    "wof:lastmodified":1449019652,
+    "wof:lastmodified":1466330440,
     "wof:name":"Office Team",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.881152,32.220512,-110.881152,32.220512],
+  "bbox": [
+    -110.881152,
+    32.220512,
+    -110.881152,
+    32.220512
+],
   "geometry": {"coordinates":[-110.881152,32.220512],"type":"Point"}
 }

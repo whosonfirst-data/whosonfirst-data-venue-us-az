@@ -2,13 +2,14 @@
   "id": 169131981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036092,33.538429,-112.036092,33.538429",
     "geom:latitude":33.538429,
     "geom:longitude":-112.036092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 E Lincoln Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.chabadaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169131981,
-    "wof:lastmodified":1449033682,
+    "wof:lastmodified":1466331636,
     "wof:name":"Chabad-Lubavitch Ctr",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036092,33.538429,-112.036092,33.538429],
+  "bbox": [
+    -112.036092,
+    33.538429,
+    -112.036092,
+    33.538429
+],
   "geometry": {"coordinates":[-112.036092,33.538429],"type":"Point"}
 }

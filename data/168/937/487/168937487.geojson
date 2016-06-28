@@ -2,13 +2,14 @@
   "id": 168937487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909254,32.250692,-110.909254,32.250692",
     "geom:latitude":32.250692,
     "geom:longitude":-110.909254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3995 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871719,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168937487,
-    "wof:lastmodified":1449027919,
+    "wof:lastmodified":1466330590,
     "wof:name":"Presidio Appraisal Services",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909254,32.250692,-110.909254,32.250692],
+  "bbox": [
+    -110.909254,
+    32.250692,
+    -110.909254,
+    32.250692
+],
   "geometry": {"coordinates":[-110.909254,32.250692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353824955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857986,32.241909,-110.857986,32.241909",
     "geom:latitude":32.241909,
     "geom:longitude":-110.857986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 N Wilmot Rd Ste 104D",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353824955,
-    "wof:lastmodified":1449019158,
+    "wof:lastmodified":1466330552,
     "wof:name":"Advisa Care",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurse"
     ]
 },
-  "bbox": [-110.857986,32.241909,-110.857986,32.241909],
+  "bbox": [
+    -110.857986,
+    32.241909,
+    -110.857986,
+    32.241909
+],
   "geometry": {"coordinates":[-110.857986,32.241909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320779853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05821,33.576729,-112.05821,33.576729",
     "geom:latitude":33.576729,
     "geom:longitude":-112.05821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Cinnabar Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":320779853,
-    "wof:lastmodified":1449011825,
+    "wof:lastmodified":1466329602,
     "wof:name":"Superior Pool Construction",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-112.05821,33.576729,-112.05821,33.576729],
+  "bbox": [
+    -112.05821,
+    33.576729,
+    -112.05821,
+    33.576729
+],
   "geometry": {"coordinates":[-112.05821,33.576729],"type":"Point"}
 }

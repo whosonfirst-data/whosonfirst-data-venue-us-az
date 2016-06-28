@@ -2,13 +2,14 @@
   "id": 153033935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.135294,33.855522,-112.135294,33.855522",
     "geom:latitude":33.855522,
     "geom:longitude":-112.135294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40948 N Courage Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153033935,
-    "wof:lastmodified":1449040434,
+    "wof:lastmodified":1466326048,
     "wof:name":"Richard G Cober III",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.135294,33.855522,-112.135294,33.855522],
+  "bbox": [
+    -112.135294,
+    33.855522,
+    -112.135294,
+    33.855522
+],
   "geometry": {"coordinates":[-112.135294,33.855522],"type":"Point"}
 }

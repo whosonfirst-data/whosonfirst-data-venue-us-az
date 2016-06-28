@@ -2,13 +2,14 @@
   "id": 169301041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.300716,33.604324,-112.300716,33.604324",
     "geom:latitude":33.604324,
     "geom:longitude":-112.300716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11234 W Michigan Ave",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169301041,
-    "wof:lastmodified":1449033532,
+    "wof:lastmodified":1466333005,
     "wof:name":"Gas Traffic Survival School",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.300716,33.604324,-112.300716,33.604324],
-  "geometry": {"coordinates":[-112.300716,33.604324],"type":"Point"}
+  "bbox": [
+    -112.300716,
+    33.604324,
+    -112.300716,
+    33.604324
+],
+  "geometry": {"coordinates":[-112.30071599999999,33.604324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169351311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.153549,33.567432,-112.153549,33.567432",
     "geom:latitude":33.567432,
     "geom:longitude":-112.153549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 W Olive Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877825,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85877825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169351311,
-    "wof:lastmodified":1449035468,
+    "wof:lastmodified":1466333486,
     "wof:name":"Steritech Group Inc",
     "wof:parent_id":85877825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.153549,33.567432,-112.153549,33.567432],
+  "bbox": [
+    -112.153549,
+    33.567432,
+    -112.153549,
+    33.567432
+],
   "geometry": {"coordinates":[-112.153549,33.567432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320792303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071388,33.60442,-112.071388,33.60442",
     "geom:latitude":33.60442,
     "geom:longitude":-112.071388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13001 N 2nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320792303,
-    "wof:lastmodified":1449012055,
+    "wof:lastmodified":1466329572,
     "wof:name":"Markix",
     "wof:parent_id":85824655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artist"
     ]
 },
-  "bbox": [-112.071388,33.60442,-112.071388,33.60442],
+  "bbox": [
+    -112.071388,
+    33.60442,
+    -112.071388,
+    33.60442
+],
   "geometry": {"coordinates":[-112.071388,33.60442],"type":"Point"}
 }

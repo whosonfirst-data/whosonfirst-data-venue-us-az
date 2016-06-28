@@ -2,13 +2,14 @@
   "id": 169315481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.106492,33.68386,-112.106492,33.68386",
     "geom:latitude":33.68386,
     "geom:longitude":-112.106492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 W Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169315481,
-    "wof:lastmodified":1449035791,
+    "wof:lastmodified":1466333167,
     "wof:name":"Senor Taco",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.106492,33.68386,-112.106492,33.68386],
+  "bbox": [
+    -112.106492,
+    33.68386,
+    -112.106492,
+    33.68386
+],
   "geometry": {"coordinates":[-112.106492,33.68386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336602775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004562,33.59716,-112.004562,33.59716",
     "geom:latitude":33.59716,
     "geom:longitude":-112.004562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4835 E Cactus Rd Ste 415",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336602775,
-    "wof:lastmodified":1448997456,
+    "wof:lastmodified":1466326019,
     "wof:name":"Kevin Ebben",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-112.004562,33.59716,-112.004562,33.59716],
-  "geometry": {"coordinates":[-112.004562,33.59716],"type":"Point"}
+  "bbox": [
+    -112.004562,
+    33.59716,
+    -112.004562,
+    33.59716
+],
+  "geometry": {"coordinates":[-112.00456200000001,33.59716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336662651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033336,33.40984,-112.033336,33.40984",
     "geom:latitude":33.40984,
     "geom:longitude":-112.033336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E Jones Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336662651,
-    "wof:lastmodified":1448997653,
+    "wof:lastmodified":1466327246,
     "wof:name":"Oem Miller Supplies Inc",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.033336,33.40984,-112.033336,33.40984],
-  "geometry": {"coordinates":[-112.033336,33.40984],"type":"Point"}
+  "bbox": [
+    -112.033336,
+    33.40984,
+    -112.033336,
+    33.40984
+],
+  "geometry": {"coordinates":[-112.03333600000001,33.40984],"type":"Point"}
 }

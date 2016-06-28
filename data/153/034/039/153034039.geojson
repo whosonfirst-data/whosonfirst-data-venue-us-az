@@ -2,13 +2,14 @@
   "id": 153034039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.89261,32.232781,-110.89261,32.232781",
     "geom:latitude":32.232781,
     "geom:longitude":-110.89261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153034039,
-    "wof:lastmodified":1449040385,
+    "wof:lastmodified":1466326055,
     "wof:name":"Party Carousel",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.89261,32.232781,-110.89261,32.232781],
+  "bbox": [
+    -110.89261,
+    32.232781,
+    -110.89261,
+    32.232781
+],
   "geometry": {"coordinates":[-110.89261,32.232781],"type":"Point"}
 }

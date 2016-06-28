@@ -2,13 +2,14 @@
   "id": 320732839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047458,33.520085,-112.047458,33.520085",
     "geom:latitude":33.520085,
     "geom:longitude":-112.047458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 E Montebello Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320732839,
-    "wof:lastmodified":1449015078,
+    "wof:lastmodified":1466328542,
     "wof:name":"Hammercraft",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-112.047458,33.520085,-112.047458,33.520085],
-  "geometry": {"coordinates":[-112.047458,33.520085],"type":"Point"}
+  "bbox": [
+    -112.047458,
+    33.520085,
+    -112.047458,
+    33.520085
+],
+  "geometry": {"coordinates":[-112.04745800000001,33.520085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353749047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.731532,33.969955,-112.731532,33.969955",
     "geom:latitude":33.969955,
     "geom:longitude":-112.731532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 N Tegner St Ste A",
     "sg:city":"Wickenburg",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353749047,
-    "wof:lastmodified":1449019001,
+    "wof:lastmodified":1466330181,
     "wof:name":"Town Of Wickenburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "village"
     ]
 },
-  "bbox": [-112.731532,33.969955,-112.731532,33.969955],
+  "bbox": [
+    -112.731532,
+    33.969955,
+    -112.731532,
+    33.969955
+],
   "geometry": {"coordinates":[-112.731532,33.969955],"type":"Point"}
 }

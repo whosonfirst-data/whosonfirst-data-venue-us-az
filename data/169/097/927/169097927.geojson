@@ -2,13 +2,14 @@
   "id": 169097927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.618599,32.707369,-114.618599,32.707369",
     "geom:latitude":32.707369,
     "geom:longitude":-114.618599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 S Maple Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169097927,
-    "wof:lastmodified":1449033981,
+    "wof:lastmodified":1466331036,
     "wof:name":"Harvasting & Hauling",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.618599,32.707369,-114.618599,32.707369],
+  "bbox": [
+    -114.618599,
+    32.707369,
+    -114.618599,
+    32.707369
+],
   "geometry": {"coordinates":[-114.618599,32.707369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169366011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.474636,34.545704,-112.474636,34.545704",
     "geom:latitude":34.545704,
     "geom:longitude":-112.474636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Summit Ave",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169366011,
-    "wof:lastmodified":1449035088,
+    "wof:lastmodified":1466333573,
     "wof:name":"Take ME Home",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.474636,34.545704,-112.474636,34.545704],
+  "bbox": [
+    -112.474636,
+    34.545704,
+    -112.474636,
+    34.545704
+],
   "geometry": {"coordinates":[-112.474636,34.545704],"type":"Point"}
 }

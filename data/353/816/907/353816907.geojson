@@ -2,13 +2,14 @@
   "id": 353816907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.83239,32.208941,-110.83239,32.208941",
     "geom:latitude":32.208941,
     "geom:longitude":-110.83239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 S Prudence Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353816907,
-    "wof:lastmodified":1449019758,
+    "wof:lastmodified":1466330396,
     "wof:name":"U-Store-It",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "boat"
     ]
 },
-  "bbox": [-110.83239,32.208941,-110.83239,32.208941],
+  "bbox": [
+    -110.83239,
+    32.208941,
+    -110.83239,
+    32.208941
+],
   "geometry": {"coordinates":[-110.83239,32.208941],"type":"Point"}
 }

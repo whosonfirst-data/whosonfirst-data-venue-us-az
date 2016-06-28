@@ -2,13 +2,14 @@
   "id": 353822163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.878734,32.221563,-110.878734,32.221563",
     "geom:latitude":32.221563,
     "geom:longitude":-110.878734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353822163,
-    "wof:lastmodified":1449020700,
+    "wof:lastmodified":1466330536,
     "wof:name":"Fidelity Investments",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "stock"
     ]
 },
-  "bbox": [-110.878734,32.221563,-110.878734,32.221563],
-  "geometry": {"coordinates":[-110.878734,32.221563],"type":"Point"}
+  "bbox": [
+    -110.878734,
+    32.221563,
+    -110.878734,
+    32.221563
+],
+  "geometry": {"coordinates":[-110.87873399999999,32.221563],"type":"Point"}
 }

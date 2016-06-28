@@ -2,13 +2,14 @@
   "id": 353906053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.764254,34.788198,-111.764254,34.788198",
     "geom:latitude":34.788198,
     "geom:longitude":-111.764254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Bell Rock Plz",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353906053,
-    "wof:lastmodified":1449019229,
+    "wof:lastmodified":1466331184,
     "wof:name":"Cavanaugh Construction",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.764254,34.788198,-111.764254,34.788198],
-  "geometry": {"coordinates":[-111.764254,34.788198],"type":"Point"}
+  "bbox": [
+    -111.764254,
+    34.788198,
+    -111.764254,
+    34.788198
+],
+  "geometry": {"coordinates":[-111.76425399999999,34.788198],"type":"Point"}
 }

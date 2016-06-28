@@ -2,13 +2,14 @@
   "id": 168836599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.687801,33.448058,-111.687801,33.448058",
     "geom:latitude":33.448058,
     "geom:longitude":-111.687801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6621 E Inglewood St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840319,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719,
+        85840319,
         85808263
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":168836599,
-    "wof:lastmodified":1449028280,
+    "wof:lastmodified":1466326713,
     "wof:name":"A Safe Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.687801,33.448058,-111.687801,33.448058],
-  "geometry": {"coordinates":[-111.687801,33.448058],"type":"Point"}
+  "bbox": [
+    -111.687801,
+    33.448058,
+    -111.687801,
+    33.448058
+],
+  "geometry": {"coordinates":[-111.68780099999999,33.448058],"type":"Point"}
 }

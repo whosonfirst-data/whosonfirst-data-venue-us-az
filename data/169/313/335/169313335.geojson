@@ -2,13 +2,14 @@
   "id": 169313335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.93067,31.371652,-110.93067,31.371652",
     "geom:latitude":31.371652,
     "geom:longitude":-110.93067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Mayra Dr",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169313335,
-    "wof:lastmodified":1449032785,
+    "wof:lastmodified":1466333115,
     "wof:name":"Watson Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.93067,31.371652,-110.93067,31.371652],
-  "geometry": {"coordinates":[-110.93067,31.371652],"type":"Point"}
+  "bbox": [
+    -110.93067,
+    31.371652,
+    -110.93067,
+    31.371652
+],
+  "geometry": {"coordinates":[-110.93067000000001,31.371652],"type":"Point"}
 }

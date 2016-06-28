@@ -2,13 +2,14 @@
   "id": 169415133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.107424,33.587976,-112.107424,33.587976",
     "geom:latitude":33.587976,
     "geom:longitude":-112.107424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2224 W Shangri la Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.dctaylorco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169415133,
-    "wof:lastmodified":1449035057,
+    "wof:lastmodified":1466334160,
     "wof:name":"D C Taylor Co",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.107424,33.587976,-112.107424,33.587976],
-  "geometry": {"coordinates":[-112.107424,33.587976],"type":"Point"}
+  "bbox": [
+    -112.107424,
+    33.587976,
+    -112.107424,
+    33.587976
+],
+  "geometry": {"coordinates":[-112.10742399999999,33.587976],"type":"Point"}
 }

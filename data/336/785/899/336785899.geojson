@@ -2,13 +2,14 @@
   "id": 336785899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.811025,33.380725,-111.811025,33.380725",
     "geom:latitude":33.380725,
     "geom:longitude":-111.811025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 E Javelina Ave # 114",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336785899,
-    "wof:lastmodified":1448997849,
+    "wof:lastmodified":1466329226,
     "wof:name":"Full Circle Autowash",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.811025,33.380725,-111.811025,33.380725],
+  "bbox": [
+    -111.811025,
+    33.380725,
+    -111.811025,
+    33.380725
+],
   "geometry": {"coordinates":[-111.811025,33.380725],"type":"Point"}
 }

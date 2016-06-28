@@ -2,13 +2,14 @@
   "id": 353577101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.189254,33.567467,-112.189254,33.567467",
     "geom:latitude":33.567467,
     "geom:longitude":-112.189254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 W Olive Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353577101,
-    "wof:lastmodified":1449020890,
+    "wof:lastmodified":1466328262,
     "wof:name":"Cimarron Village Apartments",
     "wof:parent_id":85852007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.189254,33.567467,-112.189254,33.567467],
-  "geometry": {"coordinates":[-112.189254,33.567467],"type":"Point"}
+  "bbox": [
+    -112.189254,
+    33.567467,
+    -112.189254,
+    33.567467
+],
+  "geometry": {"coordinates":[-112.18925400000001,33.567467],"type":"Point"}
 }

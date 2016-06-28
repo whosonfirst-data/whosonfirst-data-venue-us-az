@@ -2,13 +2,14 @@
   "id": 320723437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036743,33.536751,-112.036743,33.536751",
     "geom:latitude":33.536751,
     "geom:longitude":-112.036743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 N 21st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320723437,
-    "wof:lastmodified":1449013442,
+    "wof:lastmodified":1466328631,
     "wof:name":"Almeria Rd 24 Hr A Locksmith",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "locksmiths-commercial"
     ]
 },
-  "bbox": [-112.036743,33.536751,-112.036743,33.536751],
+  "bbox": [
+    -112.036743,
+    33.536751,
+    -112.036743,
+    33.536751
+],
   "geometry": {"coordinates":[-112.036743,33.536751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153058771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023755,33.50226,-112.023755,33.50226",
     "geom:latitude":33.50226,
     "geom:longitude":-112.023755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4438 N 27th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.azpride.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153058771,
-    "wof:lastmodified":1449040396,
+    "wof:lastmodified":1466327782,
     "wof:name":"Arizona Central Pride",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023755,33.50226,-112.023755,33.50226],
-  "geometry": {"coordinates":[-112.023755,33.50226],"type":"Point"}
+  "bbox": [
+    -112.023755,
+    33.50226,
+    -112.023755,
+    33.50226
+],
+  "geometry": {"coordinates":[-112.02375499999999,33.50226],"type":"Point"}
 }

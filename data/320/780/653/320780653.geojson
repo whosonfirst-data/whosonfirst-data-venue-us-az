@@ -2,13 +2,14 @@
   "id": 320780653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108017,33.55547,-112.108017,33.55547",
     "geom:latitude":33.55547,
     "geom:longitude":-112.108017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8126 N 23rd Ave Ste J",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320780653,
-    "wof:lastmodified":1449014040,
+    "wof:lastmodified":1466329425,
     "wof:name":"Paralyzed Veterans Of America",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "veteran"
     ]
 },
-  "bbox": [-112.108017,33.55547,-112.108017,33.55547],
+  "bbox": [
+    -112.108017,
+    33.55547,
+    -112.108017,
+    33.55547
+],
   "geometry": {"coordinates":[-112.108017,33.55547],"type":"Point"}
 }

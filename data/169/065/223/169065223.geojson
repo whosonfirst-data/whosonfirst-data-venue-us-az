@@ -2,13 +2,14 @@
   "id": 169065223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.973666,32.317142,-110.973666,32.317142",
     "geom:latitude":32.317142,
     "geom:longitude":-110.973666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6089 N Reliance Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169065223,
-    "wof:lastmodified":1449035927,
+    "wof:lastmodified":1466329334,
     "wof:name":"N T L",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.973666,32.317142,-110.973666,32.317142],
-  "geometry": {"coordinates":[-110.973666,32.317142],"type":"Point"}
+  "bbox": [
+    -110.973666,
+    32.317142,
+    -110.973666,
+    32.317142
+],
+  "geometry": {"coordinates":[-110.97366599999999,32.317142],"type":"Point"}
 }

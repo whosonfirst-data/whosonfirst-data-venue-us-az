@@ -2,13 +2,14 @@
   "id": 152964917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.164785,33.355766,-112.164785,33.355766",
     "geom:latitude":33.355766,
     "geom:longitude":-112.164785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4702 W Olney Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152964917,
-    "wof:lastmodified":1449047783,
+    "wof:lastmodified":1466328191,
     "wof:name":"Economy Irrigation",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.164785,33.355766,-112.164785,33.355766],
-  "geometry": {"coordinates":[-112.164785,33.355766],"type":"Point"}
+  "bbox": [
+    -112.164785,
+    33.355766,
+    -112.164785,
+    33.355766
+],
+  "geometry": {"coordinates":[-112.16478499999999,33.355766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336960127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.901525,33.500679,-111.901525,33.500679",
     "geom:latitude":33.500679,
     "geom:longitude":-111.901525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8340 E Roma Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336960127,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466330764,
     "wof:name":"Joseph Mcclellan",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.901525,33.500679,-111.901525,33.500679],
-  "geometry": {"coordinates":[-111.901525,33.500679],"type":"Point"}
+  "bbox": [
+    -111.901525,
+    33.500679,
+    -111.901525,
+    33.500679
+],
+  "geometry": {"coordinates":[-111.90152500000001,33.500679],"type":"Point"}
 }

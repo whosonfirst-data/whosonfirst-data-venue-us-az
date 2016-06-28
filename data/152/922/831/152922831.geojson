@@ -2,13 +2,14 @@
   "id": 152922831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.577001,33.123788,-111.577001,33.123788",
     "geom:latitude":33.123788,
     "geom:longitude":-111.577001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26401 N Gary Rd",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152922831,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1466327256,
     "wof:name":"Pioneer Landscaping Materials",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.577001,33.123788,-111.577001,33.123788],
+  "bbox": [
+    -111.577001,
+    33.123788,
+    -111.577001,
+    33.123788
+],
   "geometry": {"coordinates":[-111.577001,33.123788],"type":"Point"}
 }

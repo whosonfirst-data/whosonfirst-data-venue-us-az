@@ -2,13 +2,14 @@
   "id": 320769733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055046,33.553126,-112.055046,33.553126",
     "geom:latitude":33.553126,
     "geom:longitude":-112.055046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 E Northern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320769733,
-    "wof:lastmodified":1449012514,
+    "wof:lastmodified":1466329235,
     "wof:name":"Panini Cafee & Bakery",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakers-wholesale"
     ]
 },
-  "bbox": [-112.055046,33.553126,-112.055046,33.553126],
+  "bbox": [
+    -112.055046,
+    33.553126,
+    -112.055046,
+    33.553126
+],
   "geometry": {"coordinates":[-112.055046,33.553126],"type":"Point"}
 }

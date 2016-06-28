@@ -2,13 +2,14 @@
   "id": 169058189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033106,33.075336,-112.033106,33.075336",
     "geom:latitude":33.075336,
     "geom:longitude":-112.033106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43258 Chisolm Dr",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169058189,
-    "wof:lastmodified":1449033176,
+    "wof:lastmodified":1466329082,
     "wof:name":"Mortgage Education Institute",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.033106,33.075336,-112.033106,33.075336],
+  "bbox": [
+    -112.033106,
+    33.075336,
+    -112.033106,
+    33.075336
+],
   "geometry": {"coordinates":[-112.033106,33.075336],"type":"Point"}
 }

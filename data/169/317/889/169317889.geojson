@@ -2,13 +2,14 @@
   "id": 169317889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.60656,35.212529,-111.60656,35.212529",
     "geom:latitude":35.212529,
     "geom:longitude":-111.60656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2726 E Lewis Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169317889,
-    "wof:lastmodified":1449034177,
+    "wof:lastmodified":1466333148,
     "wof:name":"Mz Blind Guy",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.60656,35.212529,-111.60656,35.212529],
+  "bbox": [
+    -111.60656,
+    35.212529,
+    -111.60656,
+    35.212529
+],
   "geometry": {"coordinates":[-111.60656,35.212529],"type":"Point"}
 }

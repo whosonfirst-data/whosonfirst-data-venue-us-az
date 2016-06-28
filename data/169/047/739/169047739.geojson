@@ -2,13 +2,14 @@
   "id": 169047739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.5566,31.3444,-109.5566,31.3444",
     "geom:latitude":31.3444,
     "geom:longitude":-109.5566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 E 10th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -24,13 +25,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169047739,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466328181,
     "wof:name":"Jalisco Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.5566,31.3444,-109.5566,31.3444],
+  "bbox": [
+    -109.5566,
+    31.3444,
+    -109.5566,
+    31.3444
+],
   "geometry": {"coordinates":[-109.5566,31.3444],"type":"Point"}
 }

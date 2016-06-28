@@ -2,13 +2,14 @@
   "id": 169027005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.036775,32.218782,-111.036775,32.218782",
     "geom:latitude":32.218782,
     "geom:longitude":-111.036775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Players Club Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169027005,
-    "wof:lastmodified":1449033309,
+    "wof:lastmodified":1466326595,
     "wof:name":"Toale",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.036775,32.218782,-111.036775,32.218782],
-  "geometry": {"coordinates":[-111.036775,32.218782],"type":"Point"}
+  "bbox": [
+    -111.036775,
+    32.218782,
+    -111.036775,
+    32.218782
+],
+  "geometry": {"coordinates":[-111.03677500000001,32.218782],"type":"Point"}
 }

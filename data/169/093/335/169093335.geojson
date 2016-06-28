@@ -2,13 +2,14 @@
   "id": 169093335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970375,32.216568,-110.970375,32.216568",
     "geom:latitude":32.216568,
     "geom:longitude":-110.970375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 S Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.mercaldo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871733,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169093335,
-    "wof:lastmodified":1449032694,
+    "wof:lastmodified":1466330540,
     "wof:name":"Mercaldo Law Firm",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970375,32.216568,-110.970375,32.216568],
+  "bbox": [
+    -110.970375,
+    32.216568,
+    -110.970375,
+    32.216568
+],
   "geometry": {"coordinates":[-110.970375,32.216568],"type":"Point"}
 }

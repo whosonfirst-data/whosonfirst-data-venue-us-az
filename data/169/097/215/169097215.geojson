@@ -2,13 +2,14 @@
   "id": 169097215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974035,32.253288,-110.974035,32.253288",
     "geom:latitude":32.253288,
     "geom:longitude":-110.974035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2536 N Castro Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169097215,
-    "wof:lastmodified":1449033980,
+    "wof:lastmodified":1466330847,
     "wof:name":"Tucson Parks & Recreation Dept",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974035,32.253288,-110.974035,32.253288],
+  "bbox": [
+    -110.974035,
+    32.253288,
+    -110.974035,
+    32.253288
+],
   "geometry": {"coordinates":[-110.974035,32.253288],"type":"Point"}
 }

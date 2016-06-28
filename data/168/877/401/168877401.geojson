@@ -2,13 +2,14 @@
   "id": 168877401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.767923,33.429038,-111.767923,33.429038",
     "geom:latitude":33.429038,
     "geom:longitude":-111.767923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 N Roca",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168877401,
-    "wof:lastmodified":1449028320,
+    "wof:lastmodified":1466328037,
     "wof:name":"Beauticontrol Ind Unit Dir",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.767923,33.429038,-111.767923,33.429038],
+  "bbox": [
+    -111.767923,
+    33.429038,
+    -111.767923,
+    33.429038
+],
   "geometry": {"coordinates":[-111.767923,33.429038],"type":"Point"}
 }

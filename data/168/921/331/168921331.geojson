@@ -2,13 +2,14 @@
   "id": 168921331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.218214,32.319405,-111.218214,32.319405",
     "geom:latitude":32.319405,
     "geom:longitude":-111.218214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6275 N Sandario Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168921331,
-    "wof:lastmodified":1449028266,
+    "wof:lastmodified":1466330357,
     "wof:name":"J E DS Rock Treasures & More",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.218214,32.319405,-111.218214,32.319405],
+  "bbox": [
+    -111.218214,
+    32.319405,
+    -111.218214,
+    32.319405
+],
   "geometry": {"coordinates":[-111.218214,32.319405],"type":"Point"}
 }

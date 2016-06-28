@@ -2,13 +2,14 @@
   "id": 169255837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124482,33.585465,-112.124482,33.585465",
     "geom:latitude":33.585465,
     "geom:longitude":-112.124482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3044 W Mercer Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169255837,
-    "wof:lastmodified":1449034174,
+    "wof:lastmodified":1466332581,
     "wof:name":"Huggins AC Service",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.124482,33.585465,-112.124482,33.585465],
+  "bbox": [
+    -112.124482,
+    33.585465,
+    -112.124482,
+    33.585465
+],
   "geometry": {"coordinates":[-112.124482,33.585465],"type":"Point"}
 }

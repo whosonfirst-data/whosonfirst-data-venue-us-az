@@ -2,13 +2,14 @@
   "id": 320693429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057311,33.516472,-112.057311,33.516472",
     "geom:latitude":33.516472,
     "geom:longitude":-112.057311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 E Missouri Ave Ste 750",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320693429,
-    "wof:lastmodified":1449011466,
+    "wof:lastmodified":1466327938,
     "wof:name":"Western College",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.057311,33.516472,-112.057311,33.516472],
+  "bbox": [
+    -112.057311,
+    33.516472,
+    -112.057311,
+    33.516472
+],
   "geometry": {"coordinates":[-112.057311,33.516472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353842909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922227,32.483817,-110.922227,32.483817",
     "geom:latitude":32.483817,
     "geom:longitude":-110.922227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15318 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353842909,
-    "wof:lastmodified":1449018448,
+    "wof:lastmodified":1466330591,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "italian"
     ]
 },
-  "bbox": [-110.922227,32.483817,-110.922227,32.483817],
-  "geometry": {"coordinates":[-110.922227,32.483817],"type":"Point"}
+  "bbox": [
+    -110.922227,
+    32.483817,
+    -110.922227,
+    32.483817
+],
+  "geometry": {"coordinates":[-110.92222700000001,32.483817],"type":"Point"}
 }

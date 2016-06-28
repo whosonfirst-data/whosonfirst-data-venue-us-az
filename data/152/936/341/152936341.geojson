@@ -2,13 +2,14 @@
   "id": 152936341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.003459,32.276122,-111.003459,32.276122",
     "geom:latitude":32.276122,
     "geom:longitude":-111.003459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3759 N Romero Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152936341,
-    "wof:lastmodified":1449045848,
+    "wof:lastmodified":1466326423,
     "wof:name":"Animal Majesty Ltd",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.003459,32.276122,-111.003459,32.276122],
-  "geometry": {"coordinates":[-111.003459,32.276122],"type":"Point"}
+  "bbox": [
+    -111.003459,
+    32.276122,
+    -111.003459,
+    32.276122
+],
+  "geometry": {"coordinates":[-111.00345900000001,32.276122],"type":"Point"}
 }

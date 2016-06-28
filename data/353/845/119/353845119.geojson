@@ -2,13 +2,14 @@
   "id": 353845119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.926003,32.5009,-110.926003,32.5009",
     "geom:latitude":32.5009,
     "geom:longitude":-110.926003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16250 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353845119,
-    "wof:lastmodified":1449018664,
+    "wof:lastmodified":1466330740,
     "wof:name":"Sunset Interiors & Design Studio",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "carpeting"
     ]
 },
-  "bbox": [-110.926003,32.5009,-110.926003,32.5009],
-  "geometry": {"coordinates":[-110.926003,32.5009],"type":"Point"}
+  "bbox": [
+    -110.926003,
+    32.5009,
+    -110.926003,
+    32.5009
+],
+  "geometry": {"coordinates":[-110.92600299999999,32.5009],"type":"Point"}
 }

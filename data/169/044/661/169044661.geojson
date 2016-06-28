@@ -2,13 +2,14 @@
   "id": 169044661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973244,33.422296,-111.973244,33.422296",
     "geom:latitude":33.422296,
     "geom:longitude":-111.973244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Madison Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.canackitchens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881427,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169044661,
-    "wof:lastmodified":1449034406,
+    "wof:lastmodified":1466328264,
     "wof:name":"Canac Kitchens Us LTD",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973244,33.422296,-111.973244,33.422296],
-  "geometry": {"coordinates":[-111.973244,33.422296],"type":"Point"}
+  "bbox": [
+    -111.973244,
+    33.422296,
+    -111.973244,
+    33.422296
+],
+  "geometry": {"coordinates":[-111.97324399999999,33.422296],"type":"Point"}
 }

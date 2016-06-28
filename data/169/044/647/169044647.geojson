@@ -2,13 +2,14 @@
   "id": 169044647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.954961,32.196465,-110.954961,32.196465",
     "geom:latitude":32.196465,
     "geom:longitude":-110.954961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 E 32nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169044647,
-    "wof:lastmodified":1449034403,
+    "wof:lastmodified":1466328015,
     "wof:name":"Chameleon Face Painting",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.954961,32.196465,-110.954961,32.196465],
+  "bbox": [
+    -110.954961,
+    32.196465,
+    -110.954961,
+    32.196465
+],
   "geometry": {"coordinates":[-110.954961,32.196465],"type":"Point"}
 }

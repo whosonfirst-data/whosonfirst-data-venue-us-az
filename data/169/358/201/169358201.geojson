@@ -2,13 +2,14 @@
   "id": 169358201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.289701,34.146099,-114.289701,34.146099",
     "geom:latitude":34.146099,
     "geom:longitude":-114.289701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 S Kofa Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169358201,
-    "wof:lastmodified":1449034061,
+    "wof:lastmodified":1466333596,
     "wof:name":"County Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.289701,34.146099,-114.289701,34.146099],
-  "geometry": {"coordinates":[-114.289701,34.146099],"type":"Point"}
+  "bbox": [
+    -114.289701,
+    34.146099,
+    -114.289701,
+    34.146099
+],
+  "geometry": {"coordinates":[-114.28970099999999,34.146099],"type":"Point"}
 }

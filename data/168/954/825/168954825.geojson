@@ -2,13 +2,14 @@
   "id": 168954825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918617,33.526856,-111.918617,33.526856",
     "geom:latitude":33.526856,
     "geom:longitude":-111.918617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 E Whispering Winds Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829861,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85829861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168954825,
-    "wof:lastmodified":1449028488,
+    "wof:lastmodified":1466331054,
     "wof:name":"Byo Bistro",
     "wof:parent_id":85829861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.918617,33.526856,-111.918617,33.526856],
+  "bbox": [
+    -111.918617,
+    33.526856,
+    -111.918617,
+    33.526856
+],
   "geometry": {"coordinates":[-111.918617,33.526856],"type":"Point"}
 }

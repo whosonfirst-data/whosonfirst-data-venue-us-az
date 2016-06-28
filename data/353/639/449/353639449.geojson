@@ -2,13 +2,14 @@
   "id": 353639449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.951059,33.832156,-111.951059,33.832156",
     "geom:latitude":33.832156,
     "geom:longitude":-111.951059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6042 E Valley Way",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353639449,
-    "wof:lastmodified":1449020779,
+    "wof:lastmodified":1466328978,
     "wof:name":"Tempo West",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.951059,33.832156,-111.951059,33.832156],
+  "bbox": [
+    -111.951059,
+    33.832156,
+    -111.951059,
+    33.832156
+],
   "geometry": {"coordinates":[-111.951059,33.832156],"type":"Point"}
 }

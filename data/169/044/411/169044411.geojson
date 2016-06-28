@@ -2,13 +2,14 @@
   "id": 169044411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.982379,32.362928,-110.982379,32.362928",
     "geom:latitude":32.362928,
     "geom:longitude":-110.982379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"879 W Pla Mesa Fria",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169044411,
-    "wof:lastmodified":1449034402,
+    "wof:lastmodified":1466327997,
     "wof:name":"Delphi Resources Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.982379,32.362928,-110.982379,32.362928],
-  "geometry": {"coordinates":[-110.982379,32.362928],"type":"Point"}
+  "bbox": [
+    -110.982379,
+    32.362928,
+    -110.982379,
+    32.362928
+],
+  "geometry": {"coordinates":[-110.98237899999999,32.362928],"type":"Point"}
 }

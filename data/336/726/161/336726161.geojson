@@ -2,13 +2,14 @@
   "id": 336726161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131541,33.610768,-112.131541,33.610768",
     "geom:latitude":33.610768,
     "geom:longitude":-112.131541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 W Thunderbird Rd Suite 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336726161,
-    "wof:lastmodified":1448997660,
+    "wof:lastmodified":1466328658,
     "wof:name":"Western Dental Centers",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-112.131541,33.610768,-112.131541,33.610768],
+  "bbox": [
+    -112.131541,
+    33.610768,
+    -112.131541,
+    33.610768
+],
   "geometry": {"coordinates":[-112.131541,33.610768],"type":"Point"}
 }

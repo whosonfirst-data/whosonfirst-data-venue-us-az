@@ -2,13 +2,14 @@
   "id": 169288219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.514796,34.550103,-112.514796,34.550103",
     "geom:latitude":34.550103,
     "geom:longitude":-112.514796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 Thumb Butte Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169288219,
-    "wof:lastmodified":1449033024,
+    "wof:lastmodified":1466332844,
     "wof:name":"Straight Arrow Studios",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.514796,34.550103,-112.514796,34.550103],
+  "bbox": [
+    -112.514796,
+    34.550103,
+    -112.514796,
+    34.550103
+],
   "geometry": {"coordinates":[-112.514796,34.550103],"type":"Point"}
 }

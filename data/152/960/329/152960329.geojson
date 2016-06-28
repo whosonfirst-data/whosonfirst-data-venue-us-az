@@ -2,13 +2,14 @@
   "id": 152960329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89776,33.582021,-111.89776,33.582021",
     "geom:latitude":33.582021,
     "geom:longitude":-111.89776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8432 E Shea Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152960329,
-    "wof:lastmodified":1449047620,
+    "wof:lastmodified":1466327967,
     "wof:name":"Dan Hakes & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.89776,33.582021,-111.89776,33.582021],
-  "geometry": {"coordinates":[-111.89776,33.582021],"type":"Point"}
+  "bbox": [
+    -111.89776,
+    33.582021,
+    -111.89776,
+    33.582021
+],
+  "geometry": {"coordinates":[-111.89776000000001,33.582021],"type":"Point"}
 }

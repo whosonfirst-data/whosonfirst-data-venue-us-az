@@ -2,13 +2,14 @@
   "id": 168997121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924564,32.131067,-110.924564,32.131067",
     "geom:latitude":32.131067,
     "geom:longitude":-110.924564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 S Bonney Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168997121,
-    "wof:lastmodified":1449028445,
+    "wof:lastmodified":1466331652,
     "wof:name":"Rainbird Corp",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.924564,32.131067,-110.924564,32.131067],
+  "bbox": [
+    -110.924564,
+    32.131067,
+    -110.924564,
+    32.131067
+],
   "geometry": {"coordinates":[-110.924564,32.131067],"type":"Point"}
 }

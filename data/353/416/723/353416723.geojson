@@ -2,13 +2,14 @@
   "id": 353416723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.956741,33.430799,-111.956741,33.430799",
     "geom:latitude":33.430799,
     "geom:longitude":-111.956741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 W Rio Salado Pkwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353416723,
-    "wof:lastmodified":1449019409,
+    "wof:lastmodified":1466326388,
     "wof:name":"Spark Magazine",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishers-periodical"
     ]
 },
-  "bbox": [-111.956741,33.430799,-111.956741,33.430799],
-  "geometry": {"coordinates":[-111.956741,33.430799],"type":"Point"}
+  "bbox": [
+    -111.956741,
+    33.430799,
+    -111.956741,
+    33.430799
+],
+  "geometry": {"coordinates":[-111.95674099999999,33.430799],"type":"Point"}
 }

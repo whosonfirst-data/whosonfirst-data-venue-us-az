@@ -2,13 +2,14 @@
   "id": 320853155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.158645,33.49493,-112.158645,33.49493",
     "geom:latitude":33.49493,
     "geom:longitude":-112.158645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4629 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320853155,
-    "wof:lastmodified":1449012775,
+    "wof:lastmodified":1466330333,
     "wof:name":"Anla Bug & Weed Mart Stores",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "weed"
     ]
 },
-  "bbox": [-112.158645,33.49493,-112.158645,33.49493],
-  "geometry": {"coordinates":[-112.158645,33.49493],"type":"Point"}
+  "bbox": [
+    -112.158645,
+    33.49493,
+    -112.158645,
+    33.49493
+],
+  "geometry": {"coordinates":[-112.15864500000001,33.49493],"type":"Point"}
 }

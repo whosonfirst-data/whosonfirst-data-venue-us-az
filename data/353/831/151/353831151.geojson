@@ -2,13 +2,14 @@
   "id": 353831151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841213,32.239117,-110.841213,32.239117",
     "geom:latitude":32.239117,
     "geom:longitude":-110.841213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 N Kolb Rd Ste 100",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353831151,
-    "wof:lastmodified":1449019765,
+    "wof:lastmodified":1466330621,
     "wof:name":"Barrett Business Svc Inc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-110.841213,32.239117,-110.841213,32.239117],
+  "bbox": [
+    -110.841213,
+    32.239117,
+    -110.841213,
+    32.239117
+],
   "geometry": {"coordinates":[-110.841213,32.239117],"type":"Point"}
 }

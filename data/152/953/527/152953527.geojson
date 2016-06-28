@@ -2,13 +2,14 @@
   "id": 152953527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790825,33.300507,-111.790825,33.300507",
     "geom:latitude":33.300507,
     "geom:longitude":-111.790825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16226 S Dove Ln",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876649,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152953527,
-    "wof:lastmodified":1449047486,
+    "wof:lastmodified":1466327621,
     "wof:name":"Humbert Performance Engnring",
     "wof:parent_id":85876649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.790825,33.300507,-111.790825,33.300507],
+  "bbox": [
+    -111.790825,
+    33.300507,
+    -111.790825,
+    33.300507
+],
   "geometry": {"coordinates":[-111.790825,33.300507],"type":"Point"}
 }

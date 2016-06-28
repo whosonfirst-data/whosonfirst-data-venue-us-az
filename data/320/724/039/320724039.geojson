@@ -2,13 +2,14 @@
   "id": 320724039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01879,33.487785,-112.01879,33.487785",
     "geom:latitude":33.487785,
     "geom:longitude":-112.01879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2928 E Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320724039,
-    "wof:lastmodified":1449014891,
+    "wof:lastmodified":1466328413,
     "wof:name":"Biltmore Pointe",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.01879,33.487785,-112.01879,33.487785],
+  "bbox": [
+    -112.01879,
+    33.487785,
+    -112.01879,
+    33.487785
+],
   "geometry": {"coordinates":[-112.01879,33.487785],"type":"Point"}
 }

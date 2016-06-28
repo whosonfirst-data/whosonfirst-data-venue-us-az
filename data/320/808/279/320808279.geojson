@@ -2,13 +2,14 @@
   "id": 320808279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.087391,33.642269,-112.087391,33.642269",
     "geom:latitude":33.642269,
     "geom:longitude":-112.087391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 W Danbury Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320808279,
-    "wof:lastmodified":1449011433,
+    "wof:lastmodified":1466329924,
     "wof:name":"Martha S Adult Care Home",
     "wof:parent_id":85835119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurses-home"
     ]
 },
-  "bbox": [-112.087391,33.642269,-112.087391,33.642269],
+  "bbox": [
+    -112.087391,
+    33.642269,
+    -112.087391,
+    33.642269
+],
   "geometry": {"coordinates":[-112.087391,33.642269],"type":"Point"}
 }

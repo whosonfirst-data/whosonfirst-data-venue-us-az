@@ -2,13 +2,14 @@
   "id": 169389619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622008,32.704511,-114.622008,32.704511",
     "geom:latitude":32.704511,
     "geom:longitude":-114.622008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 S 2nd Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169389619,
-    "wof:lastmodified":1449035284,
+    "wof:lastmodified":1466333899,
     "wof:name":"City Wide Trailer & Camper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622008,32.704511,-114.622008,32.704511],
-  "geometry": {"coordinates":[-114.622008,32.704511],"type":"Point"}
+  "bbox": [
+    -114.622008,
+    32.704511,
+    -114.622008,
+    32.704511
+],
+  "geometry": {"coordinates":[-114.62200799999999,32.704511],"type":"Point"}
 }

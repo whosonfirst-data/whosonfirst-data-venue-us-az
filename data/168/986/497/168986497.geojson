@@ -2,13 +2,14 @@
   "id": 168986497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.066936,33.528386,-112.066936,33.528386",
     "geom:latitude":33.528386,
     "geom:longitude":-112.066936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 E Claremont St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168986497,
-    "wof:lastmodified":1449028429,
+    "wof:lastmodified":1466331548,
     "wof:name":"Herbert R Nelson Ltd",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.066936,33.528386,-112.066936,33.528386],
+  "bbox": [
+    -112.066936,
+    33.528386,
+    -112.066936,
+    33.528386
+],
   "geometry": {"coordinates":[-112.066936,33.528386],"type":"Point"}
 }

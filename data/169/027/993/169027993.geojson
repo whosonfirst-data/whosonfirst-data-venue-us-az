@@ -2,13 +2,14 @@
   "id": 169027993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.99664,31.851669,-110.99664,31.851669",
     "geom:latitude":31.851669,
     "geom:longitude":-110.99664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 W Continental Rd",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169027993,
-    "wof:lastmodified":1449033307,
+    "wof:lastmodified":1466326682,
     "wof:name":"Campbell Fashion",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.99664,31.851669,-110.99664,31.851669],
+  "bbox": [
+    -110.99664,
+    31.851669,
+    -110.99664,
+    31.851669
+],
   "geometry": {"coordinates":[-110.99664,31.851669],"type":"Point"}
 }

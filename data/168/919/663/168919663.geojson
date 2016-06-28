@@ -2,13 +2,14 @@
   "id": 168919663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.130428,33.812361,-112.130428,33.812361",
     "geom:latitude":33.812361,
     "geom:longitude":-112.130428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 W Donatello Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168919663,
-    "wof:lastmodified":1449028389,
+    "wof:lastmodified":1466330287,
     "wof:name":"Principle Builders",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.130428,33.812361,-112.130428,33.812361],
-  "geometry": {"coordinates":[-112.130428,33.812361],"type":"Point"}
+  "bbox": [
+    -112.130428,
+    33.812361,
+    -112.130428,
+    33.812361
+],
+  "geometry": {"coordinates":[-112.13042799999999,33.812361],"type":"Point"}
 }

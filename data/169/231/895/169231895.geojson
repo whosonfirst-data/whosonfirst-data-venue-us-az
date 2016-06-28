@@ -2,13 +2,14 @@
   "id": 169231895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.938789,31.33598,-110.938789,31.33598",
     "geom:latitude":31.33598,
     "geom:longitude":-110.938789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169231895,
-    "wof:lastmodified":1449034367,
+    "wof:lastmodified":1466332424,
     "wof:name":"Numero Uno Pizza",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.938789,31.33598,-110.938789,31.33598],
+  "bbox": [
+    -110.938789,
+    31.33598,
+    -110.938789,
+    31.33598
+],
   "geometry": {"coordinates":[-110.938789,31.33598],"type":"Point"}
 }

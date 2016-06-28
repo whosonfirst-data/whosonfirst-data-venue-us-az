@@ -2,13 +2,14 @@
   "id": 169344169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.207909,33.63193,-112.207909,33.63193",
     "geom:latitude":33.63193,
     "geom:longitude":-112.207909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16035 N 69th Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830395,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85830395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169344169,
-    "wof:lastmodified":1449032851,
+    "wof:lastmodified":1466333437,
     "wof:name":"Richard's Woodworking",
     "wof:parent_id":85830395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.207909,33.63193,-112.207909,33.63193],
+  "bbox": [
+    -112.207909,
+    33.63193,
+    -112.207909,
+    33.63193
+],
   "geometry": {"coordinates":[-112.207909,33.63193],"type":"Point"}
 }

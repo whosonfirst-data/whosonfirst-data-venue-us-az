@@ -2,13 +2,14 @@
   "id": 168868261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.348201,34.475676,-114.348201,34.475676",
     "geom:latitude":34.475676,
     "geom:longitude":-114.348201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Pso del Sol",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168868261,
-    "wof:lastmodified":1449027796,
+    "wof:lastmodified":1466327309,
     "wof:name":"Rainbow Cleaners",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.348201,34.475676,-114.348201,34.475676],
+  "bbox": [
+    -114.348201,
+    34.475676,
+    -114.348201,
+    34.475676
+],
   "geometry": {"coordinates":[-114.348201,34.475676],"type":"Point"}
 }

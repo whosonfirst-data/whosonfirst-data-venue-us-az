@@ -2,13 +2,14 @@
   "id": 336624751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.207557,33.49072,-112.207557,33.49072",
     "geom:latitude":33.49072,
     "geom:longitude":-112.207557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3646 N 69th Ave Unit 6",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336624751,
-    "wof:lastmodified":1448997664,
+    "wof:lastmodified":1466326405,
     "wof:name":"Del Piano Deann",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.207557,33.49072,-112.207557,33.49072],
-  "geometry": {"coordinates":[-112.207557,33.49072],"type":"Point"}
+  "bbox": [
+    -112.207557,
+    33.49072,
+    -112.207557,
+    33.49072
+],
+  "geometry": {"coordinates":[-112.20755699999999,33.49072],"type":"Point"}
 }

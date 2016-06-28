@@ -2,13 +2,14 @@
   "id": 169403087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.893221,32.236136,-110.893221,32.236136",
     "geom:latitude":32.236136,
     "geom:longitude":-110.893221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4628 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.thesaddleshop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169403087,
-    "wof:lastmodified":1449035502,
+    "wof:lastmodified":1466333981,
     "wof:name":"Saddle Shop",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.893221,32.236136,-110.893221,32.236136],
+  "bbox": [
+    -110.893221,
+    32.236136,
+    -110.893221,
+    32.236136
+],
   "geometry": {"coordinates":[-110.893221,32.236136],"type":"Point"}
 }

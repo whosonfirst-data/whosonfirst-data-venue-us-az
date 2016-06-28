@@ -2,13 +2,14 @@
   "id": 169123807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054196,33.487337,-112.054196,33.487337",
     "geom:latitude":33.487337,
     "geom:longitude":-112.054196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 E Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169123807,
-    "wof:lastmodified":1449033671,
+    "wof:lastmodified":1466331377,
     "wof:name":"Neal S Sundeen",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054196,33.487337,-112.054196,33.487337],
+  "bbox": [
+    -112.054196,
+    33.487337,
+    -112.054196,
+    33.487337
+],
   "geometry": {"coordinates":[-112.054196,33.487337],"type":"Point"}
 }

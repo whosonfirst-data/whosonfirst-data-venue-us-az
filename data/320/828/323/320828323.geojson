@@ -2,13 +2,14 @@
   "id": 320828323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111449,33.665668,-112.111449,33.665668",
     "geom:latitude":33.665668,
     "geom:longitude":-112.111449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W Behrend Dr Ste 61",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320828323,
-    "wof:lastmodified":1449013148,
+    "wof:lastmodified":1466330167,
     "wof:name":"98 Paint Plus",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.111449,33.665668,-112.111449,33.665668],
-  "geometry": {"coordinates":[-112.111449,33.665668],"type":"Point"}
+  "bbox": [
+    -112.111449,
+    33.665668,
+    -112.111449,
+    33.665668
+],
+  "geometry": {"coordinates":[-112.11144899999999,33.665668],"type":"Point"}
 }

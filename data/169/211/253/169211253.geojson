@@ -2,13 +2,14 @@
   "id": 169211253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.334239,33.580082,-112.334239,33.580082",
     "geom:latitude":33.580082,
     "geom:longitude":-112.334239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12844 W Peoria Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169211253,
-    "wof:lastmodified":1449033506,
+    "wof:lastmodified":1466332203,
     "wof:name":"Armendariz Lawn Service",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.334239,33.580082,-112.334239,33.580082],
+  "bbox": [
+    -112.334239,
+    33.580082,
+    -112.334239,
+    33.580082
+],
   "geometry": {"coordinates":[-112.334239,33.580082],"type":"Point"}
 }

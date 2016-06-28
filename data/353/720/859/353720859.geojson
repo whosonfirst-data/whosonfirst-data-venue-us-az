@@ -2,13 +2,14 @@
   "id": 353720859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.375099,33.654851,-112.375099,33.654851",
     "geom:latitude":33.654851,
     "geom:longitude":-112.375099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18775 N Reems Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353720859,
-    "wof:lastmodified":1449018863,
+    "wof:lastmodified":1466329751,
     "wof:name":"Frye Realty",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.375099,33.654851,-112.375099,33.654851],
-  "geometry": {"coordinates":[-112.375099,33.654851],"type":"Point"}
+  "bbox": [
+    -112.375099,
+    33.654851,
+    -112.375099,
+    33.654851
+],
+  "geometry": {"coordinates":[-112.37509900000001,33.654851],"type":"Point"}
 }

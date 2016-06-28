@@ -2,13 +2,14 @@
   "id": 336807037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.684143,33.44854,-111.684143,33.44854",
     "geom:latitude":33.44854,
     "geom:longitude":-111.684143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8345 E Jensen Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336807037,
-    "wof:lastmodified":1448997221,
+    "wof:lastmodified":1466329617,
     "wof:name":"Rgb Metrology",
     "wof:parent_id":85840319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "calibration"
     ]
 },
-  "bbox": [-111.684143,33.44854,-111.684143,33.44854],
-  "geometry": {"coordinates":[-111.684143,33.44854],"type":"Point"}
+  "bbox": [
+    -111.684143,
+    33.44854,
+    -111.684143,
+    33.44854
+],
+  "geometry": {"coordinates":[-111.68414300000001,33.44854],"type":"Point"}
 }

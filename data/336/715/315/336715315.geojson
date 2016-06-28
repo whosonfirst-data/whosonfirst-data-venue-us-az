@@ -2,13 +2,14 @@
   "id": 336715315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124793,33.560291,-112.124793,33.560291",
     "geom:latitude":33.560291,
     "geom:longitude":-112.124793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 W Butler Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336715315,
-    "wof:lastmodified":1448997815,
+    "wof:lastmodified":1466328484,
     "wof:name":"Gonzales Lawn Maint",
     "wof:parent_id":85840313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.124793,33.560291,-112.124793,33.560291],
+  "bbox": [
+    -112.124793,
+    33.560291,
+    -112.124793,
+    33.560291
+],
   "geometry": {"coordinates":[-112.124793,33.560291],"type":"Point"}
 }

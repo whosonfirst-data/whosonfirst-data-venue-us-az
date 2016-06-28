@@ -2,13 +2,14 @@
   "id": 168968757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.326766,34.587893,-112.326766,34.587893",
     "geom:latitude":34.587893,
     "geom:longitude":-112.326766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 N Windsong Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168968757,
-    "wof:lastmodified":1449027818,
+    "wof:lastmodified":1466331275,
     "wof:name":"Club 50 Fitness",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.326766,34.587893,-112.326766,34.587893],
-  "geometry": {"coordinates":[-112.326766,34.587893],"type":"Point"}
+  "bbox": [
+    -112.326766,
+    34.587893,
+    -112.326766,
+    34.587893
+],
+  "geometry": {"coordinates":[-112.32676600000001,34.587893],"type":"Point"}
 }

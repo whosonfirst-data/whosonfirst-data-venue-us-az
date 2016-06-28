@@ -2,13 +2,14 @@
   "id": 169393891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9397,33.395909,-111.9397,33.395909",
     "geom:latitude":33.395909,
     "geom:longitude":-111.9397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 S Mill Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881409,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169393891,
-    "wof:lastmodified":1449033730,
+    "wof:lastmodified":1466333999,
     "wof:name":"Check N Go of Arizona Inc",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.9397,33.395909,-111.9397,33.395909],
+  "bbox": [
+    -111.9397,
+    33.395909,
+    -111.9397,
+    33.395909
+],
   "geometry": {"coordinates":[-111.9397,33.395909],"type":"Point"}
 }

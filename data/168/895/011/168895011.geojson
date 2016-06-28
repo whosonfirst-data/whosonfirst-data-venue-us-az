@@ -2,13 +2,14 @@
   "id": 168895011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.166628,33.590629,-112.166628,33.590629",
     "geom:latitude":33.590629,
     "geom:longitude":-112.166628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11632 N 50th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168895011,
-    "wof:lastmodified":1449028103,
+    "wof:lastmodified":1466329593,
     "wof:name":"Milton Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.166628,33.590629,-112.166628,33.590629],
+  "bbox": [
+    -112.166628,
+    33.590629,
+    -112.166628,
+    33.590629
+],
   "geometry": {"coordinates":[-112.166628,33.590629],"type":"Point"}
 }

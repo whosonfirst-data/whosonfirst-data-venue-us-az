@@ -2,13 +2,14 @@
   "id": 336880099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896217,33.305532,-111.896217,33.305532",
     "geom:latitude":33.305532,
     "geom:longitude":-111.896217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 W. Chandler Blvd Chandler Fashion Square",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336880099,
-    "wof:lastmodified":1448998021,
+    "wof:lastmodified":1466330117,
     "wof:name":"Godiva Chocolates",
     "wof:parent_id":85841283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chocolatiers"
     ]
 },
-  "bbox": [-111.896217,33.305532,-111.896217,33.305532],
-  "geometry": {"coordinates":[-111.896217,33.305532],"type":"Point"}
+  "bbox": [
+    -111.896217,
+    33.305532,
+    -111.896217,
+    33.305532
+],
+  "geometry": {"coordinates":[-111.89621699999999,33.305532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169193685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952135,32.147149,-110.952135,32.147149",
     "geom:latitude":32.147149,
     "geom:longitude":-110.952135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 S Randall Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169193685,
-    "wof:lastmodified":1449033232,
+    "wof:lastmodified":1466332103,
     "wof:name":"Randall Apartments",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.952135,32.147149,-110.952135,32.147149],
+  "bbox": [
+    -110.952135,
+    32.147149,
+    -110.952135,
+    32.147149
+],
   "geometry": {"coordinates":[-110.952135,32.147149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169060957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598119,35.112407,-114.598119,35.112407",
     "geom:latitude":35.112407,
     "geom:longitude":-114.598119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Hwy 95",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169060957,
-    "wof:lastmodified":1449035659,
+    "wof:lastmodified":1466328994,
     "wof:name":"Riviera Reef",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598119,35.112407,-114.598119,35.112407],
+  "bbox": [
+    -114.598119,
+    35.112407,
+    -114.598119,
+    35.112407
+],
   "geometry": {"coordinates":[-114.598119,35.112407],"type":"Point"}
 }

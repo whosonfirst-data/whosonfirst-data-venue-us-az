@@ -2,13 +2,14 @@
   "id": 169005387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.973231,32.286431,-110.973231,32.286431",
     "geom:latitude":32.286431,
     "geom:longitude":-110.973231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 W Wetmore Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169005387,
-    "wof:lastmodified":1449035697,
+    "wof:lastmodified":1466326212,
     "wof:name":"Pat Watson",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.973231,32.286431,-110.973231,32.286431],
+  "bbox": [
+    -110.973231,
+    32.286431,
+    -110.973231,
+    32.286431
+],
   "geometry": {"coordinates":[-110.973231,32.286431],"type":"Point"}
 }

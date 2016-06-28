@@ -2,13 +2,14 @@
   "id": 353851021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.041013,32.375542,-111.041013,32.375542",
     "geom:latitude":32.375542,
     "geom:longitude":-111.041013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 N Jessy Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353851021,
-    "wof:lastmodified":1449019923,
+    "wof:lastmodified":1466330801,
     "wof:name":"Kodi S Plumbing",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-111.041013,32.375542,-111.041013,32.375542],
-  "geometry": {"coordinates":[-111.041013,32.375542],"type":"Point"}
+  "bbox": [
+    -111.041013,
+    32.375542,
+    -111.041013,
+    32.375542
+],
+  "geometry": {"coordinates":[-111.04101300000001,32.375542],"type":"Point"}
 }

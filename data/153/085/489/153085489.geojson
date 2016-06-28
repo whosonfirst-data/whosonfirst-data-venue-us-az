@@ -2,13 +2,14 @@
   "id": 153085489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.144729,34.924708,-110.144729,34.924708",
     "geom:latitude":34.924708,
     "geom:longitude":-110.144729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Navajo Blvd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153085489,
-    "wof:lastmodified":1449040457,
+    "wof:lastmodified":1466329063,
     "wof:name":"Keams Canyon Shopping Center",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.144729,34.924708,-110.144729,34.924708],
+  "bbox": [
+    -110.144729,
+    34.924708,
+    -110.144729,
+    34.924708
+],
   "geometry": {"coordinates":[-110.144729,34.924708],"type":"Point"}
 }

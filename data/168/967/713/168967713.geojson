@@ -2,13 +2,14 @@
   "id": 168967713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.164513,33.549358,-112.164513,33.549358",
     "geom:latitude":33.549358,
     "geom:longitude":-112.164513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7628 N 49th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168967713,
-    "wof:lastmodified":1449028538,
+    "wof:lastmodified":1466331225,
     "wof:name":"C Edwin Druding PHD",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.164513,33.549358,-112.164513,33.549358],
+  "bbox": [
+    -112.164513,
+    33.549358,
+    -112.164513,
+    33.549358
+],
   "geometry": {"coordinates":[-112.164513,33.549358],"type":"Point"}
 }

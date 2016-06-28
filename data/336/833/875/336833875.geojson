@@ -2,13 +2,14 @@
   "id": 336833875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.765912,33.422711,-111.765912,33.422711",
     "geom:latitude":33.422711,
     "geom:longitude":-111.765912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 E University Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336833875,
-    "wof:lastmodified":1448997065,
+    "wof:lastmodified":1466329897,
     "wof:name":"National Mobile Development",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "park"
     ]
 },
-  "bbox": [-111.765912,33.422711,-111.765912,33.422711],
+  "bbox": [
+    -111.765912,
+    33.422711,
+    -111.765912,
+    33.422711
+],
   "geometry": {"coordinates":[-111.765912,33.422711],"type":"Point"}
 }

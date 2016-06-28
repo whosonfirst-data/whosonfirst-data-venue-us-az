@@ -2,13 +2,14 @@
   "id": 169281047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172415,33.676746,-112.172415,33.676746",
     "geom:latitude":33.676746,
     "geom:longitude":-112.172415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21208 N 52nd Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169281047,
-    "wof:lastmodified":1449035461,
+    "wof:lastmodified":1466332756,
     "wof:name":"Cancer Aid & Research Fund",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172415,33.676746,-112.172415,33.676746],
+  "bbox": [
+    -112.172415,
+    33.676746,
+    -112.172415,
+    33.676746
+],
   "geometry": {"coordinates":[-112.172415,33.676746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169347917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.845155,32.252931,-110.845155,32.252931",
     "geom:latitude":32.252931,
     "geom:longitude":-110.845155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2462 N Indian Ruins Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169347917,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466333552,
     "wof:name":"Welchs and Associates",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.845155,32.252931,-110.845155,32.252931],
-  "geometry": {"coordinates":[-110.845155,32.252931],"type":"Point"}
+  "bbox": [
+    -110.845155,
+    32.252931,
+    -110.845155,
+    32.252931
+],
+  "geometry": {"coordinates":[-110.84515500000001,32.252931],"type":"Point"}
 }

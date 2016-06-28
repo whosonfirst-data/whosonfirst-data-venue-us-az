@@ -2,13 +2,14 @@
   "id": 169283569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.343207,34.49888,-114.343207,34.49888",
     "geom:latitude":34.49888,
     "geom:longitude":-114.343207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Commander Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169283569,
-    "wof:lastmodified":1449033663,
+    "wof:lastmodified":1466332878,
     "wof:name":"Commander Heights Apts",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.343207,34.49888,-114.343207,34.49888],
-  "geometry": {"coordinates":[-114.343207,34.49888],"type":"Point"}
+  "bbox": [
+    -114.343207,
+    34.49888,
+    -114.343207,
+    34.49888
+],
+  "geometry": {"coordinates":[-114.34320700000001,34.49888],"type":"Point"}
 }

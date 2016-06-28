@@ -2,13 +2,14 @@
   "id": 320732537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014671,33.480486,-112.014671,33.480486",
     "geom:latitude":33.480486,
     "geom:longitude":-112.014671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 E Thomas Rd Ste A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320732537,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1466328539,
     "wof:name":"Art's Auto Service",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.014671,33.480486,-112.014671,33.480486],
-  "geometry": {"coordinates":[-112.014671,33.480486],"type":"Point"}
+  "bbox": [
+    -112.014671,
+    33.480486,
+    -112.014671,
+    33.480486
+],
+  "geometry": {"coordinates":[-112.01467100000001,33.480486],"type":"Point"}
 }

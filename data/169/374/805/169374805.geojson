@@ -2,13 +2,14 @@
   "id": 169374805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.153495,33.591416,-112.153495,33.591416",
     "geom:latitude":33.591416,
     "geom:longitude":-112.153495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4431 W Altadena Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169374805,
-    "wof:lastmodified":1449034105,
+    "wof:lastmodified":1466333779,
     "wof:name":"Macksolutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.153495,33.591416,-112.153495,33.591416],
-  "geometry": {"coordinates":[-112.153495,33.591416],"type":"Point"}
+  "bbox": [
+    -112.153495,
+    33.591416,
+    -112.153495,
+    33.591416
+],
+  "geometry": {"coordinates":[-112.15349500000001,33.591416],"type":"Point"}
 }

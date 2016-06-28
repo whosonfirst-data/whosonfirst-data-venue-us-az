@@ -2,13 +2,14 @@
   "id": 169199573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.959524,32.268044,-110.959524,32.268044",
     "geom:latitude":32.268044,
     "geom:longitude":-110.959524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 E Freeman Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bajasfrontiertours.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169199573,
-    "wof:lastmodified":1449033014,
+    "wof:lastmodified":1466332143,
     "wof:name":"Baja's Frontier Tours",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.959524,32.268044,-110.959524,32.268044],
+  "bbox": [
+    -110.959524,
+    32.268044,
+    -110.959524,
+    32.268044
+],
   "geometry": {"coordinates":[-110.959524,32.268044],"type":"Point"}
 }

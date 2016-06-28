@@ -2,13 +2,14 @@
   "id": 353591873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.15207,33.590648,-112.15207,33.590648",
     "geom:latitude":33.590648,
     "geom:longitude":-112.15207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 W Sierra St",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353591873,
-    "wof:lastmodified":1449019629,
+    "wof:lastmodified":1466328395,
     "wof:name":"National Aviation Technical Instruction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "testing"
     ]
 },
-  "bbox": [-112.15207,33.590648,-112.15207,33.590648],
-  "geometry": {"coordinates":[-112.15207,33.590648],"type":"Point"}
+  "bbox": [
+    -112.15207,
+    33.590648,
+    -112.15207,
+    33.590648
+],
+  "geometry": {"coordinates":[-112.15206999999999,33.590648],"type":"Point"}
 }

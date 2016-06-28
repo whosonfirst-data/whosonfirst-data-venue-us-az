@@ -2,13 +2,14 @@
   "id": 320743285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11261,33.534962,-112.11261,33.534962",
     "geom:latitude":33.534962,
     "geom:longitude":-112.11261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W Ocotillo Rd # 115",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320743285,
-    "wof:lastmodified":1449014940,
+    "wof:lastmodified":1466328744,
     "wof:name":"Biz Net Brokers",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-112.11261,33.534962,-112.11261,33.534962],
+  "bbox": [
+    -112.11261,
+    33.534962,
+    -112.11261,
+    33.534962
+],
   "geometry": {"coordinates":[-112.11261,33.534962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168990979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.92514,31.393833,-109.92514,31.393833",
     "geom:latitude":31.393833,
     "geom:longitude":-109.92514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Melody Ln",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85826387
+        85633793,
+        85826387,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168990979,
-    "wof:lastmodified":1449028290,
+    "wof:lastmodified":1466331711,
     "wof:name":"Cochise County Board-Supervsrs",
     "wof:parent_id":85826387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.92514,31.393833,-109.92514,31.393833],
+  "bbox": [
+    -109.92514,
+    31.393833,
+    -109.92514,
+    31.393833
+],
   "geometry": {"coordinates":[-109.92514,31.393833],"type":"Point"}
 }

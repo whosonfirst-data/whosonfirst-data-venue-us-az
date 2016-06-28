@@ -2,13 +2,14 @@
   "id": 320786917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075785,33.549132,-112.075785,33.549132",
     "geom:latitude":33.549132,
     "geom:longitude":-112.075785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Frier Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320786917,
-    "wof:lastmodified":1449011738,
+    "wof:lastmodified":1466329665,
     "wof:name":"Anasazi Management Group, Inc",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-112.075785,33.549132,-112.075785,33.549132],
+  "bbox": [
+    -112.075785,
+    33.549132,
+    -112.075785,
+    33.549132
+],
   "geometry": {"coordinates":[-112.075785,33.549132],"type":"Point"}
 }

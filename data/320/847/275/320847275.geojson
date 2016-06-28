@@ -2,13 +2,14 @@
   "id": 320847275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.122061,33.582775,-112.122061,33.582775",
     "geom:latitude":33.582775,
     "geom:longitude":-112.122061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10640 N 28th Dr Ste 205",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320847275,
-    "wof:lastmodified":1449012637,
+    "wof:lastmodified":1466330403,
     "wof:name":"Rachin Clinical Services",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "counselor"
     ]
 },
-  "bbox": [-112.122061,33.582775,-112.122061,33.582775],
+  "bbox": [
+    -112.122061,
+    33.582775,
+    -112.122061,
+    33.582775
+],
   "geometry": {"coordinates":[-112.122061,33.582775],"type":"Point"}
 }

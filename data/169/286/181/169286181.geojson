@@ -2,13 +2,14 @@
   "id": 169286181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.299473,33.086615,-111.299473,33.086615",
     "geom:latitude":33.086615,
     "geom:longitude":-111.299473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24790 E Diversion Dam Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169286181,
-    "wof:lastmodified":1449033558,
+    "wof:lastmodified":1466332835,
     "wof:name":"Ruby Carter",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.299473,33.086615,-111.299473,33.086615],
-  "geometry": {"coordinates":[-111.299473,33.086615],"type":"Point"}
+  "bbox": [
+    -111.299473,
+    33.086615,
+    -111.299473,
+    33.086615
+],
+  "geometry": {"coordinates":[-111.29947300000001,33.086615],"type":"Point"}
 }

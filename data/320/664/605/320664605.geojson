@@ -2,13 +2,14 @@
   "id": 320664605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.150281,33.465969,-112.150281,33.465969",
     "geom:latitude":33.465969,
     "geom:longitude":-112.150281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 W Mcdowell Rd Ste 23",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":320664605,
-    "wof:lastmodified":1449012664,
+    "wof:lastmodified":1466327383,
     "wof:name":"ColorTyme",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "store"
     ]
 },
-  "bbox": [-112.150281,33.465969,-112.150281,33.465969],
-  "geometry": {"coordinates":[-112.150281,33.465969],"type":"Point"}
+  "bbox": [
+    -112.150281,
+    33.465969,
+    -112.150281,
+    33.465969
+],
+  "geometry": {"coordinates":[-112.15028100000001,33.465969],"type":"Point"}
 }

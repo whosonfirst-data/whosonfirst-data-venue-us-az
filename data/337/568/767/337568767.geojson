@@ -2,13 +2,14 @@
   "id": 337568767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.88692,33.556149,-111.88692,33.556149",
     "geom:latitude":33.556149,
     "geom:longitude":-111.88692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9055 E del Camino Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337568767,
-    "wof:lastmodified":1449026908,
+    "wof:lastmodified":1466326863,
     "wof:name":"Premiere Oncology Of Az L",
     "wof:parent_id":85817699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "gynecologic"
     ]
 },
-  "bbox": [-111.88692,33.556149,-111.88692,33.556149],
+  "bbox": [
+    -111.88692,
+    33.556149,
+    -111.88692,
+    33.556149
+],
   "geometry": {"coordinates":[-111.88692,33.556149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168963143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.150913,34.918755,-110.150913,34.918755",
     "geom:latitude":34.918755,
     "geom:longitude":-110.150913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Navajo Blvd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.autosafetyhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168963143,
-    "wof:lastmodified":1449027858,
+    "wof:lastmodified":1466331316,
     "wof:name":"Auto Safety House",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.150913,34.918755,-110.150913,34.918755],
+  "bbox": [
+    -110.150913,
+    34.918755,
+    -110.150913,
+    34.918755
+],
   "geometry": {"coordinates":[-110.150913,34.918755],"type":"Point"}
 }

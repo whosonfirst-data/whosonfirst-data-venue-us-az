@@ -2,13 +2,14 @@
   "id": 353558955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.211933,33.561835,-112.211933,33.561835",
     "geom:latitude":33.561835,
     "geom:longitude":-112.211933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 N 71st Ave Lot 5",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353558955,
-    "wof:lastmodified":1449018960,
+    "wof:lastmodified":1466328329,
     "wof:name":"Flowers 4 Ever",
     "wof:parent_id":85852007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "flowers"
     ]
 },
-  "bbox": [-112.211933,33.561835,-112.211933,33.561835],
+  "bbox": [
+    -112.211933,
+    33.561835,
+    -112.211933,
+    33.561835
+],
   "geometry": {"coordinates":[-112.211933,33.561835],"type":"Point"}
 }

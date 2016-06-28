@@ -2,13 +2,14 @@
   "id": 169272835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073243,33.396267,-112.073243,33.396267",
     "geom:latitude":33.396267,
     "geom:longitude":-112.073243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 S Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849949,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85849949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169272835,
-    "wof:lastmodified":1449035730,
+    "wof:lastmodified":1466332800,
     "wof:name":"Moname Fashions",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073243,33.396267,-112.073243,33.396267],
-  "geometry": {"coordinates":[-112.073243,33.396267],"type":"Point"}
+  "bbox": [
+    -112.073243,
+    33.396267,
+    -112.073243,
+    33.396267
+],
+  "geometry": {"coordinates":[-112.07324300000001,33.396267],"type":"Point"}
 }

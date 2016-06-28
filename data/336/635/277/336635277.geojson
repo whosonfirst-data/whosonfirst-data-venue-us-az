@@ -2,13 +2,14 @@
   "id": 336635277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049543,33.431384,-112.049543,33.431384",
     "geom:latitude":33.431384,
     "geom:longitude":-112.049543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Mohave St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":336635277,
-    "wof:lastmodified":1448997419,
+    "wof:lastmodified":1466326665,
     "wof:name":"Barrios Unidos Park",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-112.049543,33.431384,-112.049543,33.431384],
+  "bbox": [
+    -112.049543,
+    33.431384,
+    -112.049543,
+    33.431384
+],
   "geometry": {"coordinates":[-112.049543,33.431384],"type":"Point"}
 }

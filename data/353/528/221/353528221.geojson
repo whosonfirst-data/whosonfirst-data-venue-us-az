@@ -2,13 +2,14 @@
   "id": 353528221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829675,33.288465,-111.829675,33.288465",
     "geom:latitude":33.288465,
     "geom:longitude":-111.829675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1163 S Anvil Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353528221,
-    "wof:lastmodified":1449018953,
+    "wof:lastmodified":1466327666,
     "wof:name":"Mark Bindery",
     "wof:parent_id":85876637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinder"
     ]
 },
-  "bbox": [-111.829675,33.288465,-111.829675,33.288465],
-  "geometry": {"coordinates":[-111.829675,33.288465],"type":"Point"}
+  "bbox": [
+    -111.829675,
+    33.288465,
+    -111.829675,
+    33.288465
+],
+  "geometry": {"coordinates":[-111.82967499999999,33.288465],"type":"Point"}
 }

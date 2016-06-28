@@ -2,13 +2,14 @@
   "id": 169194745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956277,32.227366,-110.956277,32.227366",
     "geom:latitude":32.227366,
     "geom:longitude":-110.956277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 N Park Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169194745,
-    "wof:lastmodified":1449035488,
+    "wof:lastmodified":1466332110,
     "wof:name":"Nam Son Restaurant",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956277,32.227366,-110.956277,32.227366],
+  "bbox": [
+    -110.956277,
+    32.227366,
+    -110.956277,
+    32.227366
+],
   "geometry": {"coordinates":[-110.956277,32.227366],"type":"Point"}
 }

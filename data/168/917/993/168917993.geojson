@@ -2,13 +2,14 @@
   "id": 168917993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.184261,33.531269,-112.184261,33.531269",
     "geom:latitude":33.531269,
     "geom:longitude":-112.184261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5825 W Maryland Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168917993,
-    "wof:lastmodified":1449028478,
+    "wof:lastmodified":1466330268,
     "wof:name":"Maryland West Mobile Home Park",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.184261,33.531269,-112.184261,33.531269],
-  "geometry": {"coordinates":[-112.184261,33.531269],"type":"Point"}
+  "bbox": [
+    -112.184261,
+    33.531269,
+    -112.184261,
+    33.531269
+],
+  "geometry": {"coordinates":[-112.18426100000001,33.531269],"type":"Point"}
 }

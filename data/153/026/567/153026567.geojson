@@ -2,13 +2,14 @@
   "id": 153026567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149292,33.701093,-112.149292,33.701093",
     "geom:latitude":33.701093,
     "geom:longitude":-112.149292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23625 N 41st Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.nnc-inc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153026567,
-    "wof:lastmodified":1449040640,
+    "wof:lastmodified":1466327627,
     "wof:name":"New Nose Co",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.149292,33.701093,-112.149292,33.701093],
+  "bbox": [
+    -112.149292,
+    33.701093,
+    -112.149292,
+    33.701093
+],
   "geometry": {"coordinates":[-112.149292,33.701093],"type":"Point"}
 }

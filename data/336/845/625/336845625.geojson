@@ -2,13 +2,14 @@
   "id": 336845625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.876236,33.33654,-111.876236,33.33654",
     "geom:latitude":33.33654,
     "geom:longitude":-111.876236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2095 N Dobson Rd Ste 8",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336845625,
-    "wof:lastmodified":1448997120,
+    "wof:lastmodified":1466329869,
     "wof:name":"Jamaca Me Tan",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.876236,33.33654,-111.876236,33.33654],
-  "geometry": {"coordinates":[-111.876236,33.33654],"type":"Point"}
+  "bbox": [
+    -111.876236,
+    33.33654,
+    -111.876236,
+    33.33654
+],
+  "geometry": {"coordinates":[-111.87623600000001,33.33654],"type":"Point"}
 }

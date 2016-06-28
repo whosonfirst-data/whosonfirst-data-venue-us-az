@@ -2,13 +2,14 @@
   "id": 169305719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94202,32.213198,-110.94202,32.213198",
     "geom:latitude":32.213198,
     "geom:longitude":-110.94202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 E 17th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169305719,
-    "wof:lastmodified":1449033192,
+    "wof:lastmodified":1466333066,
     "wof:name":"S & B Kelly Hardwood Flooring",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.94202,32.213198,-110.94202,32.213198],
+  "bbox": [
+    -110.94202,
+    32.213198,
+    -110.94202,
+    32.213198
+],
   "geometry": {"coordinates":[-110.94202,32.213198],"type":"Point"}
 }

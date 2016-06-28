@@ -2,13 +2,14 @@
   "id": 168927987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916522,33.691513,-111.916522,33.691513",
     "geom:latitude":33.691513,
     "geom:longitude":-111.916522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7690 E Williams Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.pvusd.k12.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813251,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85813251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168927987,
-    "wof:lastmodified":1449028508,
+    "wof:lastmodified":1466330596,
     "wof:name":"Pinnacle Peak Elementary Schl",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916522,33.691513,-111.916522,33.691513],
+  "bbox": [
+    -111.916522,
+    33.691513,
+    -111.916522,
+    33.691513
+],
   "geometry": {"coordinates":[-111.916522,33.691513],"type":"Point"}
 }

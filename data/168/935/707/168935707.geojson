@@ -2,13 +2,14 @@
   "id": 168935707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151114,33.646615,-112.151114,33.646615",
     "geom:latitude":33.646615,
     "geom:longitude":-112.151114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 W Saint John Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168935707,
-    "wof:lastmodified":1449028442,
+    "wof:lastmodified":1466330687,
     "wof:name":"Moby Dick's Pool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151114,33.646615,-112.151114,33.646615],
-  "geometry": {"coordinates":[-112.151114,33.646615],"type":"Point"}
+  "bbox": [
+    -112.151114,
+    33.646615,
+    -112.151114,
+    33.646615
+],
+  "geometry": {"coordinates":[-112.15111400000001,33.646615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320688989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.051316,33.538135,-112.051316,33.538135",
     "geom:latitude":33.538135,
     "geom:longitude":-112.051316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6842 N 14th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320688989,
-    "wof:lastmodified":1449012676,
+    "wof:lastmodified":1466328096,
     "wof:name":"L & S Appliances",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-112.051316,33.538135,-112.051316,33.538135],
+  "bbox": [
+    -112.051316,
+    33.538135,
+    -112.051316,
+    33.538135
+],
   "geometry": {"coordinates":[-112.051316,33.538135],"type":"Point"}
 }

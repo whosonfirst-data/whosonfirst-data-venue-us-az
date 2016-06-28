@@ -2,13 +2,14 @@
   "id": 152918735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.044231,33.590547,-112.044231,33.590547",
     "geom:latitude":33.590547,
     "geom:longitude":-112.044231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11460 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.jraconstruction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851187,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152918735,
-    "wof:lastmodified":1449047447,
+    "wof:lastmodified":1466326689,
     "wof:name":"JRA Construction Inc",
     "wof:parent_id":85851187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.044231,33.590547,-112.044231,33.590547],
+  "bbox": [
+    -112.044231,
+    33.590547,
+    -112.044231,
+    33.590547
+],
   "geometry": {"coordinates":[-112.044231,33.590547],"type":"Point"}
 }

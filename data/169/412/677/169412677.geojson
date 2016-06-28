@@ -2,13 +2,14 @@
   "id": 169412677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962832,33.413565,-111.962832,33.413565",
     "geom:latitude":33.413565,
     "geom:longitude":-111.962832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 W 14th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.ridefx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881401,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169412677,
-    "wof:lastmodified":1449033363,
+    "wof:lastmodified":1466333869,
     "wof:name":"Micrographix West",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.962832,33.413565,-111.962832,33.413565],
-  "geometry": {"coordinates":[-111.962832,33.413565],"type":"Point"}
+  "bbox": [
+    -111.962832,
+    33.413565,
+    -111.962832,
+    33.413565
+],
+  "geometry": {"coordinates":[-111.96283200000001,33.413565],"type":"Point"}
 }

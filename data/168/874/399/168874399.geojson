@@ -2,13 +2,14 @@
   "id": 168874399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.308936,34.661583,-112.308936,34.661583",
     "geom:latitude":34.661583,
     "geom:longitude":-112.308936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8920 E Mountain View Rd",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168874399,
-    "wof:lastmodified":1449028547,
+    "wof:lastmodified":1466328020,
     "wof:name":"Redpup LLC",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.308936,34.661583,-112.308936,34.661583],
+  "bbox": [
+    -112.308936,
+    34.661583,
+    -112.308936,
+    34.661583
+],
   "geometry": {"coordinates":[-112.308936,34.661583],"type":"Point"}
 }

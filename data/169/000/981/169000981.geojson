@@ -2,13 +2,14 @@
   "id": 169000981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.755058,32.268434,-110.755058,32.268434",
     "geom:latitude":32.268434,
     "geom:longitude":-110.755058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 N Melpomene Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169000981,
-    "wof:lastmodified":1449033223,
+    "wof:lastmodified":1466325834,
     "wof:name":"Los Coyotes LLC",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.755058,32.268434,-110.755058,32.268434],
-  "geometry": {"coordinates":[-110.755058,32.268434],"type":"Point"}
+  "bbox": [
+    -110.755058,
+    32.268434,
+    -110.755058,
+    32.268434
+],
+  "geometry": {"coordinates":[-110.75505800000001,32.268434],"type":"Point"}
 }

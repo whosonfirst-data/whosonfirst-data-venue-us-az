@@ -2,13 +2,14 @@
   "id": 169379691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023817,33.492208,-112.023817,33.492208",
     "geom:latitude":33.492208,
     "geom:longitude":-112.023817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 N 27th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169379691,
-    "wof:lastmodified":1449034605,
+    "wof:lastmodified":1466333811,
     "wof:name":"Courtyard Joint Ventures",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023817,33.492208,-112.023817,33.492208],
-  "geometry": {"coordinates":[-112.023817,33.492208],"type":"Point"}
+  "bbox": [
+    -112.023817,
+    33.492208,
+    -112.023817,
+    33.492208
+],
+  "geometry": {"coordinates":[-112.02381699999999,33.492208],"type":"Point"}
 }

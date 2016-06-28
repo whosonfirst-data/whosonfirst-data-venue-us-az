@@ -2,13 +2,14 @@
   "id": 353861945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857986,32.139502,-110.857986,32.139502",
     "geom:latitude":32.139502,
     "geom:longitude":-110.857986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6251 S Wilmot Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353861945,
-    "wof:lastmodified":1449020765,
+    "wof:lastmodified":1466330876,
     "wof:name":"Arizona Dept Of Transportation",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "state"
     ]
 },
-  "bbox": [-110.857986,32.139502,-110.857986,32.139502],
+  "bbox": [
+    -110.857986,
+    32.139502,
+    -110.857986,
+    32.139502
+],
   "geometry": {"coordinates":[-110.857986,32.139502],"type":"Point"}
 }

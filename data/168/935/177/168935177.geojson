@@ -2,13 +2,14 @@
   "id": 168935177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.808511,32.117713,-110.808511,32.117713",
     "geom:latitude":32.117713,
     "geom:longitude":-110.808511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8644 E Getsinger Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168935177,
-    "wof:lastmodified":1449028443,
+    "wof:lastmodified":1466330791,
     "wof:name":"Arizona Verified Information",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.808511,32.117713,-110.808511,32.117713],
+  "bbox": [
+    -110.808511,
+    32.117713,
+    -110.808511,
+    32.117713
+],
   "geometry": {"coordinates":[-110.808511,32.117713],"type":"Point"}
 }

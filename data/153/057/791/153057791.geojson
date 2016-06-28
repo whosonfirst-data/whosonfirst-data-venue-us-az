@@ -2,13 +2,14 @@
   "id": 153057791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.99663,31.891614,-110.99663,31.891614",
     "geom:latitude":31.891614,
     "geom:longitude":-110.99663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 W Rio-Altar",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153057791,
-    "wof:lastmodified":1449040574,
+    "wof:lastmodified":1466327719,
     "wof:name":"Charlies Appliance",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.99663,31.891614,-110.99663,31.891614],
+  "bbox": [
+    -110.99663,
+    31.891614,
+    -110.99663,
+    31.891614
+],
   "geometry": {"coordinates":[-110.99663,31.891614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169059397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.935557,32.206961,-110.935557,32.206961",
     "geom:latitude":32.206961,
     "geom:longitude":-110.935557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2449 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169059397,
-    "wof:lastmodified":1449033589,
+    "wof:lastmodified":1466328880,
     "wof:name":"Tucson Auto Rental",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.935557,32.206961,-110.935557,32.206961],
+  "bbox": [
+    -110.935557,
+    32.206961,
+    -110.935557,
+    32.206961
+],
   "geometry": {"coordinates":[-110.935557,32.206961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168877205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075944,33.626432,-112.075944,33.626432",
     "geom:latitude":33.626432,
     "geom:longitude":-112.075944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Beck Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168877205,
-    "wof:lastmodified":1449028315,
+    "wof:lastmodified":1466328023,
     "wof:name":"A & W Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.075944,33.626432,-112.075944,33.626432],
-  "geometry": {"coordinates":[-112.075944,33.626432],"type":"Point"}
+  "bbox": [
+    -112.075944,
+    33.626432,
+    -112.075944,
+    33.626432
+],
+  "geometry": {"coordinates":[-112.07594400000001,33.626432],"type":"Point"}
 }

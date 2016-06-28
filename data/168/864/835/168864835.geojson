@@ -2,13 +2,14 @@
   "id": 168864835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953218,32.210863,-110.953218,32.210863",
     "geom:latitude":32.210863,
     "geom:longitude":-110.953218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S Santa Rita Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168864835,
-    "wof:lastmodified":1449028596,
+    "wof:lastmodified":1466327007,
     "wof:name":"Santa Rita Steel & Hardware Co",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953218,32.210863,-110.953218,32.210863],
-  "geometry": {"coordinates":[-110.953218,32.210863],"type":"Point"}
+  "bbox": [
+    -110.953218,
+    32.210863,
+    -110.953218,
+    32.210863
+],
+  "geometry": {"coordinates":[-110.95321800000001,32.210863],"type":"Point"}
 }

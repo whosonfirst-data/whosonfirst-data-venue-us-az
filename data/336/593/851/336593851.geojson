@@ -2,13 +2,14 @@
   "id": 336593851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007941,33.6017,-112.007941,33.6017",
     "geom:latitude":33.6017,
     "geom:longitude":-112.007941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3439 E Larkspur Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336593851,
-    "wof:lastmodified":1448997648,
+    "wof:lastmodified":1466325852,
     "wof:name":"Arizona Temperature Control",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-112.007941,33.6017,-112.007941,33.6017],
+  "bbox": [
+    -112.007941,
+    33.6017,
+    -112.007941,
+    33.6017
+],
   "geometry": {"coordinates":[-112.007941,33.6017],"type":"Point"}
 }

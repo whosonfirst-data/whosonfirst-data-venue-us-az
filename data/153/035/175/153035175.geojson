@@ -2,13 +2,14 @@
   "id": 153035175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858586,32.24329,-110.858586,32.24329",
     "geom:latitude":32.24329,
     "geom:longitude":-110.858586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6226 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.totalmakeover.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153035175,
-    "wof:lastmodified":1449040728,
+    "wof:lastmodified":1466326132,
     "wof:name":"Balanced Health & Wellness Ctr",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.858586,32.24329,-110.858586,32.24329],
+  "bbox": [
+    -110.858586,
+    32.24329,
+    -110.858586,
+    32.24329
+],
   "geometry": {"coordinates":[-110.858586,32.24329],"type":"Point"}
 }

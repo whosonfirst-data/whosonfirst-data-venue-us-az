@@ -2,13 +2,14 @@
   "id": 168908969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.332486,34.474927,-114.332486,34.474927",
     "geom:latitude":34.474927,
     "geom:longitude":-114.332486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Swanson Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.a-1language.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168908969,
-    "wof:lastmodified":1449028206,
+    "wof:lastmodified":1466330067,
     "wof:name":"Casa Blanca Apartments",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.332486,34.474927,-114.332486,34.474927],
+  "bbox": [
+    -114.332486,
+    34.474927,
+    -114.332486,
+    34.474927
+],
   "geometry": {"coordinates":[-114.332486,34.474927],"type":"Point"}
 }

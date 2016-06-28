@@ -2,13 +2,14 @@
   "id": 168898877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.365232,34.50688,-109.365232,34.50688",
     "geom:latitude":34.50688,
     "geom:longitude":-109.365232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 W Cleveland St",
     "sg:city":"St Johns",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168898877,
-    "wof:lastmodified":1449027763,
+    "wof:lastmodified":1466329576,
     "wof:name":"Apache County Supervisor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.365232,34.50688,-109.365232,34.50688],
-  "geometry": {"coordinates":[-109.365232,34.50688],"type":"Point"}
+  "bbox": [
+    -109.365232,
+    34.50688,
+    -109.365232,
+    34.50688
+],
+  "geometry": {"coordinates":[-109.36523200000001,34.50688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153004837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.833935,32.201184,-110.833935,32.201184",
     "geom:latitude":32.201184,
     "geom:longitude":-110.833935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7404 E Cuernavaca Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153004837,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1466325758,
     "wof:name":"Double Eagle Drafting LLC",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.833935,32.201184,-110.833935,32.201184],
+  "bbox": [
+    -110.833935,
+    32.201184,
+    -110.833935,
+    32.201184
+],
   "geometry": {"coordinates":[-110.833935,32.201184],"type":"Point"}
 }

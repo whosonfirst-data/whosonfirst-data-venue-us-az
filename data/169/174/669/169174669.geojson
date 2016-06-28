@@ -2,13 +2,14 @@
   "id": 169174669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993653,33.509868,-111.993653,33.509868",
     "geom:latitude":33.509868,
     "geom:longitude":-111.993653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169174669,
-    "wof:lastmodified":1449033134,
+    "wof:lastmodified":1466331945,
     "wof:name":"Braeger Network Insurance Grp",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.993653,33.509868,-111.993653,33.509868],
-  "geometry": {"coordinates":[-111.993653,33.509868],"type":"Point"}
+  "bbox": [
+    -111.993653,
+    33.509868,
+    -111.993653,
+    33.509868
+],
+  "geometry": {"coordinates":[-111.99365299999999,33.509868],"type":"Point"}
 }

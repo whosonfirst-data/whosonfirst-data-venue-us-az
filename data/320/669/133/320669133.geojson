@@ -2,13 +2,14 @@
   "id": 320669133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073696,33.498554,-112.073696,33.498554",
     "geom:latitude":33.498554,
     "geom:longitude":-112.073696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320669133,
-    "wof:lastmodified":1449011676,
+    "wof:lastmodified":1466327502,
     "wof:name":"Phx Southwestern Grill",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-112.073696,33.498554,-112.073696,33.498554],
+  "bbox": [
+    -112.073696,
+    33.498554,
+    -112.073696,
+    33.498554
+],
   "geometry": {"coordinates":[-112.073696,33.498554],"type":"Point"}
 }

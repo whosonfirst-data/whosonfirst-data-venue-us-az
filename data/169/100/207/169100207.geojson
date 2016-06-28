@@ -2,13 +2,14 @@
   "id": 169100207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.983856,32.220473,-110.983856,32.220473",
     "geom:latitude":32.220473,
     "geom:longitude":-110.983856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871759,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169100207,
-    "wof:lastmodified":1449035121,
+    "wof:lastmodified":1466330774,
     "wof:name":"Rudy's Automotive Svc Ctr",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.983856,32.220473,-110.983856,32.220473],
+  "bbox": [
+    -110.983856,
+    32.220473,
+    -110.983856,
+    32.220473
+],
   "geometry": {"coordinates":[-110.983856,32.220473],"type":"Point"}
 }

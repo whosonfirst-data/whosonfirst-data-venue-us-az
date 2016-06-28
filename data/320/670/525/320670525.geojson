@@ -2,13 +2,14 @@
   "id": 320670525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073918,33.495519,-112.073918,33.495519",
     "geom:latitude":33.495519,
     "geom:longitude":-112.073918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 N Central Ave # 2073",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320670525,
-    "wof:lastmodified":1449011817,
+    "wof:lastmodified":1466327540,
     "wof:name":"Beverly Brooks",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-112.073918,33.495519,-112.073918,33.495519],
-  "geometry": {"coordinates":[-112.073918,33.495519],"type":"Point"}
+  "bbox": [
+    -112.073918,
+    33.495519,
+    -112.073918,
+    33.495519
+],
+  "geometry": {"coordinates":[-112.07391800000001,33.495519],"type":"Point"}
 }

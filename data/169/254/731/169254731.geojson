@@ -2,13 +2,14 @@
   "id": 169254731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.161628,33.636515,-112.161628,33.636515",
     "geom:latitude":33.636515,
     "geom:longitude":-112.161628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 W Kelton Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169254731,
-    "wof:lastmodified":1449034962,
+    "wof:lastmodified":1466332571,
     "wof:name":"Ameridutch Automotive LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.161628,33.636515,-112.161628,33.636515],
-  "geometry": {"coordinates":[-112.161628,33.636515],"type":"Point"}
+  "bbox": [
+    -112.161628,
+    33.636515,
+    -112.161628,
+    33.636515
+],
+  "geometry": {"coordinates":[-112.16162799999999,33.636515],"type":"Point"}
 }

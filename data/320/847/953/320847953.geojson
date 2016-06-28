@@ -2,13 +2,14 @@
   "id": 320847953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.135412,33.599331,-112.135412,33.599331",
     "geom:latitude":33.599331,
     "geom:longitude":-112.135412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3636 W Columbine Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320847953,
-    "wof:lastmodified":1449012636,
+    "wof:lastmodified":1466330279,
     "wof:name":"Ace Parking Management, Inc.",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lot"
     ]
 },
-  "bbox": [-112.135412,33.599331,-112.135412,33.599331],
+  "bbox": [
+    -112.135412,
+    33.599331,
+    -112.135412,
+    33.599331
+],
   "geometry": {"coordinates":[-112.135412,33.599331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336678043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033128,33.377823,-112.033128,33.377823",
     "geom:latitude":33.377823,
     "geom:longitude":-112.033128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 E Baseline Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336678043,
-    "wof:lastmodified":1448997476,
+    "wof:lastmodified":1466327636,
     "wof:name":"Smith's",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-112.033128,33.377823,-112.033128,33.377823],
+  "bbox": [
+    -112.033128,
+    33.377823,
+    -112.033128,
+    33.377823
+],
   "geometry": {"coordinates":[-112.033128,33.377823],"type":"Point"}
 }

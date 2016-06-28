@@ -2,13 +2,14 @@
   "id": 353491613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919182,33.375309,-111.919182,33.375309",
     "geom:latitude":33.375309,
     "geom:longitude":-111.919182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 S Lakeshore Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353491613,
-    "wof:lastmodified":1449018215,
+    "wof:lastmodified":1466327015,
     "wof:name":"Dyrk A Horn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "employee"
     ]
 },
-  "bbox": [-111.919182,33.375309,-111.919182,33.375309],
-  "geometry": {"coordinates":[-111.919182,33.375309],"type":"Point"}
+  "bbox": [
+    -111.919182,
+    33.375309,
+    -111.919182,
+    33.375309
+],
+  "geometry": {"coordinates":[-111.91918200000001,33.375309],"type":"Point"}
 }

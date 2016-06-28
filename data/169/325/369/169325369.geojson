@@ -2,13 +2,14 @@
   "id": 169325369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.796931,33.398083,-111.796931,33.398083",
     "geom:latitude":33.398083,
     "geom:longitude":-111.796931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 S Harris Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169325369,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466333194,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.796931,33.398083,-111.796931,33.398083],
+  "bbox": [
+    -111.796931,
+    33.398083,
+    -111.796931,
+    33.398083
+],
   "geometry": {"coordinates":[-111.796931,33.398083],"type":"Point"}
 }

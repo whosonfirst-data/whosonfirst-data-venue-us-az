@@ -2,13 +2,14 @@
   "id": 168866033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.698524,35.024706,-110.698524,35.024706",
     "geom:latitude":35.024706,
     "geom:longitude":-110.698524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W 3rd St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168866033,
-    "wof:lastmodified":1449028138,
+    "wof:lastmodified":1466327112,
     "wof:name":"Stuart Eye Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.698524,35.024706,-110.698524,35.024706],
-  "geometry": {"coordinates":[-110.698524,35.024706],"type":"Point"}
+  "bbox": [
+    -110.698524,
+    35.024706,
+    -110.698524,
+    35.024706
+],
+  "geometry": {"coordinates":[-110.69852400000001,35.024706],"type":"Point"}
 }

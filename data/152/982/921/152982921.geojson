@@ -2,13 +2,14 @@
   "id": 152982921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.915337,33.401288,-111.915337,33.401288",
     "geom:latitude":33.401288,
     "geom:longitude":-111.915337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 S Dorsey Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881423,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152982921,
-    "wof:lastmodified":1449045095,
+    "wof:lastmodified":1466329088,
     "wof:name":"Meyer Elementary School",
     "wof:parent_id":85881423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.915337,33.401288,-111.915337,33.401288],
-  "geometry": {"coordinates":[-111.915337,33.401288],"type":"Point"}
+  "bbox": [
+    -111.915337,
+    33.401288,
+    -111.915337,
+    33.401288
+],
+  "geometry": {"coordinates":[-111.91533699999999,33.401288],"type":"Point"}
 }

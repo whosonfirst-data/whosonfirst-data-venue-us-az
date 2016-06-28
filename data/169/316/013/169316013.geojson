@@ -2,13 +2,14 @@
   "id": 169316013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.741488,32.241748,-110.741488,32.241748",
     "geom:latitude":32.241748,
     "geom:longitude":-110.741488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 N Smokey Springs Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169316013,
-    "wof:lastmodified":1449034929,
+    "wof:lastmodified":1466333128,
     "wof:name":"Dog and Biscuit Company",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.741488,32.241748,-110.741488,32.241748],
+  "bbox": [
+    -110.741488,
+    32.241748,
+    -110.741488,
+    32.241748
+],
   "geometry": {"coordinates":[-110.741488,32.241748],"type":"Point"}
 }

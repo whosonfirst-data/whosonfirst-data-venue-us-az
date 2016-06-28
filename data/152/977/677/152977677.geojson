@@ -2,13 +2,14 @@
   "id": 152977677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.750888,32.162599,-110.750888,32.162599",
     "geom:latitude":32.162599,
     "geom:longitude":-110.750888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11330 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152977677,
-    "wof:lastmodified":1449049001,
+    "wof:lastmodified":1466329033,
     "wof:name":"Warren A Stoppkotte",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.750888,32.162599,-110.750888,32.162599],
+  "bbox": [
+    -110.750888,
+    32.162599,
+    -110.750888,
+    32.162599
+],
   "geometry": {"coordinates":[-110.750888,32.162599],"type":"Point"}
 }

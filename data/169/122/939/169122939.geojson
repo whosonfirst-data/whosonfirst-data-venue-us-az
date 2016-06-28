@@ -2,13 +2,14 @@
   "id": 169122939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.019956,32.148629,-111.019956,32.148629",
     "geom:latitude":32.148629,
     "geom:longitude":-111.019956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5529 S Westover Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169122939,
-    "wof:lastmodified":1449034559,
+    "wof:lastmodified":1466331354,
     "wof:name":"Geronimo Design Fabrication",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.019956,32.148629,-111.019956,32.148629],
-  "geometry": {"coordinates":[-111.019956,32.148629],"type":"Point"}
+  "bbox": [
+    -111.019956,
+    32.148629,
+    -111.019956,
+    32.148629
+],
+  "geometry": {"coordinates":[-111.01995599999999,32.148629],"type":"Point"}
 }

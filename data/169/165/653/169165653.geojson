@@ -2,13 +2,14 @@
   "id": 169165653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.772022,33.369907,-111.772022,33.369907",
     "geom:latitude":33.369907,
     "geom:longitude":-111.772022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 E San Angelo Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169165653,
-    "wof:lastmodified":1449035973,
+    "wof:lastmodified":1466331890,
     "wof:name":"Ruttwin LLC",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.772022,33.369907,-111.772022,33.369907],
-  "geometry": {"coordinates":[-111.772022,33.369907],"type":"Point"}
+  "bbox": [
+    -111.772022,
+    33.369907,
+    -111.772022,
+    33.369907
+],
+  "geometry": {"coordinates":[-111.77202200000001,33.369907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169156397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.944226,33.621502,-111.944226,33.621502",
     "geom:latitude":33.621502,
     "geom:longitude":-111.944226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6327 E Marilyn Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169156397,
-    "wof:lastmodified":1449033342,
+    "wof:lastmodified":1466331792,
     "wof:name":"Silverleaf Investments LLC",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.944226,33.621502,-111.944226,33.621502],
+  "bbox": [
+    -111.944226,
+    33.621502,
+    -111.944226,
+    33.621502
+],
   "geometry": {"coordinates":[-111.944226,33.621502],"type":"Point"}
 }

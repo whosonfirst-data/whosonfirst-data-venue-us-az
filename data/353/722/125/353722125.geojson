@@ -2,13 +2,14 @@
   "id": 353722125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.384995,33.6632,-112.384995,33.6632",
     "geom:latitude":33.6632,
     "geom:longitude":-112.384995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19958 N Organ Pipe Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353722125,
-    "wof:lastmodified":1449019149,
+    "wof:lastmodified":1466330034,
     "wof:name":"Happy Home House Sitting",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-112.384995,33.6632,-112.384995,33.6632],
+  "bbox": [
+    -112.384995,
+    33.6632,
+    -112.384995,
+    33.6632
+],
   "geometry": {"coordinates":[-112.384995,33.6632],"type":"Point"}
 }

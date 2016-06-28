@@ -2,13 +2,14 @@
   "id": 168947137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.079296,33.504683,-112.079296,33.504683",
     "geom:latitude":33.504683,
     "geom:longitude":-112.079296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 W Coolidge St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168947137,
-    "wof:lastmodified":1449028338,
+    "wof:lastmodified":1466331076,
     "wof:name":"Harleys Only Garage & Svc",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.079296,33.504683,-112.079296,33.504683],
+  "bbox": [
+    -112.079296,
+    33.504683,
+    -112.079296,
+    33.504683
+],
   "geometry": {"coordinates":[-112.079296,33.504683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353911097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.043322,35.268025,-114.043322,35.268025",
     "geom:latitude":35.268025,
     "geom:longitude":-114.043322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 E Jagerson Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353911097,
-    "wof:lastmodified":1449020406,
+    "wof:lastmodified":1466331199,
     "wof:name":"Airport Cafe",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-114.043322,35.268025,-114.043322,35.268025],
+  "bbox": [
+    -114.043322,
+    35.268025,
+    -114.043322,
+    35.268025
+],
   "geometry": {"coordinates":[-114.043322,35.268025],"type":"Point"}
 }

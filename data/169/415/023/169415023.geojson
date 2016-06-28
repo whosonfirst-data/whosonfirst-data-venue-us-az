@@ -2,13 +2,14 @@
   "id": 169415023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966123,33.352815,-111.966123,33.352815",
     "geom:latitude":33.352815,
     "geom:longitude":-111.966123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 W Todd Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808471,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
-        85814393,
-        85917469
+        85808471,
+        85917469,
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169415023,
-    "wof:lastmodified":1449035056,
+    "wof:lastmodified":1466334159,
     "wof:name":"Mid America Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.966123,33.352815,-111.966123,33.352815],
+  "bbox": [
+    -111.966123,
+    33.352815,
+    -111.966123,
+    33.352815
+],
   "geometry": {"coordinates":[-111.966123,33.352815],"type":"Point"}
 }

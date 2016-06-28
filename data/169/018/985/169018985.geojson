@@ -2,13 +2,14 @@
   "id": 169018985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816008,32.279729,-110.816008,32.279729",
     "geom:latitude":32.279729,
     "geom:longitude":-110.816008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 N Ridgecrest Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169018985,
-    "wof:lastmodified":1449034330,
+    "wof:lastmodified":1466325874,
     "wof:name":"Specs",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816008,32.279729,-110.816008,32.279729],
+  "bbox": [
+    -110.816008,
+    32.279729,
+    -110.816008,
+    32.279729
+],
   "geometry": {"coordinates":[-110.816008,32.279729],"type":"Point"}
 }

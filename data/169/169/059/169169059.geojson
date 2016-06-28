@@ -2,13 +2,14 @@
   "id": 169169059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.474399,34.871959,-112.474399,34.871959",
     "geom:latitude":34.871959,
     "geom:longitude":-112.474399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22385 N Malapai Ridge Rd",
     "sg:city":"Paulden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169169059,
-    "wof:lastmodified":1449034719,
+    "wof:lastmodified":1466331838,
     "wof:name":"Ghents Trucking",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.474399,34.871959,-112.474399,34.871959],
-  "geometry": {"coordinates":[-112.474399,34.871959],"type":"Point"}
+  "bbox": [
+    -112.474399,
+    34.871959,
+    -112.474399,
+    34.871959
+],
+  "geometry": {"coordinates":[-112.47439900000001,34.871959],"type":"Point"}
 }

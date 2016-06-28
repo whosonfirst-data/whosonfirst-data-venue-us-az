@@ -2,13 +2,14 @@
   "id": 320833003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013033,33.579327,-112.013033,33.579327",
     "geom:latitude":33.579327,
     "geom:longitude":-112.013033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10221 N 32nd St Ste D",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320833003,
-    "wof:lastmodified":1449011730,
+    "wof:lastmodified":1466330116,
     "wof:name":"Healthcare Financial Management Association",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "employer"
     ]
 },
-  "bbox": [-112.013033,33.579327,-112.013033,33.579327],
-  "geometry": {"coordinates":[-112.013033,33.579327],"type":"Point"}
+  "bbox": [
+    -112.013033,
+    33.579327,
+    -112.013033,
+    33.579327
+],
+  "geometry": {"coordinates":[-112.01303299999999,33.579327],"type":"Point"}
 }

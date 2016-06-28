@@ -2,13 +2,14 @@
   "id": 353653465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356003,33.455399,-112.356003,33.455399",
     "geom:latitude":33.455399,
     "geom:longitude":-112.356003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13845 W Test Dr",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353653465,
-    "wof:lastmodified":1449018444,
+    "wof:lastmodified":1466329573,
     "wof:name":"Yates Pontiac GMC",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-112.356003,33.455399,-112.356003,33.455399],
+  "bbox": [
+    -112.356003,
+    33.455399,
+    -112.356003,
+    33.455399
+],
   "geometry": {"coordinates":[-112.356003,33.455399],"type":"Point"}
 }

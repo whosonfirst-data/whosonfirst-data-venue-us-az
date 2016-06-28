@@ -2,13 +2,14 @@
   "id": 169202589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.981987,32.247142,-110.981987,32.247142",
     "geom:latitude":32.247142,
     "geom:longitude":-110.981987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 W Flores St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169202589,
-    "wof:lastmodified":1449035526,
+    "wof:lastmodified":1466332138,
     "wof:name":"Spectrum 1 Inc",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.981987,32.247142,-110.981987,32.247142],
+  "bbox": [
+    -110.981987,
+    32.247142,
+    -110.981987,
+    32.247142
+],
   "geometry": {"coordinates":[-110.981987,32.247142],"type":"Point"}
 }

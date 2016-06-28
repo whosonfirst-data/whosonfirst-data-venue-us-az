@@ -2,13 +2,14 @@
   "id": 169029641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271956,33.656778,-112.271956,33.656778",
     "geom:latitude":33.656778,
     "geom:longitude":-112.271956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19044 N 98th Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169029641,
-    "wof:lastmodified":1449034068,
+    "wof:lastmodified":1466326835,
     "wof:name":"World of Lugers",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.271956,33.656778,-112.271956,33.656778],
+  "bbox": [
+    -112.271956,
+    33.656778,
+    -112.271956,
+    33.656778
+],
   "geometry": {"coordinates":[-112.271956,33.656778],"type":"Point"}
 }

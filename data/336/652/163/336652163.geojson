@@ -2,13 +2,14 @@
   "id": 336652163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.998312,33.399765,-111.998312,33.399765",
     "geom:latitude":33.399765,
     "geom:longitude":-111.998312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 E Roeser Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336652163,
-    "wof:lastmodified":1448997627,
+    "wof:lastmodified":1466327868,
     "wof:name":"Schneider Wholesale",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "distributor"
     ]
 },
-  "bbox": [-111.998312,33.399765,-111.998312,33.399765],
+  "bbox": [
+    -111.998312,
+    33.399765,
+    -111.998312,
+    33.399765
+],
   "geometry": {"coordinates":[-111.998312,33.399765],"type":"Point"}
 }

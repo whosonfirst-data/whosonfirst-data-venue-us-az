@@ -2,13 +2,14 @@
   "id": 320658005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151783,33.469115,-112.151783,33.469115",
     "geom:latitude":33.469115,
     "geom:longitude":-112.151783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 N 43rd Ave Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":320658005,
-    "wof:lastmodified":1449011185,
+    "wof:lastmodified":1466327213,
     "wof:name":"Los Vecinos Apartments",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "carpet"
     ]
 },
-  "bbox": [-112.151783,33.469115,-112.151783,33.469115],
-  "geometry": {"coordinates":[-112.151783,33.469115],"type":"Point"}
+  "bbox": [
+    -112.151783,
+    33.469115,
+    -112.151783,
+    33.469115
+],
+  "geometry": {"coordinates":[-112.15178299999999,33.469115],"type":"Point"}
 }

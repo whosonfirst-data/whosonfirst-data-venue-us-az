@@ -2,13 +2,14 @@
   "id": 336953417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.900223,33.509569,-111.900223,33.509569",
     "geom:latitude":33.509569,
     "geom:longitude":-111.900223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 N Granite Reef Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336953417,
-    "wof:lastmodified":1448997668,
+    "wof:lastmodified":1466330835,
     "wof:name":"Dead Sea Therapeutic Salt Room",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salt"
     ]
 },
-  "bbox": [-111.900223,33.509569,-111.900223,33.509569],
+  "bbox": [
+    -111.900223,
+    33.509569,
+    -111.900223,
+    33.509569
+],
   "geometry": {"coordinates":[-111.900223,33.509569],"type":"Point"}
 }

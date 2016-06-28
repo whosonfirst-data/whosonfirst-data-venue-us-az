@@ -2,13 +2,14 @@
   "id": 169254085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.985142,32.250337,-110.985142,32.250337",
     "geom:latitude":32.250337,
     "geom:longitude":-110.985142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169254085,
-    "wof:lastmodified":1449034962,
+    "wof:lastmodified":1466332497,
     "wof:name":"Ang Affordable Furniture",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.985142,32.250337,-110.985142,32.250337],
+  "bbox": [
+    -110.985142,
+    32.250337,
+    -110.985142,
+    32.250337
+],
   "geometry": {"coordinates":[-110.985142,32.250337],"type":"Point"}
 }

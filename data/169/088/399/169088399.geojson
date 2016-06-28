@@ -2,13 +2,14 @@
   "id": 169088399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925771,32.184265,-110.925771,32.184265",
     "geom:latitude":32.184265,
     "geom:longitude":-110.925771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3262 E 44th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.olearyconst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169088399,
-    "wof:lastmodified":1449035228,
+    "wof:lastmodified":1466330353,
     "wof:name":"O'Leary Construction Inc",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.925771,32.184265,-110.925771,32.184265],
+  "bbox": [
+    -110.925771,
+    32.184265,
+    -110.925771,
+    32.184265
+],
   "geometry": {"coordinates":[-110.925771,32.184265],"type":"Point"}
 }

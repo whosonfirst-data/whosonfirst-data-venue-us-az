@@ -2,13 +2,14 @@
   "id": 168870279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968672,32.239219,-110.968672,32.239219",
     "geom:latitude":32.239219,
     "geom:longitude":-110.968672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 N 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168870279,
-    "wof:lastmodified":1449027966,
+    "wof:lastmodified":1466327476,
     "wof:name":"Sub-Space Recordings",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.968672,32.239219,-110.968672,32.239219],
+  "bbox": [
+    -110.968672,
+    32.239219,
+    -110.968672,
+    32.239219
+],
   "geometry": {"coordinates":[-110.968672,32.239219],"type":"Point"}
 }

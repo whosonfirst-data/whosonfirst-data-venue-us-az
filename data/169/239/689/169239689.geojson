@@ -2,13 +2,14 @@
   "id": 169239689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11077,33.469645,-112.11077,33.469645",
     "geom:latitude":33.469645,
     "geom:longitude":-112.11077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 W Palm Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     "sg:website":"www.graphicsystemsintl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169239689,
-    "wof:lastmodified":1449032987,
+    "wof:lastmodified":1466332419,
     "wof:name":"Graphic Systems International",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.11077,33.469645,-112.11077,33.469645],
+  "bbox": [
+    -112.11077,
+    33.469645,
+    -112.11077,
+    33.469645
+],
   "geometry": {"coordinates":[-112.11077,33.469645],"type":"Point"}
 }

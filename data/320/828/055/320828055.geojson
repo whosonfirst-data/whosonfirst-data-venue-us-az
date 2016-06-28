@@ -2,13 +2,14 @@
   "id": 320828055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09989,33.683038,-112.09989,33.683038",
     "geom:latitude":33.683038,
     "geom:longitude":-112.09989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21640 N 19th Ave Ste C102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320828055,
-    "wof:lastmodified":1449013148,
+    "wof:lastmodified":1466330162,
     "wof:name":"Show Control",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [-112.09989,33.683038,-112.09989,33.683038],
+  "bbox": [
+    -112.09989,
+    33.683038,
+    -112.09989,
+    33.683038
+],
   "geometry": {"coordinates":[-112.09989,33.683038],"type":"Point"}
 }

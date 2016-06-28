@@ -2,13 +2,14 @@
   "id": 353408685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966187,33.41753,-111.966187,33.41753",
     "geom:latitude":33.41753,
     "geom:longitude":-111.966187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W 10th Pl",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353408685,
-    "wof:lastmodified":1449018562,
+    "wof:lastmodified":1466326325,
     "wof:name":"Ricoh Business Solutions",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.966187,33.41753,-111.966187,33.41753],
-  "geometry": {"coordinates":[-111.966187,33.41753],"type":"Point"}
+  "bbox": [
+    -111.966187,
+    33.41753,
+    -111.966187,
+    33.41753
+],
+  "geometry": {"coordinates":[-111.96618700000001,33.41753],"type":"Point"}
 }

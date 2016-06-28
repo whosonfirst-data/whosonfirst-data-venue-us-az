@@ -2,13 +2,14 @@
   "id": 336744309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124654,33.804988,-112.124654,33.804988",
     "geom:latitude":33.804988,
     "geom:longitude":-112.124654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 W Gran Paradiso Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336744309,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466328677,
     "wof:name":"Pyro Tech Design",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.124654,33.804988,-112.124654,33.804988],
-  "geometry": {"coordinates":[-112.124654,33.804988],"type":"Point"}
+  "bbox": [
+    -112.124654,
+    33.804988,
+    -112.124654,
+    33.804988
+],
+  "geometry": {"coordinates":[-112.12465400000001,33.804988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152938567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.47978,34.551782,-112.47978,34.551782",
     "geom:latitude":34.551782,
     "geom:longitude":-112.47978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Miller Valley Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152938567,
-    "wof:lastmodified":1449047753,
+    "wof:lastmodified":1466326582,
     "wof:name":"Celebrations & Ceremonies",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.47978,34.551782,-112.47978,34.551782],
-  "geometry": {"coordinates":[-112.47978,34.551782],"type":"Point"}
+  "bbox": [
+    -112.47978,
+    34.551782,
+    -112.47978,
+    34.551782
+],
+  "geometry": {"coordinates":[-112.47978000000001,34.551782],"type":"Point"}
 }

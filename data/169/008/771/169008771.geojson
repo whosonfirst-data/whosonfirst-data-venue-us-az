@@ -2,13 +2,14 @@
   "id": 169008771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966672,32.2265,-110.966672,32.2265",
     "geom:latitude":32.2265,
     "geom:longitude":-110.966672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E 7th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169008771,
-    "wof:lastmodified":1449033725,
+    "wof:lastmodified":1466326684,
     "wof:name":"Ordinary Bike Repair Shop",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966672,32.2265,-110.966672,32.2265],
+  "bbox": [
+    -110.966672,
+    32.2265,
+    -110.966672,
+    32.2265
+],
   "geometry": {"coordinates":[-110.966672,32.2265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336914717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.798332,33.345369,-111.798332,33.345369",
     "geom:latitude":33.345369,
     "geom:longitude":-111.798332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 S Neely St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336914717,
-    "wof:lastmodified":1448997355,
+    "wof:lastmodified":1466330585,
     "wof:name":"Arizona Football Officials Association",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.798332,33.345369,-111.798332,33.345369],
+  "bbox": [
+    -111.798332,
+    33.345369,
+    -111.798332,
+    33.345369
+],
   "geometry": {"coordinates":[-111.798332,33.345369],"type":"Point"}
 }

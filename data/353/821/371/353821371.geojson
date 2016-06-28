@@ -2,13 +2,14 @@
   "id": 353821371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.900902,32.204243,-110.900902,32.204243",
     "geom:latitude":32.204243,
     "geom:longitude":-110.900902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 S Columbus Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353821371,
-    "wof:lastmodified":1449019650,
+    "wof:lastmodified":1466330518,
     "wof:name":"Columbus Village Apartments",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.900902,32.204243,-110.900902,32.204243],
+  "bbox": [
+    -110.900902,
+    32.204243,
+    -110.900902,
+    32.204243
+],
   "geometry": {"coordinates":[-110.900902,32.204243],"type":"Point"}
 }

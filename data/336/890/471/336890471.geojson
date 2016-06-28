@@ -2,13 +2,14 @@
   "id": 336890471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96086,33.312674,-111.96086,33.312674",
     "geom:latitude":33.312674,
     "geom:longitude":-111.96086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6875 W Galveston St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336890471,
-    "wof:lastmodified":1448997189,
+    "wof:lastmodified":1466330188,
     "wof:name":"Conditioned Air Mechanical/Tri City Mechanical",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.96086,33.312674,-111.96086,33.312674],
+  "bbox": [
+    -111.96086,
+    33.312674,
+    -111.96086,
+    33.312674
+],
   "geometry": {"coordinates":[-111.96086,33.312674],"type":"Point"}
 }

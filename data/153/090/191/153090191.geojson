@@ -2,13 +2,14 @@
   "id": 153090191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.877175,32.478397,-110.877175,32.478397",
     "geom:latitude":32.478397,
     "geom:longitude":-110.877175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5398 E Golder Ranch Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.fdamaze.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153090191,
-    "wof:lastmodified":1449040717,
+    "wof:lastmodified":1466329353,
     "wof:name":"Oracle Consulting Group",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.877175,32.478397,-110.877175,32.478397],
-  "geometry": {"coordinates":[-110.877175,32.478397],"type":"Point"}
+  "bbox": [
+    -110.877175,
+    32.478397,
+    -110.877175,
+    32.478397
+],
+  "geometry": {"coordinates":[-110.87717499999999,32.478397],"type":"Point"}
 }

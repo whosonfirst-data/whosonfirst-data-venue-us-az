@@ -2,13 +2,14 @@
   "id": 168828139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.08309,32.289111,-111.08309,32.289111",
     "geom:latitude":32.289111,
     "geom:longitude":-111.08309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 N Pso del Barranco",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168828139,
-    "wof:lastmodified":1449028168,
+    "wof:lastmodified":1466325949,
     "wof:name":"Dynavar Networking",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.08309,32.289111,-111.08309,32.289111],
+  "bbox": [
+    -111.08309,
+    32.289111,
+    -111.08309,
+    32.289111
+],
   "geometry": {"coordinates":[-111.08309,32.289111],"type":"Point"}
 }

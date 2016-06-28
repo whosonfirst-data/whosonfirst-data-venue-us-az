@@ -2,13 +2,14 @@
   "id": 320606225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07542,33.458642,-112.07542,33.458642",
     "geom:latitude":33.458642,
     "geom:longitude":-112.07542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Roosevelt St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":320606225,
-    "wof:lastmodified":1449011828,
+    "wof:lastmodified":1466325909,
     "wof:name":"The Episcopal Diocese Of Arizona",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "wedding"
     ]
 },
-  "bbox": [-112.07542,33.458642,-112.07542,33.458642],
-  "geometry": {"coordinates":[-112.07542,33.458642],"type":"Point"}
+  "bbox": [
+    -112.07542,
+    33.458642,
+    -112.07542,
+    33.458642
+],
+  "geometry": {"coordinates":[-112.07541999999999,33.458642],"type":"Point"}
 }

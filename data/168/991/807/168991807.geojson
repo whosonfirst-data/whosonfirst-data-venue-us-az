@@ -2,13 +2,14 @@
   "id": 168991807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.768584,33.370932,-111.768584,33.370932",
     "geom:latitude":33.370932,
     "geom:longitude":-111.768584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 E Juanita Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168991807,
-    "wof:lastmodified":1449027989,
+    "wof:lastmodified":1466331700,
     "wof:name":"Russell Custom Polishing",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.768584,33.370932,-111.768584,33.370932],
+  "bbox": [
+    -111.768584,
+    33.370932,
+    -111.768584,
+    33.370932
+],
   "geometry": {"coordinates":[-111.768584,33.370932],"type":"Point"}
 }

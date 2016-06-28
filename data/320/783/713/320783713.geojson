@@ -2,13 +2,14 @@
   "id": 320783713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.084244,33.541021,-112.084244,33.541021",
     "geom:latitude":33.541021,
     "geom:longitude":-112.084244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W Glenn Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320783713,
-    "wof:lastmodified":1449011381,
+    "wof:lastmodified":1466329460,
     "wof:name":"Integra Asset Mangement",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-112.084244,33.541021,-112.084244,33.541021],
+  "bbox": [
+    -112.084244,
+    33.541021,
+    -112.084244,
+    33.541021
+],
   "geometry": {"coordinates":[-112.084244,33.541021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169380303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004126,33.489347,-112.004126,33.489347",
     "geom:latitude":33.489347,
     "geom:longitude":-112.004126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 N 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169380303,
-    "wof:lastmodified":1449034201,
+    "wof:lastmodified":1466333768,
     "wof:name":"Monte Vista Palms",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004126,33.489347,-112.004126,33.489347],
+  "bbox": [
+    -112.004126,
+    33.489347,
+    -112.004126,
+    33.489347
+],
   "geometry": {"coordinates":[-112.004126,33.489347],"type":"Point"}
 }

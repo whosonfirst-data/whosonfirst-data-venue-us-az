@@ -2,13 +2,14 @@
   "id": 169060109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.025363,35.206818,-114.025363,35.206818",
     "geom:latitude":35.206818,
     "geom:longitude":-114.025363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 Golden Gate Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169060109,
-    "wof:lastmodified":1449035655,
+    "wof:lastmodified":1466329223,
     "wof:name":"Arizona Regional Area Trucking",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.025363,35.206818,-114.025363,35.206818],
+  "bbox": [
+    -114.025363,
+    35.206818,
+    -114.025363,
+    35.206818
+],
   "geometry": {"coordinates":[-114.025363,35.206818],"type":"Point"}
 }

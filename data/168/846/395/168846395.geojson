@@ -2,13 +2,14 @@
   "id": 168846395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.087082,33.650935,-112.087082,33.650935",
     "geom:latitude":33.650935,
     "geom:longitude":-112.087082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 W Michigan Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835119,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168846395,
-    "wof:lastmodified":1449028408,
+    "wof:lastmodified":1466327538,
     "wof:name":"Clarks Creations Plus LLC",
     "wof:parent_id":85835119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.087082,33.650935,-112.087082,33.650935],
+  "bbox": [
+    -112.087082,
+    33.650935,
+    -112.087082,
+    33.650935
+],
   "geometry": {"coordinates":[-112.087082,33.650935],"type":"Point"}
 }

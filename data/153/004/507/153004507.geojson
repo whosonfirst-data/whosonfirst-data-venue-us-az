@@ -2,13 +2,14 @@
   "id": 153004507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.883935,32.22531,-110.883935,32.22531",
     "geom:latitude":32.22531,
     "geom:longitude":-110.883935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 N Rosemont Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153004507,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1466325736,
     "wof:name":"Coronado Station",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.883935,32.22531,-110.883935,32.22531],
-  "geometry": {"coordinates":[-110.883935,32.22531],"type":"Point"}
+  "bbox": [
+    -110.883935,
+    32.22531,
+    -110.883935,
+    32.22531
+],
+  "geometry": {"coordinates":[-110.88393499999999,32.22531],"type":"Point"}
 }

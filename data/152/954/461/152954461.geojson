@@ -2,13 +2,14 @@
   "id": 152954461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.736331,32.889886,-111.736331,32.889886",
     "geom:latitude":32.889886,
     "geom:longitude":-111.736331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 E Bonita Pl",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152954461,
-    "wof:lastmodified":1449048323,
+    "wof:lastmodified":1466327687,
     "wof:name":"Under Your Feet Construction",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.736331,32.889886,-111.736331,32.889886],
-  "geometry": {"coordinates":[-111.736331,32.889886],"type":"Point"}
+  "bbox": [
+    -111.736331,
+    32.889886,
+    -111.736331,
+    32.889886
+],
+  "geometry": {"coordinates":[-111.73633100000001,32.889886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168848101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.982663,32.153684,-110.982663,32.153684",
     "geom:latitude":32.153684,
     "geom:longitude":-110.982663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 S Canada Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168848101,
-    "wof:lastmodified":1449027879,
+    "wof:lastmodified":1466327632,
     "wof:name":"Custom Roofing Co Inc",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.982663,32.153684,-110.982663,32.153684],
+  "bbox": [
+    -110.982663,
+    32.153684,
+    -110.982663,
+    32.153684
+],
   "geometry": {"coordinates":[-110.982663,32.153684],"type":"Point"}
 }

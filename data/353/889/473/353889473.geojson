@@ -2,13 +2,14 @@
   "id": 353889473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.388547,34.553491,-112.388547,34.553491",
     "geom:latitude":34.553491,
     "geom:longitude":-112.388547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Hummingbird Way",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353889473,
-    "wof:lastmodified":1449018207,
+    "wof:lastmodified":1466331047,
     "wof:name":"Thunderbird Property Inspection",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-112.388547,34.553491,-112.388547,34.553491],
+  "bbox": [
+    -112.388547,
+    34.553491,
+    -112.388547,
+    34.553491
+],
   "geometry": {"coordinates":[-112.388547,34.553491],"type":"Point"}
 }

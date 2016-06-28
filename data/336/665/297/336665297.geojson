@@ -2,13 +2,14 @@
   "id": 336665297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009665,33.407088,-112.009665,33.407088",
     "geom:latitude":33.407088,
     "geom:longitude":-112.009665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 E Broadway Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336665297,
-    "wof:lastmodified":1448997277,
+    "wof:lastmodified":1466327312,
     "wof:name":"Fusion Formulations",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.009665,33.407088,-112.009665,33.407088],
+  "bbox": [
+    -112.009665,
+    33.407088,
+    -112.009665,
+    33.407088
+],
   "geometry": {"coordinates":[-112.009665,33.407088],"type":"Point"}
 }

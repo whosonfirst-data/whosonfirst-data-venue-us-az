@@ -2,13 +2,14 @@
   "id": 353767451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.510838,33.476956,-112.510838,33.476956",
     "geom:latitude":33.476956,
     "geom:longitude":-112.510838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21010 W Hamilton St",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353767451,
-    "wof:lastmodified":1449019006,
+    "wof:lastmodified":1466330187,
     "wof:name":"Data Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-112.510838,33.476956,-112.510838,33.476956],
-  "geometry": {"coordinates":[-112.510838,33.476956],"type":"Point"}
+  "bbox": [
+    -112.510838,
+    33.476956,
+    -112.510838,
+    33.476956
+],
+  "geometry": {"coordinates":[-112.51083800000001,33.476956],"type":"Point"}
 }

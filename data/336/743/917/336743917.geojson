@@ -2,13 +2,14 @@
   "id": 336743917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149471,33.865173,-112.149471,33.865173",
     "geom:latitude":33.865173,
     "geom:longitude":-112.149471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 W Opportunity Way # 102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336743917,
-    "wof:lastmodified":1448998002,
+    "wof:lastmodified":1466328668,
     "wof:name":"Play Fort",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-112.149471,33.865173,-112.149471,33.865173],
-  "geometry": {"coordinates":[-112.149471,33.865173],"type":"Point"}
+  "bbox": [
+    -112.149471,
+    33.865173,
+    -112.149471,
+    33.865173
+],
+  "geometry": {"coordinates":[-112.14947100000001,33.865173],"type":"Point"}
 }

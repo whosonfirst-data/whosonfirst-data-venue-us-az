@@ -2,13 +2,14 @@
   "id": 152986151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968236,33.426325,-111.968236,33.426325",
     "geom:latitude":33.426325,
     "geom:longitude":-111.968236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 W 4th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881427,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152986151,
-    "wof:lastmodified":1449048019,
+    "wof:lastmodified":1466329473,
     "wof:name":"Logical Transitions",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.968236,33.426325,-111.968236,33.426325],
+  "bbox": [
+    -111.968236,
+    33.426325,
+    -111.968236,
+    33.426325
+],
   "geometry": {"coordinates":[-111.968236,33.426325],"type":"Point"}
 }

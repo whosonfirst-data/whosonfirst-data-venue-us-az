@@ -2,13 +2,14 @@
   "id": 168856331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.746296,34.221275,-112.746296,34.221275",
     "geom:latitude":34.221275,
     "geom:longitude":-112.746296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22558 Looka Way",
     "sg:city":"Yarnell",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168856331,
-    "wof:lastmodified":1449027982,
+    "wof:lastmodified":1466326254,
     "wof:name":"Yarnell Fire Department",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.746296,34.221275,-112.746296,34.221275],
+  "bbox": [
+    -112.746296,
+    34.221275,
+    -112.746296,
+    34.221275
+],
   "geometry": {"coordinates":[-112.746296,34.221275],"type":"Point"}
 }

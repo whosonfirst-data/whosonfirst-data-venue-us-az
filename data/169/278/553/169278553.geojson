@@ -2,13 +2,14 @@
   "id": 169278553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.553735,33.401693,-111.553735,33.401693",
     "geom:latitude":33.401693,
     "geom:longitude":-111.553735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 S Buena Vista Dr",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169278553,
-    "wof:lastmodified":1449034514,
+    "wof:lastmodified":1466332738,
     "wof:name":"All Star Mechanical",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.553735,33.401693,-111.553735,33.401693],
+  "bbox": [
+    -111.553735,
+    33.401693,
+    -111.553735,
+    33.401693
+],
   "geometry": {"coordinates":[-111.553735,33.401693],"type":"Point"}
 }

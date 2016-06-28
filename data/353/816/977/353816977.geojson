@@ -2,13 +2,14 @@
   "id": 353816977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.809578,32.235401,-110.809578,32.235401",
     "geom:latitude":32.235401,
     "geom:longitude":-110.809578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8550 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353816977,
-    "wof:lastmodified":1449019758,
+    "wof:lastmodified":1466330397,
     "wof:name":"Huntington Park",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.809578,32.235401,-110.809578,32.235401],
+  "bbox": [
+    -110.809578,
+    32.235401,
+    -110.809578,
+    32.235401
+],
   "geometry": {"coordinates":[-110.809578,32.235401],"type":"Point"}
 }

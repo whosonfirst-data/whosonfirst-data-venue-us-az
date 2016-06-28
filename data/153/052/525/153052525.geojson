@@ -2,13 +2,14 @@
   "id": 153052525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.756514,33.384004,-110.756514,33.384004",
     "geom:latitude":33.384004,
     "geom:longitude":-110.756514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 E Ash St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153052525,
-    "wof:lastmodified":1449040530,
+    "wof:lastmodified":1466327900,
     "wof:name":"Action Hay & Feed",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.756514,33.384004,-110.756514,33.384004],
+  "bbox": [
+    -110.756514,
+    33.384004,
+    -110.756514,
+    33.384004
+],
   "geometry": {"coordinates":[-110.756514,33.384004],"type":"Point"}
 }

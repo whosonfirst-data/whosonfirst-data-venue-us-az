@@ -2,13 +2,14 @@
   "id": 169407845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.2902,33.707129,-112.2902,33.707129",
     "geom:latitude":33.707129,
     "geom:longitude":-112.2902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10711 W Hatfield Rd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169407845,
-    "wof:lastmodified":1449034521,
+    "wof:lastmodified":1466334136,
     "wof:name":"Rainbow Drilling & Pre-Cast",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.2902,33.707129,-112.2902,33.707129],
+  "bbox": [
+    -112.2902,
+    33.707129,
+    -112.2902,
+    33.707129
+],
   "geometry": {"coordinates":[-112.2902,33.707129],"type":"Point"}
 }

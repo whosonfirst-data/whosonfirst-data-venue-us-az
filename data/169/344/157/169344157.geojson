@@ -2,13 +2,14 @@
   "id": 169344157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974123,32.216908,-110.974123,32.216908",
     "geom:latitude":32.216908,
     "geom:longitude":-110.974123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 W Cushing St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871759,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169344157,
-    "wof:lastmodified":1449032852,
+    "wof:lastmodified":1466333435,
     "wof:name":"Alfred Mc Donald Law Office",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974123,32.216908,-110.974123,32.216908],
-  "geometry": {"coordinates":[-110.974123,32.216908],"type":"Point"}
+  "bbox": [
+    -110.974123,
+    32.216908,
+    -110.974123,
+    32.216908
+],
+  "geometry": {"coordinates":[-110.97412300000001,32.216908],"type":"Point"}
 }

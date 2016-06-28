@@ -2,13 +2,14 @@
   "id": 152953817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.343785,34.474352,-114.343785,34.474352",
     "geom:latitude":34.474352,
     "geom:longitude":-114.343785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 McCulloch Blvd N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.mccullochrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152953817,
-    "wof:lastmodified":1449047487,
+    "wof:lastmodified":1466327642,
     "wof:name":"Mc Culloch Realty Corp",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.343785,34.474352,-114.343785,34.474352],
+  "bbox": [
+    -114.343785,
+    34.474352,
+    -114.343785,
+    34.474352
+],
   "geometry": {"coordinates":[-114.343785,34.474352],"type":"Point"}
 }

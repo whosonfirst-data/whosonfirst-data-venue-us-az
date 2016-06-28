@@ -2,13 +2,14 @@
   "id": 353798135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.710674,32.048649,-110.710674,32.048649",
     "geom:latitude":32.048649,
     "geom:longitude":-110.710674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13333 E Colossal Cave Rd",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353798135,
-    "wof:lastmodified":1449018724,
+    "wof:lastmodified":1466330221,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-110.710674,32.048649,-110.710674,32.048649],
+  "bbox": [
+    -110.710674,
+    32.048649,
+    -110.710674,
+    32.048649
+],
   "geometry": {"coordinates":[-110.710674,32.048649],"type":"Point"}
 }

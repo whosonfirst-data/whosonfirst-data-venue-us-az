@@ -2,13 +2,14 @@
   "id": 169313765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.764262,32.193637,-110.764262,32.193637",
     "geom:latitude":32.193637,
     "geom:longitude":-110.764262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 S Ave Los Reyes",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169313765,
-    "wof:lastmodified":1449032786,
+    "wof:lastmodified":1466333145,
     "wof:name":"Leisiure Time Svc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.764262,32.193637,-110.764262,32.193637],
+  "bbox": [
+    -110.764262,
+    32.193637,
+    -110.764262,
+    32.193637
+],
   "geometry": {"coordinates":[-110.764262,32.193637],"type":"Point"}
 }

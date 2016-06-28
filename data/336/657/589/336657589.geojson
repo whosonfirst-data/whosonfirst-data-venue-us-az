@@ -2,13 +2,14 @@
   "id": 336657589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991465,33.417337,-111.991465,33.417337",
     "geom:latitude":33.417337,
     "geom:longitude":-111.991465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4302 E Superior Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":336657589,
-    "wof:lastmodified":1448997050,
+    "wof:lastmodified":1466327117,
     "wof:name":"Site Utility Hawk Electric",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-111.991465,33.417337,-111.991465,33.417337],
-  "geometry": {"coordinates":[-111.991465,33.417337],"type":"Point"}
+  "bbox": [
+    -111.991465,
+    33.417337,
+    -111.991465,
+    33.417337
+],
+  "geometry": {"coordinates":[-111.99146500000001,33.417337],"type":"Point"}
 }

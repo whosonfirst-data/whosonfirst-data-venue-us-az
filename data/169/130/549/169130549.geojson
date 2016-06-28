@@ -2,13 +2,14 @@
   "id": 169130549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916874,33.371716,-111.916874,33.371716",
     "geom:latitude":33.371716,
     "geom:longitude":-111.916874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5639 S Outrigger Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169130549,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466331535,
     "wof:name":"EPC Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916874,33.371716,-111.916874,33.371716],
-  "geometry": {"coordinates":[-111.916874,33.371716],"type":"Point"}
+  "bbox": [
+    -111.916874,
+    33.371716,
+    -111.916874,
+    33.371716
+],
+  "geometry": {"coordinates":[-111.91687400000001,33.371716],"type":"Point"}
 }

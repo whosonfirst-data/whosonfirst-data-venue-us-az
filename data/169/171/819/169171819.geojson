@@ -2,13 +2,14 @@
   "id": 169171819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111378,33.470889,-112.111378,33.470889",
     "geom:latitude":33.470889,
     "geom:longitude":-112.111378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 W Holly St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.productsinternational.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169171819,
-    "wof:lastmodified":1449035982,
+    "wof:lastmodified":1466331901,
     "wof:name":"Products International",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.111378,33.470889,-112.111378,33.470889],
+  "bbox": [
+    -112.111378,
+    33.470889,
+    -112.111378,
+    33.470889
+],
   "geometry": {"coordinates":[-112.111378,33.470889],"type":"Point"}
 }

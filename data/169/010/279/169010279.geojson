@@ -2,13 +2,14 @@
   "id": 169010279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.761586,32.232099,-110.761586,32.232099",
     "geom:latitude":32.232099,
     "geom:longitude":-110.761586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 N Western Ridge Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169010279,
-    "wof:lastmodified":1449034742,
+    "wof:lastmodified":1466326850,
     "wof:name":"Forgue Enterprises",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.761586,32.232099,-110.761586,32.232099],
-  "geometry": {"coordinates":[-110.761586,32.232099],"type":"Point"}
+  "bbox": [
+    -110.761586,
+    32.232099,
+    -110.761586,
+    32.232099
+],
+  "geometry": {"coordinates":[-110.76158599999999,32.232099],"type":"Point"}
 }

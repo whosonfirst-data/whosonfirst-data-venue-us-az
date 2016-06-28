@@ -2,13 +2,14 @@
   "id": 169290979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917775,33.36069,-111.917775,33.36069",
     "geom:latitude":33.36069,
     "geom:longitude":-111.917775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 E Carmen St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881391,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169290979,
-    "wof:lastmodified":1449034094,
+    "wof:lastmodified":1466332988,
     "wof:name":"Diavante Realty LLC",
     "wof:parent_id":85881391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.917775,33.36069,-111.917775,33.36069],
-  "geometry": {"coordinates":[-111.917775,33.36069],"type":"Point"}
+  "bbox": [
+    -111.917775,
+    33.36069,
+    -111.917775,
+    33.36069
+],
+  "geometry": {"coordinates":[-111.91777500000001,33.36069],"type":"Point"}
 }

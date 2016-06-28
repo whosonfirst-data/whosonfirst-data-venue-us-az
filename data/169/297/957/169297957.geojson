@@ -2,13 +2,14 @@
   "id": 169297957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936822,32.221548,-110.936822,32.221548",
     "geom:latitude":32.221548,
     "geom:longitude":-110.936822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169297957,
-    "wof:lastmodified":1449034789,
+    "wof:lastmodified":1466332980,
     "wof:name":"Net West Developmrent Corp",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936822,32.221548,-110.936822,32.221548],
-  "geometry": {"coordinates":[-110.936822,32.221548],"type":"Point"}
+  "bbox": [
+    -110.936822,
+    32.221548,
+    -110.936822,
+    32.221548
+],
+  "geometry": {"coordinates":[-110.93682200000001,32.221548],"type":"Point"}
 }

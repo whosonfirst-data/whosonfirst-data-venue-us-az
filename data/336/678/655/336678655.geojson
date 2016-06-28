@@ -2,13 +2,14 @@
   "id": 336678655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.066915,33.382257,-112.066915,33.382257",
     "geom:latitude":33.382257,
     "geom:longitude":-112.066915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Carter Rd Ste 700",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336678655,
-    "wof:lastmodified":1448997475,
+    "wof:lastmodified":1466327649,
     "wof:name":"Sonoran Energy Solutions",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.066915,33.382257,-112.066915,33.382257],
-  "geometry": {"coordinates":[-112.066915,33.382257],"type":"Point"}
+  "bbox": [
+    -112.066915,
+    33.382257,
+    -112.066915,
+    33.382257
+],
+  "geometry": {"coordinates":[-112.06691499999999,33.382257],"type":"Point"}
 }

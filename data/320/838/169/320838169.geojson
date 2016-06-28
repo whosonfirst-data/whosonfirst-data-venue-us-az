@@ -2,13 +2,14 @@
   "id": 320838169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006497,33.582583,-112.006497,33.582583",
     "geom:latitude":33.582583,
     "geom:longitude":-112.006497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3519 E Shea Blvd Ste 138",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320838169,
-    "wof:lastmodified":1449011700,
+    "wof:lastmodified":1466330336,
     "wof:name":"Carino Properties",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "park"
     ]
 },
-  "bbox": [-112.006497,33.582583,-112.006497,33.582583],
+  "bbox": [
+    -112.006497,
+    33.582583,
+    -112.006497,
+    33.582583
+],
   "geometry": {"coordinates":[-112.006497,33.582583],"type":"Point"}
 }

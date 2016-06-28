@@ -2,13 +2,14 @@
   "id": 353866557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.998334,34.534172,-109.998334,34.534172",
     "geom:latitude":34.534172,
     "geom:longitude":-109.998334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4474 Keats Rd",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353866557,
-    "wof:lastmodified":1449019475,
+    "wof:lastmodified":1466330761,
     "wof:name":"Realty",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-109.998334,34.534172,-109.998334,34.534172],
+  "bbox": [
+    -109.998334,
+    34.534172,
+    -109.998334,
+    34.534172
+],
   "geometry": {"coordinates":[-109.998334,34.534172],"type":"Point"}
 }

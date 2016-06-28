@@ -2,13 +2,14 @@
   "id": 169014569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.451872,33.707603,-112.451872,33.707603",
     "geom:latitude":33.707603,
     "geom:longitude":-112.451872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18151 W Enoch Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169014569,
-    "wof:lastmodified":1449034307,
+    "wof:lastmodified":1466327504,
     "wof:name":"Jerry's Custom Wrought Iron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.451872,33.707603,-112.451872,33.707603],
-  "geometry": {"coordinates":[-112.451872,33.707603],"type":"Point"}
+  "bbox": [
+    -112.451872,
+    33.707603,
+    -112.451872,
+    33.707603
+],
+  "geometry": {"coordinates":[-112.45187199999999,33.707603],"type":"Point"}
 }

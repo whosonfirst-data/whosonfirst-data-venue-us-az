@@ -2,13 +2,14 @@
   "id": 168942687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908857,33.480546,-111.908857,33.480546",
     "geom:latitude":33.480546,
     "geom:longitude":-111.908857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3019 N Hayden Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hindutempleaz.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880951,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168942687,
-    "wof:lastmodified":1449028129,
+    "wof:lastmodified":1466330655,
     "wof:name":"Hindu Temple Of Arizona",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.908857,33.480546,-111.908857,33.480546],
+  "bbox": [
+    -111.908857,
+    33.480546,
+    -111.908857,
+    33.480546
+],
   "geometry": {"coordinates":[-111.908857,33.480546],"type":"Point"}
 }

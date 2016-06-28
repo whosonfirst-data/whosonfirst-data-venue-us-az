@@ -2,13 +2,14 @@
   "id": 168932415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.083324,34.509366,-110.083324,34.509366",
     "geom:latitude":34.509366,
     "geom:longitude":-110.083324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Center St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168932415,
-    "wof:lastmodified":1449028043,
+    "wof:lastmodified":1466330798,
     "wof:name":"Smith Moulding Inc",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.083324,34.509366,-110.083324,34.509366],
+  "bbox": [
+    -110.083324,
+    34.509366,
+    -110.083324,
+    34.509366
+],
   "geometry": {"coordinates":[-110.083324,34.509366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169353283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.612189,32.698457,-114.612189,32.698457",
     "geom:latitude":32.698457,
     "geom:longitude":-114.612189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 E 16th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169353283,
-    "wof:lastmodified":1449033634,
+    "wof:lastmodified":1466333481,
     "wof:name":"Gila Veterinary Clinic",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.612189,32.698457,-114.612189,32.698457],
+  "bbox": [
+    -114.612189,
+    32.698457,
+    -114.612189,
+    32.698457
+],
   "geometry": {"coordinates":[-114.612189,32.698457],"type":"Point"}
 }

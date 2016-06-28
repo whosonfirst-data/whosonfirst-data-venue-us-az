@@ -2,13 +2,14 @@
   "id": 353690171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.310707,33.573269,-112.310707,33.573269",
     "geom:latitude":33.573269,
     "geom:longitude":-112.310707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10270 N 116th Ln",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353690171,
-    "wof:lastmodified":1449019608,
+    "wof:lastmodified":1466329542,
     "wof:name":"CNM Construction",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-112.310707,33.573269,-112.310707,33.573269],
-  "geometry": {"coordinates":[-112.310707,33.573269],"type":"Point"}
+  "bbox": [
+    -112.310707,
+    33.573269,
+    -112.310707,
+    33.573269
+],
+  "geometry": {"coordinates":[-112.31070699999999,33.573269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336953931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925747,33.526866,-111.925747,33.526866",
     "geom:latitude":33.526866,
     "geom:longitude":-111.925747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6149 N Scottsdale Rd # A101",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336953931,
-    "wof:lastmodified":1448997671,
+    "wof:lastmodified":1466330847,
     "wof:name":"Humble Pie",
     "wof:parent_id":85829861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-111.925747,33.526866,-111.925747,33.526866],
+  "bbox": [
+    -111.925747,
+    33.526866,
+    -111.925747,
+    33.526866
+],
   "geometry": {"coordinates":[-111.925747,33.526866],"type":"Point"}
 }

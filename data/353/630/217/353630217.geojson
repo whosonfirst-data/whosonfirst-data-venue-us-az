@@ -2,13 +2,14 @@
   "id": 353630217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.55639,33.432547,-112.55639,33.432547",
     "geom:latitude":33.432547,
     "geom:longitude":-112.55639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 S Watson Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353630217,
-    "wof:lastmodified":1449019168,
+    "wof:lastmodified":1466328893,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-112.55639,33.432547,-112.55639,33.432547],
-  "geometry": {"coordinates":[-112.55639,33.432547],"type":"Point"}
+  "bbox": [
+    -112.55639,
+    33.432547,
+    -112.55639,
+    33.432547
+],
+  "geometry": {"coordinates":[-112.55638999999999,33.432547],"type":"Point"}
 }

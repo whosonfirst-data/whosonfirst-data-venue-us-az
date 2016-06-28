@@ -2,13 +2,14 @@
   "id": 169309535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.602873,32.677277,-114.602873,32.677277",
     "geom:latitude":32.677277,
     "geom:longitude":-114.602873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 E Palo Verde St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895867,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169309535,
-    "wof:lastmodified":1449033416,
+    "wof:lastmodified":1466333100,
     "wof:name":"American Self Storage",
     "wof:parent_id":85895867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.602873,32.677277,-114.602873,32.677277],
+  "bbox": [
+    -114.602873,
+    32.677277,
+    -114.602873,
+    32.677277
+],
   "geometry": {"coordinates":[-114.602873,32.677277],"type":"Point"}
 }

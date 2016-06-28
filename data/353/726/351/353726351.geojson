@@ -2,13 +2,14 @@
   "id": 353726351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.385027,33.638603,-112.385027,33.638603",
     "geom:latitude":33.638603,
     "geom:longitude":-112.385027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15027 W Bell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353726351,
-    "wof:lastmodified":1449019989,
+    "wof:lastmodified":1466329819,
     "wof:name":"Denny Kuller Repair",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.385027,33.638603,-112.385027,33.638603],
-  "geometry": {"coordinates":[-112.385027,33.638603],"type":"Point"}
+  "bbox": [
+    -112.385027,
+    33.638603,
+    -112.385027,
+    33.638603
+],
+  "geometry": {"coordinates":[-112.38502699999999,33.638603],"type":"Point"}
 }

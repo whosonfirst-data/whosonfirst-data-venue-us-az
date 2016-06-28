@@ -2,13 +2,14 @@
   "id": 152933835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.843252,32.208113,-110.843252,32.208113",
     "geom:latitude":32.208113,
     "geom:longitude":-110.843252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7020 E 21st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152933835,
-    "wof:lastmodified":1449045251,
+    "wof:lastmodified":1466326244,
     "wof:name":"Pizzano's Pizza",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.843252,32.208113,-110.843252,32.208113],
-  "geometry": {"coordinates":[-110.843252,32.208113],"type":"Point"}
+  "bbox": [
+    -110.843252,
+    32.208113,
+    -110.843252,
+    32.208113
+],
+  "geometry": {"coordinates":[-110.84325200000001,32.208113],"type":"Point"}
 }

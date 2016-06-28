@@ -2,13 +2,14 @@
   "id": 169109121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.760356,32.211359,-110.760356,32.211359",
     "geom:latitude":32.211359,
     "geom:longitude":-110.760356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 S Cll Escondido",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169109121,
-    "wof:lastmodified":1449033833,
+    "wof:lastmodified":1466331078,
     "wof:name":"Hill & Nye",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.760356,32.211359,-110.760356,32.211359],
+  "bbox": [
+    -110.760356,
+    32.211359,
+    -110.760356,
+    32.211359
+],
   "geometry": {"coordinates":[-110.760356,32.211359],"type":"Point"}
 }

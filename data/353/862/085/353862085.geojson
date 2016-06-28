@@ -2,13 +2,14 @@
   "id": 353862085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.928173,32.126822,-110.928173,32.126822",
     "geom:latitude":32.126822,
     "geom:longitude":-110.928173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2949 E Elvira Rd Ste 191",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353862085,
-    "wof:lastmodified":1449020879,
+    "wof:lastmodified":1466330876,
     "wof:name":"Dhl Global Forwarding",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-110.928173,32.126822,-110.928173,32.126822],
+  "bbox": [
+    -110.928173,
+    32.126822,
+    -110.928173,
+    32.126822
+],
   "geometry": {"coordinates":[-110.928173,32.126822],"type":"Point"}
 }

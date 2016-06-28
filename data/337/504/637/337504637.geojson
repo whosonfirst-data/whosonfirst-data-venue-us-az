@@ -2,13 +2,14 @@
   "id": 337504637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974373,33.582705,-111.974373,33.582705",
     "geom:latitude":33.582705,
     "geom:longitude":-111.974373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4912 E Shea Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337504637,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1466326290,
     "wof:name":"Ambassador Fine Cigars",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "smoker"
     ]
 },
-  "bbox": [-111.974373,33.582705,-111.974373,33.582705],
+  "bbox": [
+    -111.974373,
+    33.582705,
+    -111.974373,
+    33.582705
+],
   "geometry": {"coordinates":[-111.974373,33.582705],"type":"Point"}
 }

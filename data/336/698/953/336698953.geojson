@@ -2,13 +2,14 @@
   "id": 336698953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996701,33.351408,-111.996701,33.351408",
     "geom:latitude":33.351408,
     "geom:longitude":-111.996701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4016 E Western Star Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336698953,
-    "wof:lastmodified":1448997946,
+    "wof:lastmodified":1466328003,
     "wof:name":"Bright Angel Software",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "support"
     ]
 },
-  "bbox": [-111.996701,33.351408,-111.996701,33.351408],
+  "bbox": [
+    -111.996701,
+    33.351408,
+    -111.996701,
+    33.351408
+],
   "geometry": {"coordinates":[-111.996701,33.351408],"type":"Point"}
 }

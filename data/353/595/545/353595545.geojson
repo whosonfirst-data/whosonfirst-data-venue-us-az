@@ -2,13 +2,14 @@
   "id": 353595545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.180838,33.636682,-112.180838,33.636682",
     "geom:latitude":33.636682,
     "geom:longitude":-112.180838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 W Talavi Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353595545,
-    "wof:lastmodified":1449020561,
+    "wof:lastmodified":1466328454,
     "wof:name":"Delta Dental of Arizona",
     "wof:parent_id":85846577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dental"
     ]
 },
-  "bbox": [-112.180838,33.636682,-112.180838,33.636682],
-  "geometry": {"coordinates":[-112.180838,33.636682],"type":"Point"}
+  "bbox": [
+    -112.180838,
+    33.636682,
+    -112.180838,
+    33.636682
+],
+  "geometry": {"coordinates":[-112.18083799999999,33.636682],"type":"Point"}
 }

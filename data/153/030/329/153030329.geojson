@@ -2,13 +2,14 @@
   "id": 153030329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.24938,33.588632,-112.24938,33.588632",
     "geom:latitude":33.588632,
     "geom:longitude":-112.24938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8876 W Greer Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153030329,
-    "wof:lastmodified":1449040514,
+    "wof:lastmodified":1466325794,
     "wof:name":"Pats Gifts N Knacks",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.24938,33.588632,-112.24938,33.588632],
+  "bbox": [
+    -112.24938,
+    33.588632,
+    -112.24938,
+    33.588632
+],
   "geometry": {"coordinates":[-112.24938,33.588632],"type":"Point"}
 }

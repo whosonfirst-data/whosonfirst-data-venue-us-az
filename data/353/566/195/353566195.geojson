@@ -2,13 +2,14 @@
   "id": 353566195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.155792,33.546684,-112.155792,33.546684",
     "geom:latitude":33.546684,
     "geom:longitude":-112.155792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 N 45th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353566195,
-    "wof:lastmodified":1449018304,
+    "wof:lastmodified":1466328164,
     "wof:name":"Freeport Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-112.155792,33.546684,-112.155792,33.546684],
-  "geometry": {"coordinates":[-112.155792,33.546684],"type":"Point"}
+  "bbox": [
+    -112.155792,
+    33.546684,
+    -112.155792,
+    33.546684
+],
+  "geometry": {"coordinates":[-112.15579200000001,33.546684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169326411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.957551,32.235925,-110.957551,32.235925",
     "geom:latitude":32.235925,
     "geom:longitude":-110.957551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169326411,
-    "wof:lastmodified":1449034073,
+    "wof:lastmodified":1466333083,
     "wof:name":"Los Betos Mexican Food",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.957551,32.235925,-110.957551,32.235925],
+  "bbox": [
+    -110.957551,
+    32.235925,
+    -110.957551,
+    32.235925
+],
   "geometry": {"coordinates":[-110.957551,32.235925],"type":"Point"}
 }

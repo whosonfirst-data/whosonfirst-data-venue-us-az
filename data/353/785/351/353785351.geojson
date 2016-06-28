@@ -2,13 +2,14 @@
   "id": 353785351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.533791,31.344542,-109.533791,31.344542",
     "geom:latitude":31.344542,
     "geom:longitude":-109.533791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Cochise Ave",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353785351,
-    "wof:lastmodified":1449020385,
+    "wof:lastmodified":1466330153,
     "wof:name":"Tommy Nai Spa",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.533791,31.344542,-109.533791,31.344542],
-  "geometry": {"coordinates":[-109.533791,31.344542],"type":"Point"}
+  "bbox": [
+    -109.533791,
+    31.344542,
+    -109.533791,
+    31.344542
+],
+  "geometry": {"coordinates":[-109.53379099999999,31.344542],"type":"Point"}
 }

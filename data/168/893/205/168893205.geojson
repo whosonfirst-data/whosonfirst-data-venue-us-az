@@ -2,13 +2,14 @@
   "id": 168893205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271709,33.598308,-112.271709,33.598308",
     "geom:latitude":33.598308,
     "geom:longitude":-112.271709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9902 W Santa Fe Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168893205,
-    "wof:lastmodified":1449028438,
+    "wof:lastmodified":1466329079,
     "wof:name":"Sun City Car & Truck Sales",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.271709,33.598308,-112.271709,33.598308],
+  "bbox": [
+    -112.271709,
+    33.598308,
+    -112.271709,
+    33.598308
+],
   "geometry": {"coordinates":[-112.271709,33.598308],"type":"Point"}
 }

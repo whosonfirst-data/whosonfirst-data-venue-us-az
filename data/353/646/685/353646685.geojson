@@ -2,13 +2,14 @@
   "id": 353646685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.445541,33.34404,-112.445541,33.34404",
     "geom:latitude":33.34404,
     "geom:longitude":-112.445541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11266 S Santa Margarita Ln",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353646685,
-    "wof:lastmodified":1449018192,
+    "wof:lastmodified":1466329096,
     "wof:name":"Simpson Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-112.445541,33.34404,-112.445541,33.34404],
-  "geometry": {"coordinates":[-112.445541,33.34404],"type":"Point"}
+  "bbox": [
+    -112.445541,
+    33.34404,
+    -112.445541,
+    33.34404
+],
+  "geometry": {"coordinates":[-112.44554100000001,33.34404],"type":"Point"}
 }

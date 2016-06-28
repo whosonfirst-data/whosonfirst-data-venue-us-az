@@ -2,13 +2,14 @@
   "id": 169350797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.3446,33.650646,-112.3446,33.650646",
     "geom:latitude":33.650646,
     "geom:longitude":-112.3446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13206 W Kodiak Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169350797,
-    "wof:lastmodified":1449034364,
+    "wof:lastmodified":1466333561,
     "wof:name":"Carman Realty",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.3446,33.650646,-112.3446,33.650646],
+  "bbox": [
+    -112.3446,
+    33.650646,
+    -112.3446,
+    33.650646
+],
   "geometry": {"coordinates":[-112.3446,33.650646],"type":"Point"}
 }

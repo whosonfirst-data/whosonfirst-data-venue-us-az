@@ -2,13 +2,14 @@
   "id": 168959665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.890936,32.308304,-110.890936,32.308304",
     "geom:latitude":32.308304,
     "geom:longitude":-110.890936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4740 E Sunrise Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871719,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168959665,
-    "wof:lastmodified":1449028516,
+    "wof:lastmodified":1466331116,
     "wof:name":"Julie Rose & Co",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.890936,32.308304,-110.890936,32.308304],
+  "bbox": [
+    -110.890936,
+    32.308304,
+    -110.890936,
+    32.308304
+],
   "geometry": {"coordinates":[-110.890936,32.308304],"type":"Point"}
 }

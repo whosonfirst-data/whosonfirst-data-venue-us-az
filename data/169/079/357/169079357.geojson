@@ -2,13 +2,14 @@
   "id": 169079357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.919434,32.320679,-110.919434,32.320679",
     "geom:latitude":32.320679,
     "geom:longitude":-110.919434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 E Sunrise Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169079357,
-    "wof:lastmodified":1449035414,
+    "wof:lastmodified":1466329998,
     "wof:name":"United Insurance Co Of America",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.919434,32.320679,-110.919434,32.320679],
+  "bbox": [
+    -110.919434,
+    32.320679,
+    -110.919434,
+    32.320679
+],
   "geometry": {"coordinates":[-110.919434,32.320679],"type":"Point"}
 }

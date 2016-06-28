@@ -2,13 +2,14 @@
   "id": 169283391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.296512,33.591665,-112.296512,33.591665",
     "geom:latitude":33.591665,
     "geom:longitude":-112.296512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11032 W Canterbury Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169283391,
-    "wof:lastmodified":1449033663,
+    "wof:lastmodified":1466332855,
     "wof:name":"Crusin Crtters MBL Pet Groming",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.296512,33.591665,-112.296512,33.591665],
-  "geometry": {"coordinates":[-112.296512,33.591665],"type":"Point"}
+  "bbox": [
+    -112.296512,
+    33.591665,
+    -112.296512,
+    33.591665
+],
+  "geometry": {"coordinates":[-112.29651200000001,33.591665],"type":"Point"}
 }

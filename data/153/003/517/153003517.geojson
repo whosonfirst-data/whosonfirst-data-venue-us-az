@@ -2,13 +2,14 @@
   "id": 153003517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.673938,35.237673,-111.673938,35.237673",
     "geom:latitude":35.237673,
     "geom:longitude":-111.673938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 W Red Rock Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153003517,
-    "wof:lastmodified":1449040791,
+    "wof:lastmodified":1466325734,
     "wof:name":"Flagwirelesscom",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.673938,35.237673,-111.673938,35.237673],
-  "geometry": {"coordinates":[-111.673938,35.237673],"type":"Point"}
+  "bbox": [
+    -111.673938,
+    35.237673,
+    -111.673938,
+    35.237673
+],
+  "geometry": {"coordinates":[-111.67393800000001,35.237673],"type":"Point"}
 }

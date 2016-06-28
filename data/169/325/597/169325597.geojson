@@ -2,13 +2,14 @@
   "id": 169325597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950317,33.641065,-111.950317,33.641065",
     "geom:latitude":33.641065,
     "geom:longitude":-111.950317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 E Woodridge Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169325597,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466333007,
     "wof:name":"Assisted Living Magazine",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.950317,33.641065,-111.950317,33.641065],
+  "bbox": [
+    -111.950317,
+    33.641065,
+    -111.950317,
+    33.641065
+],
   "geometry": {"coordinates":[-111.950317,33.641065],"type":"Point"}
 }

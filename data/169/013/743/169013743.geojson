@@ -2,13 +2,14 @@
   "id": 169013743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.79173,33.401157,-110.79173,33.401157",
     "geom:latitude":33.401157,
     "geom:longitude":-110.79173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 N Willow St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169013743,
-    "wof:lastmodified":1449034927,
+    "wof:lastmodified":1466327198,
     "wof:name":"Corona Signs",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.79173,33.401157,-110.79173,33.401157],
+  "bbox": [
+    -110.79173,
+    33.401157,
+    -110.79173,
+    33.401157
+],
   "geometry": {"coordinates":[-110.79173,33.401157],"type":"Point"}
 }

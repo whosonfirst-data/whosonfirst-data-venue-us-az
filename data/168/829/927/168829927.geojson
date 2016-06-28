@@ -2,13 +2,14 @@
   "id": 168829927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.979672,33.348874,-111.979672,33.348874",
     "geom:latitude":33.348874,
     "geom:longitude":-111.979672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4829 E Elliot Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814393,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
-        85840707,
-        85917479
+        85814393,
+        85917479,
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":168829927,
-    "wof:lastmodified":1449028543,
+    "wof:lastmodified":1466326039,
     "wof:name":"House Of Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.979672,33.348874,-111.979672,33.348874],
-  "geometry": {"coordinates":[-111.979672,33.348874],"type":"Point"}
+  "bbox": [
+    -111.979672,
+    33.348874,
+    -111.979672,
+    33.348874
+],
+  "geometry": {"coordinates":[-111.97967199999999,33.348874],"type":"Point"}
 }

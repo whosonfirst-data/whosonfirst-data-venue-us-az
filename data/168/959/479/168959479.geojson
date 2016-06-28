@@ -2,13 +2,14 @@
   "id": 168959479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.073631,32.391956,-111.073631,32.391956",
     "geom:latitude":32.391956,
     "geom:longitude":-111.073631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 W Greenock Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168959479,
-    "wof:lastmodified":1449028516,
+    "wof:lastmodified":1466331001,
     "wof:name":"Optic Valley Photonics",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.073631,32.391956,-111.073631,32.391956],
-  "geometry": {"coordinates":[-111.073631,32.391956],"type":"Point"}
+  "bbox": [
+    -111.073631,
+    32.391956,
+    -111.073631,
+    32.391956
+],
+  "geometry": {"coordinates":[-111.07363100000001,32.391956],"type":"Point"}
 }

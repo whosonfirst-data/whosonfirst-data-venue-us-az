@@ -2,13 +2,14 @@
   "id": 168904891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.791795,32.266375,-110.791795,32.266375",
     "geom:latitude":32.266375,
     "geom:longitude":-110.791795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3381 N Nambe Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168904891,
-    "wof:lastmodified":1449028607,
+    "wof:lastmodified":1466329755,
     "wof:name":"Marlene Morton",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.791795,32.266375,-110.791795,32.266375],
-  "geometry": {"coordinates":[-110.791795,32.266375],"type":"Point"}
+  "bbox": [
+    -110.791795,
+    32.266375,
+    -110.791795,
+    32.266375
+],
+  "geometry": {"coordinates":[-110.79179499999999,32.266375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320718199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046869,33.509234,-112.046869,33.509234",
     "geom:latitude":33.509234,
     "geom:longitude":-112.046869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320718199,
-    "wof:lastmodified":1449012058,
+    "wof:lastmodified":1466328358,
     "wof:name":"H&R Block",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-112.046869,33.509234,-112.046869,33.509234],
+  "bbox": [
+    -112.046869,
+    33.509234,
+    -112.046869,
+    33.509234
+],
   "geometry": {"coordinates":[-112.046869,33.509234],"type":"Point"}
 }

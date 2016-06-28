@@ -2,13 +2,14 @@
   "id": 153065111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173578,33.625125,-112.173578,33.625125",
     "geom:latitude":33.625125,
     "geom:longitude":-112.173578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15248 N 53rd Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153065111,
-    "wof:lastmodified":1449040823,
+    "wof:lastmodified":1466328016,
     "wof:name":"R B Tickets LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173578,33.625125,-112.173578,33.625125],
-  "geometry": {"coordinates":[-112.173578,33.625125],"type":"Point"}
+  "bbox": [
+    -112.173578,
+    33.625125,
+    -112.173578,
+    33.625125
+],
+  "geometry": {"coordinates":[-112.17357800000001,33.625125],"type":"Point"}
 }

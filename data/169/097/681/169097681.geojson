@@ -2,13 +2,14 @@
   "id": 169097681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030376,33.49295,-112.030376,33.49295",
     "geom:latitude":33.49295,
     "geom:longitude":-112.030376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 E Fairmount Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807777,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85807777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169097681,
-    "wof:lastmodified":1449033979,
+    "wof:lastmodified":1466330882,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.030376,33.49295,-112.030376,33.49295],
+  "bbox": [
+    -112.030376,
+    33.49295,
+    -112.030376,
+    33.49295
+],
   "geometry": {"coordinates":[-112.030376,33.49295],"type":"Point"}
 }

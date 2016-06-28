@@ -2,13 +2,14 @@
   "id": 336727493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.132534,33.6359,-112.132534,33.6359",
     "geom:latitude":33.6359,
     "geom:longitude":-112.132534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3437 W Aire Libre Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336727493,
-    "wof:lastmodified":1448997102,
+    "wof:lastmodified":1466328469,
     "wof:name":"Pagelink Wireless",
     "wof:parent_id":85843759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communications-common"
     ]
 },
-  "bbox": [-112.132534,33.6359,-112.132534,33.6359],
-  "geometry": {"coordinates":[-112.132534,33.6359],"type":"Point"}
+  "bbox": [
+    -112.132534,
+    33.6359,
+    -112.132534,
+    33.6359
+],
+  "geometry": {"coordinates":[-112.13253400000001,33.6359],"type":"Point"}
 }

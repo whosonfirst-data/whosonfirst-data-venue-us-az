@@ -2,13 +2,14 @@
   "id": 336735353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081757,33.713001,-112.081757,33.713001",
     "geom:latitude":33.713001,
     "geom:longitude":-112.081757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 W Happy Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":336735353,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466328842,
     "wof:name":"Neighborhood Market",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.081757,33.713001,-112.081757,33.713001],
+  "bbox": [
+    -112.081757,
+    33.713001,
+    -112.081757,
+    33.713001
+],
   "geometry": {"coordinates":[-112.081757,33.713001],"type":"Point"}
 }

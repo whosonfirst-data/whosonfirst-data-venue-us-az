@@ -2,13 +2,14 @@
   "id": 169376523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.147322,33.603635,-112.147322,33.603635",
     "geom:latitude":33.603635,
     "geom:longitude":-112.147322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4048 W Sweetwater Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169376523,
-    "wof:lastmodified":1449033816,
+    "wof:lastmodified":1466333744,
     "wof:name":"Big Frank Alarms",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.147322,33.603635,-112.147322,33.603635],
+  "bbox": [
+    -112.147322,
+    33.603635,
+    -112.147322,
+    33.603635
+],
   "geometry": {"coordinates":[-112.147322,33.603635],"type":"Point"}
 }

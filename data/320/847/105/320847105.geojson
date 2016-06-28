@@ -2,13 +2,14 @@
   "id": 320847105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.126747,33.581844,-112.126747,33.581844",
     "geom:latitude":33.581844,
     "geom:longitude":-112.126747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 W Peoria Ave Ste 309",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":320847105,
-    "wof:lastmodified":1449012638,
+    "wof:lastmodified":1466330266,
     "wof:name":"Psychological & Family Health Associates",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "counselor"
     ]
 },
-  "bbox": [-112.126747,33.581844,-112.126747,33.581844],
-  "geometry": {"coordinates":[-112.126747,33.581844],"type":"Point"}
+  "bbox": [
+    -112.126747,
+    33.581844,
+    -112.126747,
+    33.581844
+],
+  "geometry": {"coordinates":[-112.12674699999999,33.581844],"type":"Point"}
 }

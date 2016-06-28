@@ -2,13 +2,14 @@
   "id": 353740453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.245648,33.725178,-112.245648,33.725178",
     "geom:latitude":33.725178,
     "geom:longitude":-112.245648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26716 N High Desert Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353740453,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466329933,
     "wof:name":"West Wing School",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.245648,33.725178,-112.245648,33.725178],
+  "bbox": [
+    -112.245648,
+    33.725178,
+    -112.245648,
+    33.725178
+],
   "geometry": {"coordinates":[-112.245648,33.725178],"type":"Point"}
 }

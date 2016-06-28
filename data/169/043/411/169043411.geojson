@@ -2,13 +2,14 @@
   "id": 169043411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082944,33.683794,-112.082944,33.683794",
     "geom:latitude":33.683794,
     "geom:longitude":-112.082944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169043411,
-    "wof:lastmodified":1449035133,
+    "wof:lastmodified":1466328209,
     "wof:name":"Aviation Dept of",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.082944,33.683794,-112.082944,33.683794],
+  "bbox": [
+    -112.082944,
+    33.683794,
+    -112.082944,
+    33.683794
+],
   "geometry": {"coordinates":[-112.082944,33.683794],"type":"Point"}
 }

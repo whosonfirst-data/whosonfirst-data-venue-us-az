@@ -2,13 +2,14 @@
   "id": 169366273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896526,33.425628,-111.896526,33.425628",
     "geom:latitude":33.425628,
     "geom:longitude":-111.896526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 E 5th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.o2science.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851911,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169366273,
-    "wof:lastmodified":1449035084,
+    "wof:lastmodified":1466333606,
     "wof:name":"O 2 Science",
     "wof:parent_id":85851911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.896526,33.425628,-111.896526,33.425628],
-  "geometry": {"coordinates":[-111.896526,33.425628],"type":"Point"}
+  "bbox": [
+    -111.896526,
+    33.425628,
+    -111.896526,
+    33.425628
+],
+  "geometry": {"coordinates":[-111.89652599999999,33.425628],"type":"Point"}
 }

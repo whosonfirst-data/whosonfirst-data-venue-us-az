@@ -2,13 +2,14 @@
   "id": 168982135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.882161,32.236118,-110.882161,32.236118",
     "geom:latitude":32.236118,
     "geom:longitude":-110.882161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5114 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168982135,
-    "wof:lastmodified":1449027904,
+    "wof:lastmodified":1466331419,
     "wof:name":"Leo's Mexican Restaurant",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.882161,32.236118,-110.882161,32.236118],
+  "bbox": [
+    -110.882161,
+    32.236118,
+    -110.882161,
+    32.236118
+],
   "geometry": {"coordinates":[-110.882161,32.236118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320739545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131202,33.480492,-112.131202,33.480492",
     "geom:latitude":33.480492,
     "geom:longitude":-112.131202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 W Thomas Rd Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320739545,
-    "wof:lastmodified":1449012834,
+    "wof:lastmodified":1466328660,
     "wof:name":"Express Taxes And Services",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-112.131202,33.480492,-112.131202,33.480492],
+  "bbox": [
+    -112.131202,
+    33.480492,
+    -112.131202,
+    33.480492
+],
   "geometry": {"coordinates":[-112.131202,33.480492],"type":"Point"}
 }

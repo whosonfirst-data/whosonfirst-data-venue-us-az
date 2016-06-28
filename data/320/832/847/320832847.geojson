@@ -2,13 +2,14 @@
   "id": 320832847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005344,33.594544,-112.005344,33.594544",
     "geom:latitude":33.594544,
     "geom:longitude":-112.005344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11809 N 35th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320832847,
-    "wof:lastmodified":1449011279,
+    "wof:lastmodified":1466330281,
     "wof:name":"Veranda Associates",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.005344,33.594544,-112.005344,33.594544],
-  "geometry": {"coordinates":[-112.005344,33.594544],"type":"Point"}
+  "bbox": [
+    -112.005344,
+    33.594544,
+    -112.005344,
+    33.594544
+],
+  "geometry": {"coordinates":[-112.00534399999999,33.594544],"type":"Point"}
 }

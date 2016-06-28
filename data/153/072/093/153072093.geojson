@@ -2,13 +2,14 @@
   "id": 153072093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.242064,33.64486,-112.242064,33.64486",
     "geom:latitude":33.64486,
     "geom:longitude":-112.242064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17380 N 85th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153072093,
-    "wof:lastmodified":1449040596,
+    "wof:lastmodified":1466328377,
     "wof:name":"Heart and Seoul Gospel Inc",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.242064,33.64486,-112.242064,33.64486],
+  "bbox": [
+    -112.242064,
+    33.64486,
+    -112.242064,
+    33.64486
+],
   "geometry": {"coordinates":[-112.242064,33.64486],"type":"Point"}
 }

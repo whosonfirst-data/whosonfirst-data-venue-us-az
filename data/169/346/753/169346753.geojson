@@ -2,13 +2,14 @@
   "id": 169346753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.849076,32.225707,-110.849076,32.225707",
     "geom:latitude":32.225707,
     "geom:longitude":-110.849076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6565 E Carondelet Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mdhub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169346753,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466333477,
     "wof:name":"Kiva Medical Group",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.849076,32.225707,-110.849076,32.225707],
+  "bbox": [
+    -110.849076,
+    32.225707,
+    -110.849076,
+    32.225707
+],
   "geometry": {"coordinates":[-110.849076,32.225707],"type":"Point"}
 }

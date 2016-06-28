@@ -2,13 +2,14 @@
   "id": 169275435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929722,32.321228,-110.929722,32.321228",
     "geom:latitude":32.321228,
     "geom:longitude":-110.929722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6340 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169275435,
-    "wof:lastmodified":1449033750,
+    "wof:lastmodified":1466332748,
     "wof:name":"James E Mc Mahon Architecture",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.929722,32.321228,-110.929722,32.321228],
+  "bbox": [
+    -110.929722,
+    32.321228,
+    -110.929722,
+    32.321228
+],
   "geometry": {"coordinates":[-110.929722,32.321228],"type":"Point"}
 }

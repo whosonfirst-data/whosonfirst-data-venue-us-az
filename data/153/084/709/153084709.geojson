@@ -2,13 +2,14 @@
   "id": 153084709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.732977,32.820122,-109.732977,32.820122",
     "geom:latitude":32.820122,
     "geom:longitude":-109.732977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S 20th Ave",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153084709,
-    "wof:lastmodified":1449040376,
+    "wof:lastmodified":1466329001,
     "wof:name":"Pima Heart Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.732977,32.820122,-109.732977,32.820122],
-  "geometry": {"coordinates":[-109.732977,32.820122],"type":"Point"}
+  "bbox": [
+    -109.732977,
+    32.820122,
+    -109.732977,
+    32.820122
+],
+  "geometry": {"coordinates":[-109.73297700000001,32.820122],"type":"Point"}
 }

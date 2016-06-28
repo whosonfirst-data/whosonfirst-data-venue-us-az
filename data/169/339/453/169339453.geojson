@@ -2,13 +2,14 @@
   "id": 169339453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.968063,34.166469,-109.968063,34.166469",
     "geom:latitude":34.166469,
     "geom:longitude":-109.968063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Flag Hollow Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169339453,
-    "wof:lastmodified":1449034144,
+    "wof:lastmodified":1466333355,
     "wof:name":"Fabric Garden",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.968063,34.166469,-109.968063,34.166469],
+  "bbox": [
+    -109.968063,
+    34.166469,
+    -109.968063,
+    34.166469
+],
   "geometry": {"coordinates":[-109.968063,34.166469],"type":"Point"}
 }

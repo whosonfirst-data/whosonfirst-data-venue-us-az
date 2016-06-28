@@ -2,13 +2,14 @@
   "id": 353534497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.720965,33.29389,-111.720965,33.29389",
     "geom:latitude":33.29389,
     "geom:longitude":-111.720965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 S Higley Rd Ste 102",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353534497,
-    "wof:lastmodified":1449018926,
+    "wof:lastmodified":1466327794,
     "wof:name":"Team Orthodontics",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-111.720965,33.29389,-111.720965,33.29389],
-  "geometry": {"coordinates":[-111.720965,33.29389],"type":"Point"}
+  "bbox": [
+    -111.720965,
+    33.29389,
+    -111.720965,
+    33.29389
+],
+  "geometry": {"coordinates":[-111.72096500000001,33.29389],"type":"Point"}
 }

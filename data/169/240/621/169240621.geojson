@@ -2,13 +2,14 @@
   "id": 169240621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.934242,32.222642,-110.934242,32.222642",
     "geom:latitude":32.222642,
     "geom:longitude":-110.934242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 E 10th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169240621,
-    "wof:lastmodified":1449033017,
+    "wof:lastmodified":1466332430,
     "wof:name":"Tretschok & Mc Namara",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.934242,32.222642,-110.934242,32.222642],
+  "bbox": [
+    -110.934242,
+    32.222642,
+    -110.934242,
+    32.222642
+],
   "geometry": {"coordinates":[-110.934242,32.222642],"type":"Point"}
 }

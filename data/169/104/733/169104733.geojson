@@ -2,13 +2,14 @@
   "id": 169104733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977576,32.161584,-110.977576,32.161584",
     "geom:latitude":32.161584,
     "geom:longitude":-110.977576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5058 S 12th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169104733,
-    "wof:lastmodified":1449034038,
+    "wof:lastmodified":1466330920,
     "wof:name":"Tucson Transmission Co",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977576,32.161584,-110.977576,32.161584],
+  "bbox": [
+    -110.977576,
+    32.161584,
+    -110.977576,
+    32.161584
+],
   "geometry": {"coordinates":[-110.977576,32.161584],"type":"Point"}
 }

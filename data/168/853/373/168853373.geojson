@@ -2,13 +2,14 @@
   "id": 168853373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.650392,31.680098,-110.650392,31.680098",
     "geom:latitude":31.680098,
     "geom:longitude":-110.650392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3270 State Hwy 82",
     "sg:city":"Sonoita",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168853373,
-    "wof:lastmodified":1449028076,
+    "wof:lastmodified":1466325995,
     "wof:name":"Sonoita Fuel Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.650392,31.680098,-110.650392,31.680098],
+  "bbox": [
+    -110.650392,
+    31.680098,
+    -110.650392,
+    31.680098
+],
   "geometry": {"coordinates":[-110.650392,31.680098],"type":"Point"}
 }

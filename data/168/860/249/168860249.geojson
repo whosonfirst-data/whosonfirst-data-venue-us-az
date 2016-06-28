@@ -2,13 +2,14 @@
   "id": 168860249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.830819,34.850668,-111.830819,34.850668",
     "geom:latitude":34.850668,
     "geom:longitude":-111.830819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 Arts Village Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.yc.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168860249,
-    "wof:lastmodified":1449028124,
+    "wof:lastmodified":1466326603,
     "wof:name":"Sedona Center For Arts",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.830819,34.850668,-111.830819,34.850668],
-  "geometry": {"coordinates":[-111.830819,34.850668],"type":"Point"}
+  "bbox": [
+    -111.830819,
+    34.850668,
+    -111.830819,
+    34.850668
+],
+  "geometry": {"coordinates":[-111.83081900000001,34.850668],"type":"Point"}
 }

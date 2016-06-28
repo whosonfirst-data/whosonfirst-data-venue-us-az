@@ -2,13 +2,14 @@
   "id": 152922287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.738094,32.300689,-110.738094,32.300689",
     "geom:latitude":32.300689,
     "geom:longitude":-110.738094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5180 N Soldier Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152922287,
-    "wof:lastmodified":1449044717,
+    "wof:lastmodified":1466327221,
     "wof:name":"Oasis Development",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.738094,32.300689,-110.738094,32.300689],
+  "bbox": [
+    -110.738094,
+    32.300689,
+    -110.738094,
+    32.300689
+],
   "geometry": {"coordinates":[-110.738094,32.300689],"type":"Point"}
 }

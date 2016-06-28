@@ -2,13 +2,14 @@
   "id": 169223367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.266077,33.581086,-112.266077,33.581086",
     "geom:latitude":33.581086,
     "geom:longitude":-112.266077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10728 N 96th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169223367,
-    "wof:lastmodified":1449032907,
+    "wof:lastmodified":1466332098,
     "wof:name":"Sun Living Designs Inc",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.266077,33.581086,-112.266077,33.581086],
+  "bbox": [
+    -112.266077,
+    33.581086,
+    -112.266077,
+    33.581086
+],
   "geometry": {"coordinates":[-112.266077,33.581086],"type":"Point"}
 }

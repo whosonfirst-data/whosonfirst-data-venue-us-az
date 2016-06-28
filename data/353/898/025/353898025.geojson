@@ -2,13 +2,14 @@
   "id": 353898025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04073,34.748096,-112.04073,34.748096",
     "geom:latitude":34.748096,
     "geom:longitude":-112.04073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 W Groseta Ranch Rd",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353898025,
-    "wof:lastmodified":1449018206,
+    "wof:lastmodified":1466330945,
     "wof:name":"Pine Shadows Golf Course",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-112.04073,34.748096,-112.04073,34.748096],
+  "bbox": [
+    -112.04073,
+    34.748096,
+    -112.04073,
+    34.748096
+],
   "geometry": {"coordinates":[-112.04073,34.748096],"type":"Point"}
 }

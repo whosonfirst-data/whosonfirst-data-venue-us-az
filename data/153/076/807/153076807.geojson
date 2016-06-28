@@ -2,13 +2,14 @@
   "id": 153076807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119021,33.591138,-112.119021,33.591138",
     "geom:latitude":33.591138,
     "geom:longitude":-112.119021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11839 N 28th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.sunwestfcu.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153076807,
-    "wof:lastmodified":1449040709,
+    "wof:lastmodified":1466328648,
     "wof:name":"Sunwest Federal Credit Union",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119021,33.591138,-112.119021,33.591138],
+  "bbox": [
+    -112.119021,
+    33.591138,
+    -112.119021,
+    33.591138
+],
   "geometry": {"coordinates":[-112.119021,33.591138],"type":"Point"}
 }

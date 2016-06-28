@@ -2,13 +2,14 @@
   "id": 152977719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622102,32.719709,-114.622102,32.719709",
     "geom:latitude":32.719709,
     "geom:longitude":-114.622102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S 2nd Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152977719,
-    "wof:lastmodified":1449049001,
+    "wof:lastmodified":1466329035,
     "wof:name":"Tracy J Pence",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622102,32.719709,-114.622102,32.719709],
+  "bbox": [
+    -114.622102,
+    32.719709,
+    -114.622102,
+    32.719709
+],
   "geometry": {"coordinates":[-114.622102,32.719709],"type":"Point"}
 }

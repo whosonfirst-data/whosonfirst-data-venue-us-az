@@ -2,13 +2,14 @@
   "id": 336600487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.984718,33.606682,-111.984718,33.606682",
     "geom:latitude":33.606682,
     "geom:longitude":-111.984718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 E Pershing Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":336600487,
-    "wof:lastmodified":1448997032,
+    "wof:lastmodified":1466325977,
     "wof:name":"Arizona Pool Fence",
     "wof:parent_id":85811573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.984718,33.606682,-111.984718,33.606682],
+  "bbox": [
+    -111.984718,
+    33.606682,
+    -111.984718,
+    33.606682
+],
   "geometry": {"coordinates":[-111.984718,33.606682],"type":"Point"}
 }

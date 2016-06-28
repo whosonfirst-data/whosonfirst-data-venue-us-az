@@ -2,13 +2,14 @@
   "id": 169327537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003199,33.594647,-112.003199,33.594647",
     "geom:latitude":33.594647,
     "geom:longitude":-112.003199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3644 E Poinsettia Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169327537,
-    "wof:lastmodified":1449032925,
+    "wof:lastmodified":1466333443,
     "wof:name":"Cool Front Hvac",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003199,33.594647,-112.003199,33.594647],
+  "bbox": [
+    -112.003199,
+    33.594647,
+    -112.003199,
+    33.594647
+],
   "geometry": {"coordinates":[-112.003199,33.594647],"type":"Point"}
 }

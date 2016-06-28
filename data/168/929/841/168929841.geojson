@@ -2,13 +2,14 @@
   "id": 168929841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.772456,33.366749,-111.772456,33.366749",
     "geom:latitude":33.366749,
     "geom:longitude":-111.772456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 E Harvard Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168929841,
-    "wof:lastmodified":1449028059,
+    "wof:lastmodified":1466330728,
     "wof:name":"B & E Landscape Svc",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.772456,33.366749,-111.772456,33.366749],
-  "geometry": {"coordinates":[-111.772456,33.366749],"type":"Point"}
+  "bbox": [
+    -111.772456,
+    33.366749,
+    -111.772456,
+    33.366749
+],
+  "geometry": {"coordinates":[-111.77245600000001,33.366749],"type":"Point"}
 }

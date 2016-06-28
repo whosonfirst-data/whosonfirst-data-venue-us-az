@@ -2,13 +2,14 @@
   "id": 152969641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.843553,33.411521,-111.843553,33.411521",
     "geom:latitude":33.411521,
     "geom:longitude":-111.843553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W 2nd Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.coleheatingandcooling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872453,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152969641,
-    "wof:lastmodified":1449045404,
+    "wof:lastmodified":1466328409,
     "wof:name":"Cole Heating & Cooling Inc",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.843553,33.411521,-111.843553,33.411521],
+  "bbox": [
+    -111.843553,
+    33.411521,
+    -111.843553,
+    33.411521
+],
   "geometry": {"coordinates":[-111.843553,33.411521],"type":"Point"}
 }

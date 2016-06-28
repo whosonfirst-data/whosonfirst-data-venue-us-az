@@ -2,13 +2,14 @@
   "id": 168863639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.333783,33.664533,-112.333783,33.664533",
     "geom:latitude":33.664533,
     "geom:longitude":-112.333783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19823 N 129th Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168863639,
-    "wof:lastmodified":1449028301,
+    "wof:lastmodified":1466326907,
     "wof:name":"Dennis Ruel",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.333783,33.664533,-112.333783,33.664533],
+  "bbox": [
+    -112.333783,
+    33.664533,
+    -112.333783,
+    33.664533
+],
   "geometry": {"coordinates":[-112.333783,33.664533],"type":"Point"}
 }

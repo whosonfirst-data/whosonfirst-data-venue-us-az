@@ -2,13 +2,14 @@
   "id": 152924221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910601,33.744474,-111.910601,33.744474",
     "geom:latitude":33.744474,
     "geom:longitude":-111.910601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28467 N 79th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880937,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152924221,
-    "wof:lastmodified":1449045581,
+    "wof:lastmodified":1466327566,
     "wof:name":"Poole Associate Engineering",
     "wof:parent_id":85880937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.910601,33.744474,-111.910601,33.744474],
+  "bbox": [
+    -111.910601,
+    33.744474,
+    -111.910601,
+    33.744474
+],
   "geometry": {"coordinates":[-111.910601,33.744474],"type":"Point"}
 }

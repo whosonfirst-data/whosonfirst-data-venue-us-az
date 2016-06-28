@@ -2,13 +2,14 @@
   "id": 353597447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.15255,33.610649,-112.15255,33.610649",
     "geom:latitude":33.610649,
     "geom:longitude":-112.15255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7972 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353597447,
-    "wof:lastmodified":1449020742,
+    "wof:lastmodified":1466328482,
     "wof:name":"Kevin Michael Garrison",
     "wof:parent_id":85808757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-112.15255,33.610649,-112.15255,33.610649],
-  "geometry": {"coordinates":[-112.15255,33.610649],"type":"Point"}
+  "bbox": [
+    -112.15255,
+    33.610649,
+    -112.15255,
+    33.610649
+],
+  "geometry": {"coordinates":[-112.15255000000001,33.610649],"type":"Point"}
 }

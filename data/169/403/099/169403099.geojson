@@ -2,13 +2,14 @@
   "id": 169403099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.943207,33.550376,-111.943207,33.550376",
     "geom:latitude":33.550376,
     "geom:longitude":-111.943207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7611 N Invergordon Rd",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811043,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169403099,
-    "wof:lastmodified":1449035503,
+    "wof:lastmodified":1466333983,
     "wof:name":"Silk Plant Co Inc",
     "wof:parent_id":85811043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.943207,33.550376,-111.943207,33.550376],
+  "bbox": [
+    -111.943207,
+    33.550376,
+    -111.943207,
+    33.550376
+],
   "geometry": {"coordinates":[-111.943207,33.550376],"type":"Point"}
 }

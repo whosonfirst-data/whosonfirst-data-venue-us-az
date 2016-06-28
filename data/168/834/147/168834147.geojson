@@ -2,13 +2,14 @@
   "id": 168834147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.927262,31.938563,-110.927262,31.938563",
     "geom:latitude":31.938563,
     "geom:longitude":-110.927262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17111 S Country Club Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168834147,
-    "wof:lastmodified":1449027853,
+    "wof:lastmodified":1466326312,
     "wof:name":"Aragon Construction LLC",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.927262,31.938563,-110.927262,31.938563],
+  "bbox": [
+    -110.927262,
+    31.938563,
+    -110.927262,
+    31.938563
+],
   "geometry": {"coordinates":[-110.927262,31.938563],"type":"Point"}
 }

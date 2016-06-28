@@ -2,13 +2,14 @@
   "id": 169124765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.260595,31.541434,-110.260595,31.541434",
     "geom:latitude":31.541434,
     "geom:longitude":-110.260595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 S Yucca Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169124765,
-    "wof:lastmodified":1449035708,
+    "wof:lastmodified":1466331355,
     "wof:name":"Rick's Mesquite Tree Trimming",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.260595,31.541434,-110.260595,31.541434],
+  "bbox": [
+    -110.260595,
+    31.541434,
+    -110.260595,
+    31.541434
+],
   "geometry": {"coordinates":[-110.260595,31.541434],"type":"Point"}
 }

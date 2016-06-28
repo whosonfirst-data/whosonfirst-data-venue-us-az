@@ -2,13 +2,14 @@
   "id": 169270933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936731,32.152917,-110.936731,32.152917",
     "geom:latitude":32.152917,
     "geom:longitude":-110.936731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5442 S Aleppo Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169270933,
-    "wof:lastmodified":1449033278,
+    "wof:lastmodified":1466332708,
     "wof:name":"Hector Dabdoub",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936731,32.152917,-110.936731,32.152917],
-  "geometry": {"coordinates":[-110.936731,32.152917],"type":"Point"}
+  "bbox": [
+    -110.936731,
+    32.152917,
+    -110.936731,
+    32.152917
+],
+  "geometry": {"coordinates":[-110.93673099999999,32.152917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169412341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939772,33.314516,-111.939772,33.314516",
     "geom:latitude":33.314516,
     "geom:longitude":-111.939772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 W Ivanhoe St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853867,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85853867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169412341,
-    "wof:lastmodified":1449033364,
+    "wof:lastmodified":1466333830,
     "wof:name":"PC Tax & Accounting Svc",
     "wof:parent_id":85853867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.939772,33.314516,-111.939772,33.314516],
+  "bbox": [
+    -111.939772,
+    33.314516,
+    -111.939772,
+    33.314516
+],
   "geometry": {"coordinates":[-111.939772,33.314516],"type":"Point"}
 }

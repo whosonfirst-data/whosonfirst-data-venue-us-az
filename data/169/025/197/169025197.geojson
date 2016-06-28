@@ -2,13 +2,14 @@
   "id": 169025197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.265125,32.043829,-111.265125,32.043829",
     "geom:latitude":32.043829,
     "geom:longitude":-111.265125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 S Sierrita Mountain Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169025197,
-    "wof:lastmodified":1449035423,
+    "wof:lastmodified":1466326434,
     "wof:name":"Advanced Pcb Design",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.265125,32.043829,-111.265125,32.043829],
+  "bbox": [
+    -111.265125,
+    32.043829,
+    -111.265125,
+    32.043829
+],
   "geometry": {"coordinates":[-111.265125,32.043829],"type":"Point"}
 }

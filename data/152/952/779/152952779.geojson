@@ -2,13 +2,14 @@
   "id": 152952779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.825808,32.249482,-109.825808,32.249482",
     "geom:latitude":32.249482,
     "geom:longitude":-109.825808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 E Maley St",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152952779,
-    "wof:lastmodified":1449047621,
+    "wof:lastmodified":1466327565,
     "wof:name":"Cover Shop",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.825808,32.249482,-109.825808,32.249482],
-  "geometry": {"coordinates":[-109.825808,32.249482],"type":"Point"}
+  "bbox": [
+    -109.825808,
+    32.249482,
+    -109.825808,
+    32.249482
+],
+  "geometry": {"coordinates":[-109.82580799999999,32.249482],"type":"Point"}
 }

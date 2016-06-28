@@ -2,13 +2,14 @@
   "id": 336733305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131378,33.741241,-112.131378,33.741241",
     "geom:latitude":33.741241,
     "geom:longitude":-112.131378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 W Desert Vista Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336733305,
-    "wof:lastmodified":1448997081,
+    "wof:lastmodified":1466328543,
     "wof:name":"Desert Embroidery",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-112.131378,33.741241,-112.131378,33.741241],
+  "bbox": [
+    -112.131378,
+    33.741241,
+    -112.131378,
+    33.741241
+],
   "geometry": {"coordinates":[-112.131378,33.741241],"type":"Point"}
 }

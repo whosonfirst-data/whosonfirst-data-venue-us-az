@@ -2,13 +2,14 @@
   "id": 169389271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598111,34.994217,-114.598111,34.994217",
     "geom:latitude":34.994217,
     "geom:longitude":-114.598111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5599 Hwy 95",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169389271,
-    "wof:lastmodified":1449035287,
+    "wof:lastmodified":1466333861,
     "wof:name":"Woodys Threads",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598111,34.994217,-114.598111,34.994217],
+  "bbox": [
+    -114.598111,
+    34.994217,
+    -114.598111,
+    34.994217
+],
   "geometry": {"coordinates":[-114.598111,34.994217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152958529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.300454,31.55468,-110.300454,31.55468",
     "geom:latitude":31.55468,
     "geom:longitude":-110.300454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 W Fry Blvd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152958529,
-    "wof:lastmodified":1449047898,
+    "wof:lastmodified":1466328107,
     "wof:name":"TLC Moving Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.300454,31.55468,-110.300454,31.55468],
+  "bbox": [
+    -110.300454,
+    31.55468,
+    -110.300454,
+    31.55468
+],
   "geometry": {"coordinates":[-110.300454,31.55468],"type":"Point"}
 }

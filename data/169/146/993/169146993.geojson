@@ -2,13 +2,14 @@
   "id": 169146993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.894816,32.243406,-110.894816,32.243406",
     "geom:latitude":32.243406,
     "geom:longitude":-110.894816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4699 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169146993,
-    "wof:lastmodified":1449034042,
+    "wof:lastmodified":1466331829,
     "wof:name":"Corexpress LLC",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.894816,32.243406,-110.894816,32.243406],
-  "geometry": {"coordinates":[-110.894816,32.243406],"type":"Point"}
+  "bbox": [
+    -110.894816,
+    32.243406,
+    -110.894816,
+    32.243406
+],
+  "geometry": {"coordinates":[-110.89481600000001,32.243406],"type":"Point"}
 }

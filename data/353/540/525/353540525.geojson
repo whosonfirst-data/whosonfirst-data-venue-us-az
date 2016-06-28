@@ -2,13 +2,14 @@
   "id": 353540525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.789748,33.326614,-111.789748,33.326614",
     "geom:latitude":33.326614,
     "geom:longitude":-111.789748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 S Gilbert Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353540525,
-    "wof:lastmodified":1449019277,
+    "wof:lastmodified":1466328117,
     "wof:name":"International Classic Auctions",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "used"
     ]
 },
-  "bbox": [-111.789748,33.326614,-111.789748,33.326614],
+  "bbox": [
+    -111.789748,
+    33.326614,
+    -111.789748,
+    33.326614
+],
   "geometry": {"coordinates":[-111.789748,33.326614],"type":"Point"}
 }

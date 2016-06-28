@@ -2,13 +2,14 @@
   "id": 153079601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.539493,31.355275,-109.539493,31.355275",
     "geom:latitude":31.355275,
     "geom:longitude":-109.539493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1384 E 20th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -24,13 +25,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":153079601,
-    "wof:lastmodified":1449040746,
+    "wof:lastmodified":1466328781,
     "wof:name":"Rustic Southwestern Furni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.539493,31.355275,-109.539493,31.355275],
-  "geometry": {"coordinates":[-109.539493,31.355275],"type":"Point"}
+  "bbox": [
+    -109.539493,
+    31.355275,
+    -109.539493,
+    31.355275
+],
+  "geometry": {"coordinates":[-109.53949299999999,31.355275],"type":"Point"}
 }

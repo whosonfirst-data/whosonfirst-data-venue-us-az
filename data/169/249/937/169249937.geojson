@@ -2,13 +2,14 @@
   "id": 169249937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.061911,33.667396,-112.061911,33.667396",
     "geom:latitude":33.667396,
     "geom:longitude":-112.061911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20001 N 8th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169249937,
-    "wof:lastmodified":1449032853,
+    "wof:lastmodified":1466332486,
     "wof:name":"Joman Services",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.061911,33.667396,-112.061911,33.667396],
-  "geometry": {"coordinates":[-112.061911,33.667396],"type":"Point"}
+  "bbox": [
+    -112.061911,
+    33.667396,
+    -112.061911,
+    33.667396
+],
+  "geometry": {"coordinates":[-112.06191099999999,33.667396],"type":"Point"}
 }

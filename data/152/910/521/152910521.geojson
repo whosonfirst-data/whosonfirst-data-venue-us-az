@@ -2,13 +2,14 @@
   "id": 152910521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.482046,34.577066,-112.482046,34.577066",
     "geom:latitude":34.577066,
     "geom:longitude":-112.482046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2062 Willow Creek Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.cornerstone.md",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152910521,
-    "wof:lastmodified":1449046244,
+    "wof:lastmodified":1466325828,
     "wof:name":"Cornerstone Pediatrics",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.482046,34.577066,-112.482046,34.577066],
+  "bbox": [
+    -112.482046,
+    34.577066,
+    -112.482046,
+    34.577066
+],
   "geometry": {"coordinates":[-112.482046,34.577066],"type":"Point"}
 }

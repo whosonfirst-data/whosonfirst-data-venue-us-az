@@ -2,13 +2,14 @@
   "id": 169303061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183692,33.531412,-112.183692,33.531412",
     "geom:latitude":33.531412,
     "geom:longitude":-112.183692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5732 W Maryland Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169303061,
-    "wof:lastmodified":1449032713,
+    "wof:lastmodified":1466333006,
     "wof:name":"Jordan Machinery Sales",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183692,33.531412,-112.183692,33.531412],
-  "geometry": {"coordinates":[-112.183692,33.531412],"type":"Point"}
+  "bbox": [
+    -112.183692,
+    33.531412,
+    -112.183692,
+    33.531412
+],
+  "geometry": {"coordinates":[-112.18369199999999,33.531412],"type":"Point"}
 }

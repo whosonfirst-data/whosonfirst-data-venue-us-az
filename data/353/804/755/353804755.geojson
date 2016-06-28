@@ -2,13 +2,14 @@
   "id": 353804755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969985,32.214709,-110.969985,32.214709",
     "geom:latitude":32.214709,
     "geom:longitude":-110.969985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 S Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353804755,
-    "wof:lastmodified":1449020017,
+    "wof:lastmodified":1466330501,
     "wof:name":"Barrio Viejo Villas",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969985,32.214709,-110.969985,32.214709],
-  "geometry": {"coordinates":[-110.969985,32.214709],"type":"Point"}
+  "bbox": [
+    -110.969985,
+    32.214709,
+    -110.969985,
+    32.214709
+],
+  "geometry": {"coordinates":[-110.96998499999999,32.214709],"type":"Point"}
 }

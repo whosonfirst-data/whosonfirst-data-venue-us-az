@@ -2,13 +2,14 @@
   "id": 169257095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945793,33.360815,-111.945793,33.360815",
     "geom:latitude":33.360815,
     "geom:longitude":-111.945793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6655 S Kyrene Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824561,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85824561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169257095,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1466332498,
     "wof:name":"Ride Now Insurance",
     "wof:parent_id":85824561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.945793,33.360815,-111.945793,33.360815],
-  "geometry": {"coordinates":[-111.945793,33.360815],"type":"Point"}
+  "bbox": [
+    -111.945793,
+    33.360815,
+    -111.945793,
+    33.360815
+],
+  "geometry": {"coordinates":[-111.94579299999999,33.360815],"type":"Point"}
 }

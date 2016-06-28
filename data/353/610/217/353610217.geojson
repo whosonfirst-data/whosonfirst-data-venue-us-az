@@ -2,13 +2,14 @@
   "id": 353610217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151833,33.64056,-112.151833,33.64056",
     "geom:latitude":33.64056,
     "geom:longitude":-112.151833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17037 N 43rd Ave Suite A-1",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353610217,
-    "wof:lastmodified":1449020735,
+    "wof:lastmodified":1466328901,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-112.151833,33.64056,-112.151833,33.64056],
+  "bbox": [
+    -112.151833,
+    33.64056,
+    -112.151833,
+    33.64056
+],
   "geometry": {"coordinates":[-112.151833,33.64056],"type":"Point"}
 }

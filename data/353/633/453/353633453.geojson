@@ -2,13 +2,14 @@
   "id": 353633453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.556418,33.436071,-112.556418,33.436071",
     "geom:latitude":33.436071,
     "geom:longitude":-112.556418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 S Watson Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353633453,
-    "wof:lastmodified":1449020762,
+    "wof:lastmodified":1466329200,
     "wof:name":"M&Ibank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-112.556418,33.436071,-112.556418,33.436071],
-  "geometry": {"coordinates":[-112.556418,33.436071],"type":"Point"}
+  "bbox": [
+    -112.556418,
+    33.436071,
+    -112.556418,
+    33.436071
+],
+  "geometry": {"coordinates":[-112.55641799999999,33.436071],"type":"Point"}
 }

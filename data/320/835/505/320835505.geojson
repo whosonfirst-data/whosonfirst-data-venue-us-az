@@ -2,13 +2,14 @@
   "id": 320835505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029052,33.589611,-112.029052,33.589611",
     "geom:latitude":33.589611,
     "geom:longitude":-112.029052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11410 N Bancroft Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320835505,
-    "wof:lastmodified":1449011791,
+    "wof:lastmodified":1466330325,
     "wof:name":"Devtron Diversified",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-112.029052,33.589611,-112.029052,33.589611],
-  "geometry": {"coordinates":[-112.029052,33.589611],"type":"Point"}
+  "bbox": [
+    -112.029052,
+    33.589611,
+    -112.029052,
+    33.589611
+],
+  "geometry": {"coordinates":[-112.02905199999999,33.589611],"type":"Point"}
 }

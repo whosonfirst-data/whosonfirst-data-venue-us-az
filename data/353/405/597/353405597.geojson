@@ -2,13 +2,14 @@
   "id": 353405597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.940048,33.425499,-111.940048,33.425499",
     "geom:latitude":33.425499,
     "geom:longitude":-111.940048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Mill Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353405597,
-    "wof:lastmodified":1449020602,
+    "wof:lastmodified":1466326300,
     "wof:name":"USPS - United States Post Office - Tempe Retail",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-111.940048,33.425499,-111.940048,33.425499],
+  "bbox": [
+    -111.940048,
+    33.425499,
+    -111.940048,
+    33.425499
+],
   "geometry": {"coordinates":[-111.940048,33.425499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.358542,34.497144,-114.358542,34.497144",
     "geom:latitude":34.497144,
     "geom:longitude":-114.358542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Dover Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152935445,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1466326358,
     "wof:name":"Body Works",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.358542,34.497144,-114.358542,34.497144],
+  "bbox": [
+    -114.358542,
+    34.497144,
+    -114.358542,
+    34.497144
+],
   "geometry": {"coordinates":[-114.358542,34.497144],"type":"Point"}
 }

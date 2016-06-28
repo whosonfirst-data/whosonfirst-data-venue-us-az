@@ -2,13 +2,14 @@
   "id": 152913953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.684733,33.446975,-111.684733,33.446975",
     "geom:latitude":33.446975,
     "geom:longitude":-111.684733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1739 N Silverado",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840319,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719,
+        85840319,
         85808263
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152913953,
-    "wof:lastmodified":1449046092,
+    "wof:lastmodified":1466326183,
     "wof:name":"B G K Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.684733,33.446975,-111.684733,33.446975],
-  "geometry": {"coordinates":[-111.684733,33.446975],"type":"Point"}
+  "bbox": [
+    -111.684733,
+    33.446975,
+    -111.684733,
+    33.446975
+],
+  "geometry": {"coordinates":[-111.68473299999999,33.446975],"type":"Point"}
 }

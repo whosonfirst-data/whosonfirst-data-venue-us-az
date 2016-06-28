@@ -2,13 +2,14 @@
   "id": 320621557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068367,33.467519,-112.068367,33.467519",
     "geom:latitude":33.467519,
     "geom:longitude":-112.068367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 E Coronado Rd Unit 8",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320621557,
-    "wof:lastmodified":1449014518,
+    "wof:lastmodified":1466326300,
     "wof:name":"Wayne Beck Consulting",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-112.068367,33.467519,-112.068367,33.467519],
-  "geometry": {"coordinates":[-112.068367,33.467519],"type":"Point"}
+  "bbox": [
+    -112.068367,
+    33.467519,
+    -112.068367,
+    33.467519
+],
+  "geometry": {"coordinates":[-112.06836699999999,33.467519],"type":"Point"}
 }

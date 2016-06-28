@@ -2,13 +2,14 @@
   "id": 169367143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960832,32.261127,-110.960832,32.261127",
     "geom:latitude":32.261127,
     "geom:longitude":-110.960832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 E Blacklidge Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169367143,
-    "wof:lastmodified":1449034639,
+    "wof:lastmodified":1466333589,
     "wof:name":"Radmacher Enterprises",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960832,32.261127,-110.960832,32.261127],
+  "bbox": [
+    -110.960832,
+    32.261127,
+    -110.960832,
+    32.261127
+],
   "geometry": {"coordinates":[-110.960832,32.261127],"type":"Point"}
 }

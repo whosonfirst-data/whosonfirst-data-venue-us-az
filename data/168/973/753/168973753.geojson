@@ -2,13 +2,14 @@
   "id": 168973753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924879,32.156565,-110.924879,32.156565",
     "geom:latitude":32.156565,
     "geom:longitude":-110.924879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168973753,
-    "wof:lastmodified":1449028242,
+    "wof:lastmodified":1466331237,
     "wof:name":"Ruiz Wrought Iron",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.924879,32.156565,-110.924879,32.156565],
+  "bbox": [
+    -110.924879,
+    32.156565,
+    -110.924879,
+    32.156565
+],
   "geometry": {"coordinates":[-110.924879,32.156565],"type":"Point"}
 }

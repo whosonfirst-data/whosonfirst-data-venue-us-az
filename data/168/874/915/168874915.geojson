@@ -2,13 +2,14 @@
   "id": 168874915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.461682,34.599828,-112.461682,34.599828",
     "geom:latitude":34.599828,
     "geom:longitude":-112.461682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3241 Orchid Way",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168874915,
-    "wof:lastmodified":1449028550,
+    "wof:lastmodified":1466327870,
     "wof:name":"Leather Horseshoe",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.461682,34.599828,-112.461682,34.599828],
+  "bbox": [
+    -112.461682,
+    34.599828,
+    -112.461682,
+    34.599828
+],
   "geometry": {"coordinates":[-112.461682,34.599828],"type":"Point"}
 }

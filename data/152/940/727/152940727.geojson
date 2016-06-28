@@ -2,13 +2,14 @@
   "id": 152940727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.384885,34.560078,-112.384885,34.560078",
     "geom:latitude":34.560078,
     "geom:longitude":-112.384885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 E Gloria Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152940727,
-    "wof:lastmodified":1449045418,
+    "wof:lastmodified":1466326738,
     "wof:name":"Suzy Q Insurance Svcs",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.384885,34.560078,-112.384885,34.560078],
+  "bbox": [
+    -112.384885,
+    34.560078,
+    -112.384885,
+    34.560078
+],
   "geometry": {"coordinates":[-112.384885,34.560078],"type":"Point"}
 }

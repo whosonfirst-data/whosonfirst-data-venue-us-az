@@ -2,13 +2,14 @@
   "id": 168839223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978087,32.257562,-110.978087,32.257562",
     "geom:latitude":32.257562,
     "geom:longitude":-110.978087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168839223,
-    "wof:lastmodified":1449028245,
+    "wof:lastmodified":1466327020,
     "wof:name":"Hannon USA Insurance",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978087,32.257562,-110.978087,32.257562],
+  "bbox": [
+    -110.978087,
+    32.257562,
+    -110.978087,
+    32.257562
+],
   "geometry": {"coordinates":[-110.978087,32.257562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353614397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.871713,32.374747,-112.871713,32.374747",
     "geom:latitude":32.374747,
     "geom:longitude":-112.871713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 W Solana Ave",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353614397,
-    "wof:lastmodified":1449020886,
+    "wof:lastmodified":1466328699,
     "wof:name":"Ajo Corridor Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.871713,32.374747,-112.871713,32.374747],
+  "bbox": [
+    -112.871713,
+    32.374747,
+    -112.871713,
+    32.374747
+],
   "geometry": {"coordinates":[-112.871713,32.374747],"type":"Point"}
 }

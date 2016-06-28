@@ -2,13 +2,14 @@
   "id": 169258255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974525,32.353641,-110.974525,32.353641",
     "geom:latitude":32.353641,
     "geom:longitude":-110.974525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8175 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169258255,
-    "wof:lastmodified":1449035282,
+    "wof:lastmodified":1466332538,
     "wof:name":"Capin Car Care Ctr",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974525,32.353641,-110.974525,32.353641],
+  "bbox": [
+    -110.974525,
+    32.353641,
+    -110.974525,
+    32.353641
+],
   "geometry": {"coordinates":[-110.974525,32.353641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169398659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.935774,33.784679,-111.935774,33.784679",
     "geom:latitude":33.784679,
     "geom:longitude":-111.935774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6735 E Dove Valley Rd",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169398659,
-    "wof:lastmodified":1449032942,
+    "wof:lastmodified":1466333989,
     "wof:name":"Ben Watson Associates Ltd",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.935774,33.784679,-111.935774,33.784679],
-  "geometry": {"coordinates":[-111.935774,33.784679],"type":"Point"}
+  "bbox": [
+    -111.935774,
+    33.784679,
+    -111.935774,
+    33.784679
+],
+  "geometry": {"coordinates":[-111.93577399999999,33.784679],"type":"Point"}
 }

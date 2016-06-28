@@ -2,13 +2,14 @@
   "id": 353731153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.391612,33.616196,-112.391612,33.616196",
     "geom:latitude":33.616196,
     "geom:longitude":-112.391612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15364 W Evans Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353731153,
-    "wof:lastmodified":1449020514,
+    "wof:lastmodified":1466329982,
     "wof:name":"Jbl Trucking Company",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.391612,33.616196,-112.391612,33.616196],
-  "geometry": {"coordinates":[-112.391612,33.616196],"type":"Point"}
+  "bbox": [
+    -112.391612,
+    33.616196,
+    -112.391612,
+    33.616196
+],
+  "geometry": {"coordinates":[-112.39161199999999,33.616196],"type":"Point"}
 }

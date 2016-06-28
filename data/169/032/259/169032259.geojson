@@ -2,13 +2,14 @@
   "id": 169032259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008503,33.415782,-112.008503,33.415782",
     "geom:latitude":33.415782,
     "geom:longitude":-112.008503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 E University Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169032259,
-    "wof:lastmodified":1449034300,
+    "wof:lastmodified":1466327065,
     "wof:name":"Madison Square Development",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.008503,33.415782,-112.008503,33.415782],
+  "bbox": [
+    -112.008503,
+    33.415782,
+    -112.008503,
+    33.415782
+],
   "geometry": {"coordinates":[-112.008503,33.415782],"type":"Point"}
 }

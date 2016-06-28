@@ -2,13 +2,14 @@
   "id": 168923685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965502,32.227199,-110.965502,32.227199",
     "geom:latitude":32.227199,
     "geom:longitude":-110.965502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 N 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168923685,
-    "wof:lastmodified":1449028563,
+    "wof:lastmodified":1466330251,
     "wof:name":"Bix Service Co",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965502,32.227199,-110.965502,32.227199],
+  "bbox": [
+    -110.965502,
+    32.227199,
+    -110.965502,
+    32.227199
+],
   "geometry": {"coordinates":[-110.965502,32.227199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169418445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.592981,33.745024,-112.592981,33.745024",
     "geom:latitude":33.745024,
     "geom:longitude":-112.592981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24530 W Quails Nest Ln",
     "sg:city":"Wittmann",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169418445,
-    "wof:lastmodified":1449035245,
+    "wof:lastmodified":1466334184,
     "wof:name":"Arizona Auto Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.592981,33.745024,-112.592981,33.745024],
-  "geometry": {"coordinates":[-112.592981,33.745024],"type":"Point"}
+  "bbox": [
+    -112.592981,
+    33.745024,
+    -112.592981,
+    33.745024
+],
+  "geometry": {"coordinates":[-112.59298099999999,33.745024],"type":"Point"}
 }

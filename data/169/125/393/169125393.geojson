@@ -2,13 +2,14 @@
   "id": 169125393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016308,33.59439,-112.016308,33.59439",
     "geom:latitude":33.59439,
     "geom:longitude":-112.016308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12011 N 30th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169125393,
-    "wof:lastmodified":1449035848,
+    "wof:lastmodified":1466331441,
     "wof:name":"Are Movers",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.016308,33.59439,-112.016308,33.59439],
+  "bbox": [
+    -112.016308,
+    33.59439,
+    -112.016308,
+    33.59439
+],
   "geometry": {"coordinates":[-112.016308,33.59439],"type":"Point"}
 }

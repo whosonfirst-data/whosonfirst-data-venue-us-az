@@ -2,13 +2,14 @@
   "id": 336646347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.264871,33.508539,-112.264871,33.508539",
     "geom:latitude":33.508539,
     "geom:longitude":-112.264871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9515 W Camelback Rd Suite 134",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":336646347,
-    "wof:lastmodified":1448996896,
+    "wof:lastmodified":1466326902,
     "wof:name":"GEICO Local Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "casualty"
     ]
 },
-  "bbox": [-112.264871,33.508539,-112.264871,33.508539],
+  "bbox": [
+    -112.264871,
+    33.508539,
+    -112.264871,
+    33.508539
+],
   "geometry": {"coordinates":[-112.264871,33.508539],"type":"Point"}
 }

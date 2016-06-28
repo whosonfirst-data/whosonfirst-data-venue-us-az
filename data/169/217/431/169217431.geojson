@@ -2,13 +2,14 @@
   "id": 169217431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.820949,33.35189,-111.820949,33.35189",
     "geom:latitude":33.35189,
     "geom:longitude":-111.820949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 W Park Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818853,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85818853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169217431,
-    "wof:lastmodified":1449035757,
+    "wof:lastmodified":1466332219,
     "wof:name":"NST Professional Svc",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.820949,33.35189,-111.820949,33.35189],
+  "bbox": [
+    -111.820949,
+    33.35189,
+    -111.820949,
+    33.35189
+],
   "geometry": {"coordinates":[-111.820949,33.35189],"type":"Point"}
 }

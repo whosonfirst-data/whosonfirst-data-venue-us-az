@@ -2,13 +2,14 @@
   "id": 320780561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09124,33.577579,-112.09124,33.577579",
     "geom:latitude":33.577579,
     "geom:longitude":-112.09124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10020 N 15th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320780561,
-    "wof:lastmodified":1449014043,
+    "wof:lastmodified":1466329424,
     "wof:name":"Tom Kuyper Basketball Camp",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "basketball"
     ]
 },
-  "bbox": [-112.09124,33.577579,-112.09124,33.577579],
+  "bbox": [
+    -112.09124,
+    33.577579,
+    -112.09124,
+    33.577579
+],
   "geometry": {"coordinates":[-112.09124,33.577579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337561229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.898598,33.55357,-111.898598,33.55357",
     "geom:latitude":33.55357,
     "geom:longitude":-111.898598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8075 N Hayden Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":337561229,
-    "wof:lastmodified":1449027520,
+    "wof:lastmodified":1466327836,
     "wof:name":"Bank Of America",
     "wof:parent_id":85833181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "internet"
     ]
 },
-  "bbox": [-111.898598,33.55357,-111.898598,33.55357],
-  "geometry": {"coordinates":[-111.898598,33.55357],"type":"Point"}
+  "bbox": [
+    -111.898598,
+    33.55357,
+    -111.898598,
+    33.55357
+],
+  "geometry": {"coordinates":[-111.89859800000001,33.55357],"type":"Point"}
 }

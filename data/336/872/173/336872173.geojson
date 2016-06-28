@@ -2,13 +2,14 @@
   "id": 336872173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841918,33.313107,-111.841918,33.313107",
     "geom:latitude":33.313107,
     "geom:longitude":-111.841918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 N Arizona Ave Ste 2,3",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336872173,
-    "wof:lastmodified":1448997026,
+    "wof:lastmodified":1466330074,
     "wof:name":"Hold Fast Tattoo",
     "wof:parent_id":85876681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841918,33.313107,-111.841918,33.313107],
-  "geometry": {"coordinates":[-111.841918,33.313107],"type":"Point"}
+  "bbox": [
+    -111.841918,
+    33.313107,
+    -111.841918,
+    33.313107
+],
+  "geometry": {"coordinates":[-111.84191800000001,33.313107],"type":"Point"}
 }

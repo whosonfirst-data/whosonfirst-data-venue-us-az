@@ -2,13 +2,14 @@
   "id": 169337219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.802517,33.59561,-111.802517,33.59561",
     "geom:latitude":33.59561,
     "geom:longitude":-111.802517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12899 E Cibola Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169337219,
-    "wof:lastmodified":1449034226,
+    "wof:lastmodified":1466333328,
     "wof:name":"All Pro Sweeping",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.802517,33.59561,-111.802517,33.59561],
-  "geometry": {"coordinates":[-111.802517,33.59561],"type":"Point"}
+  "bbox": [
+    -111.802517,
+    33.59561,
+    -111.802517,
+    33.59561
+],
+  "geometry": {"coordinates":[-111.80251699999999,33.59561],"type":"Point"}
 }

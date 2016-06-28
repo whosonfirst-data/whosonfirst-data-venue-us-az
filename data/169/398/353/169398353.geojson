@@ -2,13 +2,14 @@
   "id": 169398353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.944521,33.617251,-111.944521,33.617251",
     "geom:latitude":33.617251,
     "geom:longitude":-111.944521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6328 E Gelding Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169398353,
-    "wof:lastmodified":1449032942,
+    "wof:lastmodified":1466333960,
     "wof:name":"Accredited Printing Svc",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.944521,33.617251,-111.944521,33.617251],
-  "geometry": {"coordinates":[-111.944521,33.617251],"type":"Point"}
+  "bbox": [
+    -111.944521,
+    33.617251,
+    -111.944521,
+    33.617251
+],
+  "geometry": {"coordinates":[-111.94452099999999,33.617251],"type":"Point"}
 }

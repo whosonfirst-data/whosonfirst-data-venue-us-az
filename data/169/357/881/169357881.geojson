@@ -2,13 +2,14 @@
   "id": 169357881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103341,33.578365,-112.103341,33.578365",
     "geom:latitude":33.578365,
     "geom:longitude":-112.103341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 W Cheryl Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169357881,
-    "wof:lastmodified":1449035552,
+    "wof:lastmodified":1466333673,
     "wof:name":"Felix Auto Repair",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103341,33.578365,-112.103341,33.578365],
+  "bbox": [
+    -112.103341,
+    33.578365,
+    -112.103341,
+    33.578365
+],
   "geometry": {"coordinates":[-112.103341,33.578365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168903169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.161785,33.55115,-112.161785,33.55115",
     "geom:latitude":33.55115,
     "geom:longitude":-112.161785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4842 W Hayward Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168903169,
-    "wof:lastmodified":1449027816,
+    "wof:lastmodified":1466329507,
     "wof:name":"Ro De Ro Inc",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.161785,33.55115,-112.161785,33.55115],
-  "geometry": {"coordinates":[-112.161785,33.55115],"type":"Point"}
+  "bbox": [
+    -112.161785,
+    33.55115,
+    -112.161785,
+    33.55115
+],
+  "geometry": {"coordinates":[-112.16178499999999,33.55115],"type":"Point"}
 }

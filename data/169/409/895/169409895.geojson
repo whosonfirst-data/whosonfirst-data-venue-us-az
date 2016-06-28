@@ -2,13 +2,14 @@
   "id": 169409895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.697983,35.041085,-110.697983,35.041085",
     "geom:latitude":35.041085,
     "geom:longitude":-110.697983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N Park Dr",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169409895,
-    "wof:lastmodified":1449034034,
+    "wof:lastmodified":1466334137,
     "wof:name":"Super American Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.697983,35.041085,-110.697983,35.041085],
-  "geometry": {"coordinates":[-110.697983,35.041085],"type":"Point"}
+  "bbox": [
+    -110.697983,
+    35.041085,
+    -110.697983,
+    35.041085
+],
+  "geometry": {"coordinates":[-110.69798299999999,35.041085],"type":"Point"}
 }

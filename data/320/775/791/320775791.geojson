@@ -2,13 +2,14 @@
   "id": 320775791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.044896,33.555184,-112.044896,33.555184",
     "geom:latitude":33.555184,
     "geom:longitude":-112.044896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1747 E Northern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320775791,
-    "wof:lastmodified":1449014019,
+    "wof:lastmodified":1466329345,
     "wof:name":"Canterra Condominiums",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "condominium"
     ]
 },
-  "bbox": [-112.044896,33.555184,-112.044896,33.555184],
-  "geometry": {"coordinates":[-112.044896,33.555184],"type":"Point"}
+  "bbox": [
+    -112.044896,
+    33.555184,
+    -112.044896,
+    33.555184
+],
+  "geometry": {"coordinates":[-112.04489599999999,33.555184],"type":"Point"}
 }

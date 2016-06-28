@@ -2,13 +2,14 @@
   "id": 169129713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.985593,33.378064,-111.985593,33.378064",
     "geom:latitude":33.378064,
     "geom:longitude":-111.985593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 E Baseline Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.cookielee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852111,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169129713,
-    "wof:lastmodified":1449035324,
+    "wof:lastmodified":1466331556,
     "wof:name":"Cookie Lee",
     "wof:parent_id":85852111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.985593,33.378064,-111.985593,33.378064],
-  "geometry": {"coordinates":[-111.985593,33.378064],"type":"Point"}
+  "bbox": [
+    -111.985593,
+    33.378064,
+    -111.985593,
+    33.378064
+],
+  "geometry": {"coordinates":[-111.98559299999999,33.378064],"type":"Point"}
 }

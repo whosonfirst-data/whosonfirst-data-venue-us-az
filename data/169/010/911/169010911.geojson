@@ -2,13 +2,14 @@
   "id": 169010911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978145,32.275894,-110.978145,32.275894",
     "geom:latitude":32.275894,
     "geom:longitude":-110.978145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169010911,
-    "wof:lastmodified":1449034743,
+    "wof:lastmodified":1466326906,
     "wof:name":"Atlas Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978145,32.275894,-110.978145,32.275894],
+  "bbox": [
+    -110.978145,
+    32.275894,
+    -110.978145,
+    32.275894
+],
   "geometry": {"coordinates":[-110.978145,32.275894],"type":"Point"}
 }

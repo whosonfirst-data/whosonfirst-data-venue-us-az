@@ -2,13 +2,14 @@
   "id": 153007465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.778889,32.259168,-110.778889,32.259168",
     "geom:latitude":32.259168,
     "geom:longitude":-110.778889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9989 E Morrill Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153007465,
-    "wof:lastmodified":1449040744,
+    "wof:lastmodified":1466325897,
     "wof:name":"Retirement Properties",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.778889,32.259168,-110.778889,32.259168],
-  "geometry": {"coordinates":[-110.778889,32.259168],"type":"Point"}
+  "bbox": [
+    -110.778889,
+    32.259168,
+    -110.778889,
+    32.259168
+],
+  "geometry": {"coordinates":[-110.77888900000001,32.259168],"type":"Point"}
 }

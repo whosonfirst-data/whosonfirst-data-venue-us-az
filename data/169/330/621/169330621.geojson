@@ -2,13 +2,14 @@
   "id": 169330621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.615191,32.693952,-114.615191,32.693952",
     "geom:latitude":32.693952,
     "geom:longitude":-114.615191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 E 18th Pl",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169330621,
-    "wof:lastmodified":1449034333,
+    "wof:lastmodified":1466333326,
     "wof:name":"Yuma Carpets",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.615191,32.693952,-114.615191,32.693952],
+  "bbox": [
+    -114.615191,
+    32.693952,
+    -114.615191,
+    32.693952
+],
   "geometry": {"coordinates":[-114.615191,32.693952],"type":"Point"}
 }

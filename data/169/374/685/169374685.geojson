@@ -2,13 +2,14 @@
   "id": 169374685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.739396,33.591728,-111.739396,33.591728",
     "geom:latitude":33.591728,
     "geom:longitude":-111.739396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15721 E Ocotillo Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169374685,
-    "wof:lastmodified":1449034106,
+    "wof:lastmodified":1466333765,
     "wof:name":"Mountain Forest Publishing",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.739396,33.591728,-111.739396,33.591728],
+  "bbox": [
+    -111.739396,
+    33.591728,
+    -111.739396,
+    33.591728
+],
   "geometry": {"coordinates":[-111.739396,33.591728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168934083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11773,33.35174,-112.11773,33.35174",
     "geom:latitude":33.35174,
     "geom:longitude":-112.11773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10446 S 27th Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168934083,
-    "wof:lastmodified":1449027811,
+    "wof:lastmodified":1466330640,
     "wof:name":"Kiwi Limited-Hangar Hacienda",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.11773,33.35174,-112.11773,33.35174],
-  "geometry": {"coordinates":[-112.11773,33.35174],"type":"Point"}
+  "bbox": [
+    -112.11773,
+    33.35174,
+    -112.11773,
+    33.35174
+],
+  "geometry": {"coordinates":[-112.11772999999999,33.35174],"type":"Point"}
 }

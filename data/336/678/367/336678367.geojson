@@ -2,13 +2,14 @@
   "id": 336678367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053033,33.370521,-112.053033,33.370521",
     "geom:latitude":33.370521,
     "geom:longitude":-112.053033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 E South Mountain Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336678367,
-    "wof:lastmodified":1448997475,
+    "wof:lastmodified":1466327642,
     "wof:name":"Arizona Childrens Health Care Corp",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-112.053033,33.370521,-112.053033,33.370521],
+  "bbox": [
+    -112.053033,
+    33.370521,
+    -112.053033,
+    33.370521
+],
   "geometry": {"coordinates":[-112.053033,33.370521],"type":"Point"}
 }

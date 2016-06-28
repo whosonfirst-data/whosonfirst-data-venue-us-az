@@ -2,13 +2,14 @@
   "id": 168969693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.729934,32.29461,-110.729934,32.29461",
     "geom:latitude":32.29461,
     "geom:longitude":-110.729934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12341 E Snyder Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168969693,
-    "wof:lastmodified":1449027950,
+    "wof:lastmodified":1466331361,
     "wof:name":"James J Mains",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.729934,32.29461,-110.729934,32.29461],
+  "bbox": [
+    -110.729934,
+    32.29461,
+    -110.729934,
+    32.29461
+],
   "geometry": {"coordinates":[-110.729934,32.29461],"type":"Point"}
 }

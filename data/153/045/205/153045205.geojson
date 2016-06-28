@@ -2,13 +2,14 @@
   "id": 153045205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.957421,33.349213,-111.957421,33.349213",
     "geom:latitude":33.349213,
     "geom:longitude":-111.957421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 W Elliot Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824561,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
+        85824561,
         85814393
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":153045205,
-    "wof:lastmodified":1449040767,
+    "wof:lastmodified":1466326833,
     "wof:name":"Village Inn Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.957421,33.349213,-111.957421,33.349213],
+  "bbox": [
+    -111.957421,
+    33.349213,
+    -111.957421,
+    33.349213
+],
   "geometry": {"coordinates":[-111.957421,33.349213],"type":"Point"}
 }

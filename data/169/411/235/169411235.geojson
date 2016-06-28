@@ -2,13 +2,14 @@
   "id": 169411235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105812,33.555127,-112.105812,33.555127",
     "geom:latitude":33.555127,
     "geom:longitude":-112.105812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 W Royal Palm Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.americangolf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169411235,
-    "wof:lastmodified":1449032843,
+    "wof:lastmodified":1466333714,
     "wof:name":"El Caro Golf Club",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.105812,33.555127,-112.105812,33.555127],
+  "bbox": [
+    -112.105812,
+    33.555127,
+    -112.105812,
+    33.555127
+],
   "geometry": {"coordinates":[-112.105812,33.555127],"type":"Point"}
 }

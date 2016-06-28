@@ -2,13 +2,14 @@
   "id": 169150057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025739,33.38603,-112.025739,33.38603",
     "geom:latitude":33.38603,
     "geom:longitude":-112.025739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 S 26th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811071,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169150057,
-    "wof:lastmodified":1449032724,
+    "wof:lastmodified":1466331786,
     "wof:name":"J & E Greenhouses",
     "wof:parent_id":85811071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.025739,33.38603,-112.025739,33.38603],
+  "bbox": [
+    -112.025739,
+    33.38603,
+    -112.025739,
+    33.38603
+],
   "geometry": {"coordinates":[-112.025739,33.38603],"type":"Point"}
 }

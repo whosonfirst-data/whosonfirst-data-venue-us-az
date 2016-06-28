@@ -2,13 +2,14 @@
   "id": 168931225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154125,33.50195,-112.154125,33.50195",
     "geom:latitude":33.50195,
     "geom:longitude":-112.154125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4331 N 44th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168931225,
-    "wof:lastmodified":1449028519,
+    "wof:lastmodified":1466330453,
     "wof:name":"Popular Outdoor Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154125,33.50195,-112.154125,33.50195],
-  "geometry": {"coordinates":[-112.154125,33.50195],"type":"Point"}
+  "bbox": [
+    -112.154125,
+    33.50195,
+    -112.154125,
+    33.50195
+],
+  "geometry": {"coordinates":[-112.15412499999999,33.50195],"type":"Point"}
 }

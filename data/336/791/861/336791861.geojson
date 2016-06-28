@@ -2,13 +2,14 @@
   "id": 336791861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.800285,33.407962,-111.800285,33.407962",
     "geom:latitude":33.407962,
     "geom:longitude":-111.800285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 E Broadway Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336791861,
-    "wof:lastmodified":1448997789,
+    "wof:lastmodified":1466329318,
     "wof:name":"Back & Neck Relief",
     "wof:parent_id":85820819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-111.800285,33.407962,-111.800285,33.407962],
+  "bbox": [
+    -111.800285,
+    33.407962,
+    -111.800285,
+    33.407962
+],
   "geometry": {"coordinates":[-111.800285,33.407962],"type":"Point"}
 }

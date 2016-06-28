@@ -2,13 +2,14 @@
   "id": 353854289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.092449,32.356568,-111.092449,32.356568",
     "geom:latitude":32.356568,
     "geom:longitude":-111.092449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8260 N Cortaro Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353854289,
-    "wof:lastmodified":1449020689,
+    "wof:lastmodified":1466330949,
     "wof:name":"Air Conditioning US Cortaro",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.092449,32.356568,-111.092449,32.356568],
+  "bbox": [
+    -111.092449,
+    32.356568,
+    -111.092449,
+    32.356568
+],
   "geometry": {"coordinates":[-111.092449,32.356568],"type":"Point"}
 }

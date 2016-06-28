@@ -2,13 +2,14 @@
   "id": 168963217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013769,33.509892,-112.013769,33.509892",
     "geom:latitude":33.509892,
     "geom:longitude":-112.013769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853881,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168963217,
-    "wof:lastmodified":1449027859,
+    "wof:lastmodified":1466331319,
     "wof:name":"Interval Capital Partners",
     "wof:parent_id":85853881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013769,33.509892,-112.013769,33.509892],
+  "bbox": [
+    -112.013769,
+    33.509892,
+    -112.013769,
+    33.509892
+],
   "geometry": {"coordinates":[-112.013769,33.509892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169374125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.944198,33.340012,-111.944198,33.340012",
     "geom:latitude":33.340012,
     "geom:longitude":-111.944198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 W Cll de Caballos",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828883,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85828883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169374125,
-    "wof:lastmodified":1449034107,
+    "wof:lastmodified":1466333709,
     "wof:name":"Primesoft Inc",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.944198,33.340012,-111.944198,33.340012],
+  "bbox": [
+    -111.944198,
+    33.340012,
+    -111.944198,
+    33.340012
+],
   "geometry": {"coordinates":[-111.944198,33.340012],"type":"Point"}
 }

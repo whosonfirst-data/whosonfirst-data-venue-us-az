@@ -2,13 +2,14 @@
   "id": 353646875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.392205,33.457587,-112.392205,33.457587",
     "geom:latitude":33.457587,
     "geom:longitude":-112.392205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 N Estrella Pkwy",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353646875,
-    "wof:lastmodified":1449018190,
+    "wof:lastmodified":1466329100,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-112.392205,33.457587,-112.392205,33.457587],
+  "bbox": [
+    -112.392205,
+    33.457587,
+    -112.392205,
+    33.457587
+],
   "geometry": {"coordinates":[-112.392205,33.457587],"type":"Point"}
 }

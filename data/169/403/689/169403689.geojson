@@ -2,13 +2,14 @@
   "id": 169403689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.826879,32.249743,-109.826879,32.249743",
     "geom:latitude":32.249743,
     "geom:longitude":-109.826879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Maley St",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169403689,
-    "wof:lastmodified":1449035502,
+    "wof:lastmodified":1466334051,
     "wof:name":"D & G Paint & Body",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.826879,32.249743,-109.826879,32.249743],
-  "geometry": {"coordinates":[-109.826879,32.249743],"type":"Point"}
+  "bbox": [
+    -109.826879,
+    32.249743,
+    -109.826879,
+    32.249743
+],
+  "geometry": {"coordinates":[-109.82687900000001,32.249743],"type":"Point"}
 }

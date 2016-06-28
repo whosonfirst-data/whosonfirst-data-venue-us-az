@@ -2,13 +2,14 @@
   "id": 169359781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.648527,35.201341,-111.648527,35.201341",
     "geom:latitude":35.201341,
     "geom:longitude":-111.648527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Beaver St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169359781,
-    "wof:lastmodified":1449032630,
+    "wof:lastmodified":1466333664,
     "wof:name":"Full Circle Pilates",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.648527,35.201341,-111.648527,35.201341],
+  "bbox": [
+    -111.648527,
+    35.201341,
+    -111.648527,
+    35.201341
+],
   "geometry": {"coordinates":[-111.648527,35.201341],"type":"Point"}
 }

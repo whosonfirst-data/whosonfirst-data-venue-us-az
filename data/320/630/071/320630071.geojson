@@ -2,13 +2,14 @@
   "id": 320630071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06395,33.475364,-112.06395,33.475364",
     "geom:latitude":33.475364,
     "geom:longitude":-112.06395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 N 8th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320630071,
-    "wof:lastmodified":1449012609,
+    "wof:lastmodified":1466326525,
     "wof:name":"Faboreo Window Cleaning",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-112.06395,33.475364,-112.06395,33.475364],
-  "geometry": {"coordinates":[-112.06395,33.475364],"type":"Point"}
+  "bbox": [
+    -112.06395,
+    33.475364,
+    -112.06395,
+    33.475364
+],
+  "geometry": {"coordinates":[-112.06395000000001,33.475364],"type":"Point"}
 }

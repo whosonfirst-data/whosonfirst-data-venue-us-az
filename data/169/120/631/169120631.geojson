@@ -2,13 +2,14 @@
   "id": 169120631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.846013,32.217523,-110.846013,32.217523",
     "geom:latitude":32.217523,
     "geom:longitude":-110.846013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6839 E Scarlett St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169120631,
-    "wof:lastmodified":1449035488,
+    "wof:lastmodified":1466331396,
     "wof:name":"Waring & Waring",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.846013,32.217523,-110.846013,32.217523],
+  "bbox": [
+    -110.846013,
+    32.217523,
+    -110.846013,
+    32.217523
+],
   "geometry": {"coordinates":[-110.846013,32.217523],"type":"Point"}
 }

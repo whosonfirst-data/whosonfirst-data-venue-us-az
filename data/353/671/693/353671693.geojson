@@ -2,13 +2,14 @@
   "id": 353671693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271668,33.551355,-112.271668,33.551355",
     "geom:latitude":33.551355,
     "geom:longitude":-112.271668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9788 W Northern Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353671693,
-    "wof:lastmodified":1449018834,
+    "wof:lastmodified":1466329381,
     "wof:name":"Brighton Collectibles",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "accessory"
     ]
 },
-  "bbox": [-112.271668,33.551355,-112.271668,33.551355],
-  "geometry": {"coordinates":[-112.271668,33.551355],"type":"Point"}
+  "bbox": [
+    -112.271668,
+    33.551355,
+    -112.271668,
+    33.551355
+],
+  "geometry": {"coordinates":[-112.27166800000001,33.551355],"type":"Point"}
 }

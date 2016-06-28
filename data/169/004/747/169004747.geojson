@@ -2,13 +2,14 @@
   "id": 169004747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.942254,33.319834,-111.942254,33.319834",
     "geom:latitude":33.319834,
     "geom:longitude":-111.942254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5865 W Ray Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876693,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85876693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169004747,
-    "wof:lastmodified":1449033892,
+    "wof:lastmodified":1466326154,
     "wof:name":"J B Martial Arts Academy",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.942254,33.319834,-111.942254,33.319834],
-  "geometry": {"coordinates":[-111.942254,33.319834],"type":"Point"}
+  "bbox": [
+    -111.942254,
+    33.319834,
+    -111.942254,
+    33.319834
+],
+  "geometry": {"coordinates":[-111.94225400000001,33.319834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152991703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.961983,33.629022,-111.961983,33.629022",
     "geom:latitude":33.629022,
     "geom:longitude":-111.961983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15609 N 55th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152991703,
-    "wof:lastmodified":1449045758,
+    "wof:lastmodified":1466329603,
     "wof:name":"Energy Trading Company Inc",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.961983,33.629022,-111.961983,33.629022],
+  "bbox": [
+    -111.961983,
+    33.629022,
+    -111.961983,
+    33.629022
+],
   "geometry": {"coordinates":[-111.961983,33.629022],"type":"Point"}
 }

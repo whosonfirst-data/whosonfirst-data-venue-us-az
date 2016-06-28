@@ -2,13 +2,14 @@
   "id": 169097941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183713,33.531262,-112.183713,33.531262",
     "geom:latitude":33.531262,
     "geom:longitude":-112.183713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5711 W Maryland Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169097941,
-    "wof:lastmodified":1449033980,
+    "wof:lastmodified":1466330894,
     "wof:name":"Mustang Restoration Co",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183713,33.531262,-112.183713,33.531262],
+  "bbox": [
+    -112.183713,
+    33.531262,
+    -112.183713,
+    33.531262
+],
   "geometry": {"coordinates":[-112.183713,33.531262],"type":"Point"}
 }

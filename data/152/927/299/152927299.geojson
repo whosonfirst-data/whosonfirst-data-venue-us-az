@@ -2,13 +2,14 @@
   "id": 152927299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.915521,32.17267,-110.915521,32.17267",
     "geom:latitude":32.17267,
     "geom:longitude":-110.915521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3590 E Columbia St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152927299,
-    "wof:lastmodified":1449048437,
+    "wof:lastmodified":1466325793,
     "wof:name":"Ionatron Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.915521,32.17267,-110.915521,32.17267],
+  "bbox": [
+    -110.915521,
+    32.17267,
+    -110.915521,
+    32.17267
+],
   "geometry": {"coordinates":[-110.915521,32.17267],"type":"Point"}
 }

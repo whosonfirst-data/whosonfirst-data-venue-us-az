@@ -2,13 +2,14 @@
   "id": 169164721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.214834,33.622116,-112.214834,33.622116",
     "geom:latitude":33.622116,
     "geom:longitude":-112.214834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15032 N 72nd Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854965,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85854965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169164721,
-    "wof:lastmodified":1449033076,
+    "wof:lastmodified":1466331887,
     "wof:name":"Concerts For America LLC",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.214834,33.622116,-112.214834,33.622116],
+  "bbox": [
+    -112.214834,
+    33.622116,
+    -112.214834,
+    33.622116
+],
   "geometry": {"coordinates":[-112.214834,33.622116],"type":"Point"}
 }

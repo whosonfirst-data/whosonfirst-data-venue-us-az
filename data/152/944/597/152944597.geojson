@@ -2,13 +2,14 @@
   "id": 152944597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.92704,33.781295,-111.92704,33.781295",
     "geom:latitude":33.781295,
     "geom:longitude":-111.92704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7199 E Aloe Vera Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152944597,
-    "wof:lastmodified":1449046617,
+    "wof:lastmodified":1466326999,
     "wof:name":"Casa Mexico",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.92704,33.781295,-111.92704,33.781295],
-  "geometry": {"coordinates":[-111.92704,33.781295],"type":"Point"}
+  "bbox": [
+    -111.92704,
+    33.781295,
+    -111.92704,
+    33.781295
+],
+  "geometry": {"coordinates":[-111.92704000000001,33.781295],"type":"Point"}
 }

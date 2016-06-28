@@ -2,13 +2,14 @@
   "id": 168977735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948532,33.325895,-111.948532,33.325895",
     "geom:latitude":33.325895,
     "geom:longitude":-111.948532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6163 W Kent Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876693,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85876693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168977735,
-    "wof:lastmodified":1449028618,
+    "wof:lastmodified":1466331609,
     "wof:name":"Weber Sealcoating",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.948532,33.325895,-111.948532,33.325895],
+  "bbox": [
+    -111.948532,
+    33.325895,
+    -111.948532,
+    33.325895
+],
   "geometry": {"coordinates":[-111.948532,33.325895],"type":"Point"}
 }

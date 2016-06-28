@@ -2,13 +2,14 @@
   "id": 353827451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940407,32.194118,-110.940407,32.194118",
     "geom:latitude":32.194118,
     "geom:longitude":-110.940407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 E 34th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353827451,
-    "wof:lastmodified":1449019169,
+    "wof:lastmodified":1466330732,
     "wof:name":"Lucid Creations",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-110.940407,32.194118,-110.940407,32.194118],
-  "geometry": {"coordinates":[-110.940407,32.194118],"type":"Point"}
+  "bbox": [
+    -110.940407,
+    32.194118,
+    -110.940407,
+    32.194118
+],
+  "geometry": {"coordinates":[-110.94040699999999,32.194118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168837557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.015747,34.189825,-110.015747,34.189825",
     "geom:latitude":34.189825,
     "geom:longitude":-110.015747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5448 State Hwy 260",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168837557,
-    "wof:lastmodified":1449027889,
+    "wof:lastmodified":1466326846,
     "wof:name":"Sunrise Ambulatory Surgical",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.015747,34.189825,-110.015747,34.189825],
+  "bbox": [
+    -110.015747,
+    34.189825,
+    -110.015747,
+    34.189825
+],
   "geometry": {"coordinates":[-110.015747,34.189825],"type":"Point"}
 }

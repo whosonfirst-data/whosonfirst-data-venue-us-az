@@ -2,13 +2,14 @@
   "id": 353808731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97868,32.305002,-110.97868,32.305002",
     "geom:latitude":32.305002,
     "geom:longitude":-110.97868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 N Oracle Rd Ste 115",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353808731,
-    "wof:lastmodified":1449018364,
+    "wof:lastmodified":1466330308,
     "wof:name":"Behavioral Health Svc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "mental"
     ]
 },
-  "bbox": [-110.97868,32.305002,-110.97868,32.305002],
+  "bbox": [
+    -110.97868,
+    32.305002,
+    -110.97868,
+    32.305002
+],
   "geometry": {"coordinates":[-110.97868,32.305002],"type":"Point"}
 }

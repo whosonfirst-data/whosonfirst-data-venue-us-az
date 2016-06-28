@@ -2,13 +2,14 @@
   "id": 336696207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991142,33.308913,-111.991142,33.308913",
     "geom:latitude":33.308913,
     "geom:longitude":-111.991142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4314 E Graythorn Ave # 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336696207,
-    "wof:lastmodified":1448997012,
+    "wof:lastmodified":1466327938,
     "wof:name":"Intelitrans",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "mail"
     ]
 },
-  "bbox": [-111.991142,33.308913,-111.991142,33.308913],
+  "bbox": [
+    -111.991142,
+    33.308913,
+    -111.991142,
+    33.308913
+],
   "geometry": {"coordinates":[-111.991142,33.308913],"type":"Point"}
 }

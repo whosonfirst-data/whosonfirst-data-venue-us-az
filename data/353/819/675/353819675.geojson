@@ -2,13 +2,14 @@
   "id": 353819675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.861905,32.206793,-110.861905,32.206793",
     "geom:latitude":32.206793,
     "geom:longitude":-110.861905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6122 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353819675,
-    "wof:lastmodified":1449018859,
+    "wof:lastmodified":1466330507,
     "wof:name":"Nami Of Southern Arizona",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.861905,32.206793,-110.861905,32.206793],
-  "geometry": {"coordinates":[-110.861905,32.206793],"type":"Point"}
+  "bbox": [
+    -110.861905,
+    32.206793,
+    -110.861905,
+    32.206793
+],
+  "geometry": {"coordinates":[-110.86190499999999,32.206793],"type":"Point"}
 }

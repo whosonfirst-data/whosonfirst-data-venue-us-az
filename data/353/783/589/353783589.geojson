@@ -2,13 +2,14 @@
   "id": 353783589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.915001,31.44186,-109.915001,31.44186",
     "geom:latitude":31.44186,
     "geom:longitude":-109.915001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Main St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":353783589,
-    "wof:lastmodified":1449018325,
+    "wof:lastmodified":1466330325,
     "wof:name":"Bank Of America",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "internet"
     ]
 },
-  "bbox": [-109.915001,31.44186,-109.915001,31.44186],
+  "bbox": [
+    -109.915001,
+    31.44186,
+    -109.915001,
+    31.44186
+],
   "geometry": {"coordinates":[-109.915001,31.44186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169372561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064952,33.531865,-112.064952,33.531865",
     "geom:latitude":33.531865,
     "geom:longitude":-112.064952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169372561,
-    "wof:lastmodified":1449034688,
+    "wof:lastmodified":1466333753,
     "wof:name":"Rent To Own Homes",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.064952,33.531865,-112.064952,33.531865],
-  "geometry": {"coordinates":[-112.064952,33.531865],"type":"Point"}
+  "bbox": [
+    -112.064952,
+    33.531865,
+    -112.064952,
+    33.531865
+],
+  "geometry": {"coordinates":[-112.06495200000001,33.531865],"type":"Point"}
 }

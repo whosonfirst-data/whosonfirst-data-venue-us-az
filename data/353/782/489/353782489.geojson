@@ -2,13 +2,14 @@
   "id": 353782489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.307098,31.983675,-110.307098,31.983675",
     "geom:latitude":31.983675,
     "geom:longitude":-110.307098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Ocotillo Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353782489,
-    "wof:lastmodified":1449018242,
+    "wof:lastmodified":1466330307,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lodging"
     ]
 },
-  "bbox": [-110.307098,31.983675,-110.307098,31.983675],
+  "bbox": [
+    -110.307098,
+    31.983675,
+    -110.307098,
+    31.983675
+],
   "geometry": {"coordinates":[-110.307098,31.983675],"type":"Point"}
 }

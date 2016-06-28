@@ -2,13 +2,14 @@
   "id": 169088711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.085755,33.554489,-112.085755,33.554489",
     "geom:latitude":33.554489,
     "geom:longitude":-112.085755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8103 N 10th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169088711,
-    "wof:lastmodified":1449035229,
+    "wof:lastmodified":1466330372,
     "wof:name":"Bond Electric",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.085755,33.554489,-112.085755,33.554489],
-  "geometry": {"coordinates":[-112.085755,33.554489],"type":"Point"}
+  "bbox": [
+    -112.085755,
+    33.554489,
+    -112.085755,
+    33.554489
+],
+  "geometry": {"coordinates":[-112.08575500000001,33.554489],"type":"Point"}
 }

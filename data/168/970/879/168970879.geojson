@@ -2,13 +2,14 @@
   "id": 168970879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982698,33.337925,-111.982698,33.337925",
     "geom:latitude":33.337925,
     "geom:longitude":-111.982698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12033 S Paiute St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840707,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168970879,
-    "wof:lastmodified":1449028573,
+    "wof:lastmodified":1466331271,
     "wof:name":"Richard E Dunford",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.982698,33.337925,-111.982698,33.337925],
+  "bbox": [
+    -111.982698,
+    33.337925,
+    -111.982698,
+    33.337925
+],
   "geometry": {"coordinates":[-111.982698,33.337925],"type":"Point"}
 }

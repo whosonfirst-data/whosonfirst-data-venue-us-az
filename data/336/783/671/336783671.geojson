@@ -2,13 +2,14 @@
   "id": 336783671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.802213,33.453688,-111.802213,33.453688",
     "geom:latitude":33.453688,
     "geom:longitude":-111.802213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 E Kenwood Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336783671,
-    "wof:lastmodified":1448996945,
+    "wof:lastmodified":1466329200,
     "wof:name":"Sound Realestateinvesting",
     "wof:parent_id":85830207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-111.802213,33.453688,-111.802213,33.453688],
-  "geometry": {"coordinates":[-111.802213,33.453688],"type":"Point"}
+  "bbox": [
+    -111.802213,
+    33.453688,
+    -111.802213,
+    33.453688
+],
+  "geometry": {"coordinates":[-111.80221299999999,33.453688],"type":"Point"}
 }

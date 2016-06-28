@@ -2,13 +2,14 @@
   "id": 168994445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.913701,32.229953,-110.913701,32.229953",
     "geom:latitude":32.229953,
     "geom:longitude":-110.913701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3685 E Baker Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168994445,
-    "wof:lastmodified":1449027804,
+    "wof:lastmodified":1466331558,
     "wof:name":"Jrmklensin LLC",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.913701,32.229953,-110.913701,32.229953],
+  "bbox": [
+    -110.913701,
+    32.229953,
+    -110.913701,
+    32.229953
+],
   "geometry": {"coordinates":[-110.913701,32.229953],"type":"Point"}
 }

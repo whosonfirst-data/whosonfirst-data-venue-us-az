@@ -2,13 +2,14 @@
   "id": 169250861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.218292,33.524205,-112.218292,33.524205",
     "geom:latitude":33.524205,
     "geom:longitude":-112.218292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7311 W Cavalier Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877789,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169250861,
-    "wof:lastmodified":1449034570,
+    "wof:lastmodified":1466332579,
     "wof:name":"Concrete Done Right LLC",
     "wof:parent_id":85877789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.218292,33.524205,-112.218292,33.524205],
-  "geometry": {"coordinates":[-112.218292,33.524205],"type":"Point"}
+  "bbox": [
+    -112.218292,
+    33.524205,
+    -112.218292,
+    33.524205
+],
+  "geometry": {"coordinates":[-112.21829200000001,33.524205],"type":"Point"}
 }

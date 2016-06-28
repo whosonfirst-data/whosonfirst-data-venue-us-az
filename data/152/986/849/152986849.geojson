@@ -2,13 +2,14 @@
   "id": 152986849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.241584,33.640168,-112.241584,33.640168",
     "geom:latitude":33.640168,
     "geom:longitude":-112.241584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17445 N 84th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152986849,
-    "wof:lastmodified":1449048019,
+    "wof:lastmodified":1466329335,
     "wof:name":"Deans Designs",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.241584,33.640168,-112.241584,33.640168],
+  "bbox": [
+    -112.241584,
+    33.640168,
+    -112.241584,
+    33.640168
+],
   "geometry": {"coordinates":[-112.241584,33.640168],"type":"Point"}
 }

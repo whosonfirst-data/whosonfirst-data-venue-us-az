@@ -2,13 +2,14 @@
   "id": 169209455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.12701,33.643652,-112.12701,33.643652",
     "geom:latitude":33.643652,
     "geom:longitude":-112.12701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 W Anderson Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169209455,
-    "wof:lastmodified":1449035605,
+    "wof:lastmodified":1466332221,
     "wof:name":"Atkinson Richard & Leta",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.12701,33.643652,-112.12701,33.643652],
+  "bbox": [
+    -112.12701,
+    33.643652,
+    -112.12701,
+    33.643652
+],
   "geometry": {"coordinates":[-112.12701,33.643652],"type":"Point"}
 }

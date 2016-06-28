@@ -2,13 +2,14 @@
   "id": 152914359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.269653,34.464779,-114.269653,34.464779",
     "geom:latitude":34.464779,
     "geom:longitude":-114.269653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3437 Oro Grande Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152914359,
-    "wof:lastmodified":1449046070,
+    "wof:lastmodified":1466326191,
     "wof:name":"Oro Grande Church Of Christ",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.269653,34.464779,-114.269653,34.464779],
-  "geometry": {"coordinates":[-114.269653,34.464779],"type":"Point"}
+  "bbox": [
+    -114.269653,
+    34.464779,
+    -114.269653,
+    34.464779
+],
+  "geometry": {"coordinates":[-114.26965300000001,34.464779],"type":"Point"}
 }

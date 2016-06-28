@@ -2,13 +2,14 @@
   "id": 336649611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.250802,33.49428,-112.250802,33.49428",
     "geom:latitude":33.49428,
     "geom:longitude":-112.250802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 N 89th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336649611,
-    "wof:lastmodified":1448997660,
+    "wof:lastmodified":1466326964,
     "wof:name":"Gardening Plus",
     "wof:parent_id":85856669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-112.250802,33.49428,-112.250802,33.49428],
-  "geometry": {"coordinates":[-112.250802,33.49428],"type":"Point"}
+  "bbox": [
+    -112.250802,
+    33.49428,
+    -112.250802,
+    33.49428
+],
+  "geometry": {"coordinates":[-112.25080199999999,33.49428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336731585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929268,33.651581,-111.929268,33.651581",
     "geom:latitude":33.651581,
     "geom:longitude":-111.929268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7015 E Chauncey Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336731585,
-    "wof:lastmodified":1448997899,
+    "wof:lastmodified":1466328770,
     "wof:name":"Penske Rapid Repair",
     "wof:parent_id":85858215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "handyman"
     ]
 },
-  "bbox": [-111.929268,33.651581,-111.929268,33.651581],
-  "geometry": {"coordinates":[-111.929268,33.651581],"type":"Point"}
+  "bbox": [
+    -111.929268,
+    33.651581,
+    -111.929268,
+    33.651581
+],
+  "geometry": {"coordinates":[-111.92926799999999,33.651581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169134927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065353,33.559987,-112.065353,33.559987",
     "geom:latitude":33.559987,
     "geom:longitude":-112.065353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169134927,
-    "wof:lastmodified":1449035775,
+    "wof:lastmodified":1466331614,
     "wof:name":"Tons-Of-Tools",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065353,33.559987,-112.065353,33.559987],
+  "bbox": [
+    -112.065353,
+    33.559987,
+    -112.065353,
+    33.559987
+],
   "geometry": {"coordinates":[-112.065353,33.559987],"type":"Point"}
 }

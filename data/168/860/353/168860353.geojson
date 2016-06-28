@@ -2,13 +2,14 @@
   "id": 168860353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.828752,32.2034,-110.828752,32.2034",
     "geom:latitude":32.2034,
     "geom:longitude":-110.828752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 S Logan Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168860353,
-    "wof:lastmodified":1449028126,
+    "wof:lastmodified":1466326614,
     "wof:name":"Courtyard By Marriott",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.828752,32.2034,-110.828752,32.2034],
-  "geometry": {"coordinates":[-110.828752,32.2034],"type":"Point"}
+  "bbox": [
+    -110.828752,
+    32.2034,
+    -110.828752,
+    32.2034
+],
+  "geometry": {"coordinates":[-110.82875199999999,32.2034],"type":"Point"}
 }

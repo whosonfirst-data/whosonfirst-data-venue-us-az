@@ -2,13 +2,14 @@
   "id": 320786897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102729,33.553108,-112.102729,33.553108",
     "geom:latitude":33.553108,
     "geom:longitude":-112.102729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 W Northern Ave Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320786897,
-    "wof:lastmodified":1449011738,
+    "wof:lastmodified":1466329663,
     "wof:name":"Sun Engineering",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.102729,33.553108,-112.102729,33.553108],
+  "bbox": [
+    -112.102729,
+    33.553108,
+    -112.102729,
+    33.553108
+],
   "geometry": {"coordinates":[-112.102729,33.553108],"type":"Point"}
 }

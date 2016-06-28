@@ -2,13 +2,14 @@
   "id": 169367161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977607,32.153501,-110.977607,32.153501",
     "geom:latitude":32.153501,
     "geom:longitude":-110.977607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5408 S 12th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169367161,
-    "wof:lastmodified":1449034638,
+    "wof:lastmodified":1466333591,
     "wof:name":"Santa Cruz Veterinary Clinic",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977607,32.153501,-110.977607,32.153501],
-  "geometry": {"coordinates":[-110.977607,32.153501],"type":"Point"}
+  "bbox": [
+    -110.977607,
+    32.153501,
+    -110.977607,
+    32.153501
+],
+  "geometry": {"coordinates":[-110.97760700000001,32.153501],"type":"Point"}
 }

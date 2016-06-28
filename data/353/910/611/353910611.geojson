@@ -2,13 +2,14 @@
   "id": 353910611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.035707,35.219551,-114.035707,35.219551",
     "geom:latitude":35.219551,
     "geom:longitude":-114.035707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3260 Stockton Hill Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353910611,
-    "wof:lastmodified":1449019311,
+    "wof:lastmodified":1466331149,
     "wof:name":"Ross Dress for Less",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.035707,35.219551,-114.035707,35.219551],
+  "bbox": [
+    -114.035707,
+    35.219551,
+    -114.035707,
+    35.219551
+],
   "geometry": {"coordinates":[-114.035707,35.219551],"type":"Point"}
 }

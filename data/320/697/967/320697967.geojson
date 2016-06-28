@@ -2,13 +2,14 @@
   "id": 320697967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049719,33.506103,-112.049719,33.506103",
     "geom:latitude":33.506103,
     "geom:longitude":-112.049719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 N 15th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320697967,
-    "wof:lastmodified":1449013616,
+    "wof:lastmodified":1466328042,
     "wof:name":"Highland Gardens",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.049719,33.506103,-112.049719,33.506103],
+  "bbox": [
+    -112.049719,
+    33.506103,
+    -112.049719,
+    33.506103
+],
   "geometry": {"coordinates":[-112.049719,33.506103],"type":"Point"}
 }

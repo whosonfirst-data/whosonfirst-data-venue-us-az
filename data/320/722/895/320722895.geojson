@@ -2,13 +2,14 @@
   "id": 320722895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034509,33.485729,-112.034509,33.485729",
     "geom:latitude":33.485729,
     "geom:longitude":-112.034509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 E Flower St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320722895,
-    "wof:lastmodified":1449012584,
+    "wof:lastmodified":1466328643,
     "wof:name":"Voita Gallery",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grower"
     ]
 },
-  "bbox": [-112.034509,33.485729,-112.034509,33.485729],
+  "bbox": [
+    -112.034509,
+    33.485729,
+    -112.034509,
+    33.485729
+],
   "geometry": {"coordinates":[-112.034509,33.485729],"type":"Point"}
 }

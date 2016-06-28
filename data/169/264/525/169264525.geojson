@@ -2,13 +2,14 @@
   "id": 169264525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054606,33.659157,-112.054606,33.659157",
     "geom:latitude":33.659157,
     "geom:longitude":-112.054606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 E Taro Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843333,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169264525,
-    "wof:lastmodified":1449034829,
+    "wof:lastmodified":1466332626,
     "wof:name":"Easy Stop Convenience Store",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054606,33.659157,-112.054606,33.659157],
-  "geometry": {"coordinates":[-112.054606,33.659157],"type":"Point"}
+  "bbox": [
+    -112.054606,
+    33.659157,
+    -112.054606,
+    33.659157
+],
+  "geometry": {"coordinates":[-112.05460600000001,33.659157],"type":"Point"}
 }

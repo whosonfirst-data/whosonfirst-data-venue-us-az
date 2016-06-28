@@ -2,13 +2,14 @@
   "id": 353834399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961113,32.291348,-110.961113,32.291348",
     "geom:latitude":32.291348,
     "geom:longitude":-110.961113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -87,10 +88,11 @@
         }
     ],
     "wof:id":353834399,
-    "wof:lastmodified":1449018496,
+    "wof:lastmodified":1466330666,
     "wof:name":"Arcadia Health Care",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -107,6 +109,11 @@
         "nurse"
     ]
 },
-  "bbox": [-110.961113,32.291348,-110.961113,32.291348],
+  "bbox": [
+    -110.961113,
+    32.291348,
+    -110.961113,
+    32.291348
+],
   "geometry": {"coordinates":[-110.961113,32.291348],"type":"Point"}
 }

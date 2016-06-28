@@ -2,13 +2,14 @@
   "id": 169405327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.249507,33.693347,-112.249507,33.693347",
     "geom:latitude":33.693347,
     "geom:longitude":-112.249507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23149 N 88th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169405327,
-    "wof:lastmodified":1449035680,
+    "wof:lastmodified":1466334011,
     "wof:name":"World of Wheels Phx",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.249507,33.693347,-112.249507,33.693347],
-  "geometry": {"coordinates":[-112.249507,33.693347],"type":"Point"}
+  "bbox": [
+    -112.249507,
+    33.693347,
+    -112.249507,
+    33.693347
+],
+  "geometry": {"coordinates":[-112.24950699999999,33.693347],"type":"Point"}
 }

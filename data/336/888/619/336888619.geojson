@@ -2,13 +2,14 @@
   "id": 336888619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.92673,33.305343,-111.92673,33.305343",
     "geom:latitude":33.305343,
     "geom:longitude":-111.92673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4929 W Chandler Boulevard",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336888619,
-    "wof:lastmodified":1448997607,
+    "wof:lastmodified":1466330165,
     "wof:name":"Sports Cutters",
     "wof:parent_id":85876687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.92673,33.305343,-111.92673,33.305343],
-  "geometry": {"coordinates":[-111.92673,33.305343],"type":"Point"}
+  "bbox": [
+    -111.92673,
+    33.305343,
+    -111.92673,
+    33.305343
+],
+  "geometry": {"coordinates":[-111.92673000000001,33.305343],"type":"Point"}
 }

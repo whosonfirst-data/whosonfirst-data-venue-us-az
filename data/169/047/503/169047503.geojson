@@ -2,13 +2,14 @@
   "id": 169047503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.092452,33.555017,-112.092452,33.555017",
     "geom:latitude":33.555017,
     "geom:longitude":-112.092452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8088 N 15th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169047503,
-    "wof:lastmodified":1449034813,
+    "wof:lastmodified":1466328159,
     "wof:name":"Precision Broadband LLC",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.092452,33.555017,-112.092452,33.555017],
-  "geometry": {"coordinates":[-112.092452,33.555017],"type":"Point"}
+  "bbox": [
+    -112.092452,
+    33.555017,
+    -112.092452,
+    33.555017
+],
+  "geometry": {"coordinates":[-112.09245199999999,33.555017],"type":"Point"}
 }

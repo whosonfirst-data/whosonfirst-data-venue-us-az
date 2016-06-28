@@ -2,13 +2,14 @@
   "id": 336657773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054471,33.413988,-112.054471,33.413988",
     "geom:latitude":33.413988,
     "geom:longitude":-112.054471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E Elwood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336657773,
-    "wof:lastmodified":1448997048,
+    "wof:lastmodified":1466327120,
     "wof:name":"Bob's Used Motorcycle Parts",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.054471,33.413988,-112.054471,33.413988],
-  "geometry": {"coordinates":[-112.054471,33.413988],"type":"Point"}
+  "bbox": [
+    -112.054471,
+    33.413988,
+    -112.054471,
+    33.413988
+],
+  "geometry": {"coordinates":[-112.05447100000001,33.413988],"type":"Point"}
 }

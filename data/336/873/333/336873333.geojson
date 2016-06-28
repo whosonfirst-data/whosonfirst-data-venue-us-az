@@ -2,13 +2,14 @@
   "id": 336873333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842531,33.302911,-111.842531,33.302911",
     "geom:latitude":33.302911,
     "geom:longitude":-111.842531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 S San Marcos Place",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336873333,
-    "wof:lastmodified":1448997173,
+    "wof:lastmodified":1466330174,
     "wof:name":"Piza Pizza",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-111.842531,33.302911,-111.842531,33.302911],
-  "geometry": {"coordinates":[-111.842531,33.302911],"type":"Point"}
+  "bbox": [
+    -111.842531,
+    33.302911,
+    -111.842531,
+    33.302911
+],
+  "geometry": {"coordinates":[-111.84253099999999,33.302911],"type":"Point"}
 }

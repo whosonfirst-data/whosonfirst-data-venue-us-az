@@ -2,13 +2,14 @@
   "id": 168956917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.714161,32.078002,-110.714161,32.078002",
     "geom:latitude":32.078002,
     "geom:longitude":-110.714161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9680 S Leon Ranch Rd",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168956917,
-    "wof:lastmodified":1449027903,
+    "wof:lastmodified":1466331163,
     "wof:name":"Unique Construction",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.714161,32.078002,-110.714161,32.078002],
+  "bbox": [
+    -110.714161,
+    32.078002,
+    -110.714161,
+    32.078002
+],
   "geometry": {"coordinates":[-110.714161,32.078002],"type":"Point"}
 }

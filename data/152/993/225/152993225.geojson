@@ -2,13 +2,14 @@
   "id": 152993225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882934,33.569371,-111.882934,33.569371",
     "geom:latitude":33.569371,
     "geom:longitude":-111.882934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9141 E San Salvador Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     "sg:website":"www.haywardpool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85803087
+        85633793,
+        85803087,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152993225,
-    "wof:lastmodified":1449046359,
+    "wof:lastmodified":1466329763,
     "wof:name":"Hayward Pool Products Inc",
     "wof:parent_id":85803087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.882934,33.569371,-111.882934,33.569371],
-  "geometry": {"coordinates":[-111.882934,33.569371],"type":"Point"}
+  "bbox": [
+    -111.882934,
+    33.569371,
+    -111.882934,
+    33.569371
+],
+  "geometry": {"coordinates":[-111.88293400000001,33.569371],"type":"Point"}
 }

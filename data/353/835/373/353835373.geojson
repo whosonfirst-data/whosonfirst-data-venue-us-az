@@ -2,13 +2,14 @@
   "id": 353835373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943853,32.25772,-110.943853,32.25772",
     "geom:latitude":32.25772,
     "geom:longitude":-110.943853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353835373,
-    "wof:lastmodified":1449018620,
+    "wof:lastmodified":1466330668,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-110.943853,32.25772,-110.943853,32.25772],
+  "bbox": [
+    -110.943853,
+    32.25772,
+    -110.943853,
+    32.25772
+],
   "geometry": {"coordinates":[-110.943853,32.25772],"type":"Point"}
 }

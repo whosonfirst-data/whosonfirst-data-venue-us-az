@@ -2,13 +2,14 @@
   "id": 169394421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.101645,33.576361,-112.101645,33.576361",
     "geom:latitude":33.576361,
     "geom:longitude":-112.101645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9855 N 19th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169394421,
-    "wof:lastmodified":1449033329,
+    "wof:lastmodified":1466334116,
     "wof:name":"Restoration Plus",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.101645,33.576361,-112.101645,33.576361],
+  "bbox": [
+    -112.101645,
+    33.576361,
+    -112.101645,
+    33.576361
+],
   "geometry": {"coordinates":[-112.101645,33.576361],"type":"Point"}
 }

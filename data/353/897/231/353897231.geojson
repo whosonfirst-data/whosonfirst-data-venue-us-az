@@ -2,13 +2,14 @@
   "id": 353897231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047653,34.759241,-112.047653,34.759241",
     "geom:latitude":34.759241,
     "geom:longitude":-112.047653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Loma Vis",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353897231,
-    "wof:lastmodified":1449020413,
+    "wof:lastmodified":1466330932,
     "wof:name":"Iron Cross Welding",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-112.047653,34.759241,-112.047653,34.759241],
+  "bbox": [
+    -112.047653,
+    34.759241,
+    -112.047653,
+    34.759241
+],
   "geometry": {"coordinates":[-112.047653,34.759241],"type":"Point"}
 }

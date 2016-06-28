@@ -2,13 +2,14 @@
   "id": 169405679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490783,34.543785,-112.490783,34.543785",
     "geom:latitude":34.543785,
     "geom:longitude":-112.490783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 W Gurley St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169405679,
-    "wof:lastmodified":1449035682,
+    "wof:lastmodified":1466334051,
     "wof:name":"Sunshine Laundry & Dry Clnrs",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.490783,34.543785,-112.490783,34.543785],
-  "geometry": {"coordinates":[-112.490783,34.543785],"type":"Point"}
+  "bbox": [
+    -112.490783,
+    34.543785,
+    -112.490783,
+    34.543785
+],
+  "geometry": {"coordinates":[-112.49078299999999,34.543785],"type":"Point"}
 }

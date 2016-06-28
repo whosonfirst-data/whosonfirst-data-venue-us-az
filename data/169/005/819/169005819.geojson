@@ -2,13 +2,14 @@
   "id": 169005819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.461957,34.596902,-112.461957,34.596902",
     "geom:latitude":34.596902,
     "geom:longitude":-112.461957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3171 Shoshone Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169005819,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1466326254,
     "wof:name":"Frontier Real Estate",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.461957,34.596902,-112.461957,34.596902],
+  "bbox": [
+    -112.461957,
+    34.596902,
+    -112.461957,
+    34.596902
+],
   "geometry": {"coordinates":[-112.461957,34.596902],"type":"Point"}
 }

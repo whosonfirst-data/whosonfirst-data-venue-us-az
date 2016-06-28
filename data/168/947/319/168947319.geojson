@@ -2,13 +2,14 @@
   "id": 168947319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.910055,32.228814,-110.910055,32.228814",
     "geom:latitude":32.228814,
     "geom:longitude":-110.910055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3822 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168947319,
-    "wof:lastmodified":1449028340,
+    "wof:lastmodified":1466331083,
     "wof:name":"Fred J White DDS",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.910055,32.228814,-110.910055,32.228814],
+  "bbox": [
+    -110.910055,
+    32.228814,
+    -110.910055,
+    32.228814
+],
   "geometry": {"coordinates":[-110.910055,32.228814],"type":"Point"}
 }

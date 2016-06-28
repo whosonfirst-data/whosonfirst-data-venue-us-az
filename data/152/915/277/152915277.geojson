@@ -2,13 +2,14 @@
   "id": 152915277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.732987,32.967681,-111.732987,32.967681",
     "geom:latitude":32.967681,
     "geom:longitude":-111.732987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9900 N Blanco Dr",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152915277,
-    "wof:lastmodified":1449048861,
+    "wof:lastmodified":1466326250,
     "wof:name":"Seispoint Geophysical",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.732987,32.967681,-111.732987,32.967681],
-  "geometry": {"coordinates":[-111.732987,32.967681],"type":"Point"}
+  "bbox": [
+    -111.732987,
+    32.967681,
+    -111.732987,
+    32.967681
+],
+  "geometry": {"coordinates":[-111.73298699999999,32.967681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353833341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.903472,32.307502,-110.903472,32.307502",
     "geom:latitude":32.307502,
     "geom:longitude":-110.903472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 E Aquarius Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353833341,
-    "wof:lastmodified":1449018578,
+    "wof:lastmodified":1466330639,
     "wof:name":"Electrical Protection & Control",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-110.903472,32.307502,-110.903472,32.307502],
-  "geometry": {"coordinates":[-110.903472,32.307502],"type":"Point"}
+  "bbox": [
+    -110.903472,
+    32.307502,
+    -110.903472,
+    32.307502
+],
+  "geometry": {"coordinates":[-110.90347199999999,32.307502],"type":"Point"}
 }

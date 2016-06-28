@@ -2,13 +2,14 @@
   "id": 336815769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.833982,33.381716,-111.833982,33.381716",
     "geom:latitude":33.381716,
     "geom:longitude":-111.833982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W Juanita Ave # 109",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336815769,
-    "wof:lastmodified":1448997478,
+    "wof:lastmodified":1466329529,
     "wof:name":"Arizona Faux Beam Co",
     "wof:parent_id":85840729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.833982,33.381716,-111.833982,33.381716],
-  "geometry": {"coordinates":[-111.833982,33.381716],"type":"Point"}
+  "bbox": [
+    -111.833982,
+    33.381716,
+    -111.833982,
+    33.381716
+],
+  "geometry": {"coordinates":[-111.83398200000001,33.381716],"type":"Point"}
 }

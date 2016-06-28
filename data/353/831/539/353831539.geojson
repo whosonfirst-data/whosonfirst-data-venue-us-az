@@ -2,13 +2,14 @@
   "id": 353831539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.854763,32.244913,-110.854763,32.244913",
     "geom:latitude":32.244913,
     "geom:longitude":-110.854763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6534 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353831539,
-    "wof:lastmodified":1449019769,
+    "wof:lastmodified":1466330486,
     "wof:name":"Sakura Restaurants",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "asian"
     ]
 },
-  "bbox": [-110.854763,32.244913,-110.854763,32.244913],
-  "geometry": {"coordinates":[-110.854763,32.244913],"type":"Point"}
+  "bbox": [
+    -110.854763,
+    32.244913,
+    -110.854763,
+    32.244913
+],
+  "geometry": {"coordinates":[-110.85476300000001,32.244913],"type":"Point"}
 }

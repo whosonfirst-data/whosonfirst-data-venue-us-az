@@ -2,13 +2,14 @@
   "id": 168825625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049765,33.666952,-112.049765,33.666952",
     "geom:latitude":33.666952,
     "geom:longitude":-112.049765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 E Marco Polo Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843333,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168825625,
-    "wof:lastmodified":1449027792,
+    "wof:lastmodified":1466325836,
     "wof:name":"D A C Printing",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.049765,33.666952,-112.049765,33.666952],
-  "geometry": {"coordinates":[-112.049765,33.666952],"type":"Point"}
+  "bbox": [
+    -112.049765,
+    33.666952,
+    -112.049765,
+    33.666952
+],
+  "geometry": {"coordinates":[-112.04976499999999,33.666952],"type":"Point"}
 }

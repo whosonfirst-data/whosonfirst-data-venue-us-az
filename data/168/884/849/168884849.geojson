@@ -2,13 +2,14 @@
   "id": 168884849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94234,32.223651,-110.94234,32.223651",
     "geom:latitude":32.223651,
     "geom:longitude":-110.94234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Norris Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168884849,
-    "wof:lastmodified":1449028429,
+    "wof:lastmodified":1466328599,
     "wof:name":"White Owl Publications Inc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.94234,32.223651,-110.94234,32.223651],
+  "bbox": [
+    -110.94234,
+    32.223651,
+    -110.94234,
+    32.223651
+],
   "geometry": {"coordinates":[-110.94234,32.223651],"type":"Point"}
 }

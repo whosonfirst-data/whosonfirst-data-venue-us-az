@@ -2,13 +2,14 @@
   "id": 169288655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.297911,31.554718,-110.297911,31.554718",
     "geom:latitude":31.554718,
     "geom:longitude":-110.297911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E Fry Blvd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169288655,
-    "wof:lastmodified":1449033018,
+    "wof:lastmodified":1466332963,
     "wof:name":"Trapper Jon's Knives",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.297911,31.554718,-110.297911,31.554718],
+  "bbox": [
+    -110.297911,
+    31.554718,
+    -110.297911,
+    31.554718
+],
   "geometry": {"coordinates":[-110.297911,31.554718],"type":"Point"}
 }

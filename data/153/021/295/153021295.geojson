@@ -2,13 +2,14 @@
   "id": 153021295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.577448,33.419219,-111.577448,33.419219",
     "geom:latitude":33.419219,
     "geom:longitude":-111.577448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Pinal Dr",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153021295,
-    "wof:lastmodified":1449040660,
+    "wof:lastmodified":1466327190,
     "wof:name":"Pleasure Time Grill",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.577448,33.419219,-111.577448,33.419219],
+  "bbox": [
+    -111.577448,
+    33.419219,
+    -111.577448,
+    33.419219
+],
   "geometry": {"coordinates":[-111.577448,33.419219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168878111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.882744,32.236268,-110.882744,32.236268",
     "geom:latitude":32.236268,
     "geom:longitude":-110.882744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5143 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168878111,
-    "wof:lastmodified":1449028177,
+    "wof:lastmodified":1466328096,
     "wof:name":"Thu-West Inc",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.882744,32.236268,-110.882744,32.236268],
+  "bbox": [
+    -110.882744,
+    32.236268,
+    -110.882744,
+    32.236268
+],
   "geometry": {"coordinates":[-110.882744,32.236268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353439955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89282,33.388477,-111.89282,33.388477",
     "geom:latitude":33.388477,
     "geom:longitude":-111.89282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 S Siesta Lane",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353439955,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466326576,
     "wof:name":"Desert Metropolitan",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.89282,33.388477,-111.89282,33.388477],
+  "bbox": [
+    -111.89282,
+    33.388477,
+    -111.89282,
+    33.388477
+],
   "geometry": {"coordinates":[-111.89282,33.388477],"type":"Point"}
 }

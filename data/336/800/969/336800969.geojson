@@ -2,13 +2,14 @@
   "id": 336800969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.689141,33.379367,-111.689141,33.379367",
     "geom:latitude":33.379367,
     "geom:longitude":-111.689141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6642 E Baseline Rd Ste 10",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336800969,
-    "wof:lastmodified":1448997014,
+    "wof:lastmodified":1466329566,
     "wof:name":"Farm Bureau Financial Services",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "planner"
     ]
 },
-  "bbox": [-111.689141,33.379367,-111.689141,33.379367],
-  "geometry": {"coordinates":[-111.689141,33.379367],"type":"Point"}
+  "bbox": [
+    -111.689141,
+    33.379367,
+    -111.689141,
+    33.379367
+],
+  "geometry": {"coordinates":[-111.68914100000001,33.379367],"type":"Point"}
 }

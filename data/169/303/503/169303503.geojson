@@ -2,13 +2,14 @@
   "id": 169303503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916324,33.621916,-111.916324,33.621916",
     "geom:latitude":33.621916,
     "geom:longitude":-111.916324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15041 N Airport Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880929,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169303503,
-    "wof:lastmodified":1449032713,
+    "wof:lastmodified":1466333036,
     "wof:name":"David A Bryman DO",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916324,33.621916,-111.916324,33.621916],
+  "bbox": [
+    -111.916324,
+    33.621916,
+    -111.916324,
+    33.621916
+],
   "geometry": {"coordinates":[-111.916324,33.621916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169107073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.883515,33.693803,-111.883515,33.693803",
     "geom:latitude":33.693803,
     "geom:longitude":-111.883515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22902 N 91st Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842017,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85842017,
         85880947
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169107073,
-    "wof:lastmodified":1449032698,
+    "wof:lastmodified":1466331115,
     "wof:name":"NSL Financial LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.883515,33.693803,-111.883515,33.693803],
+  "bbox": [
+    -111.883515,
+    33.693803,
+    -111.883515,
+    33.693803
+],
   "geometry": {"coordinates":[-111.883515,33.693803],"type":"Point"}
 }

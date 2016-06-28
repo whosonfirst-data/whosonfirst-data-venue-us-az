@@ -2,13 +2,14 @@
   "id": 320664925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112989,33.471728,-112.112989,33.471728",
     "geom:latitude":33.471728,
     "geom:longitude":-112.112989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 W Cypress St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320664925,
-    "wof:lastmodified":1449012661,
+    "wof:lastmodified":1466327393,
     "wof:name":"American Fiberglass",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "handling"
     ]
 },
-  "bbox": [-112.112989,33.471728,-112.112989,33.471728],
+  "bbox": [
+    -112.112989,
+    33.471728,
+    -112.112989,
+    33.471728
+],
   "geometry": {"coordinates":[-112.112989,33.471728],"type":"Point"}
 }

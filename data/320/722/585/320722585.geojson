@@ -2,13 +2,14 @@
   "id": 320722585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04367,33.531003,-112.04367,33.531003",
     "geom:latitude":33.531003,
     "geom:longitude":-112.04367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 E Maryland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320722585,
-    "wof:lastmodified":1449012583,
+    "wof:lastmodified":1466328635,
     "wof:name":"Parkway Community Church Of God, Inc.",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-112.04367,33.531003,-112.04367,33.531003],
-  "geometry": {"coordinates":[-112.04367,33.531003],"type":"Point"}
+  "bbox": [
+    -112.04367,
+    33.531003,
+    -112.04367,
+    33.531003
+],
+  "geometry": {"coordinates":[-112.04367000000001,33.531003],"type":"Point"}
 }

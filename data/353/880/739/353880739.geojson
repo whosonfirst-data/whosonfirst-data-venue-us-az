@@ -2,13 +2,14 @@
   "id": 353880739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.609792,35.208159,-111.609792,35.208159",
     "geom:latitude":35.208159,
     "geom:longitude":-111.609792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2742 E Route 66",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353880739,
-    "wof:lastmodified":1449020824,
+    "wof:lastmodified":1466330834,
     "wof:name":"Fender Bender Repair",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "repairing"
     ]
 },
-  "bbox": [-111.609792,35.208159,-111.609792,35.208159],
+  "bbox": [
+    -111.609792,
+    35.208159,
+    -111.609792,
+    35.208159
+],
   "geometry": {"coordinates":[-111.609792,35.208159],"type":"Point"}
 }

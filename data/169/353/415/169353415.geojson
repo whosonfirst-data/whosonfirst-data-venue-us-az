@@ -2,13 +2,14 @@
   "id": 169353415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.861641,32.371996,-112.861641,32.371996",
     "geom:latitude":32.371996,
     "geom:longitude":-112.861641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Estrella Ave",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169353415,
-    "wof:lastmodified":1449033633,
+    "wof:lastmodified":1466333493,
     "wof:name":"Pima County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.861641,32.371996,-112.861641,32.371996],
-  "geometry": {"coordinates":[-112.861641,32.371996],"type":"Point"}
+  "bbox": [
+    -112.861641,
+    32.371996,
+    -112.861641,
+    32.371996
+],
+  "geometry": {"coordinates":[-112.86164100000001,32.371996],"type":"Point"}
 }

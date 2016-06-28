@@ -2,13 +2,14 @@
   "id": 353822665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.895911,32.221603,-110.895911,32.221603",
     "geom:latitude":32.221603,
     "geom:longitude":-110.895911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4533 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353822665,
-    "wof:lastmodified":1449020698,
+    "wof:lastmodified":1466330547,
     "wof:name":"Heroes & Villains",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "screen"
     ]
 },
-  "bbox": [-110.895911,32.221603,-110.895911,32.221603],
+  "bbox": [
+    -110.895911,
+    32.221603,
+    -110.895911,
+    32.221603
+],
   "geometry": {"coordinates":[-110.895911,32.221603],"type":"Point"}
 }

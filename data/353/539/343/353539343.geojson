@@ -2,13 +2,14 @@
   "id": 353539343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.740582,33.345819,-111.740582,33.345819",
     "geom:latitude":33.345819,
     "geom:longitude":-111.740582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2298 E Manor Drive",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353539343,
-    "wof:lastmodified":1449020860,
+    "wof:lastmodified":1466327863,
     "wof:name":"Doctor Bounce",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-111.740582,33.345819,-111.740582,33.345819],
+  "bbox": [
+    -111.740582,
+    33.345819,
+    -111.740582,
+    33.345819
+],
   "geometry": {"coordinates":[-111.740582,33.345819],"type":"Point"}
 }

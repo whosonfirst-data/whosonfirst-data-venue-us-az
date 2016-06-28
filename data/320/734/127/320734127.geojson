@@ -2,13 +2,14 @@
   "id": 320734127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040337,33.494766,-112.040337,33.494766",
     "geom:latitude":33.494766,
     "geom:longitude":-112.040337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320734127,
-    "wof:lastmodified":1449014490,
+    "wof:lastmodified":1466328803,
     "wof:name":"Hargraves Collision & Mechanical Repair",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.040337,33.494766,-112.040337,33.494766],
-  "geometry": {"coordinates":[-112.040337,33.494766],"type":"Point"}
+  "bbox": [
+    -112.040337,
+    33.494766,
+    -112.040337,
+    33.494766
+],
+  "geometry": {"coordinates":[-112.04033699999999,33.494766],"type":"Point"}
 }

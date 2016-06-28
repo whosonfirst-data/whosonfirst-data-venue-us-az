@@ -2,13 +2,14 @@
   "id": 320713413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016602,33.490762,-112.016602,33.490762",
     "geom:latitude":33.490762,
     "geom:longitude":-112.016602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 E Weldon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320713413,
-    "wof:lastmodified":1449014614,
+    "wof:lastmodified":1466328511,
     "wof:name":"Espresso Coffee Wholesalers",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.016602,33.490762,-112.016602,33.490762],
-  "geometry": {"coordinates":[-112.016602,33.490762],"type":"Point"}
+  "bbox": [
+    -112.016602,
+    33.490762,
+    -112.016602,
+    33.490762
+],
+  "geometry": {"coordinates":[-112.01660200000001,33.490762],"type":"Point"}
 }

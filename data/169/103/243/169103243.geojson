@@ -2,13 +2,14 @@
   "id": 169103243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.18869,35.248313,-112.18869,35.248313",
     "geom:latitude":35.248313,
     "geom:longitude":-112.18869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Sherman Ave",
     "sg:city":"Williams",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857825,
+        85688719,
         85633793,
         85917435,
         102086831,
-        85688719
+        85857825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169103243,
-    "wof:lastmodified":1449034743,
+    "wof:lastmodified":1466331123,
     "wof:name":"Williams Head Start",
     "wof:parent_id":85857825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.18869,35.248313,-112.18869,35.248313],
-  "geometry": {"coordinates":[-112.18869,35.248313],"type":"Point"}
+  "bbox": [
+    -112.18869,
+    35.248313,
+    -112.18869,
+    35.248313
+],
+  "geometry": {"coordinates":[-112.18868999999999,35.248313],"type":"Point"}
 }

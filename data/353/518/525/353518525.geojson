@@ -2,13 +2,14 @@
   "id": 353518525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945701,33.340382,-111.945701,33.340382",
     "geom:latitude":33.340382,
     "geom:longitude":-111.945701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8270 S Kyrene Rd Ste 113",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353518525,
-    "wof:lastmodified":1449019696,
+    "wof:lastmodified":1466327491,
     "wof:name":"Rosemount Inc.",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "panel"
     ]
 },
-  "bbox": [-111.945701,33.340382,-111.945701,33.340382],
+  "bbox": [
+    -111.945701,
+    33.340382,
+    -111.945701,
+    33.340382
+],
   "geometry": {"coordinates":[-111.945701,33.340382],"type":"Point"}
 }

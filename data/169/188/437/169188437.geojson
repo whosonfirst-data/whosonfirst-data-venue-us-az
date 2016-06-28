@@ -2,13 +2,14 @@
   "id": 169188437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.993075,31.898954,-110.993075,31.898954",
     "geom:latitude":31.898954,
     "geom:longitude":-110.993075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 W Cll de Las Tiendas",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169188437,
-    "wof:lastmodified":1449034325,
+    "wof:lastmodified":1466332050,
     "wof:name":"Golf Cars of Arizona",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.993075,31.898954,-110.993075,31.898954],
+  "bbox": [
+    -110.993075,
+    31.898954,
+    -110.993075,
+    31.898954
+],
   "geometry": {"coordinates":[-110.993075,31.898954],"type":"Point"}
 }

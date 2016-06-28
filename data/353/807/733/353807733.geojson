@@ -2,13 +2,14 @@
   "id": 353807733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976489,32.315844,-110.976489,32.315844",
     "geom:latitude":32.315844,
     "geom:longitude":-110.976489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353807733,
-    "wof:lastmodified":1449018910,
+    "wof:lastmodified":1466330438,
     "wof:name":"Wanslee Auto Sales",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976489,32.315844,-110.976489,32.315844],
+  "bbox": [
+    -110.976489,
+    32.315844,
+    -110.976489,
+    32.315844
+],
   "geometry": {"coordinates":[-110.976489,32.315844],"type":"Point"}
 }

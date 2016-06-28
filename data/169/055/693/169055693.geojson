@@ -2,13 +2,14 @@
   "id": 169055693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.005374,32.250499,-111.005374,32.250499",
     "geom:latitude":32.250499,
     "geom:longitude":-111.005374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169055693,
-    "wof:lastmodified":1449033425,
+    "wof:lastmodified":1466328761,
     "wof:name":"Discount Copier & Computer",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.005374,32.250499,-111.005374,32.250499],
+  "bbox": [
+    -111.005374,
+    32.250499,
+    -111.005374,
+    32.250499
+],
   "geometry": {"coordinates":[-111.005374,32.250499],"type":"Point"}
 }

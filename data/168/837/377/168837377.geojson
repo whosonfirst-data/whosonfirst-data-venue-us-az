@@ -2,13 +2,14 @@
   "id": 168837377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.02914,34.224648,-110.02914,34.224648",
     "geom:latitude":34.224648,
     "geom:longitude":-110.02914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 S White Mountain Rd",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168837377,
-    "wof:lastmodified":1449027891,
+    "wof:lastmodified":1466326829,
     "wof:name":"Show Low Lighting & Fan",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.02914,34.224648,-110.02914,34.224648],
+  "bbox": [
+    -110.02914,
+    34.224648,
+    -110.02914,
+    34.224648
+],
   "geometry": {"coordinates":[-110.02914,34.224648],"type":"Point"}
 }

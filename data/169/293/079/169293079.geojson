@@ -2,13 +2,14 @@
   "id": 169293079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.747652,33.45619,-111.747652,33.45619",
     "geom:latitude":33.45619,
     "geom:longitude":-111.747652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3865 E Leland St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811069,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85811069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169293079,
-    "wof:lastmodified":1449033339,
+    "wof:lastmodified":1466332915,
     "wof:name":"Jensen Interiors",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.747652,33.45619,-111.747652,33.45619],
+  "bbox": [
+    -111.747652,
+    33.45619,
+    -111.747652,
+    33.45619
+],
   "geometry": {"coordinates":[-111.747652,33.45619],"type":"Point"}
 }

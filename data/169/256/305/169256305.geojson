@@ -2,13 +2,14 @@
   "id": 169256305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16052,33.647279,-112.16052,33.647279",
     "geom:latitude":33.647279,
     "geom:longitude":-112.16052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 W Grovers Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169256305,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466332521,
     "wof:name":"Bellair Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16052,33.647279,-112.16052,33.647279],
-  "geometry": {"coordinates":[-112.16052,33.647279],"type":"Point"}
+  "bbox": [
+    -112.16052,
+    33.647279,
+    -112.16052,
+    33.647279
+],
+  "geometry": {"coordinates":[-112.16052000000001,33.647279],"type":"Point"}
 }

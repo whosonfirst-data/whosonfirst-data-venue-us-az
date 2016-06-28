@@ -2,13 +2,14 @@
   "id": 336756007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.828699,33.418245,-111.828699,33.418245",
     "geom:latitude":33.418245,
     "geom:longitude":-111.828699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 N Centennial Way",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336756007,
-    "wof:lastmodified":1448997585,
+    "wof:lastmodified":1466328895,
     "wof:name":"Hector Hernandez",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-111.828699,33.418245,-111.828699,33.418245],
+  "bbox": [
+    -111.828699,
+    33.418245,
+    -111.828699,
+    33.418245
+],
   "geometry": {"coordinates":[-111.828699,33.418245],"type":"Point"}
 }

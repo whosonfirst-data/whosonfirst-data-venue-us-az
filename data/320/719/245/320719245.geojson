@@ -2,13 +2,14 @@
   "id": 320719245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036255,33.509285,-112.036255,33.509285",
     "geom:latitude":33.509285,
     "geom:longitude":-112.036255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":320719245,
-    "wof:lastmodified":1449011736,
+    "wof:lastmodified":1466328594,
     "wof:name":"AlphaGraphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "shows"
     ]
 },
-  "bbox": [-112.036255,33.509285,-112.036255,33.509285],
+  "bbox": [
+    -112.036255,
+    33.509285,
+    -112.036255,
+    33.509285
+],
   "geometry": {"coordinates":[-112.036255,33.509285],"type":"Point"}
 }

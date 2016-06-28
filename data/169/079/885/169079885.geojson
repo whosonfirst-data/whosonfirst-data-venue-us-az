@@ -2,13 +2,14 @@
   "id": 169079885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.868467,32.314391,-110.868467,32.314391",
     "geom:latitude":32.314391,
     "geom:longitude":-110.868467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 N Via Serena",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169079885,
-    "wof:lastmodified":1449035414,
+    "wof:lastmodified":1466329907,
     "wof:name":"Tom L Johnson DVM",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.868467,32.314391,-110.868467,32.314391],
+  "bbox": [
+    -110.868467,
+    32.314391,
+    -110.868467,
+    32.314391
+],
   "geometry": {"coordinates":[-110.868467,32.314391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168914845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.786494,33.47447,-111.786494,33.47447",
     "geom:latitude":33.47447,
     "geom:longitude":-111.786494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 E Quince St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85830207
+        85633793,
+        85830207,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168914845,
-    "wof:lastmodified":1449028051,
+    "wof:lastmodified":1466330094,
     "wof:name":"Shocky Electric",
     "wof:parent_id":85830207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.786494,33.47447,-111.786494,33.47447],
+  "bbox": [
+    -111.786494,
+    33.47447,
+    -111.786494,
+    33.47447
+],
   "geometry": {"coordinates":[-111.786494,33.47447],"type":"Point"}
 }

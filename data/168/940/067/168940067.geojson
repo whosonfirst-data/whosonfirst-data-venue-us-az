@@ -2,13 +2,14 @@
   "id": 168940067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220381,33.644281,-112.220381,33.644281",
     "geom:latitude":33.644281,
     "geom:longitude":-112.220381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17510 N 75th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168940067,
-    "wof:lastmodified":1449027956,
+    "wof:lastmodified":1466330748,
     "wof:name":"Ultimate Electronics Arrowhead",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220381,33.644281,-112.220381,33.644281],
+  "bbox": [
+    -112.220381,
+    33.644281,
+    -112.220381,
+    33.644281
+],
   "geometry": {"coordinates":[-112.220381,33.644281],"type":"Point"}
 }

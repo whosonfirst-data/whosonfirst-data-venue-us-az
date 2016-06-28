@@ -2,13 +2,14 @@
   "id": 336702877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.002555,33.303841,-112.002555,33.303841",
     "geom:latitude":33.303841,
     "geom:longitude":-112.002555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 E Windmere Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336702877,
-    "wof:lastmodified":1448997493,
+    "wof:lastmodified":1466328069,
     "wof:name":"Aries Limousine",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-112.002555,33.303841,-112.002555,33.303841],
+  "bbox": [
+    -112.002555,
+    33.303841,
+    -112.002555,
+    33.303841
+],
   "geometry": {"coordinates":[-112.002555,33.303841],"type":"Point"}
 }

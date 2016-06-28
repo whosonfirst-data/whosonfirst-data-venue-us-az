@@ -2,13 +2,14 @@
   "id": 336601659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02353,33.626519,-112.02353,33.626519",
     "geom:latitude":33.626519,
     "geom:longitude":-112.02353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2737 E Greenway Rd Ste 10",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336601659,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1466325998,
     "wof:name":"North Phoenix Chamber Of Commerce Incorporated",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-112.02353,33.626519,-112.02353,33.626519],
-  "geometry": {"coordinates":[-112.02353,33.626519],"type":"Point"}
+  "bbox": [
+    -112.02353,
+    33.626519,
+    -112.02353,
+    33.626519
+],
+  "geometry": {"coordinates":[-112.02352999999999,33.626519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153012373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.144581,34.924885,-110.144581,34.924885",
     "geom:latitude":34.924885,
     "geom:longitude":-110.144581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Navajo Blvd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153012373,
-    "wof:lastmodified":1449040775,
+    "wof:lastmodified":1466326299,
     "wof:name":"Motor Vehicle Div",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.144581,34.924885,-110.144581,34.924885],
+  "bbox": [
+    -110.144581,
+    34.924885,
+    -110.144581,
+    34.924885
+],
   "geometry": {"coordinates":[-110.144581,34.924885],"type":"Point"}
 }

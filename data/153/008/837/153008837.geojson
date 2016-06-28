@@ -2,13 +2,14 @@
   "id": 153008837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943872,32.235616,-110.943872,32.235616",
     "geom:latitude":32.235616,
     "geom:longitude":-110.943872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153008837,
-    "wof:lastmodified":1449040481,
+    "wof:lastmodified":1466325965,
     "wof:name":"Miss Saigon",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943872,32.235616,-110.943872,32.235616],
+  "bbox": [
+    -110.943872,
+    32.235616,
+    -110.943872,
+    32.235616
+],
   "geometry": {"coordinates":[-110.943872,32.235616],"type":"Point"}
 }

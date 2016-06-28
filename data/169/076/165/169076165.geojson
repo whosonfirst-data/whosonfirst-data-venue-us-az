@@ -2,13 +2,14 @@
   "id": 169076165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.930164,34.125637,-109.930164,34.125637",
     "geom:latitude":34.125637,
     "geom:longitude":-109.930164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 E White Mountain Blvd",
     "sg:city":"Pinetop",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169076165,
-    "wof:lastmodified":1449035254,
+    "wof:lastmodified":1466329731,
     "wof:name":"Hollywood & Wine",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.930164,34.125637,-109.930164,34.125637],
+  "bbox": [
+    -109.930164,
+    34.125637,
+    -109.930164,
+    34.125637
+],
   "geometry": {"coordinates":[-109.930164,34.125637],"type":"Point"}
 }

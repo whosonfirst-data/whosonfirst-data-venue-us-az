@@ -2,13 +2,14 @@
   "id": 336954323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896106,33.530974,-111.896106,33.530974",
     "geom:latitude":33.530974,
     "geom:longitude":-111.896106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6513 N 86th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336954323,
-    "wof:lastmodified":1448997882,
+    "wof:lastmodified":1466330830,
     "wof:name":"Printing Gopher",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-111.896106,33.530974,-111.896106,33.530974],
+  "bbox": [
+    -111.896106,
+    33.530974,
+    -111.896106,
+    33.530974
+],
   "geometry": {"coordinates":[-111.896106,33.530974],"type":"Point"}
 }

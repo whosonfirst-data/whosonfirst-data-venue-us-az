@@ -2,13 +2,14 @@
   "id": 153020833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.774679,32.22321,-110.774679,32.22321",
     "geom:latitude":32.22321,
     "geom:longitude":-110.774679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10210 E Vicksburg St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153020833,
-    "wof:lastmodified":1449040536,
+    "wof:lastmodified":1466327153,
     "wof:name":"A-Anthonys Flowers",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.774679,32.22321,-110.774679,32.22321],
-  "geometry": {"coordinates":[-110.774679,32.22321],"type":"Point"}
+  "bbox": [
+    -110.774679,
+    32.22321,
+    -110.774679,
+    32.22321
+],
+  "geometry": {"coordinates":[-110.77467900000001,32.22321],"type":"Point"}
 }

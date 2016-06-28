@@ -2,13 +2,14 @@
   "id": 169325695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029234,33.633272,-112.029234,33.633272",
     "geom:latitude":33.633272,
     "geom:longitude":-112.029234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2434 E Paradise Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169325695,
-    "wof:lastmodified":1449033972,
+    "wof:lastmodified":1466333014,
     "wof:name":"Paradise Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.029234,33.633272,-112.029234,33.633272],
+  "bbox": [
+    -112.029234,
+    33.633272,
+    -112.029234,
+    33.633272
+],
   "geometry": {"coordinates":[-112.029234,33.633272],"type":"Point"}
 }

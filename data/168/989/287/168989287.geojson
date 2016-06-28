@@ -2,13 +2,14 @@
   "id": 168989287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89368,33.698605,-111.89368,33.698605",
     "geom:latitude":33.698605,
     "geom:longitude":-111.89368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8711 E Pinnacle Peak Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842015,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85842015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168989287,
-    "wof:lastmodified":1449028345,
+    "wof:lastmodified":1466331570,
     "wof:name":"Troon North Properties",
     "wof:parent_id":85842015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.89368,33.698605,-111.89368,33.698605],
+  "bbox": [
+    -111.89368,
+    33.698605,
+    -111.89368,
+    33.698605
+],
   "geometry": {"coordinates":[-111.89368,33.698605],"type":"Point"}
 }

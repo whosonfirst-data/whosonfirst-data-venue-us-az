@@ -2,13 +2,14 @@
   "id": 336827929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.846893,33.393169,-111.846893,33.393169",
     "geom:latitude":33.393169,
     "geom:longitude":-111.846893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Southern Ave Ste 202",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336827929,
-    "wof:lastmodified":1448997313,
+    "wof:lastmodified":1466329832,
     "wof:name":"Health Exchange Of Arizona, Inc.",
     "wof:parent_id":85840729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "assistant"
     ]
 },
-  "bbox": [-111.846893,33.393169,-111.846893,33.393169],
-  "geometry": {"coordinates":[-111.846893,33.393169],"type":"Point"}
+  "bbox": [
+    -111.846893,
+    33.393169,
+    -111.846893,
+    33.393169
+],
+  "geometry": {"coordinates":[-111.84689299999999,33.393169],"type":"Point"}
 }

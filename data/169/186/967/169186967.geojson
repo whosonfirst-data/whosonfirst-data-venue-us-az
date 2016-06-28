@@ -2,13 +2,14 @@
   "id": 169186967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.072712,33.559888,-112.072712,33.559888",
     "geom:latitude":33.559888,
     "geom:longitude":-112.072712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 E Butler Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169186967,
-    "wof:lastmodified":1449035245,
+    "wof:lastmodified":1466332098,
     "wof:name":"Parks and Recreation Dept",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.072712,33.559888,-112.072712,33.559888],
+  "bbox": [
+    -112.072712,
+    33.559888,
+    -112.072712,
+    33.559888
+],
   "geometry": {"coordinates":[-112.072712,33.559888],"type":"Point"}
 }

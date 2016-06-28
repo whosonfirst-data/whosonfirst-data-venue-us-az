@@ -2,13 +2,14 @@
   "id": 169269609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.161251,33.647348,-112.161251,33.647348",
     "geom:latitude":33.647348,
     "geom:longitude":-112.161251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 W Grovers Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169269609,
-    "wof:lastmodified":1449034756,
+    "wof:lastmodified":1466332945,
     "wof:name":"Boys & Girls Clubs Of Metro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.161251,33.647348,-112.161251,33.647348],
-  "geometry": {"coordinates":[-112.161251,33.647348],"type":"Point"}
+  "bbox": [
+    -112.161251,
+    33.647348,
+    -112.161251,
+    33.647348
+],
+  "geometry": {"coordinates":[-112.16125099999999,33.647348],"type":"Point"}
 }

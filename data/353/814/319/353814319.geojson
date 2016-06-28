@@ -2,13 +2,14 @@
   "id": 353814319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977531,32.158486,-110.977531,32.158486",
     "geom:latitude":32.158486,
     "geom:longitude":-110.977531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5160 S 12th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353814319,
-    "wof:lastmodified":1449018714,
+    "wof:lastmodified":1466330373,
     "wof:name":"Abe's Car Sales",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-110.977531,32.158486,-110.977531,32.158486],
+  "bbox": [
+    -110.977531,
+    32.158486,
+    -110.977531,
+    32.158486
+],
   "geometry": {"coordinates":[-110.977531,32.158486],"type":"Point"}
 }

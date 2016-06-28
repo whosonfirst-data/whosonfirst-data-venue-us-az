@@ -2,13 +2,14 @@
   "id": 353860241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961199,32.425923,-110.961199,32.425923",
     "geom:latitude":32.425923,
     "geom:longitude":-110.961199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12132 N Rancho Vistoso Blvd",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353860241,
-    "wof:lastmodified":1449019399,
+    "wof:lastmodified":1466330857,
     "wof:name":"Bank of America",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-110.961199,32.425923,-110.961199,32.425923],
-  "geometry": {"coordinates":[-110.961199,32.425923],"type":"Point"}
+  "bbox": [
+    -110.961199,
+    32.425923,
+    -110.961199,
+    32.425923
+],
+  "geometry": {"coordinates":[-110.96119899999999,32.425923],"type":"Point"}
 }

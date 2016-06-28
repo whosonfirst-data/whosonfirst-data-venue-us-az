@@ -2,13 +2,14 @@
   "id": 169203857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97009,33.624819,-111.97009,33.624819",
     "geom:latitude":33.624819,
     "geom:longitude":-111.97009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15208 N 51st Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169203857,
-    "wof:lastmodified":1449034134,
+    "wof:lastmodified":1466332321,
     "wof:name":"Mieduch Fine Art Corp",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.97009,33.624819,-111.97009,33.624819],
+  "bbox": [
+    -111.97009,
+    33.624819,
+    -111.97009,
+    33.624819
+],
   "geometry": {"coordinates":[-111.97009,33.624819],"type":"Point"}
 }

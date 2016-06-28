@@ -2,13 +2,14 @@
   "id": 336665173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008317,33.414561,-112.008317,33.414561",
     "geom:latitude":33.414561,
     "geom:longitude":-112.008317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 E Elwood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336665173,
-    "wof:lastmodified":1448997276,
+    "wof:lastmodified":1466327308,
     "wof:name":"Hilton Garden Inn Phoenix Airport",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-112.008317,33.414561,-112.008317,33.414561],
-  "geometry": {"coordinates":[-112.008317,33.414561],"type":"Point"}
+  "bbox": [
+    -112.008317,
+    33.414561,
+    -112.008317,
+    33.414561
+],
+  "geometry": {"coordinates":[-112.00831700000001,33.414561],"type":"Point"}
 }

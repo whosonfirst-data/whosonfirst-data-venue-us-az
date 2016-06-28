@@ -2,13 +2,14 @@
   "id": 169076591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.089801,33.555945,-112.089801,33.555945",
     "geom:latitude":33.555945,
     "geom:longitude":-112.089801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 N 14th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169076591,
-    "wof:lastmodified":1449035250,
+    "wof:lastmodified":1466329753,
     "wof:name":"AMCA",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.089801,33.555945,-112.089801,33.555945],
-  "geometry": {"coordinates":[-112.089801,33.555945],"type":"Point"}
+  "bbox": [
+    -112.089801,
+    33.555945,
+    -112.089801,
+    33.555945
+],
+  "geometry": {"coordinates":[-112.08980099999999,33.555945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353842939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924642,32.490143,-110.924642,32.490143",
     "geom:latitude":32.490143,
     "geom:longitude":-110.924642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15631 N Oracle Rd Ste 179",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353842939,
-    "wof:lastmodified":1449018446,
+    "wof:lastmodified":1466330592,
     "wof:name":"Desert Palms Physical Therapy",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "physical"
     ]
 },
-  "bbox": [-110.924642,32.490143,-110.924642,32.490143],
-  "geometry": {"coordinates":[-110.924642,32.490143],"type":"Point"}
+  "bbox": [
+    -110.924642,
+    32.490143,
+    -110.924642,
+    32.490143
+],
+  "geometry": {"coordinates":[-110.92464200000001,32.490143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320829069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.100062,33.695781,-112.100062,33.695781",
     "geom:latitude":33.695781,
     "geom:longitude":-112.100062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 W Parkside Ln # 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320829069,
-    "wof:lastmodified":1449014717,
+    "wof:lastmodified":1466330175,
     "wof:name":"Electric Lighting Maintenance",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "electronic"
     ]
 },
-  "bbox": [-112.100062,33.695781,-112.100062,33.695781],
-  "geometry": {"coordinates":[-112.100062,33.695781],"type":"Point"}
+  "bbox": [
+    -112.100062,
+    33.695781,
+    -112.100062,
+    33.695781
+],
+  "geometry": {"coordinates":[-112.10006199999999,33.695781],"type":"Point"}
 }

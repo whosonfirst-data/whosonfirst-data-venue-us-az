@@ -2,13 +2,14 @@
   "id": 168941177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906525,33.394869,-111.906525,33.394869",
     "geom:latitude":33.394869,
     "geom:longitude":-111.906525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 S Kachina Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881417,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168941177,
-    "wof:lastmodified":1449028239,
+    "wof:lastmodified":1466330754,
     "wof:name":"Biddle Designs",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906525,33.394869,-111.906525,33.394869],
+  "bbox": [
+    -111.906525,
+    33.394869,
+    -111.906525,
+    33.394869
+],
   "geometry": {"coordinates":[-111.906525,33.394869],"type":"Point"}
 }

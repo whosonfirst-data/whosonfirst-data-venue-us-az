@@ -2,13 +2,14 @@
   "id": 168911377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961009,32.294528,-110.961009,32.294528",
     "geom:latitude":32.294528,
     "geom:longitude":-110.961009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4837 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     "sg:website":"www.desertdivers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":168911377,
-    "wof:lastmodified":1449028454,
+    "wof:lastmodified":1466329915,
     "wof:name":"Desert Divers Scuba Center",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.961009,32.294528,-110.961009,32.294528],
+  "bbox": [
+    -110.961009,
+    32.294528,
+    -110.961009,
+    32.294528
+],
   "geometry": {"coordinates":[-110.961009,32.294528],"type":"Point"}
 }

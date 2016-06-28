@@ -2,13 +2,14 @@
   "id": 320719337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040459,33.505638,-112.040459,33.505638",
     "geom:latitude":33.505638,
     "geom:longitude":-112.040459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 E Highland Ave Ste F104-492",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320719337,
-    "wof:lastmodified":1449011730,
+    "wof:lastmodified":1466328595,
     "wof:name":"Eagle Locksmith",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lock"
     ]
 },
-  "bbox": [-112.040459,33.505638,-112.040459,33.505638],
+  "bbox": [
+    -112.040459,
+    33.505638,
+    -112.040459,
+    33.505638
+],
   "geometry": {"coordinates":[-112.040459,33.505638],"type":"Point"}
 }

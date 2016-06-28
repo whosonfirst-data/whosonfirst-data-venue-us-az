@@ -2,13 +2,14 @@
   "id": 153021075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.758305,33.602288,-111.758305,33.602288",
     "geom:latitude":33.602288,
     "geom:longitude":-111.758305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14850 Grandview Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153021075,
-    "wof:lastmodified":1449040661,
+    "wof:lastmodified":1466327174,
     "wof:name":"Psp Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.758305,33.602288,-111.758305,33.602288],
-  "geometry": {"coordinates":[-111.758305,33.602288],"type":"Point"}
+  "bbox": [
+    -111.758305,
+    33.602288,
+    -111.758305,
+    33.602288
+],
+  "geometry": {"coordinates":[-111.75830499999999,33.602288],"type":"Point"}
 }

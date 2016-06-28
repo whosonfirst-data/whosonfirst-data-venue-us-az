@@ -2,13 +2,14 @@
   "id": 336689087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.160049,33.464659,-112.160049,33.464659",
     "geom:latitude":33.464659,
     "geom:longitude":-112.160049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 N 47th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336689087,
-    "wof:lastmodified":1448997853,
+    "wof:lastmodified":1466327835,
     "wof:name":"Federal Reserve Bank Of San Francisco",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.160049,33.464659,-112.160049,33.464659],
+  "bbox": [
+    -112.160049,
+    33.464659,
+    -112.160049,
+    33.464659
+],
   "geometry": {"coordinates":[-112.160049,33.464659],"type":"Point"}
 }

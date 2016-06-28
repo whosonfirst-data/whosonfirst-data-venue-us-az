@@ -2,13 +2,14 @@
   "id": 168981659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.994477,32.279308,-110.994477,32.279308",
     "geom:latitude":32.279308,
     "geom:longitude":-110.994477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 W Roger Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168981659,
-    "wof:lastmodified":1449028601,
+    "wof:lastmodified":1466331462,
     "wof:name":"American Village Apartments",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.994477,32.279308,-110.994477,32.279308],
+  "bbox": [
+    -110.994477,
+    32.279308,
+    -110.994477,
+    32.279308
+],
   "geometry": {"coordinates":[-110.994477,32.279308],"type":"Point"}
 }

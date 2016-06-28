@@ -2,13 +2,14 @@
   "id": 168937717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880553,33.600119,-111.880553,33.600119",
     "geom:latitude":33.600119,
     "geom:longitude":-111.880553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12302 N 93rd St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851695,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85851695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":168937717,
-    "wof:lastmodified":1449027918,
+    "wof:lastmodified":1466330734,
     "wof:name":"Del Camino Equestrian Academy",
     "wof:parent_id":85851695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.880553,33.600119,-111.880553,33.600119],
-  "geometry": {"coordinates":[-111.880553,33.600119],"type":"Point"}
+  "bbox": [
+    -111.880553,
+    33.600119,
+    -111.880553,
+    33.600119
+],
+  "geometry": {"coordinates":[-111.88055300000001,33.600119],"type":"Point"}
 }

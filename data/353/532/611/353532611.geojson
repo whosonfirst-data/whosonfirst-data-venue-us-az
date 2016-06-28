@@ -2,13 +2,14 @@
   "id": 353532611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.72685,33.305385,-111.72685,33.305385",
     "geom:latitude":33.305385,
     "geom:longitude":-111.72685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2983 E Dennisport Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353532611,
-    "wof:lastmodified":1449019125,
+    "wof:lastmodified":1466327759,
     "wof:name":"Costco",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-111.72685,33.305385,-111.72685,33.305385],
+  "bbox": [
+    -111.72685,
+    33.305385,
+    -111.72685,
+    33.305385
+],
   "geometry": {"coordinates":[-111.72685,33.305385],"type":"Point"}
 }

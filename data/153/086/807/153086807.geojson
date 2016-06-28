@@ -2,13 +2,14 @@
   "id": 153086807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045636,33.387696,-112.045636,33.387696",
     "geom:latitude":33.387696,
     "geom:longitude":-112.045636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1646 E Saint Anne Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811071,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153086807,
-    "wof:lastmodified":1449040677,
+    "wof:lastmodified":1466329171,
     "wof:name":"Action Rooter Svc",
     "wof:parent_id":85811071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.045636,33.387696,-112.045636,33.387696],
+  "bbox": [
+    -112.045636,
+    33.387696,
+    -112.045636,
+    33.387696
+],
   "geometry": {"coordinates":[-112.045636,33.387696],"type":"Point"}
 }

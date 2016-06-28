@@ -2,13 +2,14 @@
   "id": 169056745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.166498,33.588926,-112.166498,33.588926",
     "geom:latitude":33.588926,
     "geom:longitude":-112.166498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11223 N 50th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169056745,
-    "wof:lastmodified":1449033630,
+    "wof:lastmodified":1466328839,
     "wof:name":"Dynamic Earthworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.166498,33.588926,-112.166498,33.588926],
+  "bbox": [
+    -112.166498,
+    33.588926,
+    -112.166498,
+    33.588926
+],
   "geometry": {"coordinates":[-112.166498,33.588926],"type":"Point"}
 }

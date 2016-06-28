@@ -2,13 +2,14 @@
   "id": 169252121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.942372,32.213193,-110.942372,32.213193",
     "geom:latitude":32.213193,
     "geom:longitude":-110.942372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 E 17th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169252121,
-    "wof:lastmodified":1449033118,
+    "wof:lastmodified":1466332500,
     "wof:name":"Bud's Out Back",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.942372,32.213193,-110.942372,32.213193],
-  "geometry": {"coordinates":[-110.942372,32.213193],"type":"Point"}
+  "bbox": [
+    -110.942372,
+    32.213193,
+    -110.942372,
+    32.213193
+],
+  "geometry": {"coordinates":[-110.94237200000001,32.213193],"type":"Point"}
 }

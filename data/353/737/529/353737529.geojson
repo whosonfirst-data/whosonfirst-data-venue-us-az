@@ -2,13 +2,14 @@
   "id": 353737529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.224505,33.636263,-112.224505,33.636263",
     "geom:latitude":33.636263,
     "geom:longitude":-112.224505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16840 N 77th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353737529,
-    "wof:lastmodified":1449018832,
+    "wof:lastmodified":1466330025,
     "wof:name":"The Men's Wearhouse",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "formal"
     ]
 },
-  "bbox": [-112.224505,33.636263,-112.224505,33.636263],
-  "geometry": {"coordinates":[-112.224505,33.636263],"type":"Point"}
+  "bbox": [
+    -112.224505,
+    33.636263,
+    -112.224505,
+    33.636263
+],
+  "geometry": {"coordinates":[-112.22450499999999,33.636263],"type":"Point"}
 }

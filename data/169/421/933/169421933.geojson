@@ -2,13 +2,14 @@
   "id": 169421933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927602,33.6009,-111.927602,33.6009",
     "geom:latitude":33.6009,
     "geom:longitude":-111.927602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12815 N 71st St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880973,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169421933,
-    "wof:lastmodified":1449034782,
+    "wof:lastmodified":1466334211,
     "wof:name":"Witten Landscape Contracting",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927602,33.6009,-111.927602,33.6009],
-  "geometry": {"coordinates":[-111.927602,33.6009],"type":"Point"}
+  "bbox": [
+    -111.927602,
+    33.6009,
+    -111.927602,
+    33.6009
+],
+  "geometry": {"coordinates":[-111.92760199999999,33.6009],"type":"Point"}
 }

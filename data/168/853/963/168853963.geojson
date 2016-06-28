@@ -2,13 +2,14 @@
   "id": 168853963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111166,32.978225,-112.111166,32.978225",
     "geom:latitude":32.978225,
     "geom:longitude":-112.111166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50523 W Mayer Blvd",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168853963,
-    "wof:lastmodified":1449028076,
+    "wof:lastmodified":1466326049,
     "wof:name":"Agape Door Inc",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.111166,32.978225,-112.111166,32.978225],
+  "bbox": [
+    -112.111166,
+    32.978225,
+    -112.111166,
+    32.978225
+],
   "geometry": {"coordinates":[-112.111166,32.978225],"type":"Point"}
 }

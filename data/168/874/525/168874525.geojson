@@ -2,13 +2,14 @@
   "id": 168874525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.253455,33.477601,-112.253455,33.477601",
     "geom:latitude":33.477601,
     "geom:longitude":-112.253455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 N 90th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.adpak.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848139,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85848139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168874525,
-    "wof:lastmodified":1449028550,
+    "wof:lastmodified":1466327844,
     "wof:name":"Adpak Communications",
     "wof:parent_id":85848139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.253455,33.477601,-112.253455,33.477601],
+  "bbox": [
+    -112.253455,
+    33.477601,
+    -112.253455,
+    33.477601
+],
   "geometry": {"coordinates":[-112.253455,33.477601],"type":"Point"}
 }

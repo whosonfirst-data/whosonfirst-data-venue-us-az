@@ -2,13 +2,14 @@
   "id": 169108951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.185362,34.892319,-110.185362,34.892319",
     "geom:latitude":34.892319,
     "geom:longitude":-110.185362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 W Dewitt Rd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169108951,
-    "wof:lastmodified":1449032738,
+    "wof:lastmodified":1466331066,
     "wof:name":"Myers Drilling Co",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.185362,34.892319,-110.185362,34.892319],
+  "bbox": [
+    -110.185362,
+    34.892319,
+    -110.185362,
+    34.892319
+],
   "geometry": {"coordinates":[-110.185362,34.892319],"type":"Point"}
 }

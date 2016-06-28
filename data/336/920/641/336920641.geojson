@@ -2,13 +2,14 @@
   "id": 336920641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825985,33.361774,-111.825985,33.361774",
     "geom:latitude":33.361774,
     "geom:longitude":-111.825985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 N. El Dorado Drive",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336920641,
-    "wof:lastmodified":1448997791,
+    "wof:lastmodified":1466330611,
     "wof:name":"Fluffy Puppy Grooming",
     "wof:parent_id":85852583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "groomers"
     ]
 },
-  "bbox": [-111.825985,33.361774,-111.825985,33.361774],
+  "bbox": [
+    -111.825985,
+    33.361774,
+    -111.825985,
+    33.361774
+],
   "geometry": {"coordinates":[-111.825985,33.361774],"type":"Point"}
 }

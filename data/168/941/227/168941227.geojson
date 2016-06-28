@@ -2,13 +2,14 @@
   "id": 168941227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.32102,33.604253,-112.32102,33.604253",
     "geom:latitude":33.604253,
     "geom:longitude":-112.32102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12069 W Valentine Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168941227,
-    "wof:lastmodified":1449028235,
+    "wof:lastmodified":1466330757,
     "wof:name":"Dynapath Mechanical",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.32102,33.604253,-112.32102,33.604253],
+  "bbox": [
+    -112.32102,
+    33.604253,
+    -112.32102,
+    33.604253
+],
   "geometry": {"coordinates":[-112.32102,33.604253],"type":"Point"}
 }

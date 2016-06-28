@@ -2,13 +2,14 @@
   "id": 169265121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.153233,33.630604,-112.153233,33.630604",
     "geom:latitude":33.630604,
     "geom:longitude":-112.153233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 W Monte Cristo Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840735,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169265121,
-    "wof:lastmodified":1449033813,
+    "wof:lastmodified":1466332510,
     "wof:name":"Beals & Assoc Machinery Apprs",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.153233,33.630604,-112.153233,33.630604],
+  "bbox": [
+    -112.153233,
+    33.630604,
+    -112.153233,
+    33.630604
+],
   "geometry": {"coordinates":[-112.153233,33.630604],"type":"Point"}
 }

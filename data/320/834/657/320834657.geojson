@@ -2,13 +2,14 @@
   "id": 320834657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008587,33.582531,-112.008587,33.582531",
     "geom:latitude":33.582531,
     "geom:longitude":-112.008587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 E Shea Blvd Ste 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320834657,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466330138,
     "wof:name":"Corporate Office Centers",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-112.008587,33.582531,-112.008587,33.582531],
-  "geometry": {"coordinates":[-112.008587,33.582531],"type":"Point"}
+  "bbox": [
+    -112.008587,
+    33.582531,
+    -112.008587,
+    33.582531
+],
+  "geometry": {"coordinates":[-112.00858700000001,33.582531],"type":"Point"}
 }

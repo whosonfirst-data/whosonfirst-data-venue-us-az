@@ -2,13 +2,14 @@
   "id": 169076635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.591289,35.112299,-114.591289,35.112299",
     "geom:latitude":35.112299,
     "geom:longitude":-114.591289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Alta Vista Rd",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169076635,
-    "wof:lastmodified":1449035251,
+    "wof:lastmodified":1466329757,
     "wof:name":"Mohave Collision Ctr",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.591289,35.112299,-114.591289,35.112299],
+  "bbox": [
+    -114.591289,
+    35.112299,
+    -114.591289,
+    35.112299
+],
   "geometry": {"coordinates":[-114.591289,35.112299],"type":"Point"}
 }

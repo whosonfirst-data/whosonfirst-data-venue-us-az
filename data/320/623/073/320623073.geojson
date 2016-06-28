@@ -2,13 +2,14 @@
   "id": 320623073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.051127,33.452698,-112.051127,33.452698",
     "geom:latitude":33.452698,
     "geom:longitude":-112.051127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 E Polk St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320623073,
-    "wof:lastmodified":1449013884,
+    "wof:lastmodified":1466326343,
     "wof:name":"Allstate Homes",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-112.051127,33.452698,-112.051127,33.452698],
-  "geometry": {"coordinates":[-112.051127,33.452698],"type":"Point"}
+  "bbox": [
+    -112.051127,
+    33.452698,
+    -112.051127,
+    33.452698
+],
+  "geometry": {"coordinates":[-112.05112699999999,33.452698],"type":"Point"}
 }

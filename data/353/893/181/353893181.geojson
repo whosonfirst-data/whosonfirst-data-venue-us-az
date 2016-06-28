@@ -2,13 +2,14 @@
   "id": 353893181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.45517,34.530998,-112.45517,34.530998",
     "geom:latitude":34.530998,
     "geom:longitude":-112.45517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Eastwood Dr Apt 9",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353893181,
-    "wof:lastmodified":1449020346,
+    "wof:lastmodified":1466331058,
     "wof:name":"Don Juan Apartments",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.45517,34.530998,-112.45517,34.530998],
+  "bbox": [
+    -112.45517,
+    34.530998,
+    -112.45517,
+    34.530998
+],
   "geometry": {"coordinates":[-112.45517,34.530998],"type":"Point"}
 }

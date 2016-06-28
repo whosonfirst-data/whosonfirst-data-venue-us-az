@@ -2,13 +2,14 @@
   "id": 169306107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.779992,32.211326,-110.779992,32.211326",
     "geom:latitude":32.211326,
     "geom:longitude":-110.779992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9970 E Island Sun Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169306107,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1466333004,
     "wof:name":"Michael J Vinci LLC",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.779992,32.211326,-110.779992,32.211326],
-  "geometry": {"coordinates":[-110.779992,32.211326],"type":"Point"}
+  "bbox": [
+    -110.779992,
+    32.211326,
+    -110.779992,
+    32.211326
+],
+  "geometry": {"coordinates":[-110.77999199999999,32.211326],"type":"Point"}
 }

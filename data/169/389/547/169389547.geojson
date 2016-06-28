@@ -2,13 +2,14 @@
   "id": 169389547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001187,33.399817,-112.001187,33.399817",
     "geom:latitude":33.399817,
     "geom:longitude":-112.001187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 E Roeser Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169389547,
-    "wof:lastmodified":1449035284,
+    "wof:lastmodified":1466333891,
     "wof:name":"Orion Mangmnt Ltd",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.001187,33.399817,-112.001187,33.399817],
+  "bbox": [
+    -112.001187,
+    33.399817,
+    -112.001187,
+    33.399817
+],
   "geometry": {"coordinates":[-112.001187,33.399817],"type":"Point"}
 }

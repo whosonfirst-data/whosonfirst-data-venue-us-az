@@ -2,13 +2,14 @@
   "id": 203186481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.576739,35.158744,-114.576739,35.158744",
     "geom:latitude":35.158744,
     "geom:longitude":-114.576739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Bruce Woodbury Dr",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203186481,
-    "wof:lastmodified":1449026421,
+    "wof:lastmodified":1466327756,
     "wof:name":"Laughlin Medical Center",
     "wof:parent_id":85813655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.576739,35.158744,-114.576739,35.158744],
+  "bbox": [
+    -114.576739,
+    35.158744,
+    -114.576739,
+    35.158744
+],
   "geometry": {"coordinates":[-114.576739,35.158744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152976997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.955158,33.401621,-111.955158,33.401621",
     "geom:latitude":33.401621,
     "geom:longitude":-111.955158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2465 S Industrial Park Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881401,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152976997,
-    "wof:lastmodified":1449046222,
+    "wof:lastmodified":1466328793,
     "wof:name":"United Coatings Mfg Co",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.955158,33.401621,-111.955158,33.401621],
+  "bbox": [
+    -111.955158,
+    33.401621,
+    -111.955158,
+    33.401621
+],
   "geometry": {"coordinates":[-111.955158,33.401621],"type":"Point"}
 }

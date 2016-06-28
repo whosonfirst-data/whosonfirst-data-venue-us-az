@@ -2,13 +2,14 @@
   "id": 169398875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090863,33.361029,-112.090863,33.361029",
     "geom:latitude":33.361029,
     "geom:longitude":-112.090863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9408 S 13th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849949,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85849949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169398875,
-    "wof:lastmodified":1449032944,
+    "wof:lastmodified":1466334014,
     "wof:name":"Bruce Gilbert Carpentry",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.090863,33.361029,-112.090863,33.361029],
+  "bbox": [
+    -112.090863,
+    33.361029,
+    -112.090863,
+    33.361029
+],
   "geometry": {"coordinates":[-112.090863,33.361029],"type":"Point"}
 }

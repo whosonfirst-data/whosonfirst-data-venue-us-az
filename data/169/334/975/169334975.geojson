@@ -2,13 +2,14 @@
   "id": 169334975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931375,34.632614,-111.931375,34.632614",
     "geom:latitude":34.632614,
     "geom:longitude":-111.931375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4682 Old Hwy 279",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169334975,
-    "wof:lastmodified":1449033654,
+    "wof:lastmodified":1466333411,
     "wof:name":"Hansen Enterprises Fleet Rpr",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.931375,34.632614,-111.931375,34.632614],
+  "bbox": [
+    -111.931375,
+    34.632614,
+    -111.931375,
+    34.632614
+],
   "geometry": {"coordinates":[-111.931375,34.632614],"type":"Point"}
 }

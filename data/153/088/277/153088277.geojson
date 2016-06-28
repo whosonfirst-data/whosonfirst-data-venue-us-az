@@ -2,13 +2,14 @@
   "id": 153088277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.460367,34.745612,-112.460367,34.745612",
     "geom:latitude":34.745612,
     "geom:longitude":-112.460367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 W Center St",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":153088277,
-    "wof:lastmodified":1449040704,
+    "wof:lastmodified":1466329212,
     "wof:name":"Budget Mini Storage",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.460367,34.745612,-112.460367,34.745612],
-  "geometry": {"coordinates":[-112.460367,34.745612],"type":"Point"}
+  "bbox": [
+    -112.460367,
+    34.745612,
+    -112.460367,
+    34.745612
+],
+  "geometry": {"coordinates":[-112.46036700000001,34.745612],"type":"Point"}
 }

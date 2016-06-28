@@ -2,13 +2,14 @@
   "id": 169300549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.60889,32.689311,-114.60889,32.689311",
     "geom:latitude":32.689311,
     "geom:longitude":-114.60889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1161 E 21st St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169300549,
-    "wof:lastmodified":1449034545,
+    "wof:lastmodified":1466333044,
     "wof:name":"Arizona Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.60889,32.689311,-114.60889,32.689311],
+  "bbox": [
+    -114.60889,
+    32.689311,
+    -114.60889,
+    32.689311
+],
   "geometry": {"coordinates":[-114.60889,32.689311],"type":"Point"}
 }

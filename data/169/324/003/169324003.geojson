@@ -2,13 +2,14 @@
   "id": 169324003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058993,33.44976,-112.058993,33.44976",
     "geom:latitude":33.44976,
     "geom:longitude":-112.058993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 E Monroe St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169324003,
-    "wof:lastmodified":1449034616,
+    "wof:lastmodified":1466333150,
     "wof:name":"Iglesia De Dios Pentecostal Mi",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.058993,33.44976,-112.058993,33.44976],
+  "bbox": [
+    -112.058993,
+    33.44976,
+    -112.058993,
+    33.44976
+],
   "geometry": {"coordinates":[-112.058993,33.44976],"type":"Point"}
 }

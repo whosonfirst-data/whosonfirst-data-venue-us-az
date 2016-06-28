@@ -2,13 +2,14 @@
   "id": 168942905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.75308,33.636439,-111.75308,33.636439",
     "geom:latitude":33.636439,
     "geom:longitude":-111.75308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15134 Marathon Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168942905,
-    "wof:lastmodified":1449028130,
+    "wof:lastmodified":1466330673,
     "wof:name":"Nationwide Yellow Page Svc",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.75308,33.636439,-111.75308,33.636439],
+  "bbox": [
+    -111.75308,
+    33.636439,
+    -111.75308,
+    33.636439
+],
   "geometry": {"coordinates":[-111.75308,33.636439],"type":"Point"}
 }

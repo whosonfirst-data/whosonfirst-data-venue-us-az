@@ -2,13 +2,14 @@
   "id": 168915583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.997301,32.416986,-110.997301,32.416986",
     "geom:latitude":32.416986,
     "geom:longitude":-110.997301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11521 N Palmetto Dunes Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168915583,
-    "wof:lastmodified":1449028581,
+    "wof:lastmodified":1466330236,
     "wof:name":"Edward Jones 26117",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.997301,32.416986,-110.997301,32.416986],
-  "geometry": {"coordinates":[-110.997301,32.416986],"type":"Point"}
+  "bbox": [
+    -110.997301,
+    32.416986,
+    -110.997301,
+    32.416986
+],
+  "geometry": {"coordinates":[-110.99730099999999,32.416986],"type":"Point"}
 }

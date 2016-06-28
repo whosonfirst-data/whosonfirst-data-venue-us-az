@@ -2,13 +2,14 @@
   "id": 169190305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052567,33.552153,-112.052567,33.552153",
     "geom:latitude":33.552153,
     "geom:longitude":-112.052567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 E Winter Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.chaparraltile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852109,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169190305,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1466332033,
     "wof:name":"Chaparral Tile Corp",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.052567,33.552153,-112.052567,33.552153],
+  "bbox": [
+    -112.052567,
+    33.552153,
+    -112.052567,
+    33.552153
+],
   "geometry": {"coordinates":[-112.052567,33.552153],"type":"Point"}
 }

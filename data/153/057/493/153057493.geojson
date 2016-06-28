@@ -2,13 +2,14 @@
   "id": 153057493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.98222,32.2527,-110.98222,32.2527",
     "geom:latitude":32.2527,
     "geom:longitude":-110.98222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 N 15th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153057493,
-    "wof:lastmodified":1449040572,
+    "wof:lastmodified":1466327699,
     "wof:name":"S K Market",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.98222,32.2527,-110.98222,32.2527],
+  "bbox": [
+    -110.98222,
+    32.2527,
+    -110.98222,
+    32.2527
+],
   "geometry": {"coordinates":[-110.98222,32.2527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169140513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.914531,32.471318,-110.914531,32.471318",
     "geom:latitude":32.471318,
     "geom:longitude":-110.914531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14575 N Twin Lakes Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169140513,
-    "wof:lastmodified":1449033168,
+    "wof:lastmodified":1466331750,
     "wof:name":"Ward's Land Surveying",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.914531,32.471318,-110.914531,32.471318],
+  "bbox": [
+    -110.914531,
+    32.471318,
+    -110.914531,
+    32.471318
+],
   "geometry": {"coordinates":[-110.914531,32.471318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320727737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045437,33.495161,-112.045437,33.495161",
     "geom:latitude":33.495161,
     "geom:longitude":-112.045437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4122 N 17th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320727737,
-    "wof:lastmodified":1449011816,
+    "wof:lastmodified":1466328487,
     "wof:name":"Rnh Properties",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "park"
     ]
 },
-  "bbox": [-112.045437,33.495161,-112.045437,33.495161],
-  "geometry": {"coordinates":[-112.045437,33.495161],"type":"Point"}
+  "bbox": [
+    -112.045437,
+    33.495161,
+    -112.045437,
+    33.495161
+],
+  "geometry": {"coordinates":[-112.04543700000001,33.495161],"type":"Point"}
 }

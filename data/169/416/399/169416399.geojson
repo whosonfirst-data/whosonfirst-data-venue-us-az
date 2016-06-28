@@ -2,13 +2,14 @@
   "id": 169416399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.285811,34.150259,-114.285811,34.150259",
     "geom:latitude":34.150259,
     "geom:longitude":-114.285811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 S Geronimo Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169416399,
-    "wof:lastmodified":1449034152,
+    "wof:lastmodified":1466334144,
     "wof:name":"Parker Food Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.285811,34.150259,-114.285811,34.150259],
+  "bbox": [
+    -114.285811,
+    34.150259,
+    -114.285811,
+    34.150259
+],
   "geometry": {"coordinates":[-114.285811,34.150259],"type":"Point"}
 }

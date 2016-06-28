@@ -2,13 +2,14 @@
   "id": 353599285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.282193,33.51685,-112.282193,33.51685",
     "geom:latitude":33.51685,
     "geom:longitude":-112.282193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10329 W San Juan Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353599285,
-    "wof:lastmodified":1449019441,
+    "wof:lastmodified":1466328508,
     "wof:name":"Mav Service",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.282193,33.51685,-112.282193,33.51685],
-  "geometry": {"coordinates":[-112.282193,33.51685],"type":"Point"}
+  "bbox": [
+    -112.282193,
+    33.51685,
+    -112.282193,
+    33.51685
+],
+  "geometry": {"coordinates":[-112.28219300000001,33.51685],"type":"Point"}
 }

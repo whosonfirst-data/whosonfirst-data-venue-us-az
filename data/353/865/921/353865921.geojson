@@ -2,13 +2,14 @@
   "id": 353865921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.952036,34.138587,-109.952036,34.138587",
     "geom:latitude":34.138587,
     "geom:longitude":-109.952036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 E White Mountain Blvd",
     "sg:city":"Pinetop",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353865921,
-    "wof:lastmodified":1449020182,
+    "wof:lastmodified":1466330908,
     "wof:name":"Darbi's Cafe",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.952036,34.138587,-109.952036,34.138587],
-  "geometry": {"coordinates":[-109.952036,34.138587],"type":"Point"}
+  "bbox": [
+    -109.952036,
+    34.138587,
+    -109.952036,
+    34.138587
+],
+  "geometry": {"coordinates":[-109.95203600000001,34.138587],"type":"Point"}
 }

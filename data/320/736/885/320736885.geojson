@@ -2,13 +2,14 @@
   "id": 320736885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121845,33.483176,-112.121845,33.483176",
     "geom:latitude":33.483176,
     "geom:longitude":-112.121845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 N 29th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320736885,
-    "wof:lastmodified":1449014924,
+    "wof:lastmodified":1466328605,
     "wof:name":"Arizona Verde Fire Protection",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "automatic"
     ]
 },
-  "bbox": [-112.121845,33.483176,-112.121845,33.483176],
-  "geometry": {"coordinates":[-112.121845,33.483176],"type":"Point"}
+  "bbox": [
+    -112.121845,
+    33.483176,
+    -112.121845,
+    33.483176
+],
+  "geometry": {"coordinates":[-112.12184499999999,33.483176],"type":"Point"}
 }

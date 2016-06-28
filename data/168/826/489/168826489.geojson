@@ -2,13 +2,14 @@
   "id": 168826489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.13444,33.812838,-112.13444,33.812838",
     "geom:latitude":33.812838,
     "geom:longitude":-112.13444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37404 N 34th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -44,11 +45,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +68,20 @@
         }
     ],
     "wof:id":168826489,
-    "wof:lastmodified":1449028343,
+    "wof:lastmodified":1466325911,
     "wof:name":"Craftmark Bulk Water Hauling",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.13444,33.812838,-112.13444,33.812838],
+  "bbox": [
+    -112.13444,
+    33.812838,
+    -112.13444,
+    33.812838
+],
   "geometry": {"coordinates":[-112.13444,33.812838],"type":"Point"}
 }

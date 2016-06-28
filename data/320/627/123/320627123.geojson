@@ -2,13 +2,14 @@
   "id": 320627123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065086,33.463909,-112.065086,33.463909",
     "geom:latitude":33.463909,
     "geom:longitude":-112.065086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 N 7th St Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320627123,
-    "wof:lastmodified":1449015045,
+    "wof:lastmodified":1466326449,
     "wof:name":"Brendan P Cassidy Md",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.065086,33.463909,-112.065086,33.463909],
-  "geometry": {"coordinates":[-112.065086,33.463909],"type":"Point"}
+  "bbox": [
+    -112.065086,
+    33.463909,
+    -112.065086,
+    33.463909
+],
+  "geometry": {"coordinates":[-112.06508599999999,33.463909],"type":"Point"}
 }

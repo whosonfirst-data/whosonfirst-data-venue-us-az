@@ -2,13 +2,14 @@
   "id": 168913511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909874,32.26027,-110.909874,32.26027",
     "geom:latitude":32.26027,
     "geom:longitude":-110.909874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2967 N Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.thevillageblacksmith.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168913511,
-    "wof:lastmodified":1449028065,
+    "wof:lastmodified":1466330126,
     "wof:name":"Village Blacksmith",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909874,32.26027,-110.909874,32.26027],
+  "bbox": [
+    -110.909874,
+    32.26027,
+    -110.909874,
+    32.26027
+],
   "geometry": {"coordinates":[-110.909874,32.26027],"type":"Point"}
 }

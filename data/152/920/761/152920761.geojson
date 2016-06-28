@@ -2,13 +2,14 @@
   "id": 152920761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.136726,34.931835,-110.136726,34.931835",
     "geom:latitude":34.931835,
     "geom:longitude":-110.136726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Vista Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152920761,
-    "wof:lastmodified":1449047872,
+    "wof:lastmodified":1466326942,
     "wof:name":"Food Stamps & Assistance Ofc",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.136726,34.931835,-110.136726,34.931835],
+  "bbox": [
+    -110.136726,
+    34.931835,
+    -110.136726,
+    34.931835
+],
   "geometry": {"coordinates":[-110.136726,34.931835],"type":"Point"}
 }

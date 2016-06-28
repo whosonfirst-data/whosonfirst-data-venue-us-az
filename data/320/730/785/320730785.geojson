@@ -2,13 +2,14 @@
   "id": 320730785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042467,33.50485,-112.042467,33.50485",
     "geom:latitude":33.50485,
     "geom:longitude":-112.042467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 E Coolidge St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320730785,
-    "wof:lastmodified":1449014372,
+    "wof:lastmodified":1466328525,
     "wof:name":"Arizona Retired Teachers",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teachers'"
     ]
 },
-  "bbox": [-112.042467,33.50485,-112.042467,33.50485],
+  "bbox": [
+    -112.042467,
+    33.50485,
+    -112.042467,
+    33.50485
+],
   "geometry": {"coordinates":[-112.042467,33.50485],"type":"Point"}
 }

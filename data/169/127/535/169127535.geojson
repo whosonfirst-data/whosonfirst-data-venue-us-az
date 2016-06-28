@@ -2,13 +2,14 @@
   "id": 169127535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.261395,34.481006,-114.261395,34.481006",
     "geom:latitude":34.481006,
     "geom:longitude":-114.261395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 Window Rock Rd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169127535,
-    "wof:lastmodified":1449035688,
+    "wof:lastmodified":1466331531,
     "wof:name":"Southwest Custom Spas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.261395,34.481006,-114.261395,34.481006],
-  "geometry": {"coordinates":[-114.261395,34.481006],"type":"Point"}
+  "bbox": [
+    -114.261395,
+    34.481006,
+    -114.261395,
+    34.481006
+],
+  "geometry": {"coordinates":[-114.26139499999999,34.481006],"type":"Point"}
 }

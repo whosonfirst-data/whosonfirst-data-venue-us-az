@@ -2,13 +2,14 @@
   "id": 169401979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.282001,33.597296,-112.282001,33.597296",
     "geom:latitude":33.597296,
     "geom:longitude":-112.282001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10462 W Oakmont Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169401979,
-    "wof:lastmodified":1449035475,
+    "wof:lastmodified":1466333972,
     "wof:name":"Bags With Rags",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.282001,33.597296,-112.282001,33.597296],
-  "geometry": {"coordinates":[-112.282001,33.597296],"type":"Point"}
+  "bbox": [
+    -112.282001,
+    33.597296,
+    -112.282001,
+    33.597296
+],
+  "geometry": {"coordinates":[-112.28200099999999,33.597296],"type":"Point"}
 }

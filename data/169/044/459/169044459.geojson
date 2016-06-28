@@ -2,13 +2,14 @@
   "id": 169044459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.36684,34.539028,-114.36684,34.539028",
     "geom:latitude":34.539028,
     "geom:longitude":-114.36684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3493 Old State Hwy 95",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169044459,
-    "wof:lastmodified":1449034404,
+    "wof:lastmodified":1466328002,
     "wof:name":"All Mesa RV Ctr Inc",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.36684,34.539028,-114.36684,34.539028],
+  "bbox": [
+    -114.36684,
+    34.539028,
+    -114.36684,
+    34.539028
+],
   "geometry": {"coordinates":[-114.36684,34.539028],"type":"Point"}
 }

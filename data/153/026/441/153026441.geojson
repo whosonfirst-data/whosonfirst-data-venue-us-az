@@ -2,13 +2,14 @@
   "id": 153026441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090088,33.571237,-112.090088,33.571237",
     "geom:latitude":33.571237,
     "geom:longitude":-112.090088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153026441,
-    "wof:lastmodified":1449040637,
+    "wof:lastmodified":1466327617,
     "wof:name":"Mona's Body Shop LLC",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.090088,33.571237,-112.090088,33.571237],
-  "geometry": {"coordinates":[-112.090088,33.571237],"type":"Point"}
+  "bbox": [
+    -112.090088,
+    33.571237,
+    -112.090088,
+    33.571237
+],
+  "geometry": {"coordinates":[-112.09008799999999,33.571237],"type":"Point"}
 }

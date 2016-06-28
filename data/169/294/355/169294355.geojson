@@ -2,13 +2,14 @@
   "id": 169294355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598894,32.673578,-114.598894,32.673578",
     "geom:latitude":32.673578,
     "geom:longitude":-114.598894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2970 S Pacific Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895867,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169294355,
-    "wof:lastmodified":1449035032,
+    "wof:lastmodified":1466332920,
     "wof:name":"Mirastar 64013",
     "wof:parent_id":85895867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598894,32.673578,-114.598894,32.673578],
+  "bbox": [
+    -114.598894,
+    32.673578,
+    -114.598894,
+    32.673578
+],
   "geometry": {"coordinates":[-114.598894,32.673578],"type":"Point"}
 }

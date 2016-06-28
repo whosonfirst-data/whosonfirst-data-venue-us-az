@@ -2,13 +2,14 @@
   "id": 336719265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115833,33.53857,-112.115833,33.53857",
     "geom:latitude":33.53857,
     "geom:longitude":-112.115833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2647 W Glendale Ave # 17",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336719265,
-    "wof:lastmodified":1448997066,
+    "wof:lastmodified":1466328337,
     "wof:name":"Continental Trailways",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-112.115833,33.53857,-112.115833,33.53857],
-  "geometry": {"coordinates":[-112.115833,33.53857],"type":"Point"}
+  "bbox": [
+    -112.115833,
+    33.53857,
+    -112.115833,
+    33.53857
+],
+  "geometry": {"coordinates":[-112.11583299999999,33.53857],"type":"Point"}
 }

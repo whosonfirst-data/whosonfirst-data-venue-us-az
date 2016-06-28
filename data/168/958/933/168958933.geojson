@@ -2,13 +2,14 @@
   "id": 168958933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.933488,33.455563,-111.933488,33.455563",
     "geom:latitude":33.455563,
     "geom:longitude":-111.933488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 E Pierce St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mushroomsoftwareonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168958933,
-    "wof:lastmodified":1449028411,
+    "wof:lastmodified":1466331181,
     "wof:name":"Mushroom Software",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.933488,33.455563,-111.933488,33.455563],
+  "bbox": [
+    -111.933488,
+    33.455563,
+    -111.933488,
+    33.455563
+],
   "geometry": {"coordinates":[-111.933488,33.455563],"type":"Point"}
 }

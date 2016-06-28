@@ -2,13 +2,14 @@
   "id": 168953999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156327,33.665712,-112.156327,33.665712",
     "geom:latitude":33.665712,
     "geom:longitude":-112.156327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 W Behrend Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168953999,
-    "wof:lastmodified":1449028297,
+    "wof:lastmodified":1466331045,
     "wof:name":"Gillespie AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.156327,33.665712,-112.156327,33.665712],
+  "bbox": [
+    -112.156327,
+    33.665712,
+    -112.156327,
+    33.665712
+],
   "geometry": {"coordinates":[-112.156327,33.665712],"type":"Point"}
 }

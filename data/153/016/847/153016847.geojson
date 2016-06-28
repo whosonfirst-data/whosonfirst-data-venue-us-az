@@ -2,13 +2,14 @@
   "id": 153016847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.33341,34.613947,-112.33341,34.613947",
     "geom:latitude":34.613947,
     "geom:longitude":-112.33341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 N Hobo Cir",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153016847,
-    "wof:lastmodified":1449040410,
+    "wof:lastmodified":1466326623,
     "wof:name":"Backyard Paradise LLC",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.33341,34.613947,-112.33341,34.613947],
+  "bbox": [
+    -112.33341,
+    34.613947,
+    -112.33341,
+    34.613947
+],
   "geometry": {"coordinates":[-112.33341,34.613947],"type":"Point"}
 }

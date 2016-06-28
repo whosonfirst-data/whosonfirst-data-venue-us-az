@@ -2,13 +2,14 @@
   "id": 320722215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014907,33.491523,-112.014907,33.491523",
     "geom:latitude":33.491523,
     "geom:longitude":-112.014907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 E Clarendon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320722215,
-    "wof:lastmodified":1449012585,
+    "wof:lastmodified":1466328628,
     "wof:name":"Driver & Nix",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-112.014907,33.491523,-112.014907,33.491523],
-  "geometry": {"coordinates":[-112.014907,33.491523],"type":"Point"}
+  "bbox": [
+    -112.014907,
+    33.491523,
+    -112.014907,
+    33.491523
+],
+  "geometry": {"coordinates":[-112.01490699999999,33.491523],"type":"Point"}
 }

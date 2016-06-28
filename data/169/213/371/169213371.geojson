@@ -2,13 +2,14 @@
   "id": 169213371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.225157,33.598252,-112.225157,33.598252",
     "geom:latitude":33.598252,
     "geom:longitude":-112.225157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12550 N 77th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858203,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85858203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169213371,
-    "wof:lastmodified":1449032721,
+    "wof:lastmodified":1466332213,
     "wof:name":"Kustomized Carriers Inc",
     "wof:parent_id":85858203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.225157,33.598252,-112.225157,33.598252],
+  "bbox": [
+    -112.225157,
+    33.598252,
+    -112.225157,
+    33.598252
+],
   "geometry": {"coordinates":[-112.225157,33.598252],"type":"Point"}
 }

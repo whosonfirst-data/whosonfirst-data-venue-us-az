@@ -2,13 +2,14 @@
   "id": 168964735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102863,33.678313,-112.102863,33.678313",
     "geom:latitude":33.678313,
     "geom:longitude":-112.102863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 W Quail Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168964735,
-    "wof:lastmodified":1449028380,
+    "wof:lastmodified":1466331252,
     "wof:name":"Inside Pitch",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.102863,33.678313,-112.102863,33.678313],
+  "bbox": [
+    -112.102863,
+    33.678313,
+    -112.102863,
+    33.678313
+],
   "geometry": {"coordinates":[-112.102863,33.678313],"type":"Point"}
 }

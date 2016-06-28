@@ -2,13 +2,14 @@
   "id": 169269861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073888,33.451379,-112.073888,33.451379",
     "geom:latitude":33.451379,
     "geom:longitude":-112.073888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hotelsancarlos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169269861,
-    "wof:lastmodified":1449034761,
+    "wof:lastmodified":1466332950,
     "wof:name":"San Carlos Hotel",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073888,33.451379,-112.073888,33.451379],
+  "bbox": [
+    -112.073888,
+    33.451379,
+    -112.073888,
+    33.451379
+],
   "geometry": {"coordinates":[-112.073888,33.451379],"type":"Point"}
 }

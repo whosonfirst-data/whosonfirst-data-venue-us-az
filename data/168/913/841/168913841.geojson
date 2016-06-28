@@ -2,13 +2,14 @@
   "id": 168913841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948736,32.459175,-110.948736,32.459175",
     "geom:latitude":32.459175,
     "geom:longitude":-110.948736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 E Rancho Vistoso Blvd",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168913841,
-    "wof:lastmodified":1449028065,
+    "wof:lastmodified":1466330136,
     "wof:name":"Cafe In Sun City Vistoso",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948736,32.459175,-110.948736,32.459175],
+  "bbox": [
+    -110.948736,
+    32.459175,
+    -110.948736,
+    32.459175
+],
   "geometry": {"coordinates":[-110.948736,32.459175],"type":"Point"}
 }

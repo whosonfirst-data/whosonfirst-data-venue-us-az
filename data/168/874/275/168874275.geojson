@@ -2,13 +2,14 @@
   "id": 168874275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.336855,33.604229,-112.336855,33.604229",
     "geom:latitude":33.604229,
     "geom:longitude":-112.336855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13218 N 128th Ln",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168874275,
-    "wof:lastmodified":1449028549,
+    "wof:lastmodified":1466327824,
     "wof:name":"Prosperity Properties LLC",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.336855,33.604229,-112.336855,33.604229],
+  "bbox": [
+    -112.336855,
+    33.604229,
+    -112.336855,
+    33.604229
+],
   "geometry": {"coordinates":[-112.336855,33.604229],"type":"Point"}
 }

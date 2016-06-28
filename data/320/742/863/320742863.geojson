@@ -2,13 +2,14 @@
   "id": 320742863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116913,33.525638,-112.116913,33.525638",
     "geom:latitude":33.525638,
     "geom:longitude":-112.116913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6118 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320742863,
-    "wof:lastmodified":1449011492,
+    "wof:lastmodified":1466328733,
     "wof:name":"The Frosty Mug",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cocktail"
     ]
 },
-  "bbox": [-112.116913,33.525638,-112.116913,33.525638],
+  "bbox": [
+    -112.116913,
+    33.525638,
+    -112.116913,
+    33.525638
+],
   "geometry": {"coordinates":[-112.116913,33.525638],"type":"Point"}
 }

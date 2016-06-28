@@ -2,13 +2,14 @@
   "id": 320713167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030215,33.501237,-112.030215,33.501237",
     "geom:latitude":33.501237,
     "geom:longitude":-112.030215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4447 N 24th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320713167,
-    "wof:lastmodified":1449014615,
+    "wof:lastmodified":1466328504,
     "wof:name":"Jag Ventures",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-112.030215,33.501237,-112.030215,33.501237],
+  "bbox": [
+    -112.030215,
+    33.501237,
+    -112.030215,
+    33.501237
+],
   "geometry": {"coordinates":[-112.030215,33.501237],"type":"Point"}
 }

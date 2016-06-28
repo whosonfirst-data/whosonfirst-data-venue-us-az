@@ -2,13 +2,14 @@
   "id": 169006537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.348081,34.474948,-114.348081,34.474948",
     "geom:latitude":34.474948,
     "geom:longitude":-114.348081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Marlboro Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169006537,
-    "wof:lastmodified":1449035317,
+    "wof:lastmodified":1466326389,
     "wof:name":"Shooters",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.348081,34.474948,-114.348081,34.474948],
-  "geometry": {"coordinates":[-114.348081,34.474948],"type":"Point"}
+  "bbox": [
+    -114.348081,
+    34.474948,
+    -114.348081,
+    34.474948
+],
+  "geometry": {"coordinates":[-114.34808099999999,34.474948],"type":"Point"}
 }

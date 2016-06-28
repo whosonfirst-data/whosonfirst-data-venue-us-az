@@ -2,13 +2,14 @@
   "id": 320806231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086573,33.618715,-112.086573,33.618715",
     "geom:latitude":33.618715,
     "geom:longitude":-112.086573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14426 N Coral Gables Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320806231,
-    "wof:lastmodified":1449011250,
+    "wof:lastmodified":1466329883,
     "wof:name":"Motoko Suzuki",
     "wof:parent_id":85851573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-112.086573,33.618715,-112.086573,33.618715],
+  "bbox": [
+    -112.086573,
+    33.618715,
+    -112.086573,
+    33.618715
+],
   "geometry": {"coordinates":[-112.086573,33.618715],"type":"Point"}
 }

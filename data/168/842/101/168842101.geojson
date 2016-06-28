@@ -2,13 +2,14 @@
   "id": 168842101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.283885,34.116029,-109.283885,34.116029",
     "geom:latitude":34.116029,
     "geom:longitude":-109.283885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 E 3rd Ave",
     "sg:city":"Eagar",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168842101,
-    "wof:lastmodified":1449027827,
+    "wof:lastmodified":1466327251,
     "wof:name":"Friendship House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.283885,34.116029,-109.283885,34.116029],
+  "bbox": [
+    -109.283885,
+    34.116029,
+    -109.283885,
+    34.116029
+],
   "geometry": {"coordinates":[-109.283885,34.116029],"type":"Point"}
 }

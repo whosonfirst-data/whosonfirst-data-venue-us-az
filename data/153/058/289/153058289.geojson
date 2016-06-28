@@ -2,13 +2,14 @@
   "id": 153058289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947546,33.392769,-111.947546,33.392769",
     "geom:latitude":33.392769,
     "geom:longitude":-111.947546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 W Southern Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881407,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":153058289,
-    "wof:lastmodified":1449040398,
+    "wof:lastmodified":1466327755,
     "wof:name":"Leftears",
     "wof:parent_id":85881407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.947546,33.392769,-111.947546,33.392769],
+  "bbox": [
+    -111.947546,
+    33.392769,
+    -111.947546,
+    33.392769
+],
   "geometry": {"coordinates":[-111.947546,33.392769],"type":"Point"}
 }

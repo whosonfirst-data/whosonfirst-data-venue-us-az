@@ -2,13 +2,14 @@
   "id": 169304547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851432,33.231294,-111.851432,33.231294",
     "geom:latitude":33.231294,
     "geom:longitude":-111.851432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"743 W Nolan Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.learningbridges.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876665,
+        85688719,
         85633793,
         85919035,
         102087421,
-        85688719
+        85876665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169304547,
-    "wof:lastmodified":1449035128,
+    "wof:lastmodified":1466333044,
     "wof:name":"Learning Bridges",
     "wof:parent_id":85876665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.851432,33.231294,-111.851432,33.231294],
+  "bbox": [
+    -111.851432,
+    33.231294,
+    -111.851432,
+    33.231294
+],
   "geometry": {"coordinates":[-111.851432,33.231294],"type":"Point"}
 }

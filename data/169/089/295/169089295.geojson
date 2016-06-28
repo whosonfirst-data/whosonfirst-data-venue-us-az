@@ -2,13 +2,14 @@
   "id": 169089295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.855417,32.244458,-110.855417,32.244458",
     "geom:latitude":32.244458,
     "geom:longitude":-110.855417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169089295,
-    "wof:lastmodified":1449033356,
+    "wof:lastmodified":1466330484,
     "wof:name":"Jigsaw Technologies",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.855417,32.244458,-110.855417,32.244458],
+  "bbox": [
+    -110.855417,
+    32.244458,
+    -110.855417,
+    32.244458
+],
   "geometry": {"coordinates":[-110.855417,32.244458],"type":"Point"}
 }

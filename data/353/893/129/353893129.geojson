@@ -2,13 +2,14 @@
   "id": 353893129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.471516,34.541675,-112.471516,34.541675",
     "geom:latitude":34.541675,
     "geom:longitude":-112.471516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Granite St Ste C",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353893129,
-    "wof:lastmodified":1449020348,
+    "wof:lastmodified":1466330905,
     "wof:name":"Larry Thomas Salon",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.471516,34.541675,-112.471516,34.541675],
-  "geometry": {"coordinates":[-112.471516,34.541675],"type":"Point"}
+  "bbox": [
+    -112.471516,
+    34.541675,
+    -112.471516,
+    34.541675
+],
+  "geometry": {"coordinates":[-112.47151599999999,34.541675],"type":"Point"}
 }

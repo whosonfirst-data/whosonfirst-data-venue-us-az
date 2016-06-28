@@ -2,13 +2,14 @@
   "id": 320840413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11123,33.585723,-112.11123,33.585723",
     "geom:latitude":33.585723,
     "geom:longitude":-112.11123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 W Desert Cove Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320840413,
-    "wof:lastmodified":1449014121,
+    "wof:lastmodified":1466330157,
     "wof:name":"Hy Tech Forming Systems (Usa), Inc.",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "forming-manufacturers"
     ]
 },
-  "bbox": [-112.11123,33.585723,-112.11123,33.585723],
-  "geometry": {"coordinates":[-112.11123,33.585723],"type":"Point"}
+  "bbox": [
+    -112.11123,
+    33.585723,
+    -112.11123,
+    33.585723
+],
+  "geometry": {"coordinates":[-112.11123000000001,33.585723],"type":"Point"}
 }

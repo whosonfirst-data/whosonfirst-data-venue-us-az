@@ -2,13 +2,14 @@
   "id": 320798321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042763,33.608555,-112.042763,33.608555",
     "geom:latitude":33.608555,
     "geom:longitude":-112.042763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13424 N 18th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320798321,
-    "wof:lastmodified":1449011951,
+    "wof:lastmodified":1466329646,
     "wof:name":"Cork Net",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "support"
     ]
 },
-  "bbox": [-112.042763,33.608555,-112.042763,33.608555],
-  "geometry": {"coordinates":[-112.042763,33.608555],"type":"Point"}
+  "bbox": [
+    -112.042763,
+    33.608555,
+    -112.042763,
+    33.608555
+],
+  "geometry": {"coordinates":[-112.04276299999999,33.608555],"type":"Point"}
 }

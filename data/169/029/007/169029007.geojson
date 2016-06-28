@@ -2,13 +2,14 @@
   "id": 169029007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.983883,32.255782,-110.983883,32.255782",
     "geom:latitude":32.255782,
     "geom:longitude":-110.983883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 W Kelso St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169029007,
-    "wof:lastmodified":1449034068,
+    "wof:lastmodified":1466326777,
     "wof:name":"Larry Mason Piano Tuning",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.983883,32.255782,-110.983883,32.255782],
-  "geometry": {"coordinates":[-110.983883,32.255782],"type":"Point"}
+  "bbox": [
+    -110.983883,
+    32.255782,
+    -110.983883,
+    32.255782
+],
+  "geometry": {"coordinates":[-110.98388300000001,32.255782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169253817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16003,33.534822,-112.16003,33.534822",
     "geom:latitude":33.534822,
     "geom:longitude":-112.16003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 N 47th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877783,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169253817,
-    "wof:lastmodified":1449035550,
+    "wof:lastmodified":1466332583,
     "wof:name":"Assurance Staffing",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16003,33.534822,-112.16003,33.534822],
-  "geometry": {"coordinates":[-112.16003,33.534822],"type":"Point"}
+  "bbox": [
+    -112.16003,
+    33.534822,
+    -112.16003,
+    33.534822
+],
+  "geometry": {"coordinates":[-112.16003000000001,33.534822],"type":"Point"}
 }

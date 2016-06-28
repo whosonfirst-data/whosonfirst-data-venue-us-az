@@ -2,13 +2,14 @@
   "id": 320634123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09288,33.44141,-112.09288,33.44141",
     "geom:latitude":33.44141,
     "geom:longitude":-112.09288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 W Grant St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320634123,
-    "wof:lastmodified":1449013038,
+    "wof:lastmodified":1466326631,
     "wof:name":"Phoenix Inner City Kids",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-112.09288,33.44141,-112.09288,33.44141],
-  "geometry": {"coordinates":[-112.09288,33.44141],"type":"Point"}
+  "bbox": [
+    -112.09288,
+    33.44141,
+    -112.09288,
+    33.44141
+],
+  "geometry": {"coordinates":[-112.09287999999999,33.44141],"type":"Point"}
 }

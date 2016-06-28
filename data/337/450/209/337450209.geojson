@@ -2,13 +2,14 @@
   "id": 337450209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.258484,33.506188,-112.258484,33.506188",
     "geom:latitude":33.506188,
     "geom:longitude":-112.258484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9225 W Elm St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337450209,
-    "wof:lastmodified":1449027611,
+    "wof:lastmodified":1466325940,
     "wof:name":"The Mentor Network",
     "wof:parent_id":85856669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "integration"
     ]
 },
-  "bbox": [-112.258484,33.506188,-112.258484,33.506188],
+  "bbox": [
+    -112.258484,
+    33.506188,
+    -112.258484,
+    33.506188
+],
   "geometry": {"coordinates":[-112.258484,33.506188],"type":"Point"}
 }

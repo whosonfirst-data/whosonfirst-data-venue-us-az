@@ -2,13 +2,14 @@
   "id": 169409755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.331018,33.607056,-112.331018,33.607056",
     "geom:latitude":33.607056,
     "geom:longitude":-112.331018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12649 W Willow Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169409755,
-    "wof:lastmodified":1449034034,
+    "wof:lastmodified":1466334133,
     "wof:name":"Salazar Landscaping",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.331018,33.607056,-112.331018,33.607056],
+  "bbox": [
+    -112.331018,
+    33.607056,
+    -112.331018,
+    33.607056
+],
   "geometry": {"coordinates":[-112.331018,33.607056],"type":"Point"}
 }

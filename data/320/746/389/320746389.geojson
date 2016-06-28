@@ -2,13 +2,14 @@
   "id": 320746389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.002535,33.535806,-112.002535,33.535806",
     "geom:latitude":33.535806,
     "geom:longitude":-112.002535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6739 N Palm Canyon Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320746389,
-    "wof:lastmodified":1449011230,
+    "wof:lastmodified":1466329002,
     "wof:name":"Herchel Portman Options &",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-112.002535,33.535806,-112.002535,33.535806],
-  "geometry": {"coordinates":[-112.002535,33.535806],"type":"Point"}
+  "bbox": [
+    -112.002535,
+    33.535806,
+    -112.002535,
+    33.535806
+],
+  "geometry": {"coordinates":[-112.00253499999999,33.535806],"type":"Point"}
 }

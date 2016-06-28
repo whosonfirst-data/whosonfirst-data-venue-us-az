@@ -2,13 +2,14 @@
   "id": 169370063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.958622,33.392952,-111.958622,33.392952",
     "geom:latitude":33.392952,
     "geom:longitude":-111.958622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 W Southern Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881407,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169370063,
-    "wof:lastmodified":1449034492,
+    "wof:lastmodified":1466333703,
     "wof:name":"Granite Transformations Pho",
     "wof:parent_id":85881407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.958622,33.392952,-111.958622,33.392952],
-  "geometry": {"coordinates":[-111.958622,33.392952],"type":"Point"}
+  "bbox": [
+    -111.958622,
+    33.392952,
+    -111.958622,
+    33.392952
+],
+  "geometry": {"coordinates":[-111.95862200000001,33.392952],"type":"Point"}
 }

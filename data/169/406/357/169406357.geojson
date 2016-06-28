@@ -2,13 +2,14 @@
   "id": 169406357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06865,33.457436,-112.06865,33.457436",
     "geom:latitude":33.457436,
     "geom:longitude":-112.06865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N 4th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169406357,
-    "wof:lastmodified":1449034457,
+    "wof:lastmodified":1466334125,
     "wof:name":"Abracadabra",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.06865,33.457436,-112.06865,33.457436],
-  "geometry": {"coordinates":[-112.06865,33.457436],"type":"Point"}
+  "bbox": [
+    -112.06865,
+    33.457436,
+    -112.06865,
+    33.457436
+],
+  "geometry": {"coordinates":[-112.06865000000001,33.457436],"type":"Point"}
 }

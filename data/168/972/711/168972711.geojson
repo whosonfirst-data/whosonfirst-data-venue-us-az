@@ -2,13 +2,14 @@
   "id": 168972711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.997258,32.34638,-110.997258,32.34638",
     "geom:latitude":32.34638,
     "geom:longitude":-110.997258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 W Chapala Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168972711,
-    "wof:lastmodified":1449028162,
+    "wof:lastmodified":1466331293,
     "wof:name":"Richard Carlson Productions",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.997258,32.34638,-110.997258,32.34638],
+  "bbox": [
+    -110.997258,
+    32.34638,
+    -110.997258,
+    32.34638
+],
   "geometry": {"coordinates":[-110.997258,32.34638],"type":"Point"}
 }

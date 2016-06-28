@@ -2,13 +2,14 @@
   "id": 152942035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.912399,33.465868,-111.912399,33.465868",
     "geom:latitude":33.465868,
     "geom:longitude":-111.912399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7790 E McDowell Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hihealth.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152942035,
-    "wof:lastmodified":1449046423,
+    "wof:lastmodified":1466326826,
     "wof:name":"Hi-Health Supermart",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.912399,33.465868,-111.912399,33.465868],
-  "geometry": {"coordinates":[-111.912399,33.465868],"type":"Point"}
+  "bbox": [
+    -111.912399,
+    33.465868,
+    -111.912399,
+    33.465868
+],
+  "geometry": {"coordinates":[-111.91239899999999,33.465868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169006405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.166044,33.547581,-112.166044,33.547581",
     "geom:latitude":33.547581,
     "geom:longitude":-112.166044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7551 N 50th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169006405,
-    "wof:lastmodified":1449035319,
+    "wof:lastmodified":1466326377,
     "wof:name":"Adam's Quality Pool Svc",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.166044,33.547581,-112.166044,33.547581],
+  "bbox": [
+    -112.166044,
+    33.547581,
+    -112.166044,
+    33.547581
+],
   "geometry": {"coordinates":[-112.166044,33.547581],"type":"Point"}
 }

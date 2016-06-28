@@ -2,13 +2,14 @@
   "id": 153007379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.162918,33.651744,-112.162918,33.651744",
     "geom:latitude":33.651744,
     "geom:longitude":-112.162918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4732 W Villa Maria Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839989,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85839989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153007379,
-    "wof:lastmodified":1449040742,
+    "wof:lastmodified":1466325891,
     "wof:name":"Arizona Power Steam",
     "wof:parent_id":85839989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.162918,33.651744,-112.162918,33.651744],
+  "bbox": [
+    -112.162918,
+    33.651744,
+    -112.162918,
+    33.651744
+],
   "geometry": {"coordinates":[-112.162918,33.651744],"type":"Point"}
 }

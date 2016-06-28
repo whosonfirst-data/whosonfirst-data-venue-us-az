@@ -2,13 +2,14 @@
   "id": 336940615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.859399,33.235601,-111.859399,33.235601",
     "geom:latitude":33.235601,
     "geom:longitude":-111.859399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4913 S Alma School Rd #1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":336940615,
-    "wof:lastmodified":1448997213,
+    "wof:lastmodified":1466330608,
     "wof:name":"Dave Bracklow (Realtor)",
     "wof:parent_id":85839207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "broker"
     ]
 },
-  "bbox": [-111.859399,33.235601,-111.859399,33.235601],
+  "bbox": [
+    -111.859399,
+    33.235601,
+    -111.859399,
+    33.235601
+],
   "geometry": {"coordinates":[-111.859399,33.235601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168906671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.915941,32.232574,-110.915941,32.232574",
     "geom:latitude":32.232574,
     "geom:longitude":-110.915941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3651 E 3rd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168906671,
-    "wof:lastmodified":1449028047,
+    "wof:lastmodified":1466329673,
     "wof:name":"Casa Blanca Condominiums",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.915941,32.232574,-110.915941,32.232574],
+  "bbox": [
+    -110.915941,
+    32.232574,
+    -110.915941,
+    32.232574
+],
   "geometry": {"coordinates":[-110.915941,32.232574],"type":"Point"}
 }

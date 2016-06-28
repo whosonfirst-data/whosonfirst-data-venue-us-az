@@ -2,13 +2,14 @@
   "id": 353712703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.58036,32.687012,-114.58036,32.687012",
     "geom:latitude":32.687012,
     "geom:longitude":-114.58036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3579 E Gila Ridge Rd",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353712703,
-    "wof:lastmodified":1449019345,
+    "wof:lastmodified":1466329955,
     "wof:name":"Caterpillar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-114.58036,32.687012,-114.58036,32.687012],
+  "bbox": [
+    -114.58036,
+    32.687012,
+    -114.58036,
+    32.687012
+],
   "geometry": {"coordinates":[-114.58036,32.687012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169257521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.187739,33.620056,-112.187739,33.620056",
     "geom:latitude":33.620056,
     "geom:longitude":-112.187739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14817 N 60th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846927,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85846927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169257521,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1466332550,
     "wof:name":"Callahan's Remodeling",
     "wof:parent_id":85846927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.187739,33.620056,-112.187739,33.620056],
-  "geometry": {"coordinates":[-112.187739,33.620056],"type":"Point"}
+  "bbox": [
+    -112.187739,
+    33.620056,
+    -112.187739,
+    33.620056
+],
+  "geometry": {"coordinates":[-112.18773899999999,33.620056],"type":"Point"}
 }

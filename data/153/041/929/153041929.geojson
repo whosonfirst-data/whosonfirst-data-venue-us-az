@@ -2,13 +2,14 @@
   "id": 153041929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.015457,35.194069,-114.015457,35.194069",
     "geom:latitude":35.194069,
     "geom:longitude":-114.015457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 Lillie Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153041929,
-    "wof:lastmodified":1449040503,
+    "wof:lastmodified":1466326608,
     "wof:name":"Permission Granted Permit Svc",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.015457,35.194069,-114.015457,35.194069],
+  "bbox": [
+    -114.015457,
+    35.194069,
+    -114.015457,
+    35.194069
+],
   "geometry": {"coordinates":[-114.015457,35.194069],"type":"Point"}
 }

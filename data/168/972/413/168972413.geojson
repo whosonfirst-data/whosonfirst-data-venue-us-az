@@ -2,13 +2,14 @@
   "id": 168972413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962526,33.578724,-111.962526,33.578724",
     "geom:latitude":33.578724,
     "geom:longitude":-111.962526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5528 E Cheryl Dr",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858855,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168972413,
-    "wof:lastmodified":1449028159,
+    "wof:lastmodified":1466331283,
     "wof:name":"Syncor Overseas Ltd",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.962526,33.578724,-111.962526,33.578724],
+  "bbox": [
+    -111.962526,
+    33.578724,
+    -111.962526,
+    33.578724
+],
   "geometry": {"coordinates":[-111.962526,33.578724],"type":"Point"}
 }

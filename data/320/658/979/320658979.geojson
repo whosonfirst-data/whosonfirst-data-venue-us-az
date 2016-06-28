@@ -2,13 +2,14 @@
   "id": 320658979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.106791,33.441319,-112.106791,33.441319",
     "geom:latitude":33.441319,
     "geom:longitude":-112.106791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 W Grant St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320658979,
-    "wof:lastmodified":1449011184,
+    "wof:lastmodified":1466327237,
     "wof:name":"Pro Pipe Svc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.106791,33.441319,-112.106791,33.441319],
+  "bbox": [
+    -112.106791,
+    33.441319,
+    -112.106791,
+    33.441319
+],
   "geometry": {"coordinates":[-112.106791,33.441319],"type":"Point"}
 }

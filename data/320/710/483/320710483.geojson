@@ -2,13 +2,14 @@
   "id": 320710483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040986,33.512888,-112.040986,33.512888",
     "geom:latitude":33.512888,
     "geom:longitude":-112.040986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 E Colter St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320710483,
-    "wof:lastmodified":1449011480,
+    "wof:lastmodified":1466328250,
     "wof:name":"Parks And Recreation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-112.040986,33.512888,-112.040986,33.512888],
+  "bbox": [
+    -112.040986,
+    33.512888,
+    -112.040986,
+    33.512888
+],
   "geometry": {"coordinates":[-112.040986,33.512888],"type":"Point"}
 }

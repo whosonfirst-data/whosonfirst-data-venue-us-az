@@ -2,13 +2,14 @@
   "id": 153049093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917281,33.414846,-111.917281,33.414846",
     "geom:latitude":33.414846,
     "geom:longitude":-111.917281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 E Apache Blvd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881403,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153049093,
-    "wof:lastmodified":1449040573,
+    "wof:lastmodified":1466327104,
     "wof:name":"Draven Alexander's New Age",
     "wof:parent_id":85881403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.917281,33.414846,-111.917281,33.414846],
+  "bbox": [
+    -111.917281,
+    33.414846,
+    -111.917281,
+    33.414846
+],
   "geometry": {"coordinates":[-111.917281,33.414846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336814593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.858713,33.376484,-111.858713,33.376484",
     "geom:latitude":33.376484,
     "geom:longitude":-111.858713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 S Alma School Rd Ste 19",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336814593,
-    "wof:lastmodified":1448997143,
+    "wof:lastmodified":1466329705,
     "wof:name":"Baby Bargains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "children's"
     ]
 },
-  "bbox": [-111.858713,33.376484,-111.858713,33.376484],
-  "geometry": {"coordinates":[-111.858713,33.376484],"type":"Point"}
+  "bbox": [
+    -111.858713,
+    33.376484,
+    -111.858713,
+    33.376484
+],
+  "geometry": {"coordinates":[-111.85871299999999,33.376484],"type":"Point"}
 }

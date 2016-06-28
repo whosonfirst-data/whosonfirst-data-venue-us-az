@@ -2,13 +2,14 @@
   "id": 320640145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018909,33.465777,-112.018909,33.465777",
     "geom:latitude":33.465777,
     "geom:longitude":-112.018909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 E Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320640145,
-    "wof:lastmodified":1449012873,
+    "wof:lastmodified":1466326761,
     "wof:name":"Standard Restaurant Supply",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-112.018909,33.465777,-112.018909,33.465777],
-  "geometry": {"coordinates":[-112.018909,33.465777],"type":"Point"}
+  "bbox": [
+    -112.018909,
+    33.465777,
+    -112.018909,
+    33.465777
+],
+  "geometry": {"coordinates":[-112.01890899999999,33.465777],"type":"Point"}
 }

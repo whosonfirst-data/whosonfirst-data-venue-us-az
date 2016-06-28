@@ -2,13 +2,14 @@
   "id": 169002887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.1394,33.422556,-112.1394,33.422556",
     "geom:latitude":33.422556,
     "geom:longitude":-112.1394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 W Lower Buckeye Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169002887,
-    "wof:lastmodified":1449035363,
+    "wof:lastmodified":1466325951,
     "wof:name":"Brown-Strauss Steel",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.1394,33.422556,-112.1394,33.422556],
-  "geometry": {"coordinates":[-112.1394,33.422556],"type":"Point"}
+  "bbox": [
+    -112.1394,
+    33.422556,
+    -112.1394,
+    33.422556
+],
+  "geometry": {"coordinates":[-112.13939999999999,33.422556],"type":"Point"}
 }

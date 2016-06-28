@@ -2,13 +2,14 @@
   "id": 353835241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960979,32.253503,-110.960979,32.253503",
     "geom:latitude":32.253503,
     "geom:longitude":-110.960979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2571 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353835241,
-    "wof:lastmodified":1449018624,
+    "wof:lastmodified":1466330798,
     "wof:name":"Thrive A Chiropractic Wellness Center",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-110.960979,32.253503,-110.960979,32.253503],
-  "geometry": {"coordinates":[-110.960979,32.253503],"type":"Point"}
+  "bbox": [
+    -110.960979,
+    32.253503,
+    -110.960979,
+    32.253503
+],
+  "geometry": {"coordinates":[-110.96097899999999,32.253503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153073601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.813286,33.384252,-111.813286,33.384252",
     "geom:latitude":33.384252,
     "geom:longitude":-111.813286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 S Nevada Way",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153073601,
-    "wof:lastmodified":1449040387,
+    "wof:lastmodified":1466328489,
     "wof:name":"Pcb Design & Assembly",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.813286,33.384252,-111.813286,33.384252],
-  "geometry": {"coordinates":[-111.813286,33.384252],"type":"Point"}
+  "bbox": [
+    -111.813286,
+    33.384252,
+    -111.813286,
+    33.384252
+],
+  "geometry": {"coordinates":[-111.81328600000001,33.384252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168965043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010816,33.590429,-112.010816,33.590429",
     "geom:latitude":33.590429,
     "geom:longitude":-112.010816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3249 E Lupine Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168965043,
-    "wof:lastmodified":1449028311,
+    "wof:lastmodified":1466331312,
     "wof:name":"Mr Honey Do Svc",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010816,33.590429,-112.010816,33.590429],
-  "geometry": {"coordinates":[-112.010816,33.590429],"type":"Point"}
+  "bbox": [
+    -112.010816,
+    33.590429,
+    -112.010816,
+    33.590429
+],
+  "geometry": {"coordinates":[-112.01081600000001,33.590429],"type":"Point"}
 }

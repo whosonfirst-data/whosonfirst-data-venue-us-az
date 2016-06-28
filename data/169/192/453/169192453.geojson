@@ -2,13 +2,14 @@
   "id": 169192453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.300435,33.637361,-112.300435,33.637361",
     "geom:latitude":33.637361,
     "geom:longitude":-112.300435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11017 W Campana Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169192453,
-    "wof:lastmodified":1449035017,
+    "wof:lastmodified":1466332083,
     "wof:name":"Ottomar Brokerage",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.300435,33.637361,-112.300435,33.637361],
-  "geometry": {"coordinates":[-112.300435,33.637361],"type":"Point"}
+  "bbox": [
+    -112.300435,
+    33.637361,
+    -112.300435,
+    33.637361
+],
+  "geometry": {"coordinates":[-112.30043499999999,33.637361],"type":"Point"}
 }

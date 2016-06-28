@@ -2,13 +2,14 @@
   "id": 320709667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.018797,33.531231,-112.018797,33.531231",
     "geom:latitude":33.531231,
     "geom:longitude":-112.018797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3034 E Sierra Vista Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320709667,
-    "wof:lastmodified":1449012009,
+    "wof:lastmodified":1466328240,
     "wof:name":"Dr Stephen Shr Winograd",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.018797,33.531231,-112.018797,33.531231],
-  "geometry": {"coordinates":[-112.018797,33.531231],"type":"Point"}
+  "bbox": [
+    -112.018797,
+    33.531231,
+    -112.018797,
+    33.531231
+],
+  "geometry": {"coordinates":[-112.01879700000001,33.531231],"type":"Point"}
 }

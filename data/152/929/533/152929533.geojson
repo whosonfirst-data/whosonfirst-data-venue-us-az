@@ -2,13 +2,14 @@
   "id": 152929533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.045436,34.249677,-110.045436,34.249677",
     "geom:latitude":34.249677,
     "geom:longitude":-110.045436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W McNeil",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152929533,
-    "wof:lastmodified":1449046076,
+    "wof:lastmodified":1466325943,
     "wof:name":"Motor Vehicle Div",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.045436,34.249677,-110.045436,34.249677],
+  "bbox": [
+    -110.045436,
+    34.249677,
+    -110.045436,
+    34.249677
+],
   "geometry": {"coordinates":[-110.045436,34.249677],"type":"Point"}
 }

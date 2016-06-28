@@ -2,13 +2,14 @@
   "id": 168974713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.842301,32.250838,-110.842301,32.250838",
     "geom:latitude":32.250838,
     "geom:longitude":-110.842301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7049 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168974713,
-    "wof:lastmodified":1449028487,
+    "wof:lastmodified":1466331370,
     "wof:name":"Vfi Business Products",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.842301,32.250838,-110.842301,32.250838],
-  "geometry": {"coordinates":[-110.842301,32.250838],"type":"Point"}
+  "bbox": [
+    -110.842301,
+    32.250838,
+    -110.842301,
+    32.250838
+],
+  "geometry": {"coordinates":[-110.84230100000001,32.250838],"type":"Point"}
 }

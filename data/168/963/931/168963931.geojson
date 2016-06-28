@@ -2,13 +2,14 @@
   "id": 168963931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923492,33.616032,-111.923492,33.616032",
     "geom:latitude":33.616032,
     "geom:longitude":-111.923492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 E Evans Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880929,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168963931,
-    "wof:lastmodified":1449027859,
+    "wof:lastmodified":1466331253,
     "wof:name":"Air Services International LLC",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.923492,33.616032,-111.923492,33.616032],
+  "bbox": [
+    -111.923492,
+    33.616032,
+    -111.923492,
+    33.616032
+],
   "geometry": {"coordinates":[-111.923492,33.616032],"type":"Point"}
 }

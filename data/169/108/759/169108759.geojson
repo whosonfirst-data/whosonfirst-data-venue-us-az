@@ -2,13 +2,14 @@
   "id": 169108759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.746815,32.871062,-111.746815,32.871062",
     "geom:latitude":32.871062,
     "geom:longitude":-111.746815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 State Hwy 84",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169108759,
-    "wof:lastmodified":1449032744,
+    "wof:lastmodified":1466331134,
     "wof:name":"Parks Construction Inc",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.746815,32.871062,-111.746815,32.871062],
+  "bbox": [
+    -111.746815,
+    32.871062,
+    -111.746815,
+    32.871062
+],
   "geometry": {"coordinates":[-111.746815,32.871062],"type":"Point"}
 }

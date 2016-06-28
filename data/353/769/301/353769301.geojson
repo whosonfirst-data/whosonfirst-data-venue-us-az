@@ -2,13 +2,14 @@
   "id": 353769301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.820766,33.408154,-110.820766,33.408154",
     "geom:latitude":33.408154,
     "geom:longitude":-110.820766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5482 E Roberts Dr",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353769301,
-    "wof:lastmodified":1449019105,
+    "wof:lastmodified":1466330227,
     "wof:name":"D & N Electric",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-110.820766,33.408154,-110.820766,33.408154],
-  "geometry": {"coordinates":[-110.820766,33.408154],"type":"Point"}
+  "bbox": [
+    -110.820766,
+    33.408154,
+    -110.820766,
+    33.408154
+],
+  "geometry": {"coordinates":[-110.82076600000001,33.408154],"type":"Point"}
 }

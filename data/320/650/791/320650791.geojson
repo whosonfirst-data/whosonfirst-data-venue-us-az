@@ -2,13 +2,14 @@
   "id": 320650791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.126691,33.442254,-112.126691,33.442254",
     "geom:latitude":33.442254,
     "geom:longitude":-112.126691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 W Lincoln St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320650791,
-    "wof:lastmodified":1449013533,
+    "wof:lastmodified":1466327023,
     "wof:name":"Rm Fencing",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.126691,33.442254,-112.126691,33.442254],
-  "geometry": {"coordinates":[-112.126691,33.442254],"type":"Point"}
+  "bbox": [
+    -112.126691,
+    33.442254,
+    -112.126691,
+    33.442254
+],
+  "geometry": {"coordinates":[-112.12669099999999,33.442254],"type":"Point"}
 }

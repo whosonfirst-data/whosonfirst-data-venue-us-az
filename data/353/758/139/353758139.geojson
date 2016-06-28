@@ -2,13 +2,14 @@
   "id": 353758139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.292005,33.463183,-112.292005,33.463183",
     "geom:latitude":33.463183,
     "geom:longitude":-112.292005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10815 W McDowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353758139,
-    "wof:lastmodified":1449019028,
+    "wof:lastmodified":1466330137,
     "wof:name":"Rapid STD/HIV Testing Center",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.292005,33.463183,-112.292005,33.463183],
+  "bbox": [
+    -112.292005,
+    33.463183,
+    -112.292005,
+    33.463183
+],
   "geometry": {"coordinates":[-112.292005,33.463183],"type":"Point"}
 }

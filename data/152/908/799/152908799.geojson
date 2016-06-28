@@ -2,13 +2,14 @@
   "id": 152908799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.219244,33.797592,-112.219244,33.797592",
     "geom:latitude":33.797592,
     "geom:longitude":-112.219244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8415 W Carefree Hwy",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152908799,
-    "wof:lastmodified":1449046928,
+    "wof:lastmodified":1466325753,
     "wof:name":"Wild Horse West",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.219244,33.797592,-112.219244,33.797592],
+  "bbox": [
+    -112.219244,
+    33.797592,
+    -112.219244,
+    33.797592
+],
   "geometry": {"coordinates":[-112.219244,33.797592],"type":"Point"}
 }

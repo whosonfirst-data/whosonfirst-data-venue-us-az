@@ -2,13 +2,14 @@
   "id": 169022325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909254,32.190952,-110.909254,32.190952",
     "geom:latitude":32.190952,
     "geom:longitude":-110.909254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2638 S Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169022325,
-    "wof:lastmodified":1449033780,
+    "wof:lastmodified":1466326172,
     "wof:name":"TCM Masonry",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909254,32.190952,-110.909254,32.190952],
+  "bbox": [
+    -110.909254,
+    32.190952,
+    -110.909254,
+    32.190952
+],
   "geometry": {"coordinates":[-110.909254,32.190952],"type":"Point"}
 }

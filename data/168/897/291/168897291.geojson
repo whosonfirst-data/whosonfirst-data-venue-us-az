@@ -2,13 +2,14 @@
   "id": 168897291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924487,32.19095,-110.924487,32.19095",
     "geom:latitude":32.19095,
     "geom:longitude":-110.924487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3390 E 36th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168897291,
-    "wof:lastmodified":1449028460,
+    "wof:lastmodified":1466329315,
     "wof:name":"Arizona Freight Car Repair Inc",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.924487,32.19095,-110.924487,32.19095],
+  "bbox": [
+    -110.924487,
+    32.19095,
+    -110.924487,
+    32.19095
+],
   "geometry": {"coordinates":[-110.924487,32.19095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168820843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.347374,34.496044,-114.347374,34.496044",
     "geom:latitude":34.496044,
     "geom:longitude":-114.347374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Acoma Blvd W",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":168820843,
-    "wof:lastmodified":1449028171,
+    "wof:lastmodified":1466326076,
     "wof:name":"Bill's Auto & Truck Repair",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.347374,34.496044,-114.347374,34.496044],
+  "bbox": [
+    -114.347374,
+    34.496044,
+    -114.347374,
+    34.496044
+],
   "geometry": {"coordinates":[-114.347374,34.496044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169357601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020242,33.602593,-112.020242,33.602593",
     "geom:latitude":33.602593,
     "geom:longitude":-112.020242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 E Windrose Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808751,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169357601,
-    "wof:lastmodified":1449035552,
+    "wof:lastmodified":1466333642,
     "wof:name":"National Eagle Trading Inc",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.020242,33.602593,-112.020242,33.602593],
+  "bbox": [
+    -112.020242,
+    33.602593,
+    -112.020242,
+    33.602593
+],
   "geometry": {"coordinates":[-112.020242,33.602593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168936475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012966,33.458817,-112.012966,33.458817",
     "geom:latitude":33.458817,
     "geom:longitude":-112.012966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168936475,
-    "wof:lastmodified":1449028008,
+    "wof:lastmodified":1466330710,
     "wof:name":"Greater Tucson Lions",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.012966,33.458817,-112.012966,33.458817],
-  "geometry": {"coordinates":[-112.012966,33.458817],"type":"Point"}
+  "bbox": [
+    -112.012966,
+    33.458817,
+    -112.012966,
+    33.458817
+],
+  "geometry": {"coordinates":[-112.01296600000001,33.458817],"type":"Point"}
 }

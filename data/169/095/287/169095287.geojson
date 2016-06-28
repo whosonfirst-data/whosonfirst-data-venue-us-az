@@ -2,13 +2,14 @@
   "id": 169095287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034615,33.618322,-112.034615,33.618322",
     "geom:latitude":33.618322,
     "geom:longitude":-112.034615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14401 N 23rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831383,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169095287,
-    "wof:lastmodified":1449034358,
+    "wof:lastmodified":1466330674,
     "wof:name":"Sundset",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.034615,33.618322,-112.034615,33.618322],
+  "bbox": [
+    -112.034615,
+    33.618322,
+    -112.034615,
+    33.618322
+],
   "geometry": {"coordinates":[-112.034615,33.618322],"type":"Point"}
 }

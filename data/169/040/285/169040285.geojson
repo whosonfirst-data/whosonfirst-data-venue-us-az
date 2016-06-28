@@ -2,13 +2,14 @@
   "id": 169040285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.721759,33.361526,-111.721759,33.361526",
     "geom:latitude":33.361526,
     "geom:longitude":-111.721759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6429 S Higley Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169040285,
-    "wof:lastmodified":1449035869,
+    "wof:lastmodified":1466327774,
     "wof:name":"Shea",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.721759,33.361526,-111.721759,33.361526],
-  "geometry": {"coordinates":[-111.721759,33.361526],"type":"Point"}
+  "bbox": [
+    -111.721759,
+    33.361526,
+    -111.721759,
+    33.361526
+],
+  "geometry": {"coordinates":[-111.72175900000001,33.361526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336962705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930338,33.495718,-111.930338,33.495718",
     "geom:latitude":33.495718,
     "geom:longitude":-111.930338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 N Goldwater Blvd Ste. 101",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336962705,
-    "wof:lastmodified":1448997576,
+    "wof:lastmodified":1466330917,
     "wof:name":"Pope Estates Arizona Inc.",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-111.930338,33.495718,-111.930338,33.495718],
-  "geometry": {"coordinates":[-111.930338,33.495718],"type":"Point"}
+  "bbox": [
+    -111.930338,
+    33.495718,
+    -111.930338,
+    33.495718
+],
+  "geometry": {"coordinates":[-111.93033800000001,33.495718],"type":"Point"}
 }

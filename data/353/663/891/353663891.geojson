@@ -2,13 +2,14 @@
   "id": 353663891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.287388,34.15053,-114.287388,34.15053",
     "geom:latitude":34.15053,
     "geom:longitude":-114.287388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 S Hopi Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353663891,
-    "wof:lastmodified":1449020119,
+    "wof:lastmodified":1466329329,
     "wof:name":"Park Mesa Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.287388,34.15053,-114.287388,34.15053],
-  "geometry": {"coordinates":[-114.287388,34.15053],"type":"Point"}
+  "bbox": [
+    -114.287388,
+    34.15053,
+    -114.287388,
+    34.15053
+],
+  "geometry": {"coordinates":[-114.28738800000001,34.15053],"type":"Point"}
 }

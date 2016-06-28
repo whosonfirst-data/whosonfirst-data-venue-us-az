@@ -2,13 +2,14 @@
   "id": 153091625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.804124,32.095024,-110.804124,32.095024",
     "geom:latitude":32.095024,
     "geom:longitude":-110.804124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8755 S Rita Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153091625,
-    "wof:lastmodified":1449040376,
+    "wof:lastmodified":1466329452,
     "wof:name":"Slim Fast Foods Co",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.804124,32.095024,-110.804124,32.095024],
+  "bbox": [
+    -110.804124,
+    32.095024,
+    -110.804124,
+    32.095024
+],
   "geometry": {"coordinates":[-110.804124,32.095024],"type":"Point"}
 }

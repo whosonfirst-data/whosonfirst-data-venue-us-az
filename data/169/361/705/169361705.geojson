@@ -2,13 +2,14 @@
   "id": 169361705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960937,32.217505,-110.960937,32.217505",
     "geom:latitude":32.217505,
     "geom:longitude":-110.960937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Toole Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.shopnatural.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169361705,
-    "wof:lastmodified":1449035083,
+    "wof:lastmodified":1466333655,
     "wof:name":"Shop Natural Market",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960937,32.217505,-110.960937,32.217505],
+  "bbox": [
+    -110.960937,
+    32.217505,
+    -110.960937,
+    32.217505
+],
   "geometry": {"coordinates":[-110.960937,32.217505],"type":"Point"}
 }

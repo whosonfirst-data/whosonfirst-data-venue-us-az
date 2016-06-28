@@ -2,13 +2,14 @@
   "id": 169033145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023059,35.214011,-114.023059,35.214011",
     "geom:latitude":35.214011,
     "geom:longitude":-114.023059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 Detroit Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169033145,
-    "wof:lastmodified":1449033363,
+    "wof:lastmodified":1466327140,
     "wof:name":"Kingman Presbyterian Church",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.023059,35.214011,-114.023059,35.214011],
+  "bbox": [
+    -114.023059,
+    35.214011,
+    -114.023059,
+    35.214011
+],
   "geometry": {"coordinates":[-114.023059,35.214011],"type":"Point"}
 }

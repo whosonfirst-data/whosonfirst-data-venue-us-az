@@ -2,13 +2,14 @@
   "id": 336614081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.224375,33.480023,-112.224375,33.480023",
     "geom:latitude":33.480023,
     "geom:longitude":-112.224375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7745 W. Thomas Rd.",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336614081,
-    "wof:lastmodified":1448998049,
+    "wof:lastmodified":1466326221,
     "wof:name":"Pollo Campero",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.224375,33.480023,-112.224375,33.480023],
-  "geometry": {"coordinates":[-112.224375,33.480023],"type":"Point"}
+  "bbox": [
+    -112.224375,
+    33.480023,
+    -112.224375,
+    33.480023
+],
+  "geometry": {"coordinates":[-112.22437499999999,33.480023],"type":"Point"}
 }

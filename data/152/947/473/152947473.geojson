@@ -2,13 +2,14 @@
   "id": 152947473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977974,32.250572,-110.977974,32.250572",
     "geom:latitude":32.250572,
     "geom:longitude":-110.977974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152947473,
-    "wof:lastmodified":1449047644,
+    "wof:lastmodified":1466327202,
     "wof:name":"El Guero Canelo",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977974,32.250572,-110.977974,32.250572],
+  "bbox": [
+    -110.977974,
+    32.250572,
+    -110.977974,
+    32.250572
+],
   "geometry": {"coordinates":[-110.977974,32.250572],"type":"Point"}
 }

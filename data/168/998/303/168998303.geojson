@@ -2,13 +2,14 @@
   "id": 168998303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.278964,31.559814,-110.278964,31.559814",
     "geom:latitude":31.559814,
     "geom:longitude":-110.278964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1854 Viola Pl",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168998303,
-    "wof:lastmodified":1449028006,
+    "wof:lastmodified":1466331592,
     "wof:name":"Premier Kitchen & Bath",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.278964,31.559814,-110.278964,31.559814],
+  "bbox": [
+    -110.278964,
+    31.559814,
+    -110.278964,
+    31.559814
+],
   "geometry": {"coordinates":[-110.278964,31.559814],"type":"Point"}
 }

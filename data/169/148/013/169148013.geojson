@@ -2,13 +2,14 @@
   "id": 169148013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.252664,33.558911,-112.252664,33.558911",
     "geom:latitude":33.558911,
     "geom:longitude":-112.252664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9009 W Butler Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169148013,
-    "wof:lastmodified":1449035445,
+    "wof:lastmodified":1466331784,
     "wof:name":"Jones Carpet Upholstery",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.252664,33.558911,-112.252664,33.558911],
+  "bbox": [
+    -112.252664,
+    33.558911,
+    -112.252664,
+    33.558911
+],
   "geometry": {"coordinates":[-112.252664,33.558911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169334049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.503181,34.517301,-112.503181,34.517301",
     "geom:latitude":34.517301,
     "geom:longitude":-112.503181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 E Timberridge Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.newproductsuccess.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169334049,
-    "wof:lastmodified":1449033652,
+    "wof:lastmodified":1466333308,
     "wof:name":"Pomeroy International",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.503181,34.517301,-112.503181,34.517301],
+  "bbox": [
+    -112.503181,
+    34.517301,
+    -112.503181,
+    34.517301
+],
   "geometry": {"coordinates":[-112.503181,34.517301],"type":"Point"}
 }

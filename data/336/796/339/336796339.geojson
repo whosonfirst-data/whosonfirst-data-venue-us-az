@@ -2,13 +2,14 @@
   "id": 336796339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.805479,33.388813,-111.805479,33.388813",
     "geom:latitude":33.388813,
     "geom:longitude":-111.805479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 S Stapley Dr Ste 13",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":336796339,
-    "wof:lastmodified":1448997458,
+    "wof:lastmodified":1466329359,
     "wof:name":"Terros Inc",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "counselor"
     ]
 },
-  "bbox": [-111.805479,33.388813,-111.805479,33.388813],
-  "geometry": {"coordinates":[-111.805479,33.388813],"type":"Point"}
+  "bbox": [
+    -111.805479,
+    33.388813,
+    -111.805479,
+    33.388813
+],
+  "geometry": {"coordinates":[-111.80547900000001,33.388813],"type":"Point"}
 }

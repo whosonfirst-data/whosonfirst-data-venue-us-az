@@ -2,13 +2,14 @@
   "id": 152936701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.248861,33.625885,-112.248861,33.625885",
     "geom:latitude":33.625885,
     "geom:longitude":-112.248861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8815 W Karen Lee Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812431,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85812431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152936701,
-    "wof:lastmodified":1449045849,
+    "wof:lastmodified":1466326446,
     "wof:name":"Bingham Medical Billing",
     "wof:parent_id":85812431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.248861,33.625885,-112.248861,33.625885],
-  "geometry": {"coordinates":[-112.248861,33.625885],"type":"Point"}
+  "bbox": [
+    -112.248861,
+    33.625885,
+    -112.248861,
+    33.625885
+],
+  "geometry": {"coordinates":[-112.24886100000001,33.625885],"type":"Point"}
 }

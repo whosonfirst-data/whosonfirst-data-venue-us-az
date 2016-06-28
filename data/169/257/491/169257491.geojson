@@ -2,13 +2,14 @@
   "id": 169257491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.345536,33.670306,-112.345536,33.670306",
     "geom:latitude":33.670306,
     "geom:longitude":-112.345536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20407 N 133rd Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169257491,
-    "wof:lastmodified":1449033654,
+    "wof:lastmodified":1466332546,
     "wof:name":"Desert Wholesale Corporation",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.345536,33.670306,-112.345536,33.670306],
+  "bbox": [
+    -112.345536,
+    33.670306,
+    -112.345536,
+    33.670306
+],
   "geometry": {"coordinates":[-112.345536,33.670306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168970751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.923063,32.195937,-110.923063,32.195937",
     "geom:latitude":32.195937,
     "geom:longitude":-110.923063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 S Kelvin Stra",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168970751,
-    "wof:lastmodified":1449028573,
+    "wof:lastmodified":1466331270,
     "wof:name":"Leo L Ward Pumping-All City",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.923063,32.195937,-110.923063,32.195937],
+  "bbox": [
+    -110.923063,
+    32.195937,
+    -110.923063,
+    32.195937
+],
   "geometry": {"coordinates":[-110.923063,32.195937],"type":"Point"}
 }

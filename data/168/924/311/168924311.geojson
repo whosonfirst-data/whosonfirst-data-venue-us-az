@@ -2,13 +2,14 @@
   "id": 168924311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.29817,31.554568,-110.29817,31.554568",
     "geom:latitude":31.554568,
     "geom:longitude":-110.29817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 E Fry Blvd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168924311,
-    "wof:lastmodified":1449027976,
+    "wof:lastmodified":1466330431,
     "wof:name":"C2i2com",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.29817,31.554568,-110.29817,31.554568],
+  "bbox": [
+    -110.29817,
+    31.554568,
+    -110.29817,
+    31.554568
+],
   "geometry": {"coordinates":[-110.29817,31.554568],"type":"Point"}
 }

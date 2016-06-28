@@ -2,13 +2,14 @@
   "id": 169108549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.533146,31.344386,-109.533146,31.344386",
     "geom:latitude":31.344386,
     "geom:longitude":-109.533146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 E 10th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169108549,
-    "wof:lastmodified":1449032739,
+    "wof:lastmodified":1466331044,
     "wof:name":"Lube Express",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.533146,31.344386,-109.533146,31.344386],
+  "bbox": [
+    -109.533146,
+    31.344386,
+    -109.533146,
+    31.344386
+],
   "geometry": {"coordinates":[-109.533146,31.344386],"type":"Point"}
 }

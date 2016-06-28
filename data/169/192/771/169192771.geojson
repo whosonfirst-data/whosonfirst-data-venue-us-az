@@ -2,13 +2,14 @@
   "id": 169192771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986121,32.336964,-110.986121,32.336964",
     "geom:latitude":32.336964,
     "geom:longitude":-110.986121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7031 N Giaconda Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169192771,
-    "wof:lastmodified":1449035016,
+    "wof:lastmodified":1466332113,
     "wof:name":"Sundance Painting Co",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.986121,32.336964,-110.986121,32.336964],
+  "bbox": [
+    -110.986121,
+    32.336964,
+    -110.986121,
+    32.336964
+],
   "geometry": {"coordinates":[-110.986121,32.336964],"type":"Point"}
 }

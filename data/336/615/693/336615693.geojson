@@ -2,13 +2,14 @@
   "id": 336615693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204607,33.494843,-112.204607,33.494843",
     "geom:latitude":33.494843,
     "geom:longitude":-112.204607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336615693,
-    "wof:lastmodified":1448997281,
+    "wof:lastmodified":1466326250,
     "wof:name":"Pancho Taqueria",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-112.204607,33.494843,-112.204607,33.494843],
+  "bbox": [
+    -112.204607,
+    33.494843,
+    -112.204607,
+    33.494843
+],
   "geometry": {"coordinates":[-112.204607,33.494843],"type":"Point"}
 }

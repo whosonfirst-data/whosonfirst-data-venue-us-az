@@ -2,13 +2,14 @@
   "id": 353807465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967458,32.296201,-110.967458,32.296201",
     "geom:latitude":32.296201,
     "geom:longitude":-110.967458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353807465,
-    "wof:lastmodified":1449018916,
+    "wof:lastmodified":1466330434,
     "wof:name":"Barbara's Electrolysis",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "electrolysis"
     ]
 },
-  "bbox": [-110.967458,32.296201,-110.967458,32.296201],
-  "geometry": {"coordinates":[-110.967458,32.296201],"type":"Point"}
+  "bbox": [
+    -110.967458,
+    32.296201,
+    -110.967458,
+    32.296201
+],
+  "geometry": {"coordinates":[-110.96745799999999,32.296201],"type":"Point"}
 }

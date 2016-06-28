@@ -2,13 +2,14 @@
   "id": 168839459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220079,33.621554,-112.220079,33.621554",
     "geom:latitude":33.621554,
     "geom:longitude":-112.220079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15188 N 75th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877799,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168839459,
-    "wof:lastmodified":1449028247,
+    "wof:lastmodified":1466327041,
     "wof:name":"SD Insurance Services",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220079,33.621554,-112.220079,33.621554],
+  "bbox": [
+    -112.220079,
+    33.621554,
+    -112.220079,
+    33.621554
+],
   "geometry": {"coordinates":[-112.220079,33.621554],"type":"Point"}
 }

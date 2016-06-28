@@ -2,13 +2,14 @@
   "id": 169327927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.21576,33.690586,-112.21576,33.690586",
     "geom:latitude":33.690586,
     "geom:longitude":-112.21576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22830 N 73rd Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877795,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169327927,
-    "wof:lastmodified":1449032929,
+    "wof:lastmodified":1466333472,
     "wof:name":"R & L Properties",
     "wof:parent_id":85877795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.21576,33.690586,-112.21576,33.690586],
+  "bbox": [
+    -112.21576,
+    33.690586,
+    -112.21576,
+    33.690586
+],
   "geometry": {"coordinates":[-112.21576,33.690586],"type":"Point"}
 }

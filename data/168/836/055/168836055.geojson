@@ -2,13 +2,14 @@
   "id": 168836055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851315,33.222536,-111.851315,33.222536",
     "geom:latitude":33.222536,
     "geom:longitude":-111.851315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10702 E Cedar Waxwing Dr",
     "sg:city":"Sun Lakes",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876665,
+        85688719,
         85633793,
         85919035,
         102087421,
-        85688719
+        85876665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168836055,
-    "wof:lastmodified":1449028280,
+    "wof:lastmodified":1466326669,
     "wof:name":"French Contracting Inc",
     "wof:parent_id":85876665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.851315,33.222536,-111.851315,33.222536],
+  "bbox": [
+    -111.851315,
+    33.222536,
+    -111.851315,
+    33.222536
+],
   "geometry": {"coordinates":[-111.851315,33.222536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152929091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.781523,33.431276,-111.781523,33.431276",
     "geom:latitude":33.431276,
     "geom:longitude":-111.781523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 E Enrose St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152929091,
-    "wof:lastmodified":1449046078,
+    "wof:lastmodified":1466325913,
     "wof:name":"Specialized Cooling & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.781523,33.431276,-111.781523,33.431276],
-  "geometry": {"coordinates":[-111.781523,33.431276],"type":"Point"}
+  "bbox": [
+    -111.781523,
+    33.431276,
+    -111.781523,
+    33.431276
+],
+  "geometry": {"coordinates":[-111.78152300000001,33.431276],"type":"Point"}
 }

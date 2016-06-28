@@ -2,13 +2,14 @@
   "id": 169220023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.205587,33.650585,-112.205587,33.650585",
     "geom:latitude":33.650585,
     "geom:longitude":-112.205587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18201 N 68th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169220023,
-    "wof:lastmodified":1449035848,
+    "wof:lastmodified":1466332269,
     "wof:name":"La Boutique Florist",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.205587,33.650585,-112.205587,33.650585],
-  "geometry": {"coordinates":[-112.205587,33.650585],"type":"Point"}
+  "bbox": [
+    -112.205587,
+    33.650585,
+    -112.205587,
+    33.650585
+],
+  "geometry": {"coordinates":[-112.20558699999999,33.650585],"type":"Point"}
 }

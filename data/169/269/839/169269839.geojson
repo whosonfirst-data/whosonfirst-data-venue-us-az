@@ -2,13 +2,14 @@
   "id": 169269839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.259336,33.518977,-112.259336,33.518977",
     "geom:latitude":33.518977,
     "geom:longitude":-112.259336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 W San Miguel Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877835,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719,
-        85856669,
-        85917479
+        85877835,
+        85917479,
+        85856669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":169269839,
-    "wof:lastmodified":1449034756,
+    "wof:lastmodified":1466332721,
     "wof:name":"Arizona Party Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.259336,33.518977,-112.259336,33.518977],
+  "bbox": [
+    -112.259336,
+    33.518977,
+    -112.259336,
+    33.518977
+],
   "geometry": {"coordinates":[-112.259336,33.518977],"type":"Point"}
 }

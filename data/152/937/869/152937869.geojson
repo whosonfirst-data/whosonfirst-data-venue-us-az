@@ -2,13 +2,14 @@
   "id": 152937869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02839,33.509297,-112.02839,33.509297",
     "geom:latitude":33.509297,
     "geom:longitude":-112.02839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.amctheatres.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806131,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152937869,
-    "wof:lastmodified":1449045181,
+    "wof:lastmodified":1466326531,
     "wof:name":"AMC Esplanade 14 Theatres",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.02839,33.509297,-112.02839,33.509297],
+  "bbox": [
+    -112.02839,
+    33.509297,
+    -112.02839,
+    33.509297
+],
   "geometry": {"coordinates":[-112.02839,33.509297],"type":"Point"}
 }

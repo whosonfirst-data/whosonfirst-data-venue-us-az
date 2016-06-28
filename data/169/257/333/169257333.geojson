@@ -2,13 +2,14 @@
   "id": 169257333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.881999,32.238806,-110.881999,32.238806",
     "geom:latitude":32.238806,
     "geom:longitude":-110.881999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 N Magnolia Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169257333,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1466332526,
     "wof:name":"Alspire Inc",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.881999,32.238806,-110.881999,32.238806],
-  "geometry": {"coordinates":[-110.881999,32.238806],"type":"Point"}
+  "bbox": [
+    -110.881999,
+    32.238806,
+    -110.881999,
+    32.238806
+],
+  "geometry": {"coordinates":[-110.88199899999999,32.238806],"type":"Point"}
 }

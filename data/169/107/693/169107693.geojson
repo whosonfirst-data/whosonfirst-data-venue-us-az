@@ -2,13 +2,14 @@
   "id": 169107693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.371713,33.609341,-112.371713,33.609341",
     "geom:latitude":33.609341,
     "geom:longitude":-112.371713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14344 W Waddell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169107693,
-    "wof:lastmodified":1449032698,
+    "wof:lastmodified":1466331189,
     "wof:name":"West Side Fertilizer Co",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.371713,33.609341,-112.371713,33.609341],
+  "bbox": [
+    -112.371713,
+    33.609341,
+    -112.371713,
+    33.609341
+],
   "geometry": {"coordinates":[-112.371713,33.609341],"type":"Point"}
 }

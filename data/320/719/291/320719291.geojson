@@ -2,13 +2,14 @@
   "id": 320719291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035964,33.512927,-112.035964,33.512927",
     "geom:latitude":33.512927,
     "geom:longitude":-112.035964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 E Colter St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320719291,
-    "wof:lastmodified":1449011732,
+    "wof:lastmodified":1466328595,
     "wof:name":"Bullpen Capital Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-112.035964,33.512927,-112.035964,33.512927],
-  "geometry": {"coordinates":[-112.035964,33.512927],"type":"Point"}
+  "bbox": [
+    -112.035964,
+    33.512927,
+    -112.035964,
+    33.512927
+],
+  "geometry": {"coordinates":[-112.03596400000001,33.512927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353797673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.699275,31.970327,-110.699275,31.970327",
     "geom:latitude":31.970327,
     "geom:longitude":-110.699275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3465 E Calle Agassiz",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353797673,
-    "wof:lastmodified":1449020555,
+    "wof:lastmodified":1466330212,
     "wof:name":"Wilburn Clark",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "broker"
     ]
 },
-  "bbox": [-110.699275,31.970327,-110.699275,31.970327],
+  "bbox": [
+    -110.699275,
+    31.970327,
+    -110.699275,
+    31.970327
+],
   "geometry": {"coordinates":[-110.699275,31.970327],"type":"Point"}
 }

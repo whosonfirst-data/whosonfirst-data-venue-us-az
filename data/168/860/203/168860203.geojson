@@ -2,13 +2,14 @@
   "id": 168860203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.930167,32.243151,-110.930167,32.243151",
     "geom:latitude":32.243151,
     "geom:longitude":-110.930167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2838 E Elm St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168860203,
-    "wof:lastmodified":1449028126,
+    "wof:lastmodified":1466326600,
     "wof:name":"Home Audio-Video Experts Inc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.930167,32.243151,-110.930167,32.243151],
+  "bbox": [
+    -110.930167,
+    32.243151,
+    -110.930167,
+    32.243151
+],
   "geometry": {"coordinates":[-110.930167,32.243151],"type":"Point"}
 }

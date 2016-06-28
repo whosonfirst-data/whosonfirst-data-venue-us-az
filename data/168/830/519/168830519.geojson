@@ -2,13 +2,14 @@
   "id": 168830519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139188,33.674193,-112.139188,33.674193",
     "geom:latitude":33.674193,
     "geom:longitude":-112.139188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 W Irma Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168830519,
-    "wof:lastmodified":1449027945,
+    "wof:lastmodified":1466326007,
     "wof:name":"Tri-C Painting Inc",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.139188,33.674193,-112.139188,33.674193],
+  "bbox": [
+    -112.139188,
+    33.674193,
+    -112.139188,
+    33.674193
+],
   "geometry": {"coordinates":[-112.139188,33.674193],"type":"Point"}
 }

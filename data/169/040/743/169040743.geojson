@@ -2,13 +2,14 @@
   "id": 169040743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.794547,32.285267,-110.794547,32.285267",
     "geom:latitude":32.285267,
     "geom:longitude":-110.794547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9237 E Shonto Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169040743,
-    "wof:lastmodified":1449035873,
+    "wof:lastmodified":1466327811,
     "wof:name":"Laughing Stock Comedy Co",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.794547,32.285267,-110.794547,32.285267],
-  "geometry": {"coordinates":[-110.794547,32.285267],"type":"Point"}
+  "bbox": [
+    -110.794547,
+    32.285267,
+    -110.794547,
+    32.285267
+],
+  "geometry": {"coordinates":[-110.79454699999999,32.285267],"type":"Point"}
 }

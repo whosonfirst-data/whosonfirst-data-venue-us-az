@@ -2,13 +2,14 @@
   "id": 169245023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052031,33.465753,-112.052031,33.465753",
     "geom:latitude":33.465753,
     "geom:longitude":-112.052031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169245023,
-    "wof:lastmodified":1449035856,
+    "wof:lastmodified":1466332624,
     "wof:name":"Pediatric Genetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.052031,33.465753,-112.052031,33.465753],
+  "bbox": [
+    -112.052031,
+    33.465753,
+    -112.052031,
+    33.465753
+],
   "geometry": {"coordinates":[-112.052031,33.465753],"type":"Point"}
 }

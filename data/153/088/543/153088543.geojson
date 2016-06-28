@@ -2,13 +2,14 @@
   "id": 153088543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177541,33.524179,-112.177541,33.524179",
     "geom:latitude":33.524179,
     "geom:longitude":-112.177541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6210 N 55th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153088543,
-    "wof:lastmodified":1449040705,
+    "wof:lastmodified":1466329230,
     "wof:name":"Glendale Iron & Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177541,33.524179,-112.177541,33.524179],
-  "geometry": {"coordinates":[-112.177541,33.524179],"type":"Point"}
+  "bbox": [
+    -112.177541,
+    33.524179,
+    -112.177541,
+    33.524179
+],
+  "geometry": {"coordinates":[-112.17754100000001,33.524179],"type":"Point"}
 }

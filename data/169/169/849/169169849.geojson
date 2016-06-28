@@ -2,13 +2,14 @@
   "id": 169169849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204361,33.550803,-112.204361,33.550803",
     "geom:latitude":33.550803,
     "geom:longitude":-112.204361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7839 N 68th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877805,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169169849,
-    "wof:lastmodified":1449034718,
+    "wof:lastmodified":1466331905,
     "wof:name":"Jas-E Body Paint & Interior",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.204361,33.550803,-112.204361,33.550803],
-  "geometry": {"coordinates":[-112.204361,33.550803],"type":"Point"}
+  "bbox": [
+    -112.204361,
+    33.550803,
+    -112.204361,
+    33.550803
+],
+  "geometry": {"coordinates":[-112.20436100000001,33.550803],"type":"Point"}
 }

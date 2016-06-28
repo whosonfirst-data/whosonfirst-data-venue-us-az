@@ -2,13 +2,14 @@
   "id": 152959055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841889,33.731097,-111.841889,33.731097",
     "geom:latitude":33.731097,
     "geom:longitude":-111.841889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 E Bajada Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85843941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152959055,
-    "wof:lastmodified":1449048458,
+    "wof:lastmodified":1466327902,
     "wof:name":"Corbus Associates Inc Phys",
     "wof:parent_id":85843941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841889,33.731097,-111.841889,33.731097],
-  "geometry": {"coordinates":[-111.841889,33.731097],"type":"Point"}
+  "bbox": [
+    -111.841889,
+    33.731097,
+    -111.841889,
+    33.731097
+],
+  "geometry": {"coordinates":[-111.84188899999999,33.731097],"type":"Point"}
 }

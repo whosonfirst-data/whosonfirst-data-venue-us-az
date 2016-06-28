@@ -2,13 +2,14 @@
   "id": 153091535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909598,32.207538,-110.909598,32.207538",
     "geom:latitude":32.207538,
     "geom:longitude":-110.909598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153091535,
-    "wof:lastmodified":1449040373,
+    "wof:lastmodified":1466329444,
     "wof:name":"Tucson Midtown Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909598,32.207538,-110.909598,32.207538],
+  "bbox": [
+    -110.909598,
+    32.207538,
+    -110.909598,
+    32.207538
+],
   "geometry": {"coordinates":[-110.909598,32.207538],"type":"Point"}
 }

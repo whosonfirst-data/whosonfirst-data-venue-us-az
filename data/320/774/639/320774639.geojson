@@ -2,13 +2,14 @@
   "id": 320774639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.044121,33.590549,-112.044121,33.590549",
     "geom:latitude":33.590549,
     "geom:longitude":-112.044121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11460 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320774639,
-    "wof:lastmodified":1449012720,
+    "wof:lastmodified":1466329318,
     "wof:name":"A2z Water",
     "wof:parent_id":85851187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "systems-equipment"
     ]
 },
-  "bbox": [-112.044121,33.590549,-112.044121,33.590549],
+  "bbox": [
+    -112.044121,
+    33.590549,
+    -112.044121,
+    33.590549
+],
   "geometry": {"coordinates":[-112.044121,33.590549],"type":"Point"}
 }

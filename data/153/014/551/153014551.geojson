@@ -2,13 +2,14 @@
   "id": 153014551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932058,33.493142,-111.932058,33.493142",
     "geom:latitude":33.493142,
     "geom:longitude":-111.932058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6990 E Main St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.davideadler.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153014551,
-    "wof:lastmodified":1449040567,
+    "wof:lastmodified":1466326537,
     "wof:name":"David E Adler Inc Antiques",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.932058,33.493142,-111.932058,33.493142],
+  "bbox": [
+    -111.932058,
+    33.493142,
+    -111.932058,
+    33.493142
+],
   "geometry": {"coordinates":[-111.932058,33.493142],"type":"Point"}
 }

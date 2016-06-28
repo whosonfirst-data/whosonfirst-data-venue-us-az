@@ -2,13 +2,14 @@
   "id": 168938437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.164515,33.488716,-112.164515,33.488716",
     "geom:latitude":33.488716,
     "geom:longitude":-112.164515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4814 W Crittenden Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.relicscreativeworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168938437,
-    "wof:lastmodified":1449028368,
+    "wof:lastmodified":1466330775,
     "wof:name":"Relics Creative Works",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.164515,33.488716,-112.164515,33.488716],
-  "geometry": {"coordinates":[-112.164515,33.488716],"type":"Point"}
+  "bbox": [
+    -112.164515,
+    33.488716,
+    -112.164515,
+    33.488716
+],
+  "geometry": {"coordinates":[-112.16451499999999,33.488716],"type":"Point"}
 }

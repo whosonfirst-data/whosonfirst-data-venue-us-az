@@ -2,13 +2,14 @@
   "id": 169014939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967007,32.286636,-110.967007,32.286636",
     "geom:latitude":32.286636,
     "geom:longitude":-110.967007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Wetmore Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.scriptsave.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169014939,
-    "wof:lastmodified":1449034305,
+    "wof:lastmodified":1466327536,
     "wof:name":"Script Save",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.967007,32.286636,-110.967007,32.286636],
+  "bbox": [
+    -110.967007,
+    32.286636,
+    -110.967007,
+    32.286636
+],
   "geometry": {"coordinates":[-110.967007,32.286636],"type":"Point"}
 }

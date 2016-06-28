@@ -2,13 +2,14 @@
   "id": 168928545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.87189,32.236101,-110.87189,32.236101",
     "geom:latitude":32.236101,
     "geom:longitude":-110.87189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5646 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.guitarsetc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168928545,
-    "wof:lastmodified":1449028466,
+    "wof:lastmodified":1466330724,
     "wof:name":"Guitars Etc",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.87189,32.236101,-110.87189,32.236101],
-  "geometry": {"coordinates":[-110.87189,32.236101],"type":"Point"}
+  "bbox": [
+    -110.87189,
+    32.236101,
+    -110.87189,
+    32.236101
+],
+  "geometry": {"coordinates":[-110.87188999999999,32.236101],"type":"Point"}
 }

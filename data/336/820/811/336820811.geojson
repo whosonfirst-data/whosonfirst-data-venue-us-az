@@ -2,13 +2,14 @@
   "id": 336820811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.847013,33.412294,-111.847013,33.412294",
     "geom:latitude":33.412294,
     "geom:longitude":-111.847013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 W Dana Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336820811,
-    "wof:lastmodified":1448997513,
+    "wof:lastmodified":1466329624,
     "wof:name":"Dana Center",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-111.847013,33.412294,-111.847013,33.412294],
+  "bbox": [
+    -111.847013,
+    33.412294,
+    -111.847013,
+    33.412294
+],
   "geometry": {"coordinates":[-111.847013,33.412294],"type":"Point"}
 }

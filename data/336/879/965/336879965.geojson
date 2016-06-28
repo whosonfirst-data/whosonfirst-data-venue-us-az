@@ -2,13 +2,14 @@
   "id": 336879965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842003,33.3507,-111.842003,33.3507",
     "geom:latitude":33.3507,
     "geom:longitude":-111.842003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 N Arizona Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336879965,
-    "wof:lastmodified":1448996934,
+    "wof:lastmodified":1466330277,
     "wof:name":"Shumway Paul D DC",
     "wof:parent_id":85836675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.842003,33.3507,-111.842003,33.3507],
-  "geometry": {"coordinates":[-111.842003,33.3507],"type":"Point"}
+  "bbox": [
+    -111.842003,
+    33.3507,
+    -111.842003,
+    33.3507
+],
+  "geometry": {"coordinates":[-111.84200300000001,33.3507],"type":"Point"}
 }

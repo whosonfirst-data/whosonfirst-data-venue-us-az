@@ -2,13 +2,14 @@
   "id": 336700623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972672,33.354018,-111.972672,33.354018",
     "geom:latitude":33.354018,
     "geom:longitude":-111.972672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 S 51st St Ste 170",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":336700623,
-    "wof:lastmodified":1448997925,
+    "wof:lastmodified":1466328040,
     "wof:name":"Home Helpers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-111.972672,33.354018,-111.972672,33.354018],
+  "bbox": [
+    -111.972672,
+    33.354018,
+    -111.972672,
+    33.354018
+],
   "geometry": {"coordinates":[-111.972672,33.354018],"type":"Point"}
 }

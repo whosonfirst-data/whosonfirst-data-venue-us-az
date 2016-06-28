@@ -2,13 +2,14 @@
   "id": 168910817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068312,33.623337,-112.068312,33.623337",
     "geom:latitude":33.623337,
     "geom:longitude":-112.068312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Port au Prince Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168910817,
-    "wof:lastmodified":1449028095,
+    "wof:lastmodified":1466329881,
     "wof:name":"Moon Valley Pest Control",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.068312,33.623337,-112.068312,33.623337],
-  "geometry": {"coordinates":[-112.068312,33.623337],"type":"Point"}
+  "bbox": [
+    -112.068312,
+    33.623337,
+    -112.068312,
+    33.623337
+],
+  "geometry": {"coordinates":[-112.06831200000001,33.623337],"type":"Point"}
 }

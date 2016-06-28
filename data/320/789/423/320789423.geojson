@@ -2,13 +2,14 @@
   "id": 320789423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109833,33.538601,-112.109833,33.538601",
     "geom:latitude":33.538601,
     "geom:longitude":-112.109833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 W Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320789423,
-    "wof:lastmodified":1449012934,
+    "wof:lastmodified":1466329534,
     "wof:name":"Beverly Hills Car Wash",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.109833,33.538601,-112.109833,33.538601],
-  "geometry": {"coordinates":[-112.109833,33.538601],"type":"Point"}
+  "bbox": [
+    -112.109833,
+    33.538601,
+    -112.109833,
+    33.538601
+],
+  "geometry": {"coordinates":[-112.10983299999999,33.538601],"type":"Point"}
 }

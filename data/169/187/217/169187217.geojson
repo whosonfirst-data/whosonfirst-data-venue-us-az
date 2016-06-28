@@ -2,13 +2,14 @@
   "id": 169187217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.229672,33.67185,-112.229672,33.67185",
     "geom:latitude":33.67185,
     "geom:longitude":-112.229672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7934 W Beaubien Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877809,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169187217,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466332279,
     "wof:name":"Echo Engineering Co",
     "wof:parent_id":85877809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.229672,33.67185,-112.229672,33.67185],
-  "geometry": {"coordinates":[-112.229672,33.67185],"type":"Point"}
+  "bbox": [
+    -112.229672,
+    33.67185,
+    -112.229672,
+    33.67185
+],
+  "geometry": {"coordinates":[-112.22967199999999,33.67185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353572075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.157761,33.51173,-112.157761,33.51173",
     "geom:latitude":33.51173,
     "geom:longitude":-112.157761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4703 W Pasadena Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353572075,
-    "wof:lastmodified":1449019847,
+    "wof:lastmodified":1466328227,
     "wof:name":"Watco Trnsload Intermodal Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "unloading"
     ]
 },
-  "bbox": [-112.157761,33.51173,-112.157761,33.51173],
-  "geometry": {"coordinates":[-112.157761,33.51173],"type":"Point"}
+  "bbox": [
+    -112.157761,
+    33.51173,
+    -112.157761,
+    33.51173
+],
+  "geometry": {"coordinates":[-112.15776099999999,33.51173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168947123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057818,33.617273,-112.057818,33.617273",
     "geom:latitude":33.617273,
     "geom:longitude":-112.057818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E Meadow Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168947123,
-    "wof:lastmodified":1449028339,
+    "wof:lastmodified":1466330919,
     "wof:name":"Tommy Specialties Design",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.057818,33.617273,-112.057818,33.617273],
+  "bbox": [
+    -112.057818,
+    33.617273,
+    -112.057818,
+    33.617273
+],
   "geometry": {"coordinates":[-112.057818,33.617273],"type":"Point"}
 }

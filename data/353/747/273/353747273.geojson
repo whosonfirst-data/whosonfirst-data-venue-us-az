@@ -2,13 +2,14 @@
   "id": 353747273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.75866,33.971511,-112.75866,33.971511",
     "geom:latitude":33.971511,
     "geom:longitude":-112.75866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 N Country Club Dr",
     "sg:city":"Wickenburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353747273,
-    "wof:lastmodified":1449018712,
+    "wof:lastmodified":1466329983,
     "wof:name":"Wickenburg Airport Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "public"
     ]
 },
-  "bbox": [-112.75866,33.971511,-112.75866,33.971511],
-  "geometry": {"coordinates":[-112.75866,33.971511],"type":"Point"}
+  "bbox": [
+    -112.75866,
+    33.971511,
+    -112.75866,
+    33.971511
+],
+  "geometry": {"coordinates":[-112.75866000000001,33.971511],"type":"Point"}
 }

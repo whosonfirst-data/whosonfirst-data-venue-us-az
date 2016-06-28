@@ -2,13 +2,14 @@
   "id": 169130739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.93422,32.25029,-110.93422,32.25029",
     "geom:latitude":32.25029,
     "geom:longitude":-110.93422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169130739,
-    "wof:lastmodified":1449033825,
+    "wof:lastmodified":1466331550,
     "wof:name":"Meyer's Garage Paint & Body",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.93422,32.25029,-110.93422,32.25029],
+  "bbox": [
+    -110.93422,
+    32.25029,
+    -110.93422,
+    32.25029
+],
   "geometry": {"coordinates":[-110.93422,32.25029],"type":"Point"}
 }

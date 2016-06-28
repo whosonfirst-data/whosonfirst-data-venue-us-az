@@ -2,13 +2,14 @@
   "id": 153059105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.751851,33.359019,-111.751851,33.359019",
     "geom:latitude":33.359019,
     "geom:longitude":-111.751851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1694 E Campbell Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.lds.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153059105,
-    "wof:lastmodified":1449040460,
+    "wof:lastmodified":1466327804,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.751851,33.359019,-111.751851,33.359019],
+  "bbox": [
+    -111.751851,
+    33.359019,
+    -111.751851,
+    33.359019
+],
   "geometry": {"coordinates":[-111.751851,33.359019],"type":"Point"}
 }

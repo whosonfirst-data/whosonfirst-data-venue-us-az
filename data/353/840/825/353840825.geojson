@@ -2,13 +2,14 @@
   "id": 353840825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960824,32.426937,-110.960824,32.426937",
     "geom:latitude":32.426937,
     "geom:longitude":-110.960824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12152 N Rancho Vistoso Blvd #180",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353840825,
-    "wof:lastmodified":1449020242,
+    "wof:lastmodified":1466330722,
     "wof:name":"Dragon Village",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-110.960824,32.426937,-110.960824,32.426937],
+  "bbox": [
+    -110.960824,
+    32.426937,
+    -110.960824,
+    32.426937
+],
   "geometry": {"coordinates":[-110.960824,32.426937],"type":"Point"}
 }

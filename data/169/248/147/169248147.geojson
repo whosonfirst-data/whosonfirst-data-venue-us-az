@@ -2,13 +2,14 @@
   "id": 169248147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.189758,31.479956,-110.189758,31.479956",
     "geom:latitude":31.479956,
     "geom:longitude":-110.189758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4903 S Moson Rd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169248147,
-    "wof:lastmodified":1449034505,
+    "wof:lastmodified":1466332637,
     "wof:name":"Canaan Construction Co",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.189758,31.479956,-110.189758,31.479956],
+  "bbox": [
+    -110.189758,
+    31.479956,
+    -110.189758,
+    31.479956
+],
   "geometry": {"coordinates":[-110.189758,31.479956],"type":"Point"}
 }

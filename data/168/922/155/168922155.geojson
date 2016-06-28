@@ -2,13 +2,14 @@
   "id": 168922155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060717,33.301936,-112.060717,33.301936",
     "geom:latitude":33.301936,
     "geom:longitude":-112.060717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 E Hiddenview Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168922155,
-    "wof:lastmodified":1449027848,
+    "wof:lastmodified":1466330398,
     "wof:name":"Arizona Attention Poles",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.060717,33.301936,-112.060717,33.301936],
+  "bbox": [
+    -112.060717,
+    33.301936,
+    -112.060717,
+    33.301936
+],
   "geometry": {"coordinates":[-112.060717,33.301936],"type":"Point"}
 }

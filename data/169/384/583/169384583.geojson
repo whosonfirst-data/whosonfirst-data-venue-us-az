@@ -2,13 +2,14 @@
   "id": 169384583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965282,32.190077,-110.965282,32.190077",
     "geom:latitude":32.190077,
     "geom:longitude":-110.965282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 S 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169384583,
-    "wof:lastmodified":1449033097,
+    "wof:lastmodified":1466333859,
     "wof:name":"Holsum Bakery Inc",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965282,32.190077,-110.965282,32.190077],
+  "bbox": [
+    -110.965282,
+    32.190077,
+    -110.965282,
+    32.190077
+],
   "geometry": {"coordinates":[-110.965282,32.190077],"type":"Point"}
 }

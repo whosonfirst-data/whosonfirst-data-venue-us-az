@@ -2,13 +2,14 @@
   "id": 353721509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.377138,33.654925,-112.377138,33.654925",
     "geom:latitude":33.654925,
     "geom:longitude":-112.377138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14674 W Mountain View Blvd Ste 112",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353721509,
-    "wof:lastmodified":1449020785,
+    "wof:lastmodified":1466329903,
     "wof:name":"STD Test Express Surprise",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "welfare"
     ]
 },
-  "bbox": [-112.377138,33.654925,-112.377138,33.654925],
+  "bbox": [
+    -112.377138,
+    33.654925,
+    -112.377138,
+    33.654925
+],
   "geometry": {"coordinates":[-112.377138,33.654925],"type":"Point"}
 }

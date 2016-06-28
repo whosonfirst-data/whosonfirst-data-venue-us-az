@@ -2,13 +2,14 @@
   "id": 353866647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.04714,34.556456,-110.04714,34.556456",
     "geom:latitude":34.556456,
     "geom:longitude":-110.04714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 N Old Woodruff Rd",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353866647,
-    "wof:lastmodified":1449019475,
+    "wof:lastmodified":1466330762,
     "wof:name":"Snowflake Tax Service",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-110.04714,34.556456,-110.04714,34.556456],
+  "bbox": [
+    -110.04714,
+    34.556456,
+    -110.04714,
+    34.556456
+],
   "geometry": {"coordinates":[-110.04714,34.556456],"type":"Point"}
 }

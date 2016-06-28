@@ -2,13 +2,14 @@
   "id": 168962311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.091143,34.464123,-110.091143,34.464123",
     "geom:latitude":34.464123,
     "geom:longitude":-110.091143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Main St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168962311,
-    "wof:lastmodified":1449028232,
+    "wof:lastmodified":1466331194,
     "wof:name":"White Mountain Furniture & Mat",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.091143,34.464123,-110.091143,34.464123],
+  "bbox": [
+    -110.091143,
+    34.464123,
+    -110.091143,
+    34.464123
+],
   "geometry": {"coordinates":[-110.091143,34.464123],"type":"Point"}
 }

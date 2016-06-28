@@ -2,13 +2,14 @@
   "id": 153090033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.902586,32.304057,-110.902586,32.304057",
     "geom:latitude":32.304057,
     "geom:longitude":-110.902586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5351 N Cll Bujia",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153090033,
-    "wof:lastmodified":1449040716,
+    "wof:lastmodified":1466329340,
     "wof:name":"3c Properties LLC",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.902586,32.304057,-110.902586,32.304057],
+  "bbox": [
+    -110.902586,
+    32.304057,
+    -110.902586,
+    32.304057
+],
   "geometry": {"coordinates":[-110.902586,32.304057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320764559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142929,33.492178,-112.142929,33.492178",
     "geom:latitude":33.492178,
     "geom:longitude":-112.142929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3812 N 39th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320764559,
-    "wof:lastmodified":1449014784,
+    "wof:lastmodified":1466329147,
     "wof:name":"Pacific Air Reps",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-112.142929,33.492178,-112.142929,33.492178],
+  "bbox": [
+    -112.142929,
+    33.492178,
+    -112.142929,
+    33.492178
+],
   "geometry": {"coordinates":[-112.142929,33.492178],"type":"Point"}
 }

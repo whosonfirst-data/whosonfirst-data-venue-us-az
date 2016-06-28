@@ -2,13 +2,14 @@
   "id": 152910107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.233581,33.684808,-112.233581,33.684808",
     "geom:latitude":33.684808,
     "geom:longitude":-112.233581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8062 W Carlota Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152910107,
-    "wof:lastmodified":1449046241,
+    "wof:lastmodified":1466327759,
     "wof:name":"Ddm Furnishings",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.233581,33.684808,-112.233581,33.684808],
+  "bbox": [
+    -112.233581,
+    33.684808,
+    -112.233581,
+    33.684808
+],
   "geometry": {"coordinates":[-112.233581,33.684808],"type":"Point"}
 }

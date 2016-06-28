@@ -2,13 +2,14 @@
   "id": 320834399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983078,33.582581,-111.983078,33.582581",
     "geom:latitude":33.582581,
     "geom:longitude":-111.983078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 E Shea Blvd Ste 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320834399,
-    "wof:lastmodified":1449011581,
+    "wof:lastmodified":1466330133,
     "wof:name":"AZ Property Management",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "rental"
     ]
 },
-  "bbox": [-111.983078,33.582581,-111.983078,33.582581],
-  "geometry": {"coordinates":[-111.983078,33.582581],"type":"Point"}
+  "bbox": [
+    -111.983078,
+    33.582581,
+    -111.983078,
+    33.582581
+],
+  "geometry": {"coordinates":[-111.98307800000001,33.582581],"type":"Point"}
 }

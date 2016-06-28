@@ -2,13 +2,14 @@
   "id": 168883185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.015175,35.268468,-114.015175,35.268468",
     "geom:latitude":35.268468,
     "geom:longitude":-114.015175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2689 Jagerson Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168883185,
-    "wof:lastmodified":1449028390,
+    "wof:lastmodified":1466328472,
     "wof:name":"Cerbat Elementary School",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.015175,35.268468,-114.015175,35.268468],
+  "bbox": [
+    -114.015175,
+    35.268468,
+    -114.015175,
+    35.268468
+],
   "geometry": {"coordinates":[-114.015175,35.268468],"type":"Point"}
 }

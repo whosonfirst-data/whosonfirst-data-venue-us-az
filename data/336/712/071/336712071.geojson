@@ -2,13 +2,14 @@
   "id": 336712071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995939,33.722244,-111.995939,33.722244",
     "geom:latitude":33.722244,
     "geom:longitude":-111.995939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 E Lariat Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336712071,
-    "wof:lastmodified":1448997410,
+    "wof:lastmodified":1466328417,
     "wof:name":"Tyton Enterprises",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "shows"
     ]
 },
-  "bbox": [-111.995939,33.722244,-111.995939,33.722244],
-  "geometry": {"coordinates":[-111.995939,33.722244],"type":"Point"}
+  "bbox": [
+    -111.995939,
+    33.722244,
+    -111.995939,
+    33.722244
+],
+  "geometry": {"coordinates":[-111.99593900000001,33.722244],"type":"Point"}
 }

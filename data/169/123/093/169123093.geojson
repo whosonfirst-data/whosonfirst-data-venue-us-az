@@ -2,13 +2,14 @@
   "id": 169123093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.755468,33.745142,-111.755468,33.745142",
     "geom:latitude":33.745142,
     "geom:longitude":-111.755468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15154 E Monument Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169123093,
-    "wof:lastmodified":1449033672,
+    "wof:lastmodified":1466331359,
     "wof:name":"Rio Mountain Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.755468,33.745142,-111.755468,33.745142],
-  "geometry": {"coordinates":[-111.755468,33.745142],"type":"Point"}
+  "bbox": [
+    -111.755468,
+    33.745142,
+    -111.755468,
+    33.745142
+],
+  "geometry": {"coordinates":[-111.75546799999999,33.745142],"type":"Point"}
 }

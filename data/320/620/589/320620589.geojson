@@ -2,13 +2,14 @@
   "id": 320620589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071224,33.448771,-112.071224,33.448771",
     "geom:latitude":33.448771,
     "geom:longitude":-112.071224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 N 2nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320620589,
-    "wof:lastmodified":1449014641,
+    "wof:lastmodified":1466326274,
     "wof:name":"Marty's Tickets",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sale"
     ]
 },
-  "bbox": [-112.071224,33.448771,-112.071224,33.448771],
+  "bbox": [
+    -112.071224,
+    33.448771,
+    -112.071224,
+    33.448771
+],
   "geometry": {"coordinates":[-112.071224,33.448771],"type":"Point"}
 }

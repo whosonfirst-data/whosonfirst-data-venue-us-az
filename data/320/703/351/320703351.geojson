@@ -2,13 +2,14 @@
   "id": 320703351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10244,33.509602,-112.10244,33.509602",
     "geom:latitude":33.509602,
     "geom:longitude":-112.10244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Camelback Rd Ste 300",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320703351,
-    "wof:lastmodified":1449012400,
+    "wof:lastmodified":1466328345,
     "wof:name":"Amec",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.10244,33.509602,-112.10244,33.509602],
+  "bbox": [
+    -112.10244,
+    33.509602,
+    -112.10244,
+    33.509602
+],
   "geometry": {"coordinates":[-112.10244,33.509602],"type":"Point"}
 }

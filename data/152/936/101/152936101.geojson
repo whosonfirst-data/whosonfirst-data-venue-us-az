@@ -2,13 +2,14 @@
   "id": 152936101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.888253,32.237913,-110.888253,32.237913",
     "geom:latitude":32.237913,
     "geom:longitude":-110.888253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 N Arcadia Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152936101,
-    "wof:lastmodified":1449045848,
+    "wof:lastmodified":1466326406,
     "wof:name":"Sunbeads",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.888253,32.237913,-110.888253,32.237913],
-  "geometry": {"coordinates":[-110.888253,32.237913],"type":"Point"}
+  "bbox": [
+    -110.888253,
+    32.237913,
+    -110.888253,
+    32.237913
+],
+  "geometry": {"coordinates":[-110.88825300000001,32.237913],"type":"Point"}
 }

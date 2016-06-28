@@ -2,13 +2,14 @@
   "id": 320645089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030228,33.471424,-112.030228,33.471424",
     "geom:latitude":33.471424,
     "geom:longitude":-112.030228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 N. 24th Street",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":320645089,
-    "wof:lastmodified":1449011614,
+    "wof:lastmodified":1466326890,
     "wof:name":"Nortel Systems",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "systems-maintenance"
     ]
 },
-  "bbox": [-112.030228,33.471424,-112.030228,33.471424],
-  "geometry": {"coordinates":[-112.030228,33.471424],"type":"Point"}
+  "bbox": [
+    -112.030228,
+    33.471424,
+    -112.030228,
+    33.471424
+],
+  "geometry": {"coordinates":[-112.03022799999999,33.471424],"type":"Point"}
 }

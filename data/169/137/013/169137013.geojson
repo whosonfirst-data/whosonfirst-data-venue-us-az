@@ -2,13 +2,14 @@
   "id": 169137013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.842137,32.25084,-110.842137,32.25084",
     "geom:latitude":32.25084,
     "geom:longitude":-110.842137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7039 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.irongrill.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169137013,
-    "wof:lastmodified":1449035506,
+    "wof:lastmodified":1466331594,
     "wof:name":"Iron Grill Mongolian Barbeque",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.842137,32.25084,-110.842137,32.25084],
-  "geometry": {"coordinates":[-110.842137,32.25084],"type":"Point"}
+  "bbox": [
+    -110.842137,
+    32.25084,
+    -110.842137,
+    32.25084
+],
+  "geometry": {"coordinates":[-110.84213699999999,32.25084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169332661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.245042,33.532968,-112.245042,33.532968",
     "geom:latitude":33.532968,
     "geom:longitude":-112.245042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8529 W Tuckey Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877835,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169332661,
-    "wof:lastmodified":1449034527,
+    "wof:lastmodified":1466333299,
     "wof:name":"E J Willingham",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.245042,33.532968,-112.245042,33.532968],
+  "bbox": [
+    -112.245042,
+    33.532968,
+    -112.245042,
+    33.532968
+],
   "geometry": {"coordinates":[-112.245042,33.532968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320658675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139992,33.451389,-112.139992,33.451389",
     "geom:latitude":33.451389,
     "geom:longitude":-112.139992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N 37th Dr Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320658675,
-    "wof:lastmodified":1449011183,
+    "wof:lastmodified":1466327230,
     "wof:name":"Quicksilver Express Courier",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.139992,33.451389,-112.139992,33.451389],
-  "geometry": {"coordinates":[-112.139992,33.451389],"type":"Point"}
+  "bbox": [
+    -112.139992,
+    33.451389,
+    -112.139992,
+    33.451389
+],
+  "geometry": {"coordinates":[-112.13999200000001,33.451389],"type":"Point"}
 }

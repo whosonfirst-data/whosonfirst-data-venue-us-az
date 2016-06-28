@@ -2,13 +2,14 @@
   "id": 169244323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022515,33.622487,-112.022515,33.622487",
     "geom:latitude":33.622487,
     "geom:longitude":-112.022515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 E Nisbet Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831383,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169244323,
-    "wof:lastmodified":1449033988,
+    "wof:lastmodified":1466332473,
     "wof:name":"Trifab Sales Inc",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022515,33.622487,-112.022515,33.622487],
+  "bbox": [
+    -112.022515,
+    33.622487,
+    -112.022515,
+    33.622487
+],
   "geometry": {"coordinates":[-112.022515,33.622487],"type":"Point"}
 }

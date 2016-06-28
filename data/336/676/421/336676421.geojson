@@ -2,13 +2,14 @@
   "id": 336676421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995552,33.392589,-111.995552,33.392589",
     "geom:latitude":33.392589,
     "geom:longitude":-111.995552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6003 S 40th St Ste 6",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336676421,
-    "wof:lastmodified":1448997617,
+    "wof:lastmodified":1466327595,
     "wof:name":"Kki Laser Services",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lasers-manufacturers"
     ]
 },
-  "bbox": [-111.995552,33.392589,-111.995552,33.392589],
+  "bbox": [
+    -111.995552,
+    33.392589,
+    -111.995552,
+    33.392589
+],
   "geometry": {"coordinates":[-111.995552,33.392589],"type":"Point"}
 }

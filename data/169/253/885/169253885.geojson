@@ -2,13 +2,14 @@
   "id": 169253885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028895,33.509431,-112.028895,33.509431",
     "geom:latitude":33.509431,
     "geom:longitude":-112.028895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806131,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169253885,
-    "wof:lastmodified":1449035546,
+    "wof:lastmodified":1466332590,
     "wof:name":"Lanciani Of Arizona LTD",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.028895,33.509431,-112.028895,33.509431],
-  "geometry": {"coordinates":[-112.028895,33.509431],"type":"Point"}
+  "bbox": [
+    -112.028895,
+    33.509431,
+    -112.028895,
+    33.509431
+],
+  "geometry": {"coordinates":[-112.02889500000001,33.509431],"type":"Point"}
 }

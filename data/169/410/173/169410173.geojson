@@ -2,13 +2,14 @@
   "id": 169410173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.821107,32.181114,-110.821107,32.181114",
     "geom:latitude":32.181114,
     "geom:longitude":-110.821107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8009 E Winnepeg Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169410173,
-    "wof:lastmodified":1449032726,
+    "wof:lastmodified":1466334034,
     "wof:name":"Genesis Tile & Stone",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.821107,32.181114,-110.821107,32.181114],
+  "bbox": [
+    -110.821107,
+    32.181114,
+    -110.821107,
+    32.181114
+],
   "geometry": {"coordinates":[-110.821107,32.181114],"type":"Point"}
 }

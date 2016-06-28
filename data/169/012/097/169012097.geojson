@@ -2,13 +2,14 @@
   "id": 169012097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.35266,33.592885,-112.35266,33.592885",
     "geom:latitude":33.592885,
     "geom:longitude":-112.35266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10928 N 136th Ave",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.durhamschoolservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169012097,
-    "wof:lastmodified":1449035625,
+    "wof:lastmodified":1466327028,
     "wof:name":"Durham School Svc",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.35266,33.592885,-112.35266,33.592885],
+  "bbox": [
+    -112.35266,
+    33.592885,
+    -112.35266,
+    33.592885
+],
   "geometry": {"coordinates":[-112.35266,33.592885],"type":"Point"}
 }

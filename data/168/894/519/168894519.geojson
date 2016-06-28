@@ -2,13 +2,14 @@
   "id": 168894519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.935202,32.261039,-110.935202,32.261039",
     "geom:latitude":32.261039,
     "geom:longitude":-110.935202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 N Tucson Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168894519,
-    "wof:lastmodified":1449028085,
+    "wof:lastmodified":1466329184,
     "wof:name":"Thea M Gilbert",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.935202,32.261039,-110.935202,32.261039],
+  "bbox": [
+    -110.935202,
+    32.261039,
+    -110.935202,
+    32.261039
+],
   "geometry": {"coordinates":[-110.935202,32.261039],"type":"Point"}
 }

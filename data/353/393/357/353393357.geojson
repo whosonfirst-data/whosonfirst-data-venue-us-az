@@ -2,13 +2,14 @@
   "id": 353393357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.894094,33.414685,-111.894094,33.414685",
     "geom:latitude":33.414685,
     "geom:longitude":-111.894094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2183 E Apache Blvd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353393357,
-    "wof:lastmodified":1449019056,
+    "wof:lastmodified":1466326206,
     "wof:name":"Tom's Camperland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "campers-repair"
     ]
 },
-  "bbox": [-111.894094,33.414685,-111.894094,33.414685],
+  "bbox": [
+    -111.894094,
+    33.414685,
+    -111.894094,
+    33.414685
+],
   "geometry": {"coordinates":[-111.894094,33.414685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169036201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.468585,34.544452,-112.468585,34.544452",
     "geom:latitude":34.544452,
     "geom:longitude":-112.468585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Cortez St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169036201,
-    "wof:lastmodified":1449033426,
+    "wof:lastmodified":1466327415,
     "wof:name":"Home Interiors",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.468585,34.544452,-112.468585,34.544452],
+  "bbox": [
+    -112.468585,
+    34.544452,
+    -112.468585,
+    34.544452
+],
   "geometry": {"coordinates":[-112.468585,34.544452],"type":"Point"}
 }

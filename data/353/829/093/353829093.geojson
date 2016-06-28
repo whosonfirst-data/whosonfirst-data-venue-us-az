@@ -2,13 +2,14 @@
   "id": 353829093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.892479,32.163014,-110.892479,32.163014",
     "geom:latitude":32.163014,
     "geom:longitude":-110.892479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353829093,
-    "wof:lastmodified":1449020623,
+    "wof:lastmodified":1466330609,
     "wof:name":"AA Auto Parts",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "salvage"
     ]
 },
-  "bbox": [-110.892479,32.163014,-110.892479,32.163014],
-  "geometry": {"coordinates":[-110.892479,32.163014],"type":"Point"}
+  "bbox": [
+    -110.892479,
+    32.163014,
+    -110.892479,
+    32.163014
+],
+  "geometry": {"coordinates":[-110.89247899999999,32.163014],"type":"Point"}
 }

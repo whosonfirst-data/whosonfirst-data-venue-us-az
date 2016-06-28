@@ -2,13 +2,14 @@
   "id": 153081827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.140564,33.702061,-112.140564,33.702061",
     "geom:latitude":33.702061,
     "geom:longitude":-112.140564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 W Cielo Grande",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153081827,
-    "wof:lastmodified":1449040476,
+    "wof:lastmodified":1466329225,
     "wof:name":"Darron Schacherer Lawn Svc",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.140564,33.702061,-112.140564,33.702061],
+  "bbox": [
+    -112.140564,
+    33.702061,
+    -112.140564,
+    33.702061
+],
   "geometry": {"coordinates":[-112.140564,33.702061],"type":"Point"}
 }

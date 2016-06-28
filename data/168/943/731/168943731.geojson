@@ -2,13 +2,14 @@
   "id": 168943731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134239,33.432143,-112.134239,33.432143",
     "geom:latitude":33.432143,
     "geom:longitude":-112.134239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 W Cocopah St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.correctionalservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168943731,
-    "wof:lastmodified":1449027968,
+    "wof:lastmodified":1466330858,
     "wof:name":"Correctional Services Corp",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134239,33.432143,-112.134239,33.432143],
-  "geometry": {"coordinates":[-112.134239,33.432143],"type":"Point"}
+  "bbox": [
+    -112.134239,
+    33.432143,
+    -112.134239,
+    33.432143
+],
+  "geometry": {"coordinates":[-112.13423899999999,33.432143],"type":"Point"}
 }

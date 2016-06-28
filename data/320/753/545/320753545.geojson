@@ -2,13 +2,14 @@
   "id": 320753545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009538,33.510044,-112.009538,33.510044",
     "geom:latitude":33.510044,
     "geom:longitude":-112.009538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3344 E Camelback Rd # 105",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320753545,
-    "wof:lastmodified":1449011687,
+    "wof:lastmodified":1466328941,
     "wof:name":"Verus Holdings",
     "wof:parent_id":85853881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-112.009538,33.510044,-112.009538,33.510044],
-  "geometry": {"coordinates":[-112.009538,33.510044],"type":"Point"}
+  "bbox": [
+    -112.009538,
+    33.510044,
+    -112.009538,
+    33.510044
+],
+  "geometry": {"coordinates":[-112.00953800000001,33.510044],"type":"Point"}
 }

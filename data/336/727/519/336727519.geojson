@@ -2,13 +2,14 @@
   "id": 336727519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124019,33.639748,-112.124019,33.639748",
     "geom:latitude":33.639748,
     "geom:longitude":-112.124019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3033 W Bell Rd Ste 101A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336727519,
-    "wof:lastmodified":1448997104,
+    "wof:lastmodified":1466328691,
     "wof:name":"Arizona Sports & Spine Phys",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "sport"
     ]
 },
-  "bbox": [-112.124019,33.639748,-112.124019,33.639748],
+  "bbox": [
+    -112.124019,
+    33.639748,
+    -112.124019,
+    33.639748
+],
   "geometry": {"coordinates":[-112.124019,33.639748],"type":"Point"}
 }

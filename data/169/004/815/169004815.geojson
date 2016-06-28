@@ -2,13 +2,14 @@
   "id": 169004815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.304444,31.962638,-110.304444,31.962638",
     "geom:latitude":31.962638,
     "geom:longitude":-110.304444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Union St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169004815,
-    "wof:lastmodified":1449033894,
+    "wof:lastmodified":1466326160,
     "wof:name":"Ramona Morales Apartments",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.304444,31.962638,-110.304444,31.962638],
+  "bbox": [
+    -110.304444,
+    31.962638,
+    -110.304444,
+    31.962638
+],
   "geometry": {"coordinates":[-110.304444,31.962638],"type":"Point"}
 }

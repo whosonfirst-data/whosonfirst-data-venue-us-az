@@ -2,13 +2,14 @@
   "id": 152954835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.811547,33.384599,-111.811547,33.384599",
     "geom:latitude":33.384599,
     "geom:longitude":-111.811547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 E Isabella Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.cornellmetro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152954835,
-    "wof:lastmodified":1449048323,
+    "wof:lastmodified":1466327715,
     "wof:name":"Cornell Metro Phoenix",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.811547,33.384599,-111.811547,33.384599],
+  "bbox": [
+    -111.811547,
+    33.384599,
+    -111.811547,
+    33.384599
+],
   "geometry": {"coordinates":[-111.811547,33.384599],"type":"Point"}
 }

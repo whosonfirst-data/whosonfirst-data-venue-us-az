@@ -2,13 +2,14 @@
   "id": 168993217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817701,33.568648,-111.817701,33.568648",
     "geom:latitude":33.568648,
     "geom:longitude":-111.817701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12229 E Doubletree Ranch Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168993217,
-    "wof:lastmodified":1449028122,
+    "wof:lastmodified":1466331480,
     "wof:name":"Brookscapes",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.817701,33.568648,-111.817701,33.568648],
+  "bbox": [
+    -111.817701,
+    33.568648,
+    -111.817701,
+    33.568648
+],
   "geometry": {"coordinates":[-111.817701,33.568648],"type":"Point"}
 }

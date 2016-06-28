@@ -2,13 +2,14 @@
   "id": 168968287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098489,33.494962,-112.098489,33.494962",
     "geom:latitude":33.494962,
     "geom:longitude":-112.098489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168968287,
-    "wof:lastmodified":1449027817,
+    "wof:lastmodified":1466331349,
     "wof:name":"Impressions Yire",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098489,33.494962,-112.098489,33.494962],
+  "bbox": [
+    -112.098489,
+    33.494962,
+    -112.098489,
+    33.494962
+],
   "geometry": {"coordinates":[-112.098489,33.494962],"type":"Point"}
 }

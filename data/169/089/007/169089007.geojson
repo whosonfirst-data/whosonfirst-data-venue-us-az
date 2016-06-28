@@ -2,13 +2,14 @@
   "id": 169089007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.533746,35.244221,-111.533746,35.244221",
     "geom:latitude":35.244221,
     "geom:longitude":-111.533746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6255 River Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169089007,
-    "wof:lastmodified":1449033361,
+    "wof:lastmodified":1466330473,
     "wof:name":"All Phase Electric Company Inc",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.533746,35.244221,-111.533746,35.244221],
-  "geometry": {"coordinates":[-111.533746,35.244221],"type":"Point"}
+  "bbox": [
+    -111.533746,
+    35.244221,
+    -111.533746,
+    35.244221
+],
+  "geometry": {"coordinates":[-111.53374599999999,35.244221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169233315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.821431,33.447288,-111.821431,33.447288",
     "geom:latitude":33.447288,
     "geom:longitude":-111.821431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 N Spring Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872451
+        85633793,
+        85872451,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169233315,
-    "wof:lastmodified":1449036030,
+    "wof:lastmodified":1466332310,
     "wof:name":"Slide Out Screen Doors",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.821431,33.447288,-111.821431,33.447288],
+  "bbox": [
+    -111.821431,
+    33.447288,
+    -111.821431,
+    33.447288
+],
   "geometry": {"coordinates":[-111.821431,33.447288],"type":"Point"}
 }

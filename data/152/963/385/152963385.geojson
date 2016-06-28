@@ -2,13 +2,14 @@
   "id": 152963385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968665,32.238065,-110.968665,32.238065",
     "geom:latitude":32.238065,
     "geom:longitude":-110.968665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 N 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152963385,
-    "wof:lastmodified":1449044748,
+    "wof:lastmodified":1466328322,
     "wof:name":"Irene Anderson Lpc",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.968665,32.238065,-110.968665,32.238065],
+  "bbox": [
+    -110.968665,
+    32.238065,
+    -110.968665,
+    32.238065
+],
   "geometry": {"coordinates":[-110.968665,32.238065],"type":"Point"}
 }

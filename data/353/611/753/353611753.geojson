@@ -2,13 +2,14 @@
   "id": 353611753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172862,33.646363,-112.172862,33.646363",
     "geom:latitude":33.646363,
     "geom:longitude":-112.172862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5268 W Saint John Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353611753,
-    "wof:lastmodified":1449020276,
+    "wof:lastmodified":1466328672,
     "wof:name":"Thunderbird Pools & Spas",
     "wof:parent_id":85810387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172862,33.646363,-112.172862,33.646363],
-  "geometry": {"coordinates":[-112.172862,33.646363],"type":"Point"}
+  "bbox": [
+    -112.172862,
+    33.646363,
+    -112.172862,
+    33.646363
+],
+  "geometry": {"coordinates":[-112.17286199999999,33.646363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336698893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976529,33.337669,-111.976529,33.337669",
     "geom:latitude":33.337669,
     "geom:longitude":-111.976529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5122 E Tunder Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":336698893,
-    "wof:lastmodified":1448997946,
+    "wof:lastmodified":1466328002,
     "wof:name":"Back In Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976529,33.337669,-111.976529,33.337669],
+  "bbox": [
+    -111.976529,
+    33.337669,
+    -111.976529,
+    33.337669
+],
   "geometry": {"coordinates":[-111.976529,33.337669],"type":"Point"}
 }

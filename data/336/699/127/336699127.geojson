@@ -2,13 +2,14 @@
   "id": 336699127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.985138,33.310658,-111.985138,33.310658",
     "geom:latitude":33.310658,
     "geom:longitude":-111.985138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 E White Aster St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336699127,
-    "wof:lastmodified":1448997079,
+    "wof:lastmodified":1466328007,
     "wof:name":"Brad Hachtel",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.985138,33.310658,-111.985138,33.310658],
-  "geometry": {"coordinates":[-111.985138,33.310658],"type":"Point"}
+  "bbox": [
+    -111.985138,
+    33.310658,
+    -111.985138,
+    33.310658
+],
+  "geometry": {"coordinates":[-111.98513800000001,33.310658],"type":"Point"}
 }

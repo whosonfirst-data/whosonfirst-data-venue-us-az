@@ -2,13 +2,14 @@
   "id": 169025239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182387,33.615529,-112.182387,33.615529",
     "geom:latitude":33.615529,
     "geom:longitude":-112.182387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14411 N 57th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169025239,
-    "wof:lastmodified":1449035421,
+    "wof:lastmodified":1466326437,
     "wof:name":"Stile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.182387,33.615529,-112.182387,33.615529],
-  "geometry": {"coordinates":[-112.182387,33.615529],"type":"Point"}
+  "bbox": [
+    -112.182387,
+    33.615529,
+    -112.182387,
+    33.615529
+],
+  "geometry": {"coordinates":[-112.18238700000001,33.615529],"type":"Point"}
 }

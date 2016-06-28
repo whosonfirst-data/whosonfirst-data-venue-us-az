@@ -2,13 +2,14 @@
   "id": 169264459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.080188,33.477736,-112.080188,33.477736",
     "geom:latitude":33.477736,
     "geom:longitude":-112.080188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Cambridge Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.filmandvideo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169264459,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1466332623,
     "wof:name":"New Horizons Film & Video",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.080188,33.477736,-112.080188,33.477736],
-  "geometry": {"coordinates":[-112.080188,33.477736],"type":"Point"}
+  "bbox": [
+    -112.080188,
+    33.477736,
+    -112.080188,
+    33.477736
+],
+  "geometry": {"coordinates":[-112.08018800000001,33.477736],"type":"Point"}
 }

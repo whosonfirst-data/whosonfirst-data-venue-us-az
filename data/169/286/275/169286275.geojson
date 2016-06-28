@@ -2,13 +2,14 @@
   "id": 169286275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926591,33.605104,-111.926591,33.605104",
     "geom:latitude":33.605104,
     "geom:longitude":-111.926591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7053 E Dreyfus Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169286275,
-    "wof:lastmodified":1449033555,
+    "wof:lastmodified":1466332846,
     "wof:name":"Superior Construction Co",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.926591,33.605104,-111.926591,33.605104],
+  "bbox": [
+    -111.926591,
+    33.605104,
+    -111.926591,
+    33.605104
+],
   "geometry": {"coordinates":[-111.926591,33.605104],"type":"Point"}
 }

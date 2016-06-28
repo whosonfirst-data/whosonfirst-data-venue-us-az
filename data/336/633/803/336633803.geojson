@@ -2,13 +2,14 @@
   "id": 336633803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055485,33.445106,-112.055485,33.445106",
     "geom:latitude":33.445106,
     "geom:longitude":-112.055485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 E Jackson St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336633803,
-    "wof:lastmodified":1448997999,
+    "wof:lastmodified":1466326628,
     "wof:name":"Predio Management",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-112.055485,33.445106,-112.055485,33.445106],
+  "bbox": [
+    -112.055485,
+    33.445106,
+    -112.055485,
+    33.445106
+],
   "geometry": {"coordinates":[-112.055485,33.445106],"type":"Point"}
 }

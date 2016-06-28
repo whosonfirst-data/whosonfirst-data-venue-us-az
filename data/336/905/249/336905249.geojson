@@ -2,13 +2,14 @@
   "id": 336905249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895494,33.319771,-111.895494,33.319771",
     "geom:latitude":33.319771,
     "geom:longitude":-111.895494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 W Ray Rd Ste 1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336905249,
-    "wof:lastmodified":1448997376,
+    "wof:lastmodified":1466330466,
     "wof:name":"Spicy Pickle",
     "wof:parent_id":85810253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pizza"
     ]
 },
-  "bbox": [-111.895494,33.319771,-111.895494,33.319771],
+  "bbox": [
+    -111.895494,
+    33.319771,
+    -111.895494,
+    33.319771
+],
   "geometry": {"coordinates":[-111.895494,33.319771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169033269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.314471,33.608834,-112.314471,33.608834",
     "geom:latitude":33.608834,
     "geom:longitude":-112.314471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11737 W Thunderbird Rd",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169033269,
-    "wof:lastmodified":1449033366,
+    "wof:lastmodified":1466327152,
     "wof:name":"Centro Misionero Pentecostes",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.314471,33.608834,-112.314471,33.608834],
+  "bbox": [
+    -112.314471,
+    33.608834,
+    -112.314471,
+    33.608834
+],
   "geometry": {"coordinates":[-112.314471,33.608834],"type":"Point"}
 }

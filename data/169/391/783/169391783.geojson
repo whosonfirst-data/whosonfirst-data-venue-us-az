@@ -2,13 +2,14 @@
   "id": 169391783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925741,32.282733,-110.925741,32.282733",
     "geom:latitude":32.282733,
     "geom:longitude":-110.925741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3371 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169391783,
-    "wof:lastmodified":1449034797,
+    "wof:lastmodified":1466333927,
     "wof:name":"Vision Quest",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.925741,32.282733,-110.925741,32.282733],
+  "bbox": [
+    -110.925741,
+    32.282733,
+    -110.925741,
+    32.282733
+],
   "geometry": {"coordinates":[-110.925741,32.282733],"type":"Point"}
 }

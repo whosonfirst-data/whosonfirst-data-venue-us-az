@@ -2,13 +2,14 @@
   "id": 353445943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919131,33.378898,-111.919131,33.378898",
     "geom:latitude":33.378898,
     "geom:longitude":-111.919131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 E Baseline Rd #200",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353445943,
-    "wof:lastmodified":1449018595,
+    "wof:lastmodified":1466326614,
     "wof:name":"Web Traffic Gurus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "internet"
     ]
 },
-  "bbox": [-111.919131,33.378898,-111.919131,33.378898],
-  "geometry": {"coordinates":[-111.919131,33.378898],"type":"Point"}
+  "bbox": [
+    -111.919131,
+    33.378898,
+    -111.919131,
+    33.378898
+],
+  "geometry": {"coordinates":[-111.91913099999999,33.378898],"type":"Point"}
 }

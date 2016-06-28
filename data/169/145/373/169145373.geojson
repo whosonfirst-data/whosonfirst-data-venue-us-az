@@ -2,13 +2,14 @@
   "id": 169145373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960408,32.330093,-110.960408,32.330093",
     "geom:latitude":32.330093,
     "geom:longitude":-110.960408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 E Chula Vista Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169145373,
-    "wof:lastmodified":1449033694,
+    "wof:lastmodified":1466331626,
     "wof:name":"Mr B's Plumbing Sewer & Drain",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960408,32.330093,-110.960408,32.330093],
+  "bbox": [
+    -110.960408,
+    32.330093,
+    -110.960408,
+    32.330093
+],
   "geometry": {"coordinates":[-110.960408,32.330093],"type":"Point"}
 }

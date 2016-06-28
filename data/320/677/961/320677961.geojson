@@ -2,13 +2,14 @@
   "id": 320677961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073898,33.485271,-112.073898,33.485271",
     "geom:latitude":33.485271,
     "geom:longitude":-112.073898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Central Ave # 825",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320677961,
-    "wof:lastmodified":1449012620,
+    "wof:lastmodified":1466327730,
     "wof:name":"Great American Travel",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-112.073898,33.485271,-112.073898,33.485271],
+  "bbox": [
+    -112.073898,
+    33.485271,
+    -112.073898,
+    33.485271
+],
   "geometry": {"coordinates":[-112.073898,33.485271],"type":"Point"}
 }

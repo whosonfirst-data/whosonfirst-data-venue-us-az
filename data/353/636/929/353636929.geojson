@@ -2,13 +2,14 @@
   "id": 353636929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.954434,33.826242,-111.954434,33.826242",
     "geom:latitude":33.826242,
     "geom:longitude":-111.954434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37555 N Cave Creek Rd",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353636929,
-    "wof:lastmodified":1449019279,
+    "wof:lastmodified":1466328946,
     "wof:name":"Animal Health Services of Cave Creek",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-111.954434,33.826242,-111.954434,33.826242],
-  "geometry": {"coordinates":[-111.954434,33.826242],"type":"Point"}
+  "bbox": [
+    -111.954434,
+    33.826242,
+    -111.954434,
+    33.826242
+],
+  "geometry": {"coordinates":[-111.95443400000001,33.826242],"type":"Point"}
 }

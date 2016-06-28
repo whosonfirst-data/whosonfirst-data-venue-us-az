@@ -2,13 +2,14 @@
   "id": 353741543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.332039,33.72757,-112.332039,33.72757",
     "geom:latitude":33.72757,
     "geom:longitude":-112.332039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12598 W Maya Way",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353741543,
-    "wof:lastmodified":1449018381,
+    "wof:lastmodified":1466330061,
     "wof:name":"Allstate Security Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-112.332039,33.72757,-112.332039,33.72757],
-  "geometry": {"coordinates":[-112.332039,33.72757],"type":"Point"}
+  "bbox": [
+    -112.332039,
+    33.72757,
+    -112.332039,
+    33.72757
+],
+  "geometry": {"coordinates":[-112.33203899999999,33.72757],"type":"Point"}
 }

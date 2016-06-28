@@ -2,13 +2,14 @@
   "id": 169179241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.849149,32.247365,-110.849149,32.247365",
     "geom:latitude":32.247365,
     "geom:longitude":-110.849149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169179241,
-    "wof:lastmodified":1449035618,
+    "wof:lastmodified":1466331965,
     "wof:name":"Gordons Market",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.849149,32.247365,-110.849149,32.247365],
+  "bbox": [
+    -110.849149,
+    32.247365,
+    -110.849149,
+    32.247365
+],
   "geometry": {"coordinates":[-110.849149,32.247365],"type":"Point"}
 }

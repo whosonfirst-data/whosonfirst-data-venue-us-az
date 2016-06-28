@@ -2,13 +2,14 @@
   "id": 169374819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062361,33.410589,-112.062361,33.410589",
     "geom:latitude":33.410589,
     "geom:longitude":-112.062361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E Jones Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169374819,
-    "wof:lastmodified":1449034105,
+    "wof:lastmodified":1466333781,
     "wof:name":"Quality Machine Shop LLC",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.062361,33.410589,-112.062361,33.410589],
+  "bbox": [
+    -112.062361,
+    33.410589,
+    -112.062361,
+    33.410589
+],
   "geometry": {"coordinates":[-112.062361,33.410589],"type":"Point"}
 }

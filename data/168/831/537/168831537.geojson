@@ -2,13 +2,14 @@
   "id": 168831537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622125,35.110699,-114.622125,35.110699",
     "geom:latitude":35.110699,
     "geom:longitude":-114.622125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1647 River Gardens Dr",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168831537,
-    "wof:lastmodified":1449028227,
+    "wof:lastmodified":1466326095,
     "wof:name":"Mohave Industrial Supply",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622125,35.110699,-114.622125,35.110699],
+  "bbox": [
+    -114.622125,
+    35.110699,
+    -114.622125,
+    35.110699
+],
   "geometry": {"coordinates":[-114.622125,35.110699],"type":"Point"}
 }

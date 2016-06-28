@@ -2,13 +2,14 @@
   "id": 169221035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622458,32.691243,-114.622458,32.691243",
     "geom:latitude":32.691243,
     "geom:longitude":-114.622458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 20th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169221035,
-    "wof:lastmodified":1449034124,
+    "wof:lastmodified":1466332269,
     "wof:name":"Holsum Bakery Dist & Outl Stor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622458,32.691243,-114.622458,32.691243],
-  "geometry": {"coordinates":[-114.622458,32.691243],"type":"Point"}
+  "bbox": [
+    -114.622458,
+    32.691243,
+    -114.622458,
+    32.691243
+],
+  "geometry": {"coordinates":[-114.62245799999999,32.691243],"type":"Point"}
 }

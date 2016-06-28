@@ -2,13 +2,14 @@
   "id": 169340945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.739297,33.372661,-111.739297,33.372661",
     "geom:latitude":33.372661,
     "geom:longitude":-111.739297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Greenfield Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858711,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169340945,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1466333411,
     "wof:name":"Valley Banner Inc",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.739297,33.372661,-111.739297,33.372661],
-  "geometry": {"coordinates":[-111.739297,33.372661],"type":"Point"}
+  "bbox": [
+    -111.739297,
+    33.372661,
+    -111.739297,
+    33.372661
+],
+  "geometry": {"coordinates":[-111.73929699999999,33.372661],"type":"Point"}
 }

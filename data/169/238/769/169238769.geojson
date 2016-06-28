@@ -2,13 +2,14 @@
   "id": 169238769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108511,33.66707,-112.108511,33.66707",
     "geom:latitude":33.66707,
     "geom:longitude":-112.108511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20003 N 23rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169238769,
-    "wof:lastmodified":1449033927,
+    "wof:lastmodified":1466332398,
     "wof:name":"Wickertree Apartments",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.108511,33.66707,-112.108511,33.66707],
-  "geometry": {"coordinates":[-112.108511,33.66707],"type":"Point"}
+  "bbox": [
+    -112.108511,
+    33.66707,
+    -112.108511,
+    33.66707
+],
+  "geometry": {"coordinates":[-112.10851099999999,33.66707],"type":"Point"}
 }

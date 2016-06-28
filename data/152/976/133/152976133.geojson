@@ -2,13 +2,14 @@
   "id": 152976133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047649,33.51972,-112.047649,33.51972",
     "geom:latitude":33.51972,
     "geom:longitude":-112.047649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 E San Miguel Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152976133,
-    "wof:lastmodified":1449046223,
+    "wof:lastmodified":1466328746,
     "wof:name":"Butler AZ Prop Inc",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047649,33.51972,-112.047649,33.51972],
-  "geometry": {"coordinates":[-112.047649,33.51972],"type":"Point"}
+  "bbox": [
+    -112.047649,
+    33.51972,
+    -112.047649,
+    33.51972
+],
+  "geometry": {"coordinates":[-112.04764900000001,33.51972],"type":"Point"}
 }

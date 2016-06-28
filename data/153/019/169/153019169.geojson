@@ -2,13 +2,14 @@
   "id": 153019169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.385596,34.551992,-112.385596,34.551992",
     "geom:latitude":34.551992,
     "geom:longitude":-112.385596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 Alamitos Ct",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153019169,
-    "wof:lastmodified":1449040637,
+    "wof:lastmodified":1466326930,
     "wof:name":"Andes CJ",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.385596,34.551992,-112.385596,34.551992],
-  "geometry": {"coordinates":[-112.385596,34.551992],"type":"Point"}
+  "bbox": [
+    -112.385596,
+    34.551992,
+    -112.385596,
+    34.551992
+],
+  "geometry": {"coordinates":[-112.38559600000001,34.551992],"type":"Point"}
 }

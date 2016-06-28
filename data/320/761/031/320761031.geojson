@@ -2,13 +2,14 @@
   "id": 320761031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.986749,33.508426,-111.986749,33.508426",
     "geom:latitude":33.508426,
     "geom:longitude":-111.986749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 N 44th St Suite 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320761031,
-    "wof:lastmodified":1449014079,
+    "wof:lastmodified":1466329088,
     "wof:name":"44th Street & Camelback",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-111.986749,33.508426,-111.986749,33.508426],
+  "bbox": [
+    -111.986749,
+    33.508426,
+    -111.986749,
+    33.508426
+],
   "geometry": {"coordinates":[-111.986749,33.508426],"type":"Point"}
 }

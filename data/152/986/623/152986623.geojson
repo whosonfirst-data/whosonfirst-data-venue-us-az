@@ -2,13 +2,14 @@
   "id": 152986623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777508,33.422677,-111.777508,33.422677",
     "geom:latitude":33.422677,
     "geom:longitude":-111.777508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 E University Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152986623,
-    "wof:lastmodified":1449048022,
+    "wof:lastmodified":1466329490,
     "wof:name":"Mark Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.777508,33.422677,-111.777508,33.422677],
+  "bbox": [
+    -111.777508,
+    33.422677,
+    -111.777508,
+    33.422677
+],
   "geometry": {"coordinates":[-111.777508,33.422677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169225805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816497,32.177828,-110.816497,32.177828",
     "geom:latitude":32.177828,
     "geom:longitude":-110.816497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3730 S Le Brecque Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169225805,
-    "wof:lastmodified":1449033717,
+    "wof:lastmodified":1466332316,
     "wof:name":"John Mc Donough Photography",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816497,32.177828,-110.816497,32.177828],
+  "bbox": [
+    -110.816497,
+    32.177828,
+    -110.816497,
+    32.177828
+],
   "geometry": {"coordinates":[-110.816497,32.177828],"type":"Point"}
 }

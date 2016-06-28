@@ -2,13 +2,14 @@
   "id": 169256455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.840163,32.274117,-110.840163,32.274117",
     "geom:latitude":32.274117,
     "geom:longitude":-110.840163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3681 N River Canyon Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169256455,
-    "wof:lastmodified":1449035174,
+    "wof:lastmodified":1466332539,
     "wof:name":"B'Nai B'Rith Convenant Houses",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.840163,32.274117,-110.840163,32.274117],
+  "bbox": [
+    -110.840163,
+    32.274117,
+    -110.840163,
+    32.274117
+],
   "geometry": {"coordinates":[-110.840163,32.274117],"type":"Point"}
 }

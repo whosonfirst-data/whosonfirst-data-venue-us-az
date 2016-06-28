@@ -2,13 +2,14 @@
   "id": 168863547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.914112,32.264553,-110.914112,32.264553",
     "geom:latitude":32.264553,
     "geom:longitude":-110.914112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 N Dodge Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168863547,
-    "wof:lastmodified":1449028299,
+    "wof:lastmodified":1466326899,
     "wof:name":"Lifeline",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.914112,32.264553,-110.914112,32.264553],
+  "bbox": [
+    -110.914112,
+    32.264553,
+    -110.914112,
+    32.264553
+],
   "geometry": {"coordinates":[-110.914112,32.264553],"type":"Point"}
 }

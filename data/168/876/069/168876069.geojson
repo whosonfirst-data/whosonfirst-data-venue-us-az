@@ -2,13 +2,14 @@
   "id": 168876069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943769,32.256627,-110.943769,32.256627",
     "geom:latitude":32.256627,
     "geom:longitude":-110.943769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168876069,
-    "wof:lastmodified":1449027924,
+    "wof:lastmodified":1466328234,
     "wof:name":"Head West Smoke Shop",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943769,32.256627,-110.943769,32.256627],
+  "bbox": [
+    -110.943769,
+    32.256627,
+    -110.943769,
+    32.256627
+],
   "geometry": {"coordinates":[-110.943769,32.256627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169383153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.132846,34.281848,-110.132846,34.281848",
     "geom:latitude":34.281848,
     "geom:longitude":-110.132846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Tumbling 77",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169383153,
-    "wof:lastmodified":1449034071,
+    "wof:lastmodified":1466333818,
     "wof:name":"Two Ssters Ntiv Amercn Jewerly",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.132846,34.281848,-110.132846,34.281848],
+  "bbox": [
+    -110.132846,
+    34.281848,
+    -110.132846,
+    34.281848
+],
   "geometry": {"coordinates":[-110.132846,34.281848],"type":"Point"}
 }

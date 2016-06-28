@@ -2,13 +2,14 @@
   "id": 320820015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125923,33.664613,-112.125923,33.664613",
     "geom:latitude":33.664613,
     "geom:longitude":-112.125923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19645 N 31st Ave Apt 3039",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320820015,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1466329980,
     "wof:name":"Brian Brady, Ma, Cpc, Pc",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.125923,33.664613,-112.125923,33.664613],
+  "bbox": [
+    -112.125923,
+    33.664613,
+    -112.125923,
+    33.664613
+],
   "geometry": {"coordinates":[-112.125923,33.664613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168872335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.880284,32.201685,-110.880284,32.201685",
     "geom:latitude":32.201685,
     "geom:longitude":-110.880284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1633 S Cloverland Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812787,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85812787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168872335,
-    "wof:lastmodified":1449027843,
+    "wof:lastmodified":1466327658,
     "wof:name":"Mikes Home Repairs",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.880284,32.201685,-110.880284,32.201685],
+  "bbox": [
+    -110.880284,
+    32.201685,
+    -110.880284,
+    32.201685
+],
   "geometry": {"coordinates":[-110.880284,32.201685],"type":"Point"}
 }

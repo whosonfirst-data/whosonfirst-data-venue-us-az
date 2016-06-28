@@ -2,13 +2,14 @@
   "id": 169264941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.76108,32.849986,-109.76108,32.849986",
     "geom:latitude":32.849986,
     "geom:longitude":-109.76108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 N College Ave",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169264941,
-    "wof:lastmodified":1449034829,
+    "wof:lastmodified":1466332488,
     "wof:name":"Thatcher City Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.76108,32.849986,-109.76108,32.849986],
-  "geometry": {"coordinates":[-109.76108,32.849986],"type":"Point"}
+  "bbox": [
+    -109.76108,
+    32.849986,
+    -109.76108,
+    32.849986
+],
+  "geometry": {"coordinates":[-109.76108000000001,32.849986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168904969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973297,33.475641,-111.973297,33.475641",
     "geom:latitude":33.475641,
     "geom:longitude":-111.973297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5021 E Yale St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834573,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85834573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168904969,
-    "wof:lastmodified":1449028607,
+    "wof:lastmodified":1466329627,
     "wof:name":"Arizona Health Depot",
     "wof:parent_id":85834573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973297,33.475641,-111.973297,33.475641],
+  "bbox": [
+    -111.973297,
+    33.475641,
+    -111.973297,
+    33.475641
+],
   "geometry": {"coordinates":[-111.973297,33.475641],"type":"Point"}
 }

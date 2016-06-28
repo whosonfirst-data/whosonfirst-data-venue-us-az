@@ -2,13 +2,14 @@
   "id": 320776995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069527,33.569111,-112.069527,33.569111",
     "geom:latitude":33.569111,
     "geom:longitude":-112.069527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Eva St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320776995,
-    "wof:lastmodified":1449012071,
+    "wof:lastmodified":1466329368,
     "wof:name":"John C Lincoln Adult Day Hlth",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "citizen"
     ]
 },
-  "bbox": [-112.069527,33.569111,-112.069527,33.569111],
-  "geometry": {"coordinates":[-112.069527,33.569111],"type":"Point"}
+  "bbox": [
+    -112.069527,
+    33.569111,
+    -112.069527,
+    33.569111
+],
+  "geometry": {"coordinates":[-112.06952699999999,33.569111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169244681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049283,33.528961,-112.049283,33.528961",
     "geom:latitude":33.528961,
     "geom:longitude":-112.049283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6310 N 15th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169244681,
-    "wof:lastmodified":1449033990,
+    "wof:lastmodified":1466332646,
     "wof:name":"Upaya International",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.049283,33.528961,-112.049283,33.528961],
+  "bbox": [
+    -112.049283,
+    33.528961,
+    -112.049283,
+    33.528961
+],
   "geometry": {"coordinates":[-112.049283,33.528961],"type":"Point"}
 }

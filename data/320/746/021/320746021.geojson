@@ -2,13 +2,14 @@
   "id": 320746021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.127357,33.487616,-112.127357,33.487616",
     "geom:latitude":33.487616,
     "geom:longitude":-112.127357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 W Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320746021,
-    "wof:lastmodified":1449011228,
+    "wof:lastmodified":1466328802,
     "wof:name":"Michigan Rv & Mobile Home Park",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "lease"
     ]
 },
-  "bbox": [-112.127357,33.487616,-112.127357,33.487616],
+  "bbox": [
+    -112.127357,
+    33.487616,
+    -112.127357,
+    33.487616
+],
   "geometry": {"coordinates":[-112.127357,33.487616],"type":"Point"}
 }

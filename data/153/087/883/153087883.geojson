@@ -2,13 +2,14 @@
   "id": 153087883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05237,33.806805,-112.05237,33.806805",
     "geom:latitude":33.806805,
     "geom:longitude":-112.05237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35440 N 14th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153087883,
-    "wof:lastmodified":1449040535,
+    "wof:lastmodified":1466329452,
     "wof:name":"Marcottes Landscaping Inc",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.05237,33.806805,-112.05237,33.806805],
+  "bbox": [
+    -112.05237,
+    33.806805,
+    -112.05237,
+    33.806805
+],
   "geometry": {"coordinates":[-112.05237,33.806805],"type":"Point"}
 }

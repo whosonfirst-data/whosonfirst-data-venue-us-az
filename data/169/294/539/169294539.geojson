@@ -2,13 +2,14 @@
   "id": 169294539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.975045,34.17457,-109.975045,34.17457",
     "geom:latitude":34.17457,
     "geom:longitude":-109.975045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3877 White Mountain Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169294539,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1466332923,
     "wof:name":"Bailey General Store",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.975045,34.17457,-109.975045,34.17457],
-  "geometry": {"coordinates":[-109.975045,34.17457],"type":"Point"}
+  "bbox": [
+    -109.975045,
+    34.17457,
+    -109.975045,
+    34.17457
+],
+  "geometry": {"coordinates":[-109.97504499999999,34.17457],"type":"Point"}
 }

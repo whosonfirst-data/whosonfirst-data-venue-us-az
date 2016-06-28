@@ -2,13 +2,14 @@
   "id": 169038505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.064169,35.190533,-114.064169,35.190533",
     "geom:latitude":35.190533,
     "geom:longitude":-114.064169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W Beale St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169038505,
-    "wof:lastmodified":1449034804,
+    "wof:lastmodified":1466327615,
     "wof:name":"Boston Antiques",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.064169,35.190533,-114.064169,35.190533],
-  "geometry": {"coordinates":[-114.064169,35.190533],"type":"Point"}
+  "bbox": [
+    -114.064169,
+    35.190533,
+    -114.064169,
+    35.190533
+],
+  "geometry": {"coordinates":[-114.06416900000001,35.190533],"type":"Point"}
 }

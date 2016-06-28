@@ -2,13 +2,14 @@
   "id": 337550253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880454,33.575978,-111.880454,33.575978",
     "geom:latitude":33.575978,
     "geom:longitude":-111.880454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9220 E Mountain View Rd Ste 105",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":337550253,
-    "wof:lastmodified":1449027386,
+    "wof:lastmodified":1466326701,
     "wof:name":"Desert Mountain Dialysis",
     "wof:parent_id":85823421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "kidneys"
     ]
 },
-  "bbox": [-111.880454,33.575978,-111.880454,33.575978],
+  "bbox": [
+    -111.880454,
+    33.575978,
+    -111.880454,
+    33.575978
+],
   "geometry": {"coordinates":[-111.880454,33.575978],"type":"Point"}
 }

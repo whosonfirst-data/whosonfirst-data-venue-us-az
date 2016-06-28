@@ -2,13 +2,14 @@
   "id": 168876797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.806524,33.398003,-111.806524,33.398003",
     "geom:latitude":33.398003,
     "geom:longitude":-111.806524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 E 9th Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168876797,
-    "wof:lastmodified":1449027925,
+    "wof:lastmodified":1466327996,
     "wof:name":"Speakman & Sons Construction",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.806524,33.398003,-111.806524,33.398003],
+  "bbox": [
+    -111.806524,
+    33.398003,
+    -111.806524,
+    33.398003
+],
   "geometry": {"coordinates":[-111.806524,33.398003],"type":"Point"}
 }

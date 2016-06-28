@@ -2,13 +2,14 @@
   "id": 169104009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.107428,32.171767,-111.107428,32.171767",
     "geom:latitude":32.171767,
     "geom:longitude":-111.107428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6755 W Kay Lynn Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169104009,
-    "wof:lastmodified":1449034041,
+    "wof:lastmodified":1466331022,
     "wof:name":"Tile Canvases",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.107428,32.171767,-111.107428,32.171767],
+  "bbox": [
+    -111.107428,
+    32.171767,
+    -111.107428,
+    32.171767
+],
   "geometry": {"coordinates":[-111.107428,32.171767],"type":"Point"}
 }

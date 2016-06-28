@@ -2,13 +2,14 @@
   "id": 168891511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.442574,33.338298,-111.442574,33.338298",
     "geom:latitude":33.338298,
     "geom:longitude":-111.442574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9680 E Stone Circle Ln",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168891511,
-    "wof:lastmodified":1449028256,
+    "wof:lastmodified":1466328950,
     "wof:name":"Crosscuts Dog Grooming",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.442574,33.338298,-111.442574,33.338298],
-  "geometry": {"coordinates":[-111.442574,33.338298],"type":"Point"}
+  "bbox": [
+    -111.442574,
+    33.338298,
+    -111.442574,
+    33.338298
+],
+  "geometry": {"coordinates":[-111.44257399999999,33.338298],"type":"Point"}
 }

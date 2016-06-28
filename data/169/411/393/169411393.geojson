@@ -2,13 +2,14 @@
   "id": 169411393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.959139,33.640384,-111.959139,33.640384",
     "geom:latitude":33.640384,
     "geom:longitude":-111.959139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5635 E Bell Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169411393,
-    "wof:lastmodified":1449032843,
+    "wof:lastmodified":1466333730,
     "wof:name":"Bellagio",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.959139,33.640384,-111.959139,33.640384],
-  "geometry": {"coordinates":[-111.959139,33.640384],"type":"Point"}
+  "bbox": [
+    -111.959139,
+    33.640384,
+    -111.959139,
+    33.640384
+],
+  "geometry": {"coordinates":[-111.95913899999999,33.640384],"type":"Point"}
 }

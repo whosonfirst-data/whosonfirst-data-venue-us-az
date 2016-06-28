@@ -2,13 +2,14 @@
   "id": 320774955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05218,33.553221,-112.05218,33.553221",
     "geom:latitude":33.553221,
     "geom:longitude":-112.05218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 E Northern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320774955,
-    "wof:lastmodified":1449012720,
+    "wof:lastmodified":1466329326,
     "wof:name":"Arch Ideas & Design",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-112.05218,33.553221,-112.05218,33.553221],
-  "geometry": {"coordinates":[-112.05218,33.553221],"type":"Point"}
+  "bbox": [
+    -112.05218,
+    33.553221,
+    -112.05218,
+    33.553221
+],
+  "geometry": {"coordinates":[-112.05218000000001,33.553221],"type":"Point"}
 }

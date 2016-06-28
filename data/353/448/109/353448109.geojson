@@ -2,13 +2,14 @@
   "id": 353448109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.942255,33.381636,-111.942255,33.381636",
     "geom:latitude":33.381636,
     "geom:longitude":-111.942255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4936 S Ash Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353448109,
-    "wof:lastmodified":1449020665,
+    "wof:lastmodified":1466326632,
     "wof:name":"Velocity Fulfillment",
     "wof:parent_id":85881407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sale"
     ]
 },
-  "bbox": [-111.942255,33.381636,-111.942255,33.381636],
+  "bbox": [
+    -111.942255,
+    33.381636,
+    -111.942255,
+    33.381636
+],
   "geometry": {"coordinates":[-111.942255,33.381636],"type":"Point"}
 }

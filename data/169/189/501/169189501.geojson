@@ -2,13 +2,14 @@
   "id": 169189501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.543972,31.350597,-109.543972,31.350597",
     "geom:latitude":31.350597,
     "geom:longitude":-109.543972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 E 16th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169189501,
-    "wof:lastmodified":1449035014,
+    "wof:lastmodified":1466332059,
     "wof:name":"Bonita Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.543972,31.350597,-109.543972,31.350597],
+  "bbox": [
+    -109.543972,
+    31.350597,
+    -109.543972,
+    31.350597
+],
   "geometry": {"coordinates":[-109.543972,31.350597],"type":"Point"}
 }

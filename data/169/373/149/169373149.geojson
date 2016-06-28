@@ -2,13 +2,14 @@
   "id": 169373149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.15907,33.547713,-112.15907,33.547713",
     "geom:latitude":33.547713,
     "geom:longitude":-112.15907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 W Morten Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169373149,
-    "wof:lastmodified":1449034388,
+    "wof:lastmodified":1466333711,
     "wof:name":"Philips Tile",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.15907,33.547713,-112.15907,33.547713],
+  "bbox": [
+    -112.15907,
+    33.547713,
+    -112.15907,
+    33.547713
+],
   "geometry": {"coordinates":[-112.15907,33.547713],"type":"Point"}
 }

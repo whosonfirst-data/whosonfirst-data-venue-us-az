@@ -2,13 +2,14 @@
   "id": 169327417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.276113,31.55456,-110.276113,31.55456",
     "geom:latitude":31.55456,
     "geom:longitude":-110.276113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 E Fry Blvd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169327417,
-    "wof:lastmodified":1449032926,
+    "wof:lastmodified":1466333440,
     "wof:name":"Fresh Concepts Landscaping",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.276113,31.55456,-110.276113,31.55456],
+  "bbox": [
+    -110.276113,
+    31.55456,
+    -110.276113,
+    31.55456
+],
   "geometry": {"coordinates":[-110.276113,31.55456],"type":"Point"}
 }

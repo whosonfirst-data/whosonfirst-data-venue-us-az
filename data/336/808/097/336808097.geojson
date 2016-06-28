@@ -2,13 +2,14 @@
   "id": 336808097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.676157,33.39618,-111.676157,33.39618",
     "geom:latitude":33.39618,
     "geom:longitude":-111.676157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 S 72nd St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336808097,
-    "wof:lastmodified":1448996961,
+    "wof:lastmodified":1466329623,
     "wof:name":"Paul Agent Burch Bishop",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.676157,33.39618,-111.676157,33.39618],
+  "bbox": [
+    -111.676157,
+    33.39618,
+    -111.676157,
+    33.39618
+],
   "geometry": {"coordinates":[-111.676157,33.39618],"type":"Point"}
 }

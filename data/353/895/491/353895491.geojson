@@ -2,13 +2,14 @@
   "id": 353895491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.456009,34.601871,-112.456009,34.601871",
     "geom:latitude":34.601871,
     "geom:longitude":-112.456009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Sandretto Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353895491,
-    "wof:lastmodified":1449019330,
+    "wof:lastmodified":1466331072,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-112.456009,34.601871,-112.456009,34.601871],
-  "geometry": {"coordinates":[-112.456009,34.601871],"type":"Point"}
+  "bbox": [
+    -112.456009,
+    34.601871,
+    -112.456009,
+    34.601871
+],
+  "geometry": {"coordinates":[-112.45600899999999,34.601871],"type":"Point"}
 }

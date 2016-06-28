@@ -2,13 +2,14 @@
   "id": 169321817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777706,33.436,-111.777706,33.436",
     "geom:latitude":33.436,
     "geom:longitude":-111.777706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 E Fox St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169321817,
-    "wof:lastmodified":1449032762,
+    "wof:lastmodified":1466333231,
     "wof:name":"Larry Brewington Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.777706,33.436,-111.777706,33.436],
-  "geometry": {"coordinates":[-111.777706,33.436],"type":"Point"}
+  "bbox": [
+    -111.777706,
+    33.436,
+    -111.777706,
+    33.436
+],
+  "geometry": {"coordinates":[-111.77770599999999,33.436],"type":"Point"}
 }

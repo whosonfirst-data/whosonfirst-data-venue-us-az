@@ -2,13 +2,14 @@
   "id": 353703605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.62184,32.71973,-114.62184,32.71973",
     "geom:latitude":32.71973,
     "geom:longitude":-114.62184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 S 4th Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353703605,
-    "wof:lastmodified":1449019036,
+    "wof:lastmodified":1466329780,
     "wof:name":"Directview of Yuma",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "store"
     ]
 },
-  "bbox": [-114.62184,32.71973,-114.62184,32.71973],
-  "geometry": {"coordinates":[-114.62184,32.71973],"type":"Point"}
+  "bbox": [
+    -114.62184,
+    32.71973,
+    -114.62184,
+    32.71973
+],
+  "geometry": {"coordinates":[-114.62184000000001,32.71973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169224287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.956926,35.260196,-113.956926,35.260196",
     "geom:latitude":35.260196,
     "geom:longitude":-113.956926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Interstate Way",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169224287,
-    "wof:lastmodified":1449035087,
+    "wof:lastmodified":1466332306,
     "wof:name":"Interstate Group",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.956926,35.260196,-113.956926,35.260196],
+  "bbox": [
+    -113.956926,
+    35.260196,
+    -113.956926,
+    35.260196
+],
   "geometry": {"coordinates":[-113.956926,35.260196],"type":"Point"}
 }

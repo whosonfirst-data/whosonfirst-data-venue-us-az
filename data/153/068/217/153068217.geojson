@@ -2,13 +2,14 @@
   "id": 153068217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884922,33.585341,-111.884922,33.585341",
     "geom:latitude":33.585341,
     "geom:longitude":-111.884922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9070 E Desert Cove Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812523,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85812523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153068217,
-    "wof:lastmodified":1449040593,
+    "wof:lastmodified":1466328448,
     "wof:name":"Peterson Consulting Group",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.884922,33.585341,-111.884922,33.585341],
+  "bbox": [
+    -111.884922,
+    33.585341,
+    -111.884922,
+    33.585341
+],
   "geometry": {"coordinates":[-111.884922,33.585341],"type":"Point"}
 }

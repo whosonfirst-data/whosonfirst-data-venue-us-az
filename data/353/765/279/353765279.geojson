@@ -2,13 +2,14 @@
   "id": 353765279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358364,33.473088,-112.358364,33.473088",
     "geom:latitude":33.473088,
     "geom:longitude":-112.358364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 N Litchfield Rd Ste 208",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353765279,
-    "wof:lastmodified":1449019739,
+    "wof:lastmodified":1466330176,
     "wof:name":"Copper Hospitality Group",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.358364,33.473088,-112.358364,33.473088],
-  "geometry": {"coordinates":[-112.358364,33.473088],"type":"Point"}
+  "bbox": [
+    -112.358364,
+    33.473088,
+    -112.358364,
+    33.473088
+],
+  "geometry": {"coordinates":[-112.35836399999999,33.473088],"type":"Point"}
 }

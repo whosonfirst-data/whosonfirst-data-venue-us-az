@@ -2,13 +2,14 @@
   "id": 320755601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995278,33.511843,-111.995278,33.511843",
     "geom:latitude":33.511843,
     "geom:longitude":-111.995278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 N 40th St Ste 107",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320755601,
-    "wof:lastmodified":1449012312,
+    "wof:lastmodified":1466328965,
     "wof:name":"Infinity Hospice Care",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.995278,33.511843,-111.995278,33.511843],
+  "bbox": [
+    -111.995278,
+    33.511843,
+    -111.995278,
+    33.511843
+],
   "geometry": {"coordinates":[-111.995278,33.511843],"type":"Point"}
 }

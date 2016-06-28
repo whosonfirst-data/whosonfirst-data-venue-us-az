@@ -2,13 +2,14 @@
   "id": 353591011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.189389,33.58281,-112.189389,33.58281",
     "geom:latitude":33.58281,
     "geom:longitude":-112.189389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10654 N 60th Ave Apt 1044",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353591011,
-    "wof:lastmodified":1449019630,
+    "wof:lastmodified":1466328386,
     "wof:name":"Chain Creations",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chain"
     ]
 },
-  "bbox": [-112.189389,33.58281,-112.189389,33.58281],
-  "geometry": {"coordinates":[-112.189389,33.58281],"type":"Point"}
+  "bbox": [
+    -112.189389,
+    33.58281,
+    -112.189389,
+    33.58281
+],
+  "geometry": {"coordinates":[-112.18938900000001,33.58281],"type":"Point"}
 }

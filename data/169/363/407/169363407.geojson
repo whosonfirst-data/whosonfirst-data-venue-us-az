@@ -2,13 +2,14 @@
   "id": 169363407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878801,33.248381,-111.878801,33.248381",
     "geom:latitude":33.248381,
     "geom:longitude":-111.878801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 S Ivy Ct",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.tcservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876643,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169363407,
-    "wof:lastmodified":1449035555,
+    "wof:lastmodified":1466333619,
     "wof:name":"Thomas Consulting Svc",
     "wof:parent_id":85876643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.878801,33.248381,-111.878801,33.248381],
+  "bbox": [
+    -111.878801,
+    33.248381,
+    -111.878801,
+    33.248381
+],
   "geometry": {"coordinates":[-111.878801,33.248381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169312917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.538356,34.852398,-114.538356,34.852398",
     "geom:latitude":34.852398,
     "geom:longitude":-114.538356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3214 Cheyenne Dr",
     "sg:city":"Mohave Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169312917,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1466333171,
     "wof:name":"Drc Construction",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.538356,34.852398,-114.538356,34.852398],
-  "geometry": {"coordinates":[-114.538356,34.852398],"type":"Point"}
+  "bbox": [
+    -114.538356,
+    34.852398,
+    -114.538356,
+    34.852398
+],
+  "geometry": {"coordinates":[-114.53835599999999,34.852398],"type":"Point"}
 }

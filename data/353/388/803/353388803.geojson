@@ -2,13 +2,14 @@
   "id": 353388803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919897,33.416685,-111.919897,33.416685",
     "geom:latitude":33.416685,
     "geom:longitude":-111.919897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 E Lemon St Apt 127",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353388803,
-    "wof:lastmodified":1449018336,
+    "wof:lastmodified":1466326172,
     "wof:name":"Namesake Trucking",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.919897,33.416685,-111.919897,33.416685],
-  "geometry": {"coordinates":[-111.919897,33.416685],"type":"Point"}
+  "bbox": [
+    -111.919897,
+    33.416685,
+    -111.919897,
+    33.416685
+],
+  "geometry": {"coordinates":[-111.91989700000001,33.416685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152905981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986072,32.22499,-110.986072,32.22499",
     "geom:latitude":32.22499,
     "geom:longitude":-110.986072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 N Commerce Park Loop",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152905981,
-    "wof:lastmodified":1449046116,
+    "wof:lastmodified":1466325983,
     "wof:name":"Pima County Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.986072,32.22499,-110.986072,32.22499],
-  "geometry": {"coordinates":[-110.986072,32.22499],"type":"Point"}
+  "bbox": [
+    -110.986072,
+    32.22499,
+    -110.986072,
+    32.22499
+],
+  "geometry": {"coordinates":[-110.98607199999999,32.22499],"type":"Point"}
 }

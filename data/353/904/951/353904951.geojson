@@ -2,13 +2,14 @@
   "id": 353904951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.760208,34.861912,-111.760208,34.861912",
     "geom:latitude":34.861912,
     "geom:longitude":-111.760208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Sedona View Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353904951,
-    "wof:lastmodified":1449020867,
+    "wof:lastmodified":1466331055,
     "wof:name":"Wax Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-111.760208,34.861912,-111.760208,34.861912],
-  "geometry": {"coordinates":[-111.760208,34.861912],"type":"Point"}
+  "bbox": [
+    -111.760208,
+    34.861912,
+    -111.760208,
+    34.861912
+],
+  "geometry": {"coordinates":[-111.76020800000001,34.861912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169234697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.935034,32.221417,-110.935034,32.221417",
     "geom:latitude":32.221417,
     "geom:longitude":-110.935034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169234697,
-    "wof:lastmodified":1449035781,
+    "wof:lastmodified":1466332453,
     "wof:name":"J R Insurance",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.935034,32.221417,-110.935034,32.221417],
+  "bbox": [
+    -110.935034,
+    32.221417,
+    -110.935034,
+    32.221417
+],
   "geometry": {"coordinates":[-110.935034,32.221417],"type":"Point"}
 }

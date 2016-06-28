@@ -2,13 +2,14 @@
   "id": 169338397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.62953,32.725212,-114.62953,32.725212",
     "geom:latitude":32.725212,
     "geom:longitude":-114.62953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W 1st St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169338397,
-    "wof:lastmodified":1449033828,
+    "wof:lastmodified":1466333350,
     "wof:name":"Tortillas San Francisco",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.62953,32.725212,-114.62953,32.725212],
+  "bbox": [
+    -114.62953,
+    32.725212,
+    -114.62953,
+    32.725212
+],
   "geometry": {"coordinates":[-114.62953,32.725212],"type":"Point"}
 }

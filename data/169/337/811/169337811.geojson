@@ -2,13 +2,14 @@
   "id": 169337811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.735104,33.398631,-111.735104,33.398631",
     "geom:latitude":33.398631,
     "geom:longitude":-111.735104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 S Pico Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169337811,
-    "wof:lastmodified":1449034225,
+    "wof:lastmodified":1466333395,
     "wof:name":"Sun Star Heating & Aire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.735104,33.398631,-111.735104,33.398631],
-  "geometry": {"coordinates":[-111.735104,33.398631],"type":"Point"}
+  "bbox": [
+    -111.735104,
+    33.398631,
+    -111.735104,
+    33.398631
+],
+  "geometry": {"coordinates":[-111.73510400000001,33.398631],"type":"Point"}
 }

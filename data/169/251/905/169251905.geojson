@@ -2,13 +2,14 @@
   "id": 169251905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.018798,34.183764,-110.018798,34.183764",
     "geom:latitude":34.183764,
     "geom:longitude":-110.018798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5890 Wagon Wheel Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169251905,
-    "wof:lastmodified":1449032743,
+    "wof:lastmodified":1466332590,
     "wof:name":"White Mountain Meat Packing",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.018798,34.183764,-110.018798,34.183764],
+  "bbox": [
+    -110.018798,
+    34.183764,
+    -110.018798,
+    34.183764
+],
   "geometry": {"coordinates":[-110.018798,34.183764],"type":"Point"}
 }

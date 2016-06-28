@@ -2,13 +2,14 @@
   "id": 152927099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858159,32.235804,-110.858159,32.235804",
     "geom:latitude":32.235804,
     "geom:longitude":-110.858159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6210 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152927099,
-    "wof:lastmodified":1449048443,
+    "wof:lastmodified":1466325776,
     "wof:name":"Phillys Finest Restaurant",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.858159,32.235804,-110.858159,32.235804],
+  "bbox": [
+    -110.858159,
+    32.235804,
+    -110.858159,
+    32.235804
+],
   "geometry": {"coordinates":[-110.858159,32.235804],"type":"Point"}
 }

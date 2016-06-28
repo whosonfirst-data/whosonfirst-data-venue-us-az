@@ -2,13 +2,14 @@
   "id": 336632335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01203,33.436404,-112.01203,33.436404",
     "geom:latitude":33.436404,
     "geom:longitude":-112.01203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 E Sky Harbor Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336632335,
-    "wof:lastmodified":1448997614,
+    "wof:lastmodified":1466326590,
     "wof:name":"City Of Phoenix",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-112.01203,33.436404,-112.01203,33.436404],
+  "bbox": [
+    -112.01203,
+    33.436404,
+    -112.01203,
+    33.436404
+],
   "geometry": {"coordinates":[-112.01203,33.436404],"type":"Point"}
 }

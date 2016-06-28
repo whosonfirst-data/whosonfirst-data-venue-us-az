@@ -2,13 +2,14 @@
   "id": 169164535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974758,32.244795,-110.974758,32.244795",
     "geom:latitude":32.244795,
     "geom:longitude":-110.974758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Plata St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169164535,
-    "wof:lastmodified":1449033075,
+    "wof:lastmodified":1466331873,
     "wof:name":"San Tan Arizona Roof Systems",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974758,32.244795,-110.974758,32.244795],
-  "geometry": {"coordinates":[-110.974758,32.244795],"type":"Point"}
+  "bbox": [
+    -110.974758,
+    32.244795,
+    -110.974758,
+    32.244795
+],
+  "geometry": {"coordinates":[-110.97475799999999,32.244795],"type":"Point"}
 }

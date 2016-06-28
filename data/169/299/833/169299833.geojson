@@ -2,13 +2,14 @@
   "id": 169299833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.946643,32.28837,-110.946643,32.28837",
     "geom:latitude":32.28837,
     "geom:longitude":-110.946643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169299833,
-    "wof:lastmodified":1449033528,
+    "wof:lastmodified":1466333000,
     "wof:name":"Rojas Efrain F",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.946643,32.28837,-110.946643,32.28837],
-  "geometry": {"coordinates":[-110.946643,32.28837],"type":"Point"}
+  "bbox": [
+    -110.946643,
+    32.28837,
+    -110.946643,
+    32.28837
+],
+  "geometry": {"coordinates":[-110.94664299999999,32.28837],"type":"Point"}
 }

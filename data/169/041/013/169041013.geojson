@@ -2,13 +2,14 @@
   "id": 169041013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.346441,33.671037,-112.346441,33.671037",
     "geom:latitude":33.671037,
     "geom:longitude":-112.346441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20406 N 133rd Way",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169041013,
-    "wof:lastmodified":1449033883,
+    "wof:lastmodified":1466327833,
     "wof:name":"Biozhem Skin Care Ctr",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.346441,33.671037,-112.346441,33.671037],
+  "bbox": [
+    -112.346441,
+    33.671037,
+    -112.346441,
+    33.671037
+],
   "geometry": {"coordinates":[-112.346441,33.671037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168912259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.91417,33.84501,-111.91417,33.84501",
     "geom:latitude":33.84501,
     "geom:longitude":-111.91417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 E Grapevine Rd",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168912259,
-    "wof:lastmodified":1449028144,
+    "wof:lastmodified":1466330077,
     "wof:name":"Desert Pinnacle Homes",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.91417,33.84501,-111.91417,33.84501],
+  "bbox": [
+    -111.91417,
+    33.84501,
+    -111.91417,
+    33.84501
+],
   "geometry": {"coordinates":[-111.91417,33.84501],"type":"Point"}
 }

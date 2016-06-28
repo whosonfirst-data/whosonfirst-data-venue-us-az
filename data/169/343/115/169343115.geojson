@@ -2,13 +2,14 @@
   "id": 169343115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.160118,33.545729,-112.160118,33.545729",
     "geom:latitude":33.545729,
     "geom:longitude":-112.160118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4631 W Orangewood Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169343115,
-    "wof:lastmodified":1449035023,
+    "wof:lastmodified":1466333387,
     "wof:name":"Dennis M Williams",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.160118,33.545729,-112.160118,33.545729],
+  "bbox": [
+    -112.160118,
+    33.545729,
+    -112.160118,
+    33.545729
+],
   "geometry": {"coordinates":[-112.160118,33.545729],"type":"Point"}
 }

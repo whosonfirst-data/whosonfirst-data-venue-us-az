@@ -2,13 +2,14 @@
   "id": 353842729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92625,32.497752,-110.92625,32.497752",
     "geom:latitude":32.497752,
     "geom:longitude":-110.92625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16065 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353842729,
-    "wof:lastmodified":1449018446,
+    "wof:lastmodified":1466330588,
     "wof:name":"US Homes",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-110.92625,32.497752,-110.92625,32.497752],
+  "bbox": [
+    -110.92625,
+    32.497752,
+    -110.92625,
+    32.497752
+],
   "geometry": {"coordinates":[-110.92625,32.497752],"type":"Point"}
 }

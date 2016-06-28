@@ -2,13 +2,14 @@
   "id": 320610161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071222,33.44957,-112.071222,33.44957",
     "geom:latitude":33.44957,
     "geom:longitude":-112.071222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N 2nd St Ste 120",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320610161,
-    "wof:lastmodified":1449014903,
+    "wof:lastmodified":1466326015,
     "wof:name":"Greater Phx Convention And Visitors Center",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.071222,33.44957,-112.071222,33.44957],
-  "geometry": {"coordinates":[-112.071222,33.44957],"type":"Point"}
+  "bbox": [
+    -112.071222,
+    33.44957,
+    -112.071222,
+    33.44957
+],
+  "geometry": {"coordinates":[-112.07122200000001,33.44957],"type":"Point"}
 }

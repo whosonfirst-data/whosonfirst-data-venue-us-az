@@ -2,13 +2,14 @@
   "id": 168895807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921447,33.499885,-111.921447,33.499885",
     "geom:latitude":33.499885,
     "geom:longitude":-111.921447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 N Civic Center Plz",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168895807,
-    "wof:lastmodified":1449028102,
+    "wof:lastmodified":1466329631,
     "wof:name":"Mathew Budge Assoc",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921447,33.499885,-111.921447,33.499885],
+  "bbox": [
+    -111.921447,
+    33.499885,
+    -111.921447,
+    33.499885
+],
   "geometry": {"coordinates":[-111.921447,33.499885],"type":"Point"}
 }

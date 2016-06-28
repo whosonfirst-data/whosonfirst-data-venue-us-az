@@ -2,13 +2,14 @@
   "id": 169188481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.707693,32.793261,-109.707693,32.793261",
     "geom:latitude":32.793261,
     "geom:longitude":-109.707693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3851 US Hwy 191",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169188481,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1466332053,
     "wof:name":"H20 Drilling & Pump Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.707693,32.793261,-109.707693,32.793261],
-  "geometry": {"coordinates":[-109.707693,32.793261],"type":"Point"}
+  "bbox": [
+    -109.707693,
+    32.793261,
+    -109.707693,
+    32.793261
+],
+  "geometry": {"coordinates":[-109.70769300000001,32.793261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169036611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.86727,33.360363,-111.86727,33.360363",
     "geom:latitude":33.360363,
     "geom:longitude":-111.86727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 S Saguaro Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832561,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85832561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169036611,
-    "wof:lastmodified":1449033425,
+    "wof:lastmodified":1466327448,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85832561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.86727,33.360363,-111.86727,33.360363],
+  "bbox": [
+    -111.86727,
+    33.360363,
+    -111.86727,
+    33.360363
+],
   "geometry": {"coordinates":[-111.86727,33.360363],"type":"Point"}
 }

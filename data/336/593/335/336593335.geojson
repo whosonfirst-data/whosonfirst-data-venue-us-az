@@ -2,13 +2,14 @@
   "id": 336593335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030792,33.6325,-112.030792,33.6325",
     "geom:latitude":33.6325,
     "geom:longitude":-112.030792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16026 N Cave Creek Rd # 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336593335,
-    "wof:lastmodified":1448997648,
+    "wof:lastmodified":1466325841,
     "wof:name":"Api Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.030792,33.6325,-112.030792,33.6325],
-  "geometry": {"coordinates":[-112.030792,33.6325],"type":"Point"}
+  "bbox": [
+    -112.030792,
+    33.6325,
+    -112.030792,
+    33.6325
+],
+  "geometry": {"coordinates":[-112.03079200000001,33.6325],"type":"Point"}
 }

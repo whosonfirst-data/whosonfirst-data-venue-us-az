@@ -2,13 +2,14 @@
   "id": 168855303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.389284,33.641354,-112.389284,33.641354",
     "geom:latitude":33.641354,
     "geom:longitude":-112.389284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17408 N Cassi Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168855303,
-    "wof:lastmodified":1449028351,
+    "wof:lastmodified":1466326168,
     "wof:name":"Insurancebeacon Com Inc",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.389284,33.641354,-112.389284,33.641354],
+  "bbox": [
+    -112.389284,
+    33.641354,
+    -112.389284,
+    33.641354
+],
   "geometry": {"coordinates":[-112.389284,33.641354],"type":"Point"}
 }

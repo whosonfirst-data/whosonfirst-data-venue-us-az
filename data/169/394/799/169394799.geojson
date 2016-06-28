@@ -2,13 +2,14 @@
   "id": 169394799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841021,32.207574,-110.841021,32.207574",
     "geom:latitude":32.207574,
     "geom:longitude":-110.841021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 S Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169394799,
-    "wof:lastmodified":1449033331,
+    "wof:lastmodified":1466333992,
     "wof:name":"Kolb Road Lounge",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.841021,32.207574,-110.841021,32.207574],
+  "bbox": [
+    -110.841021,
+    32.207574,
+    -110.841021,
+    32.207574
+],
   "geometry": {"coordinates":[-110.841021,32.207574],"type":"Point"}
 }

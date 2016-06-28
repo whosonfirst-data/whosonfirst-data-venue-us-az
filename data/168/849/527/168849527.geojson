@@ -2,13 +2,14 @@
   "id": 168849527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142282,33.698216,-112.142282,33.698216",
     "geom:latitude":33.698216,
     "geom:longitude":-112.142282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3847 W Pinnacle Peak Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.adobedamfamilygolfcenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168849527,
-    "wof:lastmodified":1449027915,
+    "wof:lastmodified":1466327689,
     "wof:name":"Adobe Dam Family Golf Ctr",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.142282,33.698216,-112.142282,33.698216],
-  "geometry": {"coordinates":[-112.142282,33.698216],"type":"Point"}
+  "bbox": [
+    -112.142282,
+    33.698216,
+    -112.142282,
+    33.698216
+],
+  "geometry": {"coordinates":[-112.14228199999999,33.698216],"type":"Point"}
 }

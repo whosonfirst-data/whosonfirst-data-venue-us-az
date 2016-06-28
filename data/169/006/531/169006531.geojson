@@ -2,13 +2,14 @@
   "id": 169006531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.212515,33.642952,-112.212515,33.642952",
     "geom:latitude":33.642952,
     "geom:longitude":-112.212515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17437 N 71st Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877799,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169006531,
-    "wof:lastmodified":1449035317,
+    "wof:lastmodified":1466326389,
     "wof:name":"Arrowead Tech Ctr Cndmnm",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.212515,33.642952,-112.212515,33.642952],
+  "bbox": [
+    -112.212515,
+    33.642952,
+    -112.212515,
+    33.642952
+],
   "geometry": {"coordinates":[-112.212515,33.642952],"type":"Point"}
 }

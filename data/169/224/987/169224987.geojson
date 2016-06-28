@@ -2,13 +2,14 @@
   "id": 169224987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.025268,34.198888,-110.025268,34.198888",
     "geom:latitude":34.198888,
     "geom:longitude":-110.025268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6447 Pond Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169224987,
-    "wof:lastmodified":1449035088,
+    "wof:lastmodified":1466332374,
     "wof:name":"Rainbow Enterprises",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.025268,34.198888,-110.025268,34.198888],
+  "bbox": [
+    -110.025268,
+    34.198888,
+    -110.025268,
+    34.198888
+],
   "geometry": {"coordinates":[-110.025268,34.198888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169165495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976588,33.349065,-111.976588,33.349065",
     "geom:latitude":33.349065,
     "geom:longitude":-111.976588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5053 E Elliot Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808471,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
-        85814393,
-        85917469
+        85808471,
+        85917469,
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169165495,
-    "wof:lastmodified":1449035974,
+    "wof:lastmodified":1466331875,
     "wof:name":"Quilters Koop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976588,33.349065,-111.976588,33.349065],
-  "geometry": {"coordinates":[-111.976588,33.349065],"type":"Point"}
+  "bbox": [
+    -111.976588,
+    33.349065,
+    -111.976588,
+    33.349065
+],
+  "geometry": {"coordinates":[-111.97658800000001,33.349065],"type":"Point"}
 }

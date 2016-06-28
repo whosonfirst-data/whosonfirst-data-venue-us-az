@@ -2,13 +2,14 @@
   "id": 168976645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071283,33.450382,-112.071283,33.450382",
     "geom:latitude":33.450382,
     "geom:longitude":-112.071283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Monroe St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168976645,
-    "wof:lastmodified":1449028084,
+    "wof:lastmodified":1466331398,
     "wof:name":"Salon Phoenix",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.071283,33.450382,-112.071283,33.450382],
-  "geometry": {"coordinates":[-112.071283,33.450382],"type":"Point"}
+  "bbox": [
+    -112.071283,
+    33.450382,
+    -112.071283,
+    33.450382
+],
+  "geometry": {"coordinates":[-112.07128299999999,33.450382],"type":"Point"}
 }

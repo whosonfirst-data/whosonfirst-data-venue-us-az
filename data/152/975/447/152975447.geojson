@@ -2,13 +2,14 @@
   "id": 152975447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.084464,32.349472,-111.084464,32.349472",
     "geom:latitude":32.349472,
     "geom:longitude":-111.084464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7995 N Business Park Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152975447,
-    "wof:lastmodified":1449048278,
+    "wof:lastmodified":1466328699,
     "wof:name":"Arizona Pavillions Development",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.084464,32.349472,-111.084464,32.349472],
+  "bbox": [
+    -111.084464,
+    32.349472,
+    -111.084464,
+    32.349472
+],
   "geometry": {"coordinates":[-111.084464,32.349472],"type":"Point"}
 }

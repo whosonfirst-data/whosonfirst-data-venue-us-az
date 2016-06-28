@@ -2,13 +2,14 @@
   "id": 169297089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.434186,33.414,-112.434186,33.414",
     "geom:latitude":33.414,
     "geom:longitude":-112.434186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17300 W Broadway Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.rubbermaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169297089,
-    "wof:lastmodified":1449034787,
+    "wof:lastmodified":1466332962,
     "wof:name":"Rubbermaid Inc",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.434186,33.414,-112.434186,33.414],
+  "bbox": [
+    -112.434186,
+    33.414,
+    -112.434186,
+    33.414
+],
   "geometry": {"coordinates":[-112.434186,33.414],"type":"Point"}
 }

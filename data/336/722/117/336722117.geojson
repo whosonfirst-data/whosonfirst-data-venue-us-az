@@ -2,13 +2,14 @@
   "id": 336722117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124823,33.575468,-112.124823,33.575468",
     "geom:latitude":33.575468,
     "geom:longitude":-112.124823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9806 N Metro Pkwy W",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336722117,
-    "wof:lastmodified":1448997306,
+    "wof:lastmodified":1466328369,
     "wof:name":"Metrocenter",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mall"
     ]
 },
-  "bbox": [-112.124823,33.575468,-112.124823,33.575468],
-  "geometry": {"coordinates":[-112.124823,33.575468],"type":"Point"}
+  "bbox": [
+    -112.124823,
+    33.575468,
+    -112.124823,
+    33.575468
+],
+  "geometry": {"coordinates":[-112.12482300000001,33.575468],"type":"Point"}
 }

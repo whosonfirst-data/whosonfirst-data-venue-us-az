@@ -2,13 +2,14 @@
   "id": 169308609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.286701,33.673983,-112.286701,33.673983",
     "geom:latitude":33.673983,
     "geom:longitude":-112.286701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10458 W Ross Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169308609,
-    "wof:lastmodified":1449036055,
+    "wof:lastmodified":1466333249,
     "wof:name":"Arizona Insurance Solutions",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.286701,33.673983,-112.286701,33.673983],
-  "geometry": {"coordinates":[-112.286701,33.673983],"type":"Point"}
+  "bbox": [
+    -112.286701,
+    33.673983,
+    -112.286701,
+    33.673983
+],
+  "geometry": {"coordinates":[-112.28670099999999,33.673983],"type":"Point"}
 }

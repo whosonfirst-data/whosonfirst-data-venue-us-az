@@ -2,13 +2,14 @@
   "id": 336703993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.987869,33.305141,-111.987869,33.305141",
     "geom:latitude":33.305141,
     "geom:longitude":-111.987869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 E Chandler Blvd Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336703993,
-    "wof:lastmodified":1448997275,
+    "wof:lastmodified":1466328320,
     "wof:name":"Limos.Com",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-111.987869,33.305141,-111.987869,33.305141],
+  "bbox": [
+    -111.987869,
+    33.305141,
+    -111.987869,
+    33.305141
+],
   "geometry": {"coordinates":[-111.987869,33.305141],"type":"Point"}
 }

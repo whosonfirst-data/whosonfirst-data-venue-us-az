@@ -2,13 +2,14 @@
   "id": 152968115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053281,33.608612,-112.053281,33.608612",
     "geom:latitude":33.608612,
     "geom:longitude":-112.053281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 E Victor Hugo Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152968115,
-    "wof:lastmodified":1449044586,
+    "wof:lastmodified":1466328848,
     "wof:name":"Norquist Investments LLC",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.053281,33.608612,-112.053281,33.608612],
+  "bbox": [
+    -112.053281,
+    33.608612,
+    -112.053281,
+    33.608612
+],
   "geometry": {"coordinates":[-112.053281,33.608612],"type":"Point"}
 }

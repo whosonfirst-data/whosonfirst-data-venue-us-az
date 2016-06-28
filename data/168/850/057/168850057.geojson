@@ -2,13 +2,14 @@
   "id": 168850057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.980834,32.31908,-110.980834,32.31908",
     "geom:latitude":32.31908,
     "geom:longitude":-110.980834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 W Lavery Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168850057,
-    "wof:lastmodified":1449028216,
+    "wof:lastmodified":1466325704,
     "wof:name":"Pools Plus Inc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.980834,32.31908,-110.980834,32.31908],
+  "bbox": [
+    -110.980834,
+    32.31908,
+    -110.980834,
+    32.31908
+],
   "geometry": {"coordinates":[-110.980834,32.31908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153074993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065288,33.569562,-112.065288,33.569562",
     "geom:latitude":33.569562,
     "geom:longitude":-112.065288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9120 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153074993,
-    "wof:lastmodified":1449040609,
+    "wof:lastmodified":1466328847,
     "wof:name":"Carburetor Radiator Exchange",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065288,33.569562,-112.065288,33.569562],
+  "bbox": [
+    -112.065288,
+    33.569562,
+    -112.065288,
+    33.569562
+],
   "geometry": {"coordinates":[-112.065288,33.569562],"type":"Point"}
 }

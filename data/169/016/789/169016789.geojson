@@ -2,13 +2,14 @@
   "id": 169016789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.21038,32.320545,-111.21038,32.320545",
     "geom:latitude":32.320545,
     "geom:longitude":-111.21038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6255 N Diamond Hills Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169016789,
-    "wof:lastmodified":1449033265,
+    "wof:lastmodified":1466327728,
     "wof:name":"Cocoraque Ranch",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.21038,32.320545,-111.21038,32.320545],
+  "bbox": [
+    -111.21038,
+    32.320545,
+    -111.21038,
+    32.320545
+],
   "geometry": {"coordinates":[-111.21038,32.320545],"type":"Point"}
 }

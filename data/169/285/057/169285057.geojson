@@ -2,13 +2,14 @@
   "id": 169285057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.862009,33.574716,-111.862009,33.574716",
     "geom:latitude":33.574716,
     "geom:longitude":-111.862009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10135 E Via Linda",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.remediapublications.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880971,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169285057,
-    "wof:lastmodified":1449032781,
+    "wof:lastmodified":1466332819,
     "wof:name":"Remedia Publications",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.862009,33.574716,-111.862009,33.574716],
+  "bbox": [
+    -111.862009,
+    33.574716,
+    -111.862009,
+    33.574716
+],
   "geometry": {"coordinates":[-111.862009,33.574716],"type":"Point"}
 }

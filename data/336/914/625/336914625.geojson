@@ -2,13 +2,14 @@
   "id": 336914625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790486,33.316442,-111.790486,33.316442",
     "geom:latitude":33.316442,
     "geom:longitude":-111.790486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1873 S Spartan St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":336914625,
-    "wof:lastmodified":1448997358,
+    "wof:lastmodified":1466330728,
     "wof:name":"All About Garage Doors",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-111.790486,33.316442,-111.790486,33.316442],
+  "bbox": [
+    -111.790486,
+    33.316442,
+    -111.790486,
+    33.316442
+],
   "geometry": {"coordinates":[-111.790486,33.316442],"type":"Point"}
 }

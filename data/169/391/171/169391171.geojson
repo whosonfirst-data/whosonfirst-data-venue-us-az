@@ -2,13 +2,14 @@
   "id": 169391171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.774488,32.09364,-110.774488,32.09364",
     "geom:latitude":32.09364,
     "geom:longitude":-110.774488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10172 E Prospect Vista Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169391171,
-    "wof:lastmodified":1449034801,
+    "wof:lastmodified":1466333859,
     "wof:name":"Coyote Cooling & Heating LLC",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.774488,32.09364,-110.774488,32.09364],
-  "geometry": {"coordinates":[-110.774488,32.09364],"type":"Point"}
+  "bbox": [
+    -110.774488,
+    32.09364,
+    -110.774488,
+    32.09364
+],
+  "geometry": {"coordinates":[-110.77448800000001,32.09364],"type":"Point"}
 }

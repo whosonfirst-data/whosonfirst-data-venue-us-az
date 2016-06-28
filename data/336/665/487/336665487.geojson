@@ -2,13 +2,14 @@
   "id": 336665487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073242,33.392782,-112.073242,33.392782",
     "geom:latitude":33.392782,
     "geom:longitude":-112.073242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5869 S Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":336665487,
-    "wof:lastmodified":1448997276,
+    "wof:lastmodified":1466327317,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "rental"
     ]
 },
-  "bbox": [-112.073242,33.392782,-112.073242,33.392782],
-  "geometry": {"coordinates":[-112.073242,33.392782],"type":"Point"}
+  "bbox": [
+    -112.073242,
+    33.392782,
+    -112.073242,
+    33.392782
+],
+  "geometry": {"coordinates":[-112.07324199999999,33.392782],"type":"Point"}
 }

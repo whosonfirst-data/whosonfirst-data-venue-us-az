@@ -2,13 +2,14 @@
   "id": 169130813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.180016,33.578953,-112.180016,33.578953",
     "geom:latitude":33.578953,
     "geom:longitude":-112.180016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10221 N 56th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169130813,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466331557,
     "wof:name":"1st United Charitable Tru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.180016,33.578953,-112.180016,33.578953],
-  "geometry": {"coordinates":[-112.180016,33.578953],"type":"Point"}
+  "bbox": [
+    -112.180016,
+    33.578953,
+    -112.180016,
+    33.578953
+],
+  "geometry": {"coordinates":[-112.18001599999999,33.578953],"type":"Point"}
 }

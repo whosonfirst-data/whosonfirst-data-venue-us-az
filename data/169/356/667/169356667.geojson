@@ -2,13 +2,14 @@
   "id": 169356667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.327081,34.634681,-112.327081,34.634681",
     "geom:latitude":34.634681,
     "geom:longitude":-112.327081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7831 E Powers Ave",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169356667,
-    "wof:lastmodified":1449035373,
+    "wof:lastmodified":1466333569,
     "wof:name":"DEV Enterprises",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.327081,34.634681,-112.327081,34.634681],
-  "geometry": {"coordinates":[-112.327081,34.634681],"type":"Point"}
+  "bbox": [
+    -112.327081,
+    34.634681,
+    -112.327081,
+    34.634681
+],
+  "geometry": {"coordinates":[-112.32708100000001,34.634681],"type":"Point"}
 }

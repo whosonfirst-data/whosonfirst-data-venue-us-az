@@ -2,13 +2,14 @@
   "id": 169375267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.277106,33.652542,-112.277106,33.652542",
     "geom:latitude":33.652542,
     "geom:longitude":-112.277106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9885 W Union Hills Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169375267,
-    "wof:lastmodified":1449032806,
+    "wof:lastmodified":1466333721,
     "wof:name":"Ian's Resale Furn & Cnsgnmnt",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.277106,33.652542,-112.277106,33.652542],
+  "bbox": [
+    -112.277106,
+    33.652542,
+    -112.277106,
+    33.652542
+],
   "geometry": {"coordinates":[-112.277106,33.652542],"type":"Point"}
 }

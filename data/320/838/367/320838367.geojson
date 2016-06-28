@@ -2,13 +2,14 @@
   "id": 320838367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.981366,33.582752,-111.981366,33.582752",
     "geom:latitude":33.582752,
     "geom:longitude":-111.981366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4648 E Shea Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320838367,
-    "wof:lastmodified":1449011701,
+    "wof:lastmodified":1466330340,
     "wof:name":"Karen T Robertson Md",
     "wof:parent_id":85853825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.981366,33.582752,-111.981366,33.582752],
-  "geometry": {"coordinates":[-111.981366,33.582752],"type":"Point"}
+  "bbox": [
+    -111.981366,
+    33.582752,
+    -111.981366,
+    33.582752
+],
+  "geometry": {"coordinates":[-111.98136599999999,33.582752],"type":"Point"}
 }

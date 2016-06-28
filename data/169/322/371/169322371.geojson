@@ -2,13 +2,14 @@
   "id": 169322371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936601,32.262983,-110.936601,32.262983",
     "geom:latitude":32.262983,
     "geom:longitude":-110.936601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 E Hedrick Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169322371,
-    "wof:lastmodified":1449032647,
+    "wof:lastmodified":1466333192,
     "wof:name":"Catalina Terrace Community",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936601,32.262983,-110.936601,32.262983],
+  "bbox": [
+    -110.936601,
+    32.262983,
+    -110.936601,
+    32.262983
+],
   "geometry": {"coordinates":[-110.936601,32.262983],"type":"Point"}
 }

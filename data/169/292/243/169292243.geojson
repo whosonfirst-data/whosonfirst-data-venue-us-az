@@ -2,13 +2,14 @@
   "id": 169292243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.871014,32.2352,-110.871014,32.2352",
     "geom:latitude":32.2352,
     "geom:longitude":-110.871014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5602 E 1st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169292243,
-    "wof:lastmodified":1449032952,
+    "wof:lastmodified":1466332974,
     "wof:name":"Diversity Travel",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.871014,32.2352,-110.871014,32.2352],
+  "bbox": [
+    -110.871014,
+    32.2352,
+    -110.871014,
+    32.2352
+],
   "geometry": {"coordinates":[-110.871014,32.2352],"type":"Point"}
 }

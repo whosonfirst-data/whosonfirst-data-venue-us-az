@@ -2,13 +2,14 @@
   "id": 153088699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952237,32.208469,-110.952237,32.208469",
     "geom:latitude":32.208469,
     "geom:longitude":-110.952237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 S Mountain Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153088699,
-    "wof:lastmodified":1449040706,
+    "wof:lastmodified":1466329239,
     "wof:name":"Flat Rate Iron",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.952237,32.208469,-110.952237,32.208469],
+  "bbox": [
+    -110.952237,
+    32.208469,
+    -110.952237,
+    32.208469
+],
   "geometry": {"coordinates":[-110.952237,32.208469],"type":"Point"}
 }

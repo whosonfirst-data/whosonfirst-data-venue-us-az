@@ -2,13 +2,14 @@
   "id": 169095977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223405,33.647401,-112.223405,33.647401",
     "geom:latitude":33.647401,
     "geom:longitude":-112.223405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 W John Cabot Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169095977,
-    "wof:lastmodified":1449034362,
+    "wof:lastmodified":1466330823,
     "wof:name":"Phoenix Flyers Dog Agility",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223405,33.647401,-112.223405,33.647401],
+  "bbox": [
+    -112.223405,
+    33.647401,
+    -112.223405,
+    33.647401
+],
   "geometry": {"coordinates":[-112.223405,33.647401],"type":"Point"}
 }

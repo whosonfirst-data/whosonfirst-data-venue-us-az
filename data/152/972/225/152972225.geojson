@@ -2,13 +2,14 @@
   "id": 152972225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.22604,32.154482,-111.22604,32.154482",
     "geom:latitude":32.154482,
     "geom:longitude":-111.22604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 S Tara Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152972225,
-    "wof:lastmodified":1449046621,
+    "wof:lastmodified":1466328764,
     "wof:name":"Rochelle's Housekeeping",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.22604,32.154482,-111.22604,32.154482],
+  "bbox": [
+    -111.22604,
+    32.154482,
+    -111.22604,
+    32.154482
+],
   "geometry": {"coordinates":[-111.22604,32.154482],"type":"Point"}
 }

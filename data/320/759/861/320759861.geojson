@@ -2,13 +2,14 @@
   "id": 320759861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.999779,33.499929,-111.999779,33.499929",
     "geom:latitude":33.499929,
     "geom:longitude":-111.999779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4317 N 38th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320759861,
-    "wof:lastmodified":1449015023,
+    "wof:lastmodified":1466329061,
     "wof:name":"Sweet Holdings",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-111.999779,33.499929,-111.999779,33.499929],
+  "bbox": [
+    -111.999779,
+    33.499929,
+    -111.999779,
+    33.499929
+],
   "geometry": {"coordinates":[-111.999779,33.499929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168946399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.821583,32.201665,-110.821583,32.201665",
     "geom:latitude":32.201665,
     "geom:longitude":-110.821583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1671 S Research Loop",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.jeffco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168946399,
-    "wof:lastmodified":1449028498,
+    "wof:lastmodified":1466330936,
     "wof:name":"Jeffco Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.821583,32.201665,-110.821583,32.201665],
+  "bbox": [
+    -110.821583,
+    32.201665,
+    -110.821583,
+    32.201665
+],
   "geometry": {"coordinates":[-110.821583,32.201665],"type":"Point"}
 }

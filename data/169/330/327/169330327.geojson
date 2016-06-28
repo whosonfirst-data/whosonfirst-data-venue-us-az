@@ -2,13 +2,14 @@
   "id": 169330327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.1001,33.459968,-112.1001,33.459968",
     "geom:latitude":33.459968,
     "geom:longitude":-112.1001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1146 N 19th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.dickensquality.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169330327,
-    "wof:lastmodified":1449034331,
+    "wof:lastmodified":1466333300,
     "wof:name":"Dickens Quality Demolition LLC",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.1001,33.459968,-112.1001,33.459968],
+  "bbox": [
+    -112.1001,
+    33.459968,
+    -112.1001,
+    33.459968
+],
   "geometry": {"coordinates":[-112.1001,33.459968],"type":"Point"}
 }

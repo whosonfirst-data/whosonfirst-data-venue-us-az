@@ -2,13 +2,14 @@
   "id": 353902013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.502817,34.857741,-112.502817,34.857741",
     "geom:latitude":34.857741,
     "geom:longitude":-112.502817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21625 N Antelope Rd",
     "sg:city":"Paulden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353902013,
-    "wof:lastmodified":1449020140,
+    "wof:lastmodified":1466331024,
     "wof:name":"Sandra Nelson Welding",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-112.502817,34.857741,-112.502817,34.857741],
-  "geometry": {"coordinates":[-112.502817,34.857741],"type":"Point"}
+  "bbox": [
+    -112.502817,
+    34.857741,
+    -112.502817,
+    34.857741
+],
+  "geometry": {"coordinates":[-112.50281699999999,34.857741],"type":"Point"}
 }

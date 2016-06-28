@@ -2,13 +2,14 @@
   "id": 169302619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.459324,34.545377,-112.459324,34.545377",
     "geom:latitude":34.545377,
     "geom:longitude":-112.459324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 E Sheldon St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169302619,
-    "wof:lastmodified":1449033797,
+    "wof:lastmodified":1466333043,
     "wof:name":"Doughboy Auto Repair",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.459324,34.545377,-112.459324,34.545377],
+  "bbox": [
+    -112.459324,
+    34.545377,
+    -112.459324,
+    34.545377
+],
   "geometry": {"coordinates":[-112.459324,34.545377],"type":"Point"}
 }

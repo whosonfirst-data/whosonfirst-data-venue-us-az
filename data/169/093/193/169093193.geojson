@@ -2,13 +2,14 @@
   "id": 169093193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958396,32.21812,-110.958396,32.21812",
     "geom:latitude":32.21812,
     "geom:longitude":-110.958396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Euclid Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169093193,
-    "wof:lastmodified":1449032692,
+    "wof:lastmodified":1466330528,
     "wof:name":"Law 2000 Inc",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.958396,32.21812,-110.958396,32.21812],
-  "geometry": {"coordinates":[-110.958396,32.21812],"type":"Point"}
+  "bbox": [
+    -110.958396,
+    32.21812,
+    -110.958396,
+    32.21812
+],
+  "geometry": {"coordinates":[-110.95839599999999,32.21812],"type":"Point"}
 }

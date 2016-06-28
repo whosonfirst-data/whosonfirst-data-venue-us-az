@@ -2,13 +2,14 @@
   "id": 169222549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96026,33.569642,-111.96026,33.569642",
     "geom:latitude":33.569642,
     "geom:longitude":-111.96026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5624 E Sanna St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858855,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169222549,
-    "wof:lastmodified":1449034898,
+    "wof:lastmodified":1466332278,
     "wof:name":"Catalina Custom Homes Inc",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.96026,33.569642,-111.96026,33.569642],
-  "geometry": {"coordinates":[-111.96026,33.569642],"type":"Point"}
+  "bbox": [
+    -111.96026,
+    33.569642,
+    -111.96026,
+    33.569642
+],
+  "geometry": {"coordinates":[-111.96026000000001,33.569642],"type":"Point"}
 }

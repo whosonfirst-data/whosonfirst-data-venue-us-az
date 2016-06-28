@@ -2,13 +2,14 @@
   "id": 169002263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030745,33.621851,-112.030745,33.621851",
     "geom:latitude":33.621851,
     "geom:longitude":-112.030745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14848 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831383,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169002263,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466325895,
     "wof:name":"Executive Detailing Svc",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.030745,33.621851,-112.030745,33.621851],
+  "bbox": [
+    -112.030745,
+    33.621851,
+    -112.030745,
+    33.621851
+],
   "geometry": {"coordinates":[-112.030745,33.621851],"type":"Point"}
 }

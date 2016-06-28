@@ -2,13 +2,14 @@
   "id": 336857111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886542,33.339476,-111.886542,33.339476",
     "geom:latitude":33.339476,
     "geom:longitude":-111.886542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2536 W El Alba Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336857111,
-    "wof:lastmodified":1448997630,
+    "wof:lastmodified":1466329967,
     "wof:name":"West Coast Dash",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-111.886542,33.339476,-111.886542,33.339476],
-  "geometry": {"coordinates":[-111.886542,33.339476],"type":"Point"}
+  "bbox": [
+    -111.886542,
+    33.339476,
+    -111.886542,
+    33.339476
+],
+  "geometry": {"coordinates":[-111.88654200000001,33.339476],"type":"Point"}
 }

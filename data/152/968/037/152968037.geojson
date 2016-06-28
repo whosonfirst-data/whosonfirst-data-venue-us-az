@@ -2,13 +2,14 @@
   "id": 152968037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.081143,32.359258,-111.081143,32.359258",
     "geom:latitude":32.359258,
     "geom:longitude":-111.081143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5441 W Cortaro Farms Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152968037,
-    "wof:lastmodified":1449044595,
+    "wof:lastmodified":1466328586,
     "wof:name":"K A Ministries Church",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.081143,32.359258,-111.081143,32.359258],
+  "bbox": [
+    -111.081143,
+    32.359258,
+    -111.081143,
+    32.359258
+],
   "geometry": {"coordinates":[-111.081143,32.359258],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320767583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139908,33.492787,-112.139908,33.492787",
     "geom:latitude":33.492787,
     "geom:longitude":-112.139908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3823 N 38th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320767583,
-    "wof:lastmodified":1449012328,
+    "wof:lastmodified":1466329195,
     "wof:name":"Arthurs Auto Body & Frame",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "repairing"
     ]
 },
-  "bbox": [-112.139908,33.492787,-112.139908,33.492787],
-  "geometry": {"coordinates":[-112.139908,33.492787],"type":"Point"}
+  "bbox": [
+    -112.139908,
+    33.492787,
+    -112.139908,
+    33.492787
+],
+  "geometry": {"coordinates":[-112.13990800000001,33.492787],"type":"Point"}
 }

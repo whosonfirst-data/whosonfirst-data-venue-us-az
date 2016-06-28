@@ -2,13 +2,14 @@
   "id": 337534379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926193,33.472122,-111.926193,33.472122",
     "geom:latitude":33.472122,
     "geom:longitude":-111.926193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Scottsdale Rd Ste H",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337534379,
-    "wof:lastmodified":1449027143,
+    "wof:lastmodified":1466326549,
     "wof:name":"Oak Street Linen Supply",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.926193,33.472122,-111.926193,33.472122],
+  "bbox": [
+    -111.926193,
+    33.472122,
+    -111.926193,
+    33.472122
+],
   "geometry": {"coordinates":[-111.926193,33.472122],"type":"Point"}
 }

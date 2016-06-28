@@ -2,13 +2,14 @@
   "id": 152946779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038959,33.510845,-112.038959,33.510845",
     "geom:latitude":33.510845,
     "geom:longitude":-112.038959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 N 20th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152946779,
-    "wof:lastmodified":1449048366,
+    "wof:lastmodified":1466327154,
     "wof:name":"Ernie's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.038959,33.510845,-112.038959,33.510845],
-  "geometry": {"coordinates":[-112.038959,33.510845],"type":"Point"}
+  "bbox": [
+    -112.038959,
+    33.510845,
+    -112.038959,
+    33.510845
+],
+  "geometry": {"coordinates":[-112.03895900000001,33.510845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320804617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112648,33.615171,-112.112648,33.615171",
     "geom:latitude":33.615171,
     "geom:longitude":-112.112648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2452 W Crocus Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320804617,
-    "wof:lastmodified":1449013868,
+    "wof:lastmodified":1466329852,
     "wof:name":"National Debt Assistance",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "debt"
     ]
 },
-  "bbox": [-112.112648,33.615171,-112.112648,33.615171],
-  "geometry": {"coordinates":[-112.112648,33.615171],"type":"Point"}
+  "bbox": [
+    -112.112648,
+    33.615171,
+    -112.112648,
+    33.615171
+],
+  "geometry": {"coordinates":[-112.11264799999999,33.615171],"type":"Point"}
 }

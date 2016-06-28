@@ -2,13 +2,14 @@
   "id": 152943577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.941633,31.339991,-110.941633,31.339991",
     "geom:latitude":31.339991,
     "geom:longitude":-110.941633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 W Plum St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152943577,
-    "wof:lastmodified":1449045519,
+    "wof:lastmodified":1466326927,
     "wof:name":"Santa Cruz Alternative High",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.941633,31.339991,-110.941633,31.339991],
+  "bbox": [
+    -110.941633,
+    31.339991,
+    -110.941633,
+    31.339991
+],
   "geometry": {"coordinates":[-110.941633,31.339991],"type":"Point"}
 }

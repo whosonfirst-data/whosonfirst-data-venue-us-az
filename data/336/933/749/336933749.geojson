@@ -2,13 +2,14 @@
   "id": 336933749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.754675,33.366451,-111.754675,33.366451",
     "geom:latitude":33.366451,
     "geom:longitude":-111.754675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"891 N Val Vista Dr Ste D101",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336933749,
-    "wof:lastmodified":1448997169,
+    "wof:lastmodified":1466330506,
     "wof:name":"Seattle Espresso",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.754675,33.366451,-111.754675,33.366451],
-  "geometry": {"coordinates":[-111.754675,33.366451],"type":"Point"}
+  "bbox": [
+    -111.754675,
+    33.366451,
+    -111.754675,
+    33.366451
+],
+  "geometry": {"coordinates":[-111.75467500000001,33.366451],"type":"Point"}
 }

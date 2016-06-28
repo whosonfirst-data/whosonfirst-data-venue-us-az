@@ -2,13 +2,14 @@
   "id": 168879325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.024835,33.489309,-112.024835,33.489309",
     "geom:latitude":33.489309,
     "geom:longitude":-112.024835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 N 26th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168879325,
-    "wof:lastmodified":1449027785,
+    "wof:lastmodified":1466328186,
     "wof:name":"Hard Drive Productions",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.024835,33.489309,-112.024835,33.489309],
+  "bbox": [
+    -112.024835,
+    33.489309,
+    -112.024835,
+    33.489309
+],
   "geometry": {"coordinates":[-112.024835,33.489309],"type":"Point"}
 }

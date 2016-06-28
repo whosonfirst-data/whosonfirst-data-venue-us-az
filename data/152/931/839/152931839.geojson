@@ -2,13 +2,14 @@
   "id": 152931839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.161437,33.519405,-112.161437,33.519405",
     "geom:latitude":33.519405,
     "geom:longitude":-112.161437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 N 48th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152931839,
-    "wof:lastmodified":1449048506,
+    "wof:lastmodified":1466326107,
     "wof:name":"Charles Robbins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.161437,33.519405,-112.161437,33.519405],
-  "geometry": {"coordinates":[-112.161437,33.519405],"type":"Point"}
+  "bbox": [
+    -112.161437,
+    33.519405,
+    -112.161437,
+    33.519405
+],
+  "geometry": {"coordinates":[-112.16143700000001,33.519405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168878639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.514971,34.541724,-112.514971,34.541724",
     "geom:latitude":34.541724,
     "geom:longitude":-112.514971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 S Horizon Cir",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168878639,
-    "wof:lastmodified":1449028179,
+    "wof:lastmodified":1466328131,
     "wof:name":"Ransom International Corp",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.514971,34.541724,-112.514971,34.541724],
+  "bbox": [
+    -112.514971,
+    34.541724,
+    -112.514971,
+    34.541724
+],
   "geometry": {"coordinates":[-112.514971,34.541724],"type":"Point"}
 }

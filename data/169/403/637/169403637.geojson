@@ -2,13 +2,14 @@
   "id": 169403637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.144974,33.603151,-112.144974,33.603151",
     "geom:latitude":33.603151,
     "geom:longitude":-112.144974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12835 N 40th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169403637,
-    "wof:lastmodified":1449035500,
+    "wof:lastmodified":1466334046,
     "wof:name":"Daves Auto Body Supply",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.144974,33.603151,-112.144974,33.603151],
+  "bbox": [
+    -112.144974,
+    33.603151,
+    -112.144974,
+    33.603151
+],
   "geometry": {"coordinates":[-112.144974,33.603151],"type":"Point"}
 }

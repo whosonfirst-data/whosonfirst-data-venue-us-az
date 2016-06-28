@@ -2,13 +2,14 @@
   "id": 169358951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91159,32.311736,-110.91159,32.311736",
     "geom:latitude":32.311736,
     "geom:longitude":-110.91159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 E Sunrise Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.creativearrangements.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169358951,
-    "wof:lastmodified":1449034058,
+    "wof:lastmodified":1466333685,
     "wof:name":"Creative Arrangements-Sylvia",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.91159,32.311736,-110.91159,32.311736],
+  "bbox": [
+    -110.91159,
+    32.311736,
+    -110.91159,
+    32.311736
+],
   "geometry": {"coordinates":[-110.91159,32.311736],"type":"Point"}
 }

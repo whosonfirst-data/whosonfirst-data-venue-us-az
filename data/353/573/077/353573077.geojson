@@ -2,13 +2,14 @@
   "id": 353573077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.201702,33.581652,-112.201702,33.581652",
     "geom:latitude":33.581652,
     "geom:longitude":-112.201702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6645 W Peoria Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353573077,
-    "wof:lastmodified":1449020128,
+    "wof:lastmodified":1466328234,
     "wof:name":"Wal-Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.201702,33.581652,-112.201702,33.581652],
+  "bbox": [
+    -112.201702,
+    33.581652,
+    -112.201702,
+    33.581652
+],
   "geometry": {"coordinates":[-112.201702,33.581652],"type":"Point"}
 }

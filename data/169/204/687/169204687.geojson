@@ -2,13 +2,14 @@
   "id": 169204687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.043715,34.256976,-110.043715,34.256976",
     "geom:latitude":34.256976,
     "geom:longitude":-110.043715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 W Old Linden Rd",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169204687,
-    "wof:lastmodified":1449036062,
+    "wof:lastmodified":1466332318,
     "wof:name":"Johnny Angels Diner",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.043715,34.256976,-110.043715,34.256976],
-  "geometry": {"coordinates":[-110.043715,34.256976],"type":"Point"}
+  "bbox": [
+    -110.043715,
+    34.256976,
+    -110.043715,
+    34.256976
+],
+  "geometry": {"coordinates":[-110.04371500000001,34.256976],"type":"Point"}
 }

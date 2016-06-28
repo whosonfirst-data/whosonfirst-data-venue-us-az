@@ -2,13 +2,14 @@
   "id": 153020679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001526,33.317212,-112.001526,33.317212",
     "geom:latitude":33.317212,
     "geom:longitude":-112.001526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 E Ray Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.foothillsathleticclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":153020679,
-    "wof:lastmodified":1449040538,
+    "wof:lastmodified":1466327141,
     "wof:name":"Foothills Athletic Club Inc",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.001526,33.317212,-112.001526,33.317212],
+  "bbox": [
+    -112.001526,
+    33.317212,
+    -112.001526,
+    33.317212
+],
   "geometry": {"coordinates":[-112.001526,33.317212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169363999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.944775,32.272122,-110.944775,32.272122",
     "geom:latitude":32.272122,
     "geom:longitude":-110.944775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169363999,
-    "wof:lastmodified":1449035556,
+    "wof:lastmodified":1466333687,
     "wof:name":"Carol A Mc Gonigle PC",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.944775,32.272122,-110.944775,32.272122],
-  "geometry": {"coordinates":[-110.944775,32.272122],"type":"Point"}
+  "bbox": [
+    -110.944775,
+    32.272122,
+    -110.944775,
+    32.272122
+],
+  "geometry": {"coordinates":[-110.94477500000001,32.272122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169019885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958629,32.21346,-110.958629,32.21346",
     "geom:latitude":32.21346,
     "geom:longitude":-110.958629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E 17th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169019885,
-    "wof:lastmodified":1449034579,
+    "wof:lastmodified":1466325955,
     "wof:name":"Dumas Products Inc",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.958629,32.21346,-110.958629,32.21346],
+  "bbox": [
+    -110.958629,
+    32.21346,
+    -110.958629,
+    32.21346
+],
   "geometry": {"coordinates":[-110.958629,32.21346],"type":"Point"}
 }

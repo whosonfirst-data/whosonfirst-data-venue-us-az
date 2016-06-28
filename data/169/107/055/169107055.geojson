@@ -2,13 +2,14 @@
   "id": 169107055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.146482,33.674211,-112.146482,33.674211",
     "geom:latitude":33.674211,
     "geom:longitude":-112.146482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4047 W Potter Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169107055,
-    "wof:lastmodified":1449032699,
+    "wof:lastmodified":1466331172,
     "wof:name":"Brothers United",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.146482,33.674211,-112.146482,33.674211],
-  "geometry": {"coordinates":[-112.146482,33.674211],"type":"Point"}
+  "bbox": [
+    -112.146482,
+    33.674211,
+    -112.146482,
+    33.674211
+],
+  "geometry": {"coordinates":[-112.14648200000001,33.674211],"type":"Point"}
 }

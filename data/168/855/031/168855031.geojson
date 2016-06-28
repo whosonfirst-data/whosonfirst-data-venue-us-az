@@ -2,13 +2,14 @@
   "id": 168855031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.980314,33.471903,-111.980314,33.471903",
     "geom:latitude":33.471903,
     "geom:longitude":-111.980314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 E Cypress St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834573,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85834573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168855031,
-    "wof:lastmodified":1449028353,
+    "wof:lastmodified":1466326144,
     "wof:name":"Meier Plastering",
     "wof:parent_id":85834573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.980314,33.471903,-111.980314,33.471903],
-  "geometry": {"coordinates":[-111.980314,33.471903],"type":"Point"}
+  "bbox": [
+    -111.980314,
+    33.471903,
+    -111.980314,
+    33.471903
+],
+  "geometry": {"coordinates":[-111.98031400000001,33.471903],"type":"Point"}
 }

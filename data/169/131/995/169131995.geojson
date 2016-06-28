@@ -2,13 +2,14 @@
   "id": 169131995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.727842,32.280055,-110.727842,32.280055",
     "geom:latitude":32.280055,
     "geom:longitude":-110.727842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12325 E Roger Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169131995,
-    "wof:lastmodified":1449033681,
+    "wof:lastmodified":1466331636,
     "wof:name":"Audubon Nature Shop",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.727842,32.280055,-110.727842,32.280055],
+  "bbox": [
+    -110.727842,
+    32.280055,
+    -110.727842,
+    32.280055
+],
   "geometry": {"coordinates":[-110.727842,32.280055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353670627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.289635,33.565643,-112.289635,33.565643",
     "geom:latitude":33.565643,
     "geom:longitude":-112.289635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10641 W Olive Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353670627,
-    "wof:lastmodified":1449018635,
+    "wof:lastmodified":1466329533,
     "wof:name":"H&R Block",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-112.289635,33.565643,-112.289635,33.565643],
+  "bbox": [
+    -112.289635,
+    33.565643,
+    -112.289635,
+    33.565643
+],
   "geometry": {"coordinates":[-112.289635,33.565643],"type":"Point"}
 }

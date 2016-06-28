@@ -2,13 +2,14 @@
   "id": 169284027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.824825,33.29675,-111.824825,33.29675",
     "geom:latitude":33.29675,
     "geom:longitude":-111.824825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Williams Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852033,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85852033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169284027,
-    "wof:lastmodified":1449034733,
+    "wof:lastmodified":1466332815,
     "wof:name":"Auto Appearance Express",
     "wof:parent_id":85852033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.824825,33.29675,-111.824825,33.29675],
+  "bbox": [
+    -111.824825,
+    33.29675,
+    -111.824825,
+    33.29675
+],
   "geometry": {"coordinates":[-111.824825,33.29675],"type":"Point"}
 }

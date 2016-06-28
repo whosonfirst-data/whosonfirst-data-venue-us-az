@@ -2,13 +2,14 @@
   "id": 169356689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10936,32.978359,-112.10936,32.978359",
     "geom:latitude":32.978359,
     "geom:longitude":-112.10936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50458 W Mayer Blvd",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169356689,
-    "wof:lastmodified":1449035376,
+    "wof:lastmodified":1466333569,
     "wof:name":"New Pipes Plumbing",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.10936,32.978359,-112.10936,32.978359],
+  "bbox": [
+    -112.10936,
+    32.978359,
+    -112.10936,
+    32.978359
+],
   "geometry": {"coordinates":[-112.10936,32.978359],"type":"Point"}
 }

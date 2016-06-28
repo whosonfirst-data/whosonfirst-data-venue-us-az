@@ -2,13 +2,14 @@
   "id": 353787765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.934198,31.335481,-110.934198,31.335481",
     "geom:latitude":31.335481,
     "geom:longitude":-110.934198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Hudgins St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353787765,
-    "wof:lastmodified":1449019416,
+    "wof:lastmodified":1466330463,
     "wof:name":"Picazzo Trucking",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-110.934198,31.335481,-110.934198,31.335481],
-  "geometry": {"coordinates":[-110.934198,31.335481],"type":"Point"}
+  "bbox": [
+    -110.934198,
+    31.335481,
+    -110.934198,
+    31.335481
+],
+  "geometry": {"coordinates":[-110.93419799999999,31.335481],"type":"Point"}
 }

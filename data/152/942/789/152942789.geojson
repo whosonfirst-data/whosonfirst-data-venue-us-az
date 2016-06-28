@@ -2,13 +2,14 @@
   "id": 152942789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.992151,32.17793,-110.992151,32.17793",
     "geom:latitude":32.17793,
     "geom:longitude":-110.992151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 W Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152942789,
-    "wof:lastmodified":1449046419,
+    "wof:lastmodified":1466326876,
     "wof:name":"Verns Home Repair",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.992151,32.17793,-110.992151,32.17793],
-  "geometry": {"coordinates":[-110.992151,32.17793],"type":"Point"}
+  "bbox": [
+    -110.992151,
+    32.17793,
+    -110.992151,
+    32.17793
+],
+  "geometry": {"coordinates":[-110.99215100000001,32.17793],"type":"Point"}
 }

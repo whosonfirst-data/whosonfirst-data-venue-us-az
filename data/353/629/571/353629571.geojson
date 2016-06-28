@@ -2,13 +2,14 @@
   "id": 353629571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.573244,33.372674,-112.573244,33.372674",
     "geom:latitude":33.372674,
     "geom:longitude":-112.573244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Apache Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353629571,
-    "wof:lastmodified":1449020223,
+    "wof:lastmodified":1466328890,
     "wof:name":"Maricopa County Government",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "government-county"
     ]
 },
-  "bbox": [-112.573244,33.372674,-112.573244,33.372674],
+  "bbox": [
+    -112.573244,
+    33.372674,
+    -112.573244,
+    33.372674
+],
   "geometry": {"coordinates":[-112.573244,33.372674],"type":"Point"}
 }

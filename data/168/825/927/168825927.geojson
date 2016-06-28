@@ -2,13 +2,14 @@
   "id": 168825927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.157556,34.901519,-110.157556,34.901519",
     "geom:latitude":34.901519,
     "geom:longitude":-110.157556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Hopi Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.azjournal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168825927,
-    "wof:lastmodified":1449027791,
+    "wof:lastmodified":1466325862,
     "wof:name":"Holbrook Tribune News",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.157556,34.901519,-110.157556,34.901519],
+  "bbox": [
+    -110.157556,
+    34.901519,
+    -110.157556,
+    34.901519
+],
   "geometry": {"coordinates":[-110.157556,34.901519],"type":"Point"}
 }

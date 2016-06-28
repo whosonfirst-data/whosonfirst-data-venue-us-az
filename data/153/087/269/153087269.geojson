@@ -2,13 +2,14 @@
   "id": 153087269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.394359,34.553705,-112.394359,34.553705",
     "geom:latitude":34.553705,
     "geom:longitude":-112.394359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Kinglet Ct",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153087269,
-    "wof:lastmodified":1449040534,
+    "wof:lastmodified":1466329407,
     "wof:name":"Pinon Homes",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.394359,34.553705,-112.394359,34.553705],
-  "geometry": {"coordinates":[-112.394359,34.553705],"type":"Point"}
+  "bbox": [
+    -112.394359,
+    34.553705,
+    -112.394359,
+    34.553705
+],
+  "geometry": {"coordinates":[-112.39435899999999,34.553705],"type":"Point"}
 }

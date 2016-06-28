@@ -2,13 +2,14 @@
   "id": 353730827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.37323,33.611733,-112.37323,33.611733",
     "geom:latitude":33.611733,
     "geom:longitude":-112.37323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14543 W Ventura St",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353730827,
-    "wof:lastmodified":1449020414,
+    "wof:lastmodified":1466329850,
     "wof:name":"A Appliance Resource & Rescue",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-112.37323,33.611733,-112.37323,33.611733],
-  "geometry": {"coordinates":[-112.37323,33.611733],"type":"Point"}
+  "bbox": [
+    -112.37323,
+    33.611733,
+    -112.37323,
+    33.611733
+],
+  "geometry": {"coordinates":[-112.37323000000001,33.611733],"type":"Point"}
 }

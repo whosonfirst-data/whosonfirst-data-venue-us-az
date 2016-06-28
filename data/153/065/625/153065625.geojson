@@ -2,13 +2,14 @@
   "id": 153065625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.84389,32.292033,-110.84389,32.292033",
     "geom:latitude":32.292033,
     "geom:longitude":-110.84389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6959 E Wild Canyon Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153065625,
-    "wof:lastmodified":1449040822,
+    "wof:lastmodified":1466328301,
     "wof:name":"David L Shorey CPA",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.84389,32.292033,-110.84389,32.292033],
+  "bbox": [
+    -110.84389,
+    32.292033,
+    -110.84389,
+    32.292033
+],
   "geometry": {"coordinates":[-110.84389,32.292033],"type":"Point"}
 }

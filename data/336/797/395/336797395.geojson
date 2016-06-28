@@ -2,13 +2,14 @@
   "id": 336797395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788957,33.380521,-111.788957,33.380521",
     "geom:latitude":33.380521,
     "geom:longitude":-111.788957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 S Gilbert Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336797395,
-    "wof:lastmodified":1448997914,
+    "wof:lastmodified":1466329711,
     "wof:name":"Tilted Kilt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "irish"
     ]
 },
-  "bbox": [-111.788957,33.380521,-111.788957,33.380521],
+  "bbox": [
+    -111.788957,
+    33.380521,
+    -111.788957,
+    33.380521
+],
   "geometry": {"coordinates":[-111.788957,33.380521],"type":"Point"}
 }

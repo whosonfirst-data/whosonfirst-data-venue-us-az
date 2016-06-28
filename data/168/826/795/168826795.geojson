@@ -2,13 +2,14 @@
   "id": 168826795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.768971,33.428485,-111.768971,33.428485",
     "geom:latitude":33.428485,
     "geom:longitude":-111.768971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2846 E Dartmouth St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168826795,
-    "wof:lastmodified":1449028343,
+    "wof:lastmodified":1466325940,
     "wof:name":"Sun State Flooring Inc",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.768971,33.428485,-111.768971,33.428485],
-  "geometry": {"coordinates":[-111.768971,33.428485],"type":"Point"}
+  "bbox": [
+    -111.768971,
+    33.428485,
+    -111.768971,
+    33.428485
+],
+  "geometry": {"coordinates":[-111.76897099999999,33.428485],"type":"Point"}
 }

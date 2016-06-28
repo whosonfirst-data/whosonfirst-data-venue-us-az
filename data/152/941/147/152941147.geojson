@@ -2,13 +2,14 @@
   "id": 152941147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.840297,32.823535,-109.840297,32.823535",
     "geom:latitude":32.823535,
     "geom:longitude":-109.840297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1588 S Cluff Ranch Rd",
     "sg:city":"Pima",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152941147,
-    "wof:lastmodified":1449047058,
+    "wof:lastmodified":1466326767,
     "wof:name":"H L Boling & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.840297,32.823535,-109.840297,32.823535],
-  "geometry": {"coordinates":[-109.840297,32.823535],"type":"Point"}
+  "bbox": [
+    -109.840297,
+    32.823535,
+    -109.840297,
+    32.823535
+],
+  "geometry": {"coordinates":[-109.84029700000001,32.823535],"type":"Point"}
 }

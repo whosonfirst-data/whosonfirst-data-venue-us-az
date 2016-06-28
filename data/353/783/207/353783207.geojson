@@ -2,13 +2,14 @@
   "id": 353783207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.89288,31.42786,-109.89288,31.42786",
     "geom:latitude":31.42786,
     "geom:longitude":-109.89288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 W Highway 92",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353783207,
-    "wof:lastmodified":1449018327,
+    "wof:lastmodified":1466330145,
     "wof:name":"Bisbee Plumbing",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-109.89288,31.42786,-109.89288,31.42786],
-  "geometry": {"coordinates":[-109.89288,31.42786],"type":"Point"}
+  "bbox": [
+    -109.89288,
+    31.42786,
+    -109.89288,
+    31.42786
+],
+  "geometry": {"coordinates":[-109.89288000000001,31.42786],"type":"Point"}
 }

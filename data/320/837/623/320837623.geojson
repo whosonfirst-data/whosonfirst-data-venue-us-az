@@ -2,13 +2,14 @@
   "id": 320837623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031845,33.578048,-112.031845,33.578048",
     "geom:latitude":33.578048,
     "geom:longitude":-112.031845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 E Cheryl Dr Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320837623,
-    "wof:lastmodified":1449011837,
+    "wof:lastmodified":1466330348,
     "wof:name":"Bonnell Group Inc",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "human"
     ]
 },
-  "bbox": [-112.031845,33.578048,-112.031845,33.578048],
+  "bbox": [
+    -112.031845,
+    33.578048,
+    -112.031845,
+    33.578048
+],
   "geometry": {"coordinates":[-112.031845,33.578048],"type":"Point"}
 }

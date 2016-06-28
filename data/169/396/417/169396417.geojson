@@ -2,13 +2,14 @@
   "id": 169396417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.92472,33.834409,-111.92472,33.834409",
     "geom:latitude":33.834409,
     "geom:longitude":-111.92472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Stevens Rd",
     "sg:city":"Carefree",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169396417,
-    "wof:lastmodified":1449034853,
+    "wof:lastmodified":1466333951,
     "wof:name":"Links International Golf",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.92472,33.834409,-111.92472,33.834409],
-  "geometry": {"coordinates":[-111.92472,33.834409],"type":"Point"}
+  "bbox": [
+    -111.92472,
+    33.834409,
+    -111.92472,
+    33.834409
+],
+  "geometry": {"coordinates":[-111.92471999999999,33.834409],"type":"Point"}
 }

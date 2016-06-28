@@ -2,13 +2,14 @@
   "id": 169071819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995401,32.177791,-110.995401,32.177791",
     "geom:latitude":32.177791,
     "geom:longitude":-110.995401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169071819,
-    "wof:lastmodified":1449034761,
+    "wof:lastmodified":1466329789,
     "wof:name":"Nicks Sales",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995401,32.177791,-110.995401,32.177791],
+  "bbox": [
+    -110.995401,
+    32.177791,
+    -110.995401,
+    32.177791
+],
   "geometry": {"coordinates":[-110.995401,32.177791],"type":"Point"}
 }

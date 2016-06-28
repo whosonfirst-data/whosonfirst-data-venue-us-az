@@ -2,13 +2,14 @@
   "id": 353832167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.928942,32.236118,-110.928942,32.236118",
     "geom:latitude":32.236118,
     "geom:longitude":-110.928942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353832167,
-    "wof:lastmodified":1449018270,
+    "wof:lastmodified":1466330634,
     "wof:name":"Mays Counter",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.928942,32.236118,-110.928942,32.236118],
-  "geometry": {"coordinates":[-110.928942,32.236118],"type":"Point"}
+  "bbox": [
+    -110.928942,
+    32.236118,
+    -110.928942,
+    32.236118
+],
+  "geometry": {"coordinates":[-110.92894200000001,32.236118],"type":"Point"}
 }

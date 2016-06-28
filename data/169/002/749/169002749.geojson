@@ -2,13 +2,14 @@
   "id": 169002749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003483,33.337624,-112.003483,33.337624",
     "geom:latitude":33.337624,
     "geom:longitude":-112.003483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11837 S Tonalea Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840707,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169002749,
-    "wof:lastmodified":1449035362,
+    "wof:lastmodified":1466325938,
     "wof:name":"Stowebridge Promotion Group",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003483,33.337624,-112.003483,33.337624],
+  "bbox": [
+    -112.003483,
+    33.337624,
+    -112.003483,
+    33.337624
+],
   "geometry": {"coordinates":[-112.003483,33.337624],"type":"Point"}
 }

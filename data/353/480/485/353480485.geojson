@@ -2,13 +2,14 @@
   "id": 353480485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.928801,33.378498,-111.928801,33.378498",
     "geom:latitude":33.378498,
     "geom:longitude":-111.928801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 S Rural Road",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353480485,
-    "wof:lastmodified":1449019082,
+    "wof:lastmodified":1466326872,
     "wof:name":"Dahn Center",
     "wof:parent_id":85881387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-111.928801,33.378498,-111.928801,33.378498],
-  "geometry": {"coordinates":[-111.928801,33.378498],"type":"Point"}
+  "bbox": [
+    -111.928801,
+    33.378498,
+    -111.928801,
+    33.378498
+],
+  "geometry": {"coordinates":[-111.92880100000001,33.378498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169353195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.69951,33.370393,-111.69951,33.370393",
     "geom:latitude":33.370393,
     "geom:longitude":-111.69951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 E Encinas Ave",
     "sg:city":"Higley",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169353195,
-    "wof:lastmodified":1449033634,
+    "wof:lastmodified":1466333283,
     "wof:name":"Karen's Home Fashions",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.69951,33.370393,-111.69951,33.370393],
+  "bbox": [
+    -111.69951,
+    33.370393,
+    -111.69951,
+    33.370393
+],
   "geometry": {"coordinates":[-111.69951,33.370393],"type":"Point"}
 }

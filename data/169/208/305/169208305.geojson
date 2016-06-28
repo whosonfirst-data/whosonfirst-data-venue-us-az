@@ -2,13 +2,14 @@
   "id": 169208305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.73231,32.835949,-109.73231,32.835949",
     "geom:latitude":32.835949,
     "geom:longitude":-109.73231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1938 W Thatcher Blvd",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169208305,
-    "wof:lastmodified":1449033065,
+    "wof:lastmodified":1466332205,
     "wof:name":"Adult Protective Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.73231,32.835949,-109.73231,32.835949],
+  "bbox": [
+    -109.73231,
+    32.835949,
+    -109.73231,
+    32.835949
+],
   "geometry": {"coordinates":[-109.73231,32.835949],"type":"Point"}
 }

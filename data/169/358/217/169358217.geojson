@@ -2,13 +2,14 @@
   "id": 169358217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.792043,34.869585,-111.792043,34.869585",
     "geom:latitude":34.869585,
     "geom:longitude":-111.792043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Pony Soldier Cir",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169358217,
-    "wof:lastmodified":1449034060,
+    "wof:lastmodified":1466333598,
     "wof:name":"Bella Casa Tiles",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.792043,34.869585,-111.792043,34.869585],
-  "geometry": {"coordinates":[-111.792043,34.869585],"type":"Point"}
+  "bbox": [
+    -111.792043,
+    34.869585,
+    -111.792043,
+    34.869585
+],
+  "geometry": {"coordinates":[-111.79204300000001,34.869585],"type":"Point"}
 }

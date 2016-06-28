@@ -2,13 +2,14 @@
   "id": 153057761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104846,33.526144,-112.104846,33.526144",
     "geom:latitude":33.526144,
     "geom:longitude":-112.104846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6055 N 21st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153057761,
-    "wof:lastmodified":1449040573,
+    "wof:lastmodified":1466327718,
     "wof:name":"Kingfisher Kf Trucking Inc",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.104846,33.526144,-112.104846,33.526144],
-  "geometry": {"coordinates":[-112.104846,33.526144],"type":"Point"}
+  "bbox": [
+    -112.104846,
+    33.526144,
+    -112.104846,
+    33.526144
+],
+  "geometry": {"coordinates":[-112.10484599999999,33.526144],"type":"Point"}
 }

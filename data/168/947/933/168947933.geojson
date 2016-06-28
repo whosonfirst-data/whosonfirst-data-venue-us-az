@@ -2,13 +2,14 @@
   "id": 168947933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.800646,32.219367,-110.800646,32.219367",
     "geom:latitude":32.219367,
     "geom:longitude":-110.800646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 S Antietam Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168947933,
-    "wof:lastmodified":1449028335,
+    "wof:lastmodified":1466331100,
     "wof:name":"Dam Nguyen Co LLC",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.800646,32.219367,-110.800646,32.219367],
+  "bbox": [
+    -110.800646,
+    32.219367,
+    -110.800646,
+    32.219367
+],
   "geometry": {"coordinates":[-110.800646,32.219367],"type":"Point"}
 }

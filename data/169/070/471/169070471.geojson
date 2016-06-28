@@ -2,13 +2,14 @@
   "id": 169070471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.043274,33.480311,-112.043274,33.480311",
     "geom:latitude":33.480311,
     "geom:longitude":-112.043274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.ayudadeemigracion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807777,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85807777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169070471,
-    "wof:lastmodified":1449034292,
+    "wof:lastmodified":1466329559,
     "wof:name":"Centro De Progreso Inc",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.043274,33.480311,-112.043274,33.480311],
+  "bbox": [
+    -112.043274,
+    33.480311,
+    -112.043274,
+    33.480311
+],
   "geometry": {"coordinates":[-112.043274,33.480311],"type":"Point"}
 }

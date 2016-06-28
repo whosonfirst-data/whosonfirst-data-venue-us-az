@@ -2,13 +2,14 @@
   "id": 169301571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.771611,32.13411,-110.771611,32.13411",
     "geom:latitude":32.13411,
     "geom:longitude":-110.771611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10392 E Rose Hill St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169301571,
-    "wof:lastmodified":1449033534,
+    "wof:lastmodified":1466333042,
     "wof:name":"Hawks",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.771611,32.13411,-110.771611,32.13411],
-  "geometry": {"coordinates":[-110.771611,32.13411],"type":"Point"}
+  "bbox": [
+    -110.771611,
+    32.13411,
+    -110.771611,
+    32.13411
+],
+  "geometry": {"coordinates":[-110.77161099999999,32.13411],"type":"Point"}
 }

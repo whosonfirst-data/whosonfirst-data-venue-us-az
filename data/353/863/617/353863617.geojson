@@ -2,13 +2,14 @@
   "id": 353863617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.985053,34.158273,-109.985053,34.158273",
     "geom:latitude":34.158273,
     "geom:longitude":-109.985053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Rainbow Lake Pl",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353863617,
-    "wof:lastmodified":1449020000,
+    "wof:lastmodified":1466330882,
     "wof:name":"Rainbow Lake Apartments",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-109.985053,34.158273,-109.985053,34.158273],
-  "geometry": {"coordinates":[-109.985053,34.158273],"type":"Point"}
+  "bbox": [
+    -109.985053,
+    34.158273,
+    -109.985053,
+    34.158273
+],
+  "geometry": {"coordinates":[-109.98505299999999,34.158273],"type":"Point"}
 }

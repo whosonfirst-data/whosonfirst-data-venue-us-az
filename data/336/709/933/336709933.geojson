@@ -2,13 +2,14 @@
   "id": 336709933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.986778,33.68795,-111.986778,33.68795",
     "geom:latitude":33.68795,
     "geom:longitude":-111.986778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22401 N 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336709933,
-    "wof:lastmodified":1448997162,
+    "wof:lastmodified":1466328392,
     "wof:name":"Explorer Middle School",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-111.986778,33.68795,-111.986778,33.68795],
+  "bbox": [
+    -111.986778,
+    33.68795,
+    -111.986778,
+    33.68795
+],
   "geometry": {"coordinates":[-111.986778,33.68795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353740253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.271227,33.71423,-112.271227,33.71423",
     "geom:latitude":33.71423,
     "geom:longitude":-112.271227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25650 N Lake Pleasant Pkwy",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -91,10 +92,11 @@
         }
     ],
     "wof:id":353740253,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466330051,
     "wof:name":"The Home Depot Tool Rental",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -110,6 +112,11 @@
         "carpet"
     ]
 },
-  "bbox": [-112.271227,33.71423,-112.271227,33.71423],
+  "bbox": [
+    -112.271227,
+    33.71423,
+    -112.271227,
+    33.71423
+],
   "geometry": {"coordinates":[-112.271227,33.71423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168855881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.722445,33.358492,-111.722445,33.358492",
     "geom:latitude":33.358492,
     "geom:longitude":-111.722445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16644 E Campbell Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168855881,
-    "wof:lastmodified":1449028353,
+    "wof:lastmodified":1466326217,
     "wof:name":"Kars",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.722445,33.358492,-111.722445,33.358492],
-  "geometry": {"coordinates":[-111.722445,33.358492],"type":"Point"}
+  "bbox": [
+    -111.722445,
+    33.358492,
+    -111.722445,
+    33.358492
+],
+  "geometry": {"coordinates":[-111.72244499999999,33.358492],"type":"Point"}
 }

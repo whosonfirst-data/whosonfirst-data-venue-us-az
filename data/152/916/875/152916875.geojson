@@ -2,13 +2,14 @@
   "id": 152916875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.199047,33.581867,-112.199047,33.581867",
     "geom:latitude":33.581867,
     "geom:longitude":-112.199047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10619 N 65th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843371,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85843371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152916875,
-    "wof:lastmodified":1449046831,
+    "wof:lastmodified":1466326292,
     "wof:name":"Pride Roofing",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.199047,33.581867,-112.199047,33.581867],
-  "geometry": {"coordinates":[-112.199047,33.581867],"type":"Point"}
+  "bbox": [
+    -112.199047,
+    33.581867,
+    -112.199047,
+    33.581867
+],
+  "geometry": {"coordinates":[-112.19904699999999,33.581867],"type":"Point"}
 }

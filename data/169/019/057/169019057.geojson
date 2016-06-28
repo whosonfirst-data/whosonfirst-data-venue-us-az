@@ -2,13 +2,14 @@
   "id": 169019057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.811753,32.228224,-110.811753,32.228224",
     "geom:latitude":32.228224,
     "geom:longitude":-110.811753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8438 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169019057,
-    "wof:lastmodified":1449034579,
+    "wof:lastmodified":1466325881,
     "wof:name":"Studio Creations",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.811753,32.228224,-110.811753,32.228224],
+  "bbox": [
+    -110.811753,
+    32.228224,
+    -110.811753,
+    32.228224
+],
   "geometry": {"coordinates":[-110.811753,32.228224],"type":"Point"}
 }

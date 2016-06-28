@@ -2,13 +2,14 @@
   "id": 169072229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.792934,32.211231,-110.792934,32.211231",
     "geom:latitude":32.211231,
     "geom:longitude":-110.792934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"831 S Hermosa Hills Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169072229,
-    "wof:lastmodified":1449034425,
+    "wof:lastmodified":1466329682,
     "wof:name":"Alarm Applications",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.792934,32.211231,-110.792934,32.211231],
+  "bbox": [
+    -110.792934,
+    32.211231,
+    -110.792934,
+    32.211231
+],
   "geometry": {"coordinates":[-110.792934,32.211231],"type":"Point"}
 }

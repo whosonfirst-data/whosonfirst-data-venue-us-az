@@ -2,13 +2,14 @@
   "id": 169409751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.48607,32.325704,-109.48607,32.325704",
     "geom:latitude":32.325704,
     "geom:longitude":-109.48607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Eisenhower Ave",
     "sg:city":"Bowie",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169409751,
-    "wof:lastmodified":1449034033,
+    "wof:lastmodified":1466334084,
     "wof:name":"CBC Road Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.48607,32.325704,-109.48607,32.325704],
+  "bbox": [
+    -109.48607,
+    32.325704,
+    -109.48607,
+    32.325704
+],
   "geometry": {"coordinates":[-109.48607,32.325704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169199407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837701,33.302232,-111.837701,33.302232",
     "geom:latitude":33.302232,
     "geom:longitude":-111.837701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 E Boston St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876651,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169199407,
-    "wof:lastmodified":1449033013,
+    "wof:lastmodified":1466332290,
     "wof:name":"Fire Inspection",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.837701,33.302232,-111.837701,33.302232],
+  "bbox": [
+    -111.837701,
+    33.302232,
+    -111.837701,
+    33.302232
+],
   "geometry": {"coordinates":[-111.837701,33.302232],"type":"Point"}
 }

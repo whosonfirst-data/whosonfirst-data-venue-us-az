@@ -2,13 +2,14 @@
   "id": 337460491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.819098,33.381059,-111.819098,33.381059",
     "geom:latitude":33.381059,
     "geom:longitude":-111.819098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 E. Juanita Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":337460491,
-    "wof:lastmodified":1449027694,
+    "wof:lastmodified":1466325980,
     "wof:name":"Tuning Gr?ppe",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-111.819098,33.381059,-111.819098,33.381059],
+  "bbox": [
+    -111.819098,
+    33.381059,
+    -111.819098,
+    33.381059
+],
   "geometry": {"coordinates":[-111.819098,33.381059],"type":"Point"}
 }

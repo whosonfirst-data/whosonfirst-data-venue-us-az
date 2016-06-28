@@ -2,13 +2,14 @@
   "id": 169070341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042777,33.533374,-112.042777,33.533374",
     "geom:latitude":33.533374,
     "geom:longitude":-112.042777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 E Tuckey Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169070341,
-    "wof:lastmodified":1449034295,
+    "wof:lastmodified":1466329547,
     "wof:name":"Baker Investor",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.042777,33.533374,-112.042777,33.533374],
+  "bbox": [
+    -112.042777,
+    33.533374,
+    -112.042777,
+    33.533374
+],
   "geometry": {"coordinates":[-112.042777,33.533374],"type":"Point"}
 }

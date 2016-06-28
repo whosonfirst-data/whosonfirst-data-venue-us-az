@@ -2,13 +2,14 @@
   "id": 169318265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.824762,32.237783,-109.824762,32.237783",
     "geom:latitude":32.237783,
     "geom:longitude":-109.824762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Rex Allen Jr Dr",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169318265,
-    "wof:lastmodified":1449033414,
+    "wof:lastmodified":1466333180,
     "wof:name":"Twin Lakes Golf Course",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.824762,32.237783,-109.824762,32.237783],
-  "geometry": {"coordinates":[-109.824762,32.237783],"type":"Point"}
+  "bbox": [
+    -109.824762,
+    32.237783,
+    -109.824762,
+    32.237783
+],
+  "geometry": {"coordinates":[-109.82476200000001,32.237783],"type":"Point"}
 }

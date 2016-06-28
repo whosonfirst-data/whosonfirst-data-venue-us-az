@@ -2,13 +2,14 @@
   "id": 153001871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.656019,33.277861,-111.656019,33.277861",
     "geom:latitude":33.277861,
     "geom:longitude":-111.656019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19399 E Germann Rd",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153001871,
-    "wof:lastmodified":1449040446,
+    "wof:lastmodified":1466326996,
     "wof:name":"Decorative Trim Unlimited",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.656019,33.277861,-111.656019,33.277861],
+  "bbox": [
+    -111.656019,
+    33.277861,
+    -111.656019,
+    33.277861
+],
   "geometry": {"coordinates":[-111.656019,33.277861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169293169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.958823,33.62818,-111.958823,33.62818",
     "geom:latitude":33.62818,
     "geom:longitude":-111.958823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5647 E Waltann Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.cactuscare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169293169,
-    "wof:lastmodified":1449033338,
+    "wof:lastmodified":1466332972,
     "wof:name":"Cactus Glen Care Home Inc",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.958823,33.62818,-111.958823,33.62818],
+  "bbox": [
+    -111.958823,
+    33.62818,
+    -111.958823,
+    33.62818
+],
   "geometry": {"coordinates":[-111.958823,33.62818],"type":"Point"}
 }

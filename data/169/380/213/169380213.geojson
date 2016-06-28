@@ -2,13 +2,14 @@
   "id": 169380213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.973146,32.212001,-110.973146,32.212001",
     "geom:latitude":32.212001,
     "geom:longitude":-110.973146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 W 18th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871733,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169380213,
-    "wof:lastmodified":1449034201,
+    "wof:lastmodified":1466333757,
     "wof:name":"Laurel Lacher",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.973146,32.212001,-110.973146,32.212001],
+  "bbox": [
+    -110.973146,
+    32.212001,
+    -110.973146,
+    32.212001
+],
   "geometry": {"coordinates":[-110.973146,32.212001],"type":"Point"}
 }

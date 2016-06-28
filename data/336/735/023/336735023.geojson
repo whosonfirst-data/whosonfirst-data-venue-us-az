@@ -2,13 +2,14 @@
   "id": 336735023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115538,33.789302,-112.115538,33.789302",
     "geom:latitude":33.789302,
     "geom:longitude":-112.115538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33606 N 26th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336735023,
-    "wof:lastmodified":1448997974,
+    "wof:lastmodified":1466328833,
     "wof:name":"Euro Bakery",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.115538,33.789302,-112.115538,33.789302],
+  "bbox": [
+    -112.115538,
+    33.789302,
+    -112.115538,
+    33.789302
+],
   "geometry": {"coordinates":[-112.115538,33.789302],"type":"Point"}
 }

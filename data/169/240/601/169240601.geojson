@@ -2,13 +2,14 @@
   "id": 169240601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.722058,33.354082,-111.722058,33.354082",
     "geom:latitude":33.354082,
     "geom:longitude":-111.722058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3062 E Cullumber St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169240601,
-    "wof:lastmodified":1449033016,
+    "wof:lastmodified":1466332373,
     "wof:name":"Sutton Family Trust",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.722058,33.354082,-111.722058,33.354082],
+  "bbox": [
+    -111.722058,
+    33.354082,
+    -111.722058,
+    33.354082
+],
   "geometry": {"coordinates":[-111.722058,33.354082],"type":"Point"}
 }

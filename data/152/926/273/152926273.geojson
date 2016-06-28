@@ -2,13 +2,14 @@
   "id": 152926273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.875167,32.201759,-110.875167,32.201759",
     "geom:latitude":32.201759,
     "geom:longitude":-110.875167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S Craycroft Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812787,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85812787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152926273,
-    "wof:lastmodified":1449045921,
+    "wof:lastmodified":1466325718,
     "wof:name":"Carefree Motors Inc",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.875167,32.201759,-110.875167,32.201759],
+  "bbox": [
+    -110.875167,
+    32.201759,
+    -110.875167,
+    32.201759
+],
   "geometry": {"coordinates":[-110.875167,32.201759],"type":"Point"}
 }

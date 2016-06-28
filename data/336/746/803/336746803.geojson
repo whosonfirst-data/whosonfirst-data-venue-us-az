@@ -2,13 +2,14 @@
   "id": 336746803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.477376,33.053592,-111.477376,33.053592",
     "geom:latitude":33.053592,
     "geom:longitude":-111.477376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 N Monticello Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336746803,
-    "wof:lastmodified":1448996911,
+    "wof:lastmodified":1466328734,
     "wof:name":"Harvest Church At Anthem",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.477376,33.053592,-111.477376,33.053592],
-  "geometry": {"coordinates":[-111.477376,33.053592],"type":"Point"}
+  "bbox": [
+    -111.477376,
+    33.053592,
+    -111.477376,
+    33.053592
+],
+  "geometry": {"coordinates":[-111.47737600000001,33.053592],"type":"Point"}
 }

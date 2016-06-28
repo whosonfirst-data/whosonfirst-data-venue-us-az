@@ -2,13 +2,14 @@
   "id": 169046377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031972,33.825796,-112.031972,33.825796",
     "geom:latitude":33.825796,
     "geom:longitude":-112.031972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37207 N 23 St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169046377,
-    "wof:lastmodified":1449034517,
+    "wof:lastmodified":1466328584,
     "wof:name":"Bromley Builder Inc",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.031972,33.825796,-112.031972,33.825796],
+  "bbox": [
+    -112.031972,
+    33.825796,
+    -112.031972,
+    33.825796
+],
   "geometry": {"coordinates":[-112.031972,33.825796],"type":"Point"}
 }

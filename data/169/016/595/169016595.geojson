@@ -2,13 +2,14 @@
   "id": 169016595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.835092,33.298985,-111.835092,33.298985",
     "geom:latitude":33.298985,
     "geom:longitude":-111.835092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 E Frye Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.fe-azp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876651,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169016595,
-    "wof:lastmodified":1449033267,
+    "wof:lastmodified":1466327712,
     "wof:name":"Foster Electric Motor Svc Inc",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.835092,33.298985,-111.835092,33.298985],
+  "bbox": [
+    -111.835092,
+    33.298985,
+    -111.835092,
+    33.298985
+],
   "geometry": {"coordinates":[-111.835092,33.298985],"type":"Point"}
 }

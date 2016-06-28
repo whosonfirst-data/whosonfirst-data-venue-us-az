@@ -2,13 +2,14 @@
   "id": 353678677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.706375,32.59665,-114.706375,32.59665",
     "geom:latitude":32.59665,
     "geom:longitude":-114.706375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 E Main St",
     "sg:city":"Somerton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353678677,
-    "wof:lastmodified":1449019501,
+    "wof:lastmodified":1466329450,
     "wof:name":"Us Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-114.706375,32.59665,-114.706375,32.59665],
-  "geometry": {"coordinates":[-114.706375,32.59665],"type":"Point"}
+  "bbox": [
+    -114.706375,
+    32.59665,
+    -114.706375,
+    32.59665
+],
+  "geometry": {"coordinates":[-114.70637499999999,32.59665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169086961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.960802,33.792919,-111.960802,33.792919",
     "geom:latitude":33.792919,
     "geom:longitude":-111.960802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33992 N 56th St",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169086961,
-    "wof:lastmodified":1449034905,
+    "wof:lastmodified":1466330255,
     "wof:name":"Desert Mountain Publishers",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.960802,33.792919,-111.960802,33.792919],
+  "bbox": [
+    -111.960802,
+    33.792919,
+    -111.960802,
+    33.792919
+],
   "geometry": {"coordinates":[-111.960802,33.792919],"type":"Point"}
 }

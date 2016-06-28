@@ -2,13 +2,14 @@
   "id": 320762917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.138725,33.503651,-112.138725,33.503651",
     "geom:latitude":33.503651,
     "geom:longitude":-112.138725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 W Hazelwood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320762917,
-    "wof:lastmodified":1449013896,
+    "wof:lastmodified":1466329360,
     "wof:name":"Marie's Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.138725,33.503651,-112.138725,33.503651],
-  "geometry": {"coordinates":[-112.138725,33.503651],"type":"Point"}
+  "bbox": [
+    -112.138725,
+    33.503651,
+    -112.138725,
+    33.503651
+],
+  "geometry": {"coordinates":[-112.13872499999999,33.503651],"type":"Point"}
 }

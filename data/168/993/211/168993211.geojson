@@ -2,13 +2,14 @@
   "id": 168993211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.27822,33.599185,-112.27822,33.599185",
     "geom:latitude":33.599185,
     "geom:longitude":-112.27822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10109 W Grand Ave",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.brunksauction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168993211,
-    "wof:lastmodified":1449028118,
+    "wof:lastmodified":1466331479,
     "wof:name":"Brunk's Auction",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.27822,33.599185,-112.27822,33.599185],
+  "bbox": [
+    -112.27822,
+    33.599185,
+    -112.27822,
+    33.599185
+],
   "geometry": {"coordinates":[-112.27822,33.599185],"type":"Point"}
 }

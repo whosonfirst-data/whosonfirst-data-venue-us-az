@@ -2,13 +2,14 @@
   "id": 336809251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.593265,33.40493,-111.593265,33.40493",
     "geom:latitude":33.40493,
     "geom:longitude":-111.593265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11023 E Vine Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336809251,
-    "wof:lastmodified":1448997838,
+    "wof:lastmodified":1466329467,
     "wof:name":"Starcarr Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.593265,33.40493,-111.593265,33.40493],
+  "bbox": [
+    -111.593265,
+    33.40493,
+    -111.593265,
+    33.40493
+],
   "geometry": {"coordinates":[-111.593265,33.40493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153016919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.136967,33.492969,-112.136967,33.492969",
     "geom:latitude":33.492969,
     "geom:longitude":-112.136967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 N 36th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153016919,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1466326628,
     "wof:name":"Attilas LLC",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.136967,33.492969,-112.136967,33.492969],
+  "bbox": [
+    -112.136967,
+    33.492969,
+    -112.136967,
+    33.492969
+],
   "geometry": {"coordinates":[-112.136967,33.492969],"type":"Point"}
 }

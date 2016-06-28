@@ -2,13 +2,14 @@
   "id": 169319063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151046,33.528202,-112.151046,33.528202",
     "geom:latitude":33.528202,
     "geom:longitude":-112.151046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 W Claremont St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169319063,
-    "wof:lastmodified":1449034025,
+    "wof:lastmodified":1466333156,
     "wof:name":"Camelwest Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151046,33.528202,-112.151046,33.528202],
-  "geometry": {"coordinates":[-112.151046,33.528202],"type":"Point"}
+  "bbox": [
+    -112.151046,
+    33.528202,
+    -112.151046,
+    33.528202
+],
+  "geometry": {"coordinates":[-112.15104599999999,33.528202],"type":"Point"}
 }

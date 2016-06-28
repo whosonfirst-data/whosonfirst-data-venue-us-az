@@ -2,13 +2,14 @@
   "id": 353901233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.591699,34.424922,-112.591699,34.424922",
     "geom:latitude":34.424922,
     "geom:longitude":-112.591699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 W Stevenage Ln",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353901233,
-    "wof:lastmodified":1449019321,
+    "wof:lastmodified":1466331010,
     "wof:name":"La Dolce Vita",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.591699,34.424922,-112.591699,34.424922],
-  "geometry": {"coordinates":[-112.591699,34.424922],"type":"Point"}
+  "bbox": [
+    -112.591699,
+    34.424922,
+    -112.591699,
+    34.424922
+],
+  "geometry": {"coordinates":[-112.59169900000001,34.424922],"type":"Point"}
 }

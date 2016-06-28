@@ -2,13 +2,14 @@
   "id": 168876843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834583,33.740322,-111.834583,33.740322",
     "geom:latitude":33.740322,
     "geom:longitude":-111.834583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11408 E Running Deer Trl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85843941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168876843,
-    "wof:lastmodified":1449027922,
+    "wof:lastmodified":1466328000,
     "wof:name":"P C Everyware",
     "wof:parent_id":85843941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.834583,33.740322,-111.834583,33.740322],
-  "geometry": {"coordinates":[-111.834583,33.740322],"type":"Point"}
+  "bbox": [
+    -111.834583,
+    33.740322,
+    -111.834583,
+    33.740322
+],
+  "geometry": {"coordinates":[-111.83458299999999,33.740322],"type":"Point"}
 }

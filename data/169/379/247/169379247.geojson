@@ -2,13 +2,14 @@
   "id": 169379247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204816,33.523729,-112.204816,33.523729",
     "geom:latitude":33.523729,
     "geom:longitude":-112.204816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6721 W Bethany Home Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169379247,
-    "wof:lastmodified":1449034606,
+    "wof:lastmodified":1466333763,
     "wof:name":"Canton Wong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.204816,33.523729,-112.204816,33.523729],
-  "geometry": {"coordinates":[-112.204816,33.523729],"type":"Point"}
+  "bbox": [
+    -112.204816,
+    33.523729,
+    -112.204816,
+    33.523729
+],
+  "geometry": {"coordinates":[-112.20481599999999,33.523729],"type":"Point"}
 }

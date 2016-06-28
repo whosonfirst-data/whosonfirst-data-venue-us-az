@@ -2,13 +2,14 @@
   "id": 169362697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.17055,33.494909,-112.17055,33.494909",
     "geom:latitude":33.494909,
     "geom:longitude":-112.17055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5127 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169362697,
-    "wof:lastmodified":1449034818,
+    "wof:lastmodified":1466333656,
     "wof:name":"Preferred Water & Ice",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.17055,33.494909,-112.17055,33.494909],
-  "geometry": {"coordinates":[-112.17055,33.494909],"type":"Point"}
+  "bbox": [
+    -112.17055,
+    33.494909,
+    -112.17055,
+    33.494909
+],
+  "geometry": {"coordinates":[-112.17055000000001,33.494909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169369213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.229277,33.643778,-112.229277,33.643778",
     "geom:latitude":33.643778,
     "geom:longitude":-112.229277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 W Arrowhead Towne Center",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169369213,
-    "wof:lastmodified":1449035791,
+    "wof:lastmodified":1466333716,
     "wof:name":"Nava Hopi Gallery",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.229277,33.643778,-112.229277,33.643778],
+  "bbox": [
+    -112.229277,
+    33.643778,
+    -112.229277,
+    33.643778
+],
   "geometry": {"coordinates":[-112.229277,33.643778],"type":"Point"}
 }

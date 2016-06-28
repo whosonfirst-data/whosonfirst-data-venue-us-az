@@ -2,13 +2,14 @@
   "id": 169323017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.77346,32.217444,-110.77346,32.217444",
     "geom:latitude":32.217444,
     "geom:longitude":-110.77346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 S Sonoran Heights Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169323017,
-    "wof:lastmodified":1449032959,
+    "wof:lastmodified":1466333151,
     "wof:name":"24 Hour Computer Doc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.77346,32.217444,-110.77346,32.217444],
+  "bbox": [
+    -110.77346,
+    32.217444,
+    -110.77346,
+    32.217444
+],
   "geometry": {"coordinates":[-110.77346,32.217444],"type":"Point"}
 }

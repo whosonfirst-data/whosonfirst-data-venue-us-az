@@ -2,13 +2,14 @@
   "id": 169166911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909169,32.190788,-110.909169,32.190788",
     "geom:latitude":32.190788,
     "geom:longitude":-110.909169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 E 38th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169166911,
-    "wof:lastmodified":1449034537,
+    "wof:lastmodified":1466331909,
     "wof:name":"Arizona Fabrication & Repair",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909169,32.190788,-110.909169,32.190788],
-  "geometry": {"coordinates":[-110.909169,32.190788],"type":"Point"}
+  "bbox": [
+    -110.909169,
+    32.190788,
+    -110.909169,
+    32.190788
+],
+  "geometry": {"coordinates":[-110.90916900000001,32.190788],"type":"Point"}
 }

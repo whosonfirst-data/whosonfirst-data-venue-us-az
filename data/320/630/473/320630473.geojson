@@ -2,13 +2,14 @@
   "id": 320630473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.051459,33.465743,-112.051459,33.465743",
     "geom:latitude":33.465743,
     "geom:longitude":-112.051459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 E Mcdowell Rd # 102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320630473,
-    "wof:lastmodified":1449012609,
+    "wof:lastmodified":1466326537,
     "wof:name":"Executive Training Solutions",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-112.051459,33.465743,-112.051459,33.465743],
-  "geometry": {"coordinates":[-112.051459,33.465743],"type":"Point"}
+  "bbox": [
+    -112.051459,
+    33.465743,
+    -112.051459,
+    33.465743
+],
+  "geometry": {"coordinates":[-112.05145899999999,33.465743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336714279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120752,33.570203,-112.120752,33.570203",
     "geom:latitude":33.570203,
     "geom:longitude":-112.120752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 N 29th Ave Suite 49-50",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336714279,
-    "wof:lastmodified":1448997486,
+    "wof:lastmodified":1466328251,
     "wof:name":"Cricket Wireless - Metro Market Place",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cellular"
     ]
 },
-  "bbox": [-112.120752,33.570203,-112.120752,33.570203],
+  "bbox": [
+    -112.120752,
+    33.570203,
+    -112.120752,
+    33.570203
+],
   "geometry": {"coordinates":[-112.120752,33.570203],"type":"Point"}
 }

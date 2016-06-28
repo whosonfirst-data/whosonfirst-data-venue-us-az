@@ -2,13 +2,14 @@
   "id": 320748263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.994675,33.509776,-111.994675,33.509776",
     "geom:latitude":33.509776,
     "geom:longitude":-111.994675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4007 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -118,10 +119,11 @@
         }
     ],
     "wof:id":320748263,
-    "wof:lastmodified":1449014052,
+    "wof:lastmodified":1466329044,
     "wof:name":"U-Haul at 40th St & Camelback",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -149,6 +151,11 @@
         "trailer"
     ]
 },
-  "bbox": [-111.994675,33.509776,-111.994675,33.509776],
+  "bbox": [
+    -111.994675,
+    33.509776,
+    -111.994675,
+    33.509776
+],
   "geometry": {"coordinates":[-111.994675,33.509776],"type":"Point"}
 }

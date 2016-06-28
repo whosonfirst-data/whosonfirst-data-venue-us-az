@@ -2,13 +2,14 @@
   "id": 336777911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.874603,33.395808,-111.874603,33.395808",
     "geom:latitude":33.395808,
     "geom:longitude":-111.874603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 S Dobson Rd Unit 157",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336777911,
-    "wof:lastmodified":1448997521,
+    "wof:lastmodified":1466329369,
     "wof:name":"Heather Cosmetologist",
     "wof:parent_id":85881397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.874603,33.395808,-111.874603,33.395808],
-  "geometry": {"coordinates":[-111.874603,33.395808],"type":"Point"}
+  "bbox": [
+    -111.874603,
+    33.395808,
+    -111.874603,
+    33.395808
+],
+  "geometry": {"coordinates":[-111.87460299999999,33.395808],"type":"Point"}
 }

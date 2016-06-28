@@ -2,13 +2,14 @@
   "id": 336958031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925898,33.518832,-111.925898,33.518832",
     "geom:latitude":33.518832,
     "geom:longitude":-111.925898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5665 N Scottsdale Rd Ste F100",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336958031,
-    "wof:lastmodified":1448997797,
+    "wof:lastmodified":1466330885,
     "wof:name":"Berk & Moskowitz",
     "wof:parent_id":85829861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "injury"
     ]
 },
-  "bbox": [-111.925898,33.518832,-111.925898,33.518832],
+  "bbox": [
+    -111.925898,
+    33.518832,
+    -111.925898,
+    33.518832
+],
   "geometry": {"coordinates":[-111.925898,33.518832],"type":"Point"}
 }

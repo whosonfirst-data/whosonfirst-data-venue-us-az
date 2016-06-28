@@ -2,13 +2,14 @@
   "id": 168858497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.954922,32.222454,-110.954922,32.222454",
     "geom:latitude":32.222454,
     "geom:longitude":-110.954922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E 10th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.tusd.k12.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168858497,
-    "wof:lastmodified":1449027864,
+    "wof:lastmodified":1466326444,
     "wof:name":"African American-Studies",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.954922,32.222454,-110.954922,32.222454],
+  "bbox": [
+    -110.954922,
+    32.222454,
+    -110.954922,
+    32.222454
+],
   "geometry": {"coordinates":[-110.954922,32.222454],"type":"Point"}
 }

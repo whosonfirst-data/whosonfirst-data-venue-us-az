@@ -2,13 +2,14 @@
   "id": 353507883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.95907,33.34254,-111.95907,33.34254",
     "geom:latitude":33.34254,
     "geom:longitude":-111.95907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 W Auto Dr Ste 109",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353507883,
-    "wof:lastmodified":1449019576,
+    "wof:lastmodified":1466327328,
     "wof:name":"Designer Skin",
     "wof:parent_id":85814393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "salons-equipment"
     ]
 },
-  "bbox": [-111.95907,33.34254,-111.95907,33.34254],
+  "bbox": [
+    -111.95907,
+    33.34254,
+    -111.95907,
+    33.34254
+],
   "geometry": {"coordinates":[-111.95907,33.34254],"type":"Point"}
 }

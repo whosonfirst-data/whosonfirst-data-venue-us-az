@@ -2,13 +2,14 @@
   "id": 168925525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.950234,32.404179,-110.950234,32.404179",
     "geom:latitude":32.404179,
     "geom:longitude":-110.950234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10825 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168925525,
-    "wof:lastmodified":1449027783,
+    "wof:lastmodified":1466330380,
     "wof:name":"Sonoran Saints",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.950234,32.404179,-110.950234,32.404179],
-  "geometry": {"coordinates":[-110.950234,32.404179],"type":"Point"}
+  "bbox": [
+    -110.950234,
+    32.404179,
+    -110.950234,
+    32.404179
+],
+  "geometry": {"coordinates":[-110.95023399999999,32.404179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169056361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.755625,33.32123,-111.755625,33.32123",
     "geom:latitude":33.32123,
     "geom:longitude":-111.755625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 E Ray Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169056361,
-    "wof:lastmodified":1449033632,
+    "wof:lastmodified":1466328810,
     "wof:name":"Curves",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.755625,33.32123,-111.755625,33.32123],
-  "geometry": {"coordinates":[-111.755625,33.32123],"type":"Point"}
+  "bbox": [
+    -111.755625,
+    33.32123,
+    -111.755625,
+    33.32123
+],
+  "geometry": {"coordinates":[-111.75562499999999,33.32123],"type":"Point"}
 }

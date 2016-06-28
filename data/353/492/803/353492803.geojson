@@ -2,13 +2,14 @@
   "id": 353492803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923459,33.372341,-111.923459,33.372341",
     "geom:latitude":33.372341,
     "geom:longitude":-111.923459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 E. Driftwood Dr.",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":353492803,
-    "wof:lastmodified":1449018262,
+    "wof:lastmodified":1466327041,
     "wof:name":"Adventures Aloft, LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "balloons-manned"
     ]
 },
-  "bbox": [-111.923459,33.372341,-111.923459,33.372341],
-  "geometry": {"coordinates":[-111.923459,33.372341],"type":"Point"}
+  "bbox": [
+    -111.923459,
+    33.372341,
+    -111.923459,
+    33.372341
+],
+  "geometry": {"coordinates":[-111.92345899999999,33.372341],"type":"Point"}
 }

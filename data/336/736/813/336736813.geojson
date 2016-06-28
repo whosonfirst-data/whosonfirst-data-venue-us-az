@@ -2,13 +2,14 @@
   "id": 336736813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060215,33.798991,-112.060215,33.798991",
     "geom:latitude":33.798991,
     "geom:longitude":-112.060215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 E Carefree Hwy Ste B",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336736813,
-    "wof:lastmodified":1448997987,
+    "wof:lastmodified":1466328588,
     "wof:name":"Desert Hills Cafe",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-112.060215,33.798991,-112.060215,33.798991],
+  "bbox": [
+    -112.060215,
+    33.798991,
+    -112.060215,
+    33.798991
+],
   "geometry": {"coordinates":[-112.060215,33.798991],"type":"Point"}
 }

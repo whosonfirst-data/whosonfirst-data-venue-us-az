@@ -2,13 +2,14 @@
   "id": 320629309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065086,33.472462,-112.065086,33.472462",
     "geom:latitude":33.472462,
     "geom:longitude":-112.065086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320629309,
-    "wof:lastmodified":1449014089,
+    "wof:lastmodified":1466326506,
     "wof:name":"Autom",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.065086,33.472462,-112.065086,33.472462],
-  "geometry": {"coordinates":[-112.065086,33.472462],"type":"Point"}
+  "bbox": [
+    -112.065086,
+    33.472462,
+    -112.065086,
+    33.472462
+],
+  "geometry": {"coordinates":[-112.06508599999999,33.472462],"type":"Point"}
 }

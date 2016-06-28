@@ -2,13 +2,14 @@
   "id": 153065437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.978034,33.537218,-111.978034,33.537218",
     "geom:latitude":33.537218,
     "geom:longitude":-111.978034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6808 N 48th St",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811269,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153065437,
-    "wof:lastmodified":1449040821,
+    "wof:lastmodified":1466328039,
     "wof:name":"G W Holdings",
     "wof:parent_id":85811269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.978034,33.537218,-111.978034,33.537218],
-  "geometry": {"coordinates":[-111.978034,33.537218],"type":"Point"}
+  "bbox": [
+    -111.978034,
+    33.537218,
+    -111.978034,
+    33.537218
+],
+  "geometry": {"coordinates":[-111.97803399999999,33.537218],"type":"Point"}
 }

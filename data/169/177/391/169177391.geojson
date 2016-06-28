@@ -2,13 +2,14 @@
   "id": 169177391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.748671,33.375884,-111.748671,33.375884",
     "geom:latitude":33.375884,
     "geom:longitude":-111.748671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 E Catamaran Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169177391,
-    "wof:lastmodified":1449035966,
+    "wof:lastmodified":1466331978,
     "wof:name":"A Maid In Heaven",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.748671,33.375884,-111.748671,33.375884],
+  "bbox": [
+    -111.748671,
+    33.375884,
+    -111.748671,
+    33.375884
+],
   "geometry": {"coordinates":[-111.748671,33.375884],"type":"Point"}
 }

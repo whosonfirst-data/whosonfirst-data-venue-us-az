@@ -2,13 +2,14 @@
   "id": 168997935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.348052,34.505391,-114.348052,34.505391",
     "geom:latitude":34.505391,
     "geom:longitude":-114.348052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Lake Havasu Ave N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168997935,
-    "wof:lastmodified":1449028445,
+    "wof:lastmodified":1466331763,
     "wof:name":"Alco Marine Sales & Service",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.348052,34.505391,-114.348052,34.505391],
+  "bbox": [
+    -114.348052,
+    34.505391,
+    -114.348052,
+    34.505391
+],
   "geometry": {"coordinates":[-114.348052,34.505391],"type":"Point"}
 }

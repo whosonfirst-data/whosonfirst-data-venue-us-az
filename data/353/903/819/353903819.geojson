@@ -2,13 +2,14 @@
   "id": 353903819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.762904,34.870021,-111.762904,34.870021",
     "geom:latitude":34.870021,
     "geom:longitude":-111.762904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Smith Rd",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353903819,
-    "wof:lastmodified":1449018405,
+    "wof:lastmodified":1466331048,
     "wof:name":"Aps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.762904,34.870021,-111.762904,34.870021],
-  "geometry": {"coordinates":[-111.762904,34.870021],"type":"Point"}
+  "bbox": [
+    -111.762904,
+    34.870021,
+    -111.762904,
+    34.870021
+],
+  "geometry": {"coordinates":[-111.76290400000001,34.870021],"type":"Point"}
 }

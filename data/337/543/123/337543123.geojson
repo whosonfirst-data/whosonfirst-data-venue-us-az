@@ -2,13 +2,14 @@
   "id": 337543123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926366,33.462665,-111.926366,33.462665",
     "geom:latitude":33.462665,
     "geom:longitude":-111.926366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":337543123,
-    "wof:lastmodified":1449027080,
+    "wof:lastmodified":1466326633,
     "wof:name":"The Flower Cart",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "flowers"
     ]
 },
-  "bbox": [-111.926366,33.462665,-111.926366,33.462665],
+  "bbox": [
+    -111.926366,
+    33.462665,
+    -111.926366,
+    33.462665
+],
   "geometry": {"coordinates":[-111.926366,33.462665],"type":"Point"}
 }

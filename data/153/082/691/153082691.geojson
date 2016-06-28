@@ -2,13 +2,14 @@
   "id": 153082691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.99021,32.234527,-110.99021,32.234527",
     "geom:latitude":32.234527,
     "geom:longitude":-110.99021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 N Grande Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -41,11 +42,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":153082691,
-    "wof:lastmodified":1449040354,
+    "wof:lastmodified":1466329211,
     "wof:name":"Tanner Materials Company LLC",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.99021,32.234527,-110.99021,32.234527],
+  "bbox": [
+    -110.99021,
+    32.234527,
+    -110.99021,
+    32.234527
+],
   "geometry": {"coordinates":[-110.99021,32.234527],"type":"Point"}
 }

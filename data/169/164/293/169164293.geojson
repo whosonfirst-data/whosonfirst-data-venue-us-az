@@ -2,13 +2,14 @@
   "id": 169164293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.006538,32.272332,-111.006538,32.272332",
     "geom:latitude":32.272332,
     "geom:longitude":-111.006538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1885 W Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169164293,
-    "wof:lastmodified":1449033074,
+    "wof:lastmodified":1466331853,
     "wof:name":"Copper State Bolt & Nut Co Inc",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.006538,32.272332,-111.006538,32.272332],
-  "geometry": {"coordinates":[-111.006538,32.272332],"type":"Point"}
+  "bbox": [
+    -111.006538,
+    32.272332,
+    -111.006538,
+    32.272332
+],
+  "geometry": {"coordinates":[-111.00653800000001,32.272332],"type":"Point"}
 }

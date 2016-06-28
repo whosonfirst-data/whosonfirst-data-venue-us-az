@@ -2,13 +2,14 @@
   "id": 336632941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019178,33.45029,-112.019178,33.45029",
     "geom:latitude":33.45029,
     "geom:longitude":-112.019178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 E Monroe St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336632941,
-    "wof:lastmodified":1448997614,
+    "wof:lastmodified":1466326607,
     "wof:name":"Aztech Educational Services",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-112.019178,33.45029,-112.019178,33.45029],
+  "bbox": [
+    -112.019178,
+    33.45029,
+    -112.019178,
+    33.45029
+],
   "geometry": {"coordinates":[-112.019178,33.45029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353508695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.928153,33.32119,-111.928153,33.32119",
     "geom:latitude":33.32119,
     "geom:longitude":-111.928153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9920 S Rural Road #108-98",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353508695,
-    "wof:lastmodified":1449019686,
+    "wof:lastmodified":1466327340,
     "wof:name":"Arters Public Relations",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.928153,33.32119,-111.928153,33.32119],
-  "geometry": {"coordinates":[-111.928153,33.32119],"type":"Point"}
+  "bbox": [
+    -111.928153,
+    33.32119,
+    -111.928153,
+    33.32119
+],
+  "geometry": {"coordinates":[-111.92815299999999,33.32119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152920717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065314,33.617504,-112.065314,33.617504",
     "geom:latitude":33.617504,
     "geom:longitude":-112.065314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14425 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152920717,
-    "wof:lastmodified":1449047868,
+    "wof:lastmodified":1466326938,
     "wof:name":"Unique Settlements",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065314,33.617504,-112.065314,33.617504],
+  "bbox": [
+    -112.065314,
+    33.617504,
+    -112.065314,
+    33.617504
+],
   "geometry": {"coordinates":[-112.065314,33.617504],"type":"Point"}
 }

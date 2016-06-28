@@ -2,13 +2,14 @@
   "id": 169196313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.186709,33.610825,-112.186709,33.610825",
     "geom:latitude":33.610825,
     "geom:longitude":-112.186709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169196313,
-    "wof:lastmodified":1449033431,
+    "wof:lastmodified":1466332068,
     "wof:name":"Purcell's Western States Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.186709,33.610825,-112.186709,33.610825],
-  "geometry": {"coordinates":[-112.186709,33.610825],"type":"Point"}
+  "bbox": [
+    -112.186709,
+    33.610825,
+    -112.186709,
+    33.610825
+],
+  "geometry": {"coordinates":[-112.18670899999999,33.610825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353671205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.26342,33.580597,-112.26342,33.580597",
     "geom:latitude":33.580597,
     "geom:longitude":-112.26342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9460 W Peoria Ave Ste A",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353671205,
-    "wof:lastmodified":1449018841,
+    "wof:lastmodified":1466329373,
     "wof:name":"Peoria Solutions",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-112.26342,33.580597,-112.26342,33.580597],
+  "bbox": [
+    -112.26342,
+    33.580597,
+    -112.26342,
+    33.580597
+],
   "geometry": {"coordinates":[-112.26342,33.580597],"type":"Point"}
 }

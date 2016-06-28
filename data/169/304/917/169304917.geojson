@@ -2,13 +2,14 @@
   "id": 169304917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.224874,33.497813,-112.224874,33.497813",
     "geom:latitude":33.497813,
     "geom:longitude":-112.224874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7613 W Heatherbrae Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169304917,
-    "wof:lastmodified":1449035131,
+    "wof:lastmodified":1466333088,
     "wof:name":"Trujillo Air Conditioning",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.224874,33.497813,-112.224874,33.497813],
+  "bbox": [
+    -112.224874,
+    33.497813,
+    -112.224874,
+    33.497813
+],
   "geometry": {"coordinates":[-112.224874,33.497813],"type":"Point"}
 }

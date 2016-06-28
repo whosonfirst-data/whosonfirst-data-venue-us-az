@@ -2,13 +2,14 @@
   "id": 353540569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788002,33.320801,-111.788002,33.320801",
     "geom:latitude":33.320801,
     "geom:longitude":-111.788002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13639 E Ray Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353540569,
-    "wof:lastmodified":1449019275,
+    "wof:lastmodified":1466328118,
     "wof:name":"Banner Neely Ray Hospital House",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.788002,33.320801,-111.788002,33.320801],
-  "geometry": {"coordinates":[-111.788002,33.320801],"type":"Point"}
+  "bbox": [
+    -111.788002,
+    33.320801,
+    -111.788002,
+    33.320801
+],
+  "geometry": {"coordinates":[-111.78800200000001,33.320801],"type":"Point"}
 }

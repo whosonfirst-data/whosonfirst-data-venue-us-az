@@ -2,13 +2,14 @@
   "id": 153078055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.479435,34.529555,-112.479435,34.529555",
     "geom:latitude":34.529555,
     "geom:longitude":-112.479435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Fisk Hill Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153078055,
-    "wof:lastmodified":1449040754,
+    "wof:lastmodified":1466328905,
     "wof:name":"M D H Concrete",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.479435,34.529555,-112.479435,34.529555],
+  "bbox": [
+    -112.479435,
+    34.529555,
+    -112.479435,
+    34.529555
+],
   "geometry": {"coordinates":[-112.479435,34.529555],"type":"Point"}
 }

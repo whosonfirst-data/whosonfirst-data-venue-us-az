@@ -2,13 +2,14 @@
   "id": 353874497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.670016,35.188016,-111.670016,35.188016",
     "geom:latitude":35.188016,
     "geom:longitude":-111.670016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 W Route 66",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":353874497,
-    "wof:lastmodified":1449020634,
+    "wof:lastmodified":1466330942,
     "wof:name":"The Home Depot",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "improvement"
     ]
 },
-  "bbox": [-111.670016,35.188016,-111.670016,35.188016],
+  "bbox": [
+    -111.670016,
+    35.188016,
+    -111.670016,
+    35.188016
+],
   "geometry": {"coordinates":[-111.670016,35.188016],"type":"Point"}
 }

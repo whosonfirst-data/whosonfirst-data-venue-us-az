@@ -2,13 +2,14 @@
   "id": 152974313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.870805,33.399531,-110.870805,33.399531",
     "geom:latitude":33.399531,
     "geom:longitude":-110.870805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Sullivan St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152974313,
-    "wof:lastmodified":1449048311,
+    "wof:lastmodified":1466328627,
     "wof:name":"Dial-A-Ride",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.870805,33.399531,-110.870805,33.399531],
+  "bbox": [
+    -110.870805,
+    33.399531,
+    -110.870805,
+    33.399531
+],
   "geometry": {"coordinates":[-110.870805,33.399531],"type":"Point"}
 }

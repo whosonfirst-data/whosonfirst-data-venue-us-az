@@ -2,13 +2,14 @@
   "id": 336801529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.693193,33.40863,-111.693193,33.40863",
     "geom:latitude":33.40863,
     "geom:longitude":-111.693193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6458 E Broadway Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336801529,
-    "wof:lastmodified":1448997846,
+    "wof:lastmodified":1466329550,
     "wof:name":"Evergreen Valley Health And Re",
     "wof:parent_id":85820311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nursing"
     ]
 },
-  "bbox": [-111.693193,33.40863,-111.693193,33.40863],
-  "geometry": {"coordinates":[-111.693193,33.40863],"type":"Point"}
+  "bbox": [
+    -111.693193,
+    33.40863,
+    -111.693193,
+    33.40863
+],
+  "geometry": {"coordinates":[-111.69319299999999,33.40863],"type":"Point"}
 }

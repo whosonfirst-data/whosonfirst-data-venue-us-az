@@ -2,13 +2,14 @@
   "id": 169095355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926498,33.589372,-111.926498,33.589372",
     "geom:latitude":33.589372,
     "geom:longitude":-111.926498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7131 E Cholla St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880973,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169095355,
-    "wof:lastmodified":1449034359,
+    "wof:lastmodified":1466330679,
     "wof:name":"Aztec Estates & Sales",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.926498,33.589372,-111.926498,33.589372],
+  "bbox": [
+    -111.926498,
+    33.589372,
+    -111.926498,
+    33.589372
+],
   "geometry": {"coordinates":[-111.926498,33.589372],"type":"Point"}
 }

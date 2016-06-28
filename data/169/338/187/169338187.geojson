@@ -2,13 +2,14 @@
   "id": 169338187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91385,32.267624,-110.91385,32.267624",
     "geom:latitude":32.267624,
     "geom:longitude":-110.91385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 E Hardy Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169338187,
-    "wof:lastmodified":1449033829,
+    "wof:lastmodified":1466333326,
     "wof:name":"Desert Earth Contracting",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.91385,32.267624,-110.91385,32.267624],
+  "bbox": [
+    -110.91385,
+    32.267624,
+    -110.91385,
+    32.267624
+],
   "geometry": {"coordinates":[-110.91385,32.267624],"type":"Point"}
 }

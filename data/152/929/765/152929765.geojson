@@ -2,13 +2,14 @@
   "id": 152929765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.822008,32.163866,-110.822008,32.163866",
     "geom:latitude":32.163866,
     "geom:longitude":-110.822008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4849 S Mead Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152929765,
-    "wof:lastmodified":1449046078,
+    "wof:lastmodified":1466325960,
     "wof:name":"Above & Beyond Duct Cleaning",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.822008,32.163866,-110.822008,32.163866],
+  "bbox": [
+    -110.822008,
+    32.163866,
+    -110.822008,
+    32.163866
+],
   "geometry": {"coordinates":[-110.822008,32.163866],"type":"Point"}
 }

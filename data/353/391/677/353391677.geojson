@@ -2,13 +2,14 @@
   "id": 353391677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968491,33.42194,-111.968491,33.42194",
     "geom:latitude":33.42194,
     "geom:longitude":-111.968491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 W University Dr Ste 215",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353391677,
-    "wof:lastmodified":1449019879,
+    "wof:lastmodified":1466326195,
     "wof:name":"Centaur Corp",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.968491,33.42194,-111.968491,33.42194],
+  "bbox": [
+    -111.968491,
+    33.42194,
+    -111.968491,
+    33.42194
+],
   "geometry": {"coordinates":[-111.968491,33.42194],"type":"Point"}
 }

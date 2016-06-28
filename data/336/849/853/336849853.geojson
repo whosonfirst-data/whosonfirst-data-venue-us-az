@@ -2,13 +2,14 @@
   "id": 336849853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.858866,33.32531,-111.858866,33.32531",
     "geom:latitude":33.32531,
     "geom:longitude":-111.858866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 N Alma School Rd Ste 205",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336849853,
-    "wof:lastmodified":1448997147,
+    "wof:lastmodified":1466330030,
     "wof:name":"East Valley Family Medical",
     "wof:parent_id":85876657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-111.858866,33.32531,-111.858866,33.32531],
-  "geometry": {"coordinates":[-111.858866,33.32531],"type":"Point"}
+  "bbox": [
+    -111.858866,
+    33.32531,
+    -111.858866,
+    33.32531
+],
+  "geometry": {"coordinates":[-111.85886600000001,33.32531],"type":"Point"}
 }

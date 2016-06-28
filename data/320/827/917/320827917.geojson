@@ -2,13 +2,14 @@
   "id": 320827917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112256,33.678329,-112.112256,33.678329",
     "geom:latitude":33.678329,
     "geom:longitude":-112.112256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21257 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320827917,
-    "wof:lastmodified":1449012616,
+    "wof:lastmodified":1466330172,
     "wof:name":"Aztec Boulders & Crane Service",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucks-rental"
     ]
 },
-  "bbox": [-112.112256,33.678329,-112.112256,33.678329],
+  "bbox": [
+    -112.112256,
+    33.678329,
+    -112.112256,
+    33.678329
+],
   "geometry": {"coordinates":[-112.112256,33.678329],"type":"Point"}
 }

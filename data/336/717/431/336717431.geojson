@@ -2,13 +2,14 @@
   "id": 336717431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124662,33.573945,-112.124662,33.573945",
     "geom:latitude":33.573945,
     "geom:longitude":-112.124662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9610 N Metro Pkwy W",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -124,10 +125,11 @@
         }
     ],
     "wof:id":336717431,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466328307,
     "wof:name":"The Sports Authority",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -151,6 +153,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-112.124662,33.573945,-112.124662,33.573945],
+  "bbox": [
+    -112.124662,
+    33.573945,
+    -112.124662,
+    33.573945
+],
   "geometry": {"coordinates":[-112.124662,33.573945],"type":"Point"}
 }

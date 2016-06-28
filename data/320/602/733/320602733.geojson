@@ -2,13 +2,14 @@
   "id": 320602733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07515,33.448261,-112.07515,33.448261",
     "geom:latitude":33.448261,
     "geom:longitude":-112.07515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Washington St Fl 22",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320602733,
-    "wof:lastmodified":1449013010,
+    "wof:lastmodified":1466325815,
     "wof:name":"Herbert E Parker",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "research"
     ]
 },
-  "bbox": [-112.07515,33.448261,-112.07515,33.448261],
-  "geometry": {"coordinates":[-112.07515,33.448261],"type":"Point"}
+  "bbox": [
+    -112.07515,
+    33.448261,
+    -112.07515,
+    33.448261
+],
+  "geometry": {"coordinates":[-112.07514999999999,33.448261],"type":"Point"}
 }

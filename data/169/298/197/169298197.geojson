@@ -2,13 +2,14 @@
   "id": 169298197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058276,33.640402,-112.058276,33.640402",
     "geom:latitude":33.640402,
     "geom:longitude":-112.058276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823079,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169298197,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466332904,
     "wof:name":"Maritz Travel",
     "wof:parent_id":85823079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.058276,33.640402,-112.058276,33.640402],
-  "geometry": {"coordinates":[-112.058276,33.640402],"type":"Point"}
+  "bbox": [
+    -112.058276,
+    33.640402,
+    -112.058276,
+    33.640402
+],
+  "geometry": {"coordinates":[-112.05827600000001,33.640402],"type":"Point"}
 }

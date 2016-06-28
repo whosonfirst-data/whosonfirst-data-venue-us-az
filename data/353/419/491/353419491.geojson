@@ -2,13 +2,14 @@
   "id": 353419491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909095,33.406604,-111.909095,33.406604",
     "geom:latitude":33.406604,
     "geom:longitude":-111.909095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 S Mcclintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353419491,
-    "wof:lastmodified":1449020725,
+    "wof:lastmodified":1466326413,
     "wof:name":"Quail Canyon Apartments",
     "wof:parent_id":85881403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-111.909095,33.406604,-111.909095,33.406604],
-  "geometry": {"coordinates":[-111.909095,33.406604],"type":"Point"}
+  "bbox": [
+    -111.909095,
+    33.406604,
+    -111.909095,
+    33.406604
+],
+  "geometry": {"coordinates":[-111.90909499999999,33.406604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168872513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.081263,32.346046,-111.081263,32.346046",
     "geom:latitude":32.346046,
     "geom:longitude":-111.081263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7671 N Business Park Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     "sg:website":"www.braswell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":168872513,
-    "wof:lastmodified":1449027844,
+    "wof:lastmodified":1466327675,
     "wof:name":"Braswell Carburetion",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.081263,32.346046,-111.081263,32.346046],
-  "geometry": {"coordinates":[-111.081263,32.346046],"type":"Point"}
+  "bbox": [
+    -111.081263,
+    32.346046,
+    -111.081263,
+    32.346046
+],
+  "geometry": {"coordinates":[-111.08126300000001,32.346046],"type":"Point"}
 }

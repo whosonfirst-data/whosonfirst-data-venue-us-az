@@ -2,13 +2,14 @@
   "id": 320828581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08021,33.680829,-112.08021,33.680829",
     "geom:latitude":33.680829,
     "geom:longitude":-112.08021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Lone Cactus Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320828581,
-    "wof:lastmodified":1449013147,
+    "wof:lastmodified":1466330082,
     "wof:name":"Azteca Plumbing",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber"
     ]
 },
-  "bbox": [-112.08021,33.680829,-112.08021,33.680829],
-  "geometry": {"coordinates":[-112.08021,33.680829],"type":"Point"}
+  "bbox": [
+    -112.08021,
+    33.680829,
+    -112.08021,
+    33.680829
+],
+  "geometry": {"coordinates":[-112.08020999999999,33.680829],"type":"Point"}
 }

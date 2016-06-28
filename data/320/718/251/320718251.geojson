@@ -2,13 +2,14 @@
   "id": 320718251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027603,33.509534,-112.027603,33.509534",
     "geom:latitude":33.509534,
     "geom:longitude":-112.027603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 E Camelback Rd Ste 170",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320718251,
-    "wof:lastmodified":1449012059,
+    "wof:lastmodified":1466328359,
     "wof:name":"Escada",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-112.027603,33.509534,-112.027603,33.509534],
+  "bbox": [
+    -112.027603,
+    33.509534,
+    -112.027603,
+    33.509534
+],
   "geometry": {"coordinates":[-112.027603,33.509534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169023067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947387,33.378277,-111.947387,33.378277",
     "geom:latitude":33.378277,
     "geom:longitude":-111.947387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 W Baseline Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841457,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85841457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169023067,
-    "wof:lastmodified":1449035632,
+    "wof:lastmodified":1466326238,
     "wof:name":"Auto Glass Specialists",
     "wof:parent_id":85841457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.947387,33.378277,-111.947387,33.378277],
-  "geometry": {"coordinates":[-111.947387,33.378277],"type":"Point"}
+  "bbox": [
+    -111.947387,
+    33.378277,
+    -111.947387,
+    33.378277
+],
+  "geometry": {"coordinates":[-111.94738700000001,33.378277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168914877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972417,33.396722,-111.972417,33.396722",
     "geom:latitude":33.396722,
     "geom:longitude":-111.972417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 S Potter Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812107,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85812107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168914877,
-    "wof:lastmodified":1449028055,
+    "wof:lastmodified":1466330096,
     "wof:name":"LMG",
     "wof:parent_id":85812107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.972417,33.396722,-111.972417,33.396722],
-  "geometry": {"coordinates":[-111.972417,33.396722],"type":"Point"}
+  "bbox": [
+    -111.972417,
+    33.396722,
+    -111.972417,
+    33.396722
+],
+  "geometry": {"coordinates":[-111.97241699999999,33.396722],"type":"Point"}
 }

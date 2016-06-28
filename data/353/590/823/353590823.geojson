@@ -2,13 +2,14 @@
   "id": 353590823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.178361,33.5877,-112.178361,33.5877",
     "geom:latitude":33.5877,
     "geom:longitude":-112.178361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5523 W Yucca St",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353590823,
-    "wof:lastmodified":1449019791,
+    "wof:lastmodified":1466328382,
     "wof:name":"Well Done Facility Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.178361,33.5877,-112.178361,33.5877],
+  "bbox": [
+    -112.178361,
+    33.5877,
+    -112.178361,
+    33.5877
+],
   "geometry": {"coordinates":[-112.178361,33.5877],"type":"Point"}
 }

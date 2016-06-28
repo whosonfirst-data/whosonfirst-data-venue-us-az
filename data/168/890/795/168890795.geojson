@@ -2,13 +2,14 @@
   "id": 168890795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97801,33.640485,-111.97801,33.640485",
     "geom:latitude":33.640485,
     "geom:longitude":-111.97801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4707 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840463,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168890795,
-    "wof:lastmodified":1449027946,
+    "wof:lastmodified":1466328899,
     "wof:name":"Above & Beyond Nails",
     "wof:parent_id":85840463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.97801,33.640485,-111.97801,33.640485],
+  "bbox": [
+    -111.97801,
+    33.640485,
+    -111.97801,
+    33.640485
+],
   "geometry": {"coordinates":[-111.97801,33.640485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169026949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943757,32.257706,-110.943757,32.257706",
     "geom:latitude":32.257706,
     "geom:longitude":-110.943757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169026949,
-    "wof:lastmodified":1449034635,
+    "wof:lastmodified":1466326590,
     "wof:name":"Cd City",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943757,32.257706,-110.943757,32.257706],
-  "geometry": {"coordinates":[-110.943757,32.257706],"type":"Point"}
+  "bbox": [
+    -110.943757,
+    32.257706,
+    -110.943757,
+    32.257706
+],
+  "geometry": {"coordinates":[-110.94375700000001,32.257706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169275743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.872194,33.604818,-111.872194,33.604818",
     "geom:latitude":33.604818,
     "geom:longitude":-111.872194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9652 E Dreyfus Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169275743,
-    "wof:lastmodified":1449033751,
+    "wof:lastmodified":1466332783,
     "wof:name":"Troy Warren",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.872194,33.604818,-111.872194,33.604818],
-  "geometry": {"coordinates":[-111.872194,33.604818],"type":"Point"}
+  "bbox": [
+    -111.872194,
+    33.604818,
+    -111.872194,
+    33.604818
+],
+  "geometry": {"coordinates":[-111.87219399999999,33.604818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337500103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96327,33.614732,-111.96327,33.614732",
     "geom:latitude":33.614732,
     "geom:longitude":-111.96327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5443 E Piping Rock Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337500103,
-    "wof:lastmodified":1449027122,
+    "wof:lastmodified":1466326251,
     "wof:name":"Ra Peel & Sons",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.96327,33.614732,-111.96327,33.614732],
-  "geometry": {"coordinates":[-111.96327,33.614732],"type":"Point"}
+  "bbox": [
+    -111.96327,
+    33.614732,
+    -111.96327,
+    33.614732
+],
+  "geometry": {"coordinates":[-111.96326999999999,33.614732],"type":"Point"}
 }

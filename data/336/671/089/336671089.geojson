@@ -2,13 +2,14 @@
   "id": 336671089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.074821,33.363239,-112.074821,33.363239",
     "geom:latitude":33.363239,
     "geom:longitude":-112.074821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Dobbins Rd Apt 123",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336671089,
-    "wof:lastmodified":1448997199,
+    "wof:lastmodified":1466327456,
     "wof:name":"Monte Vista Casa",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.074821,33.363239,-112.074821,33.363239],
+  "bbox": [
+    -112.074821,
+    33.363239,
+    -112.074821,
+    33.363239
+],
   "geometry": {"coordinates":[-112.074821,33.363239],"type":"Point"}
 }

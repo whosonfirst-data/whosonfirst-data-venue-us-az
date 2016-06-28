@@ -2,13 +2,14 @@
   "id": 169148839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.596883,32.700355,-114.596883,32.700355",
     "geom:latitude":32.700355,
     "geom:longitude":-114.596883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2194 E 15th Pl",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169148839,
-    "wof:lastmodified":1449035445,
+    "wof:lastmodified":1466331823,
     "wof:name":"ARC Dynamics Inc",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.596883,32.700355,-114.596883,32.700355],
-  "geometry": {"coordinates":[-114.596883,32.700355],"type":"Point"}
+  "bbox": [
+    -114.596883,
+    32.700355,
+    -114.596883,
+    32.700355
+],
+  "geometry": {"coordinates":[-114.59688300000001,32.700355],"type":"Point"}
 }

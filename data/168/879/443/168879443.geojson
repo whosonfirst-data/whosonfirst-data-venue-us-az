@@ -2,13 +2,14 @@
   "id": 168879443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.892388,32.260927,-110.892388,32.260927",
     "geom:latitude":32.260927,
     "geom:longitude":-110.892388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 N Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871719,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168879443,
-    "wof:lastmodified":1449027784,
+    "wof:lastmodified":1466328195,
     "wof:name":"Homeamerican Mortgage Corp",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.892388,32.260927,-110.892388,32.260927],
+  "bbox": [
+    -110.892388,
+    32.260927,
+    -110.892388,
+    32.260927
+],
   "geometry": {"coordinates":[-110.892388,32.260927],"type":"Point"}
 }

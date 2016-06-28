@@ -2,13 +2,14 @@
   "id": 353755469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.330255,33.473912,-112.330255,33.473912",
     "geom:latitude":33.473912,
     "geom:longitude":-112.330255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12633 W Sheridan St",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353755469,
-    "wof:lastmodified":1449018991,
+    "wof:lastmodified":1466330125,
     "wof:name":"Collins Funding",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-112.330255,33.473912,-112.330255,33.473912],
-  "geometry": {"coordinates":[-112.330255,33.473912],"type":"Point"}
+  "bbox": [
+    -112.330255,
+    33.473912,
+    -112.330255,
+    33.473912
+],
+  "geometry": {"coordinates":[-112.33025499999999,33.473912],"type":"Point"}
 }

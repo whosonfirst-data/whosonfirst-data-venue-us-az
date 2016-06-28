@@ -2,13 +2,14 @@
   "id": 353599661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.34107,33.538534,-112.34107,33.538534",
     "geom:latitude":33.538534,
     "geom:longitude":-112.34107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 N Dysart Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353599661,
-    "wof:lastmodified":1449019443,
+    "wof:lastmodified":1466328515,
     "wof:name":"Luke Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.34107,33.538534,-112.34107,33.538534],
+  "bbox": [
+    -112.34107,
+    33.538534,
+    -112.34107,
+    33.538534
+],
   "geometry": {"coordinates":[-112.34107,33.538534],"type":"Point"}
 }

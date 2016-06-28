@@ -2,13 +2,14 @@
   "id": 336634597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008789,33.43578,-112.008789,33.43578",
     "geom:latitude":33.43578,
     "geom:longitude":-112.008789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 E Sky Harbor Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336634597,
-    "wof:lastmodified":1448997468,
+    "wof:lastmodified":1466326647,
     "wof:name":"Burger King",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dog"
     ]
 },
-  "bbox": [-112.008789,33.43578,-112.008789,33.43578],
-  "geometry": {"coordinates":[-112.008789,33.43578],"type":"Point"}
+  "bbox": [
+    -112.008789,
+    33.43578,
+    -112.008789,
+    33.43578
+],
+  "geometry": {"coordinates":[-112.00878899999999,33.43578],"type":"Point"}
 }

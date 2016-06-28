@@ -2,13 +2,14 @@
   "id": 320699189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055213,33.4874,-112.055213,33.4874",
     "geom:latitude":33.4874,
     "geom:longitude":-112.055213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 E Osborn Rd Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320699189,
-    "wof:lastmodified":1449011765,
+    "wof:lastmodified":1466328047,
     "wof:name":"Mack Pankow & Company",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auction"
     ]
 },
-  "bbox": [-112.055213,33.4874,-112.055213,33.4874],
-  "geometry": {"coordinates":[-112.055213,33.4874],"type":"Point"}
+  "bbox": [
+    -112.055213,
+    33.4874,
+    -112.055213,
+    33.4874
+],
+  "geometry": {"coordinates":[-112.05521299999999,33.4874],"type":"Point"}
 }

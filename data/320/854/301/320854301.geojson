@@ -2,13 +2,14 @@
   "id": 320854301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156225,33.49494,-112.156225,33.49494",
     "geom:latitude":33.49494,
     "geom:longitude":-112.156225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320854301,
-    "wof:lastmodified":1449014824,
+    "wof:lastmodified":1466330561,
     "wof:name":"Chiropractic Physicians Group",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-112.156225,33.49494,-112.156225,33.49494],
-  "geometry": {"coordinates":[-112.156225,33.49494],"type":"Point"}
+  "bbox": [
+    -112.156225,
+    33.49494,
+    -112.156225,
+    33.49494
+],
+  "geometry": {"coordinates":[-112.15622500000001,33.49494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320606043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.080818,33.465796,-112.080818,33.465796",
     "geom:latitude":33.465796,
     "geom:longitude":-112.080818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":320606043,
-    "wof:lastmodified":1449011830,
+    "wof:lastmodified":1466325904,
     "wof:name":"Easley's Fun Shop",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "store"
     ]
 },
-  "bbox": [-112.080818,33.465796,-112.080818,33.465796],
-  "geometry": {"coordinates":[-112.080818,33.465796],"type":"Point"}
+  "bbox": [
+    -112.080818,
+    33.465796,
+    -112.080818,
+    33.465796
+],
+  "geometry": {"coordinates":[-112.08081799999999,33.465796],"type":"Point"}
 }

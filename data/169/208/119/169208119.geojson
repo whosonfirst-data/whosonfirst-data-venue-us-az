@@ -2,13 +2,14 @@
   "id": 169208119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.285363,33.625027,-112.285363,33.625027",
     "geom:latitude":33.625027,
     "geom:longitude":-112.285363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10434 W Ridgeview Rd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169208119,
-    "wof:lastmodified":1449033067,
+    "wof:lastmodified":1466332189,
     "wof:name":"B&K Grocery Savers",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.285363,33.625027,-112.285363,33.625027],
+  "bbox": [
+    -112.285363,
+    33.625027,
+    -112.285363,
+    33.625027
+],
   "geometry": {"coordinates":[-112.285363,33.625027],"type":"Point"}
 }

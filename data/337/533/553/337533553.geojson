@@ -2,13 +2,14 @@
   "id": 337533553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.865836,33.467776,-111.865836,33.467776",
     "geom:latitude":33.467776,
     "geom:longitude":-111.865836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 N Longmore Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":337533553,
-    "wof:lastmodified":1449026919,
+    "wof:lastmodified":1466326541,
     "wof:name":"Rebecca Collins",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.865836,33.467776,-111.865836,33.467776],
+  "bbox": [
+    -111.865836,
+    33.467776,
+    -111.865836,
+    33.467776
+],
   "geometry": {"coordinates":[-111.865836,33.467776],"type":"Point"}
 }

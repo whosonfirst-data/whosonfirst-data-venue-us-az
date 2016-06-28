@@ -2,13 +2,14 @@
   "id": 169157299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.282942,34.489027,-114.282942,34.489027",
     "geom:latitude":34.489027,
     "geom:longitude":-114.282942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3451 Chesapeake Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169157299,
-    "wof:lastmodified":1449035498,
+    "wof:lastmodified":1466331919,
     "wof:name":"Laurbil Inc",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.282942,34.489027,-114.282942,34.489027],
-  "geometry": {"coordinates":[-114.282942,34.489027],"type":"Point"}
+  "bbox": [
+    -114.282942,
+    34.489027,
+    -114.282942,
+    34.489027
+],
+  "geometry": {"coordinates":[-114.28294200000001,34.489027],"type":"Point"}
 }

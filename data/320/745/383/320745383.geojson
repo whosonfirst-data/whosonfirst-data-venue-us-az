@@ -2,13 +2,14 @@
   "id": 320745383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120192,33.509465,-112.120192,33.509465",
     "geom:latitude":33.509465,
     "geom:longitude":-112.120192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 W Camelback Rd A1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320745383,
-    "wof:lastmodified":1449014795,
+    "wof:lastmodified":1466328785,
     "wof:name":"Durango West Imports",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "representative"
     ]
 },
-  "bbox": [-112.120192,33.509465,-112.120192,33.509465],
+  "bbox": [
+    -112.120192,
+    33.509465,
+    -112.120192,
+    33.509465
+],
   "geometry": {"coordinates":[-112.120192,33.509465],"type":"Point"}
 }

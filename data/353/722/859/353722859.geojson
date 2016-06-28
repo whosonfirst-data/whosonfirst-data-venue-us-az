@@ -2,13 +2,14 @@
   "id": 353722859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.359106,33.645347,-112.359106,33.645347",
     "geom:latitude":33.645347,
     "geom:longitude":-112.359106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13933 W Grand Ave Ste 302",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353722859,
-    "wof:lastmodified":1449019149,
+    "wof:lastmodified":1466330042,
     "wof:name":"Surprise Dental & Denture",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "oral"
     ]
 },
-  "bbox": [-112.359106,33.645347,-112.359106,33.645347],
+  "bbox": [
+    -112.359106,
+    33.645347,
+    -112.359106,
+    33.645347
+],
   "geometry": {"coordinates":[-112.359106,33.645347],"type":"Point"}
 }

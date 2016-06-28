@@ -2,13 +2,14 @@
   "id": 152979485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.918702,32.22784,-110.918702,32.22784",
     "geom:latitude":32.22784,
     "geom:longitude":-110.918702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 E Cll Alarcon",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152979485,
-    "wof:lastmodified":1449047555,
+    "wof:lastmodified":1466328882,
     "wof:name":"Hanson Marble Co",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.918702,32.22784,-110.918702,32.22784],
+  "bbox": [
+    -110.918702,
+    32.22784,
+    -110.918702,
+    32.22784
+],
   "geometry": {"coordinates":[-110.918702,32.22784],"type":"Point"}
 }

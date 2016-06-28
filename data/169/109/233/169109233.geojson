@@ -2,13 +2,14 @@
   "id": 169109233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.712635,32.812205,-109.712635,32.812205",
     "geom:latitude":32.812205,
     "geom:longitude":-109.712635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 W 24th St",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169109233,
-    "wof:lastmodified":1449033834,
+    "wof:lastmodified":1466331086,
     "wof:name":"Pds Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.712635,32.812205,-109.712635,32.812205],
-  "geometry": {"coordinates":[-109.712635,32.812205],"type":"Point"}
+  "bbox": [
+    -109.712635,
+    32.812205,
+    -109.712635,
+    32.812205
+],
+  "geometry": {"coordinates":[-109.71263500000001,32.812205],"type":"Point"}
 }

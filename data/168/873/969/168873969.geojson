@@ -2,13 +2,14 @@
   "id": 168873969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97795,32.230598,-110.97795,32.230598",
     "geom:latitude":32.230598,
     "geom:longitude":-110.97795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 N Main Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168873969,
-    "wof:lastmodified":1449027934,
+    "wof:lastmodified":1466327800,
     "wof:name":"Tucson Legal Copy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.97795,32.230598,-110.97795,32.230598],
-  "geometry": {"coordinates":[-110.97795,32.230598],"type":"Point"}
+  "bbox": [
+    -110.97795,
+    32.230598,
+    -110.97795,
+    32.230598
+],
+  "geometry": {"coordinates":[-110.97795000000001,32.230598],"type":"Point"}
 }

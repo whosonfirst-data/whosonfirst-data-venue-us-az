@@ -2,13 +2,14 @@
   "id": 320759313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012978,33.505603,-112.012978,33.505603",
     "geom:latitude":33.505603,
     "geom:longitude":-112.012978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 N 32nd St Ste 150",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320759313,
-    "wof:lastmodified":1449015018,
+    "wof:lastmodified":1466329045,
     "wof:name":"Source Direct Construction Imports",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.012978,33.505603,-112.012978,33.505603],
+  "bbox": [
+    -112.012978,
+    33.505603,
+    -112.012978,
+    33.505603
+],
   "geometry": {"coordinates":[-112.012978,33.505603],"type":"Point"}
 }

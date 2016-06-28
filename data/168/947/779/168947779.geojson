@@ -2,13 +2,14 @@
   "id": 168947779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.796735,32.202609,-110.796735,32.202609",
     "geom:latitude":32.202609,
     "geom:longitude":-110.796735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 S Brown Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168947779,
-    "wof:lastmodified":1449028335,
+    "wof:lastmodified":1466330959,
     "wof:name":"Chapel Music",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.796735,32.202609,-110.796735,32.202609],
+  "bbox": [
+    -110.796735,
+    32.202609,
+    -110.796735,
+    32.202609
+],
   "geometry": {"coordinates":[-110.796735,32.202609],"type":"Point"}
 }

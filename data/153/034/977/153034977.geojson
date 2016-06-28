@@ -2,13 +2,14 @@
   "id": 153034977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.957088,32.231758,-110.957088,32.231758",
     "geom:latitude":32.231758,
     "geom:longitude":-110.957088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 E University Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153034977,
-    "wof:lastmodified":1449040386,
+    "wof:lastmodified":1466326119,
     "wof:name":"88 Express",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.957088,32.231758,-110.957088,32.231758],
+  "bbox": [
+    -110.957088,
+    32.231758,
+    -110.957088,
+    32.231758
+],
   "geometry": {"coordinates":[-110.957088,32.231758],"type":"Point"}
 }

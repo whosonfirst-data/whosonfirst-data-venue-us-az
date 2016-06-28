@@ -2,13 +2,14 @@
   "id": 168859677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.716381,33.370924,-111.716381,33.370924",
     "geom:latitude":33.370924,
     "geom:longitude":-111.716381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3432 E Caleb Way",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168859677,
-    "wof:lastmodified":1449028324,
+    "wof:lastmodified":1466326553,
     "wof:name":"Borrasoft",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.716381,33.370924,-111.716381,33.370924],
+  "bbox": [
+    -111.716381,
+    33.370924,
+    -111.716381,
+    33.370924
+],
   "geometry": {"coordinates":[-111.716381,33.370924],"type":"Point"}
 }

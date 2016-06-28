@@ -2,13 +2,14 @@
   "id": 153085105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.459442,36.910211,-111.459442,36.910211",
     "geom:latitude":36.910211,
     "geom:longitude":-111.459442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"479 S Lake Powell Blvd",
     "sg:city":"Page",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153085105,
-    "wof:lastmodified":1449040455,
+    "wof:lastmodified":1466329031,
     "wof:name":"Page Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.459442,36.910211,-111.459442,36.910211],
+  "bbox": [
+    -111.459442,
+    36.910211,
+    -111.459442,
+    36.910211
+],
   "geometry": {"coordinates":[-111.459442,36.910211],"type":"Point"}
 }

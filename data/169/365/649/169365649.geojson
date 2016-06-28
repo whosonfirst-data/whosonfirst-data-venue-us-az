@@ -2,13 +2,14 @@
   "id": 169365649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.805722,32.220833,-110.805722,32.220833",
     "geom:latitude":32.220833,
     "geom:longitude":-110.805722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8802 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169365649,
-    "wof:lastmodified":1449033226,
+    "wof:lastmodified":1466333647,
     "wof:name":"Bella Vista Web Svc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.805722,32.220833,-110.805722,32.220833],
+  "bbox": [
+    -110.805722,
+    32.220833,
+    -110.805722,
+    32.220833
+],
   "geometry": {"coordinates":[-110.805722,32.220833],"type":"Point"}
 }

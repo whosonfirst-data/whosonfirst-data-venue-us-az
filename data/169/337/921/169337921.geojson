@@ -2,13 +2,14 @@
   "id": 169337921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145206,33.492116,-112.145206,33.492116",
     "geom:latitude":33.492116,
     "geom:longitude":-112.145206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 N 40th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169337921,
-    "wof:lastmodified":1449034224,
+    "wof:lastmodified":1466333406,
     "wof:name":"Swiss Plastering & Interiors",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.145206,33.492116,-112.145206,33.492116],
+  "bbox": [
+    -112.145206,
+    33.492116,
+    -112.145206,
+    33.492116
+],
   "geometry": {"coordinates":[-112.145206,33.492116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169051791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931604,33.408518,-111.931604,33.408518",
     "geom:latitude":33.408518,
     "geom:longitude":-111.931604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 E Solana Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169051791,
-    "wof:lastmodified":1449034728,
+    "wof:lastmodified":1466328460,
     "wof:name":"Bumble Bee Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.931604,33.408518,-111.931604,33.408518],
-  "geometry": {"coordinates":[-111.931604,33.408518],"type":"Point"}
+  "bbox": [
+    -111.931604,
+    33.408518,
+    -111.931604,
+    33.408518
+],
+  "geometry": {"coordinates":[-111.93160399999999,33.408518],"type":"Point"}
 }

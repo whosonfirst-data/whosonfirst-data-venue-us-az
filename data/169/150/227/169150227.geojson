@@ -2,13 +2,14 @@
   "id": 169150227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.990897,32.261069,-110.990897,32.261069",
     "geom:latitude":32.261069,
     "geom:longitude":-110.990897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W Miracle Mile",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169150227,
-    "wof:lastmodified":1449032723,
+    "wof:lastmodified":1466331722,
     "wof:name":"Carports Etc Corp",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.990897,32.261069,-110.990897,32.261069],
+  "bbox": [
+    -110.990897,
+    32.261069,
+    -110.990897,
+    32.261069
+],
   "geometry": {"coordinates":[-110.990897,32.261069],"type":"Point"}
 }

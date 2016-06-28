@@ -2,13 +2,14 @@
   "id": 168975911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.324292,33.638668,-112.324292,33.638668",
     "geom:latitude":33.638668,
     "geom:longitude":-112.324292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12129 W Bell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168975911,
-    "wof:lastmodified":1449028474,
+    "wof:lastmodified":1466331590,
     "wof:name":"Creative Networks",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.324292,33.638668,-112.324292,33.638668],
+  "bbox": [
+    -112.324292,
+    33.638668,
+    -112.324292,
+    33.638668
+],
   "geometry": {"coordinates":[-112.324292,33.638668],"type":"Point"}
 }

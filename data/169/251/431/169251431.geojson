@@ -2,13 +2,14 @@
   "id": 169251431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.712011,33.403983,-111.712011,33.403983",
     "geom:latitude":33.403983,
     "geom:longitude":-111.712011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5445 E Dragoon Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840599,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85840599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169251431,
-    "wof:lastmodified":1449032742,
+    "wof:lastmodified":1466332538,
     "wof:name":"Appliance Repair-Rick Hamilton",
     "wof:parent_id":85840599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.712011,33.403983,-111.712011,33.403983],
+  "bbox": [
+    -111.712011,
+    33.403983,
+    -111.712011,
+    33.403983
+],
   "geometry": {"coordinates":[-111.712011,33.403983],"type":"Point"}
 }

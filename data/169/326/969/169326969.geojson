@@ -2,13 +2,14 @@
   "id": 169326969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97208,32.260409,-110.97208,32.260409",
     "geom:latitude":32.260409,
     "geom:longitude":-110.97208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 N Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169326969,
-    "wof:lastmodified":1449034073,
+    "wof:lastmodified":1466333136,
     "wof:name":"All Ways Towing",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.97208,32.260409,-110.97208,32.260409],
-  "geometry": {"coordinates":[-110.97208,32.260409],"type":"Point"}
+  "bbox": [
+    -110.97208,
+    32.260409,
+    -110.97208,
+    32.260409
+],
+  "geometry": {"coordinates":[-110.97208000000001,32.260409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168906331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.61642,32.707502,-114.61642,32.707502",
     "geom:latitude":32.707502,
     "geom:longitude":-114.61642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E 11th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168906331,
-    "wof:lastmodified":1449028049,
+    "wof:lastmodified":1466329784,
     "wof:name":"Tillman of Yuma",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.61642,32.707502,-114.61642,32.707502],
-  "geometry": {"coordinates":[-114.61642,32.707502],"type":"Point"}
+  "bbox": [
+    -114.61642,
+    32.707502,
+    -114.61642,
+    32.707502
+],
+  "geometry": {"coordinates":[-114.61642000000001,32.707502],"type":"Point"}
 }

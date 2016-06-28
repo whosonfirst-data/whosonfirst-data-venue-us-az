@@ -2,13 +2,14 @@
   "id": 168867213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.710566,33.369065,-111.710566,33.369065",
     "geom:latitude":33.369065,
     "geom:longitude":-111.710566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N Tatum Ln",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872439,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85872439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168867213,
-    "wof:lastmodified":1449028114,
+    "wof:lastmodified":1466327217,
     "wof:name":"Cassady's Photography",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.710566,33.369065,-111.710566,33.369065],
+  "bbox": [
+    -111.710566,
+    33.369065,
+    -111.710566,
+    33.369065
+],
   "geometry": {"coordinates":[-111.710566,33.369065],"type":"Point"}
 }

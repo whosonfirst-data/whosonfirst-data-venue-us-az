@@ -2,13 +2,14 @@
   "id": 320782215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.077622,33.538915,-112.077622,33.538915",
     "geom:latitude":33.538915,
     "geom:longitude":-112.077622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7040 N 3rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320782215,
-    "wof:lastmodified":1449011250,
+    "wof:lastmodified":1466329621,
     "wof:name":"Maiz Farm",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.077622,33.538915,-112.077622,33.538915],
-  "geometry": {"coordinates":[-112.077622,33.538915],"type":"Point"}
+  "bbox": [
+    -112.077622,
+    33.538915,
+    -112.077622,
+    33.538915
+],
+  "geometry": {"coordinates":[-112.07762200000001,33.538915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353616465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.297444,33.445995,-112.297444,33.445995",
     "geom:latitude":33.445995,
     "geom:longitude":-112.297444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 N 110th Dr",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353616465,
-    "wof:lastmodified":1449020115,
+    "wof:lastmodified":1466328717,
     "wof:name":"Dynamic Acquisitions",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-112.297444,33.445995,-112.297444,33.445995],
+  "bbox": [
+    -112.297444,
+    33.445995,
+    -112.297444,
+    33.445995
+],
   "geometry": {"coordinates":[-112.297444,33.445995],"type":"Point"}
 }

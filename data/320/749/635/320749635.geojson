@@ -2,13 +2,14 @@
   "id": 320749635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995522,33.481135,-111.995522,33.481135",
     "geom:latitude":33.481135,
     "geom:longitude":-111.995522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 N 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320749635,
-    "wof:lastmodified":1449012321,
+    "wof:lastmodified":1466328852,
     "wof:name":"Berthas Baked Delights",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.995522,33.481135,-111.995522,33.481135],
-  "geometry": {"coordinates":[-111.995522,33.481135],"type":"Point"}
+  "bbox": [
+    -111.995522,
+    33.481135,
+    -111.995522,
+    33.481135
+],
+  "geometry": {"coordinates":[-111.99552199999999,33.481135],"type":"Point"}
 }

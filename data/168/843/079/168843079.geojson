@@ -2,13 +2,14 @@
   "id": 168843079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012842,33.466955,-112.012842,33.466955",
     "geom:latitude":33.466955,
     "geom:longitude":-112.012842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168843079,
-    "wof:lastmodified":1449027838,
+    "wof:lastmodified":1466327341,
     "wof:name":"Socorro Check Cash Agency",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.012842,33.466955,-112.012842,33.466955],
-  "geometry": {"coordinates":[-112.012842,33.466955],"type":"Point"}
+  "bbox": [
+    -112.012842,
+    33.466955,
+    -112.012842,
+    33.466955
+],
+  "geometry": {"coordinates":[-112.01284200000001,33.466955],"type":"Point"}
 }

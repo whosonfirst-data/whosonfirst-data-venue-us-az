@@ -2,13 +2,14 @@
   "id": 169014367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.589623,35.206301,-111.589623,35.206301",
     "geom:latitude":35.206301,
     "geom:longitude":-111.589623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4450 E Meadow View Ln",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169014367,
-    "wof:lastmodified":1449034304,
+    "wof:lastmodified":1466327486,
     "wof:name":"Campers Plus Inc",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.589623,35.206301,-111.589623,35.206301],
+  "bbox": [
+    -111.589623,
+    35.206301,
+    -111.589623,
+    35.206301
+],
   "geometry": {"coordinates":[-111.589623,35.206301],"type":"Point"}
 }

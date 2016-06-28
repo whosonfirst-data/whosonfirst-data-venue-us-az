@@ -2,13 +2,14 @@
   "id": 152937937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10243,33.675185,-112.10243,33.675185",
     "geom:latitude":33.675185,
     "geom:longitude":-112.10243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20816 N 20th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152937937,
-    "wof:lastmodified":1449045176,
+    "wof:lastmodified":1466326536,
     "wof:name":"Sia Capco",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.10243,33.675185,-112.10243,33.675185],
+  "bbox": [
+    -112.10243,
+    33.675185,
+    -112.10243,
+    33.675185
+],
   "geometry": {"coordinates":[-112.10243,33.675185],"type":"Point"}
 }

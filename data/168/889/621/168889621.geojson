@@ -2,13 +2,14 @@
   "id": 168889621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.947156,32.212225,-110.947156,32.212225",
     "geom:latitude":32.212225,
     "geom:longitude":-110.947156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 E 18th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168889621,
-    "wof:lastmodified":1449027768,
+    "wof:lastmodified":1466329101,
     "wof:name":"Elyte ATM Svc",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.947156,32.212225,-110.947156,32.212225],
-  "geometry": {"coordinates":[-110.947156,32.212225],"type":"Point"}
+  "bbox": [
+    -110.947156,
+    32.212225,
+    -110.947156,
+    32.212225
+],
+  "geometry": {"coordinates":[-110.94715600000001,32.212225],"type":"Point"}
 }

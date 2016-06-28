@@ -2,13 +2,14 @@
   "id": 168846265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.799123,32.112814,-110.799123,32.112814",
     "geom:latitude":32.112814,
     "geom:longitude":-110.799123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9031 E Muleshoe St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168846265,
-    "wof:lastmodified":1449028406,
+    "wof:lastmodified":1466327526,
     "wof:name":"Ted Paton Realtor",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.799123,32.112814,-110.799123,32.112814],
-  "geometry": {"coordinates":[-110.799123,32.112814],"type":"Point"}
+  "bbox": [
+    -110.799123,
+    32.112814,
+    -110.799123,
+    32.112814
+],
+  "geometry": {"coordinates":[-110.79912299999999,32.112814],"type":"Point"}
 }

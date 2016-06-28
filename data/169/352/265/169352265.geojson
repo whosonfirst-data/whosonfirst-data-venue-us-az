@@ -2,13 +2,14 @@
   "id": 169352265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.783338,33.395611,-111.783338,33.395611",
     "geom:latitude":33.395611,
     "geom:longitude":-111.783338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 E Fairview Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169352265,
-    "wof:lastmodified":1449034712,
+    "wof:lastmodified":1466333547,
     "wof:name":"Impact Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.783338,33.395611,-111.783338,33.395611],
+  "bbox": [
+    -111.783338,
+    33.395611,
+    -111.783338,
+    33.395611
+],
   "geometry": {"coordinates":[-111.783338,33.395611],"type":"Point"}
 }

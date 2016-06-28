@@ -2,13 +2,14 @@
   "id": 168961697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829701,33.325004,-111.829701,33.325004",
     "geom:latitude":33.325004,
     "geom:longitude":-111.829701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 E Sheffield Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876671,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168961697,
-    "wof:lastmodified":1449028570,
+    "wof:lastmodified":1466331180,
     "wof:name":"Executive Events By KAT",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.829701,33.325004,-111.829701,33.325004],
+  "bbox": [
+    -111.829701,
+    33.325004,
+    -111.829701,
+    33.325004
+],
   "geometry": {"coordinates":[-111.829701,33.325004],"type":"Point"}
 }

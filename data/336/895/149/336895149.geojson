@@ -2,13 +2,14 @@
   "id": 336895149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950312,33.288194,-111.950312,33.288194",
     "geom:latitude":33.288194,
     "geom:longitude":-111.950312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 W Allison Rd # 5096",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336895149,
-    "wof:lastmodified":1448997400,
+    "wof:lastmodified":1466330272,
     "wof:name":"A A Precast",
     "wof:parent_id":85876645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.950312,33.288194,-111.950312,33.288194],
+  "bbox": [
+    -111.950312,
+    33.288194,
+    -111.950312,
+    33.288194
+],
   "geometry": {"coordinates":[-111.950312,33.288194],"type":"Point"}
 }

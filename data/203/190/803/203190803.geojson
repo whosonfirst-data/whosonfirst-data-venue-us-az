@@ -2,13 +2,14 @@
   "id": 203190803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.621441,35.145908,-114.621441,35.145908",
     "geom:latitude":35.145908,
     "geom:longitude":-114.621441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1882 Maricopa Dr",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203190803,
-    "wof:lastmodified":1449026756,
+    "wof:lastmodified":1466327768,
     "wof:name":"Willis Newberry",
     "wof:parent_id":85813655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-114.621441,35.145908,-114.621441,35.145908],
+  "bbox": [
+    -114.621441,
+    35.145908,
+    -114.621441,
+    35.145908
+],
   "geometry": {"coordinates":[-114.621441,35.145908],"type":"Point"}
 }

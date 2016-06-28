@@ -2,13 +2,14 @@
   "id": 169315457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82167,33.331191,-111.82167,33.331191",
     "geom:latitude":33.331191,
     "geom:longitude":-111.82167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1474 W Devon Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876671,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169315457,
-    "wof:lastmodified":1449035788,
+    "wof:lastmodified":1466333164,
     "wof:name":"Rtr Management Llc",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.82167,33.331191,-111.82167,33.331191],
+  "bbox": [
+    -111.82167,
+    33.331191,
+    -111.82167,
+    33.331191
+],
   "geometry": {"coordinates":[-111.82167,33.331191],"type":"Point"}
 }

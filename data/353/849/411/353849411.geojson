@@ -2,13 +2,14 @@
   "id": 353849411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.037703,32.332131,-111.037703,32.332131",
     "geom:latitude":32.332131,
     "geom:longitude":-111.037703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 N Camino de la Tierra",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353849411,
-    "wof:lastmodified":1449018719,
+    "wof:lastmodified":1466330642,
     "wof:name":"Flowing Wells School District 8 (Unified)",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.037703,32.332131,-111.037703,32.332131],
-  "geometry": {"coordinates":[-111.037703,32.332131],"type":"Point"}
+  "bbox": [
+    -111.037703,
+    32.332131,
+    -111.037703,
+    32.332131
+],
+  "geometry": {"coordinates":[-111.03770299999999,32.332131],"type":"Point"}
 }

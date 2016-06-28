@@ -2,13 +2,14 @@
   "id": 320705913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.094072,33.533578,-112.094072,33.533578",
     "geom:latitude":33.533578,
     "geom:longitude":-112.094072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1642 W Tuckey Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320705913,
-    "wof:lastmodified":1449014992,
+    "wof:lastmodified":1466328181,
     "wof:name":"Cherokee Fire Protection",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "automatic"
     ]
 },
-  "bbox": [-112.094072,33.533578,-112.094072,33.533578],
+  "bbox": [
+    -112.094072,
+    33.533578,
+    -112.094072,
+    33.533578
+],
   "geometry": {"coordinates":[-112.094072,33.533578],"type":"Point"}
 }

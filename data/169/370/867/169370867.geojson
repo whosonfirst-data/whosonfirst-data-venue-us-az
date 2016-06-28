@@ -2,13 +2,14 @@
   "id": 169370867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.855329,32.191972,-110.855329,32.191972",
     "geom:latitude":32.191972,
     "geom:longitude":-110.855329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 E Golf Links Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812787,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85812787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169370867,
-    "wof:lastmodified":1449034494,
+    "wof:lastmodified":1466333790,
     "wof:name":"Nails Aquy",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.855329,32.191972,-110.855329,32.191972],
+  "bbox": [
+    -110.855329,
+    32.191972,
+    -110.855329,
+    32.191972
+],
   "geometry": {"coordinates":[-110.855329,32.191972],"type":"Point"}
 }

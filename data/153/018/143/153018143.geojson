@@ -2,13 +2,14 @@
   "id": 153018143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.618431,32.708789,-114.618431,32.708789",
     "geom:latitude":32.708789,
     "geom:longitude":-114.618431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 S Maple Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153018143,
-    "wof:lastmodified":1449040583,
+    "wof:lastmodified":1466326819,
     "wof:name":"Autocronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.618431,32.708789,-114.618431,32.708789],
+  "bbox": [
+    -114.618431,
+    32.708789,
+    -114.618431,
+    32.708789
+],
   "geometry": {"coordinates":[-114.618431,32.708789],"type":"Point"}
 }

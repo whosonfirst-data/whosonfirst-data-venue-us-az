@@ -2,13 +2,14 @@
   "id": 168902103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154007,33.610806,-112.154007,33.610806",
     "geom:latitude":33.610806,
     "geom:longitude":-112.154007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168902103,
-    "wof:lastmodified":1449028357,
+    "wof:lastmodified":1466329660,
     "wof:name":"Elliott Pool Svc Inc",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154007,33.610806,-112.154007,33.610806],
-  "geometry": {"coordinates":[-112.154007,33.610806],"type":"Point"}
+  "bbox": [
+    -112.154007,
+    33.610806,
+    -112.154007,
+    33.610806
+],
+  "geometry": {"coordinates":[-112.15400699999999,33.610806],"type":"Point"}
 }

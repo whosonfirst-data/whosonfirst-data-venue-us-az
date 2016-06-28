@@ -2,13 +2,14 @@
   "id": 353387321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938405,33.430046,-111.938405,33.430046",
     "geom:latitude":33.430046,
     "geom:longitude":-111.938405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 East Rio Salado Parkway, Suite 900",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353387321,
-    "wof:lastmodified":1449020460,
+    "wof:lastmodified":1466326159,
     "wof:name":"Law Offices Of Laura Jane Edwards",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "custody"
     ]
 },
-  "bbox": [-111.938405,33.430046,-111.938405,33.430046],
+  "bbox": [
+    -111.938405,
+    33.430046,
+    -111.938405,
+    33.430046
+],
   "geometry": {"coordinates":[-111.938405,33.430046],"type":"Point"}
 }

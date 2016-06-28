@@ -2,13 +2,14 @@
   "id": 152973651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.823907,32.235367,-110.823907,32.235367",
     "geom:latitude":32.235367,
     "geom:longitude":-110.823907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Pantano Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152973651,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1466328591,
     "wof:name":"Anasi Tile & Flooring",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.823907,32.235367,-110.823907,32.235367],
-  "geometry": {"coordinates":[-110.823907,32.235367],"type":"Point"}
+  "bbox": [
+    -110.823907,
+    32.235367,
+    -110.823907,
+    32.235367
+],
+  "geometry": {"coordinates":[-110.82390700000001,32.235367],"type":"Point"}
 }

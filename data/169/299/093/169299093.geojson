@@ -2,13 +2,14 @@
   "id": 169299093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.951777,31.389269,-110.951777,31.389269",
     "geom:latitude":31.389269,
     "geom:longitude":-110.951777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169299093,
-    "wof:lastmodified":1449033526,
+    "wof:lastmodified":1466332945,
     "wof:name":"Malibu Carwash & Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.951777,31.389269,-110.951777,31.389269],
-  "geometry": {"coordinates":[-110.951777,31.389269],"type":"Point"}
+  "bbox": [
+    -110.951777,
+    31.389269,
+    -110.951777,
+    31.389269
+],
+  "geometry": {"coordinates":[-110.95177700000001,31.389269],"type":"Point"}
 }

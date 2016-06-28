@@ -2,13 +2,14 @@
   "id": 153090291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041415,33.499354,-112.041415,33.499354",
     "geom:latitude":33.499354,
     "geom:longitude":-112.041415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 E Montecito Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153090291,
-    "wof:lastmodified":1449040716,
+    "wof:lastmodified":1466329512,
     "wof:name":"Ruizs Custom Painting",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.041415,33.499354,-112.041415,33.499354],
+  "bbox": [
+    -112.041415,
+    33.499354,
+    -112.041415,
+    33.499354
+],
   "geometry": {"coordinates":[-112.041415,33.499354],"type":"Point"}
 }

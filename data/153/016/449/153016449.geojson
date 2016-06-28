@@ -2,13 +2,14 @@
   "id": 153016449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.460395,34.604711,-112.460395,34.604711",
     "geom:latitude":34.604711,
     "geom:longitude":-112.460395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3241 Tower Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.rdoequipment.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153016449,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1466326595,
     "wof:name":"Arizona Industrial Machinery",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.460395,34.604711,-112.460395,34.604711],
-  "geometry": {"coordinates":[-112.460395,34.604711],"type":"Point"}
+  "bbox": [
+    -112.460395,
+    34.604711,
+    -112.460395,
+    34.604711
+],
+  "geometry": {"coordinates":[-112.46039500000001,34.604711],"type":"Point"}
 }

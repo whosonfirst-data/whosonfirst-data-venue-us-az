@@ -2,13 +2,14 @@
   "id": 152977865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.877222,33.396993,-111.877222,33.396993",
     "geom:latitude":33.396993,
     "geom:longitude":-111.877222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"961 S Santa Barbara",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881397,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152977865,
-    "wof:lastmodified":1449049003,
+    "wof:lastmodified":1466329045,
     "wof:name":"Heatwave Motor & Cycle",
     "wof:parent_id":85881397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.877222,33.396993,-111.877222,33.396993],
+  "bbox": [
+    -111.877222,
+    33.396993,
+    -111.877222,
+    33.396993
+],
   "geometry": {"coordinates":[-111.877222,33.396993],"type":"Point"}
 }

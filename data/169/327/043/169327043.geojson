@@ -2,13 +2,14 @@
   "id": 169327043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.871076,33.616902,-111.871076,33.616902",
     "geom:latitude":33.616902,
     "geom:longitude":-111.871076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14545 N Frank Lloyd Wright Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169327043,
-    "wof:lastmodified":1449032928,
+    "wof:lastmodified":1466333261,
     "wof:name":"Vintage At Scttsdale Aprtments",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.871076,33.616902,-111.871076,33.616902],
+  "bbox": [
+    -111.871076,
+    33.616902,
+    -111.871076,
+    33.616902
+],
   "geometry": {"coordinates":[-111.871076,33.616902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169289437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.266219,33.420326,-112.266219,33.420326",
     "geom:latitude":33.420326,
     "geom:longitude":-112.266219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 W Payson Rd",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871005,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169289437,
-    "wof:lastmodified":1449035417,
+    "wof:lastmodified":1466332874,
     "wof:name":"Laser Construction LLC",
     "wof:parent_id":85871005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.266219,33.420326,-112.266219,33.420326],
-  "geometry": {"coordinates":[-112.266219,33.420326],"type":"Point"}
+  "bbox": [
+    -112.266219,
+    33.420326,
+    -112.266219,
+    33.420326
+],
+  "geometry": {"coordinates":[-112.26621900000001,33.420326],"type":"Point"}
 }

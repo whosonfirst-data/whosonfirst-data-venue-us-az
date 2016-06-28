@@ -2,13 +2,14 @@
   "id": 169191011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978077,32.243864,-110.978077,32.243864",
     "geom:latitude":32.243864,
     "geom:longitude":-110.978077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1891 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.everestinterscience.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169191011,
-    "wof:lastmodified":1449034683,
+    "wof:lastmodified":1466332042,
     "wof:name":"Everest Interscience Inc",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978077,32.243864,-110.978077,32.243864],
+  "bbox": [
+    -110.978077,
+    32.243864,
+    -110.978077,
+    32.243864
+],
   "geometry": {"coordinates":[-110.978077,32.243864],"type":"Point"}
 }

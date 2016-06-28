@@ -2,13 +2,14 @@
   "id": 353651439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358209,33.420989,-112.358209,33.420989",
     "geom:latitude":33.420989,
     "geom:longitude":-112.358209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13930 W Lower Buckeye Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353651439,
-    "wof:lastmodified":1449018755,
+    "wof:lastmodified":1466329386,
     "wof:name":"S & S Tire Co",
     "wof:parent_id":85830853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.358209,33.420989,-112.358209,33.420989],
+  "bbox": [
+    -112.358209,
+    33.420989,
+    -112.358209,
+    33.420989
+],
   "geometry": {"coordinates":[-112.358209,33.420989],"type":"Point"}
 }

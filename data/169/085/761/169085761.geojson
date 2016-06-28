@@ -2,13 +2,14 @@
   "id": 169085761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.773557,33.454651,-111.773557,33.454651",
     "geom:latitude":33.454651,
     "geom:longitude":-111.773557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2659 E Kael St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872445,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169085761,
-    "wof:lastmodified":1449033516,
+    "wof:lastmodified":1466330162,
     "wof:name":"Medal Of Honor Society",
     "wof:parent_id":85872445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.773557,33.454651,-111.773557,33.454651],
+  "bbox": [
+    -111.773557,
+    33.454651,
+    -111.773557,
+    33.454651
+],
   "geometry": {"coordinates":[-111.773557,33.454651],"type":"Point"}
 }

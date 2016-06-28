@@ -2,13 +2,14 @@
   "id": 169101851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.545069,34.781528,-112.545069,34.781528",
     "geom:latitude":34.781528,
     "geom:longitude":-112.545069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16475 N Indian Ruin Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169101851,
-    "wof:lastmodified":1449034421,
+    "wof:lastmodified":1466331018,
     "wof:name":"African Safari Consultants",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.545069,34.781528,-112.545069,34.781528],
+  "bbox": [
+    -112.545069,
+    34.781528,
+    -112.545069,
+    34.781528
+],
   "geometry": {"coordinates":[-112.545069,34.781528],"type":"Point"}
 }

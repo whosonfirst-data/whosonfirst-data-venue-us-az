@@ -2,13 +2,14 @@
   "id": 168990169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.763125,32.849527,-109.763125,32.849527",
     "geom:latitude":32.849527,
     "geom:longitude":-109.763125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Stadium Ave",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168990169,
-    "wof:lastmodified":1449028286,
+    "wof:lastmodified":1466331668,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.763125,32.849527,-109.763125,32.849527],
+  "bbox": [
+    -109.763125,
+    32.849527,
+    -109.763125,
+    32.849527
+],
   "geometry": {"coordinates":[-109.763125,32.849527],"type":"Point"}
 }

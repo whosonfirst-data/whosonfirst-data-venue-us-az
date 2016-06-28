@@ -2,13 +2,14 @@
   "id": 353564537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181281,33.53854,-112.181281,33.53854",
     "geom:latitude":33.53854,
     "geom:longitude":-112.181281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5702 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353564537,
-    "wof:lastmodified":1449020643,
+    "wof:lastmodified":1466328145,
     "wof:name":"S W Gas",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181281,33.53854,-112.181281,33.53854],
+  "bbox": [
+    -112.181281,
+    33.53854,
+    -112.181281,
+    33.53854
+],
   "geometry": {"coordinates":[-112.181281,33.53854],"type":"Point"}
 }

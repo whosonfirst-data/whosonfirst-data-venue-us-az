@@ -2,13 +2,14 @@
   "id": 353824219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.86454,32.236221,-110.86454,32.236221",
     "geom:latitude":32.236221,
     "geom:longitude":-110.86454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353824219,
-    "wof:lastmodified":1449019158,
+    "wof:lastmodified":1466330535,
     "wof:name":"Mercedes-Benz of Tucson",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "new"
     ]
 },
-  "bbox": [-110.86454,32.236221,-110.86454,32.236221],
-  "geometry": {"coordinates":[-110.86454,32.236221],"type":"Point"}
+  "bbox": [
+    -110.86454,
+    32.236221,
+    -110.86454,
+    32.236221
+],
+  "geometry": {"coordinates":[-110.86454000000001,32.236221],"type":"Point"}
 }

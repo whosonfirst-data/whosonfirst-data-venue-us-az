@@ -2,13 +2,14 @@
   "id": 169329763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943444,32.163218,-110.943444,32.163218",
     "geom:latitude":32.163218,
     "geom:longitude":-110.943444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169329763,
-    "wof:lastmodified":1449033602,
+    "wof:lastmodified":1466333316,
     "wof:name":"Oasis Insurance",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943444,32.163218,-110.943444,32.163218],
+  "bbox": [
+    -110.943444,
+    32.163218,
+    -110.943444,
+    32.163218
+],
   "geometry": {"coordinates":[-110.943444,32.163218],"type":"Point"}
 }

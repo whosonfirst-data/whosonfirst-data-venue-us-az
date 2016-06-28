@@ -2,13 +2,14 @@
   "id": 168847841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.14749,33.865724,-112.14749,33.865724",
     "geom:latitude":33.865724,
     "geom:longitude":-112.14749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42105 N 41st Dr",
     "sg:city":"Anthem",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168847841,
-    "wof:lastmodified":1449028032,
+    "wof:lastmodified":1466327665,
     "wof:name":"Professional Group PC",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.14749,33.865724,-112.14749,33.865724],
+  "bbox": [
+    -112.14749,
+    33.865724,
+    -112.14749,
+    33.865724
+],
   "geometry": {"coordinates":[-112.14749,33.865724],"type":"Point"}
 }

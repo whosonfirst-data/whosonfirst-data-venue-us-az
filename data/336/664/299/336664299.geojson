@@ -2,13 +2,14 @@
   "id": 336664299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.984713,33.418212,-111.984713,33.418212",
     "geom:latitude":33.418212,
     "geom:longitude":-111.984713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4522 E Miami Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":336664299,
-    "wof:lastmodified":1448997337,
+    "wof:lastmodified":1466327288,
     "wof:name":"Custom Material Handling",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.984713,33.418212,-111.984713,33.418212],
+  "bbox": [
+    -111.984713,
+    33.418212,
+    -111.984713,
+    33.418212
+],
   "geometry": {"coordinates":[-111.984713,33.418212],"type":"Point"}
 }

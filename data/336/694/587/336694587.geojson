@@ -2,13 +2,14 @@
   "id": 336694587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.975738,33.347911,-111.975738,33.347911",
     "geom:latitude":33.347911,
     "geom:longitude":-111.975738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10823 S 51st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":336694587,
-    "wof:lastmodified":1448997250,
+    "wof:lastmodified":1466328189,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "chicken"
     ]
 },
-  "bbox": [-111.975738,33.347911,-111.975738,33.347911],
-  "geometry": {"coordinates":[-111.975738,33.347911],"type":"Point"}
+  "bbox": [
+    -111.975738,
+    33.347911,
+    -111.975738,
+    33.347911
+],
+  "geometry": {"coordinates":[-111.97573800000001,33.347911],"type":"Point"}
 }

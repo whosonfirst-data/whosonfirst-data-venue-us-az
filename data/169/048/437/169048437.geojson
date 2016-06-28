@@ -2,13 +2,14 @@
   "id": 169048437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982257,33.611156,-111.982257,33.611156",
     "geom:latitude":33.611156,
     "geom:longitude":-111.982257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 E Sharon Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811573,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169048437,
-    "wof:lastmodified":1449033837,
+    "wof:lastmodified":1466328235,
     "wof:name":"Centurion Systems Inc",
     "wof:parent_id":85811573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.982257,33.611156,-111.982257,33.611156],
+  "bbox": [
+    -111.982257,
+    33.611156,
+    -111.982257,
+    33.611156
+],
   "geometry": {"coordinates":[-111.982257,33.611156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169029385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.470388,34.533216,-112.470388,34.533216",
     "geom:latitude":34.533216,
     "geom:longitude":-112.470388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 S Montezuma St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169029385,
-    "wof:lastmodified":1449034068,
+    "wof:lastmodified":1466326812,
     "wof:name":"Morici & Tanner",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.470388,34.533216,-112.470388,34.533216],
+  "bbox": [
+    -112.470388,
+    34.533216,
+    -112.470388,
+    34.533216
+],
   "geometry": {"coordinates":[-112.470388,34.533216],"type":"Point"}
 }

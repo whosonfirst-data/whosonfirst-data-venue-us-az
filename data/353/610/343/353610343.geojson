@@ -2,13 +2,14 @@
   "id": 353610343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203099,33.638351,-112.203099,33.638351",
     "geom:latitude":33.638351,
     "geom:longitude":-112.203099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6712 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353610343,
-    "wof:lastmodified":1449020735,
+    "wof:lastmodified":1466328902,
     "wof:name":"Bevmo",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-112.203099,33.638351,-112.203099,33.638351],
-  "geometry": {"coordinates":[-112.203099,33.638351],"type":"Point"}
+  "bbox": [
+    -112.203099,
+    33.638351,
+    -112.203099,
+    33.638351
+],
+  "geometry": {"coordinates":[-112.20309899999999,33.638351],"type":"Point"}
 }

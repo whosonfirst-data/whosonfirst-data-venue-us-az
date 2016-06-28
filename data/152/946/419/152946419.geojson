@@ -2,13 +2,14 @@
   "id": 152946419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.279152,33.513462,-112.279152,33.513462",
     "geom:latitude":33.513462,
     "geom:longitude":-112.279152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 W Georgia Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856669,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
+        85856669,
         85812515
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152946419,
-    "wof:lastmodified":1449048368,
+    "wof:lastmodified":1466327128,
     "wof:name":"Retail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.279152,33.513462,-112.279152,33.513462],
+  "bbox": [
+    -112.279152,
+    33.513462,
+    -112.279152,
+    33.513462
+],
   "geometry": {"coordinates":[-112.279152,33.513462],"type":"Point"}
 }

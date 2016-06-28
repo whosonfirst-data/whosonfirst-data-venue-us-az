@@ -2,13 +2,14 @@
   "id": 152974447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995517,33.419999,-111.995517,33.419999",
     "geom:latitude":33.419999,
     "geom:longitude":-111.995517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 S 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152974447,
-    "wof:lastmodified":1449048314,
+    "wof:lastmodified":1466328636,
     "wof:name":"Helping Cars",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.995517,33.419999,-111.995517,33.419999],
-  "geometry": {"coordinates":[-111.995517,33.419999],"type":"Point"}
+  "bbox": [
+    -111.995517,
+    33.419999,
+    -111.995517,
+    33.419999
+],
+  "geometry": {"coordinates":[-111.99551700000001,33.419999],"type":"Point"}
 }

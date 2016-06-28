@@ -2,13 +2,14 @@
   "id": 168910589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.814638,34.857622,-111.814638,34.857622",
     "geom:latitude":34.857622,
     "geom:longitude":-111.814638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Hillside Ct",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168910589,
-    "wof:lastmodified":1449028094,
+    "wof:lastmodified":1466329863,
     "wof:name":"Sedona Central Real Estate",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.814638,34.857622,-111.814638,34.857622],
+  "bbox": [
+    -111.814638,
+    34.857622,
+    -111.814638,
+    34.857622
+],
   "geometry": {"coordinates":[-111.814638,34.857622],"type":"Point"}
 }

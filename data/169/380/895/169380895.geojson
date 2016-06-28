@@ -2,13 +2,14 @@
   "id": 169380895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947551,33.489765,-111.947551,33.489765",
     "geom:latitude":33.489765,
     "geom:longitude":-111.947551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 E Indian School Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.basin-and-range.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880959,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169380895,
-    "wof:lastmodified":1449034202,
+    "wof:lastmodified":1466333824,
     "wof:name":"Basin & Range Hydrogeologists",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.947551,33.489765,-111.947551,33.489765],
+  "bbox": [
+    -111.947551,
+    33.489765,
+    -111.947551,
+    33.489765
+],
   "geometry": {"coordinates":[-111.947551,33.489765],"type":"Point"}
 }

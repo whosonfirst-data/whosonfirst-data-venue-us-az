@@ -2,13 +2,14 @@
   "id": 353820761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.884022,32.231218,-110.884022,32.231218",
     "geom:latitude":32.231218,
     "geom:longitude":-110.884022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 N Rosemont Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353820761,
-    "wof:lastmodified":1449019587,
+    "wof:lastmodified":1466330717,
     "wof:name":"Tucson School Dist-Middle Reg",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.884022,32.231218,-110.884022,32.231218],
+  "bbox": [
+    -110.884022,
+    32.231218,
+    -110.884022,
+    32.231218
+],
   "geometry": {"coordinates":[-110.884022,32.231218],"type":"Point"}
 }

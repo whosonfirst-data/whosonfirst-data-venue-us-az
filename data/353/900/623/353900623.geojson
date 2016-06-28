@@ -2,13 +2,14 @@
   "id": 353900623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.29672,34.513302,-112.29672,34.513302",
     "geom:latitude":34.513302,
     "geom:longitude":-112.29672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9655 E Shirley Ln",
     "sg:city":"Dewey",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353900623,
-    "wof:lastmodified":1449019350,
+    "wof:lastmodified":1466330997,
     "wof:name":"Arizona Trails Publishing",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.29672,34.513302,-112.29672,34.513302],
-  "geometry": {"coordinates":[-112.29672,34.513302],"type":"Point"}
+  "bbox": [
+    -112.29672,
+    34.513302,
+    -112.29672,
+    34.513302
+],
+  "geometry": {"coordinates":[-112.29671999999999,34.513302],"type":"Point"}
 }

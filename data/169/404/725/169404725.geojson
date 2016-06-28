@@ -2,13 +2,14 @@
   "id": 169404725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.444941,34.738288,-112.444941,34.738288",
     "geom:latitude":34.738288,
     "geom:longitude":-112.444941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E Rd 1 S",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169404725,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466334055,
     "wof:name":"Welker Land Surveying",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.444941,34.738288,-112.444941,34.738288],
+  "bbox": [
+    -112.444941,
+    34.738288,
+    -112.444941,
+    34.738288
+],
   "geometry": {"coordinates":[-112.444941,34.738288],"type":"Point"}
 }

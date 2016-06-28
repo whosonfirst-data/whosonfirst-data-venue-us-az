@@ -2,13 +2,14 @@
   "id": 353873159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.736679,35.258806,-111.736679,35.258806",
     "geom:latitude":35.258806,
     "geom:longitude":-111.736679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7010 N Bader Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353873159,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1466331087,
     "wof:name":"Grand Canyon Hikes",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-111.736679,35.258806,-111.736679,35.258806],
+  "bbox": [
+    -111.736679,
+    35.258806,
+    -111.736679,
+    35.258806
+],
   "geometry": {"coordinates":[-111.736679,35.258806],"type":"Point"}
 }

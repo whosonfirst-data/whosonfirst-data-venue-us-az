@@ -2,13 +2,14 @@
   "id": 168828131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816464,32.268939,-110.816464,32.268939",
     "geom:latitude":32.268939,
     "geom:longitude":-110.816464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8115 E Cloud Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168828131,
-    "wof:lastmodified":1449028169,
+    "wof:lastmodified":1466325948,
     "wof:name":"Robinson Architect",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816464,32.268939,-110.816464,32.268939],
+  "bbox": [
+    -110.816464,
+    32.268939,
+    -110.816464,
+    32.268939
+],
   "geometry": {"coordinates":[-110.816464,32.268939],"type":"Point"}
 }

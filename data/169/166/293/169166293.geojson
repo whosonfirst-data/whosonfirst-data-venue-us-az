@@ -2,13 +2,14 @@
   "id": 169166293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.712075,33.594199,-111.712075,33.594199",
     "geom:latitude":33.594199,
     "geom:longitude":-111.712075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11829 N Saguaro Blvd",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169166293,
-    "wof:lastmodified":1449034534,
+    "wof:lastmodified":1466331856,
     "wof:name":"Fountain Hills Express Inc",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.712075,33.594199,-111.712075,33.594199],
+  "bbox": [
+    -111.712075,
+    33.594199,
+    -111.712075,
+    33.594199
+],
   "geometry": {"coordinates":[-111.712075,33.594199],"type":"Point"}
 }

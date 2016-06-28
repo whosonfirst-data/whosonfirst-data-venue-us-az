@@ -2,13 +2,14 @@
   "id": 169120079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005938,33.582659,-112.005938,33.582659",
     "geom:latitude":33.582659,
     "geom:longitude":-112.005938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 E Shea Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169120079,
-    "wof:lastmodified":1449035490,
+    "wof:lastmodified":1466331381,
     "wof:name":"Invention Submission Corp",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.005938,33.582659,-112.005938,33.582659],
+  "bbox": [
+    -112.005938,
+    33.582659,
+    -112.005938,
+    33.582659
+],
   "geometry": {"coordinates":[-112.005938,33.582659],"type":"Point"}
 }

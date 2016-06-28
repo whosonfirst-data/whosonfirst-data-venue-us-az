@@ -2,13 +2,14 @@
   "id": 337534093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.835097,33.502426,-111.835097,33.502426",
     "geom:latitude":33.502426,
     "geom:longitude":-111.835097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11514 E Camelback Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337534093,
-    "wof:lastmodified":1449027143,
+    "wof:lastmodified":1466326547,
     "wof:name":"Salt River Hospitality",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salt"
     ]
 },
-  "bbox": [-111.835097,33.502426,-111.835097,33.502426],
+  "bbox": [
+    -111.835097,
+    33.502426,
+    -111.835097,
+    33.502426
+],
   "geometry": {"coordinates":[-111.835097,33.502426],"type":"Point"}
 }

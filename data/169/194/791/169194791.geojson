@@ -2,13 +2,14 @@
   "id": 169194791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03451,33.390241,-112.03451,33.390241",
     "geom:latitude":33.390241,
     "geom:longitude":-112.03451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 S 22nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811071,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169194791,
-    "wof:lastmodified":1449035486,
+    "wof:lastmodified":1466332114,
     "wof:name":"Church Of God In Christ",
     "wof:parent_id":85811071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.03451,33.390241,-112.03451,33.390241],
+  "bbox": [
+    -112.03451,
+    33.390241,
+    -112.03451,
+    33.390241
+],
   "geometry": {"coordinates":[-112.03451,33.390241],"type":"Point"}
 }

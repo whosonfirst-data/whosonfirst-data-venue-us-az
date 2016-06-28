@@ -2,13 +2,14 @@
   "id": 168941999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.308925,33.640763,-112.308925,33.640763",
     "geom:latitude":33.640763,
     "geom:longitude":-112.308925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11554 W Mule Deer Ct",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168941999,
-    "wof:lastmodified":1449028239,
+    "wof:lastmodified":1466330929,
     "wof:name":"Coyote Lakes Pulty Homes",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.308925,33.640763,-112.308925,33.640763],
+  "bbox": [
+    -112.308925,
+    33.640763,
+    -112.308925,
+    33.640763
+],
   "geometry": {"coordinates":[-112.308925,33.640763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168943517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97616,33.33976,-111.97616,33.33976",
     "geom:latitude":33.33976,
     "geom:longitude":-111.97616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11826 S 51st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814393,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719,
-        85840707,
-        85917479
+        85814393,
+        85917479,
+        85840707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":168943517,
-    "wof:lastmodified":1449027968,
+    "wof:lastmodified":1466330822,
     "wof:name":"Artweld Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.97616,33.33976,-111.97616,33.33976],
-  "geometry": {"coordinates":[-111.97616,33.33976],"type":"Point"}
+  "bbox": [
+    -111.97616,
+    33.33976,
+    -111.97616,
+    33.33976
+],
+  "geometry": {"coordinates":[-111.97615999999999,33.33976],"type":"Point"}
 }

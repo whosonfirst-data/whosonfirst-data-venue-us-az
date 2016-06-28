@@ -2,13 +2,14 @@
   "id": 320845209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.107883,33.607139,-112.107883,33.607139",
     "geom:latitude":33.607139,
     "geom:longitude":-112.107883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13226 N 23rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320845209,
-    "wof:lastmodified":1449011870,
+    "wof:lastmodified":1466330223,
     "wof:name":"The Sixth Shephard",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"
     ]
 },
-  "bbox": [-112.107883,33.607139,-112.107883,33.607139],
+  "bbox": [
+    -112.107883,
+    33.607139,
+    -112.107883,
+    33.607139
+],
   "geometry": {"coordinates":[-112.107883,33.607139],"type":"Point"}
 }

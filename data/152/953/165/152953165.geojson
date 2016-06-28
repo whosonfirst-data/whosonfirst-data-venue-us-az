@@ -2,13 +2,14 @@
   "id": 152953165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.136318,33.362935,-112.136318,33.362935",
     "geom:latitude":33.362935,
     "geom:longitude":-112.136318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3623 W Dobbins Rd",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152953165,
-    "wof:lastmodified":1449047487,
+    "wof:lastmodified":1466327592,
     "wof:name":"Youngs Trucking Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.136318,33.362935,-112.136318,33.362935],
+  "bbox": [
+    -112.136318,
+    33.362935,
+    -112.136318,
+    33.362935
+],
   "geometry": {"coordinates":[-112.136318,33.362935],"type":"Point"}
 }

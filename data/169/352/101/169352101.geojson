@@ -2,13 +2,14 @@
   "id": 169352101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861905,33.597046,-111.861905,33.597046",
     "geom:latitude":33.597046,
     "geom:longitude":-111.861905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10190 E Cactus Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880933,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169352101,
-    "wof:lastmodified":1449034713,
+    "wof:lastmodified":1466333468,
     "wof:name":"Tubac Overlook LLC",
     "wof:parent_id":85880933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.861905,33.597046,-111.861905,33.597046],
-  "geometry": {"coordinates":[-111.861905,33.597046],"type":"Point"}
+  "bbox": [
+    -111.861905,
+    33.597046,
+    -111.861905,
+    33.597046
+],
+  "geometry": {"coordinates":[-111.86190499999999,33.597046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320768621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.140972,33.50581,-112.140972,33.50581",
     "geom:latitude":33.50581,
     "geom:longitude":-112.140972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 W Elm St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320768621,
-    "wof:lastmodified":1449012715,
+    "wof:lastmodified":1466329210,
     "wof:name":"Tumax Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "hauling"
     ]
 },
-  "bbox": [-112.140972,33.50581,-112.140972,33.50581],
+  "bbox": [
+    -112.140972,
+    33.50581,
+    -112.140972,
+    33.50581
+],
   "geometry": {"coordinates":[-112.140972,33.50581],"type":"Point"}
 }

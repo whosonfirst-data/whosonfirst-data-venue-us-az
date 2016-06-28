@@ -2,13 +2,14 @@
   "id": 336868549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837288,33.330589,-111.837288,33.330589",
     "geom:latitude":33.330589,
     "geom:longitude":-111.837288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Delaware St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":336868549,
-    "wof:lastmodified":1448996960,
+    "wof:lastmodified":1466330056,
     "wof:name":"Door Mill",
     "wof:parent_id":85876699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.837288,33.330589,-111.837288,33.330589],
+  "bbox": [
+    -111.837288,
+    33.330589,
+    -111.837288,
+    33.330589
+],
   "geometry": {"coordinates":[-111.837288,33.330589],"type":"Point"}
 }

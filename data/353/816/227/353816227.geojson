@@ -2,13 +2,14 @@
   "id": 353816227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.844737,32.22112,-110.844737,32.22112",
     "geom:latitude":32.22112,
     "geom:longitude":-110.844737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6925 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353816227,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1466330387,
     "wof:name":"Liquor Barrel Saloon",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.844737,32.22112,-110.844737,32.22112],
-  "geometry": {"coordinates":[-110.844737,32.22112],"type":"Point"}
+  "bbox": [
+    -110.844737,
+    32.22112,
+    -110.844737,
+    32.22112
+],
+  "geometry": {"coordinates":[-110.84473699999999,32.22112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320807721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09967,33.61742,-112.09967,33.61742",
     "geom:latitude":33.61742,
     "geom:longitude":-112.09967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14430 N 19th Ave Apt 211",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320807721,
-    "wof:lastmodified":1449012222,
+    "wof:lastmodified":1466329771,
     "wof:name":"Intermax Group Of Arizona",
     "wof:parent_id":85811951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-112.09967,33.61742,-112.09967,33.61742],
+  "bbox": [
+    -112.09967,
+    33.61742,
+    -112.09967,
+    33.61742
+],
   "geometry": {"coordinates":[-112.09967,33.61742],"type":"Point"}
 }

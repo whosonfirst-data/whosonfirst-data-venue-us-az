@@ -2,13 +2,14 @@
   "id": 168822073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991346,33.498597,-111.991346,33.498597",
     "geom:latitude":33.498597,
     "geom:longitude":-111.991346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 E Glenrosa Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168822073,
-    "wof:lastmodified":1449028564,
+    "wof:lastmodified":1466325707,
     "wof:name":"J Vosburgh Attorneys At Law",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.991346,33.498597,-111.991346,33.498597],
-  "geometry": {"coordinates":[-111.991346,33.498597],"type":"Point"}
+  "bbox": [
+    -111.991346,
+    33.498597,
+    -111.991346,
+    33.498597
+],
+  "geometry": {"coordinates":[-111.99134599999999,33.498597],"type":"Point"}
 }

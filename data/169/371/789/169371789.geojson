@@ -2,13 +2,14 @@
   "id": 169371789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.688542,33.207382,-111.688542,33.207382",
     "geom:latitude":33.207382,
     "geom:longitude":-111.688542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18345 E Sunnydale Dr",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169371789,
-    "wof:lastmodified":1449035224,
+    "wof:lastmodified":1466333775,
     "wof:name":"Javier Valenzuela Upholstery",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.688542,33.207382,-111.688542,33.207382],
+  "bbox": [
+    -111.688542,
+    33.207382,
+    -111.688542,
+    33.207382
+],
   "geometry": {"coordinates":[-111.688542,33.207382],"type":"Point"}
 }

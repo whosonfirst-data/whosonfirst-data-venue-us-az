@@ -2,13 +2,14 @@
   "id": 169256499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.956702,33.388771,-111.956702,33.388771",
     "geom:latitude":33.388771,
     "geom:longitude":-111.956702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 W Manhatton Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881383,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169256499,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466332545,
     "wof:name":"Tops In Stone LLC",
     "wof:parent_id":85881383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.956702,33.388771,-111.956702,33.388771],
-  "geometry": {"coordinates":[-111.956702,33.388771],"type":"Point"}
+  "bbox": [
+    -111.956702,
+    33.388771,
+    -111.956702,
+    33.388771
+],
+  "geometry": {"coordinates":[-111.95670200000001,33.388771],"type":"Point"}
 }

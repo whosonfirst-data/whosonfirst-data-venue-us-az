@@ -2,13 +2,14 @@
   "id": 168832265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.956026,34.141454,-109.956026,34.141454",
     "geom:latitude":34.141454,
     "geom:longitude":-109.956026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Yeager Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168832265,
-    "wof:lastmodified":1449027771,
+    "wof:lastmodified":1466326164,
     "wof:name":"Country Pine Antiques",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.956026,34.141454,-109.956026,34.141454],
-  "geometry": {"coordinates":[-109.956026,34.141454],"type":"Point"}
+  "bbox": [
+    -109.956026,
+    34.141454,
+    -109.956026,
+    34.141454
+],
+  "geometry": {"coordinates":[-109.95602599999999,34.141454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168827637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.977641,34.135786,-109.977641,34.135786",
     "geom:latitude":34.135786,
     "geom:longitude":-109.977641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Mountain View Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168827637,
-    "wof:lastmodified":1449028029,
+    "wof:lastmodified":1466325993,
     "wof:name":"Dorothy's Cat & Dog House",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.977641,34.135786,-109.977641,34.135786],
-  "geometry": {"coordinates":[-109.977641,34.135786],"type":"Point"}
+  "bbox": [
+    -109.977641,
+    34.135786,
+    -109.977641,
+    34.135786
+],
+  "geometry": {"coordinates":[-109.97764100000001,34.135786],"type":"Point"}
 }

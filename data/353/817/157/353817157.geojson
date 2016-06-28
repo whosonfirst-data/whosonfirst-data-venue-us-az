@@ -2,13 +2,14 @@
   "id": 353817157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.81485,32.208851,-110.81485,32.208851",
     "geom:latitude":32.208851,
     "geom:longitude":-110.81485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Sarnoff Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353817157,
-    "wof:lastmodified":1449020326,
+    "wof:lastmodified":1466330400,
     "wof:name":"C&J Quality Auto Glass",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windshield"
     ]
 },
-  "bbox": [-110.81485,32.208851,-110.81485,32.208851],
-  "geometry": {"coordinates":[-110.81485,32.208851],"type":"Point"}
+  "bbox": [
+    -110.81485,
+    32.208851,
+    -110.81485,
+    32.208851
+],
+  "geometry": {"coordinates":[-110.81485000000001,32.208851],"type":"Point"}
 }

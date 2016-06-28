@@ -2,13 +2,14 @@
   "id": 169044085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.775132,32.994668,-111.775132,32.994668",
     "geom:latitude":32.994668,
     "geom:longitude":-111.775132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19410 W Black Knob St",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169044085,
-    "wof:lastmodified":1449034404,
+    "wof:lastmodified":1466327972,
     "wof:name":"River Bottom Saloon",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.775132,32.994668,-111.775132,32.994668],
+  "bbox": [
+    -111.775132,
+    32.994668,
+    -111.775132,
+    32.994668
+],
   "geometry": {"coordinates":[-111.775132,32.994668],"type":"Point"}
 }

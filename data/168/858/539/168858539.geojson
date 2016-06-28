@@ -2,13 +2,14 @@
   "id": 168858539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885939,33.2216,-111.885939,33.2216",
     "geom:latitude":33.2216,
     "geom:longitude":-111.885939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24815 S Lakestar Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876643,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168858539,
-    "wof:lastmodified":1449027865,
+    "wof:lastmodified":1466326448,
     "wof:name":"Howill Designs",
     "wof:parent_id":85876643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885939,33.2216,-111.885939,33.2216],
-  "geometry": {"coordinates":[-111.885939,33.2216],"type":"Point"}
+  "bbox": [
+    -111.885939,
+    33.2216,
+    -111.885939,
+    33.2216
+],
+  "geometry": {"coordinates":[-111.88593899999999,33.2216],"type":"Point"}
 }

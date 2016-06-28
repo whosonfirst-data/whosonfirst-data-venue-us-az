@@ -2,13 +2,14 @@
   "id": 336731027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925381,33.647114,-111.925381,33.647114",
     "geom:latitude":33.647114,
     "geom:longitude":-111.925381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18018 N Scottsdale Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336731027,
-    "wof:lastmodified":1448997898,
+    "wof:lastmodified":1466328498,
     "wof:name":"BMW North Scottsdale",
     "wof:parent_id":85858215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "accessory"
     ]
 },
-  "bbox": [-111.925381,33.647114,-111.925381,33.647114],
+  "bbox": [
+    -111.925381,
+    33.647114,
+    -111.925381,
+    33.647114
+],
   "geometry": {"coordinates":[-111.925381,33.647114],"type":"Point"}
 }

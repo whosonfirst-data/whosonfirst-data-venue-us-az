@@ -2,13 +2,14 @@
   "id": 336801955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.690041,33.393889,-111.690041,33.393889",
     "geom:latitude":33.393889,
     "geom:longitude":-111.690041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6555 E Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336801955,
-    "wof:lastmodified":1448997846,
+    "wof:lastmodified":1466329559,
     "wof:name":"Qwest Solution Center",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-111.690041,33.393889,-111.690041,33.393889],
-  "geometry": {"coordinates":[-111.690041,33.393889],"type":"Point"}
+  "bbox": [
+    -111.690041,
+    33.393889,
+    -111.690041,
+    33.393889
+],
+  "geometry": {"coordinates":[-111.69004099999999,33.393889],"type":"Point"}
 }

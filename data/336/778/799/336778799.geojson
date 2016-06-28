@@ -2,13 +2,14 @@
   "id": 336778799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.883172,33.405659,-111.883172,33.405659",
     "geom:latitude":33.405659,
     "geom:longitude":-111.883172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Roosevelt Rd Apt I3",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336778799,
-    "wof:lastmodified":1448996939,
+    "wof:lastmodified":1466329124,
     "wof:name":"Sam Pao Cleaning & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-111.883172,33.405659,-111.883172,33.405659],
+  "bbox": [
+    -111.883172,
+    33.405659,
+    -111.883172,
+    33.405659
+],
   "geometry": {"coordinates":[-111.883172,33.405659],"type":"Point"}
 }

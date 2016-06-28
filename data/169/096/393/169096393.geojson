@@ -2,13 +2,14 @@
   "id": 169096393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958865,32.080791,-110.958865,32.080791",
     "geom:latitude":32.080791,
     "geom:longitude":-110.958865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9418 S Nogales Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169096393,
-    "wof:lastmodified":1449033758,
+    "wof:lastmodified":1466330859,
     "wof:name":"Mexician Highway Market",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.958865,32.080791,-110.958865,32.080791],
+  "bbox": [
+    -110.958865,
+    32.080791,
+    -110.958865,
+    32.080791
+],
   "geometry": {"coordinates":[-110.958865,32.080791],"type":"Point"}
 }

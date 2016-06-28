@@ -2,13 +2,14 @@
   "id": 169162891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.624668,32.723935,-114.624668,32.723935",
     "geom:latitude":32.723935,
     "geom:longitude":-114.624668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 S 4th Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169162891,
-    "wof:lastmodified":1449035481,
+    "wof:lastmodified":1466331906,
     "wof:name":"Jbs Doll Houses & Miniatures",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.624668,32.723935,-114.624668,32.723935],
+  "bbox": [
+    -114.624668,
+    32.723935,
+    -114.624668,
+    32.723935
+],
   "geometry": {"coordinates":[-114.624668,32.723935],"type":"Point"}
 }

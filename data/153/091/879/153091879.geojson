@@ -2,13 +2,14 @@
   "id": 153091879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071967,33.615205,-112.071967,33.615205",
     "geom:latitude":33.615205,
     "geom:longitude":-112.071967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14029 N Canterbury Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.comgate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153091879,
-    "wof:lastmodified":1449040371,
+    "wof:lastmodified":1466329632,
     "wof:name":"Comgate Telemanagement LTD",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.071967,33.615205,-112.071967,33.615205],
+  "bbox": [
+    -112.071967,
+    33.615205,
+    -112.071967,
+    33.615205
+],
   "geometry": {"coordinates":[-112.071967,33.615205],"type":"Point"}
 }

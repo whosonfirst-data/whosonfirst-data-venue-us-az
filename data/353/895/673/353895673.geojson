@@ -2,13 +2,14 @@
   "id": 353895673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.492084,34.543964,-112.492084,34.543964",
     "geom:latitude":34.543964,
     "geom:longitude":-112.492084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1446 W Gurley St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353895673,
-    "wof:lastmodified":1449019331,
+    "wof:lastmodified":1466331077,
     "wof:name":"Prescott Chiropractic Clinic",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-112.492084,34.543964,-112.492084,34.543964],
-  "geometry": {"coordinates":[-112.492084,34.543964],"type":"Point"}
+  "bbox": [
+    -112.492084,
+    34.543964,
+    -112.492084,
+    34.543964
+],
+  "geometry": {"coordinates":[-112.49208400000001,34.543964],"type":"Point"}
 }

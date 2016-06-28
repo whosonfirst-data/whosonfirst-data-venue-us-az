@@ -2,13 +2,14 @@
   "id": 153024243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.690401,33.464136,-111.690401,33.464136",
     "geom:latitude":33.464136,
     "geom:longitude":-111.690401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 N Ramada",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872431,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024243,
-    "wof:lastmodified":1449040549,
+    "wof:lastmodified":1466327444,
     "wof:name":"Western Temperature Control",
     "wof:parent_id":85872431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.690401,33.464136,-111.690401,33.464136],
-  "geometry": {"coordinates":[-111.690401,33.464136],"type":"Point"}
+  "bbox": [
+    -111.690401,
+    33.464136,
+    -111.690401,
+    33.464136
+],
+  "geometry": {"coordinates":[-111.69040099999999,33.464136],"type":"Point"}
 }

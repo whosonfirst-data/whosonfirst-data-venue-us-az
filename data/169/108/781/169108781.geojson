@@ -2,13 +2,14 @@
   "id": 169108781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.843843,32.207972,-110.843843,32.207972",
     "geom:latitude":32.207972,
     "geom:longitude":-110.843843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7054 E 21st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169108781,
-    "wof:lastmodified":1449032738,
+    "wof:lastmodified":1466331135,
     "wof:name":"A Allstar Plumbing Co",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.843843,32.207972,-110.843843,32.207972],
-  "geometry": {"coordinates":[-110.843843,32.207972],"type":"Point"}
+  "bbox": [
+    -110.843843,
+    32.207972,
+    -110.843843,
+    32.207972
+],
+  "geometry": {"coordinates":[-110.84384300000001,32.207972],"type":"Point"}
 }

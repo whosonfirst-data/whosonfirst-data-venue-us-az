@@ -2,13 +2,14 @@
   "id": 153024351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.054459,35.188795,-114.054459,35.188795",
     "geom:latitude":35.188795,
     "geom:longitude":-114.054459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Andy Devine Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153024351,
-    "wof:lastmodified":1449040554,
+    "wof:lastmodified":1466327452,
     "wof:name":"Brunswick Hotel",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.054459,35.188795,-114.054459,35.188795],
-  "geometry": {"coordinates":[-114.054459,35.188795],"type":"Point"}
+  "bbox": [
+    -114.054459,
+    35.188795,
+    -114.054459,
+    35.188795
+],
+  "geometry": {"coordinates":[-114.05445899999999,35.188795],"type":"Point"}
 }

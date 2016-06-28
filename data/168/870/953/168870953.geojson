@@ -2,13 +2,14 @@
   "id": 168870953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.481454,33.002843,-111.481454,33.002843",
     "geom:latitude":33.002843,
     "geom:longitude":-111.481454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7726 State Hwy 287",
     "sg:city":"Coolidge",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168870953,
-    "wof:lastmodified":1449027965,
+    "wof:lastmodified":1466327538,
     "wof:name":"Whispering Wind Mobile Home Pk",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.481454,33.002843,-111.481454,33.002843],
+  "bbox": [
+    -111.481454,
+    33.002843,
+    -111.481454,
+    33.002843
+],
   "geometry": {"coordinates":[-111.481454,33.002843],"type":"Point"}
 }

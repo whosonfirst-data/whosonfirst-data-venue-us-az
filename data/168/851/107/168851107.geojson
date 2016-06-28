@@ -2,13 +2,14 @@
   "id": 168851107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.959506,33.646201,-111.959506,33.646201",
     "geom:latitude":33.646201,
     "geom:longitude":-111.959506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17608 N 56th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168851107,
-    "wof:lastmodified":1449028275,
+    "wof:lastmodified":1466325796,
     "wof:name":"L Skincare Services LLC",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.959506,33.646201,-111.959506,33.646201],
+  "bbox": [
+    -111.959506,
+    33.646201,
+    -111.959506,
+    33.646201
+],
   "geometry": {"coordinates":[-111.959506,33.646201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169400725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.855945,32.321221,-110.855945,32.321221",
     "geom:latitude":32.321221,
     "geom:longitude":-110.855945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 N Cll Campeche",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169400725,
-    "wof:lastmodified":1449032990,
+    "wof:lastmodified":1466333628,
     "wof:name":"Pieterse Consulting Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.855945,32.321221,-110.855945,32.321221],
-  "geometry": {"coordinates":[-110.855945,32.321221],"type":"Point"}
+  "bbox": [
+    -110.855945,
+    32.321221,
+    -110.855945,
+    32.321221
+],
+  "geometry": {"coordinates":[-110.85594500000001,32.321221],"type":"Point"}
 }

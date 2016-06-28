@@ -2,13 +2,14 @@
   "id": 168841923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.225898,33.483173,-112.225898,33.483173",
     "geom:latitude":33.483173,
     "geom:longitude":-112.225898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7814 W Cheery Lynn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168841923,
-    "wof:lastmodified":1449027942,
+    "wof:lastmodified":1466327317,
     "wof:name":"Circle Of Life Hypnosis",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.225898,33.483173,-112.225898,33.483173],
+  "bbox": [
+    -112.225898,
+    33.483173,
+    -112.225898,
+    33.483173
+],
   "geometry": {"coordinates":[-112.225898,33.483173],"type":"Point"}
 }

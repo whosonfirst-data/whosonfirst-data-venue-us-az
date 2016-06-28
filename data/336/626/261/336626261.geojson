@@ -2,13 +2,14 @@
   "id": 336626261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046639,33.428742,-112.046639,33.428742",
     "geom:latitude":33.428742,
     "geom:longitude":-112.046639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E Rental Car Way Suite 121",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336626261,
-    "wof:lastmodified":1448998011,
+    "wof:lastmodified":1466326441,
     "wof:name":"Payless Car Rental (Phoenix Sky Harbor Intl. Airport)",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.046639,33.428742,-112.046639,33.428742],
+  "bbox": [
+    -112.046639,
+    33.428742,
+    -112.046639,
+    33.428742
+],
   "geometry": {"coordinates":[-112.046639,33.428742],"type":"Point"}
 }

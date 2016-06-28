@@ -2,13 +2,14 @@
   "id": 152935347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.264069,33.621712,-112.264069,33.621712",
     "geom:latitude":33.621712,
     "geom:longitude":-112.264069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9631 W Indian Hills Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812431,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85812431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152935347,
-    "wof:lastmodified":1449048090,
+    "wof:lastmodified":1466326352,
     "wof:name":"Turquoise Holdings LLC",
     "wof:parent_id":85812431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.264069,33.621712,-112.264069,33.621712],
-  "geometry": {"coordinates":[-112.264069,33.621712],"type":"Point"}
+  "bbox": [
+    -112.264069,
+    33.621712,
+    -112.264069,
+    33.621712
+],
+  "geometry": {"coordinates":[-112.26406900000001,33.621712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169024427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.307013,31.971341,-110.307013,31.971341",
     "geom:latitude":31.971341,
     "geom:longitude":-110.307013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 N Ocotillo Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169024427,
-    "wof:lastmodified":1449034264,
+    "wof:lastmodified":1466326365,
     "wof:name":"Benson Plaza Restaurant",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.307013,31.971341,-110.307013,31.971341],
+  "bbox": [
+    -110.307013,
+    31.971341,
+    -110.307013,
+    31.971341
+],
   "geometry": {"coordinates":[-110.307013,31.971341],"type":"Point"}
 }

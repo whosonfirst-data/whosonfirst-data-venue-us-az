@@ -2,13 +2,14 @@
   "id": 168991337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.814132,33.407835,-111.814132,33.407835",
     "geom:latitude":33.407835,
     "geom:longitude":-111.814132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Broadway Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872457,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168991337,
-    "wof:lastmodified":1449027990,
+    "wof:lastmodified":1466331609,
     "wof:name":"Dolly Madison Thrift Store",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.814132,33.407835,-111.814132,33.407835],
+  "bbox": [
+    -111.814132,
+    33.407835,
+    -111.814132,
+    33.407835
+],
   "geometry": {"coordinates":[-111.814132,33.407835],"type":"Point"}
 }

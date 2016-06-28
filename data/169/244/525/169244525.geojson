@@ -2,13 +2,14 @@
   "id": 169244525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.767081,32.283241,-110.767081,32.283241",
     "geom:latitude":32.283241,
     "geom:longitude":-110.767081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10541 E Sunnywood Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169244525,
-    "wof:lastmodified":1449033990,
+    "wof:lastmodified":1466332641,
     "wof:name":"Computing Consultant Co",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.767081,32.283241,-110.767081,32.283241],
+  "bbox": [
+    -110.767081,
+    32.283241,
+    -110.767081,
+    32.283241
+],
   "geometry": {"coordinates":[-110.767081,32.283241],"type":"Point"}
 }

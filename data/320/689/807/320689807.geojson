@@ -2,13 +2,14 @@
   "id": 320689807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.051183,33.51873,-112.051183,33.51873",
     "geom:latitude":33.51873,
     "geom:longitude":-112.051183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 E San Juan Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320689807,
-    "wof:lastmodified":1449014344,
+    "wof:lastmodified":1466328107,
     "wof:name":"Arizona Suicide Prevention Coalition",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teachers'"
     ]
 },
-  "bbox": [-112.051183,33.51873,-112.051183,33.51873],
-  "geometry": {"coordinates":[-112.051183,33.51873],"type":"Point"}
+  "bbox": [
+    -112.051183,
+    33.51873,
+    -112.051183,
+    33.51873
+],
+  "geometry": {"coordinates":[-112.05118299999999,33.51873],"type":"Point"}
 }

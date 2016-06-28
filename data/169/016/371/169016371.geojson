@@ -2,13 +2,14 @@
   "id": 169016371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.741521,33.472872,-111.741521,33.472872",
     "geom:latitude":33.472872,
     "geom:longitude":-111.741521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4036 E Presidio St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811069,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85811069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169016371,
-    "wof:lastmodified":1449033266,
+    "wof:lastmodified":1466327692,
     "wof:name":"Apache Air Conditioning & Htg",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.741521,33.472872,-111.741521,33.472872],
-  "geometry": {"coordinates":[-111.741521,33.472872],"type":"Point"}
+  "bbox": [
+    -111.741521,
+    33.472872,
+    -111.741521,
+    33.472872
+],
+  "geometry": {"coordinates":[-111.74152100000001,33.472872],"type":"Point"}
 }

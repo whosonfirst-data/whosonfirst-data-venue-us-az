@@ -2,13 +2,14 @@
   "id": 336698193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.992973,33.465691,-111.992973,33.465691",
     "geom:latitude":33.465691,
     "geom:longitude":-111.992973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 E Mcdowell Rd Ste 113",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336698193,
-    "wof:lastmodified":1448997945,
+    "wof:lastmodified":1466327984,
     "wof:name":"ARIZONA FIRST MORTGAGE, LLC",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-111.992973,33.465691,-111.992973,33.465691],
-  "geometry": {"coordinates":[-111.992973,33.465691],"type":"Point"}
+  "bbox": [
+    -111.992973,
+    33.465691,
+    -111.992973,
+    33.465691
+],
+  "geometry": {"coordinates":[-111.99297300000001,33.465691],"type":"Point"}
 }

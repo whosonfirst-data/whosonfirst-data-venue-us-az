@@ -2,13 +2,14 @@
   "id": 169314267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969514,32.354767,-110.969514,32.354767",
     "geom:latitude":32.354767,
     "geom:longitude":-110.969514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Four Horses Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169314267,
-    "wof:lastmodified":1449035824,
+    "wof:lastmodified":1466332979,
     "wof:name":"I & M Grinding Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969514,32.354767,-110.969514,32.354767],
+  "bbox": [
+    -110.969514,
+    32.354767,
+    -110.969514,
+    32.354767
+],
   "geometry": {"coordinates":[-110.969514,32.354767],"type":"Point"}
 }

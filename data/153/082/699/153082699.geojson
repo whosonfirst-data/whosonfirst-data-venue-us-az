@@ -2,13 +2,14 @@
   "id": 153082699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.165662,33.545817,-112.165662,33.545817",
     "geom:latitude":33.545817,
     "geom:longitude":-112.165662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5046 W Orangewood Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877783,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719,
+        85877783,
         85845677
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":153082699,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466329212,
     "wof:name":"First Class Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.165662,33.545817,-112.165662,33.545817],
+  "bbox": [
+    -112.165662,
+    33.545817,
+    -112.165662,
+    33.545817
+],
   "geometry": {"coordinates":[-112.165662,33.545817],"type":"Point"}
 }

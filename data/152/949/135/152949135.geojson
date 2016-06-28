@@ -2,13 +2,14 @@
   "id": 152949135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.888138,33.584827,-111.888138,33.584827",
     "geom:latitude":33.584827,
     "geom:longitude":-111.888138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10752 N 89th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812523,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85812523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152949135,
-    "wof:lastmodified":1449047166,
+    "wof:lastmodified":1466327312,
     "wof:name":"Jerold L Powers MD",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.888138,33.584827,-111.888138,33.584827],
+  "bbox": [
+    -111.888138,
+    33.584827,
+    -111.888138,
+    33.584827
+],
   "geometry": {"coordinates":[-111.888138,33.584827],"type":"Point"}
 }

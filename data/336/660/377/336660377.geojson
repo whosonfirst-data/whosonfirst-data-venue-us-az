@@ -2,13 +2,14 @@
   "id": 336660377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003994,33.404822,-112.003994,33.404822",
     "geom:latitude":33.404822,
     "geom:longitude":-112.003994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 S 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":336660377,
-    "wof:lastmodified":1448997908,
+    "wof:lastmodified":1466327188,
     "wof:name":"Barbeque Company Grill & Cafe",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "steak"
     ]
 },
-  "bbox": [-112.003994,33.404822,-112.003994,33.404822],
-  "geometry": {"coordinates":[-112.003994,33.404822],"type":"Point"}
+  "bbox": [
+    -112.003994,
+    33.404822,
+    -112.003994,
+    33.404822
+],
+  "geometry": {"coordinates":[-112.00399400000001,33.404822],"type":"Point"}
 }

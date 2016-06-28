@@ -2,13 +2,14 @@
   "id": 336741091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149471,33.865173,-112.149471,33.865173",
     "geom:latitude":33.865173,
     "geom:longitude":-112.149471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 W Opportunity Way # 110",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336741091,
-    "wof:lastmodified":1448996969,
+    "wof:lastmodified":1466328627,
     "wof:name":"Excel Water",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "purification"
     ]
 },
-  "bbox": [-112.149471,33.865173,-112.149471,33.865173],
-  "geometry": {"coordinates":[-112.149471,33.865173],"type":"Point"}
+  "bbox": [
+    -112.149471,
+    33.865173,
+    -112.149471,
+    33.865173
+],
+  "geometry": {"coordinates":[-112.14947100000001,33.865173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168929509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.933075,32.323497,-110.933075,32.323497",
     "geom:latitude":32.323497,
     "geom:longitude":-110.933075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 E Skyline Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168929509,
-    "wof:lastmodified":1449028060,
+    "wof:lastmodified":1466330559,
     "wof:name":"Parachute",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.933075,32.323497,-110.933075,32.323497],
+  "bbox": [
+    -110.933075,
+    32.323497,
+    -110.933075,
+    32.323497
+],
   "geometry": {"coordinates":[-110.933075,32.323497],"type":"Point"}
 }

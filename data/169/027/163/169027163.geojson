@@ -2,13 +2,14 @@
   "id": 169027163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.781377,32.234411,-110.781377,32.234411",
     "geom:latitude":32.234411,
     "geom:longitude":-110.781377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9897 2nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169027163,
-    "wof:lastmodified":1449033308,
+    "wof:lastmodified":1466326609,
     "wof:name":"Gap Wood Tile & Plastics",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.781377,32.234411,-110.781377,32.234411],
-  "geometry": {"coordinates":[-110.781377,32.234411],"type":"Point"}
+  "bbox": [
+    -110.781377,
+    32.234411,
+    -110.781377,
+    32.234411
+],
+  "geometry": {"coordinates":[-110.78137700000001,32.234411],"type":"Point"}
 }

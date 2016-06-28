@@ -2,13 +2,14 @@
   "id": 353869691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.689116,35.104596,-111.689116,35.104596",
     "geom:latitude":35.104596,
     "geom:longitude":-111.689116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Hano Trl",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353869691,
-    "wof:lastmodified":1449020602,
+    "wof:lastmodified":1466330927,
     "wof:name":"Kachina Heating and Cooling",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.689116,35.104596,-111.689116,35.104596],
+  "bbox": [
+    -111.689116,
+    35.104596,
+    -111.689116,
+    35.104596
+],
   "geometry": {"coordinates":[-111.689116,35.104596],"type":"Point"}
 }

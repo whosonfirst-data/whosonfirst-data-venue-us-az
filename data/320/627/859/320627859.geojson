@@ -2,13 +2,14 @@
   "id": 320627859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058303,33.46571,-112.058303,33.46571",
     "geom:latitude":33.46571,
     "geom:longitude":-112.058303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 E Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320627859,
-    "wof:lastmodified":1449015047,
+    "wof:lastmodified":1466326470,
     "wof:name":"Counseling & Consulting",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-112.058303,33.46571,-112.058303,33.46571],
+  "bbox": [
+    -112.058303,
+    33.46571,
+    -112.058303,
+    33.46571
+],
   "geometry": {"coordinates":[-112.058303,33.46571],"type":"Point"}
 }

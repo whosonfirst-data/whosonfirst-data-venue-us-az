@@ -2,13 +2,14 @@
   "id": 320834549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01223,33.589803,-112.01223,33.589803",
     "geom:latitude":33.589803,
     "geom:longitude":-112.01223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11413 N 32nd Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320834549,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466330294,
     "wof:name":"7 Brothers Transport",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-112.01223,33.589803,-112.01223,33.589803],
+  "bbox": [
+    -112.01223,
+    33.589803,
+    -112.01223,
+    33.589803
+],
   "geometry": {"coordinates":[-112.01223,33.589803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169313791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986835,31.86092,-110.986835,31.86092",
     "geom:latitude":31.86092,
     "geom:longitude":-110.986835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 el Viente",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169313791,
-    "wof:lastmodified":1449032788,
+    "wof:lastmodified":1466333146,
     "wof:name":"SATELLITEIST.COM",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.986835,31.86092,-110.986835,31.86092],
+  "bbox": [
+    -110.986835,
+    31.86092,
+    -110.986835,
+    31.86092
+],
   "geometry": {"coordinates":[-110.986835,31.86092],"type":"Point"}
 }

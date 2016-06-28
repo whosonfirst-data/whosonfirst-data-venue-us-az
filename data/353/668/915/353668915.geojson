@@ -2,13 +2,14 @@
   "id": 353668915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.272568,33.582901,-112.272568,33.582901",
     "geom:latitude":33.582901,
     "geom:longitude":-112.272568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11001 N 99th Ave Ste 124",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353668915,
-    "wof:lastmodified":1449020024,
+    "wof:lastmodified":1466329699,
     "wof:name":"Arizona Teamsters Apprenticeship & Training",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.272568,33.582901,-112.272568,33.582901],
-  "geometry": {"coordinates":[-112.272568,33.582901],"type":"Point"}
+  "bbox": [
+    -112.272568,
+    33.582901,
+    -112.272568,
+    33.582901
+],
+  "geometry": {"coordinates":[-112.27256800000001,33.582901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336682041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.199975,33.458715,-112.199975,33.458715",
     "geom:latitude":33.458715,
     "geom:longitude":-112.199975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6543 W Roosevelt St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336682041,
-    "wof:lastmodified":1448997131,
+    "wof:lastmodified":1466327730,
     "wof:name":"Ezras Any Drain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-112.199975,33.458715,-112.199975,33.458715],
-  "geometry": {"coordinates":[-112.199975,33.458715],"type":"Point"}
+  "bbox": [
+    -112.199975,
+    33.458715,
+    -112.199975,
+    33.458715
+],
+  "geometry": {"coordinates":[-112.19997499999999,33.458715],"type":"Point"}
 }

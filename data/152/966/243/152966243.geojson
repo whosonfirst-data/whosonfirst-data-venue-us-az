@@ -2,13 +2,14 @@
   "id": 152966243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182208,35.253195,-112.182208,35.253195",
     "geom:latitude":35.253195,
     "geom:longitude":-112.182208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 US Hwy 66",
     "sg:city":"Williams",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857825,
+        85688719,
         85633793,
         85917435,
         102086831,
-        85688719
+        85857825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152966243,
-    "wof:lastmodified":1449044322,
+    "wof:lastmodified":1466328479,
     "wof:name":"Peak Beam Systems Inc",
     "wof:parent_id":85857825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.182208,35.253195,-112.182208,35.253195],
+  "bbox": [
+    -112.182208,
+    35.253195,
+    -112.182208,
+    35.253195
+],
   "geometry": {"coordinates":[-112.182208,35.253195],"type":"Point"}
 }

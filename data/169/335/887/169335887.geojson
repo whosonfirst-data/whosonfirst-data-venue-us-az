@@ -2,13 +2,14 @@
   "id": 169335887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973704,33.600159,-111.973704,33.600159",
     "geom:latitude":33.600159,
     "geom:longitude":-111.973704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5019 E Columbine Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853825,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169335887,
-    "wof:lastmodified":1449034865,
+    "wof:lastmodified":1466333407,
     "wof:name":"Tice Appraisal",
     "wof:parent_id":85853825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973704,33.600159,-111.973704,33.600159],
+  "bbox": [
+    -111.973704,
+    33.600159,
+    -111.973704,
+    33.600159
+],
   "geometry": {"coordinates":[-111.973704,33.600159],"type":"Point"}
 }

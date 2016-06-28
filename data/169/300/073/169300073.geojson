@@ -2,13 +2,14 @@
   "id": 169300073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.198439,33.382805,-112.198439,33.382805",
     "geom:latitude":33.382805,
     "geom:longitude":-112.198439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6529 W Fremont Rd",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169300073,
-    "wof:lastmodified":1449034545,
+    "wof:lastmodified":1466333212,
     "wof:name":"Cactus Tack",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.198439,33.382805,-112.198439,33.382805],
-  "geometry": {"coordinates":[-112.198439,33.382805],"type":"Point"}
+  "bbox": [
+    -112.198439,
+    33.382805,
+    -112.198439,
+    33.382805
+],
+  "geometry": {"coordinates":[-112.19843899999999,33.382805],"type":"Point"}
 }

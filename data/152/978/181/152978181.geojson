@@ -2,13 +2,14 @@
   "id": 152978181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.0762,33.433065,-112.0762,33.433065",
     "geom:latitude":33.433065,
     "geom:longitude":-112.0762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Pima St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152978181,
-    "wof:lastmodified":1449046970,
+    "wof:lastmodified":1466328805,
     "wof:name":"Sellers & Sons",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.0762,33.433065,-112.0762,33.433065],
+  "bbox": [
+    -112.0762,
+    33.433065,
+    -112.0762,
+    33.433065
+],
   "geometry": {"coordinates":[-112.0762,33.433065],"type":"Point"}
 }

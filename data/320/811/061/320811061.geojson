@@ -2,13 +2,14 @@
   "id": 320811061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05534,33.659226,-112.05534,33.659226",
     "geom:latitude":33.659226,
     "geom:longitude":-112.05534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 E Taro Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320811061,
-    "wof:lastmodified":1449013059,
+    "wof:lastmodified":1466329837,
     "wof:name":"Arrive Alive Traffic Surv",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction"
     ]
 },
-  "bbox": [-112.05534,33.659226,-112.05534,33.659226],
+  "bbox": [
+    -112.05534,
+    33.659226,
+    -112.05534,
+    33.659226
+],
   "geometry": {"coordinates":[-112.05534,33.659226],"type":"Point"}
 }

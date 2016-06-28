@@ -2,13 +2,14 @@
   "id": 168840689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.831605,32.252247,-109.831605,32.252247",
     "geom:latitude":32.252247,
     "geom:longitude":-109.831605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 E Maley St",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168840689,
-    "wof:lastmodified":1449028405,
+    "wof:lastmodified":1466327172,
     "wof:name":"Terra Securities Corp",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.831605,32.252247,-109.831605,32.252247],
+  "bbox": [
+    -109.831605,
+    32.252247,
+    -109.831605,
+    32.252247
+],
   "geometry": {"coordinates":[-109.831605,32.252247],"type":"Point"}
 }

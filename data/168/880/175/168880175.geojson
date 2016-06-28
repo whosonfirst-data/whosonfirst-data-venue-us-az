@@ -2,13 +2,14 @@
   "id": 168880175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89318,33.553081,-111.89318,33.553081",
     "geom:latitude":33.553081,
     "geom:longitude":-111.89318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8777 E Via de Ventura",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833181,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85833181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168880175,
-    "wof:lastmodified":1449028594,
+    "wof:lastmodified":1466328247,
     "wof:name":"Daniel Jaffe Pllc",
     "wof:parent_id":85833181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.89318,33.553081,-111.89318,33.553081],
+  "bbox": [
+    -111.89318,
+    33.553081,
+    -111.89318,
+    33.553081
+],
   "geometry": {"coordinates":[-111.89318,33.553081],"type":"Point"}
 }

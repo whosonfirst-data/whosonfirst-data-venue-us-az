@@ -2,13 +2,14 @@
   "id": 169032819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.95203,33.490546,-111.95203,33.490546",
     "geom:latitude":33.490546,
     "geom:longitude":-111.95203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 E Indian School Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.sunstatemortgage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880959,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169032819,
-    "wof:lastmodified":1449034301,
+    "wof:lastmodified":1466327114,
     "wof:name":"Sunstate Mortgage Corporation",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.95203,33.490546,-111.95203,33.490546],
-  "geometry": {"coordinates":[-111.95203,33.490546],"type":"Point"}
+  "bbox": [
+    -111.95203,
+    33.490546,
+    -111.95203,
+    33.490546
+],
+  "geometry": {"coordinates":[-111.95202999999999,33.490546],"type":"Point"}
 }

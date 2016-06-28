@@ -2,13 +2,14 @@
   "id": 169353741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.266634,33.739128,-112.266634,33.739128",
     "geom:latitude":33.739128,
     "geom:longitude":-112.266634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9617 Keyser Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169353741,
-    "wof:lastmodified":1449033631,
+    "wof:lastmodified":1466333306,
     "wof:name":"C & J Prof Cleaning Svc Inc",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.266634,33.739128,-112.266634,33.739128],
+  "bbox": [
+    -112.266634,
+    33.739128,
+    -112.266634,
+    33.739128
+],
   "geometry": {"coordinates":[-112.266634,33.739128],"type":"Point"}
 }

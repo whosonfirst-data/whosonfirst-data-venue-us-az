@@ -2,13 +2,14 @@
   "id": 169191211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117132,33.496304,-112.117132,33.496304",
     "geom:latitude":33.496304,
     "geom:longitude":-112.117132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169191211,
-    "wof:lastmodified":1449034681,
+    "wof:lastmodified":1466332057,
     "wof:name":"Denmart Exxon Car Wash",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117132,33.496304,-112.117132,33.496304],
+  "bbox": [
+    -112.117132,
+    33.496304,
+    -112.117132,
+    33.496304
+],
   "geometry": {"coordinates":[-112.117132,33.496304],"type":"Point"}
 }

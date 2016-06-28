@@ -2,13 +2,14 @@
   "id": 169418227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598004,35.033302,-114.598004,35.033302",
     "geom:latitude":35.033302,
     "geom:longitude":-114.598004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 Hwy 95",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169418227,
-    "wof:lastmodified":1449035247,
+    "wof:lastmodified":1466334182,
     "wof:name":"Treasures Antique Mall",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598004,35.033302,-114.598004,35.033302],
+  "bbox": [
+    -114.598004,
+    35.033302,
+    -114.598004,
+    35.033302
+],
   "geometry": {"coordinates":[-114.598004,35.033302],"type":"Point"}
 }

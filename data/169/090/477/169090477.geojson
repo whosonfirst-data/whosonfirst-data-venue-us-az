@@ -2,13 +2,14 @@
   "id": 169090477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075389,33.38887,-112.075389,33.38887",
     "geom:latitude":33.38887,
     "geom:longitude":-112.075389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 S 2nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849949,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85849949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169090477,
-    "wof:lastmodified":1449035288,
+    "wof:lastmodified":1466330531,
     "wof:name":"Flowers By Missy",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.075389,33.38887,-112.075389,33.38887],
+  "bbox": [
+    -112.075389,
+    33.38887,
+    -112.075389,
+    33.38887
+],
   "geometry": {"coordinates":[-112.075389,33.38887],"type":"Point"}
 }

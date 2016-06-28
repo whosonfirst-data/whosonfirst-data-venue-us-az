@@ -2,13 +2,14 @@
   "id": 320699481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049081,33.51647,-112.049081,33.51647",
     "geom:latitude":33.51647,
     "geom:longitude":-112.049081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 E Missouri Ave Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320699481,
-    "wof:lastmodified":1449011766,
+    "wof:lastmodified":1466328055,
     "wof:name":"A. Paul Serrano, D.D.S., P.C.",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-112.049081,33.51647,-112.049081,33.51647],
+  "bbox": [
+    -112.049081,
+    33.51647,
+    -112.049081,
+    33.51647
+],
   "geometry": {"coordinates":[-112.049081,33.51647],"type":"Point"}
 }

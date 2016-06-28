@@ -2,13 +2,14 @@
   "id": 169306005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108936,33.402563,-112.108936,33.402563",
     "geom:latitude":33.402563,
     "geom:longitude":-112.108936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4808 S 23rd Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169306005,
-    "wof:lastmodified":1449035810,
+    "wof:lastmodified":1466333002,
     "wof:name":"Marviz Music",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.108936,33.402563,-112.108936,33.402563],
+  "bbox": [
+    -112.108936,
+    33.402563,
+    -112.108936,
+    33.402563
+],
   "geometry": {"coordinates":[-112.108936,33.402563],"type":"Point"}
 }

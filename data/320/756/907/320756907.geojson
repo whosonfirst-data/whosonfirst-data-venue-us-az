@@ -2,13 +2,14 @@
   "id": 320756907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.986992,33.482029,-111.986992,33.482029",
     "geom:latitude":33.482029,
     "geom:longitude":-111.986992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2999 N 44th St Ste 650",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320756907,
-    "wof:lastmodified":1449013493,
+    "wof:lastmodified":1466328994,
     "wof:name":"Interactive Alchemy Inc",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "services-wholesale"
     ]
 },
-  "bbox": [-111.986992,33.482029,-111.986992,33.482029],
+  "bbox": [
+    -111.986992,
+    33.482029,
+    -111.986992,
+    33.482029
+],
   "geometry": {"coordinates":[-111.986992,33.482029],"type":"Point"}
 }

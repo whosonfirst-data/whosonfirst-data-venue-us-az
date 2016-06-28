@@ -2,13 +2,14 @@
   "id": 169051197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.20981,32.326552,-111.20981,32.326552",
     "geom:latitude":32.326552,
     "geom:longitude":-111.20981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11507 W Picture Rocks Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169051197,
-    "wof:lastmodified":1449034726,
+    "wof:lastmodified":1466328417,
     "wof:name":"Right Way Landscaping LLC",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.20981,32.326552,-111.20981,32.326552],
+  "bbox": [
+    -111.20981,
+    32.326552,
+    -111.20981,
+    32.326552
+],
   "geometry": {"coordinates":[-111.20981,32.326552],"type":"Point"}
 }

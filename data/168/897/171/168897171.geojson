@@ -2,13 +2,14 @@
   "id": 168897171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.592988,33.412115,-111.592988,33.412115",
     "geom:latitude":33.412115,
     "geom:longitude":-111.592988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11032 E Aspen Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168897171,
-    "wof:lastmodified":1449028462,
+    "wof:lastmodified":1466329305,
     "wof:name":"A-Aquatech Pool Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.592988,33.412115,-111.592988,33.412115],
-  "geometry": {"coordinates":[-111.592988,33.412115],"type":"Point"}
+  "bbox": [
+    -111.592988,
+    33.412115,
+    -111.592988,
+    33.412115
+],
+  "geometry": {"coordinates":[-111.59298800000001,33.412115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169367287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94581,32.131065,-110.94581,32.131065",
     "geom:latitude":32.131065,
     "geom:longitude":-110.94581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Perimeter Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169367287,
-    "wof:lastmodified":1449034637,
+    "wof:lastmodified":1466333607,
     "wof:name":"Arizona Air National Guard",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.94581,32.131065,-110.94581,32.131065],
-  "geometry": {"coordinates":[-110.94581,32.131065],"type":"Point"}
+  "bbox": [
+    -110.94581,
+    32.131065,
+    -110.94581,
+    32.131065
+],
+  "geometry": {"coordinates":[-110.94580999999999,32.131065],"type":"Point"}
 }

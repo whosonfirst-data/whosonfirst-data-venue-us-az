@@ -2,13 +2,14 @@
   "id": 320755155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982521,33.487469,-111.982521,33.487469",
     "geom:latitude":33.487469,
     "geom:longitude":-111.982521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 E Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320755155,
-    "wof:lastmodified":1449012313,
+    "wof:lastmodified":1466329250,
     "wof:name":"Westbrook Development Partners",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.982521,33.487469,-111.982521,33.487469],
-  "geometry": {"coordinates":[-111.982521,33.487469],"type":"Point"}
+  "bbox": [
+    -111.982521,
+    33.487469,
+    -111.982521,
+    33.487469
+],
+  "geometry": {"coordinates":[-111.98252100000001,33.487469],"type":"Point"}
 }

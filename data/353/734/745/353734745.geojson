@@ -2,13 +2,14 @@
   "id": 353734745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.260186,33.608391,-112.260186,33.608391",
     "geom:latitude":33.608391,
     "geom:longitude":-112.260186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13760 N 93rd Ave Ste 201",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353734745,
-    "wof:lastmodified":1449020488,
+    "wof:lastmodified":1466329897,
     "wof:name":"Arizona Medical Clinic, Ltd.",
     "wof:parent_id":85812431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.260186,33.608391,-112.260186,33.608391],
+  "bbox": [
+    -112.260186,
+    33.608391,
+    -112.260186,
+    33.608391
+],
   "geometry": {"coordinates":[-112.260186,33.608391],"type":"Point"}
 }

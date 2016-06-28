@@ -2,13 +2,14 @@
   "id": 153004229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.97428,36.992219,-112.97428,36.992219",
     "geom:latitude":36.992219,
     "geom:longitude":-112.97428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 University Ave",
     "sg:city":"Colorado City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153004229,
-    "wof:lastmodified":1449040511,
+    "wof:lastmodified":1466325716,
     "wof:name":"IHC Homecare Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.97428,36.992219,-112.97428,36.992219],
-  "geometry": {"coordinates":[-112.97428,36.992219],"type":"Point"}
+  "bbox": [
+    -112.97428,
+    36.992219,
+    -112.97428,
+    36.992219
+],
+  "geometry": {"coordinates":[-112.97427999999999,36.992219],"type":"Point"}
 }

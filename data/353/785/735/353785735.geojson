@@ -2,13 +2,14 @@
   "id": 353785735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.630445,31.363181,-109.630445,31.363181",
     "geom:latitude":31.363181,
     "geom:longitude":-109.630445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3071 N Kings Hwy",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353785735,
-    "wof:lastmodified":1449020389,
+    "wof:lastmodified":1466330159,
     "wof:name":"Just Coffee Inc",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "espresso"
     ]
 },
-  "bbox": [-109.630445,31.363181,-109.630445,31.363181],
-  "geometry": {"coordinates":[-109.630445,31.363181],"type":"Point"}
+  "bbox": [
+    -109.630445,
+    31.363181,
+    -109.630445,
+    31.363181
+],
+  "geometry": {"coordinates":[-109.63044499999999,31.363181],"type":"Point"}
 }

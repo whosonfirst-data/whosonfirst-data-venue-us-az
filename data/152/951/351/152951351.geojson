@@ -2,13 +2,14 @@
   "id": 152951351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.811309,33.408794,-110.811309,33.408794",
     "geom:latitude":33.408794,
     "geom:longitude":-110.811309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4670 Scott Ave",
     "sg:city":"Claypool",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152951351,
-    "wof:lastmodified":1449044502,
+    "wof:lastmodified":1466327463,
     "wof:name":"Mirastar",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.811309,33.408794,-110.811309,33.408794],
-  "geometry": {"coordinates":[-110.811309,33.408794],"type":"Point"}
+  "bbox": [
+    -110.811309,
+    33.408794,
+    -110.811309,
+    33.408794
+],
+  "geometry": {"coordinates":[-110.81130899999999,33.408794],"type":"Point"}
 }

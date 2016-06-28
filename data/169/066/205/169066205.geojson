@@ -2,13 +2,14 @@
   "id": 169066205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070404,33.444982,-112.070404,33.444982",
     "geom:latitude":33.444982,
     "geom:longitude":-112.070404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 E Jackson St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169066205,
-    "wof:lastmodified":1449033648,
+    "wof:lastmodified":1466329722,
     "wof:name":"Jacksons On",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.070404,33.444982,-112.070404,33.444982],
+  "bbox": [
+    -112.070404,
+    33.444982,
+    -112.070404,
+    33.444982
+],
   "geometry": {"coordinates":[-112.070404,33.444982],"type":"Point"}
 }

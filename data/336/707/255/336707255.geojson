@@ -2,13 +2,14 @@
   "id": 336707255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056322,33.306305,-112.056322,33.306305",
     "geom:latitude":33.306305,
     "geom:longitude":-112.056322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 E Chandler Blvd Ste 127",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336707255,
-    "wof:lastmodified":1448997866,
+    "wof:lastmodified":1466328168,
     "wof:name":"Gonzo Catering",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-112.056322,33.306305,-112.056322,33.306305],
-  "geometry": {"coordinates":[-112.056322,33.306305],"type":"Point"}
+  "bbox": [
+    -112.056322,
+    33.306305,
+    -112.056322,
+    33.306305
+],
+  "geometry": {"coordinates":[-112.05632199999999,33.306305],"type":"Point"}
 }

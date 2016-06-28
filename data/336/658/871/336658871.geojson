@@ -2,13 +2,14 @@
   "id": 336658871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029998,33.397389,-112.029998,33.397389",
     "geom:latitude":33.397389,
     "geom:longitude":-112.029998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 S 24th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336658871,
-    "wof:lastmodified":1448996900,
+    "wof:lastmodified":1466327150,
     "wof:name":"Liberty Home Products",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "canopy"
     ]
 },
-  "bbox": [-112.029998,33.397389,-112.029998,33.397389],
-  "geometry": {"coordinates":[-112.029998,33.397389],"type":"Point"}
+  "bbox": [
+    -112.029998,
+    33.397389,
+    -112.029998,
+    33.397389
+],
+  "geometry": {"coordinates":[-112.02999800000001,33.397389],"type":"Point"}
 }

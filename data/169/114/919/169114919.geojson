@@ -2,13 +2,14 @@
   "id": 169114919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.328735,33.656136,-112.328735,33.656136",
     "geom:latitude":33.656136,
     "geom:longitude":-112.328735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18818 N Zinnia Ct",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.desertgardenchurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169114919,
-    "wof:lastmodified":1449034051,
+    "wof:lastmodified":1466331276,
     "wof:name":"Desert Garden United Church",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.328735,33.656136,-112.328735,33.656136],
-  "geometry": {"coordinates":[-112.328735,33.656136],"type":"Point"}
+  "bbox": [
+    -112.328735,
+    33.656136,
+    -112.328735,
+    33.656136
+],
+  "geometry": {"coordinates":[-112.32873499999999,33.656136],"type":"Point"}
 }

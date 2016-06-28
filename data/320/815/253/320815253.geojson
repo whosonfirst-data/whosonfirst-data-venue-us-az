@@ -2,13 +2,14 @@
   "id": 320815253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091993,33.65781,-112.091993,33.65781",
     "geom:latitude":33.65781,
     "geom:longitude":-112.091993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 W Sack Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320815253,
-    "wof:lastmodified":1449013072,
+    "wof:lastmodified":1466330037,
     "wof:name":"Xibergy Systems",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-112.091993,33.65781,-112.091993,33.65781],
+  "bbox": [
+    -112.091993,
+    33.65781,
+    -112.091993,
+    33.65781
+],
   "geometry": {"coordinates":[-112.091993,33.65781],"type":"Point"}
 }

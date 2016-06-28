@@ -2,13 +2,14 @@
   "id": 168964625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949706,32.175129,-110.949706,32.175129",
     "geom:latitude":32.175129,
     "geom:longitude":-110.949706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168964625,
-    "wof:lastmodified":1449028379,
+    "wof:lastmodified":1466331243,
     "wof:name":"Shells Etc Inc",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949706,32.175129,-110.949706,32.175129],
-  "geometry": {"coordinates":[-110.949706,32.175129],"type":"Point"}
+  "bbox": [
+    -110.949706,
+    32.175129,
+    -110.949706,
+    32.175129
+],
+  "geometry": {"coordinates":[-110.94970600000001,32.175129],"type":"Point"}
 }

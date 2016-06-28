@@ -2,13 +2,14 @@
   "id": 336961781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.920831,33.484,-111.920831,33.484",
     "geom:latitude":33.484,
     "geom:longitude":-111.920831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7447 E Earll Dr Ste 101",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":336961781,
-    "wof:lastmodified":1448997978,
+    "wof:lastmodified":1466330919,
     "wof:name":"Justice Services",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outpatient"
     ]
 },
-  "bbox": [-111.920831,33.484,-111.920831,33.484],
-  "geometry": {"coordinates":[-111.920831,33.484],"type":"Point"}
+  "bbox": [
+    -111.920831,
+    33.484,
+    -111.920831,
+    33.484
+],
+  "geometry": {"coordinates":[-111.92083100000001,33.484],"type":"Point"}
 }

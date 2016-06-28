@@ -2,13 +2,14 @@
   "id": 320778005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070184,33.567735,-112.070184,33.567735",
     "geom:latitude":33.567735,
     "geom:longitude":-112.070184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E Dunlap Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320778005,
-    "wof:lastmodified":1449011334,
+    "wof:lastmodified":1466329384,
     "wof:name":"Trauma Center Level 1",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "emergency"
     ]
 },
-  "bbox": [-112.070184,33.567735,-112.070184,33.567735],
+  "bbox": [
+    -112.070184,
+    33.567735,
+    -112.070184,
+    33.567735
+],
   "geometry": {"coordinates":[-112.070184,33.567735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168915493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004269,33.489845,-112.004269,33.489845",
     "geom:latitude":33.489845,
     "geom:longitude":-112.004269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3532 N 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168915493,
-    "wof:lastmodified":1449028581,
+    "wof:lastmodified":1466330227,
     "wof:name":"Balloon Art",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004269,33.489845,-112.004269,33.489845],
-  "geometry": {"coordinates":[-112.004269,33.489845],"type":"Point"}
+  "bbox": [
+    -112.004269,
+    33.489845,
+    -112.004269,
+    33.489845
+],
+  "geometry": {"coordinates":[-112.00426899999999,33.489845],"type":"Point"}
 }

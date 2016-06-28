@@ -2,13 +2,14 @@
   "id": 169316067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940203,32.210635,-110.940203,32.210635",
     "geom:latitude":32.210635,
     "geom:longitude":-110.940203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 19th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.poorebrothers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169316067,
-    "wof:lastmodified":1449034927,
+    "wof:lastmodified":1466333132,
     "wof:name":"Poore Brothers Inc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.940203,32.210635,-110.940203,32.210635],
+  "bbox": [
+    -110.940203,
+    32.210635,
+    -110.940203,
+    32.210635
+],
   "geometry": {"coordinates":[-110.940203,32.210635],"type":"Point"}
 }

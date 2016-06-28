@@ -2,13 +2,14 @@
   "id": 153040021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.573494,33.351479,-112.573494,33.351479",
     "geom:latitude":33.351479,
     "geom:longitude":-112.573494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 S Apache Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153040021,
-    "wof:lastmodified":1449040803,
+    "wof:lastmodified":1466326471,
     "wof:name":"Leaf Verde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.573494,33.351479,-112.573494,33.351479],
+  "bbox": [
+    -112.573494,
+    33.351479,
+    -112.573494,
+    33.351479
+],
   "geometry": {"coordinates":[-112.573494,33.351479],"type":"Point"}
 }

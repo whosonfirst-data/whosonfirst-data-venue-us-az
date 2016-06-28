@@ -2,13 +2,14 @@
   "id": 336764135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.862141,33.393015,-111.862141,33.393015",
     "geom:latitude":33.393015,
     "geom:longitude":-111.862141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336764135,
-    "wof:lastmodified":1448997953,
+    "wof:lastmodified":1466328993,
     "wof:name":"Bruce Bishop Davis",
     "wof:parent_id":85858581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "saint"
     ]
 },
-  "bbox": [-111.862141,33.393015,-111.862141,33.393015],
-  "geometry": {"coordinates":[-111.862141,33.393015],"type":"Point"}
+  "bbox": [
+    -111.862141,
+    33.393015,
+    -111.862141,
+    33.393015
+],
+  "geometry": {"coordinates":[-111.86214099999999,33.393015],"type":"Point"}
 }

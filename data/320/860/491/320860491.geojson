@@ -2,13 +2,14 @@
   "id": 320860491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00539,33.604324,-112.00539,33.604324",
     "geom:latitude":33.604324,
     "geom:longitude":-112.00539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3546 E Sweetwater Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320860491,
-    "wof:lastmodified":1449012912,
+    "wof:lastmodified":1466330395,
     "wof:name":"Human Srvces- Senior Svcs Dept",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "citizen"
     ]
 },
-  "bbox": [-112.00539,33.604324,-112.00539,33.604324],
-  "geometry": {"coordinates":[-112.00539,33.604324],"type":"Point"}
+  "bbox": [
+    -112.00539,
+    33.604324,
+    -112.00539,
+    33.604324
+],
+  "geometry": {"coordinates":[-112.00539000000001,33.604324],"type":"Point"}
 }

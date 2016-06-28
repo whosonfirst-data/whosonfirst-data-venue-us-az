@@ -2,13 +2,14 @@
   "id": 353488611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.912866,33.363762,-111.912866,33.363762",
     "geom:latitude":33.363762,
     "geom:longitude":-111.912866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E Guadalupe Rd Ste 105",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353488611,
-    "wof:lastmodified":1449020702,
+    "wof:lastmodified":1466326982,
     "wof:name":"Terra Travel",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cruise"
     ]
 },
-  "bbox": [-111.912866,33.363762,-111.912866,33.363762],
-  "geometry": {"coordinates":[-111.912866,33.363762],"type":"Point"}
+  "bbox": [
+    -111.912866,
+    33.363762,
+    -111.912866,
+    33.363762
+],
+  "geometry": {"coordinates":[-111.91286599999999,33.363762],"type":"Point"}
 }

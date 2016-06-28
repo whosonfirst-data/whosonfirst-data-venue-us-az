@@ -2,13 +2,14 @@
   "id": 153059651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940686,31.33562,-110.940686,31.33562",
     "geom:latitude":31.33562,
     "geom:longitude":-110.940686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153059651,
-    "wof:lastmodified":1449040460,
+    "wof:lastmodified":1466328014,
     "wof:name":"New Coquette's",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.940686,31.33562,-110.940686,31.33562],
+  "bbox": [
+    -110.940686,
+    31.33562,
+    -110.940686,
+    31.33562
+],
   "geometry": {"coordinates":[-110.940686,31.33562],"type":"Point"}
 }

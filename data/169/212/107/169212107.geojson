@@ -2,13 +2,14 @@
   "id": 169212107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842556,33.442616,-111.842556,33.442616",
     "geom:latitude":33.442616,
     "geom:longitude":-111.842556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 W Fairway Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872451
+        85633793,
+        85872451,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169212107,
-    "wof:lastmodified":1449034818,
+    "wof:lastmodified":1466332189,
     "wof:name":"Dy Tees & More",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.842556,33.442616,-111.842556,33.442616],
+  "bbox": [
+    -111.842556,
+    33.442616,
+    -111.842556,
+    33.442616
+],
   "geometry": {"coordinates":[-111.842556,33.442616],"type":"Point"}
 }

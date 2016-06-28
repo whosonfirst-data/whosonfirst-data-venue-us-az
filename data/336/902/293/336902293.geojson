@@ -2,13 +2,14 @@
   "id": 336902293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947944,33.30527,-111.947944,33.30527",
     "geom:latitude":33.30527,
     "geom:longitude":-111.947944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6145 W Chandler Blvd Ste 1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336902293,
-    "wof:lastmodified":1448997732,
+    "wof:lastmodified":1466330358,
     "wof:name":"Audio Express Home of the One Dollar Install",
     "wof:parent_id":85855285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "security"
     ]
 },
-  "bbox": [-111.947944,33.30527,-111.947944,33.30527],
-  "geometry": {"coordinates":[-111.947944,33.30527],"type":"Point"}
+  "bbox": [
+    -111.947944,
+    33.30527,
+    -111.947944,
+    33.30527
+],
+  "geometry": {"coordinates":[-111.94794400000001,33.30527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320759637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995292,33.510756,-111.995292,33.510756",
     "geom:latitude":33.510756,
     "geom:longitude":-111.995292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 N 40th St Ste 350",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320759637,
-    "wof:lastmodified":1449015018,
+    "wof:lastmodified":1466329056,
     "wof:name":"Spence Driscoll & Company Inc.",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "plan"
     ]
 },
-  "bbox": [-111.995292,33.510756,-111.995292,33.510756],
-  "geometry": {"coordinates":[-111.995292,33.510756],"type":"Point"}
+  "bbox": [
+    -111.995292,
+    33.510756,
+    -111.995292,
+    33.510756
+],
+  "geometry": {"coordinates":[-111.99529200000001,33.510756],"type":"Point"}
 }

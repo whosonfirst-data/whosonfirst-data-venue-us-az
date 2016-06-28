@@ -2,13 +2,14 @@
   "id": 169337651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081674,33.480269,-112.081674,33.480269",
     "geom:latitude":33.480269,
     "geom:longitude":-112.081674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169337651,
-    "wof:lastmodified":1449034224,
+    "wof:lastmodified":1466333378,
     "wof:name":"A Southwest Medical & Rehab",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.081674,33.480269,-112.081674,33.480269],
-  "geometry": {"coordinates":[-112.081674,33.480269],"type":"Point"}
+  "bbox": [
+    -112.081674,
+    33.480269,
+    -112.081674,
+    33.480269
+],
+  "geometry": {"coordinates":[-112.08167400000001,33.480269],"type":"Point"}
 }

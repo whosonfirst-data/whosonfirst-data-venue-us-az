@@ -2,13 +2,14 @@
   "id": 169005937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.278564,33.639835,-112.278564,33.639835",
     "geom:latitude":33.639835,
     "geom:longitude":-112.278564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17220 N Boswell Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.marlincompanies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169005937,
-    "wof:lastmodified":1449035693,
+    "wof:lastmodified":1466326266,
     "wof:name":"Marlin Group Inc",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.278564,33.639835,-112.278564,33.639835],
+  "bbox": [
+    -112.278564,
+    33.639835,
+    -112.278564,
+    33.639835
+],
   "geometry": {"coordinates":[-112.278564,33.639835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169381155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.830032,32.200683,-110.830032,32.200683",
     "geom:latitude":32.200683,
     "geom:longitude":-110.830032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S 29th Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169381155,
-    "wof:lastmodified":1449032949,
+    "wof:lastmodified":1466334091,
     "wof:name":"Perfection Pools",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.830032,32.200683,-110.830032,32.200683],
+  "bbox": [
+    -110.830032,
+    32.200683,
+    -110.830032,
+    32.200683
+],
   "geometry": {"coordinates":[-110.830032,32.200683],"type":"Point"}
 }

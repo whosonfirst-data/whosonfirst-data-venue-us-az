@@ -2,13 +2,14 @@
   "id": 152948217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.894792,33.325873,-111.894792,33.325873",
     "geom:latitude":33.325873,
     "geom:longitude":-111.894792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3057 W Ironwood Cir",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853371,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85853371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152948217,
-    "wof:lastmodified":1449047961,
+    "wof:lastmodified":1466327252,
     "wof:name":"Bag Lady Lunches",
     "wof:parent_id":85853371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.894792,33.325873,-111.894792,33.325873],
+  "bbox": [
+    -111.894792,
+    33.325873,
+    -111.894792,
+    33.325873
+],
   "geometry": {"coordinates":[-111.894792,33.325873],"type":"Point"}
 }

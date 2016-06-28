@@ -2,13 +2,14 @@
   "id": 353825579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.868373,32.236099,-110.868373,32.236099",
     "geom:latitude":32.236099,
     "geom:longitude":-110.868373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5822 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353825579,
-    "wof:lastmodified":1449018339,
+    "wof:lastmodified":1466330565,
     "wof:name":"TD's Show Clubs",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "night"
     ]
 },
-  "bbox": [-110.868373,32.236099,-110.868373,32.236099],
-  "geometry": {"coordinates":[-110.868373,32.236099],"type":"Point"}
+  "bbox": [
+    -110.868373,
+    32.236099,
+    -110.868373,
+    32.236099
+],
+  "geometry": {"coordinates":[-110.86837300000001,32.236099],"type":"Point"}
 }

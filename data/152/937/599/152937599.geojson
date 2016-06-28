@@ -2,13 +2,14 @@
   "id": 152937599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.935533,33.4919,-111.935533,33.4919",
     "geom:latitude":33.4919,
     "geom:longitude":-111.935533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3819 N Pueblo Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152937599,
-    "wof:lastmodified":1449045181,
+    "wof:lastmodified":1466326511,
     "wof:name":"Pinball & Video Arcade Games",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.935533,33.4919,-111.935533,33.4919],
-  "geometry": {"coordinates":[-111.935533,33.4919],"type":"Point"}
+  "bbox": [
+    -111.935533,
+    33.4919,
+    -111.935533,
+    33.4919
+],
+  "geometry": {"coordinates":[-111.93553300000001,33.4919],"type":"Point"}
 }

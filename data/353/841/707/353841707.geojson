@@ -2,13 +2,14 @@
   "id": 353841707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.926163,32.499046,-110.926163,32.499046",
     "geom:latitude":32.499046,
     "geom:longitude":-110.926163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16141 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353841707,
-    "wof:lastmodified":1449018797,
+    "wof:lastmodified":1466330571,
     "wof:name":"USPS - United States Post Office - Catalina",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-110.926163,32.499046,-110.926163,32.499046],
+  "bbox": [
+    -110.926163,
+    32.499046,
+    -110.926163,
+    32.499046
+],
   "geometry": {"coordinates":[-110.926163,32.499046],"type":"Point"}
 }

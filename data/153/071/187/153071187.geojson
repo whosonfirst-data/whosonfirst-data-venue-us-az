@@ -2,13 +2,14 @@
   "id": 153071187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.301448,31.969231,-110.301448,31.969231",
     "geom:latitude":31.969231,
     "geom:longitude":-110.301448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W 4th St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153071187,
-    "wof:lastmodified":1449040652,
+    "wof:lastmodified":1466328315,
     "wof:name":"Oakley's Garage & Towing",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.301448,31.969231,-110.301448,31.969231],
-  "geometry": {"coordinates":[-110.301448,31.969231],"type":"Point"}
+  "bbox": [
+    -110.301448,
+    31.969231,
+    -110.301448,
+    31.969231
+],
+  "geometry": {"coordinates":[-110.30144799999999,31.969231],"type":"Point"}
 }

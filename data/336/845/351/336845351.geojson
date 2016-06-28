@@ -2,13 +2,14 @@
   "id": 336845351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.859001,33.3358,-111.859001,33.3358",
     "geom:latitude":33.3358,
     "geom:longitude":-111.859001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 N Alma School Rd Ste 12",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336845351,
-    "wof:lastmodified":1448997119,
+    "wof:lastmodified":1466329994,
     "wof:name":"American General Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-111.859001,33.3358,-111.859001,33.3358],
-  "geometry": {"coordinates":[-111.859001,33.3358],"type":"Point"}
+  "bbox": [
+    -111.859001,
+    33.3358,
+    -111.859001,
+    33.3358
+],
+  "geometry": {"coordinates":[-111.85900100000001,33.3358],"type":"Point"}
 }

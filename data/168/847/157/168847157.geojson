@@ -2,13 +2,14 @@
   "id": 168847157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788346,34.880229,-111.788346,34.880229",
     "geom:latitude":34.880229,
     "geom:longitude":-111.788346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Shadow Rock Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168847157,
-    "wof:lastmodified":1449028037,
+    "wof:lastmodified":1466327604,
     "wof:name":"M Richard Remender",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.788346,34.880229,-111.788346,34.880229],
+  "bbox": [
+    -111.788346,
+    34.880229,
+    -111.788346,
+    34.880229
+],
   "geometry": {"coordinates":[-111.788346,34.880229],"type":"Point"}
 }

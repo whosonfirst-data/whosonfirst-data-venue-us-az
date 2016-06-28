@@ -2,13 +2,14 @@
   "id": 168999459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017325,33.445789,-112.017325,33.445789",
     "geom:latitude":33.445789,
     "geom:longitude":-112.017325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 30th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168999459,
-    "wof:lastmodified":1449028496,
+    "wof:lastmodified":1466331712,
     "wof:name":"In & Out Garage Floors",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.017325,33.445789,-112.017325,33.445789],
+  "bbox": [
+    -112.017325,
+    33.445789,
+    -112.017325,
+    33.445789
+],
   "geometry": {"coordinates":[-112.017325,33.445789],"type":"Point"}
 }

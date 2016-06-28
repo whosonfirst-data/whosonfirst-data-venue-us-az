@@ -2,13 +2,14 @@
   "id": 168909133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341018,33.444934,-112.341018,33.444934",
     "geom:latitude":33.444934,
     "geom:longitude":-112.341018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N Dysart Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168909133,
-    "wof:lastmodified":1449028375,
+    "wof:lastmodified":1466329915,
     "wof:name":"Country Villa",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.341018,33.444934,-112.341018,33.444934],
-  "geometry": {"coordinates":[-112.341018,33.444934],"type":"Point"}
+  "bbox": [
+    -112.341018,
+    33.444934,
+    -112.341018,
+    33.444934
+],
+  "geometry": {"coordinates":[-112.34101800000001,33.444934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169334247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909973,33.512218,-111.909973,33.512218",
     "geom:latitude":33.512218,
     "geom:longitude":-111.909973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5153 N 79th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858851,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85858851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169334247,
-    "wof:lastmodified":1449033652,
+    "wof:lastmodified":1466333331,
     "wof:name":"Wrh LLC",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909973,33.512218,-111.909973,33.512218],
-  "geometry": {"coordinates":[-111.909973,33.512218],"type":"Point"}
+  "bbox": [
+    -111.909973,
+    33.512218,
+    -111.909973,
+    33.512218
+],
+  "geometry": {"coordinates":[-111.90997299999999,33.512218],"type":"Point"}
 }

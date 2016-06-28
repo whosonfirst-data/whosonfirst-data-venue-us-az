@@ -2,13 +2,14 @@
   "id": 168942007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.874751,33.805655,-111.874751,33.805655",
     "geom:latitude":33.805655,
     "geom:longitude":-111.874751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9472 E Whitewing Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880953,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168942007,
-    "wof:lastmodified":1449028130,
+    "wof:lastmodified":1466330745,
     "wof:name":"Ssb Custom Homes",
     "wof:parent_id":85880953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.874751,33.805655,-111.874751,33.805655],
+  "bbox": [
+    -111.874751,
+    33.805655,
+    -111.874751,
+    33.805655
+],
   "geometry": {"coordinates":[-111.874751,33.805655],"type":"Point"}
 }

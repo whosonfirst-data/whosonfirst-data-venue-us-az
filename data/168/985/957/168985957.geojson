@@ -2,13 +2,14 @@
   "id": 168985957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.613139,32.692417,-114.613139,32.692417",
     "geom:latitude":32.692417,
     "geom:longitude":-114.613139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Factor Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168985957,
-    "wof:lastmodified":1449028153,
+    "wof:lastmodified":1466331503,
     "wof:name":"Dura Kool Screen & Door Compan",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.613139,32.692417,-114.613139,32.692417],
+  "bbox": [
+    -114.613139,
+    32.692417,
+    -114.613139,
+    32.692417
+],
   "geometry": {"coordinates":[-114.613139,32.692417],"type":"Point"}
 }

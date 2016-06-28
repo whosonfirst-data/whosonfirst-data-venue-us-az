@@ -2,13 +2,14 @@
   "id": 336726165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.127698,33.616003,-112.127698,33.616003",
     "geom:latitude":33.616003,
     "geom:longitude":-112.127698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 W Gelding Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336726165,
-    "wof:lastmodified":1448997664,
+    "wof:lastmodified":1466328448,
     "wof:name":"Beckelec",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.127698,33.616003,-112.127698,33.616003],
+  "bbox": [
+    -112.127698,
+    33.616003,
+    -112.127698,
+    33.616003
+],
   "geometry": {"coordinates":[-112.127698,33.616003],"type":"Point"}
 }

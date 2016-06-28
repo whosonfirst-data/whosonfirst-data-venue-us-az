@@ -2,13 +2,14 @@
   "id": 353592299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.259509,33.533143,-112.259509,33.533143",
     "geom:latitude":33.533143,
     "geom:longitude":-112.259509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9375 W Coyotes Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353592299,
-    "wof:lastmodified":1449019718,
+    "wof:lastmodified":1466328405,
     "wof:name":"Saddle Ranch Chop House",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "steak"
     ]
 },
-  "bbox": [-112.259509,33.533143,-112.259509,33.533143],
-  "geometry": {"coordinates":[-112.259509,33.533143],"type":"Point"}
+  "bbox": [
+    -112.259509,
+    33.533143,
+    -112.259509,
+    33.533143
+],
+  "geometry": {"coordinates":[-112.25950899999999,33.533143],"type":"Point"}
 }

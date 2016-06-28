@@ -2,13 +2,14 @@
   "id": 152971169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121558,33.660452,-112.121558,33.660452",
     "geom:latitude":33.660452,
     "geom:longitude":-112.121558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19203 N 29th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845881,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152971169,
-    "wof:lastmodified":1449046643,
+    "wof:lastmodified":1466328723,
     "wof:name":"Harry Bergmann",
     "wof:parent_id":85845881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.121558,33.660452,-112.121558,33.660452],
-  "geometry": {"coordinates":[-112.121558,33.660452],"type":"Point"}
+  "bbox": [
+    -112.121558,
+    33.660452,
+    -112.121558,
+    33.660452
+],
+  "geometry": {"coordinates":[-112.12155799999999,33.660452],"type":"Point"}
 }

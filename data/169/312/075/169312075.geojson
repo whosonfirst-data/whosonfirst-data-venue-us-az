@@ -2,13 +2,14 @@
   "id": 169312075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065582,33.465786,-112.065582,33.465786",
     "geom:latitude":33.465786,
     "geom:longitude":-112.065582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169312075,
-    "wof:lastmodified":1449034351,
+    "wof:lastmodified":1466333097,
     "wof:name":"Ameri Cash Financial",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065582,33.465786,-112.065582,33.465786],
-  "geometry": {"coordinates":[-112.065582,33.465786],"type":"Point"}
+  "bbox": [
+    -112.065582,
+    33.465786,
+    -112.065582,
+    33.465786
+],
+  "geometry": {"coordinates":[-112.06558200000001,33.465786],"type":"Point"}
 }

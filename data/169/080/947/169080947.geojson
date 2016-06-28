@@ -2,13 +2,14 @@
   "id": 169080947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036652,33.478786,-112.036652,33.478786",
     "geom:latitude":33.478786,
     "geom:longitude":-112.036652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 N 21st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169080947,
-    "wof:lastmodified":1449035876,
+    "wof:lastmodified":1466329962,
     "wof:name":"Hydrotank",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036652,33.478786,-112.036652,33.478786],
+  "bbox": [
+    -112.036652,
+    33.478786,
+    -112.036652,
+    33.478786
+],
   "geometry": {"coordinates":[-112.036652,33.478786],"type":"Point"}
 }

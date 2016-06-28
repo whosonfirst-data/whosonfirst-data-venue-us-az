@@ -2,13 +2,14 @@
   "id": 153015799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.50687,34.642017,-112.50687,34.642017",
     "geom:latitude":34.642017,
     "geom:longitude":-112.50687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 W Short Spur Trial",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153015799,
-    "wof:lastmodified":1449040455,
+    "wof:lastmodified":1466326599,
     "wof:name":"Jordan Publishing",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.50687,34.642017,-112.50687,34.642017],
-  "geometry": {"coordinates":[-112.50687,34.642017],"type":"Point"}
+  "bbox": [
+    -112.50687,
+    34.642017,
+    -112.50687,
+    34.642017
+],
+  "geometry": {"coordinates":[-112.50687000000001,34.642017],"type":"Point"}
 }

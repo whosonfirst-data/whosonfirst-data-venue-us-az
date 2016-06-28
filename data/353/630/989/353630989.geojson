@@ -2,13 +2,14 @@
   "id": 353630989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.602696,33.389648,-112.602696,33.389648",
     "geom:latitude":33.389648,
     "geom:longitude":-112.602696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25649 W Nancy Ln",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353630989,
-    "wof:lastmodified":1449019161,
+    "wof:lastmodified":1466328901,
     "wof:name":"Garage Door Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-112.602696,33.389648,-112.602696,33.389648],
-  "geometry": {"coordinates":[-112.602696,33.389648],"type":"Point"}
+  "bbox": [
+    -112.602696,
+    33.389648,
+    -112.602696,
+    33.389648
+],
+  "geometry": {"coordinates":[-112.60269599999999,33.389648],"type":"Point"}
 }

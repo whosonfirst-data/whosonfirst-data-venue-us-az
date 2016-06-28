@@ -2,13 +2,14 @@
   "id": 320816689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108633,33.680336,-112.108633,33.680336",
     "geom:latitude":33.680336,
     "geom:longitude":-112.108633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21427 N 23rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320816689,
-    "wof:lastmodified":1449013436,
+    "wof:lastmodified":1466330041,
     "wof:name":"Flo-Tech",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.108633,33.680336,-112.108633,33.680336],
+  "bbox": [
+    -112.108633,
+    33.680336,
+    -112.108633,
+    33.680336
+],
   "geometry": {"coordinates":[-112.108633,33.680336],"type":"Point"}
 }

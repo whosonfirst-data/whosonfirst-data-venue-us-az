@@ -2,13 +2,14 @@
   "id": 169262715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977578,32.161338,-110.977578,32.161338",
     "geom:latitude":32.161338,
     "geom:longitude":-110.977578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 S 12th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169262715,
-    "wof:lastmodified":1449034730,
+    "wof:lastmodified":1466332687,
     "wof:name":"J & F Auto Upholstery",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977578,32.161338,-110.977578,32.161338],
-  "geometry": {"coordinates":[-110.977578,32.161338],"type":"Point"}
+  "bbox": [
+    -110.977578,
+    32.161338,
+    -110.977578,
+    32.161338
+],
+  "geometry": {"coordinates":[-110.97757799999999,32.161338],"type":"Point"}
 }

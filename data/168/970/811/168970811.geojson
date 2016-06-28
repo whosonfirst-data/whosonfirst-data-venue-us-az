@@ -2,13 +2,14 @@
   "id": 168970811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.556279,33.161249,-111.556279,33.161249",
     "geom:latitude":33.161249,
     "geom:longitude":-111.556279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 E Silversmith Trl",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168970811,
-    "wof:lastmodified":1449028575,
+    "wof:lastmodified":1466331270,
     "wof:name":"Nubia Air AC & Refridgeration",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.556279,33.161249,-111.556279,33.161249],
+  "bbox": [
+    -111.556279,
+    33.161249,
+    -111.556279,
+    33.161249
+],
   "geometry": {"coordinates":[-111.556279,33.161249],"type":"Point"}
 }

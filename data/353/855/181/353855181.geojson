@@ -2,13 +2,14 @@
   "id": 353855181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.998921,32.250511,-110.998921,32.250511",
     "geom:latitude":32.250511,
     "geom:longitude":-110.998921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353855181,
-    "wof:lastmodified":1449020126,
+    "wof:lastmodified":1466330817,
     "wof:name":"Holiday Inn Express Hotel & Suites Tucson",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-110.998921,32.250511,-110.998921,32.250511],
+  "bbox": [
+    -110.998921,
+    32.250511,
+    -110.998921,
+    32.250511
+],
   "geometry": {"coordinates":[-110.998921,32.250511],"type":"Point"}
 }

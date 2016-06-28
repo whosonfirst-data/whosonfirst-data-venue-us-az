@@ -2,13 +2,14 @@
   "id": 169055089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970829,32.237112,-110.970829,32.237112",
     "geom:latitude":32.237112,
     "geom:longitude":-110.970829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 E Helen St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169055089,
-    "wof:lastmodified":1449033427,
+    "wof:lastmodified":1466328713,
     "wof:name":"Biaggi Kimmel",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970829,32.237112,-110.970829,32.237112],
-  "geometry": {"coordinates":[-110.970829,32.237112],"type":"Point"}
+  "bbox": [
+    -110.970829,
+    32.237112,
+    -110.970829,
+    32.237112
+],
+  "geometry": {"coordinates":[-110.97082899999999,32.237112],"type":"Point"}
 }

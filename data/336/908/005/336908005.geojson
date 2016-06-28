@@ -2,13 +2,14 @@
   "id": 336908005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.816823,33.374134,-111.816823,33.374134",
     "geom:latitude":33.374134,
     "geom:longitude":-111.816823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Mondel Drive",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336908005,
-    "wof:lastmodified":1448997549,
+    "wof:lastmodified":1466330393,
     "wof:name":"Curry Builders",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.816823,33.374134,-111.816823,33.374134],
+  "bbox": [
+    -111.816823,
+    33.374134,
+    -111.816823,
+    33.374134
+],
   "geometry": {"coordinates":[-111.816823,33.374134],"type":"Point"}
 }

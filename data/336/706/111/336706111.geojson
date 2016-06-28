@@ -2,13 +2,14 @@
   "id": 336706111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983968,33.305172,-111.983968,33.305172",
     "geom:latitude":33.305172,
     "geom:longitude":-111.983968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633 E Chandler Blvd Suite 110",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336706111,
-    "wof:lastmodified":1448997004,
+    "wof:lastmodified":1466328139,
     "wof:name":"AZ Acupuncture For Health",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-111.983968,33.305172,-111.983968,33.305172],
+  "bbox": [
+    -111.983968,
+    33.305172,
+    -111.983968,
+    33.305172
+],
   "geometry": {"coordinates":[-111.983968,33.305172],"type":"Point"}
 }

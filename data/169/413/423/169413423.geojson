@@ -2,13 +2,14 @@
   "id": 169413423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.799822,32.224254,-110.799822,32.224254",
     "geom:latitude":32.224254,
     "geom:longitude":-110.799822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9040 E 9th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169413423,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1466334114,
     "wof:name":"Second Generation Photography",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.799822,32.224254,-110.799822,32.224254],
-  "geometry": {"coordinates":[-110.799822,32.224254],"type":"Point"}
+  "bbox": [
+    -110.799822,
+    32.224254,
+    -110.799822,
+    32.224254
+],
+  "geometry": {"coordinates":[-110.79982200000001,32.224254],"type":"Point"}
 }

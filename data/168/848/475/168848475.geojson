@@ -2,13 +2,14 @@
   "id": 168848475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948008,32.403966,-110.948008,32.403966",
     "geom:latitude":32.403966,
     "geom:longitude":-110.948008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10960 N Stallard Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168848475,
-    "wof:lastmodified":1449027878,
+    "wof:lastmodified":1466327668,
     "wof:name":"Quillis Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948008,32.403966,-110.948008,32.403966],
+  "bbox": [
+    -110.948008,
+    32.403966,
+    -110.948008,
+    32.403966
+],
   "geometry": {"coordinates":[-110.948008,32.403966],"type":"Point"}
 }

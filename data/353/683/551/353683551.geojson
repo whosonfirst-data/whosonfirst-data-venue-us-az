@@ -2,13 +2,14 @@
   "id": 353683551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.259918,33.447279,-112.259918,33.447279",
     "geom:latitude":33.447279,
     "geom:longitude":-112.259918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 S 93rd Ave",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353683551,
-    "wof:lastmodified":1449019194,
+    "wof:lastmodified":1466329667,
     "wof:name":"Tolleson Food Bank",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "charity"
     ]
 },
-  "bbox": [-112.259918,33.447279,-112.259918,33.447279],
+  "bbox": [
+    -112.259918,
+    33.447279,
+    -112.259918,
+    33.447279
+],
   "geometry": {"coordinates":[-112.259918,33.447279],"type":"Point"}
 }

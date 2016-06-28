@@ -2,13 +2,14 @@
   "id": 168889577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825735,33.382473,-111.825735,33.382473",
     "geom:latitude":33.382473,
     "geom:longitude":-111.825735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 E Coury Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.campingworld.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833339,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168889577,
-    "wof:lastmodified":1449027771,
+    "wof:lastmodified":1466329097,
     "wof:name":"Camping World",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.825735,33.382473,-111.825735,33.382473],
-  "geometry": {"coordinates":[-111.825735,33.382473],"type":"Point"}
+  "bbox": [
+    -111.825735,
+    33.382473,
+    -111.825735,
+    33.382473
+],
+  "geometry": {"coordinates":[-111.82573499999999,33.382473],"type":"Point"}
 }

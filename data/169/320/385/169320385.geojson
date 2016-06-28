@@ -2,13 +2,14 @@
   "id": 169320385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.781072,33.390605,-110.781072,33.390605",
     "geom:latitude":33.390605,
     "geom:longitude":-110.781072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 S Broad St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169320385,
-    "wof:lastmodified":1449033526,
+    "wof:lastmodified":1466333192,
     "wof:name":"Weavers Studio",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.781072,33.390605,-110.781072,33.390605],
-  "geometry": {"coordinates":[-110.781072,33.390605],"type":"Point"}
+  "bbox": [
+    -110.781072,
+    33.390605,
+    -110.781072,
+    33.390605
+],
+  "geometry": {"coordinates":[-110.78107199999999,33.390605],"type":"Point"}
 }

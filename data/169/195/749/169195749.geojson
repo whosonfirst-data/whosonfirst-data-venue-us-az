@@ -2,13 +2,14 @@
   "id": 169195749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151119,33.623356,-112.151119,33.623356",
     "geom:latitude":33.623356,
     "geom:longitude":-112.151119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4129 W Port au Prince Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853607,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169195749,
-    "wof:lastmodified":1449034856,
+    "wof:lastmodified":1466332110,
     "wof:name":"Simply Buggy",
     "wof:parent_id":85853607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151119,33.623356,-112.151119,33.623356],
-  "geometry": {"coordinates":[-112.151119,33.623356],"type":"Point"}
+  "bbox": [
+    -112.151119,
+    33.623356,
+    -112.151119,
+    33.623356
+],
+  "geometry": {"coordinates":[-112.15111899999999,33.623356],"type":"Point"}
 }

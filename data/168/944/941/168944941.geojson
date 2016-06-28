@@ -2,13 +2,14 @@
   "id": 168944941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.922126,33.301667,-111.922126,33.301667",
     "geom:latitude":33.301667,
     "geom:longitude":-111.922126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4623 W Boston St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876687,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168944941,
-    "wof:lastmodified":1449028157,
+    "wof:lastmodified":1466330921,
     "wof:name":"J D Drain Svc",
     "wof:parent_id":85876687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.922126,33.301667,-111.922126,33.301667],
-  "geometry": {"coordinates":[-111.922126,33.301667],"type":"Point"}
+  "bbox": [
+    -111.922126,
+    33.301667,
+    -111.922126,
+    33.301667
+],
+  "geometry": {"coordinates":[-111.92212600000001,33.301667],"type":"Point"}
 }

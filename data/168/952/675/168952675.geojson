@@ -2,13 +2,14 @@
   "id": 168952675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.570876,34.996921,-114.570876,34.996921",
     "geom:latitude":34.996921,
     "geom:longitude":-114.570876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 Joy Ln",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168952675,
-    "wof:lastmodified":1449028332,
+    "wof:lastmodified":1466331023,
     "wof:name":"Fort Mojave Mesa Fire Dept #1",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.570876,34.996921,-114.570876,34.996921],
+  "bbox": [
+    -114.570876,
+    34.996921,
+    -114.570876,
+    34.996921
+],
   "geometry": {"coordinates":[-114.570876,34.996921],"type":"Point"}
 }

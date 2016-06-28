@@ -2,13 +2,14 @@
   "id": 169114447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966443,32.222157,-110.966443,32.222157",
     "geom:latitude":32.222157,
     "geom:longitude":-110.966443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169114447,
-    "wof:lastmodified":1449034051,
+    "wof:lastmodified":1466331263,
     "wof:name":"Hotel Congress",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966443,32.222157,-110.966443,32.222157],
+  "bbox": [
+    -110.966443,
+    32.222157,
+    -110.966443,
+    32.222157
+],
   "geometry": {"coordinates":[-110.966443,32.222157],"type":"Point"}
 }

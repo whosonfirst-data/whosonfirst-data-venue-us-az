@@ -2,13 +2,14 @@
   "id": 169368949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.803403,32.229092,-110.803403,32.229092",
     "geom:latitude":32.229092,
     "geom:longitude":-110.803403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 N Bedford Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169368949,
-    "wof:lastmodified":1449033449,
+    "wof:lastmodified":1466333697,
     "wof:name":"Ron Keippel Furniture Repair",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.803403,32.229092,-110.803403,32.229092],
+  "bbox": [
+    -110.803403,
+    32.229092,
+    -110.803403,
+    32.229092
+],
   "geometry": {"coordinates":[-110.803403,32.229092],"type":"Point"}
 }

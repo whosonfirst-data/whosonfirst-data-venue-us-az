@@ -2,13 +2,14 @@
   "id": 153080105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.072612,33.457454,-112.072612,33.457454",
     "geom:latitude":33.457454,
     "geom:longitude":-112.072612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 N 1st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153080105,
-    "wof:lastmodified":1449040810,
+    "wof:lastmodified":1466328814,
     "wof:name":"CCBG Architects Inc",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.072612,33.457454,-112.072612,33.457454],
-  "geometry": {"coordinates":[-112.072612,33.457454],"type":"Point"}
+  "bbox": [
+    -112.072612,
+    33.457454,
+    -112.072612,
+    33.457454
+],
+  "geometry": {"coordinates":[-112.07261200000001,33.457454],"type":"Point"}
 }

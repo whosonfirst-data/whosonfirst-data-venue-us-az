@@ -2,13 +2,14 @@
   "id": 353892089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.457529,34.545364,-112.457529,34.545364",
     "geom:latitude":34.545364,
     "geom:longitude":-112.457529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 E Sheldon St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353892089,
-    "wof:lastmodified":1449018628,
+    "wof:lastmodified":1466331133,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-112.457529,34.545364,-112.457529,34.545364],
-  "geometry": {"coordinates":[-112.457529,34.545364],"type":"Point"}
+  "bbox": [
+    -112.457529,
+    34.545364,
+    -112.457529,
+    34.545364
+],
+  "geometry": {"coordinates":[-112.45752899999999,34.545364],"type":"Point"}
 }

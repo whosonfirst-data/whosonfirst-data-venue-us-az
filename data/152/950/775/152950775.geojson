@@ -2,13 +2,14 @@
   "id": 152950775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.196377,33.63049,-112.196377,33.63049",
     "geom:latitude":33.63049,
     "geom:longitude":-112.196377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15823 N 63rd Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877815,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152950775,
-    "wof:lastmodified":1449046111,
+    "wof:lastmodified":1466327424,
     "wof:name":"M & E Construction Inc",
     "wof:parent_id":85877815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.196377,33.63049,-112.196377,33.63049],
+  "bbox": [
+    -112.196377,
+    33.63049,
+    -112.196377,
+    33.63049
+],
   "geometry": {"coordinates":[-112.196377,33.63049],"type":"Point"}
 }

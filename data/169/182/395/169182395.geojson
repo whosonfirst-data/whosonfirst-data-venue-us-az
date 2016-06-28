@@ -2,13 +2,14 @@
   "id": 169182395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.741051,32.215307,-110.741051,32.215307",
     "geom:latitude":32.215307,
     "geom:longitude":-110.741051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11640 E Timrod St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169182395,
-    "wof:lastmodified":1449034774,
+    "wof:lastmodified":1466332163,
     "wof:name":"Raintree Supply",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.741051,32.215307,-110.741051,32.215307],
+  "bbox": [
+    -110.741051,
+    32.215307,
+    -110.741051,
+    32.215307
+],
   "geometry": {"coordinates":[-110.741051,32.215307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320834901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007982,33.582552,-112.007982,33.582552",
     "geom:latitude":33.582552,
     "geom:longitude":-112.007982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 E Shea Blvd Ste M",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320834901,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466330301,
     "wof:name":"Bergman & Associates Inc",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "resume"
     ]
 },
-  "bbox": [-112.007982,33.582552,-112.007982,33.582552],
+  "bbox": [
+    -112.007982,
+    33.582552,
+    -112.007982,
+    33.582552
+],
   "geometry": {"coordinates":[-112.007982,33.582552],"type":"Point"}
 }

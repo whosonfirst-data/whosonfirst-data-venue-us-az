@@ -2,13 +2,14 @@
   "id": 320773559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060563,33.580901,-112.060563,33.580901",
     "geom:latitude":33.580901,
     "geom:longitude":-112.060563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10410 N 9th St Unit 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320773559,
-    "wof:lastmodified":1449011725,
+    "wof:lastmodified":1466329295,
     "wof:name":"Dotty By Design",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-112.060563,33.580901,-112.060563,33.580901],
+  "bbox": [
+    -112.060563,
+    33.580901,
+    -112.060563,
+    33.580901
+],
   "geometry": {"coordinates":[-112.060563,33.580901],"type":"Point"}
 }

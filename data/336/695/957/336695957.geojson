@@ -2,13 +2,14 @@
   "id": 336695957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.986972,33.335203,-111.986972,33.335203",
     "geom:latitude":33.335203,
     "geom:longitude":-111.986972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12242 S 44th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336695957,
-    "wof:lastmodified":1448997352,
+    "wof:lastmodified":1466327933,
     "wof:name":"Southwest Youth Symphony",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "orchestra"
     ]
 },
-  "bbox": [-111.986972,33.335203,-111.986972,33.335203],
-  "geometry": {"coordinates":[-111.986972,33.335203],"type":"Point"}
+  "bbox": [
+    -111.986972,
+    33.335203,
+    -111.986972,
+    33.335203
+],
+  "geometry": {"coordinates":[-111.98697199999999,33.335203],"type":"Point"}
 }

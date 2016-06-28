@@ -2,13 +2,14 @@
   "id": 320760817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004194,33.481137,-112.004194,33.481137",
     "geom:latitude":33.481137,
     "geom:longitude":-112.004194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2936 N 36th St Apt 118",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320760817,
-    "wof:lastmodified":1449014823,
+    "wof:lastmodified":1466329083,
     "wof:name":"Pine Towers",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.004194,33.481137,-112.004194,33.481137],
+  "bbox": [
+    -112.004194,
+    33.481137,
+    -112.004194,
+    33.481137
+],
   "geometry": {"coordinates":[-112.004194,33.481137],"type":"Point"}
 }

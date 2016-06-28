@@ -2,13 +2,14 @@
   "id": 169306151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.404446,33.638915,-112.404446,33.638915",
     "geom:latitude":33.638915,
     "geom:longitude":-112.404446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15510 W Bell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169306151,
-    "wof:lastmodified":1449035807,
+    "wof:lastmodified":1466332959,
     "wof:name":"Bank Of America",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.404446,33.638915,-112.404446,33.638915],
-  "geometry": {"coordinates":[-112.404446,33.638915],"type":"Point"}
+  "bbox": [
+    -112.404446,
+    33.638915,
+    -112.404446,
+    33.638915
+],
+  "geometry": {"coordinates":[-112.40444599999999,33.638915],"type":"Point"}
 }

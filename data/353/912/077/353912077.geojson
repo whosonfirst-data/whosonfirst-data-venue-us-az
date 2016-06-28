@@ -2,13 +2,14 @@
   "id": 353912077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011513,35.252804,-114.011513,35.252804",
     "geom:latitude":35.252804,
     "geom:longitude":-114.011513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 N Bank St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353912077,
-    "wof:lastmodified":1449019523,
+    "wof:lastmodified":1466331152,
     "wof:name":"Monster Auto Sales",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-114.011513,35.252804,-114.011513,35.252804],
-  "geometry": {"coordinates":[-114.011513,35.252804],"type":"Point"}
+  "bbox": [
+    -114.011513,
+    35.252804,
+    -114.011513,
+    35.252804
+],
+  "geometry": {"coordinates":[-114.01151299999999,35.252804],"type":"Point"}
 }

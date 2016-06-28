@@ -2,13 +2,14 @@
   "id": 169283743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.255512,33.551808,-112.255512,33.551808",
     "geom:latitude":33.551808,
     "geom:longitude":-112.255512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9130 W Northern Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.spaandlube.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169283743,
-    "wof:lastmodified":1449033663,
+    "wof:lastmodified":1466332893,
     "wof:name":"Peoria Crossing Auto Spa",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.255512,33.551808,-112.255512,33.551808],
+  "bbox": [
+    -112.255512,
+    33.551808,
+    -112.255512,
+    33.551808
+],
   "geometry": {"coordinates":[-112.255512,33.551808],"type":"Point"}
 }

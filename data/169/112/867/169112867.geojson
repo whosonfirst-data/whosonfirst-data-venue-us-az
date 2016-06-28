@@ -2,13 +2,14 @@
   "id": 169112867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103926,32.981814,-112.103926,32.981814",
     "geom:latitude":32.981814,
     "geom:longitude":-112.103926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49937 W Julie Ln",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169112867,
-    "wof:lastmodified":1449034194,
+    "wof:lastmodified":1466331170,
     "wof:name":"Blanchard Enterprises",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103926,32.981814,-112.103926,32.981814],
+  "bbox": [
+    -112.103926,
+    32.981814,
+    -112.103926,
+    32.981814
+],
   "geometry": {"coordinates":[-112.103926,32.981814],"type":"Point"}
 }

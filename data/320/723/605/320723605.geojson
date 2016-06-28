@@ -2,13 +2,14 @@
   "id": 320723605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047531,33.513834,-112.047531,33.513834",
     "geom:latitude":33.513834,
     "geom:longitude":-112.047531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320723605,
-    "wof:lastmodified":1449013443,
+    "wof:lastmodified":1466328635,
     "wof:name":"Ces National, Inc.",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "environmental"
     ]
 },
-  "bbox": [-112.047531,33.513834,-112.047531,33.513834],
-  "geometry": {"coordinates":[-112.047531,33.513834],"type":"Point"}
+  "bbox": [
+    -112.047531,
+    33.513834,
+    -112.047531,
+    33.513834
+],
+  "geometry": {"coordinates":[-112.04753100000001,33.513834],"type":"Point"}
 }

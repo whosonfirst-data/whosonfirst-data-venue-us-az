@@ -2,13 +2,14 @@
   "id": 169401937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.762658,32.191175,-110.762658,32.191175",
     "geom:latitude":32.191175,
     "geom:longitude":-110.762658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11080 E Old Spanish Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169401937,
-    "wof:lastmodified":1449035471,
+    "wof:lastmodified":1466333971,
     "wof:name":"Lore Trek Inc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.762658,32.191175,-110.762658,32.191175],
+  "bbox": [
+    -110.762658,
+    32.191175,
+    -110.762658,
+    32.191175
+],
   "geometry": {"coordinates":[-110.762658,32.191175],"type":"Point"}
 }

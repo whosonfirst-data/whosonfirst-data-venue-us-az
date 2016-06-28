@@ -2,13 +2,14 @@
   "id": 169064015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.576738,32.685932,-114.576738,32.685932",
     "geom:latitude":32.685932,
     "geom:longitude":-114.576738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 E Gila Ridge Rd",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169064015,
-    "wof:lastmodified":1449033850,
+    "wof:lastmodified":1466329246,
     "wof:name":"Valley Pallet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.576738,32.685932,-114.576738,32.685932],
-  "geometry": {"coordinates":[-114.576738,32.685932],"type":"Point"}
+  "bbox": [
+    -114.576738,
+    32.685932,
+    -114.576738,
+    32.685932
+],
+  "geometry": {"coordinates":[-114.57673800000001,32.685932],"type":"Point"}
 }

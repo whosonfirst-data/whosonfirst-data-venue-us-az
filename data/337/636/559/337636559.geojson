@@ -2,13 +2,14 @@
   "id": 337636559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.900436,33.429348,-111.900436,33.429348",
     "geom:latitude":33.429348,
     "geom:longitude":-111.900436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E Rio Salado Pkwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":337636559,
-    "wof:lastmodified":1449027247,
+    "wof:lastmodified":1466327430,
     "wof:name":"GapBody",
     "wof:parent_id":85851911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "clothing-collectible"
     ]
 },
-  "bbox": [-111.900436,33.429348,-111.900436,33.429348],
+  "bbox": [
+    -111.900436,
+    33.429348,
+    -111.900436,
+    33.429348
+],
   "geometry": {"coordinates":[-111.900436,33.429348],"type":"Point"}
 }

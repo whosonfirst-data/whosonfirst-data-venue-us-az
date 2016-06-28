@@ -2,13 +2,14 @@
   "id": 169049197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.290721,33.619854,-112.290721,33.619854",
     "geom:latitude":33.619854,
     "geom:longitude":-112.290721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14817 N del Webb Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169049197,
-    "wof:lastmodified":1449034323,
+    "wof:lastmodified":1466328277,
     "wof:name":"Nargies Laundry & Cleaners",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.290721,33.619854,-112.290721,33.619854],
+  "bbox": [
+    -112.290721,
+    33.619854,
+    -112.290721,
+    33.619854
+],
   "geometry": {"coordinates":[-112.290721,33.619854],"type":"Point"}
 }

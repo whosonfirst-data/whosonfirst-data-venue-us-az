@@ -2,13 +2,14 @@
   "id": 152933671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.620155,32.723993,-114.620155,32.723993",
     "geom:latitude":32.723993,
     "geom:longitude":-114.620155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 W 2nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152933671,
-    "wof:lastmodified":1449045253,
+    "wof:lastmodified":1466326233,
     "wof:name":"Colorado River Pottery",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.620155,32.723993,-114.620155,32.723993],
+  "bbox": [
+    -114.620155,
+    32.723993,
+    -114.620155,
+    32.723993
+],
   "geometry": {"coordinates":[-114.620155,32.723993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353755267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.280411,33.464656,-112.280411,33.464656",
     "geom:latitude":33.464656,
     "geom:longitude":-112.280411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10240 W Mcdowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353755267,
-    "wof:lastmodified":1449018992,
+    "wof:lastmodified":1466330043,
     "wof:name":"Red Robin Gourmet Burgers",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "american"
     ]
 },
-  "bbox": [-112.280411,33.464656,-112.280411,33.464656],
+  "bbox": [
+    -112.280411,
+    33.464656,
+    -112.280411,
+    33.464656
+],
   "geometry": {"coordinates":[-112.280411,33.464656],"type":"Point"}
 }

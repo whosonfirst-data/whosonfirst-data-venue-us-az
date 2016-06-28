@@ -2,13 +2,14 @@
   "id": 153010257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.89916,32.52568,-110.89916,32.52568",
     "geom:latitude":32.52568,
     "geom:longitude":-110.89916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38759 S Mountain View Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153010257,
-    "wof:lastmodified":1449040650,
+    "wof:lastmodified":1466326063,
     "wof:name":"Mountain View Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.89916,32.52568,-110.89916,32.52568],
-  "geometry": {"coordinates":[-110.89916,32.52568],"type":"Point"}
+  "bbox": [
+    -110.89916,
+    32.52568,
+    -110.89916,
+    32.52568
+],
+  "geometry": {"coordinates":[-110.89915999999999,32.52568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169378405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.956784,33.614034,-111.956784,33.614034",
     "geom:latitude":33.614034,
     "geom:longitude":-111.956784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14023 N 57th Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169378405,
-    "wof:lastmodified":1449034919,
+    "wof:lastmodified":1466333782,
     "wof:name":"Featherriver Inc",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.956784,33.614034,-111.956784,33.614034],
+  "bbox": [
+    -111.956784,
+    33.614034,
+    -111.956784,
+    33.614034
+],
   "geometry": {"coordinates":[-111.956784,33.614034],"type":"Point"}
 }

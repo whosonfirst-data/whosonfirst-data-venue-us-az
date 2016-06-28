@@ -2,13 +2,14 @@
   "id": 320723417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047531,33.516905,-112.047531,33.516905",
     "geom:latitude":33.516905,
     "geom:longitude":-112.047531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320723417,
-    "wof:lastmodified":1449013442,
+    "wof:lastmodified":1466328630,
     "wof:name":"Madison 1 Elementary School",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.047531,33.516905,-112.047531,33.516905],
-  "geometry": {"coordinates":[-112.047531,33.516905],"type":"Point"}
+  "bbox": [
+    -112.047531,
+    33.516905,
+    -112.047531,
+    33.516905
+],
+  "geometry": {"coordinates":[-112.04753100000001,33.516905],"type":"Point"}
 }

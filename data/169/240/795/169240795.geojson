@@ -2,13 +2,14 @@
   "id": 169240795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.166013,33.641139,-112.166013,33.641139",
     "geom:latitude":33.641139,
     "geom:longitude":-112.166013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4953 W Joyce Cir",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169240795,
-    "wof:lastmodified":1449033015,
+    "wof:lastmodified":1466332433,
     "wof:name":"Chuck Hicks Building Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.166013,33.641139,-112.166013,33.641139],
-  "geometry": {"coordinates":[-112.166013,33.641139],"type":"Point"}
+  "bbox": [
+    -112.166013,
+    33.641139,
+    -112.166013,
+    33.641139
+],
+  "geometry": {"coordinates":[-112.16601300000001,33.641139],"type":"Point"}
 }

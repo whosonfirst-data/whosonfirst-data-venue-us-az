@@ -2,13 +2,14 @@
   "id": 153064601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.904423,33.596648,-111.904423,33.596648",
     "geom:latitude":33.596648,
     "geom:longitude":-111.904423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8124 E Cactus Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808393,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85808393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153064601,
-    "wof:lastmodified":1449040501,
+    "wof:lastmodified":1466328252,
     "wof:name":"Manny Demiguel Agency",
     "wof:parent_id":85808393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.904423,33.596648,-111.904423,33.596648],
-  "geometry": {"coordinates":[-111.904423,33.596648],"type":"Point"}
+  "bbox": [
+    -111.904423,
+    33.596648,
+    -111.904423,
+    33.596648
+],
+  "geometry": {"coordinates":[-111.90442299999999,33.596648],"type":"Point"}
 }

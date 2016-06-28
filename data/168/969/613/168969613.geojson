@@ -2,13 +2,14 @@
   "id": 168969613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968291,32.172351,-110.968291,32.172351",
     "geom:latitude":32.172351,
     "geom:longitude":-110.968291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4312 S 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168969613,
-    "wof:lastmodified":1449027952,
+    "wof:lastmodified":1466331359,
     "wof:name":"Rays Auto Paint and Supplies",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.968291,32.172351,-110.968291,32.172351],
-  "geometry": {"coordinates":[-110.968291,32.172351],"type":"Point"}
+  "bbox": [
+    -110.968291,
+    32.172351,
+    -110.968291,
+    32.172351
+],
+  "geometry": {"coordinates":[-110.96829099999999,32.172351],"type":"Point"}
 }

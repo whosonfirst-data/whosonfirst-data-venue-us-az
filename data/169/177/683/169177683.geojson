@@ -2,13 +2,14 @@
   "id": 169177683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.836796,32.206563,-110.836796,32.206563",
     "geom:latitude":32.206563,
     "geom:longitude":-110.836796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7107 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.desertrat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169177683,
-    "wof:lastmodified":1449035965,
+    "wof:lastmodified":1466331996,
     "wof:name":"Desert Rat Truck Ctr",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.836796,32.206563,-110.836796,32.206563],
-  "geometry": {"coordinates":[-110.836796,32.206563],"type":"Point"}
+  "bbox": [
+    -110.836796,
+    32.206563,
+    -110.836796,
+    32.206563
+],
+  "geometry": {"coordinates":[-110.83679600000001,32.206563],"type":"Point"}
 }

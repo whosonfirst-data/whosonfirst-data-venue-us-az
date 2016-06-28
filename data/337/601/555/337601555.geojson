@@ -2,13 +2,14 @@
   "id": 337601555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893442,33.582122,-111.893442,33.582122",
     "geom:latitude":33.582122,
     "geom:longitude":-111.893442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8752 E Shea Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":337601555,
-    "wof:lastmodified":1449027305,
+    "wof:lastmodified":1466327127,
     "wof:name":"Massage Envy - Shea",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "health"
     ]
 },
-  "bbox": [-111.893442,33.582122,-111.893442,33.582122],
-  "geometry": {"coordinates":[-111.893442,33.582122],"type":"Point"}
+  "bbox": [
+    -111.893442,
+    33.582122,
+    -111.893442,
+    33.582122
+],
+  "geometry": {"coordinates":[-111.89344199999999,33.582122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168874201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.872824,33.396918,-110.872824,33.396918",
     "geom:latitude":33.396918,
     "geom:longitude":-110.872824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Live Oak St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168874201,
-    "wof:lastmodified":1449028551,
+    "wof:lastmodified":1466327819,
     "wof:name":"Sonys Fast Stop",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.872824,33.396918,-110.872824,33.396918],
-  "geometry": {"coordinates":[-110.872824,33.396918],"type":"Point"}
+  "bbox": [
+    -110.872824,
+    33.396918,
+    -110.872824,
+    33.396918
+],
+  "geometry": {"coordinates":[-110.87282399999999,33.396918],"type":"Point"}
 }

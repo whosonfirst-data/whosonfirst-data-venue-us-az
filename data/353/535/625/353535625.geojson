@@ -2,13 +2,14 @@
   "id": 353535625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.75819,33.305232,-111.75819,33.305232",
     "geom:latitude":33.305232,
     "geom:longitude":-111.75819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 E. Williams Field Rd Suite 101",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353535625,
-    "wof:lastmodified":1449018711,
+    "wof:lastmodified":1466327970,
     "wof:name":"Pita Jungle",
     "wof:parent_id":85876649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mediterranean"
     ]
 },
-  "bbox": [-111.75819,33.305232,-111.75819,33.305232],
+  "bbox": [
+    -111.75819,
+    33.305232,
+    -111.75819,
+    33.305232
+],
   "geometry": {"coordinates":[-111.75819,33.305232],"type":"Point"}
 }

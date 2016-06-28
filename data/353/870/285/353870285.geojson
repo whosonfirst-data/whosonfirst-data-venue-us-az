@@ -2,13 +2,14 @@
   "id": 353870285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.703343,35.104089,-111.703343,35.104089",
     "geom:latitude":35.104089,
     "geom:longitude":-111.703343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Forest Highlands",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353870285,
-    "wof:lastmodified":1449018930,
+    "wof:lastmodified":1466330934,
     "wof:name":"Forest Highlands Golf Club",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.703343,35.104089,-111.703343,35.104089],
+  "bbox": [
+    -111.703343,
+    35.104089,
+    -111.703343,
+    35.104089
+],
   "geometry": {"coordinates":[-111.703343,35.104089],"type":"Point"}
 }

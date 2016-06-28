@@ -2,13 +2,14 @@
   "id": 169356209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.84109,32.093738,-110.84109,32.093738",
     "geom:latitude":32.093738,
     "geom:longitude":-110.84109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 S Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169356209,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1466333558,
     "wof:name":"Commercial Federal Bank",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.84109,32.093738,-110.84109,32.093738],
-  "geometry": {"coordinates":[-110.84109,32.093738],"type":"Point"}
+  "bbox": [
+    -110.84109,
+    32.093738,
+    -110.84109,
+    32.093738
+],
+  "geometry": {"coordinates":[-110.84108999999999,32.093738],"type":"Point"}
 }

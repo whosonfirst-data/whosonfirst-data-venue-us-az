@@ -2,13 +2,14 @@
   "id": 353879835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.587697,35.216335,-111.587697,35.216335",
     "geom:latitude":35.216335,
     "geom:longitude":-111.587697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4159 E Huntington Dr B",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353879835,
-    "wof:lastmodified":1449018285,
+    "wof:lastmodified":1466330966,
     "wof:name":"American Red Ball World Wide",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.587697,35.216335,-111.587697,35.216335],
-  "geometry": {"coordinates":[-111.587697,35.216335],"type":"Point"}
+  "bbox": [
+    -111.587697,
+    35.216335,
+    -111.587697,
+    35.216335
+],
+  "geometry": {"coordinates":[-111.58769700000001,35.216335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169402519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.95909,32.183728,-110.95909,32.183728",
     "geom:latitude":32.183728,
     "geom:longitude":-110.95909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 E 44th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.rushenterprises.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169402519,
-    "wof:lastmodified":1449033747,
+    "wof:lastmodified":1466334032,
     "wof:name":"Rush Peterbilt Truck Ctr",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.95909,32.183728,-110.95909,32.183728],
+  "bbox": [
+    -110.95909,
+    32.183728,
+    -110.95909,
+    32.183728
+],
   "geometry": {"coordinates":[-110.95909,32.183728],"type":"Point"}
 }

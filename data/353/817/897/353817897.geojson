@@ -2,13 +2,14 @@
   "id": 353817897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841164,32.20285,-110.841164,32.20285",
     "geom:latitude":32.20285,
     "geom:longitude":-110.841164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7073 E Calle Bellatrix",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353817897,
-    "wof:lastmodified":1449020326,
+    "wof:lastmodified":1466330492,
     "wof:name":"Dimension 3",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-110.841164,32.20285,-110.841164,32.20285],
-  "geometry": {"coordinates":[-110.841164,32.20285],"type":"Point"}
+  "bbox": [
+    -110.841164,
+    32.20285,
+    -110.841164,
+    32.20285
+],
+  "geometry": {"coordinates":[-110.84116400000001,32.20285],"type":"Point"}
 }

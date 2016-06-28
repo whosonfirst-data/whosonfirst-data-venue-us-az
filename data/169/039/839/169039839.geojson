@@ -2,13 +2,14 @@
   "id": 169039839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.674203,33.450825,-111.674203,33.450825",
     "geom:latitude":33.450825,
     "geom:longitude":-111.674203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7343 E June St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840319,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85840319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169039839,
-    "wof:lastmodified":1449035545,
+    "wof:lastmodified":1466327734,
     "wof:name":"B & G Sharpening Solutions",
     "wof:parent_id":85840319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.674203,33.450825,-111.674203,33.450825],
-  "geometry": {"coordinates":[-111.674203,33.450825],"type":"Point"}
+  "bbox": [
+    -111.674203,
+    33.450825,
+    -111.674203,
+    33.450825
+],
+  "geometry": {"coordinates":[-111.67420300000001,33.450825],"type":"Point"}
 }

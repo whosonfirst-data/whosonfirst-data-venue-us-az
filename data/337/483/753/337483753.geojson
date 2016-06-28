@@ -2,13 +2,14 @@
   "id": 337483753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.904021,33.485353,-111.904021,33.485353",
     "geom:latitude":33.485353,
     "geom:longitude":-111.904021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 N 82nd Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337483753,
-    "wof:lastmodified":1449027579,
+    "wof:lastmodified":1466326103,
     "wof:name":"Karmachasm",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "publisher"
     ]
 },
-  "bbox": [-111.904021,33.485353,-111.904021,33.485353],
+  "bbox": [
+    -111.904021,
+    33.485353,
+    -111.904021,
+    33.485353
+],
   "geometry": {"coordinates":[-111.904021,33.485353],"type":"Point"}
 }

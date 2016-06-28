@@ -2,13 +2,14 @@
   "id": 169273003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943356,32.291941,-110.943356,32.291941",
     "geom:latitude":32.291941,
     "geom:longitude":-110.943356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1961 E Campbell Ter",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169273003,
-    "wof:lastmodified":1449034397,
+    "wof:lastmodified":1466332946,
     "wof:name":"Michael N Ashurst and Karen K",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943356,32.291941,-110.943356,32.291941],
-  "geometry": {"coordinates":[-110.943356,32.291941],"type":"Point"}
+  "bbox": [
+    -110.943356,
+    32.291941,
+    -110.943356,
+    32.291941
+],
+  "geometry": {"coordinates":[-110.94335599999999,32.291941],"type":"Point"}
 }

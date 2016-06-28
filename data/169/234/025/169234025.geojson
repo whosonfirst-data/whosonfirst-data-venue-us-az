@@ -2,13 +2,14 @@
   "id": 169234025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.082415,34.504594,-110.082415,34.504594",
     "geom:latitude":34.504594,
     "geom:longitude":-110.082415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 N 2nd St W",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169234025,
-    "wof:lastmodified":1449035781,
+    "wof:lastmodified":1466332431,
     "wof:name":"W3 Enterprises LLC",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.082415,34.504594,-110.082415,34.504594],
+  "bbox": [
+    -110.082415,
+    34.504594,
+    -110.082415,
+    34.504594
+],
   "geometry": {"coordinates":[-110.082415,34.504594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353800103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.83162,32.253791,-109.83162,32.253791",
     "geom:latitude":32.253791,
     "geom:longitude":-109.83162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 N Haskell Ave Ste A",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353800103,
-    "wof:lastmodified":1449018460,
+    "wof:lastmodified":1466330251,
     "wof:name":"Red Nine Salon",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.83162,32.253791,-109.83162,32.253791],
+  "bbox": [
+    -109.83162,
+    32.253791,
+    -109.83162,
+    32.253791
+],
   "geometry": {"coordinates":[-109.83162,32.253791],"type":"Point"}
 }

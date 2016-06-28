@@ -2,13 +2,14 @@
   "id": 169305225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.907421,32.163206,-110.907421,32.163206",
     "geom:latitude":32.163206,
     "geom:longitude":-110.907421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169305225,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1466333019,
     "wof:name":"Vista Guardian LLC",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.907421,32.163206,-110.907421,32.163206],
+  "bbox": [
+    -110.907421,
+    32.163206,
+    -110.907421,
+    32.163206
+],
   "geometry": {"coordinates":[-110.907421,32.163206],"type":"Point"}
 }

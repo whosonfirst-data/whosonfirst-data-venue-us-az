@@ -2,13 +2,14 @@
   "id": 168978325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16471,33.535735,-112.16471,33.535735",
     "geom:latitude":33.535735,
     "geom:longitude":-112.16471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6727 N 49th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877783,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168978325,
-    "wof:lastmodified":1449028212,
+    "wof:lastmodified":1466331434,
     "wof:name":"Enterprise Electric",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16471,33.535735,-112.16471,33.535735],
+  "bbox": [
+    -112.16471,
+    33.535735,
+    -112.16471,
+    33.535735
+],
   "geometry": {"coordinates":[-112.16471,33.535735],"type":"Point"}
 }

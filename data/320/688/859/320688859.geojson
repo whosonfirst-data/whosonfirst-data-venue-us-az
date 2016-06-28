@@ -2,13 +2,14 @@
   "id": 320688859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05419,33.494701,-112.05419,33.494701",
     "geom:latitude":33.494701,
     "geom:longitude":-112.05419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -90,10 +91,11 @@
         }
     ],
     "wof:id":320688859,
-    "wof:lastmodified":1449012676,
+    "wof:lastmodified":1466328094,
     "wof:name":"Mike's Auto Repair & Sales",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -118,6 +120,11 @@
         "car"
     ]
 },
-  "bbox": [-112.05419,33.494701,-112.05419,33.494701],
-  "geometry": {"coordinates":[-112.05419,33.494701],"type":"Point"}
+  "bbox": [
+    -112.05419,
+    33.494701,
+    -112.05419,
+    33.494701
+],
+  "geometry": {"coordinates":[-112.05419000000001,33.494701],"type":"Point"}
 }

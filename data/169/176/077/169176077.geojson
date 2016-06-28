@@ -2,13 +2,14 @@
   "id": 169176077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.90256,33.523974,-111.90256,33.523974",
     "geom:latitude":33.523974,
     "geom:longitude":-111.90256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8310 E McDonald Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858851,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85858851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169176077,
-    "wof:lastmodified":1449034838,
+    "wof:lastmodified":1466331952,
     "wof:name":"Cretemaster Contracting Inc",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.90256,33.523974,-111.90256,33.523974],
-  "geometry": {"coordinates":[-111.90256,33.523974],"type":"Point"}
+  "bbox": [
+    -111.90256,
+    33.523974,
+    -111.90256,
+    33.523974
+],
+  "geometry": {"coordinates":[-111.90255999999999,33.523974],"type":"Point"}
 }

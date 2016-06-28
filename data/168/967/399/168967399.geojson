@@ -2,13 +2,14 @@
   "id": 168967399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.474434,31.956326,-110.474434,31.956326",
     "geom:latitude":31.956326,
     "geom:longitude":-110.474434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16435 S Shoshone Trl",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168967399,
-    "wof:lastmodified":1449028537,
+    "wof:lastmodified":1466331215,
     "wof:name":"Klassey Kreations",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.474434,31.956326,-110.474434,31.956326],
+  "bbox": [
+    -110.474434,
+    31.956326,
+    -110.474434,
+    31.956326
+],
   "geometry": {"coordinates":[-110.474434,31.956326],"type":"Point"}
 }

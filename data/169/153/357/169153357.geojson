@@ -2,13 +2,14 @@
   "id": 169153357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.110579,33.63723,-112.110579,33.63723",
     "geom:latitude":33.63723,
     "geom:longitude":-112.110579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 W Phelps Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169153357,
-    "wof:lastmodified":1449034968,
+    "wof:lastmodified":1466331789,
     "wof:name":"Sna Graphics",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.110579,33.63723,-112.110579,33.63723],
+  "bbox": [
+    -112.110579,
+    33.63723,
+    -112.110579,
+    33.63723
+],
   "geometry": {"coordinates":[-112.110579,33.63723],"type":"Point"}
 }

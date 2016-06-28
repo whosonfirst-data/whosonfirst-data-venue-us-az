@@ -2,13 +2,14 @@
   "id": 168888953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.831763,33.306115,-111.831763,33.306115",
     "geom:latitude":33.306115,
     "geom:longitude":-111.831763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 E Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876651,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168888953,
-    "wof:lastmodified":1449028266,
+    "wof:lastmodified":1466328842,
     "wof:name":"Express Line Mortgage Inc",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.831763,33.306115,-111.831763,33.306115],
+  "bbox": [
+    -111.831763,
+    33.306115,
+    -111.831763,
+    33.306115
+],
   "geometry": {"coordinates":[-111.831763,33.306115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169131529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.211821,33.490652,-112.211821,33.490652",
     "geom:latitude":33.490652,
     "geom:longitude":-112.211821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3645 N 71st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169131529,
-    "wof:lastmodified":1449033680,
+    "wof:lastmodified":1466331531,
     "wof:name":"F E R Service Solutions",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.211821,33.490652,-112.211821,33.490652],
+  "bbox": [
+    -112.211821,
+    33.490652,
+    -112.211821,
+    33.490652
+],
   "geometry": {"coordinates":[-112.211821,33.490652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353758515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.28488,33.464589,-112.28488,33.464589",
     "geom:latitude":33.464589,
     "geom:longitude":-112.28488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 W Mcdowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353758515,
-    "wof:lastmodified":1449019027,
+    "wof:lastmodified":1466330299,
     "wof:name":"Valle Del Sol",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "counselor"
     ]
 },
-  "bbox": [-112.28488,33.464589,-112.28488,33.464589],
+  "bbox": [
+    -112.28488,
+    33.464589,
+    -112.28488,
+    33.464589
+],
   "geometry": {"coordinates":[-112.28488,33.464589],"type":"Point"}
 }

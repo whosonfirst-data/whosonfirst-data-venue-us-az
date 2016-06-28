@@ -2,13 +2,14 @@
   "id": 169291517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003247,33.805792,-112.003247,33.805792",
     "geom:latitude":33.805792,
     "geom:longitude":-112.003247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35216 N 36th Pl",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169291517,
-    "wof:lastmodified":1449033704,
+    "wof:lastmodified":1466332890,
     "wof:name":"Empire Stone & Tile Inc",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003247,33.805792,-112.003247,33.805792],
+  "bbox": [
+    -112.003247,
+    33.805792,
+    -112.003247,
+    33.805792
+],
   "geometry": {"coordinates":[-112.003247,33.805792],"type":"Point"}
 }

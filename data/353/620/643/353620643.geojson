@@ -2,13 +2,14 @@
   "id": 353620643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.343821,33.435552,-112.343821,33.435552",
     "geom:latitude":33.435552,
     "geom:longitude":-112.343821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 E Western Ave",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353620643,
-    "wof:lastmodified":1449020593,
+    "wof:lastmodified":1466328798,
     "wof:name":"Western Avenue Baptist Church",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-baptist"
     ]
 },
-  "bbox": [-112.343821,33.435552,-112.343821,33.435552],
-  "geometry": {"coordinates":[-112.343821,33.435552],"type":"Point"}
+  "bbox": [
+    -112.343821,
+    33.435552,
+    -112.343821,
+    33.435552
+],
+  "geometry": {"coordinates":[-112.34382100000001,33.435552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169252449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.184994,33.544882,-112.184994,33.544882",
     "geom:latitude":33.544882,
     "geom:longitude":-112.184994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7308 N 58th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877785,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169252449,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466332538,
     "wof:name":"Alices Stained Glass",
     "wof:parent_id":85877785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.184994,33.544882,-112.184994,33.544882],
+  "bbox": [
+    -112.184994,
+    33.544882,
+    -112.184994,
+    33.544882
+],
   "geometry": {"coordinates":[-112.184994,33.544882],"type":"Point"}
 }

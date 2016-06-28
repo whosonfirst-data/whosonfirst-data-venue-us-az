@@ -2,13 +2,14 @@
   "id": 320828273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131528,33.668003,-112.131528,33.668003",
     "geom:latitude":33.668003,
     "geom:longitude":-112.131528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20002 N 33rd Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320828273,
-    "wof:lastmodified":1449013148,
+    "wof:lastmodified":1466330166,
     "wof:name":"A Darker Shade",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "tinting"
     ]
 },
-  "bbox": [-112.131528,33.668003,-112.131528,33.668003],
+  "bbox": [
+    -112.131528,
+    33.668003,
+    -112.131528,
+    33.668003
+],
   "geometry": {"coordinates":[-112.131528,33.668003],"type":"Point"}
 }

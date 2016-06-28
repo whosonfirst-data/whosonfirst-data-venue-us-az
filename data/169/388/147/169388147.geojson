@@ -2,13 +2,14 @@
   "id": 169388147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.868653,32.546671,-110.868653,32.546671",
     "geom:latitude":32.546671,
     "geom:longitude":-110.868653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36395 S Wind Crest Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169388147,
-    "wof:lastmodified":1449032815,
+    "wof:lastmodified":1466333847,
     "wof:name":"GEO Trans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.868653,32.546671,-110.868653,32.546671],
-  "geometry": {"coordinates":[-110.868653,32.546671],"type":"Point"}
+  "bbox": [
+    -110.868653,
+    32.546671,
+    -110.868653,
+    32.546671
+],
+  "geometry": {"coordinates":[-110.86865299999999,32.546671],"type":"Point"}
 }

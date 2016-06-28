@@ -2,13 +2,14 @@
   "id": 169278801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.811241,34.862919,-111.811241,34.862919",
     "geom:latitude":34.862919,
     "geom:longitude":-111.811241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Tortilla Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.sedonacom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169278801,
-    "wof:lastmodified":1449034516,
+    "wof:lastmodified":1466332746,
     "wof:name":"Sedona Training Assoc",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.811241,34.862919,-111.811241,34.862919],
+  "bbox": [
+    -111.811241,
+    34.862919,
+    -111.811241,
+    34.862919
+],
   "geometry": {"coordinates":[-111.811241,34.862919],"type":"Point"}
 }

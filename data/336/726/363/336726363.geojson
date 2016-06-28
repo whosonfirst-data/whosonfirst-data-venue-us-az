@@ -2,13 +2,14 @@
   "id": 336726363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149237,33.610674,-112.149237,33.610674",
     "geom:latitude":33.610674,
     "geom:longitude":-112.149237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 W Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336726363,
-    "wof:lastmodified":1448997663,
+    "wof:lastmodified":1466328452,
     "wof:name":"USPS - United States Post Office - CPU Montys Hallmark",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-112.149237,33.610674,-112.149237,33.610674],
+  "bbox": [
+    -112.149237,
+    33.610674,
+    -112.149237,
+    33.610674
+],
   "geometry": {"coordinates":[-112.149237,33.610674],"type":"Point"}
 }

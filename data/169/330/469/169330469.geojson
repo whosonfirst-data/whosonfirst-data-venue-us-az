@@ -2,13 +2,14 @@
   "id": 169330469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.920203,32.497187,-110.920203,32.497187",
     "geom:latitude":32.497187,
     "geom:longitude":-110.920203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 E Graham St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169330469,
-    "wof:lastmodified":1449034337,
+    "wof:lastmodified":1466333307,
     "wof:name":"Tucson Lutheran Homes",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.920203,32.497187,-110.920203,32.497187],
+  "bbox": [
+    -110.920203,
+    32.497187,
+    -110.920203,
+    32.497187
+],
   "geometry": {"coordinates":[-110.920203,32.497187],"type":"Point"}
 }

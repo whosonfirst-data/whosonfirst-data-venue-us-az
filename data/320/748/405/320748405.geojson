@@ -2,13 +2,14 @@
   "id": 320748405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.985875,33.503949,-111.985875,33.503949",
     "geom:latitude":33.503949,
     "geom:longitude":-111.985875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 E Calle Redonda",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320748405,
-    "wof:lastmodified":1449014053,
+    "wof:lastmodified":1466329047,
     "wof:name":"Holt Advisory Group",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-111.985875,33.503949,-111.985875,33.503949],
-  "geometry": {"coordinates":[-111.985875,33.503949],"type":"Point"}
+  "bbox": [
+    -111.985875,
+    33.503949,
+    -111.985875,
+    33.503949
+],
+  "geometry": {"coordinates":[-111.98587499999999,33.503949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169377113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.079063,33.683676,-112.079063,33.683676",
     "geom:latitude":33.683676,
     "geom:longitude":-112.079063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     "sg:website":"www.designerdoorsaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169377113,
-    "wof:lastmodified":1449033933,
+    "wof:lastmodified":1466333702,
     "wof:name":"Designer Doors Inc",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.079063,33.683676,-112.079063,33.683676],
+  "bbox": [
+    -112.079063,
+    33.683676,
+    -112.079063,
+    33.683676
+],
   "geometry": {"coordinates":[-112.079063,33.683676],"type":"Point"}
 }

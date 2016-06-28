@@ -2,13 +2,14 @@
   "id": 336930817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.764991,33.350116,-111.764991,33.350116",
     "geom:latitude":33.350116,
     "geom:longitude":-111.764991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 E Elliot Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336930817,
-    "wof:lastmodified":1448997285,
+    "wof:lastmodified":1466330694,
     "wof:name":"Ward 13th Gilbert",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-111.764991,33.350116,-111.764991,33.350116],
-  "geometry": {"coordinates":[-111.764991,33.350116],"type":"Point"}
+  "bbox": [
+    -111.764991,
+    33.350116,
+    -111.764991,
+    33.350116
+],
+  "geometry": {"coordinates":[-111.76499099999999,33.350116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168920943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.59507,32.705741,-114.59507,32.705741",
     "geom:latitude":32.705741,
     "geom:longitude":-114.59507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 E Burr St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168920943,
-    "wof:lastmodified":1449028396,
+    "wof:lastmodified":1466330371,
     "wof:name":"Golden West Trailer Park",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.59507,32.705741,-114.59507,32.705741],
-  "geometry": {"coordinates":[-114.59507,32.705741],"type":"Point"}
+  "bbox": [
+    -114.59507,
+    32.705741,
+    -114.59507,
+    32.705741
+],
+  "geometry": {"coordinates":[-114.59507000000001,32.705741],"type":"Point"}
 }

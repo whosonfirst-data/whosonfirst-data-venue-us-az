@@ -2,13 +2,14 @@
   "id": 353498879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908185,33.378432,-111.908185,33.378432",
     "geom:latitude":33.378432,
     "geom:longitude":-111.908185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 E Baseline Rd Ste 2",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353498879,
-    "wof:lastmodified":1449020194,
+    "wof:lastmodified":1466327156,
     "wof:name":"Wong's Place",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "pan"
     ]
 },
-  "bbox": [-111.908185,33.378432,-111.908185,33.378432],
+  "bbox": [
+    -111.908185,
+    33.378432,
+    -111.908185,
+    33.378432
+],
   "geometry": {"coordinates":[-111.908185,33.378432],"type":"Point"}
 }

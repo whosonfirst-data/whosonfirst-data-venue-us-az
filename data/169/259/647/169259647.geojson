@@ -2,13 +2,14 @@
   "id": 169259647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.513719,33.424481,-111.513719,33.424481",
     "geom:latitude":33.424481,
     "geom:longitude":-111.513719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 N Hilton Rd",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169259647,
-    "wof:lastmodified":1449033444,
+    "wof:lastmodified":1466332580,
     "wof:name":"Klm Innovations",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.513719,33.424481,-111.513719,33.424481],
-  "geometry": {"coordinates":[-111.513719,33.424481],"type":"Point"}
+  "bbox": [
+    -111.513719,
+    33.424481,
+    -111.513719,
+    33.424481
+],
+  "geometry": {"coordinates":[-111.51371899999999,33.424481],"type":"Point"}
 }

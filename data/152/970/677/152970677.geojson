@@ -2,13 +2,14 @@
   "id": 152970677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965677,32.229996,-110.965677,32.229996",
     "geom:latitude":32.229996,
     "geom:longitude":-110.965677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 N 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152970677,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1466328471,
     "wof:name":"Cabat-Gill Advertising Agency",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965677,32.229996,-110.965677,32.229996],
+  "bbox": [
+    -110.965677,
+    32.229996,
+    -110.965677,
+    32.229996
+],
   "geometry": {"coordinates":[-110.965677,32.229996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169313159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.734804,33.735571,-111.734804,33.735571",
     "geom:latitude":33.735571,
     "geom:longitude":-111.734804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27411 N 160th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169313159,
-    "wof:lastmodified":1449032786,
+    "wof:lastmodified":1466333248,
     "wof:name":"Al Dunning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.734804,33.735571,-111.734804,33.735571],
+  "bbox": [
+    -111.734804,
+    33.735571,
+    -111.734804,
+    33.735571
+],
   "geometry": {"coordinates":[-111.734804,33.735571],"type":"Point"}
 }

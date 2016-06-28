@@ -2,13 +2,14 @@
   "id": 168950401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.713255,31.98038,-110.713255,31.98038",
     "geom:latitude":31.98038,
     "geom:longitude":-110.713255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 N Darlene Dr",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168950401,
-    "wof:lastmodified":1449028070,
+    "wof:lastmodified":1466331003,
     "wof:name":"Floor Cloths & More Inc",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.713255,31.98038,-110.713255,31.98038],
+  "bbox": [
+    -110.713255,
+    31.98038,
+    -110.713255,
+    31.98038
+],
   "geometry": {"coordinates":[-110.713255,31.98038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169295999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857953,32.241005,-110.857953,32.241005",
     "geom:latitude":32.241005,
     "geom:longitude":-110.857953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 N Wilmot Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169295999,
-    "wof:lastmodified":1449034020,
+    "wof:lastmodified":1466332777,
     "wof:name":"ACE Cash Advance",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.857953,32.241005,-110.857953,32.241005],
-  "geometry": {"coordinates":[-110.857953,32.241005],"type":"Point"}
+  "bbox": [
+    -110.857953,
+    32.241005,
+    -110.857953,
+    32.241005
+],
+  "geometry": {"coordinates":[-110.85795299999999,32.241005],"type":"Point"}
 }

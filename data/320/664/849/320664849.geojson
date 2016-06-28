@@ -2,13 +2,14 @@
   "id": 320664849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117118,33.47339,-112.117118,33.47339",
     "geom:latitude":33.47339,
     "geom:longitude":-112.117118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320664849,
-    "wof:lastmodified":1449012661,
+    "wof:lastmodified":1466327390,
     "wof:name":"John's On 27th Avenue",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-112.117118,33.47339,-112.117118,33.47339],
+  "bbox": [
+    -112.117118,
+    33.47339,
+    -112.117118,
+    33.47339
+],
   "geometry": {"coordinates":[-112.117118,33.47339],"type":"Point"}
 }

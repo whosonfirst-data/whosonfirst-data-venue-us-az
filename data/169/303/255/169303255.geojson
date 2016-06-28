@@ -2,13 +2,14 @@
   "id": 169303255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.601683,35.221109,-111.601683,35.221109",
     "geom:latitude":35.221109,
     "geom:longitude":-111.601683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 N Manor Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169303255,
-    "wof:lastmodified":1449032712,
+    "wof:lastmodified":1466333019,
     "wof:name":"Pamms Edd",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.601683,35.221109,-111.601683,35.221109],
-  "geometry": {"coordinates":[-111.601683,35.221109],"type":"Point"}
+  "bbox": [
+    -111.601683,
+    35.221109,
+    -111.601683,
+    35.221109
+],
+  "geometry": {"coordinates":[-111.60168299999999,35.221109],"type":"Point"}
 }

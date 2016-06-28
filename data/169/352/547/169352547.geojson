@@ -2,13 +2,14 @@
   "id": 169352547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.342081,34.475629,-114.342081,34.475629",
     "geom:latitude":34.475629,
     "geom:longitude":-114.342081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 McCulloch Blvd N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169352547,
-    "wof:lastmodified":1449034711,
+    "wof:lastmodified":1466333554,
     "wof:name":"Lake Havasu Gift Gallery",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.342081,34.475629,-114.342081,34.475629],
-  "geometry": {"coordinates":[-114.342081,34.475629],"type":"Point"}
+  "bbox": [
+    -114.342081,
+    34.475629,
+    -114.342081,
+    34.475629
+],
+  "geometry": {"coordinates":[-114.34208099999999,34.475629],"type":"Point"}
 }

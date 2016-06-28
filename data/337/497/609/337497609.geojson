@@ -2,13 +2,14 @@
   "id": 337497609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925714,33.617593,-111.925714,33.617593",
     "geom:latitude":33.617593,
     "geom:longitude":-111.925714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14555 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337497609,
-    "wof:lastmodified":1449027728,
+    "wof:lastmodified":1466326230,
     "wof:name":"Worldwide Jet Charter",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "aircraft-charter"
     ]
 },
-  "bbox": [-111.925714,33.617593,-111.925714,33.617593],
+  "bbox": [
+    -111.925714,
+    33.617593,
+    -111.925714,
+    33.617593
+],
   "geometry": {"coordinates":[-111.925714,33.617593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169344329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991396,33.303161,-111.991396,33.303161",
     "geom:latitude":33.303161,
     "geom:longitude":-111.991396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15818 S 43rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169344329,
-    "wof:lastmodified":1449032850,
+    "wof:lastmodified":1466333448,
     "wof:name":"Stadel Licencing",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.991396,33.303161,-111.991396,33.303161],
-  "geometry": {"coordinates":[-111.991396,33.303161],"type":"Point"}
+  "bbox": [
+    -111.991396,
+    33.303161,
+    -111.991396,
+    33.303161
+],
+  "geometry": {"coordinates":[-111.99139599999999,33.303161],"type":"Point"}
 }

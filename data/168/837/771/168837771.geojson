@@ -2,13 +2,14 @@
   "id": 168837771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.806592,34.86257,-111.806592,34.86257",
     "geom:latitude":34.86257,
     "geom:longitude":-111.806592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2679 W Hwy 89A",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168837771,
-    "wof:lastmodified":1449027891,
+    "wof:lastmodified":1466326864,
     "wof:name":"West End One On One Fitness",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.806592,34.86257,-111.806592,34.86257],
-  "geometry": {"coordinates":[-111.806592,34.86257],"type":"Point"}
+  "bbox": [
+    -111.806592,
+    34.86257,
+    -111.806592,
+    34.86257
+],
+  "geometry": {"coordinates":[-111.80659199999999,34.86257],"type":"Point"}
 }

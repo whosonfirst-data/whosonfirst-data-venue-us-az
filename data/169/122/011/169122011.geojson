@@ -2,13 +2,14 @@
   "id": 169122011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.913755,32.167247,-110.913755,32.167247",
     "geom:latitude":32.167247,
     "geom:longitude":-110.913755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 S Coach Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169122011,
-    "wof:lastmodified":1449034560,
+    "wof:lastmodified":1466331308,
     "wof:name":"Ballast Technologies Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.913755,32.167247,-110.913755,32.167247],
-  "geometry": {"coordinates":[-110.913755,32.167247],"type":"Point"}
+  "bbox": [
+    -110.913755,
+    32.167247,
+    -110.913755,
+    32.167247
+],
+  "geometry": {"coordinates":[-110.91375499999999,32.167247],"type":"Point"}
 }

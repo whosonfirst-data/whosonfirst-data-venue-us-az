@@ -2,13 +2,14 @@
   "id": 320696023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065002,33.515375,-112.065002,33.515375",
     "geom:latitude":33.515375,
     "geom:longitude":-112.065002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5333 N 7th St Ste C221",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320696023,
-    "wof:lastmodified":1449011525,
+    "wof:lastmodified":1466327997,
     "wof:name":"Star Human Resources",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "human"
     ]
 },
-  "bbox": [-112.065002,33.515375,-112.065002,33.515375],
-  "geometry": {"coordinates":[-112.065002,33.515375],"type":"Point"}
+  "bbox": [
+    -112.065002,
+    33.515375,
+    -112.065002,
+    33.515375
+],
+  "geometry": {"coordinates":[-112.06500200000001,33.515375],"type":"Point"}
 }

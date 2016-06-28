@@ -2,13 +2,14 @@
   "id": 320723251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038902,33.493315,-112.038902,33.493315",
     "geom:latitude":33.493315,
     "geom:longitude":-112.038902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 N 20th St Ste 108",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320723251,
-    "wof:lastmodified":1449013441,
+    "wof:lastmodified":1466328628,
     "wof:name":"Digital Graphics Imaging",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-112.038902,33.493315,-112.038902,33.493315],
-  "geometry": {"coordinates":[-112.038902,33.493315],"type":"Point"}
+  "bbox": [
+    -112.038902,
+    33.493315,
+    -112.038902,
+    33.493315
+],
+  "geometry": {"coordinates":[-112.03890199999999,33.493315],"type":"Point"}
 }

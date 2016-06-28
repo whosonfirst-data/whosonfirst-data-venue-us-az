@@ -2,13 +2,14 @@
   "id": 336685497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.168278,33.458543,-112.168278,33.458543",
     "geom:latitude":33.458543,
     "geom:longitude":-112.168278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5045 W Roosevelt St Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336685497,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466327787,
     "wof:name":"Core Materials Distribution",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber-wholesale"
     ]
 },
-  "bbox": [-112.168278,33.458543,-112.168278,33.458543],
+  "bbox": [
+    -112.168278,
+    33.458543,
+    -112.168278,
+    33.458543
+],
   "geometry": {"coordinates":[-112.168278,33.458543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353623447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.310853,33.439181,-112.310853,33.439181",
     "geom:latitude":33.439181,
     "geom:longitude":-112.310853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11740 W Hadley St.",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353623447,
-    "wof:lastmodified":1449020037,
+    "wof:lastmodified":1466328850,
     "wof:name":"Orion Auto Glass",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "installation"
     ]
 },
-  "bbox": [-112.310853,33.439181,-112.310853,33.439181],
-  "geometry": {"coordinates":[-112.310853,33.439181],"type":"Point"}
+  "bbox": [
+    -112.310853,
+    33.439181,
+    -112.310853,
+    33.439181
+],
+  "geometry": {"coordinates":[-112.31085299999999,33.439181],"type":"Point"}
 }

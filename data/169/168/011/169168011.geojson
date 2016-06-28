@@ -2,13 +2,14 @@
   "id": 169168011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.603552,32.691375,-114.603552,32.691375",
     "geom:latitude":32.691375,
     "geom:longitude":-114.603552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 E 20th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169168011,
-    "wof:lastmodified":1449034411,
+    "wof:lastmodified":1466331834,
     "wof:name":"Qwest",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.603552,32.691375,-114.603552,32.691375],
-  "geometry": {"coordinates":[-114.603552,32.691375],"type":"Point"}
+  "bbox": [
+    -114.603552,
+    32.691375,
+    -114.603552,
+    32.691375
+],
+  "geometry": {"coordinates":[-114.60355199999999,32.691375],"type":"Point"}
 }

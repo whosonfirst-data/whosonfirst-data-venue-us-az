@@ -2,13 +2,14 @@
   "id": 320809621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032089,33.655029,-112.032089,33.655029",
     "geom:latitude":33.655029,
     "geom:longitude":-112.032089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2327 E Union Hills Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320809621,
-    "wof:lastmodified":1449014302,
+    "wof:lastmodified":1466329807,
     "wof:name":"Best Deal Auto Sales",
     "wof:parent_id":85841273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-112.032089,33.655029,-112.032089,33.655029],
+  "bbox": [
+    -112.032089,
+    33.655029,
+    -112.032089,
+    33.655029
+],
   "geometry": {"coordinates":[-112.032089,33.655029],"type":"Point"}
 }

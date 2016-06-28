@@ -2,13 +2,14 @@
   "id": 336732991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.198647,33.723896,-112.198647,33.723896",
     "geom:latitude":33.723896,
     "geom:longitude":-112.198647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6418 W Tether Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336732991,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466328535,
     "wof:name":"Az Kart Werx",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "amusement"
     ]
 },
-  "bbox": [-112.198647,33.723896,-112.198647,33.723896],
-  "geometry": {"coordinates":[-112.198647,33.723896],"type":"Point"}
+  "bbox": [
+    -112.198647,
+    33.723896,
+    -112.198647,
+    33.723896
+],
+  "geometry": {"coordinates":[-112.19864699999999,33.723896],"type":"Point"}
 }

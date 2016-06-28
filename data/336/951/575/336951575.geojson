@@ -2,13 +2,14 @@
   "id": 336951575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.801003,33.213934,-111.801003,33.213934",
     "geom:latitude":33.213934,
     "geom:longitude":-111.801003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 E la Costa Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336951575,
-    "wof:lastmodified":1448996955,
+    "wof:lastmodified":1466330830,
     "wof:name":"Engraved Graphic Arts",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-111.801003,33.213934,-111.801003,33.213934],
-  "geometry": {"coordinates":[-111.801003,33.213934],"type":"Point"}
+  "bbox": [
+    -111.801003,
+    33.213934,
+    -111.801003,
+    33.213934
+],
+  "geometry": {"coordinates":[-111.80100299999999,33.213934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169381129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.254326,33.691503,-112.254326,33.691503",
     "geom:latitude":33.691503,
     "geom:longitude":-112.254326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22834 N 90th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169381129,
-    "wof:lastmodified":1449032948,
+    "wof:lastmodified":1466333808,
     "wof:name":"Fibermesh Co",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.254326,33.691503,-112.254326,33.691503],
-  "geometry": {"coordinates":[-112.254326,33.691503],"type":"Point"}
+  "bbox": [
+    -112.254326,
+    33.691503,
+    -112.254326,
+    33.691503
+],
+  "geometry": {"coordinates":[-112.25432600000001,33.691503],"type":"Point"}
 }

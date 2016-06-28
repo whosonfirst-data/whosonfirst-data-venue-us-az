@@ -2,13 +2,14 @@
   "id": 169386339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057359,33.469276,-112.057359,33.469276",
     "geom:latitude":33.469276,
     "geom:longitude":-112.057359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 N Mitchell St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169386339,
-    "wof:lastmodified":1449034416,
+    "wof:lastmodified":1466333869,
     "wof:name":"Celeste Bridals",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.057359,33.469276,-112.057359,33.469276],
-  "geometry": {"coordinates":[-112.057359,33.469276],"type":"Point"}
+  "bbox": [
+    -112.057359,
+    33.469276,
+    -112.057359,
+    33.469276
+],
+  "geometry": {"coordinates":[-112.05735900000001,33.469276],"type":"Point"}
 }

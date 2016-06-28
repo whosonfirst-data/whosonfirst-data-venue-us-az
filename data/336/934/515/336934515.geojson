@@ -2,13 +2,14 @@
   "id": 336934515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.741168,33.379238,-111.741168,33.379238",
     "geom:latitude":33.379238,
     "geom:longitude":-111.741168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4331 E Baseline Rd B-105",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336934515,
-    "wof:lastmodified":1448996965,
+    "wof:lastmodified":1466330818,
     "wof:name":"East Valley Dental Anesthesia",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-111.741168,33.379238,-111.741168,33.379238],
+  "bbox": [
+    -111.741168,
+    33.379238,
+    -111.741168,
+    33.379238
+],
   "geometry": {"coordinates":[-111.741168,33.379238],"type":"Point"}
 }

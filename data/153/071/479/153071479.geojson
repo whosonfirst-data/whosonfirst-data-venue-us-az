@@ -2,13 +2,14 @@
   "id": 153071479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.040178,35.214168,-114.040178,35.214168",
     "geom:latitude":35.214168,
     "geom:longitude":-114.040178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3178 Western Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153071479,
-    "wof:lastmodified":1449040654,
+    "wof:lastmodified":1466328547,
     "wof:name":"Neurological & Headache Disord",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.040178,35.214168,-114.040178,35.214168],
+  "bbox": [
+    -114.040178,
+    35.214168,
+    -114.040178,
+    35.214168
+],
   "geometry": {"coordinates":[-114.040178,35.214168],"type":"Point"}
 }

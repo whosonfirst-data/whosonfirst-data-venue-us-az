@@ -2,13 +2,14 @@
   "id": 169043323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.552007,35.272706,-111.552007,35.272706",
     "geom:latitude":35.272706,
     "geom:longitude":-111.552007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 Forest Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169043323,
-    "wof:lastmodified":1449035133,
+    "wof:lastmodified":1466327916,
     "wof:name":"Fast Fred's Inc",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.552007,35.272706,-111.552007,35.272706],
+  "bbox": [
+    -111.552007,
+    35.272706,
+    -111.552007,
+    35.272706
+],
   "geometry": {"coordinates":[-111.552007,35.272706],"type":"Point"}
 }

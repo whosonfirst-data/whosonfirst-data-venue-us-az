@@ -2,13 +2,14 @@
   "id": 169391639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.664006,33.402969,-111.664006,33.402969",
     "geom:latitude":33.402969,
     "geom:longitude":-111.664006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 S Desert Flower Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820323,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169391639,
-    "wof:lastmodified":1449034800,
+    "wof:lastmodified":1466333908,
     "wof:name":"Mott Equipment Rental Inc",
     "wof:parent_id":85820323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.664006,33.402969,-111.664006,33.402969],
+  "bbox": [
+    -111.664006,
+    33.402969,
+    -111.664006,
+    33.402969
+],
   "geometry": {"coordinates":[-111.664006,33.402969],"type":"Point"}
 }

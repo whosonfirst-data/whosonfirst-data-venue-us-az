@@ -2,13 +2,14 @@
   "id": 169303727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.323307,34.475953,-114.323307,34.475953",
     "geom:latitude":34.475953,
     "geom:longitude":-114.323307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2190 Birch Sq",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169303727,
-    "wof:lastmodified":1449032712,
+    "wof:lastmodified":1466333063,
     "wof:name":"Down Under",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.323307,34.475953,-114.323307,34.475953],
+  "bbox": [
+    -114.323307,
+    34.475953,
+    -114.323307,
+    34.475953
+],
   "geometry": {"coordinates":[-114.323307,34.475953],"type":"Point"}
 }

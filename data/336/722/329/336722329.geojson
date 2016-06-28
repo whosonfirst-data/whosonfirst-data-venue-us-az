@@ -2,13 +2,14 @@
   "id": 336722329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145925,33.556332,-112.145925,33.556332",
     "geom:latitude":33.556332,
     "geom:longitude":-112.145925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4016 W Griswold Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336722329,
-    "wof:lastmodified":1448997304,
+    "wof:lastmodified":1466328589,
     "wof:name":"Vargas Translations",
     "wof:parent_id":85877833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-112.145925,33.556332,-112.145925,33.556332],
-  "geometry": {"coordinates":[-112.145925,33.556332],"type":"Point"}
+  "bbox": [
+    -112.145925,
+    33.556332,
+    -112.145925,
+    33.556332
+],
+  "geometry": {"coordinates":[-112.14592500000001,33.556332],"type":"Point"}
 }

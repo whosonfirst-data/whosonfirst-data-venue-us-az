@@ -2,13 +2,14 @@
   "id": 320656669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151789,33.41686,-112.151789,33.41686",
     "geom:latitude":33.41686,
     "geom:longitude":-112.151789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 S 43rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320656669,
-    "wof:lastmodified":1449013699,
+    "wof:lastmodified":1466327177,
     "wof:name":"Atrium Door & Window",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.151789,33.41686,-112.151789,33.41686],
-  "geometry": {"coordinates":[-112.151789,33.41686],"type":"Point"}
+  "bbox": [
+    -112.151789,
+    33.41686,
+    -112.151789,
+    33.41686
+],
+  "geometry": {"coordinates":[-112.15178899999999,33.41686],"type":"Point"}
 }

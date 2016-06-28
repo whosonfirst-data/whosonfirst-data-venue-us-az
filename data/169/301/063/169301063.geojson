@@ -2,13 +2,14 @@
   "id": 169301063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.64357,35.206656,-111.64357,35.206656",
     "geom:latitude":35.206656,
     "geom:longitude":-111.64357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N San Francisco St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.psna.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169301063,
-    "wof:lastmodified":1449033530,
+    "wof:lastmodified":1466333007,
     "wof:name":"Northern Arizona Surgi Ctr",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.64357,35.206656,-111.64357,35.206656],
+  "bbox": [
+    -111.64357,
+    35.206656,
+    -111.64357,
+    35.206656
+],
   "geometry": {"coordinates":[-111.64357,35.206656],"type":"Point"}
 }

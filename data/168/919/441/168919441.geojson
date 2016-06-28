@@ -2,13 +2,14 @@
   "id": 168919441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939981,31.336892,-110.939981,31.336892",
     "geom:latitude":31.336892,
     "geom:longitude":-110.939981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168919441,
-    "wof:lastmodified":1449028387,
+    "wof:lastmodified":1466330276,
     "wof:name":"Camel Motors",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939981,31.336892,-110.939981,31.336892],
+  "bbox": [
+    -110.939981,
+    31.336892,
+    -110.939981,
+    31.336892
+],
   "geometry": {"coordinates":[-110.939981,31.336892],"type":"Point"}
 }

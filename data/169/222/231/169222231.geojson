@@ -2,13 +2,14 @@
   "id": 169222231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.765745,33.37906,-111.765745,33.37906",
     "geom:latitude":33.37906,
     "geom:longitude":-111.765745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 E Baseline Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851615,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85851615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169222231,
-    "wof:lastmodified":1449034898,
+    "wof:lastmodified":1466332272,
     "wof:name":"Kurt S Hotrod Shop",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.765745,33.37906,-111.765745,33.37906],
+  "bbox": [
+    -111.765745,
+    33.37906,
+    -111.765745,
+    33.37906
+],
   "geometry": {"coordinates":[-111.765745,33.37906],"type":"Point"}
 }

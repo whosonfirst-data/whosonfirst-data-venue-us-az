@@ -2,13 +2,14 @@
   "id": 169223143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976548,33.579703,-111.976548,33.579703",
     "geom:latitude":33.579703,
     "geom:longitude":-111.976548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10308 N 48th Pl",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85819319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169223143,
-    "wof:lastmodified":1449032907,
+    "wof:lastmodified":1466332077,
     "wof:name":"Sweet Heart Tree",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976548,33.579703,-111.976548,33.579703],
-  "geometry": {"coordinates":[-111.976548,33.579703],"type":"Point"}
+  "bbox": [
+    -111.976548,
+    33.579703,
+    -111.976548,
+    33.579703
+],
+  "geometry": {"coordinates":[-111.97654799999999,33.579703],"type":"Point"}
 }

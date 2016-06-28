@@ -2,13 +2,14 @@
   "id": 169354115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223726,33.584057,-112.223726,33.584057",
     "geom:latitude":33.584057,
     "geom:longitude":-112.223726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10920 N 76th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169354115,
-    "wof:lastmodified":1449035579,
+    "wof:lastmodified":1466333348,
     "wof:name":"Remember Them Flowers",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223726,33.584057,-112.223726,33.584057],
+  "bbox": [
+    -112.223726,
+    33.584057,
+    -112.223726,
+    33.584057
+],
   "geometry": {"coordinates":[-112.223726,33.584057],"type":"Point"}
 }

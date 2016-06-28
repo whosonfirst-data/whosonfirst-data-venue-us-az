@@ -2,13 +2,14 @@
   "id": 168832977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.083908,34.497474,-110.083908,34.497474",
     "geom:latitude":34.497474,
     "geom:longitude":-110.083908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Ponderosa Trl",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168832977,
-    "wof:lastmodified":1449027773,
+    "wof:lastmodified":1466326229,
     "wof:name":"Heritage Contracting Inc",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.083908,34.497474,-110.083908,34.497474],
-  "geometry": {"coordinates":[-110.083908,34.497474],"type":"Point"}
+  "bbox": [
+    -110.083908,
+    34.497474,
+    -110.083908,
+    34.497474
+],
+  "geometry": {"coordinates":[-110.08390799999999,34.497474],"type":"Point"}
 }

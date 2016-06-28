@@ -2,13 +2,14 @@
   "id": 153016493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91441,32.26845,-110.91441,32.26845",
     "geom:latitude":32.26845,
     "geom:longitude":-110.91441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 N Dodge Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153016493,
-    "wof:lastmodified":1449040408,
+    "wof:lastmodified":1466326598,
     "wof:name":"Ilsas Konditorei & Bakery",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.91441,32.26845,-110.91441,32.26845],
+  "bbox": [
+    -110.91441,
+    32.26845,
+    -110.91441,
+    32.26845
+],
   "geometry": {"coordinates":[-110.91441,32.26845],"type":"Point"}
 }
