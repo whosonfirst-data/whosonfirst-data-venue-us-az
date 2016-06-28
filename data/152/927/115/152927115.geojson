@@ -2,13 +2,14 @@
   "id": 152927115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.760658,34.785838,-111.760658,34.785838",
     "geom:latitude":34.785838,
     "geom:longitude":-111.760658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Cochise Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152927115,
-    "wof:lastmodified":1449048436,
+    "wof:lastmodified":1466325777,
     "wof:name":"Ralphs Excavating LLC",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.760658,34.785838,-111.760658,34.785838],
-  "geometry": {"coordinates":[-111.760658,34.785838],"type":"Point"}
+  "bbox": [
+    -111.760658,
+    34.785838,
+    -111.760658,
+    34.785838
+],
+  "geometry": {"coordinates":[-111.76065800000001,34.785838],"type":"Point"}
 }

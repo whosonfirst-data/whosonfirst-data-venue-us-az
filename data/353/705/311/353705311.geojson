@@ -2,13 +2,14 @@
   "id": 353705311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.633165,32.678737,-114.633165,32.678737",
     "geom:latitude":32.678737,
     "geom:longitude":-114.633165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 S Avenue A B",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353705311,
-    "wof:lastmodified":1449020808,
+    "wof:lastmodified":1466329649,
     "wof:name":"Department Of Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government-county"
     ]
 },
-  "bbox": [-114.633165,32.678737,-114.633165,32.678737],
-  "geometry": {"coordinates":[-114.633165,32.678737],"type":"Point"}
+  "bbox": [
+    -114.633165,
+    32.678737,
+    -114.633165,
+    32.678737
+],
+  "geometry": {"coordinates":[-114.63316500000001,32.678737],"type":"Point"}
 }

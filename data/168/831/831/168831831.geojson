@@ -2,13 +2,14 @@
   "id": 168831831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.826739,32.310329,-110.826739,32.310329",
     "geom:latitude":32.310329,
     "geom:longitude":-110.826739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7790 E Cll del Minique",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168831831,
-    "wof:lastmodified":1449028227,
+    "wof:lastmodified":1466326122,
     "wof:name":"Ceiec Oriental Trading Co Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.826739,32.310329,-110.826739,32.310329],
+  "bbox": [
+    -110.826739,
+    32.310329,
+    -110.826739,
+    32.310329
+],
   "geometry": {"coordinates":[-110.826739,32.310329],"type":"Point"}
 }

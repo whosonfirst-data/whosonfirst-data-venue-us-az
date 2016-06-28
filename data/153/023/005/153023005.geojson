@@ -2,13 +2,14 @@
   "id": 153023005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.010466,32.206831,-111.010466,32.206831",
     "geom:latitude":32.206831,
     "geom:longitude":-111.010466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Starr Pass Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.tusd.k12.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153023005,
-    "wof:lastmodified":1449040779,
+    "wof:lastmodified":1466327352,
     "wof:name":"Cholla High School",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.010466,32.206831,-111.010466,32.206831],
-  "geometry": {"coordinates":[-111.010466,32.206831],"type":"Point"}
+  "bbox": [
+    -111.010466,
+    32.206831,
+    -111.010466,
+    32.206831
+],
+  "geometry": {"coordinates":[-111.01046599999999,32.206831],"type":"Point"}
 }

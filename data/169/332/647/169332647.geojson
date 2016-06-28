@@ -2,13 +2,14 @@
   "id": 169332647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117056,33.56424,-112.117056,33.56424",
     "geom:latitude":33.56424,
     "geom:longitude":-112.117056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8502 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169332647,
-    "wof:lastmodified":1449034527,
+    "wof:lastmodified":1466333298,
     "wof:name":"All American Industrial Sply",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117056,33.56424,-112.117056,33.56424],
-  "geometry": {"coordinates":[-112.117056,33.56424],"type":"Point"}
+  "bbox": [
+    -112.117056,
+    33.56424,
+    -112.117056,
+    33.56424
+],
+  "geometry": {"coordinates":[-112.11705600000001,33.56424],"type":"Point"}
 }

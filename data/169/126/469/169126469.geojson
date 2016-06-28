@@ -2,13 +2,14 @@
   "id": 169126469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975784,32.264789,-110.975784,32.264789",
     "geom:latitude":32.264789,
     "geom:longitude":-110.975784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 W Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169126469,
-    "wof:lastmodified":1449033912,
+    "wof:lastmodified":1466331472,
     "wof:name":"All Car Alternators",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975784,32.264789,-110.975784,32.264789],
+  "bbox": [
+    -110.975784,
+    32.264789,
+    -110.975784,
+    32.264789
+],
   "geometry": {"coordinates":[-110.975784,32.264789],"type":"Point"}
 }

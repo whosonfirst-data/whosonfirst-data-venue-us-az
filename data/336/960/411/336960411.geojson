@@ -2,13 +2,14 @@
   "id": 336960411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.94869,33.489865,-111.94869,33.489865",
     "geom:latitude":33.489865,
     "geom:longitude":-111.94869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6157 E Indian School Rd # 100",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336960411,
-    "wof:lastmodified":1448997702,
+    "wof:lastmodified":1466330770,
     "wof:name":"Empire Commercial Real Estate",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-111.94869,33.489865,-111.94869,33.489865],
+  "bbox": [
+    -111.94869,
+    33.489865,
+    -111.94869,
+    33.489865
+],
   "geometry": {"coordinates":[-111.94869,33.489865],"type":"Point"}
 }

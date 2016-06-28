@@ -2,13 +2,14 @@
   "id": 152937151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.918338,32.236232,-110.918338,32.236232",
     "geom:latitude":32.236232,
     "geom:longitude":-110.918338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3449 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152937151,
-    "wof:lastmodified":1449045177,
+    "wof:lastmodified":1466326480,
     "wof:name":"Spirals",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.918338,32.236232,-110.918338,32.236232],
-  "geometry": {"coordinates":[-110.918338,32.236232],"type":"Point"}
+  "bbox": [
+    -110.918338,
+    32.236232,
+    -110.918338,
+    32.236232
+],
+  "geometry": {"coordinates":[-110.91833800000001,32.236232],"type":"Point"}
 }

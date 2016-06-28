@@ -2,13 +2,14 @@
   "id": 169421951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203975,33.658482,-112.203975,33.658482",
     "geom:latitude":33.658482,
     "geom:longitude":-112.203975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6737 W Kerry Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169421951,
-    "wof:lastmodified":1449034780,
+    "wof:lastmodified":1466334171,
     "wof:name":"Usams Mounting Systems LLC",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.203975,33.658482,-112.203975,33.658482],
+  "bbox": [
+    -112.203975,
+    33.658482,
+    -112.203975,
+    33.658482
+],
   "geometry": {"coordinates":[-112.203975,33.658482],"type":"Point"}
 }

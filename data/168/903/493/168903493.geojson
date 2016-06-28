@@ -2,13 +2,14 @@
   "id": 168903493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.258927,31.46899,-110.258927,31.46899",
     "geom:latitude":31.46899,
     "geom:longitude":-110.258927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 S Sioux Ave",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168903493,
-    "wof:lastmodified":1449027814,
+    "wof:lastmodified":1466329704,
     "wof:name":"Butterfly Gardens Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.258927,31.46899,-110.258927,31.46899],
+  "bbox": [
+    -110.258927,
+    31.46899,
+    -110.258927,
+    31.46899
+],
   "geometry": {"coordinates":[-110.258927,31.46899],"type":"Point"}
 }

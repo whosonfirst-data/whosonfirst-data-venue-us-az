@@ -2,13 +2,14 @@
   "id": 169345267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925295,32.17156,-110.925295,32.17156",
     "geom:latitude":32.17156,
     "geom:longitude":-110.925295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3256 E Pennsylvania St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169345267,
-    "wof:lastmodified":1449035701,
+    "wof:lastmodified":1466333533,
     "wof:name":"Custom Lodgepole Furniture",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.925295,32.17156,-110.925295,32.17156],
-  "geometry": {"coordinates":[-110.925295,32.17156],"type":"Point"}
+  "bbox": [
+    -110.925295,
+    32.17156,
+    -110.925295,
+    32.17156
+],
+  "geometry": {"coordinates":[-110.92529500000001,32.17156],"type":"Point"}
 }

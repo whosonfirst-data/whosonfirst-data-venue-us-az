@@ -2,13 +2,14 @@
   "id": 169155635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966078,32.363229,-110.966078,32.363229",
     "geom:latitude":32.363229,
     "geom:longitude":-110.966078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 E Glenhurst Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169155635,
-    "wof:lastmodified":1449035380,
+    "wof:lastmodified":1466331806,
     "wof:name":"Above & Beyond Travel Svc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966078,32.363229,-110.966078,32.363229],
+  "bbox": [
+    -110.966078,
+    32.363229,
+    -110.966078,
+    32.363229
+],
   "geometry": {"coordinates":[-110.966078,32.363229],"type":"Point"}
 }

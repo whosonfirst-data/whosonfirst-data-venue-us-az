@@ -2,13 +2,14 @@
   "id": 152969183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.684414,32.090718,-110.684414,32.090718",
     "geom:latitude":32.090718,
     "geom:longitude":-110.684414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14491 E Rincon Valley Dr",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152969183,
-    "wof:lastmodified":1449045404,
+    "wof:lastmodified":1466328378,
     "wof:name":"Tucson Excavating & Hauling",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.684414,32.090718,-110.684414,32.090718],
+  "bbox": [
+    -110.684414,
+    32.090718,
+    -110.684414,
+    32.090718
+],
   "geometry": {"coordinates":[-110.684414,32.090718],"type":"Point"}
 }

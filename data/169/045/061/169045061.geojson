@@ -2,13 +2,14 @@
   "id": 169045061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91244,32.265199,-110.91244,32.265199",
     "geom:latitude":32.265199,
     "geom:longitude":-110.91244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3789 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169045061,
-    "wof:lastmodified":1449035567,
+    "wof:lastmodified":1466328044,
     "wof:name":"Whimsey Designs",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.91244,32.265199,-110.91244,32.265199],
+  "bbox": [
+    -110.91244,
+    32.265199,
+    -110.91244,
+    32.265199
+],
   "geometry": {"coordinates":[-110.91244,32.265199],"type":"Point"}
 }

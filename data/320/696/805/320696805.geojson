@@ -2,13 +2,14 @@
   "id": 320696805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060707,33.494701,-112.060707,33.494701",
     "geom:latitude":33.494701,
     "geom:longitude":-112.060707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320696805,
-    "wof:lastmodified":1449011522,
+    "wof:lastmodified":1466328264,
     "wof:name":"Assisted Recovery Centers Of Arizona",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "addiction"
     ]
 },
-  "bbox": [-112.060707,33.494701,-112.060707,33.494701],
-  "geometry": {"coordinates":[-112.060707,33.494701],"type":"Point"}
+  "bbox": [
+    -112.060707,
+    33.494701,
+    -112.060707,
+    33.494701
+],
+  "geometry": {"coordinates":[-112.06070699999999,33.494701],"type":"Point"}
 }

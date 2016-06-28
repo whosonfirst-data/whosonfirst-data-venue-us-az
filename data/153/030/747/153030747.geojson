@@ -2,13 +2,14 @@
   "id": 153030747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790227,33.332874,-111.790227,33.332874",
     "geom:latitude":33.332874,
     "geom:longitude":-111.790227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 S Gilbert Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153030747,
-    "wof:lastmodified":1449040512,
+    "wof:lastmodified":1466325823,
     "wof:name":"Summer Winds",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.790227,33.332874,-111.790227,33.332874],
+  "bbox": [
+    -111.790227,
+    33.332874,
+    -111.790227,
+    33.332874
+],
   "geometry": {"coordinates":[-111.790227,33.332874],"type":"Point"}
 }

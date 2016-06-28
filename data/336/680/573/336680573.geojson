@@ -2,13 +2,14 @@
   "id": 336680573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16922,33.434249,-112.16922,33.434249",
     "geom:latitude":33.434249,
     "geom:longitude":-112.16922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 S 51st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":336680573,
-    "wof:lastmodified":1448997688,
+    "wof:lastmodified":1466327700,
     "wof:name":"FedEx",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "forwarding"
     ]
 },
-  "bbox": [-112.16922,33.434249,-112.16922,33.434249],
+  "bbox": [
+    -112.16922,
+    33.434249,
+    -112.16922,
+    33.434249
+],
   "geometry": {"coordinates":[-112.16922,33.434249],"type":"Point"}
 }

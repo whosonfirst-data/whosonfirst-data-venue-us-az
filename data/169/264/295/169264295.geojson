@@ -2,13 +2,14 @@
   "id": 169264295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.915779,32.168123,-110.915779,32.168123",
     "geom:latitude":32.168123,
     "geom:longitude":-110.915779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4581 S Butterfield Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169264295,
-    "wof:lastmodified":1449034828,
+    "wof:lastmodified":1466332620,
     "wof:name":"Micro Helix Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.915779,32.168123,-110.915779,32.168123],
+  "bbox": [
+    -110.915779,
+    32.168123,
+    -110.915779,
+    32.168123
+],
   "geometry": {"coordinates":[-110.915779,32.168123],"type":"Point"}
 }

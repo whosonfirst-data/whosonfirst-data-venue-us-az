@@ -2,13 +2,14 @@
   "id": 353829331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.893297,32.163045,-110.893297,32.163045",
     "geom:latitude":32.163045,
     "geom:longitude":-110.893297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4481 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353829331,
-    "wof:lastmodified":1449020625,
+    "wof:lastmodified":1466330473,
     "wof:name":"Bob's Bug Barn",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-110.893297,32.163045,-110.893297,32.163045],
+  "bbox": [
+    -110.893297,
+    32.163045,
+    -110.893297,
+    32.163045
+],
   "geometry": {"coordinates":[-110.893297,32.163045],"type":"Point"}
 }

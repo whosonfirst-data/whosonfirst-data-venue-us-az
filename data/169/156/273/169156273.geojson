@@ -2,13 +2,14 @@
   "id": 169156273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081654,33.655705,-112.081654,33.655705",
     "geom:latitude":33.655705,
     "geom:longitude":-112.081654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 W McRae Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853461,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169156273,
-    "wof:lastmodified":1449033342,
+    "wof:lastmodified":1466331921,
     "wof:name":"Jays Plays",
     "wof:parent_id":85853461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.081654,33.655705,-112.081654,33.655705],
+  "bbox": [
+    -112.081654,
+    33.655705,
+    -112.081654,
+    33.655705
+],
   "geometry": {"coordinates":[-112.081654,33.655705],"type":"Point"}
 }

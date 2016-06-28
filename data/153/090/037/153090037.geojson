@@ -2,13 +2,14 @@
   "id": 153090037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999084,31.863798,-110.999084,31.863798",
     "geom:latitude":31.863798,
     "geom:longitude":-110.999084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 W Cam del Poso",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153090037,
-    "wof:lastmodified":1449040718,
+    "wof:lastmodified":1466329341,
     "wof:name":"Sawdust Creations",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.999084,31.863798,-110.999084,31.863798],
+  "bbox": [
+    -110.999084,
+    31.863798,
+    -110.999084,
+    31.863798
+],
   "geometry": {"coordinates":[-110.999084,31.863798],"type":"Point"}
 }

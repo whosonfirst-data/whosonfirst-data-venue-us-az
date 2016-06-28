@@ -2,13 +2,14 @@
   "id": 152994399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134717,33.363547,-112.134717,33.363547",
     "geom:latitude":33.363547,
     "geom:longitude":-112.134717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8441 S 35th Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152994399,
-    "wof:lastmodified":1449044524,
+    "wof:lastmodified":1466329681,
     "wof:name":"Nakase Brothers Wholesale",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134717,33.363547,-112.134717,33.363547],
-  "geometry": {"coordinates":[-112.134717,33.363547],"type":"Point"}
+  "bbox": [
+    -112.134717,
+    33.363547,
+    -112.134717,
+    33.363547
+],
+  "geometry": {"coordinates":[-112.13471699999999,33.363547],"type":"Point"}
 }

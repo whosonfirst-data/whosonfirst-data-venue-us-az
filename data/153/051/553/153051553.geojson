@@ -2,13 +2,14 @@
   "id": 153051553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.62321,33.400615,-111.62321,33.400615",
     "geom:latitude":33.400615,
     "geom:longitude":-111.62321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 S 96th Pl",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":153051553,
-    "wof:lastmodified":1449040640,
+    "wof:lastmodified":1466327279,
     "wof:name":"Matching Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.62321,33.400615,-111.62321,33.400615],
+  "bbox": [
+    -111.62321,
+    33.400615,
+    -111.62321,
+    33.400615
+],
   "geometry": {"coordinates":[-111.62321,33.400615],"type":"Point"}
 }

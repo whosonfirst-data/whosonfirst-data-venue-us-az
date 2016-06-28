@@ -2,13 +2,14 @@
   "id": 169375515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.171957,33.637001,-112.171957,33.637001",
     "geom:latitude":33.637001,
     "geom:longitude":-112.171957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5170 W Phelps Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169375515,
-    "wof:lastmodified":1449032805,
+    "wof:lastmodified":1466333746,
     "wof:name":"Pleomorphic Isopathic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.171957,33.637001,-112.171957,33.637001],
-  "geometry": {"coordinates":[-112.171957,33.637001],"type":"Point"}
+  "bbox": [
+    -112.171957,
+    33.637001,
+    -112.171957,
+    33.637001
+],
+  "geometry": {"coordinates":[-112.17195700000001,33.637001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169323547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.552042,32.670011,-114.552042,32.670011",
     "geom:latitude":32.670011,
     "geom:longitude":-114.552042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 Old US Hwy 80",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169323547,
-    "wof:lastmodified":1449032958,
+    "wof:lastmodified":1466333202,
     "wof:name":"R V Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.552042,32.670011,-114.552042,32.670011],
+  "bbox": [
+    -114.552042,
+    32.670011,
+    -114.552042,
+    32.670011
+],
   "geometry": {"coordinates":[-114.552042,32.670011],"type":"Point"}
 }

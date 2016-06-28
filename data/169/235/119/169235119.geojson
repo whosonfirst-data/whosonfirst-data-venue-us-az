@@ -2,13 +2,14 @@
   "id": 169235119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892089,33.703252,-111.892089,33.703252",
     "geom:latitude":33.703252,
     "geom:longitude":-111.892089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8633 E Cam del Monte",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842015,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85842015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169235119,
-    "wof:lastmodified":1449033262,
+    "wof:lastmodified":1466332435,
     "wof:name":"Longest Yard Interiors",
     "wof:parent_id":85842015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892089,33.703252,-111.892089,33.703252],
+  "bbox": [
+    -111.892089,
+    33.703252,
+    -111.892089,
+    33.703252
+],
   "geometry": {"coordinates":[-111.892089,33.703252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353764811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.365024,33.464617,-112.365024,33.464617",
     "geom:latitude":33.464617,
     "geom:longitude":-112.365024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14130 W McDowell Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353764811,
-    "wof:lastmodified":1449020667,
+    "wof:lastmodified":1466330380,
     "wof:name":"Center of the Heart Yoga",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-112.365024,33.464617,-112.365024,33.464617],
-  "geometry": {"coordinates":[-112.365024,33.464617],"type":"Point"}
+  "bbox": [
+    -112.365024,
+    33.464617,
+    -112.365024,
+    33.464617
+],
+  "geometry": {"coordinates":[-112.36502400000001,33.464617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168848259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.824459,32.191982,-110.824459,32.191982",
     "geom:latitude":32.191982,
     "geom:longitude":-110.824459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 E Golf Links Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168848259,
-    "wof:lastmodified":1449027877,
+    "wof:lastmodified":1466327646,
     "wof:name":"Art By Irene Rothes",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.824459,32.191982,-110.824459,32.191982],
+  "bbox": [
+    -110.824459,
+    32.191982,
+    -110.824459,
+    32.191982
+],
   "geometry": {"coordinates":[-110.824459,32.191982],"type":"Point"}
 }

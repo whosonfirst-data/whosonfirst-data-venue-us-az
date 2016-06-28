@@ -2,13 +2,14 @@
   "id": 169384899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.872527,32.377878,-112.872527,32.377878",
     "geom:latitude":32.377878,
     "geom:longitude":-112.872527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 N 2nd Ave",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169384899,
-    "wof:lastmodified":1449033097,
+    "wof:lastmodified":1466333887,
     "wof:name":"AJO Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.872527,32.377878,-112.872527,32.377878],
-  "geometry": {"coordinates":[-112.872527,32.377878],"type":"Point"}
+  "bbox": [
+    -112.872527,
+    32.377878,
+    -112.872527,
+    32.377878
+],
+  "geometry": {"coordinates":[-112.87252700000001,32.377878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168999689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.83481,32.221072,-110.83481,32.221072",
     "geom:latitude":32.221072,
     "geom:longitude":-110.83481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7311 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168999689,
-    "wof:lastmodified":1449028497,
+    "wof:lastmodified":1466331716,
     "wof:name":"Brett Interiors Inc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.83481,32.221072,-110.83481,32.221072],
+  "bbox": [
+    -110.83481,
+    32.221072,
+    -110.83481,
+    32.221072
+],
   "geometry": {"coordinates":[-110.83481,32.221072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169300345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956161,32.20427,-110.956161,32.20427",
     "geom:latitude":32.20427,
     "geom:longitude":-110.956161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Park Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.allegra-arizona.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169300345,
-    "wof:lastmodified":1449034549,
+    "wof:lastmodified":1466333029,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956161,32.20427,-110.956161,32.20427],
-  "geometry": {"coordinates":[-110.956161,32.20427],"type":"Point"}
+  "bbox": [
+    -110.956161,
+    32.20427,
+    -110.956161,
+    32.20427
+],
+  "geometry": {"coordinates":[-110.95616099999999,32.20427],"type":"Point"}
 }

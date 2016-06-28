@@ -2,13 +2,14 @@
   "id": 169335041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.059569,33.369166,-112.059569,33.369166",
     "geom:latitude":33.369166,
     "geom:longitude":-112.059569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E Winston Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828931,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85828931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169335041,
-    "wof:lastmodified":1449034864,
+    "wof:lastmodified":1466333308,
     "wof:name":"A Vision For You",
     "wof:parent_id":85828931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.059569,33.369166,-112.059569,33.369166],
+  "bbox": [
+    -112.059569,
+    33.369166,
+    -112.059569,
+    33.369166
+],
   "geometry": {"coordinates":[-112.059569,33.369166],"type":"Point"}
 }

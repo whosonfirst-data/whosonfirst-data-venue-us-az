@@ -2,13 +2,14 @@
   "id": 152982267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.904176,32.2862,-110.904176,32.2862",
     "geom:latitude":32.2862,
     "geom:longitude":-110.904176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 N Osage Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152982267,
-    "wof:lastmodified":1449045101,
+    "wof:lastmodified":1466329044,
     "wof:name":"Ray's Products LLC",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.904176,32.2862,-110.904176,32.2862],
-  "geometry": {"coordinates":[-110.904176,32.2862],"type":"Point"}
+  "bbox": [
+    -110.904176,
+    32.2862,
+    -110.904176,
+    32.2862
+],
+  "geometry": {"coordinates":[-110.90417600000001,32.2862],"type":"Point"}
 }

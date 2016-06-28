@@ -2,13 +2,14 @@
   "id": 168936401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.954934,33.598539,-111.954934,33.598539",
     "geom:latitude":33.598539,
     "geom:longitude":-111.954934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5829 E Sylvia St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858855,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168936401,
-    "wof:lastmodified":1449028010,
+    "wof:lastmodified":1466330707,
     "wof:name":"Hunter Camera H",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.954934,33.598539,-111.954934,33.598539],
-  "geometry": {"coordinates":[-111.954934,33.598539],"type":"Point"}
+  "bbox": [
+    -111.954934,
+    33.598539,
+    -111.954934,
+    33.598539
+],
+  "geometry": {"coordinates":[-111.95493399999999,33.598539],"type":"Point"}
 }

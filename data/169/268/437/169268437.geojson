@@ -2,13 +2,14 @@
   "id": 169268437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976739,32.334725,-110.976739,32.334725",
     "geom:latitude":32.334725,
     "geom:longitude":-110.976739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 W Giaconda Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169268437,
-    "wof:lastmodified":1449034563,
+    "wof:lastmodified":1466332703,
     "wof:name":"Edge Charter School Northwest",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976739,32.334725,-110.976739,32.334725],
-  "geometry": {"coordinates":[-110.976739,32.334725],"type":"Point"}
+  "bbox": [
+    -110.976739,
+    32.334725,
+    -110.976739,
+    32.334725
+],
+  "geometry": {"coordinates":[-110.97673899999999,32.334725],"type":"Point"}
 }

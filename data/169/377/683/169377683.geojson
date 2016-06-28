@@ -2,13 +2,14 @@
   "id": 169377683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938844,33.512268,-111.938844,33.512268",
     "geom:latitude":33.512268,
     "geom:longitude":-111.938844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 N Casa Blanca Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880959,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169377683,
-    "wof:lastmodified":1449033932,
+    "wof:lastmodified":1466333722,
     "wof:name":"Casa Blanca HOA Guard House",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.938844,33.512268,-111.938844,33.512268],
+  "bbox": [
+    -111.938844,
+    33.512268,
+    -111.938844,
+    33.512268
+],
   "geometry": {"coordinates":[-111.938844,33.512268],"type":"Point"}
 }

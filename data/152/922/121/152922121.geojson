@@ -2,13 +2,14 @@
   "id": 152922121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.650219,32.672703,-114.650219,32.672703",
     "geom:latitude":32.672703,
     "geom:longitude":-114.650219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3052 S Ave B",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152922121,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1466327210,
     "wof:name":"Houstons Yuma Furiture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.650219,32.672703,-114.650219,32.672703],
-  "geometry": {"coordinates":[-114.650219,32.672703],"type":"Point"}
+  "bbox": [
+    -114.650219,
+    32.672703,
+    -114.650219,
+    32.672703
+],
+  "geometry": {"coordinates":[-114.65021900000001,32.672703],"type":"Point"}
 }

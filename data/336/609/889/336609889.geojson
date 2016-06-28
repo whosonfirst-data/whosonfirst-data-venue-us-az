@@ -2,13 +2,14 @@
   "id": 336609889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223981,33.494601,-112.223981,33.494601",
     "geom:latitude":33.494601,
     "geom:longitude":-112.223981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7614 W Indian School Road",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336609889,
-    "wof:lastmodified":1448997342,
+    "wof:lastmodified":1466326147,
     "wof:name":"Libreria Cristiana El Mesias",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-112.223981,33.494601,-112.223981,33.494601],
-  "geometry": {"coordinates":[-112.223981,33.494601],"type":"Point"}
+  "bbox": [
+    -112.223981,
+    33.494601,
+    -112.223981,
+    33.494601
+],
+  "geometry": {"coordinates":[-112.22398099999999,33.494601],"type":"Point"}
 }

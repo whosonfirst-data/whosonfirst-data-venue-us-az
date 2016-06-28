@@ -2,13 +2,14 @@
   "id": 152915329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841545,33.294463,-111.841545,33.294463",
     "geom:latitude":33.294463,
     "geom:longitude":-111.841545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 S Arizona Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876651,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152915329,
-    "wof:lastmodified":1449048862,
+    "wof:lastmodified":1466326252,
     "wof:name":"Gate By Charlie",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841545,33.294463,-111.841545,33.294463],
+  "bbox": [
+    -111.841545,
+    33.294463,
+    -111.841545,
+    33.294463
+],
   "geometry": {"coordinates":[-111.841545,33.294463],"type":"Point"}
 }

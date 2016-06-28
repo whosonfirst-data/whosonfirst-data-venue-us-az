@@ -2,13 +2,14 @@
   "id": 152950659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.32575,34.524976,-114.32575,34.524976",
     "geom:latitude":34.524976,
     "geom:longitude":-114.32575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2731 Alibi Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152950659,
-    "wof:lastmodified":1449046105,
+    "wof:lastmodified":1466327416,
     "wof:name":"Arizona Best Deck",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.32575,34.524976,-114.32575,34.524976],
+  "bbox": [
+    -114.32575,
+    34.524976,
+    -114.32575,
+    34.524976
+],
   "geometry": {"coordinates":[-114.32575,34.524976],"type":"Point"}
 }

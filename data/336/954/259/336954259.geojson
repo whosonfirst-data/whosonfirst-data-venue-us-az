@@ -2,13 +2,14 @@
   "id": 336954259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.905191,33.538415,-111.905191,33.538415",
     "geom:latitude":33.538415,
     "geom:longitude":-111.905191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8161 E Indian Bend Rd # 103",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336954259,
-    "wof:lastmodified":1448997882,
+    "wof:lastmodified":1466330829,
     "wof:name":"Destination I Do",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "publisher"
     ]
 },
-  "bbox": [-111.905191,33.538415,-111.905191,33.538415],
+  "bbox": [
+    -111.905191,
+    33.538415,
+    -111.905191,
+    33.538415
+],
   "geometry": {"coordinates":[-111.905191,33.538415],"type":"Point"}
 }

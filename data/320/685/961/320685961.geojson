@@ -2,13 +2,14 @@
   "id": 320685961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075436,33.511735,-112.075436,33.511735",
     "geom:latitude":33.511735,
     "geom:longitude":-112.075436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 W Medlock Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320685961,
-    "wof:lastmodified":1449014876,
+    "wof:lastmodified":1466328009,
     "wof:name":"John Jacobs Element",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.075436,33.511735,-112.075436,33.511735],
+  "bbox": [
+    -112.075436,
+    33.511735,
+    -112.075436,
+    33.511735
+],
   "geometry": {"coordinates":[-112.075436,33.511735],"type":"Point"}
 }

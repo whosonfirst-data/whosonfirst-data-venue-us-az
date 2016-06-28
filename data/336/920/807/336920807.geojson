@@ -2,13 +2,14 @@
   "id": 336920807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.793712,33.378772,-111.793712,33.378772",
     "geom:latitude":33.378772,
     "geom:longitude":-111.793712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1757 E Baseline Rd Ste 101",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336920807,
-    "wof:lastmodified":1448997788,
+    "wof:lastmodified":1466330615,
     "wof:name":"Arizona Business Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.793712,33.378772,-111.793712,33.378772],
+  "bbox": [
+    -111.793712,
+    33.378772,
+    -111.793712,
+    33.378772
+],
   "geometry": {"coordinates":[-111.793712,33.378772],"type":"Point"}
 }

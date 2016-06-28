@@ -2,13 +2,14 @@
   "id": 153032223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.046591,31.39458,-110.046591,31.39458",
     "geom:latitude":31.39458,
     "geom:longitude":-110.046591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 W Wolf Run",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153032223,
-    "wof:lastmodified":1449040560,
+    "wof:lastmodified":1466325931,
     "wof:name":"Scales' Arizona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.046591,31.39458,-110.046591,31.39458],
-  "geometry": {"coordinates":[-110.046591,31.39458],"type":"Point"}
+  "bbox": [
+    -110.046591,
+    31.39458,
+    -110.046591,
+    31.39458
+],
+  "geometry": {"coordinates":[-110.04659100000001,31.39458],"type":"Point"}
 }

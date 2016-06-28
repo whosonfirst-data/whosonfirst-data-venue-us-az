@@ -2,13 +2,14 @@
   "id": 353672305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.259365,33.566154,-112.259365,33.566154",
     "geom:latitude":33.566154,
     "geom:longitude":-112.259365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9299 W Olive Ave Ste 112",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353672305,
-    "wof:lastmodified":1449018419,
+    "wof:lastmodified":1466329389,
     "wof:name":"Valley Environmental Resources Inc",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "systems-equipment"
     ]
 },
-  "bbox": [-112.259365,33.566154,-112.259365,33.566154],
+  "bbox": [
+    -112.259365,
+    33.566154,
+    -112.259365,
+    33.566154
+],
   "geometry": {"coordinates":[-112.259365,33.566154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169184819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.914243,33.407511,-111.914243,33.407511",
     "geom:latitude":33.407511,
     "geom:longitude":-111.914243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Broadway Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837085,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85837085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169184819,
-    "wof:lastmodified":1449033254,
+    "wof:lastmodified":1466331878,
     "wof:name":"Native New Yorker of America",
     "wof:parent_id":85837085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.914243,33.407511,-111.914243,33.407511],
+  "bbox": [
+    -111.914243,
+    33.407511,
+    -111.914243,
+    33.407511
+],
   "geometry": {"coordinates":[-111.914243,33.407511],"type":"Point"}
 }

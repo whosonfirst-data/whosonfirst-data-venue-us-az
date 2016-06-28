@@ -2,13 +2,14 @@
   "id": 353823703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.859604,32.243343,-110.859604,32.243343",
     "geom:latitude":32.243343,
     "geom:longitude":-110.859604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6226 E Pima St Ste 150",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353823703,
-    "wof:lastmodified":1449020757,
+    "wof:lastmodified":1466330549,
     "wof:name":"King & Frisch PC Attorneys",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "trust"
     ]
 },
-  "bbox": [-110.859604,32.243343,-110.859604,32.243343],
+  "bbox": [
+    -110.859604,
+    32.243343,
+    -110.859604,
+    32.243343
+],
   "geometry": {"coordinates":[-110.859604,32.243343],"type":"Point"}
 }

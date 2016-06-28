@@ -2,13 +2,14 @@
   "id": 169269139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182411,33.535654,-112.182411,33.535654",
     "geom:latitude":33.535654,
     "geom:longitude":-112.182411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6835 N 57th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169269139,
-    "wof:lastmodified":1449034755,
+    "wof:lastmodified":1466332933,
     "wof:name":"Police Dept-Identification Div",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.182411,33.535654,-112.182411,33.535654],
+  "bbox": [
+    -112.182411,
+    33.535654,
+    -112.182411,
+    33.535654
+],
   "geometry": {"coordinates":[-112.182411,33.535654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169086881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932696,33.605556,-111.932696,33.605556",
     "geom:latitude":33.605556,
     "geom:longitude":-111.932696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6836 E Dreyfus Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169086881,
-    "wof:lastmodified":1449034902,
+    "wof:lastmodified":1466330249,
     "wof:name":"Doerfert Remodeling Richa",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.932696,33.605556,-111.932696,33.605556],
-  "geometry": {"coordinates":[-111.932696,33.605556],"type":"Point"}
+  "bbox": [
+    -111.932696,
+    33.605556,
+    -111.932696,
+    33.605556
+],
+  "geometry": {"coordinates":[-111.93269600000001,33.605556],"type":"Point"}
 }

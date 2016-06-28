@@ -2,13 +2,14 @@
   "id": 168934109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181148,33.700826,-112.181148,33.700826",
     "geom:latitude":33.700826,
     "geom:longitude":-112.181148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23603 N 56th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168934109,
-    "wof:lastmodified":1449027811,
+    "wof:lastmodified":1466330641,
     "wof:name":"Jan Seager",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181148,33.700826,-112.181148,33.700826],
-  "geometry": {"coordinates":[-112.181148,33.700826],"type":"Point"}
+  "bbox": [
+    -112.181148,
+    33.700826,
+    -112.181148,
+    33.700826
+],
+  "geometry": {"coordinates":[-112.18114799999999,33.700826],"type":"Point"}
 }

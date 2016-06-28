@@ -2,13 +2,14 @@
   "id": 169324285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.917685,32.154231,-110.917685,32.154231",
     "geom:latitude":32.154231,
     "geom:longitude":-110.917685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 S Palo Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169324285,
-    "wof:lastmodified":1449034611,
+    "wof:lastmodified":1466333184,
     "wof:name":"Hallmark Homes",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.917685,32.154231,-110.917685,32.154231],
-  "geometry": {"coordinates":[-110.917685,32.154231],"type":"Point"}
+  "bbox": [
+    -110.917685,
+    32.154231,
+    -110.917685,
+    32.154231
+],
+  "geometry": {"coordinates":[-110.91768500000001,32.154231],"type":"Point"}
 }

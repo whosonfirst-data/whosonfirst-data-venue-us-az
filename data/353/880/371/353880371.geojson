@@ -2,13 +2,14 @@
   "id": 353880371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.606393,35.212395,-111.606393,35.212395",
     "geom:latitude":35.212395,
     "geom:longitude":-111.606393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 N Steves Blvd Ste 20",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":353880371,
-    "wof:lastmodified":1449020825,
+    "wof:lastmodified":1466330828,
     "wof:name":"Aspen Sales & Rentals",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "lease"
     ]
 },
-  "bbox": [-111.606393,35.212395,-111.606393,35.212395],
+  "bbox": [
+    -111.606393,
+    35.212395,
+    -111.606393,
+    35.212395
+],
   "geometry": {"coordinates":[-111.606393,35.212395],"type":"Point"}
 }

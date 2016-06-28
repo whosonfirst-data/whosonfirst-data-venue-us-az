@@ -2,13 +2,14 @@
   "id": 353701423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.623325,32.71027,-114.623325,32.71027",
     "geom:latitude":32.71027,
     "geom:longitude":-114.623325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 S 3rd Ave 85364",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":353701423,
-    "wof:lastmodified":1449020286,
+    "wof:lastmodified":1466329633,
     "wof:name":"North American Van Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "local"
     ]
 },
-  "bbox": [-114.623325,32.71027,-114.623325,32.71027],
-  "geometry": {"coordinates":[-114.623325,32.71027],"type":"Point"}
+  "bbox": [
+    -114.623325,
+    32.71027,
+    -114.623325,
+    32.71027
+],
+  "geometry": {"coordinates":[-114.62332499999999,32.71027],"type":"Point"}
 }

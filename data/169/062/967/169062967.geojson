@@ -2,13 +2,14 @@
   "id": 169062967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927891,33.524175,-111.927891,33.524175",
     "geom:latitude":33.524175,
     "geom:longitude":-111.927891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7170 E McDonald Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829861,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85829861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169062967,
-    "wof:lastmodified":1449035720,
+    "wof:lastmodified":1466329161,
     "wof:name":"Behco Investment Corp",
     "wof:parent_id":85829861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927891,33.524175,-111.927891,33.524175],
+  "bbox": [
+    -111.927891,
+    33.524175,
+    -111.927891,
+    33.524175
+],
   "geometry": {"coordinates":[-111.927891,33.524175],"type":"Point"}
 }

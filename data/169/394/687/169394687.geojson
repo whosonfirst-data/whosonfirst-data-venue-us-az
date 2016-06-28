@@ -2,13 +2,14 @@
   "id": 169394687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103353,33.586501,-112.103353,33.586501",
     "geom:latitude":33.586501,
     "geom:longitude":-112.103353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11200 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169394687,
-    "wof:lastmodified":1449033329,
+    "wof:lastmodified":1466333978,
     "wof:name":"B & T Sweeper-Scrubber Sales",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103353,33.586501,-112.103353,33.586501],
+  "bbox": [
+    -112.103353,
+    33.586501,
+    -112.103353,
+    33.586501
+],
   "geometry": {"coordinates":[-112.103353,33.586501],"type":"Point"}
 }

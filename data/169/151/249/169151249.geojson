@@ -2,13 +2,14 @@
   "id": 169151249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.96663,32.271953,-110.96663,32.271953",
     "geom:latitude":32.271953,
     "geom:longitude":-110.96663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169151249,
-    "wof:lastmodified":1449032713,
+    "wof:lastmodified":1466331720,
     "wof:name":"Sayco",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.96663,32.271953,-110.96663,32.271953],
-  "geometry": {"coordinates":[-110.96663,32.271953],"type":"Point"}
+  "bbox": [
+    -110.96663,
+    32.271953,
+    -110.96663,
+    32.271953
+],
+  "geometry": {"coordinates":[-110.96662999999999,32.271953],"type":"Point"}
 }

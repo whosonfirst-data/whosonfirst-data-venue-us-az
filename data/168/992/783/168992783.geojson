@@ -2,13 +2,14 @@
   "id": 168992783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.569678,35.240851,-111.569678,35.240851",
     "geom:latitude":35.240851,
     "geom:longitude":-111.569678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7133 US Hwy 89",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168992783,
-    "wof:lastmodified":1449028134,
+    "wof:lastmodified":1466331444,
     "wof:name":"Hill Top Gaser",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.569678,35.240851,-111.569678,35.240851],
+  "bbox": [
+    -111.569678,
+    35.240851,
+    -111.569678,
+    35.240851
+],
   "geometry": {"coordinates":[-111.569678,35.240851],"type":"Point"}
 }

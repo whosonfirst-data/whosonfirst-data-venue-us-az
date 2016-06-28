@@ -2,13 +2,14 @@
   "id": 169371129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.613104,32.669509,-114.613104,32.669509",
     "geom:latitude":32.669509,
     "geom:longitude":-114.613104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895869,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169371129,
-    "wof:lastmodified":1449035228,
+    "wof:lastmodified":1466333709,
     "wof:name":"Martin C Armijo Insurance",
     "wof:parent_id":85895869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.613104,32.669509,-114.613104,32.669509],
-  "geometry": {"coordinates":[-114.613104,32.669509],"type":"Point"}
+  "bbox": [
+    -114.613104,
+    32.669509,
+    -114.613104,
+    32.669509
+],
+  "geometry": {"coordinates":[-114.61310400000001,32.669509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169372039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.913034,33.612386,-111.913034,33.612386",
     "geom:latitude":33.612386,
     "geom:longitude":-111.913034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7755 E Gray Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169372039,
-    "wof:lastmodified":1449034689,
+    "wof:lastmodified":1466333701,
     "wof:name":"Inter-Tech Corporation",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.913034,33.612386,-111.913034,33.612386],
+  "bbox": [
+    -111.913034,
+    33.612386,
+    -111.913034,
+    33.612386
+],
   "geometry": {"coordinates":[-111.913034,33.612386],"type":"Point"}
 }

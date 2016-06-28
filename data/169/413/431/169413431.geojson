@@ -2,13 +2,14 @@
   "id": 169413431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.091208,34.457753,-110.091208,34.457753",
     "geom:latitude":34.457753,
     "geom:longitude":-110.091208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Main St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169413431,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1466333947,
     "wof:name":"Snowflake Taylor Police Dept",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.091208,34.457753,-110.091208,34.457753],
-  "geometry": {"coordinates":[-110.091208,34.457753],"type":"Point"}
+  "bbox": [
+    -110.091208,
+    34.457753,
+    -110.091208,
+    34.457753
+],
+  "geometry": {"coordinates":[-110.09120799999999,34.457753],"type":"Point"}
 }

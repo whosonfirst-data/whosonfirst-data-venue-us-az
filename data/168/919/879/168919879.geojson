@@ -2,13 +2,14 @@
   "id": 168919879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930776,33.611935,-111.930776,33.611935",
     "geom:latitude":33.611935,
     "geom:longitude":-111.930776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6935 E Ludlow Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168919879,
-    "wof:lastmodified":1449028388,
+    "wof:lastmodified":1466330295,
     "wof:name":"Cholla Plastering Inc",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.930776,33.611935,-111.930776,33.611935],
-  "geometry": {"coordinates":[-111.930776,33.611935],"type":"Point"}
+  "bbox": [
+    -111.930776,
+    33.611935,
+    -111.930776,
+    33.611935
+],
+  "geometry": {"coordinates":[-111.93077599999999,33.611935],"type":"Point"}
 }

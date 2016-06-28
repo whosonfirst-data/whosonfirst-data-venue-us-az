@@ -2,13 +2,14 @@
   "id": 169080367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.034585,32.328565,-111.034585,32.328565",
     "geom:latitude":32.328565,
     "geom:longitude":-111.034585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 W New Day Ter",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169080367,
-    "wof:lastmodified":1449035875,
+    "wof:lastmodified":1466329932,
     "wof:name":"Insurance Store The",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.034585,32.328565,-111.034585,32.328565],
-  "geometry": {"coordinates":[-111.034585,32.328565],"type":"Point"}
+  "bbox": [
+    -111.034585,
+    32.328565,
+    -111.034585,
+    32.328565
+],
+  "geometry": {"coordinates":[-111.03458500000001,32.328565],"type":"Point"}
 }

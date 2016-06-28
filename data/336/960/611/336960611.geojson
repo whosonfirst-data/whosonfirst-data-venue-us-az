@@ -2,13 +2,14 @@
   "id": 336960611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931787,33.493968,-111.931787,33.493968",
     "geom:latitude":33.493968,
     "geom:longitude":-111.931787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6934 E 1st Ave Ste 103",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336960611,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466330774,
     "wof:name":"American Comfort",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "engineer"
     ]
 },
-  "bbox": [-111.931787,33.493968,-111.931787,33.493968],
+  "bbox": [
+    -111.931787,
+    33.493968,
+    -111.931787,
+    33.493968
+],
   "geometry": {"coordinates":[-111.931787,33.493968],"type":"Point"}
 }

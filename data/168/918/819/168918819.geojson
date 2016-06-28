@@ -2,13 +2,14 @@
   "id": 168918819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.985252,32.359573,-110.985252,32.359573",
     "geom:latitude":32.359573,
     "geom:longitude":-110.985252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 W Cll Ranunculo",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168918819,
-    "wof:lastmodified":1449028292,
+    "wof:lastmodified":1466330400,
     "wof:name":"Mattson Quality Products",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.985252,32.359573,-110.985252,32.359573],
+  "bbox": [
+    -110.985252,
+    32.359573,
+    -110.985252,
+    32.359573
+],
   "geometry": {"coordinates":[-110.985252,32.359573],"type":"Point"}
 }

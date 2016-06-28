@@ -2,13 +2,14 @@
   "id": 320723049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047539,33.507858,-112.047539,33.507858",
     "geom:latitude":33.507858,
     "geom:longitude":-112.047539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4824 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320723049,
-    "wof:lastmodified":1449013443,
+    "wof:lastmodified":1466328624,
     "wof:name":"Hot Shots Auto Detail",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "tinting"
     ]
 },
-  "bbox": [-112.047539,33.507858,-112.047539,33.507858],
+  "bbox": [
+    -112.047539,
+    33.507858,
+    -112.047539,
+    33.507858
+],
   "geometry": {"coordinates":[-112.047539,33.507858],"type":"Point"}
 }

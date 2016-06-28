@@ -2,13 +2,14 @@
   "id": 353824351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.863125,32.251156,-110.863125,32.251156",
     "geom:latitude":32.251156,
     "geom:longitude":-110.863125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5995 E Grant Rd Ste 111",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353824351,
-    "wof:lastmodified":1449019160,
+    "wof:lastmodified":1466330539,
     "wof:name":"Indevco",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-110.863125,32.251156,-110.863125,32.251156],
+  "bbox": [
+    -110.863125,
+    32.251156,
+    -110.863125,
+    32.251156
+],
   "geometry": {"coordinates":[-110.863125,32.251156],"type":"Point"}
 }

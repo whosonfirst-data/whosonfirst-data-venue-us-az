@@ -2,13 +2,14 @@
   "id": 169200859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.659063,33.485517,-111.659063,33.485517",
     "geom:latitude":33.485517,
     "geom:longitude":-111.659063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 N el Sereno",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872435,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169200859,
-    "wof:lastmodified":1449034000,
+    "wof:lastmodified":1466332305,
     "wof:name":"Davis Financial",
     "wof:parent_id":85872435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.659063,33.485517,-111.659063,33.485517],
+  "bbox": [
+    -111.659063,
+    33.485517,
+    -111.659063,
+    33.485517
+],
   "geometry": {"coordinates":[-111.659063,33.485517],"type":"Point"}
 }

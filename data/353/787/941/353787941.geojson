@@ -2,13 +2,14 @@
   "id": 353787941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.921119,31.353721,-110.921119,31.353721",
     "geom:latitude":31.353721,
     "geom:longitude":-110.921119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Patagonia Hwy",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353787941,
-    "wof:lastmodified":1449019417,
+    "wof:lastmodified":1466330372,
     "wof:name":"Arizona State Government State Parks",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-110.921119,31.353721,-110.921119,31.353721],
+  "bbox": [
+    -110.921119,
+    31.353721,
+    -110.921119,
+    31.353721
+],
   "geometry": {"coordinates":[-110.921119,31.353721],"type":"Point"}
 }

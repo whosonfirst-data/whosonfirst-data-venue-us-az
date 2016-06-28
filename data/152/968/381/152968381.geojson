@@ -2,13 +2,14 @@
   "id": 152968381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.484243,34.585859,-112.484243,34.585859",
     "geom:latitude":34.585859,
     "geom:longitude":-112.484243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 Ewin Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.lynchsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152968381,
-    "wof:lastmodified":1449044586,
+    "wof:lastmodified":1466328606,
     "wof:name":"Lynch Systems",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.484243,34.585859,-112.484243,34.585859],
-  "geometry": {"coordinates":[-112.484243,34.585859],"type":"Point"}
+  "bbox": [
+    -112.484243,
+    34.585859,
+    -112.484243,
+    34.585859
+],
+  "geometry": {"coordinates":[-112.48424300000001,34.585859],"type":"Point"}
 }

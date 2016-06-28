@@ -2,13 +2,14 @@
   "id": 169112427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.979678,32.252179,-110.979678,32.252179",
     "geom:latitude":32.252179,
     "geom:longitude":-110.979678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 W Alturas St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169112427,
-    "wof:lastmodified":1449034193,
+    "wof:lastmodified":1466331217,
     "wof:name":"Marjon Ceramics Inc",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.979678,32.252179,-110.979678,32.252179],
-  "geometry": {"coordinates":[-110.979678,32.252179],"type":"Point"}
+  "bbox": [
+    -110.979678,
+    32.252179,
+    -110.979678,
+    32.252179
+],
+  "geometry": {"coordinates":[-110.97967800000001,32.252179],"type":"Point"}
 }

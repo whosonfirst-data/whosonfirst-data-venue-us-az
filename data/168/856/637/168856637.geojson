@@ -2,13 +2,14 @@
   "id": 168856637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.807164,32.103705,-110.807164,32.103705",
     "geom:latitude":32.103705,
     "geom:longitude":-110.807164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 E Old Vail Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858071,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85858071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168856637,
-    "wof:lastmodified":1449027979,
+    "wof:lastmodified":1466326281,
     "wof:name":"Garden Gate LLC",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.807164,32.103705,-110.807164,32.103705],
+  "bbox": [
+    -110.807164,
+    32.103705,
+    -110.807164,
+    32.103705
+],
   "geometry": {"coordinates":[-110.807164,32.103705],"type":"Point"}
 }

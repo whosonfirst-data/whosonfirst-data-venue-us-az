@@ -2,13 +2,14 @@
   "id": 152981149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.893035,32.326523,-110.893035,32.326523",
     "geom:latitude":32.326523,
     "geom:longitude":-110.893035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6621 N Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152981149,
-    "wof:lastmodified":1449048976,
+    "wof:lastmodified":1466328980,
     "wof:name":"Arizona Metal Arts Inc",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.893035,32.326523,-110.893035,32.326523],
+  "bbox": [
+    -110.893035,
+    32.326523,
+    -110.893035,
+    32.326523
+],
   "geometry": {"coordinates":[-110.893035,32.326523],"type":"Point"}
 }

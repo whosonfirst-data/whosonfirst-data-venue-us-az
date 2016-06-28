@@ -2,13 +2,14 @@
   "id": 153072221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010498,33.338694,-112.010498,33.338694",
     "geom:latitude":33.338694,
     "geom:longitude":-112.010498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11821 S Tuzigoot Ct",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858489,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153072221,
-    "wof:lastmodified":1449040597,
+    "wof:lastmodified":1466328389,
     "wof:name":"Bison Center LLC",
     "wof:parent_id":85858489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010498,33.338694,-112.010498,33.338694],
+  "bbox": [
+    -112.010498,
+    33.338694,
+    -112.010498,
+    33.338694
+],
   "geometry": {"coordinates":[-112.010498,33.338694],"type":"Point"}
 }

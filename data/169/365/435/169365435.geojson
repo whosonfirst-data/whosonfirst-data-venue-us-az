@@ -2,13 +2,14 @@
   "id": 169365435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.294485,33.048261,-109.294485,33.048261",
     "geom:latitude":33.048261,
     "geom:longitude":-109.294485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Coronado Blvd",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169365435,
-    "wof:lastmodified":1449033228,
+    "wof:lastmodified":1466333623,
     "wof:name":"Clifton Town Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.294485,33.048261,-109.294485,33.048261],
-  "geometry": {"coordinates":[-109.294485,33.048261],"type":"Point"}
+  "bbox": [
+    -109.294485,
+    33.048261,
+    -109.294485,
+    33.048261
+],
+  "geometry": {"coordinates":[-109.29448499999999,33.048261],"type":"Point"}
 }

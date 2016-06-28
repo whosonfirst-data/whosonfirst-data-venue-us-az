@@ -2,13 +2,14 @@
   "id": 168927017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137717,33.620127,-112.137717,33.620127",
     "geom:latitude":33.620127,
     "geom:longitude":-112.137717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14802 N 37th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168927017,
-    "wof:lastmodified":1449028509,
+    "wof:lastmodified":1466330519,
     "wof:name":"S & S Treats",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.137717,33.620127,-112.137717,33.620127],
-  "geometry": {"coordinates":[-112.137717,33.620127],"type":"Point"}
+  "bbox": [
+    -112.137717,
+    33.620127,
+    -112.137717,
+    33.620127
+],
+  "geometry": {"coordinates":[-112.13771699999999,33.620127],"type":"Point"}
 }

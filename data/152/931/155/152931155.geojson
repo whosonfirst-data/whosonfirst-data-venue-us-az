@@ -2,13 +2,14 @@
   "id": 152931155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116908,34.751457,-112.116908,34.751457",
     "geom:latitude":34.751457,
     "geom:longitude":-112.116908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Main St",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152931155,
-    "wof:lastmodified":1449048507,
+    "wof:lastmodified":1466326059,
     "wof:name":"Inn At Jerome",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.116908,34.751457,-112.116908,34.751457],
+  "bbox": [
+    -112.116908,
+    34.751457,
+    -112.116908,
+    34.751457
+],
   "geometry": {"coordinates":[-112.116908,34.751457],"type":"Point"}
 }

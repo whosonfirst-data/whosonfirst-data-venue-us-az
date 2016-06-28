@@ -2,13 +2,14 @@
   "id": 169196039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.288573,33.299388,-111.288573,33.299388",
     "geom:latitude":33.299388,
     "geom:longitude":-111.288573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 E Queen Valley Dr",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169196039,
-    "wof:lastmodified":1449033434,
+    "wof:lastmodified":1466332046,
     "wof:name":"Queen Valley Properties Inc",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.288573,33.299388,-111.288573,33.299388],
+  "bbox": [
+    -111.288573,
+    33.299388,
+    -111.288573,
+    33.299388
+],
   "geometry": {"coordinates":[-111.288573,33.299388],"type":"Point"}
 }

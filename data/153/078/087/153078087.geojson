@@ -2,13 +2,14 @@
   "id": 153078087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.699446,33.473247,-111.699446,33.473247",
     "geom:latitude":33.473247,
     "geom:longitude":-111.699446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6133 E Quince St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872431,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153078087,
-    "wof:lastmodified":1449040757,
+    "wof:lastmodified":1466328909,
     "wof:name":"Jon Robinsons Solar & Plumbing",
     "wof:parent_id":85872431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.699446,33.473247,-111.699446,33.473247],
-  "geometry": {"coordinates":[-111.699446,33.473247],"type":"Point"}
+  "bbox": [
+    -111.699446,
+    33.473247,
+    -111.699446,
+    33.473247
+],
+  "geometry": {"coordinates":[-111.69944599999999,33.473247],"type":"Point"}
 }

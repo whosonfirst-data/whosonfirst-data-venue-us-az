@@ -2,13 +2,14 @@
   "id": 169215027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.816019,33.416115,-111.816019,33.416115",
     "geom:latitude":33.416115,
     "geom:longitude":-111.816019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 N Ashland",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872457,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169215027,
-    "wof:lastmodified":1449035385,
+    "wof:lastmodified":1466332182,
     "wof:name":"Escorcia Tree Svc",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.816019,33.416115,-111.816019,33.416115],
+  "bbox": [
+    -111.816019,
+    33.416115,
+    -111.816019,
+    33.416115
+],
   "geometry": {"coordinates":[-111.816019,33.416115],"type":"Point"}
 }

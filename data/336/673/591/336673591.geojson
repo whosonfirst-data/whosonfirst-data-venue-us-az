@@ -2,13 +2,14 @@
   "id": 336673591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.083771,33.413976,-112.083771,33.413976",
     "geom:latitude":33.413976,
     "geom:longitude":-112.083771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 W Elwood St Ste 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -90,10 +91,11 @@
         }
     ],
     "wof:id":336673591,
-    "wof:lastmodified":1448997370,
+    "wof:lastmodified":1466327524,
     "wof:name":"Brown's Custom Fence",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -113,6 +115,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.083771,33.413976,-112.083771,33.413976],
+  "bbox": [
+    -112.083771,
+    33.413976,
+    -112.083771,
+    33.413976
+],
   "geometry": {"coordinates":[-112.083771,33.413976],"type":"Point"}
 }

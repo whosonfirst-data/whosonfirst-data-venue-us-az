@@ -2,13 +2,14 @@
   "id": 153041951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.21429,33.717842,-112.21429,33.717842",
     "geom:latitude":33.717842,
     "geom:longitude":-112.21429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7133 W Honeysuckle Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153041951,
-    "wof:lastmodified":1449040502,
+    "wof:lastmodified":1466326609,
     "wof:name":"Pro Filers LLC",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.21429,33.717842,-112.21429,33.717842],
-  "geometry": {"coordinates":[-112.21429,33.717842],"type":"Point"}
+  "bbox": [
+    -112.21429,
+    33.717842,
+    -112.21429,
+    33.717842
+],
+  "geometry": {"coordinates":[-112.21429000000001,33.717842],"type":"Point"}
 }

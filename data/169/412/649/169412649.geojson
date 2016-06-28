@@ -2,13 +2,14 @@
   "id": 169412649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004122,33.408936,-112.004122,33.408936",
     "geom:latitude":33.408936,
     "geom:longitude":-112.004122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 E Wood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169412649,
-    "wof:lastmodified":1449033362,
+    "wof:lastmodified":1466333866,
     "wof:name":"Cookin On Wood",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004122,33.408936,-112.004122,33.408936],
+  "bbox": [
+    -112.004122,
+    33.408936,
+    -112.004122,
+    33.408936
+],
   "geometry": {"coordinates":[-112.004122,33.408936],"type":"Point"}
 }

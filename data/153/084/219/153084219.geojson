@@ -2,13 +2,14 @@
   "id": 153084219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.097042,33.5518,-112.097042,33.5518",
     "geom:latitude":33.5518,
     "geom:longitude":-112.097042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7714 N 17th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":153084219,
-    "wof:lastmodified":1449040382,
+    "wof:lastmodified":1466328967,
     "wof:name":"Roman's Window Tinting",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.097042,33.5518,-112.097042,33.5518],
+  "bbox": [
+    -112.097042,
+    33.5518,
+    -112.097042,
+    33.5518
+],
   "geometry": {"coordinates":[-112.097042,33.5518],"type":"Point"}
 }

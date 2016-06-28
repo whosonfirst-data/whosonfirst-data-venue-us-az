@@ -2,13 +2,14 @@
   "id": 152929367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065351,33.61157,-112.065351,33.61157",
     "geom:latitude":33.61157,
     "geom:longitude":-112.065351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13815 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152929367,
-    "wof:lastmodified":1449046079,
+    "wof:lastmodified":1466325932,
     "wof:name":"Hillcrest Food Store",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065351,33.61157,-112.065351,33.61157],
-  "geometry": {"coordinates":[-112.065351,33.61157],"type":"Point"}
+  "bbox": [
+    -112.065351,
+    33.61157,
+    -112.065351,
+    33.61157
+],
+  "geometry": {"coordinates":[-112.06535100000001,33.61157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169287267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.752399,32.894222,-111.752399,32.894222",
     "geom:latitude":32.894222,
     "geom:longitude":-111.752399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Cottonwood Ln",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169287267,
-    "wof:lastmodified":1449032884,
+    "wof:lastmodified":1466332849,
     "wof:name":"Michele Novak",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.752399,32.894222,-111.752399,32.894222],
+  "bbox": [
+    -111.752399,
+    32.894222,
+    -111.752399,
+    32.894222
+],
   "geometry": {"coordinates":[-111.752399,32.894222],"type":"Point"}
 }

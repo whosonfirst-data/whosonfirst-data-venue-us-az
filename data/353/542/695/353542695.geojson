@@ -2,13 +2,14 @@
   "id": 353542695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.743851,33.336319,-111.743851,33.336319",
     "geom:latitude":33.336319,
     "geom:longitude":-111.743851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2247 E Arabian Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353542695,
-    "wof:lastmodified":1449020253,
+    "wof:lastmodified":1466327903,
     "wof:name":"Lorenzo P Dillon",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-111.743851,33.336319,-111.743851,33.336319],
-  "geometry": {"coordinates":[-111.743851,33.336319],"type":"Point"}
+  "bbox": [
+    -111.743851,
+    33.336319,
+    -111.743851,
+    33.336319
+],
+  "geometry": {"coordinates":[-111.74385100000001,33.336319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353827551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943012,32.201697,-110.943012,32.201697",
     "geom:latitude":32.201697,
     "geom:longitude":-110.943012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 E Silverlake Rd Ste 405",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":353827551,
-    "wof:lastmodified":1449019167,
+    "wof:lastmodified":1466330732,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "charity"
     ]
 },
-  "bbox": [-110.943012,32.201697,-110.943012,32.201697],
+  "bbox": [
+    -110.943012,
+    32.201697,
+    -110.943012,
+    32.201697
+],
   "geometry": {"coordinates":[-110.943012,32.201697],"type":"Point"}
 }

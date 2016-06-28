@@ -2,13 +2,14 @@
   "id": 168917545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960974,32.259479,-110.960974,32.259479",
     "geom:latitude":32.259479,
     "geom:longitude":-110.960974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168917545,
-    "wof:lastmodified":1449028478,
+    "wof:lastmodified":1466330232,
     "wof:name":"Creative Auto Remarketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960974,32.259479,-110.960974,32.259479],
-  "geometry": {"coordinates":[-110.960974,32.259479],"type":"Point"}
+  "bbox": [
+    -110.960974,
+    32.259479,
+    -110.960974,
+    32.259479
+],
+  "geometry": {"coordinates":[-110.96097399999999,32.259479],"type":"Point"}
 }

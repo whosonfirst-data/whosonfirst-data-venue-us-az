@@ -2,13 +2,14 @@
   "id": 153090865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.85513,33.30988,-111.85513,33.30988",
     "geom:latitude":33.30988,
     "geom:longitude":-111.85513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 N Jay St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876683,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153090865,
-    "wof:lastmodified":1449040718,
+    "wof:lastmodified":1466329572,
     "wof:name":"Just Grass",
     "wof:parent_id":85876683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.85513,33.30988,-111.85513,33.30988],
+  "bbox": [
+    -111.85513,
+    33.30988,
+    -111.85513,
+    33.30988
+],
   "geometry": {"coordinates":[-111.85513,33.30988],"type":"Point"}
 }

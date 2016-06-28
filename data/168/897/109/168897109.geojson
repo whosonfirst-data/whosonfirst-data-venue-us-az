@@ -2,13 +2,14 @@
   "id": 168897109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.454219,34.733115,-112.454219,34.733115",
     "geom:latitude":34.733115,
     "geom:longitude":-112.454219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"854 N US Hwy 89",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168897109,
-    "wof:lastmodified":1449028460,
+    "wof:lastmodified":1466329300,
     "wof:name":"A JS Pawn",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.454219,34.733115,-112.454219,34.733115],
-  "geometry": {"coordinates":[-112.454219,34.733115],"type":"Point"}
+  "bbox": [
+    -112.454219,
+    34.733115,
+    -112.454219,
+    34.733115
+],
+  "geometry": {"coordinates":[-112.45421899999999,34.733115],"type":"Point"}
 }

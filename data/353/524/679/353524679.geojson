@@ -2,13 +2,14 @@
   "id": 353524679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790686,33.277465,-111.790686,33.277465",
     "geom:latitude":33.277465,
     "geom:longitude":-111.790686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 E Germann Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353524679,
-    "wof:lastmodified":1449018230,
+    "wof:lastmodified":1466327597,
     "wof:name":"Streets of New York",
     "wof:parent_id":85876675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-111.790686,33.277465,-111.790686,33.277465],
-  "geometry": {"coordinates":[-111.790686,33.277465],"type":"Point"}
+  "bbox": [
+    -111.790686,
+    33.277465,
+    -111.790686,
+    33.277465
+],
+  "geometry": {"coordinates":[-111.79068599999999,33.277465],"type":"Point"}
 }

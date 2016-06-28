@@ -2,13 +2,14 @@
   "id": 168843885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.616071,32.696304,-114.616071,32.696304",
     "geom:latitude":32.696304,
     "geom:longitude":-114.616071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 S Arizona Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168843885,
-    "wof:lastmodified":1449027837,
+    "wof:lastmodified":1466327413,
     "wof:name":"Sign Pro of Yuma Inc",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.616071,32.696304,-114.616071,32.696304],
-  "geometry": {"coordinates":[-114.616071,32.696304],"type":"Point"}
+  "bbox": [
+    -114.616071,
+    32.696304,
+    -114.616071,
+    32.696304
+],
+  "geometry": {"coordinates":[-114.61607100000001,32.696304],"type":"Point"}
 }

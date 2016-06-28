@@ -2,13 +2,14 @@
   "id": 353769193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.764418,33.39147,-110.764418,33.39147",
     "geom:latitude":33.39147,
     "geom:longitude":-110.764418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 E Ash St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -86,10 +87,11 @@
         }
     ],
     "wof:id":353769193,
-    "wof:lastmodified":1449019104,
+    "wof:lastmodified":1466330224,
     "wof:name":"Globe Ace Hardware",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -105,6 +107,11 @@
         "store"
     ]
 },
-  "bbox": [-110.764418,33.39147,-110.764418,33.39147],
-  "geometry": {"coordinates":[-110.764418,33.39147],"type":"Point"}
+  "bbox": [
+    -110.764418,
+    33.39147,
+    -110.764418,
+    33.39147
+],
+  "geometry": {"coordinates":[-110.76441800000001,33.39147],"type":"Point"}
 }

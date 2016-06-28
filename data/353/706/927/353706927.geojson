@@ -2,13 +2,14 @@
   "id": 353706927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.613268,32.690169,-114.613268,32.690169",
     "geom:latitude":32.690169,
     "geom:longitude":-114.613268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 S Factor Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -88,10 +89,11 @@
         }
     ],
     "wof:id":353706927,
-    "wof:lastmodified":1449018438,
+    "wof:lastmodified":1466329802,
     "wof:name":"M & S Home Appliance",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -115,6 +117,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-114.613268,32.690169,-114.613268,32.690169],
-  "geometry": {"coordinates":[-114.613268,32.690169],"type":"Point"}
+  "bbox": [
+    -114.613268,
+    32.690169,
+    -114.613268,
+    32.690169
+],
+  "geometry": {"coordinates":[-114.61326800000001,32.690169],"type":"Point"}
 }

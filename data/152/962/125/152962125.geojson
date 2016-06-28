@@ -2,13 +2,14 @@
   "id": 152962125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882537,33.700041,-111.882537,33.700041",
     "geom:latitude":33.700041,
     "geom:longitude":-111.882537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9341 E Ver Solana",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880947,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152962125,
-    "wof:lastmodified":1449047021,
+    "wof:lastmodified":1466328020,
     "wof:name":"Corn Investments LLC",
     "wof:parent_id":85880947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.882537,33.700041,-111.882537,33.700041],
+  "bbox": [
+    -111.882537,
+    33.700041,
+    -111.882537,
+    33.700041
+],
   "geometry": {"coordinates":[-111.882537,33.700041],"type":"Point"}
 }

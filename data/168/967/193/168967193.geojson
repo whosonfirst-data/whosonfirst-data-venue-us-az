@@ -2,13 +2,14 @@
   "id": 168967193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.639252,35.203027,-111.639252,35.203027",
     "geom:latitude":35.203027,
     "geom:longitude":-111.639252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 N Canyon Terrace Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168967193,
-    "wof:lastmodified":1449028537,
+    "wof:lastmodified":1466331211,
     "wof:name":"Realty Signs Express",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.639252,35.203027,-111.639252,35.203027],
+  "bbox": [
+    -111.639252,
+    35.203027,
+    -111.639252,
+    35.203027
+],
   "geometry": {"coordinates":[-111.639252,35.203027],"type":"Point"}
 }

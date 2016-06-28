@@ -2,13 +2,14 @@
   "id": 153031303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027324,34.749118,-112.027324,34.749118",
     "geom:latitude":34.749118,
     "geom:longitude":-112.027324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 N Main St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153031303,
-    "wof:lastmodified":1449040514,
+    "wof:lastmodified":1466325864,
     "wof:name":"Arizona Chili",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.027324,34.749118,-112.027324,34.749118],
-  "geometry": {"coordinates":[-112.027324,34.749118],"type":"Point"}
+  "bbox": [
+    -112.027324,
+    34.749118,
+    -112.027324,
+    34.749118
+],
+  "geometry": {"coordinates":[-112.02732399999999,34.749118],"type":"Point"}
 }

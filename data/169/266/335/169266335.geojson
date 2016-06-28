@@ -2,13 +2,14 @@
   "id": 169266335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.933389,32.331162,-110.933389,32.331162",
     "geom:latitude":32.331162,
     "geom:longitude":-110.933389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 E Ozona Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169266335,
-    "wof:lastmodified":1449032790,
+    "wof:lastmodified":1466332607,
     "wof:name":"Joane E Hallinan Law Offices",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.933389,32.331162,-110.933389,32.331162],
-  "geometry": {"coordinates":[-110.933389,32.331162],"type":"Point"}
+  "bbox": [
+    -110.933389,
+    32.331162,
+    -110.933389,
+    32.331162
+],
+  "geometry": {"coordinates":[-110.93338900000001,32.331162],"type":"Point"}
 }

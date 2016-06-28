@@ -2,13 +2,14 @@
   "id": 169408641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.067238,33.488413,-112.067238,33.488413",
     "geom:latitude":33.488413,
     "geom:longitude":-112.067238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Mitchell Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169408641,
-    "wof:lastmodified":1449033093,
+    "wof:lastmodified":1466334079,
     "wof:name":"Root Gary B Associates PC",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.067238,33.488413,-112.067238,33.488413],
+  "bbox": [
+    -112.067238,
+    33.488413,
+    -112.067238,
+    33.488413
+],
   "geometry": {"coordinates":[-112.067238,33.488413],"type":"Point"}
 }

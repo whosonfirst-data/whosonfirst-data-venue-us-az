@@ -2,13 +2,14 @@
   "id": 169090271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.695021,33.415572,-111.695021,33.415572",
     "geom:latitude":33.415572,
     "geom:longitude":-111.695021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6335 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.goodeyes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808263,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85808263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169090271,
-    "wof:lastmodified":1449035289,
+    "wof:lastmodified":1466330517,
     "wof:name":"Barnet Dulaney Perkins Eye Ctr",
     "wof:parent_id":85808263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.695021,33.415572,-111.695021,33.415572],
+  "bbox": [
+    -111.695021,
+    33.415572,
+    -111.695021,
+    33.415572
+],
   "geometry": {"coordinates":[-111.695021,33.415572],"type":"Point"}
 }

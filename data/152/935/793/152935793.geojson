@@ -2,13 +2,14 @@
   "id": 152935793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.279102,34.520511,-114.279102,34.520511",
     "geom:latitude":34.520511,
     "geom:longitude":-114.279102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Paso de Oro Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152935793,
-    "wof:lastmodified":1449048089,
+    "wof:lastmodified":1466326384,
     "wof:name":"Speciality Products",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.279102,34.520511,-114.279102,34.520511],
-  "geometry": {"coordinates":[-114.279102,34.520511],"type":"Point"}
+  "bbox": [
+    -114.279102,
+    34.520511,
+    -114.279102,
+    34.520511
+],
+  "geometry": {"coordinates":[-114.27910199999999,34.520511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168861841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929596,32.231519,-110.929596,32.231519",
     "geom:latitude":32.231519,
     "geom:longitude":-110.929596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Stewart Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.microlion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168861841,
-    "wof:lastmodified":1449028591,
+    "wof:lastmodified":1466326749,
     "wof:name":"Microlion",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.929596,32.231519,-110.929596,32.231519],
+  "bbox": [
+    -110.929596,
+    32.231519,
+    -110.929596,
+    32.231519
+],
   "geometry": {"coordinates":[-110.929596,32.231519],"type":"Point"}
 }

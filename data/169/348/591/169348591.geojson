@@ -2,13 +2,14 @@
   "id": 169348591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065168,33.607708,-112.065168,33.607708",
     "geom:latitude":33.607708,
     "geom:longitude":-112.065168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"678 E Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169348591,
-    "wof:lastmodified":1449032834,
+    "wof:lastmodified":1466333471,
     "wof:name":"Encore Mortgage",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065168,33.607708,-112.065168,33.607708],
+  "bbox": [
+    -112.065168,
+    33.607708,
+    -112.065168,
+    33.607708
+],
   "geometry": {"coordinates":[-112.065168,33.607708],"type":"Point"}
 }

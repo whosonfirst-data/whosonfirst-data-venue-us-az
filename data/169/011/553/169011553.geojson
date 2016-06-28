@@ -2,13 +2,14 @@
   "id": 169011553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.951755,32.249803,-110.951755,32.249803",
     "geom:latitude":32.249803,
     "geom:longitude":-110.951755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169011553,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1466327018,
     "wof:name":"Contractors Termite & Pest",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.951755,32.249803,-110.951755,32.249803],
-  "geometry": {"coordinates":[-110.951755,32.249803],"type":"Point"}
+  "bbox": [
+    -110.951755,
+    32.249803,
+    -110.951755,
+    32.249803
+],
+  "geometry": {"coordinates":[-110.95175500000001,32.249803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336675487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.057387,33.365204,-112.057387,33.365204",
     "geom:latitude":33.365204,
     "geom:longitude":-112.057387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8818 S 12th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":336675487,
-    "wof:lastmodified":1448997503,
+    "wof:lastmodified":1466327571,
     "wof:name":"Summit Systems",
     "wof:parent_id":85828931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.057387,33.365204,-112.057387,33.365204],
-  "geometry": {"coordinates":[-112.057387,33.365204],"type":"Point"}
+  "bbox": [
+    -112.057387,
+    33.365204,
+    -112.057387,
+    33.365204
+],
+  "geometry": {"coordinates":[-112.05738700000001,33.365204],"type":"Point"}
 }

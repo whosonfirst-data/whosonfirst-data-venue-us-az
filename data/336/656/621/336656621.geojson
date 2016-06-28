@@ -2,13 +2,14 @@
   "id": 336656621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.997225,33.399283,-111.997225,33.399283",
     "geom:latitude":33.399283,
     "geom:longitude":-111.997225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 S 39th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336656621,
-    "wof:lastmodified":1448997632,
+    "wof:lastmodified":1466327093,
     "wof:name":"Events With Taste",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-111.997225,33.399283,-111.997225,33.399283],
+  "bbox": [
+    -111.997225,
+    33.399283,
+    -111.997225,
+    33.399283
+],
   "geometry": {"coordinates":[-111.997225,33.399283],"type":"Point"}
 }

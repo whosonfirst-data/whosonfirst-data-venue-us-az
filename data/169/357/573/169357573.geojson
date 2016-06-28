@@ -2,13 +2,14 @@
   "id": 169357573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834556,33.6268,-111.834556,33.6268",
     "geom:latitude":33.6268,
     "geom:longitude":-111.834556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11314 E Caribbean Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880955,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169357573,
-    "wof:lastmodified":1449035551,
+    "wof:lastmodified":1466333639,
     "wof:name":"Bruce J Hunerberg & Assoc Inc",
     "wof:parent_id":85880955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.834556,33.6268,-111.834556,33.6268],
-  "geometry": {"coordinates":[-111.834556,33.6268],"type":"Point"}
+  "bbox": [
+    -111.834556,
+    33.6268,
+    -111.834556,
+    33.6268
+],
+  "geometry": {"coordinates":[-111.83455600000001,33.6268],"type":"Point"}
 }

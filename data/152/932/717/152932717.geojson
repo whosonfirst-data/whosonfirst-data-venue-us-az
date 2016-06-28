@@ -2,13 +2,14 @@
   "id": 152932717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.786128,34.857902,-111.786128,34.857902",
     "geom:latitude":34.857902,
     "geom:longitude":-111.786128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Willow Way",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152932717,
-    "wof:lastmodified":1449046022,
+    "wof:lastmodified":1466326165,
     "wof:name":"Realty Executives Sedona",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.786128,34.857902,-111.786128,34.857902],
-  "geometry": {"coordinates":[-111.786128,34.857902],"type":"Point"}
+  "bbox": [
+    -111.786128,
+    34.857902,
+    -111.786128,
+    34.857902
+],
+  "geometry": {"coordinates":[-111.78612800000001,34.857902],"type":"Point"}
 }

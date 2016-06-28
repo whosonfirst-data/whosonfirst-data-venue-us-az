@@ -2,13 +2,14 @@
   "id": 336668683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105516,33.394901,-112.105516,33.394901",
     "geom:latitude":33.394901,
     "geom:longitude":-112.105516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2246 W Wayland Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336668683,
-    "wof:lastmodified":1448997682,
+    "wof:lastmodified":1466327394,
     "wof:name":"Chill Factor Ac & Heating Electric",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.105516,33.394901,-112.105516,33.394901],
-  "geometry": {"coordinates":[-112.105516,33.394901],"type":"Point"}
+  "bbox": [
+    -112.105516,
+    33.394901,
+    -112.105516,
+    33.394901
+],
+  "geometry": {"coordinates":[-112.10551599999999,33.394901],"type":"Point"}
 }

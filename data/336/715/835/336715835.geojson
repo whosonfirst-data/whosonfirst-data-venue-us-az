@@ -2,13 +2,14 @@
   "id": 336715835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.147797,33.571178,-112.147797,33.571178",
     "geom:latitude":33.571178,
     "geom:longitude":-112.147797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 W Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336715835,
-    "wof:lastmodified":1448997812,
+    "wof:lastmodified":1466328277,
     "wof:name":"Arizona Rare Fruit Grower",
     "wof:parent_id":85877825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-112.147797,33.571178,-112.147797,33.571178],
+  "bbox": [
+    -112.147797,
+    33.571178,
+    -112.147797,
+    33.571178
+],
   "geometry": {"coordinates":[-112.147797,33.571178],"type":"Point"}
 }

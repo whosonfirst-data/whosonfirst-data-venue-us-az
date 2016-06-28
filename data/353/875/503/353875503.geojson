@@ -2,13 +2,14 @@
   "id": 353875503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.696673,35.095384,-111.696673,35.095384",
     "geom:latitude":35.095384,
     "geom:longitude":-111.696673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Pinon Trl",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353875503,
-    "wof:lastmodified":1449020148,
+    "wof:lastmodified":1466330959,
     "wof:name":"John's Home Repair",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "fix-it"
     ]
 },
-  "bbox": [-111.696673,35.095384,-111.696673,35.095384],
+  "bbox": [
+    -111.696673,
+    35.095384,
+    -111.696673,
+    35.095384
+],
   "geometry": {"coordinates":[-111.696673,35.095384],"type":"Point"}
 }

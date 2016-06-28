@@ -2,13 +2,14 @@
   "id": 169030019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929235,31.352216,-110.929235,31.352216",
     "geom:latitude":31.352216,
     "geom:longitude":-110.929235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 W 1st St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169030019,
-    "wof:lastmodified":1449033905,
+    "wof:lastmodified":1466326870,
     "wof:name":"KNOG",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.929235,31.352216,-110.929235,31.352216],
-  "geometry": {"coordinates":[-110.929235,31.352216],"type":"Point"}
+  "bbox": [
+    -110.929235,
+    31.352216,
+    -110.929235,
+    31.352216
+],
+  "geometry": {"coordinates":[-110.92923500000001,31.352216],"type":"Point"}
 }

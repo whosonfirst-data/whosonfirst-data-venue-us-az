@@ -2,13 +2,14 @@
   "id": 353810015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975792,32.32732,-110.975792,32.32732",
     "geom:latitude":32.32732,
     "geom:longitude":-110.975792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 N Oracle Rd Ste 503",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353810015,
-    "wof:lastmodified":1449019015,
+    "wof:lastmodified":1466330332,
     "wof:name":"Casa Vista Properties Inc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "rental"
     ]
 },
-  "bbox": [-110.975792,32.32732,-110.975792,32.32732],
+  "bbox": [
+    -110.975792,
+    32.32732,
+    -110.975792,
+    32.32732
+],
   "geometry": {"coordinates":[-110.975792,32.32732],"type":"Point"}
 }

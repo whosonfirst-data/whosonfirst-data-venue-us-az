@@ -2,13 +2,14 @@
   "id": 168914049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.006568,32.411938,-111.006568,32.411938",
     "geom:latitude":32.411938,
     "geom:longitude":-111.006568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11258 N Via Rancho Naranjo",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168914049,
-    "wof:lastmodified":1449028053,
+    "wof:lastmodified":1466330145,
     "wof:name":"LA Canada Co",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.006568,32.411938,-111.006568,32.411938],
+  "bbox": [
+    -111.006568,
+    32.411938,
+    -111.006568,
+    32.411938
+],
   "geometry": {"coordinates":[-111.006568,32.411938],"type":"Point"}
 }

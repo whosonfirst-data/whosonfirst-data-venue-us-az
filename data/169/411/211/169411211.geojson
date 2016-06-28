@@ -2,13 +2,14 @@
   "id": 169411211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.156714,35.104663,-114.156714,35.104663",
     "geom:latitude":35.104663,
     "geom:longitude":-114.156714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Oatman Rd",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169411211,
-    "wof:lastmodified":1449032843,
+    "wof:lastmodified":1466333713,
     "wof:name":"Bruce E R Realty",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.156714,35.104663,-114.156714,35.104663],
-  "geometry": {"coordinates":[-114.156714,35.104663],"type":"Point"}
+  "bbox": [
+    -114.156714,
+    35.104663,
+    -114.156714,
+    35.104663
+],
+  "geometry": {"coordinates":[-114.15671399999999,35.104663],"type":"Point"}
 }

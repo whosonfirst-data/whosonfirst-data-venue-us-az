@@ -2,13 +2,14 @@
   "id": 153034247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.82546,32.308236,-110.82546,32.308236",
     "geom:latitude":32.308236,
     "geom:longitude":-110.82546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Weeping Rock Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153034247,
-    "wof:lastmodified":1449040384,
+    "wof:lastmodified":1466326071,
     "wof:name":"Desert Oasis Landscape Co Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.82546,32.308236,-110.82546,32.308236],
-  "geometry": {"coordinates":[-110.82546,32.308236],"type":"Point"}
+  "bbox": [
+    -110.82546,
+    32.308236,
+    -110.82546,
+    32.308236
+],
+  "geometry": {"coordinates":[-110.82546000000001,32.308236],"type":"Point"}
 }

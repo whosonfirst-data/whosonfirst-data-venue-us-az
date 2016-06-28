@@ -2,13 +2,14 @@
   "id": 169142433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.99378,33.726049,-111.99378,33.726049",
     "geom:latitude":33.726049,
     "geom:longitude":-111.99378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4114 E Pinto Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169142433,
-    "wof:lastmodified":1449035299,
+    "wof:lastmodified":1466331668,
     "wof:name":"An Emerald Pool & Spa",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.99378,33.726049,-111.99378,33.726049],
+  "bbox": [
+    -111.99378,
+    33.726049,
+    -111.99378,
+    33.726049
+],
   "geometry": {"coordinates":[-111.99378,33.726049],"type":"Point"}
 }

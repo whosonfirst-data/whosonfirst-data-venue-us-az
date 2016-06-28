@@ -2,13 +2,14 @@
   "id": 168902525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970523,32.228922,-110.970523,32.228922",
     "geom:latitude":32.228922,
     "geom:longitude":-110.970523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.heg-inc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168902525,
-    "wof:lastmodified":1449028357,
+    "wof:lastmodified":1466329826,
     "wof:name":"Harris Environmental Group Inc",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970523,32.228922,-110.970523,32.228922],
+  "bbox": [
+    -110.970523,
+    32.228922,
+    -110.970523,
+    32.228922
+],
   "geometry": {"coordinates":[-110.970523,32.228922],"type":"Point"}
 }

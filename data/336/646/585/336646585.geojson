@@ -2,13 +2,14 @@
   "id": 336646585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.262443,33.466825,-112.262443,33.466825",
     "geom:latitude":33.466825,
     "geom:longitude":-112.262443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9424 W Terri Lee Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336646585,
-    "wof:lastmodified":1448996898,
+    "wof:lastmodified":1466326908,
     "wof:name":"Legacy Installations",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.262443,33.466825,-112.262443,33.466825],
+  "bbox": [
+    -112.262443,
+    33.466825,
+    -112.262443,
+    33.466825
+],
   "geometry": {"coordinates":[-112.262443,33.466825],"type":"Point"}
 }

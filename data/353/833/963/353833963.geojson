@@ -2,13 +2,14 @@
   "id": 353833963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.910592,32.308209,-110.910592,32.308209",
     "geom:latitude":32.308209,
     "geom:longitude":-110.910592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 N Hacienda del Sol Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353833963,
-    "wof:lastmodified":1449018574,
+    "wof:lastmodified":1466330496,
     "wof:name":"The Grill at Hacienda del Sol",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "american"
     ]
 },
-  "bbox": [-110.910592,32.308209,-110.910592,32.308209],
-  "geometry": {"coordinates":[-110.910592,32.308209],"type":"Point"}
+  "bbox": [
+    -110.910592,
+    32.308209,
+    -110.910592,
+    32.308209
+],
+  "geometry": {"coordinates":[-110.91059199999999,32.308209],"type":"Point"}
 }

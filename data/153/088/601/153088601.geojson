@@ -2,13 +2,14 @@
   "id": 153088601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142283,33.620512,-112.142283,33.620512",
     "geom:latitude":33.620512,
     "geom:longitude":-112.142283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3822 W Mauna Loa Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853607,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153088601,
-    "wof:lastmodified":1449040706,
+    "wof:lastmodified":1466329234,
     "wof:name":"Art In Film Productions",
     "wof:parent_id":85853607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.142283,33.620512,-112.142283,33.620512],
-  "geometry": {"coordinates":[-112.142283,33.620512],"type":"Point"}
+  "bbox": [
+    -112.142283,
+    33.620512,
+    -112.142283,
+    33.620512
+],
+  "geometry": {"coordinates":[-112.14228300000001,33.620512],"type":"Point"}
 }

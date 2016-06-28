@@ -2,13 +2,14 @@
   "id": 168984157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109235,33.631838,-112.109235,33.631838",
     "geom:latitude":33.631838,
     "geom:longitude":-112.109235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 W Le Marche Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811951,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168984157,
-    "wof:lastmodified":1449028206,
+    "wof:lastmodified":1466331423,
     "wof:name":"H & H Saguaro Specialists",
     "wof:parent_id":85811951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.109235,33.631838,-112.109235,33.631838],
+  "bbox": [
+    -112.109235,
+    33.631838,
+    -112.109235,
+    33.631838
+],
   "geometry": {"coordinates":[-112.109235,33.631838],"type":"Point"}
 }

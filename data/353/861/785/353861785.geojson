@@ -2,13 +2,14 @@
   "id": 353861785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939229,32.13008,-110.939229,32.13008",
     "geom:latitude":32.13008,
     "geom:longitude":-110.939229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6720 S Plumer Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353861785,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1466330874,
     "wof:name":"Ratliff Aviation-Tucson Jet",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "aircraft-charter"
     ]
 },
-  "bbox": [-110.939229,32.13008,-110.939229,32.13008],
+  "bbox": [
+    -110.939229,
+    32.13008,
+    -110.939229,
+    32.13008
+],
   "geometry": {"coordinates":[-110.939229,32.13008],"type":"Point"}
 }

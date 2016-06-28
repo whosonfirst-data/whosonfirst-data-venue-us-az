@@ -2,13 +2,14 @@
   "id": 169380843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.903006,34.717441,-111.903006,34.717441",
     "geom:latitude":34.717441,
     "geom:longitude":-111.903006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 S Western Dr",
     "sg:city":"Cornville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169380843,
-    "wof:lastmodified":1449034202,
+    "wof:lastmodified":1466334097,
     "wof:name":"Country Morning Consignment",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.903006,34.717441,-111.903006,34.717441],
+  "bbox": [
+    -111.903006,
+    34.717441,
+    -111.903006,
+    34.717441
+],
   "geometry": {"coordinates":[-111.903006,34.717441],"type":"Point"}
 }

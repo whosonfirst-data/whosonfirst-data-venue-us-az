@@ -2,13 +2,14 @@
   "id": 353834319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948855,32.334339,-110.948855,32.334339",
     "geom:latitude":32.334339,
     "geom:longitude":-110.948855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 N Stardust Cir",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353834319,
-    "wof:lastmodified":1449018500,
+    "wof:lastmodified":1466330665,
     "wof:name":"Cactus Country Landscape",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.948855,32.334339,-110.948855,32.334339],
-  "geometry": {"coordinates":[-110.948855,32.334339],"type":"Point"}
+  "bbox": [
+    -110.948855,
+    32.334339,
+    -110.948855,
+    32.334339
+],
+  "geometry": {"coordinates":[-110.94885499999999,32.334339],"type":"Point"}
 }

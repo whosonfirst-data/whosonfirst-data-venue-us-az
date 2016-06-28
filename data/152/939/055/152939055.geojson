@@ -2,13 +2,14 @@
   "id": 152939055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.810726,33.418002,-111.810726,33.418002",
     "geom:latitude":33.418002,
     "geom:longitude":-111.810726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 N Fraser Dr E",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872457,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152939055,
-    "wof:lastmodified":1449045662,
+    "wof:lastmodified":1466326619,
     "wof:name":"Margaret River Media LLC",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.810726,33.418002,-111.810726,33.418002],
+  "bbox": [
+    -111.810726,
+    33.418002,
+    -111.810726,
+    33.418002
+],
   "geometry": {"coordinates":[-111.810726,33.418002],"type":"Point"}
 }

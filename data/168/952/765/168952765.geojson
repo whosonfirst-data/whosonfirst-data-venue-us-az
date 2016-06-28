@@ -2,13 +2,14 @@
   "id": 168952765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117125,33.489619,-112.117125,33.489619",
     "geom:latitude":33.489619,
     "geom:longitude":-112.117125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.hansonpipeandproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168952765,
-    "wof:lastmodified":1449028334,
+    "wof:lastmodified":1466331031,
     "wof:name":"Hanson Pipe & Products Inc",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117125,33.489619,-112.117125,33.489619],
+  "bbox": [
+    -112.117125,
+    33.489619,
+    -112.117125,
+    33.489619
+],
   "geometry": {"coordinates":[-112.117125,33.489619],"type":"Point"}
 }

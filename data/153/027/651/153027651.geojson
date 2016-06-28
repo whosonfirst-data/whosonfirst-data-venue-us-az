@@ -2,13 +2,14 @@
   "id": 153027651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.400425,33.426569,-112.400425,33.426569",
     "geom:latitude":33.426569,
     "geom:longitude":-112.400425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2593 S 159th Ave",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153027651,
-    "wof:lastmodified":1449040414,
+    "wof:lastmodified":1466327925,
     "wof:name":"Adriaan Verburg & Sons LL",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.400425,33.426569,-112.400425,33.426569],
+  "bbox": [
+    -112.400425,
+    33.426569,
+    -112.400425,
+    33.426569
+],
   "geometry": {"coordinates":[-112.400425,33.426569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353485285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.936338,33.378236,-111.936338,33.378236",
     "geom:latitude":33.378236,
     "geom:longitude":-111.936338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Baseline Rd # 106",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353485285,
-    "wof:lastmodified":1449019833,
+    "wof:lastmodified":1466326920,
     "wof:name":"Steve Trang - Occasio Realty",
     "wof:parent_id":85841457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.936338,33.378236,-111.936338,33.378236],
-  "geometry": {"coordinates":[-111.936338,33.378236],"type":"Point"}
+  "bbox": [
+    -111.936338,
+    33.378236,
+    -111.936338,
+    33.378236
+],
+  "geometry": {"coordinates":[-111.93633800000001,33.378236],"type":"Point"}
 }

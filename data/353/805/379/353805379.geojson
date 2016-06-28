@@ -2,13 +2,14 @@
   "id": 353805379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97764,32.223435,-110.97764,32.223435",
     "geom:latitude":32.223435,
     "geom:longitude":-110.97764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 W Paseo Redondo",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353805379,
-    "wof:lastmodified":1449019114,
+    "wof:lastmodified":1466330419,
     "wof:name":"Redondo Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-110.97764,32.223435,-110.97764,32.223435],
-  "geometry": {"coordinates":[-110.97764,32.223435],"type":"Point"}
+  "bbox": [
+    -110.97764,
+    32.223435,
+    -110.97764,
+    32.223435
+],
+  "geometry": {"coordinates":[-110.97763999999999,32.223435],"type":"Point"}
 }

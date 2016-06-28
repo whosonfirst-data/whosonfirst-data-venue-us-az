@@ -2,13 +2,14 @@
   "id": 152940167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598779,32.684147,-114.598779,32.684147",
     "geom:latitude":32.684147,
     "geom:longitude":-114.598779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 S Pacific Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081527,
-        85633793,
         85688719,
-        85895863
+        85633793,
+        85895863,
+        102081527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152940167,
-    "wof:lastmodified":1449045420,
+    "wof:lastmodified":1466326698,
     "wof:name":"Sunrise Market",
     "wof:parent_id":85895863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598779,32.684147,-114.598779,32.684147],
-  "geometry": {"coordinates":[-114.598779,32.684147],"type":"Point"}
+  "bbox": [
+    -114.598779,
+    32.684147,
+    -114.598779,
+    32.684147
+],
+  "geometry": {"coordinates":[-114.59877899999999,32.684147],"type":"Point"}
 }

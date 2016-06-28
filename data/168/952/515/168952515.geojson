@@ -2,13 +2,14 @@
   "id": 168952515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.138905,33.45396,-112.138905,33.45396",
     "geom:latitude":33.45396,
     "geom:longitude":-112.138905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N 37th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168952515,
-    "wof:lastmodified":1449028333,
+    "wof:lastmodified":1466331115,
     "wof:name":"Office Systems Instllation LLC",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.138905,33.45396,-112.138905,33.45396],
-  "geometry": {"coordinates":[-112.138905,33.45396],"type":"Point"}
+  "bbox": [
+    -112.138905,
+    33.45396,
+    -112.138905,
+    33.45396
+],
+  "geometry": {"coordinates":[-112.13890499999999,33.45396],"type":"Point"}
 }

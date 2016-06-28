@@ -2,13 +2,14 @@
   "id": 353784557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.552116,31.346545,-109.552116,31.346545",
     "geom:latitude":31.346545,
     "geom:longitude":-109.552116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 E 12th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353784557,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1466330335,
     "wof:name":"Health Net Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-109.552116,31.346545,-109.552116,31.346545],
+  "bbox": [
+    -109.552116,
+    31.346545,
+    -109.552116,
+    31.346545
+],
   "geometry": {"coordinates":[-109.552116,31.346545],"type":"Point"}
 }

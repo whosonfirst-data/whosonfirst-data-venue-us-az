@@ -2,13 +2,14 @@
   "id": 153072991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.807965,33.404182,-111.807965,33.404182",
     "geom:latitude":33.404182,
     "geom:longitude":-111.807965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 E 6th Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153072991,
-    "wof:lastmodified":1449040596,
+    "wof:lastmodified":1466328446,
     "wof:name":"C & C Home Improvements Corp",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.807965,33.404182,-111.807965,33.404182],
+  "bbox": [
+    -111.807965,
+    33.404182,
+    -111.807965,
+    33.404182
+],
   "geometry": {"coordinates":[-111.807965,33.404182],"type":"Point"}
 }

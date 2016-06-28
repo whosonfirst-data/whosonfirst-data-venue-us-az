@@ -2,13 +2,14 @@
   "id": 153017877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.437855,34.549624,-112.437855,34.549624",
     "geom:latitude":34.549624,
     "geom:longitude":-112.437855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 E State Rte 69",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153017877,
-    "wof:lastmodified":1449040605,
+    "wof:lastmodified":1466326765,
     "wof:name":"Burger King",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.437855,34.549624,-112.437855,34.549624],
+  "bbox": [
+    -112.437855,
+    34.549624,
+    -112.437855,
+    34.549624
+],
   "geometry": {"coordinates":[-112.437855,34.549624],"type":"Point"}
 }

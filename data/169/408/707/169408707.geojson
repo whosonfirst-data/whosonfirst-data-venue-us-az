@@ -2,13 +2,14 @@
   "id": 169408707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.606053,32.700151,-114.606053,32.700151",
     "geom:latitude":32.700151,
     "geom:longitude":-114.606053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 S Castle Dome Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169408707,
-    "wof:lastmodified":1449033091,
+    "wof:lastmodified":1466334087,
     "wof:name":"Best Western",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.606053,32.700151,-114.606053,32.700151],
+  "bbox": [
+    -114.606053,
+    32.700151,
+    -114.606053,
+    32.700151
+],
   "geometry": {"coordinates":[-114.606053,32.700151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169155755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936422,32.34284,-110.936422,32.34284",
     "geom:latitude":32.34284,
     "geom:longitude":-110.936422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2460 E Pla Sin Lujuria",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169155755,
-    "wof:lastmodified":1449035380,
+    "wof:lastmodified":1466331815,
     "wof:name":"Js Baca Investments LLC",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936422,32.34284,-110.936422,32.34284],
-  "geometry": {"coordinates":[-110.936422,32.34284],"type":"Point"}
+  "bbox": [
+    -110.936422,
+    32.34284,
+    -110.936422,
+    32.34284
+],
+  "geometry": {"coordinates":[-110.93642199999999,32.34284],"type":"Point"}
 }

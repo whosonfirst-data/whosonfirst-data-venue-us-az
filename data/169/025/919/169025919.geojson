@@ -2,13 +2,14 @@
   "id": 169025919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.976834,34.152454,-109.976834,34.152454",
     "geom:latitude":34.152454,
     "geom:longitude":-109.976834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 N Niels Hansen Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169025919,
-    "wof:lastmodified":1449035424,
+    "wof:lastmodified":1466326499,
     "wof:name":"FBI",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.976834,34.152454,-109.976834,34.152454],
+  "bbox": [
+    -109.976834,
+    34.152454,
+    -109.976834,
+    34.152454
+],
   "geometry": {"coordinates":[-109.976834,34.152454],"type":"Point"}
 }

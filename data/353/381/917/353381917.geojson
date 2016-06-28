@@ -2,13 +2,14 @@
   "id": 353381917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.912613,33.442268,-111.912613,33.442268",
     "geom:latitude":33.442268,
     "geom:longitude":-111.912613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Willow Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353381917,
-    "wof:lastmodified":1449018467,
+    "wof:lastmodified":1466326115,
     "wof:name":"Robbies Welding",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "welding"
     ]
 },
-  "bbox": [-111.912613,33.442268,-111.912613,33.442268],
-  "geometry": {"coordinates":[-111.912613,33.442268],"type":"Point"}
+  "bbox": [
+    -111.912613,
+    33.442268,
+    -111.912613,
+    33.442268
+],
+  "geometry": {"coordinates":[-111.91261299999999,33.442268],"type":"Point"}
 }

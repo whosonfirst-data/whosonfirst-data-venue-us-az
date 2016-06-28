@@ -2,13 +2,14 @@
   "id": 336663217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995438,33.416605,-111.995438,33.416605",
     "geom:latitude":33.416605,
     "geom:longitude":-111.995438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3244 S 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336663217,
-    "wof:lastmodified":1448997725,
+    "wof:lastmodified":1466327259,
     "wof:name":"Grove Willow Baptist Church",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.995438,33.416605,-111.995438,33.416605],
-  "geometry": {"coordinates":[-111.995438,33.416605],"type":"Point"}
+  "bbox": [
+    -111.995438,
+    33.416605,
+    -111.995438,
+    33.416605
+],
+  "geometry": {"coordinates":[-111.99543799999999,33.416605],"type":"Point"}
 }

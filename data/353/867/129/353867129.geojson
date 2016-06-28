@@ -2,13 +2,14 @@
   "id": 353867129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.923073,34.558578,-109.923073,34.558578",
     "geom:latitude":34.558578,
     "geom:longitude":-109.923073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9152 E Concho Hwy",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353867129,
-    "wof:lastmodified":1449019355,
+    "wof:lastmodified":1466330773,
     "wof:name":"Roper Healthcare Consultation",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-109.923073,34.558578,-109.923073,34.558578],
+  "bbox": [
+    -109.923073,
+    34.558578,
+    -109.923073,
+    34.558578
+],
   "geometry": {"coordinates":[-109.923073,34.558578],"type":"Point"}
 }

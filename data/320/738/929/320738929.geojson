@@ -2,13 +2,14 @@
   "id": 320738929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125549,33.50444,-112.125549,33.50444",
     "geom:latitude":33.50444,
     "geom:longitude":-112.125549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4602 N 31st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320738929,
-    "wof:lastmodified":1449013994,
+    "wof:lastmodified":1466328887,
     "wof:name":"Bourgade Catholic High School",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "religious"
     ]
 },
-  "bbox": [-112.125549,33.50444,-112.125549,33.50444],
-  "geometry": {"coordinates":[-112.125549,33.50444],"type":"Point"}
+  "bbox": [
+    -112.125549,
+    33.50444,
+    -112.125549,
+    33.50444
+],
+  "geometry": {"coordinates":[-112.12554900000001,33.50444],"type":"Point"}
 }

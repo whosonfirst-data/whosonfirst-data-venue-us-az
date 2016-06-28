@@ -2,13 +2,14 @@
   "id": 153029747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.349401,34.595193,-112.349401,34.595193",
     "geom:latitude":34.595193,
     "geom:longitude":-112.349401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3649 N Meadowlark Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153029747,
-    "wof:lastmodified":1449040523,
+    "wof:lastmodified":1466325754,
     "wof:name":"Superior Plumbing Co",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.349401,34.595193,-112.349401,34.595193],
+  "bbox": [
+    -112.349401,
+    34.595193,
+    -112.349401,
+    34.595193
+],
   "geometry": {"coordinates":[-112.349401,34.595193],"type":"Point"}
 }

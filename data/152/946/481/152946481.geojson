@@ -2,13 +2,14 @@
   "id": 152946481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.984822,31.874964,-110.984822,31.874964",
     "geom:latitude":31.874964,
     "geom:longitude":-110.984822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 E Los Rincones",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152946481,
-    "wof:lastmodified":1449048367,
+    "wof:lastmodified":1466327132,
     "wof:name":"Investors Capital Group",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.984822,31.874964,-110.984822,31.874964],
-  "geometry": {"coordinates":[-110.984822,31.874964],"type":"Point"}
+  "bbox": [
+    -110.984822,
+    31.874964,
+    -110.984822,
+    31.874964
+],
+  "geometry": {"coordinates":[-110.98482199999999,31.874964],"type":"Point"}
 }

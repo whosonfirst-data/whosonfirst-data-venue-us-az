@@ -2,13 +2,14 @@
   "id": 168840449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.289664,34.506107,-114.289664,34.506107",
     "geom:latitude":34.506107,
     "geom:longitude":-114.289664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3531 Buckboard Way",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168840449,
-    "wof:lastmodified":1449028405,
+    "wof:lastmodified":1466327149,
     "wof:name":"Jaserl Corporation",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.289664,34.506107,-114.289664,34.506107],
+  "bbox": [
+    -114.289664,
+    34.506107,
+    -114.289664,
+    34.506107
+],
   "geometry": {"coordinates":[-114.289664,34.506107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320657403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121929,33.442184,-112.121929,33.442184",
     "geom:latitude":33.442184,
     "geom:longitude":-112.121929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 W Lincoln St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320657403,
-    "wof:lastmodified":1449011666,
+    "wof:lastmodified":1466327198,
     "wof:name":"Service Truck Equipment",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.121929,33.442184,-112.121929,33.442184],
-  "geometry": {"coordinates":[-112.121929,33.442184],"type":"Point"}
+  "bbox": [
+    -112.121929,
+    33.442184,
+    -112.121929,
+    33.442184
+],
+  "geometry": {"coordinates":[-112.12192899999999,33.442184],"type":"Point"}
 }

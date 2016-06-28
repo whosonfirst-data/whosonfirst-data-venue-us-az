@@ -2,13 +2,14 @@
   "id": 169031643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.212764,33.606346,-112.212764,33.606346",
     "geom:latitude":33.606346,
     "geom:longitude":-112.212764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7143 W Willow Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854965,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85854965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169031643,
-    "wof:lastmodified":1449033917,
+    "wof:lastmodified":1466327012,
     "wof:name":"Bennett Builders Inc",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.212764,33.606346,-112.212764,33.606346],
-  "geometry": {"coordinates":[-112.212764,33.606346],"type":"Point"}
+  "bbox": [
+    -112.212764,
+    33.606346,
+    -112.212764,
+    33.606346
+],
+  "geometry": {"coordinates":[-112.21276400000001,33.606346],"type":"Point"}
 }

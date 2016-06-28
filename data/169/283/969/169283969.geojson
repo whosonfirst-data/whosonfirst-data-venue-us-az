@@ -2,13 +2,14 @@
   "id": 169283969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.722805,33.573287,-111.722805,33.573287",
     "geom:latitude":33.573287,
     "geom:longitude":-111.722805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16548 E Laser Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169283969,
-    "wof:lastmodified":1449033659,
+    "wof:lastmodified":1466332912,
     "wof:name":"R J Tech Services",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.722805,33.573287,-111.722805,33.573287],
-  "geometry": {"coordinates":[-111.722805,33.573287],"type":"Point"}
+  "bbox": [
+    -111.722805,
+    33.573287,
+    -111.722805,
+    33.573287
+],
+  "geometry": {"coordinates":[-111.72280499999999,33.573287],"type":"Point"}
 }

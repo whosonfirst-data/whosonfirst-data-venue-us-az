@@ -2,13 +2,14 @@
   "id": 336782341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.795065,33.422562,-111.795065,33.422562",
     "geom:latitude":33.422562,
     "geom:longitude":-111.795065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 E University Dr # 100",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336782341,
-    "wof:lastmodified":1448996915,
+    "wof:lastmodified":1466329395,
     "wof:name":"Dorothy B Mitchell Counseling Center",
     "wof:parent_id":85820819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-111.795065,33.422562,-111.795065,33.422562],
-  "geometry": {"coordinates":[-111.795065,33.422562],"type":"Point"}
+  "bbox": [
+    -111.795065,
+    33.422562,
+    -111.795065,
+    33.422562
+],
+  "geometry": {"coordinates":[-111.79506499999999,33.422562],"type":"Point"}
 }

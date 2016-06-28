@@ -2,13 +2,14 @@
   "id": 353679613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.25517,33.445962,-112.25517,33.445962",
     "geom:latitude":33.445962,
     "geom:longitude":-112.25517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S 91st Ave",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353679613,
-    "wof:lastmodified":1449019890,
+    "wof:lastmodified":1466329627,
     "wof:name":"Llantera Lobo",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "brake"
     ]
 },
-  "bbox": [-112.25517,33.445962,-112.25517,33.445962],
-  "geometry": {"coordinates":[-112.25517,33.445962],"type":"Point"}
+  "bbox": [
+    -112.25517,
+    33.445962,
+    -112.25517,
+    33.445962
+],
+  "geometry": {"coordinates":[-112.25517000000001,33.445962],"type":"Point"}
 }

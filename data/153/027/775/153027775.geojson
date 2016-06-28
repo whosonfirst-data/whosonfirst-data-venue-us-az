@@ -2,13 +2,14 @@
   "id": 153027775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220242,33.647494,-112.220242,33.647494",
     "geom:latitude":33.647494,
     "geom:longitude":-112.220242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17821 N 75th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153027775,
-    "wof:lastmodified":1449040417,
+    "wof:lastmodified":1466327767,
     "wof:name":"P & P Construction",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220242,33.647494,-112.220242,33.647494],
+  "bbox": [
+    -112.220242,
+    33.647494,
+    -112.220242,
+    33.647494
+],
   "geometry": {"coordinates":[-112.220242,33.647494],"type":"Point"}
 }

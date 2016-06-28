@@ -2,13 +2,14 @@
   "id": 169240523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04123,33.465688,-112.04123,33.465688",
     "geom:latitude":33.465688,
     "geom:longitude":-112.04123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.ryanspet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169240523,
-    "wof:lastmodified":1449033016,
+    "wof:lastmodified":1466332430,
     "wof:name":"Ryan's Pet Supplies",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.04123,33.465688,-112.04123,33.465688],
+  "bbox": [
+    -112.04123,
+    33.465688,
+    -112.04123,
+    33.465688
+],
   "geometry": {"coordinates":[-112.04123,33.465688],"type":"Point"}
 }

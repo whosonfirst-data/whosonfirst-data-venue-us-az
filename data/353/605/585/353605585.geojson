@@ -2,13 +2,14 @@
   "id": 353605585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.19966,33.656359,-112.19966,33.656359",
     "geom:latitude":33.656359,
     "geom:longitude":-112.19966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 W Sack Dr Suite 306",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353605585,
-    "wof:lastmodified":1449019516,
+    "wof:lastmodified":1466328593,
     "wof:name":"STD Test Express Glendale",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "welfare"
     ]
 },
-  "bbox": [-112.19966,33.656359,-112.19966,33.656359],
-  "geometry": {"coordinates":[-112.19966,33.656359],"type":"Point"}
+  "bbox": [
+    -112.19966,
+    33.656359,
+    -112.19966,
+    33.656359
+],
+  "geometry": {"coordinates":[-112.19965999999999,33.656359],"type":"Point"}
 }

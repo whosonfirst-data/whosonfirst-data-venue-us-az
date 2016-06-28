@@ -2,13 +2,14 @@
   "id": 320664507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125908,33.458691,-112.125908,33.458691",
     "geom:latitude":33.458691,
     "geom:longitude":-112.125908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N 31st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320664507,
-    "wof:lastmodified":1449012665,
+    "wof:lastmodified":1466327379,
     "wof:name":"J B Sutton Elementary School",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-112.125908,33.458691,-112.125908,33.458691],
+  "bbox": [
+    -112.125908,
+    33.458691,
+    -112.125908,
+    33.458691
+],
   "geometry": {"coordinates":[-112.125908,33.458691],"type":"Point"}
 }

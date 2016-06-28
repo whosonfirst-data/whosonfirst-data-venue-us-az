@@ -2,13 +2,14 @@
   "id": 153044303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.20308,33.54879,-112.20308,33.54879",
     "geom:latitude":33.54879,
     "geom:longitude":-112.20308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7724 N 67th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153044303,
-    "wof:lastmodified":1449040593,
+    "wof:lastmodified":1466326774,
     "wof:name":"Excel Backflow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.20308,33.54879,-112.20308,33.54879],
+  "bbox": [
+    -112.20308,
+    33.54879,
+    -112.20308,
+    33.54879
+],
   "geometry": {"coordinates":[-112.20308,33.54879],"type":"Point"}
 }

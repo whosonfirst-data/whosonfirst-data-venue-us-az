@@ -2,13 +2,14 @@
   "id": 152971215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.186836,33.567588,-112.186836,33.567588",
     "geom:latitude":33.567588,
     "geom:longitude":-112.186836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 W Olive Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852007,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85852007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152971215,
-    "wof:lastmodified":1449046643,
+    "wof:lastmodified":1466328727,
     "wof:name":"Rtm Coffee Co",
     "wof:parent_id":85852007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.186836,33.567588,-112.186836,33.567588],
+  "bbox": [
+    -112.186836,
+    33.567588,
+    -112.186836,
+    33.567588
+],
   "geometry": {"coordinates":[-112.186836,33.567588],"type":"Point"}
 }

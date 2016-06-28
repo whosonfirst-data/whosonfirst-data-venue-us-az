@@ -2,13 +2,14 @@
   "id": 169254659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.818549,33.331273,-111.818549,33.331273",
     "geom:latitude":33.331273,
     "geom:longitude":-111.818549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 S Coral Key Ct",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876671,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169254659,
-    "wof:lastmodified":1449034960,
+    "wof:lastmodified":1466332562,
     "wof:name":"Management Plus Inc",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.818549,33.331273,-111.818549,33.331273],
+  "bbox": [
+    -111.818549,
+    33.331273,
+    -111.818549,
+    33.331273
+],
   "geometry": {"coordinates":[-111.818549,33.331273],"type":"Point"}
 }

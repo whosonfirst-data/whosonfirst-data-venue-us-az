@@ -2,13 +2,14 @@
   "id": 353509901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909458,33.349086,-111.909458,33.349086",
     "geom:latitude":33.349086,
     "geom:longitude":-111.909458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 E Elliot Road",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353509901,
-    "wof:lastmodified":1449018345,
+    "wof:lastmodified":1466327356,
     "wof:name":"Claus Karen DVM",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-111.909458,33.349086,-111.909458,33.349086],
+  "bbox": [
+    -111.909458,
+    33.349086,
+    -111.909458,
+    33.349086
+],
   "geometry": {"coordinates":[-111.909458,33.349086],"type":"Point"}
 }

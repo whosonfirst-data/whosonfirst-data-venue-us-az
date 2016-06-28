@@ -2,13 +2,14 @@
   "id": 168960181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.282296,33.618675,-112.282296,33.618675",
     "geom:latitude":33.618675,
     "geom:longitude":-112.282296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10433 W Talisman Rd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168960181,
-    "wof:lastmodified":1449028328,
+    "wof:lastmodified":1466331055,
     "wof:name":"Sun City Lakes East",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.282296,33.618675,-112.282296,33.618675],
+  "bbox": [
+    -112.282296,
+    33.618675,
+    -112.282296,
+    33.618675
+],
   "geometry": {"coordinates":[-112.282296,33.618675],"type":"Point"}
 }

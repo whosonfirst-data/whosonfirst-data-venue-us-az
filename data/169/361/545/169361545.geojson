@@ -2,13 +2,14 @@
   "id": 169361545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.448968,33.362598,-112.448968,33.362598",
     "geom:latitude":33.362598,
     "geom:longitude":-112.448968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18598 W Paseo Way",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169361545,
-    "wof:lastmodified":1449035081,
+    "wof:lastmodified":1466333636,
     "wof:name":"Re Invest",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.448968,33.362598,-112.448968,33.362598],
-  "geometry": {"coordinates":[-112.448968,33.362598],"type":"Point"}
+  "bbox": [
+    -112.448968,
+    33.362598,
+    -112.448968,
+    33.362598
+],
+  "geometry": {"coordinates":[-112.44896799999999,33.362598],"type":"Point"}
 }

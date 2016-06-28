@@ -2,13 +2,14 @@
   "id": 168905989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.053134,35.191561,-114.053134,35.191561",
     "geom:latitude":35.191561,
     "geom:longitude":-114.053134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 4th St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168905989,
-    "wof:lastmodified":1449028074,
+    "wof:lastmodified":1466329948,
     "wof:name":"Kingman City Attorney",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.053134,35.191561,-114.053134,35.191561],
+  "bbox": [
+    -114.053134,
+    35.191561,
+    -114.053134,
+    35.191561
+],
   "geometry": {"coordinates":[-114.053134,35.191561],"type":"Point"}
 }

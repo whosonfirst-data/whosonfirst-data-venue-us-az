@@ -2,13 +2,14 @@
   "id": 353896355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.483409,34.558667,-112.483409,34.558667",
     "geom:latitude":34.558667,
     "geom:longitude":-112.483409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 W Iron Springs Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353896355,
-    "wof:lastmodified":1449019183,
+    "wof:lastmodified":1466330918,
     "wof:name":"Certified Transmissions Inc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-112.483409,34.558667,-112.483409,34.558667],
-  "geometry": {"coordinates":[-112.483409,34.558667],"type":"Point"}
+  "bbox": [
+    -112.483409,
+    34.558667,
+    -112.483409,
+    34.558667
+],
+  "geometry": {"coordinates":[-112.48340899999999,34.558667],"type":"Point"}
 }

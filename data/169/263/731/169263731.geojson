@@ -2,13 +2,14 @@
   "id": 169263731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.627014,35.193918,-111.627014,35.193918",
     "geom:latitude":35.193918,
     "geom:longitude":-111.627014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 E Huntington Dr",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169263731,
-    "wof:lastmodified":1449035868,
+    "wof:lastmodified":1466332694,
     "wof:name":"Hutchinson Kitchen & Bath",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.627014,35.193918,-111.627014,35.193918],
+  "bbox": [
+    -111.627014,
+    35.193918,
+    -111.627014,
+    35.193918
+],
   "geometry": {"coordinates":[-111.627014,35.193918],"type":"Point"}
 }

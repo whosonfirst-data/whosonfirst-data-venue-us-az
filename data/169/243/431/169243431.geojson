@@ -2,13 +2,14 @@
   "id": 169243431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.053554,32.337479,-111.053554,32.337479",
     "geom:latitude":32.337479,
     "geom:longitude":-111.053554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4185 W Ina Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169243431,
-    "wof:lastmodified":1449033759,
+    "wof:lastmodified":1466332444,
     "wof:name":"Chuy's Baja Broiler",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.053554,32.337479,-111.053554,32.337479],
-  "geometry": {"coordinates":[-111.053554,32.337479],"type":"Point"}
+  "bbox": [
+    -111.053554,
+    32.337479,
+    -111.053554,
+    32.337479
+],
+  "geometry": {"coordinates":[-111.05355400000001,32.337479],"type":"Point"}
 }

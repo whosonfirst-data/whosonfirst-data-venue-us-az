@@ -2,13 +2,14 @@
   "id": 353826235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925558,32.182464,-110.925558,32.182464",
     "geom:latitude":32.182464,
     "geom:longitude":-110.925558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 E 45th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353826235,
-    "wof:lastmodified":1449020093,
+    "wof:lastmodified":1466330592,
     "wof:name":"Western Home Builders",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-110.925558,32.182464,-110.925558,32.182464],
+  "bbox": [
+    -110.925558,
+    32.182464,
+    -110.925558,
+    32.182464
+],
   "geometry": {"coordinates":[-110.925558,32.182464],"type":"Point"}
 }

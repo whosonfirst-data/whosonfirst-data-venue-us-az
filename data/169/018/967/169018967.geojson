@@ -2,13 +2,14 @@
   "id": 169018967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955615,32.27614,-110.955615,32.27614",
     "geom:latitude":32.27614,
     "geom:longitude":-110.955615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 E Irwin Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169018967,
-    "wof:lastmodified":1449034330,
+    "wof:lastmodified":1466325873,
     "wof:name":"Alliance For Lupus Research",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.955615,32.27614,-110.955615,32.27614],
-  "geometry": {"coordinates":[-110.955615,32.27614],"type":"Point"}
+  "bbox": [
+    -110.955615,
+    32.27614,
+    -110.955615,
+    32.27614
+],
+  "geometry": {"coordinates":[-110.95561499999999,32.27614],"type":"Point"}
 }

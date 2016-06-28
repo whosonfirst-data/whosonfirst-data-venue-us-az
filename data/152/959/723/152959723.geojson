@@ -2,13 +2,14 @@
   "id": 152959723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97321,32.22878,-110.97321,32.22878",
     "geom:latitude":32.22878,
     "geom:longitude":-110.97321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 N 9th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152959723,
-    "wof:lastmodified":1449048459,
+    "wof:lastmodified":1466327933,
     "wof:name":"Originate Natural Bldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.97321,32.22878,-110.97321,32.22878],
-  "geometry": {"coordinates":[-110.97321,32.22878],"type":"Point"}
+  "bbox": [
+    -110.97321,
+    32.22878,
+    -110.97321,
+    32.22878
+],
+  "geometry": {"coordinates":[-110.97320999999999,32.22878],"type":"Point"}
 }

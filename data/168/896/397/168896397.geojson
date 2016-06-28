@@ -2,13 +2,14 @@
   "id": 168896397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.941043,32.273006,-110.941043,32.273006",
     "geom:latitude":32.273006,
     "geom:longitude":-110.941043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 N Prince Village Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168896397,
-    "wof:lastmodified":1449028039,
+    "wof:lastmodified":1466329438,
     "wof:name":"Loma Catalina Co",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.941043,32.273006,-110.941043,32.273006],
-  "geometry": {"coordinates":[-110.941043,32.273006],"type":"Point"}
+  "bbox": [
+    -110.941043,
+    32.273006,
+    -110.941043,
+    32.273006
+],
+  "geometry": {"coordinates":[-110.94104299999999,32.273006],"type":"Point"}
 }

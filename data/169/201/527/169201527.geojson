@@ -2,13 +2,14 @@
   "id": 169201527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.071948,32.172712,-111.071948,32.172712",
     "geom:latitude":32.172712,
     "geom:longitude":-111.071948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 S Kinney Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169201527,
-    "wof:lastmodified":1449035518,
+    "wof:lastmodified":1466332292,
     "wof:name":"Tucson Mountain Trading Post",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.071948,32.172712,-111.071948,32.172712],
-  "geometry": {"coordinates":[-111.071948,32.172712],"type":"Point"}
+  "bbox": [
+    -111.071948,
+    32.172712,
+    -111.071948,
+    32.172712
+],
+  "geometry": {"coordinates":[-111.07194800000001,32.172712],"type":"Point"}
 }

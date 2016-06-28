@@ -2,13 +2,14 @@
   "id": 353888593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.743488,33.380758,-111.743488,33.380758",
     "geom:latitude":33.380758,
     "geom:longitude":-111.743488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 E Valley Auto Dr Ste 201",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353888593,
-    "wof:lastmodified":1449019864,
+    "wof:lastmodified":1466330889,
     "wof:name":"Desert Sun Skin Care",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-111.743488,33.380758,-111.743488,33.380758],
+  "bbox": [
+    -111.743488,
+    33.380758,
+    -111.743488,
+    33.380758
+],
   "geometry": {"coordinates":[-111.743488,33.380758],"type":"Point"}
 }

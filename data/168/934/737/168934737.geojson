@@ -2,13 +2,14 @@
   "id": 168934737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.418146,33.424824,-112.418146,33.424824",
     "geom:latitude":33.424824,
     "geom:longitude":-112.418146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16427 W Watkins St",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168934737,
-    "wof:lastmodified":1449027808,
+    "wof:lastmodified":1466330691,
     "wof:name":"Devine Destiny Assisted Living",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.418146,33.424824,-112.418146,33.424824],
-  "geometry": {"coordinates":[-112.418146,33.424824],"type":"Point"}
+  "bbox": [
+    -112.418146,
+    33.424824,
+    -112.418146,
+    33.424824
+],
+  "geometry": {"coordinates":[-112.41814599999999,33.424824],"type":"Point"}
 }

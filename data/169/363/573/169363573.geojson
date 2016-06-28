@@ -2,13 +2,14 @@
   "id": 169363573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.290068,33.486049,-112.290068,33.486049",
     "geom:latitude":33.486049,
     "geom:longitude":-112.290068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 N 107th Ave",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169363573,
-    "wof:lastmodified":1449035555,
+    "wof:lastmodified":1466333637,
     "wof:name":"Berrcor Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.290068,33.486049,-112.290068,33.486049],
-  "geometry": {"coordinates":[-112.290068,33.486049],"type":"Point"}
+  "bbox": [
+    -112.290068,
+    33.486049,
+    -112.290068,
+    33.486049
+],
+  "geometry": {"coordinates":[-112.29006800000001,33.486049],"type":"Point"}
 }

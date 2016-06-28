@@ -2,13 +2,14 @@
   "id": 169416731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.389873,33.614483,-112.389873,33.614483",
     "geom:latitude":33.614483,
     "geom:longitude":-112.389873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14333 N 153rd Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169416731,
-    "wof:lastmodified":1449034158,
+    "wof:lastmodified":1466334147,
     "wof:name":"Lauritsen Flooring",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.389873,33.614483,-112.389873,33.614483],
-  "geometry": {"coordinates":[-112.389873,33.614483],"type":"Point"}
+  "bbox": [
+    -112.389873,
+    33.614483,
+    -112.389873,
+    33.614483
+],
+  "geometry": {"coordinates":[-112.38987299999999,33.614483],"type":"Point"}
 }

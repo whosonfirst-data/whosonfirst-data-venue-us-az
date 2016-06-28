@@ -2,13 +2,14 @@
   "id": 152965319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.700672,33.464681,-111.700672,33.464681",
     "geom:latitude":33.464681,
     "geom:longitude":-111.700672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 N Olympic Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872431,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152965319,
-    "wof:lastmodified":1449047526,
+    "wof:lastmodified":1466328216,
     "wof:name":"Design Just 4 U Cstm Built PC",
     "wof:parent_id":85872431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.700672,33.464681,-111.700672,33.464681],
+  "bbox": [
+    -111.700672,
+    33.464681,
+    -111.700672,
+    33.464681
+],
   "geometry": {"coordinates":[-111.700672,33.464681],"type":"Point"}
 }

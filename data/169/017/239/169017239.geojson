@@ -2,13 +2,14 @@
   "id": 169017239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.955711,35.267299,-113.955711,35.267299",
     "geom:latitude":35.267299,
     "geom:longitude":-113.955711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 Industrial Blvd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169017239,
-    "wof:lastmodified":1449034438,
+    "wof:lastmodified":1466325721,
     "wof:name":"Southwire Kingman Plant",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.955711,35.267299,-113.955711,35.267299],
-  "geometry": {"coordinates":[-113.955711,35.267299],"type":"Point"}
+  "bbox": [
+    -113.955711,
+    35.267299,
+    -113.955711,
+    35.267299
+],
+  "geometry": {"coordinates":[-113.95571099999999,35.267299],"type":"Point"}
 }

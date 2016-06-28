@@ -2,13 +2,14 @@
   "id": 168863497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974965,32.297235,-110.974965,32.297235",
     "geom:latitude":32.297235,
     "geom:longitude":-110.974965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 W River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.zona78.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168863497,
-    "wof:lastmodified":1449028301,
+    "wof:lastmodified":1466326894,
     "wof:name":"Zona 78",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974965,32.297235,-110.974965,32.297235],
+  "bbox": [
+    -110.974965,
+    32.297235,
+    -110.974965,
+    32.297235
+],
   "geometry": {"coordinates":[-110.974965,32.297235],"type":"Point"}
 }

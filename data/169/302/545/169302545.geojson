@@ -2,13 +2,14 @@
   "id": 169302545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011524,35.188945,-114.011524,35.188945",
     "geom:latitude":35.188945,
     "geom:longitude":-114.011524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Hualapai Mountain Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169302545,
-    "wof:lastmodified":1449033797,
+    "wof:lastmodified":1466333244,
     "wof:name":"Fripps Construction",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.011524,35.188945,-114.011524,35.188945],
-  "geometry": {"coordinates":[-114.011524,35.188945],"type":"Point"}
+  "bbox": [
+    -114.011524,
+    35.188945,
+    -114.011524,
+    35.188945
+],
+  "geometry": {"coordinates":[-114.01152399999999,35.188945],"type":"Point"}
 }

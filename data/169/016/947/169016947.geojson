@@ -2,13 +2,14 @@
   "id": 169016947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.237752,33.557068,-112.237752,33.557068",
     "geom:latitude":33.557068,
     "geom:longitude":-112.237752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8435 N 83rd Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169016947,
-    "wof:lastmodified":1449033266,
+    "wof:lastmodified":1466327742,
     "wof:name":"Able Drywall Inc",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.237752,33.557068,-112.237752,33.557068],
+  "bbox": [
+    -112.237752,
+    33.557068,
+    -112.237752,
+    33.557068
+],
   "geometry": {"coordinates":[-112.237752,33.557068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320798639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039398,33.622878,-112.039398,33.622878",
     "geom:latitude":33.622878,
     "geom:longitude":-112.039398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15014 N 20th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320798639,
-    "wof:lastmodified":1449011954,
+    "wof:lastmodified":1466329651,
     "wof:name":"Lookout Mountain Assisted Living Home",
     "wof:parent_id":85851569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "aged"
     ]
 },
-  "bbox": [-112.039398,33.622878,-112.039398,33.622878],
-  "geometry": {"coordinates":[-112.039398,33.622878],"type":"Point"}
+  "bbox": [
+    -112.039398,
+    33.622878,
+    -112.039398,
+    33.622878
+],
+  "geometry": {"coordinates":[-112.03939800000001,33.622878],"type":"Point"}
 }

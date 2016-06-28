@@ -2,13 +2,14 @@
   "id": 353889535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.477381,34.553162,-112.477381,34.553162",
     "geom:latitude":34.553162,
     "geom:longitude":-112.477381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Hillside Ave",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353889535,
-    "wof:lastmodified":1449018207,
+    "wof:lastmodified":1466331048,
     "wof:name":"Alliance Home Care",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "care"
     ]
 },
-  "bbox": [-112.477381,34.553162,-112.477381,34.553162],
-  "geometry": {"coordinates":[-112.477381,34.553162],"type":"Point"}
+  "bbox": [
+    -112.477381,
+    34.553162,
+    -112.477381,
+    34.553162
+],
+  "geometry": {"coordinates":[-112.47738099999999,34.553162],"type":"Point"}
 }

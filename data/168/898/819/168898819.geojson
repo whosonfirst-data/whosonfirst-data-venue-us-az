@@ -2,13 +2,14 @@
   "id": 168898819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.783881,33.390797,-111.783881,33.390797",
     "geom:latitude":33.390797,
     "geom:longitude":-111.783881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 E Glade Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828683,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85828683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168898819,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1466329728,
     "wof:name":"A Touch Of Class Christian",
     "wof:parent_id":85828683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.783881,33.390797,-111.783881,33.390797],
-  "geometry": {"coordinates":[-111.783881,33.390797],"type":"Point"}
+  "bbox": [
+    -111.783881,
+    33.390797,
+    -111.783881,
+    33.390797
+],
+  "geometry": {"coordinates":[-111.78388099999999,33.390797],"type":"Point"}
 }

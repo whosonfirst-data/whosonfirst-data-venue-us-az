@@ -2,13 +2,14 @@
   "id": 320695439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050247,33.528091,-112.050247,33.528091",
     "geom:latitude":33.528091,
     "geom:longitude":-112.050247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 N 14th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320695439,
-    "wof:lastmodified":1449012699,
+    "wof:lastmodified":1466327982,
     "wof:name":"Medical & Scientific Illustration",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-112.050247,33.528091,-112.050247,33.528091],
+  "bbox": [
+    -112.050247,
+    33.528091,
+    -112.050247,
+    33.528091
+],
   "geometry": {"coordinates":[-112.050247,33.528091],"type":"Point"}
 }

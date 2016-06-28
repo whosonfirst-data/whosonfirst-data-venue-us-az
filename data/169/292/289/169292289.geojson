@@ -2,13 +2,14 @@
   "id": 169292289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.993113,32.229222,-110.993113,32.229222",
     "geom:latitude":32.229222,
     "geom:longitude":-110.993113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 W Saint Marys Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169292289,
-    "wof:lastmodified":1449032955,
+    "wof:lastmodified":1466332925,
     "wof:name":"Factory 2-U",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.993113,32.229222,-110.993113,32.229222],
-  "geometry": {"coordinates":[-110.993113,32.229222],"type":"Point"}
+  "bbox": [
+    -110.993113,
+    32.229222,
+    -110.993113,
+    32.229222
+],
+  "geometry": {"coordinates":[-110.99311299999999,32.229222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169266025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925479,32.493505,-110.925479,32.493505",
     "geom:latitude":32.493505,
     "geom:longitude":-110.925479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15930 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169266025,
-    "wof:lastmodified":1449032790,
+    "wof:lastmodified":1466332657,
     "wof:name":"Catalina Plaza",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.925479,32.493505,-110.925479,32.493505],
+  "bbox": [
+    -110.925479,
+    32.493505,
+    -110.925479,
+    32.493505
+],
   "geometry": {"coordinates":[-110.925479,32.493505],"type":"Point"}
 }

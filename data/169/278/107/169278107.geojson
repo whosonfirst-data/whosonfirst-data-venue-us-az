@@ -2,13 +2,14 @@
   "id": 169278107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.805301,33.401774,-111.805301,33.401774",
     "geom:latitude":33.401774,
     "geom:longitude":-111.805301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 S Stapley Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169278107,
-    "wof:lastmodified":1449034514,
+    "wof:lastmodified":1466332715,
     "wof:name":"Pro-Tax",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.805301,33.401774,-111.805301,33.401774],
+  "bbox": [
+    -111.805301,
+    33.401774,
+    -111.805301,
+    33.401774
+],
   "geometry": {"coordinates":[-111.805301,33.401774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320692511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049367,33.491982,-112.049367,33.491982",
     "geom:latitude":33.491982,
     "geom:longitude":-112.049367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 E Indianola Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320692511,
-    "wof:lastmodified":1449012250,
+    "wof:lastmodified":1466328203,
     "wof:name":"Phoenix Electrical",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-112.049367,33.491982,-112.049367,33.491982],
+  "bbox": [
+    -112.049367,
+    33.491982,
+    -112.049367,
+    33.491982
+],
   "geometry": {"coordinates":[-112.049367,33.491982],"type":"Point"}
 }

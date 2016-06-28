@@ -2,13 +2,14 @@
   "id": 153082239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.604928,35.21036,-111.604928,35.21036",
     "geom:latitude":35.21036,
     "geom:longitude":-111.604928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 N Steves Blvd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":153082239,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466329176,
     "wof:name":"Chan Juan Express",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.604928,35.21036,-111.604928,35.21036],
+  "bbox": [
+    -111.604928,
+    35.21036,
+    -111.604928,
+    35.21036
+],
   "geometry": {"coordinates":[-111.604928,35.21036],"type":"Point"}
 }

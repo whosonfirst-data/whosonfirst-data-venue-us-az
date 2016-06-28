@@ -2,13 +2,14 @@
   "id": 169195169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.82919,32.290437,-110.82919,32.290437",
     "geom:latitude":32.290437,
     "geom:longitude":-110.82919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7750 E Beautiful Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169195169,
-    "wof:lastmodified":1449034857,
+    "wof:lastmodified":1466332055,
     "wof:name":"Medical Insurance",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.82919,32.290437,-110.82919,32.290437],
+  "bbox": [
+    -110.82919,
+    32.290437,
+    -110.82919,
+    32.290437
+],
   "geometry": {"coordinates":[-110.82919,32.290437],"type":"Point"}
 }

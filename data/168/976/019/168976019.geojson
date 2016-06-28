@@ -2,13 +2,14 @@
   "id": 168976019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053327,33.366986,-112.053327,33.366986",
     "geom:latitude":33.366986,
     "geom:longitude":-112.053327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 E Euclid Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828931,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85828931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168976019,
-    "wof:lastmodified":1449028087,
+    "wof:lastmodified":1466331378,
     "wof:name":"South Mountain Baptist Church",
     "wof:parent_id":85828931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.053327,33.366986,-112.053327,33.366986],
+  "bbox": [
+    -112.053327,
+    33.366986,
+    -112.053327,
+    33.366986
+],
   "geometry": {"coordinates":[-112.053327,33.366986],"type":"Point"}
 }

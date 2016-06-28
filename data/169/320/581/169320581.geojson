@@ -2,13 +2,14 @@
   "id": 169320581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.175329,33.511845,-112.175329,33.511845",
     "geom:latitude":33.511845,
     "geom:longitude":-112.175329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5037 N 54th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169320581,
-    "wof:lastmodified":1449033523,
+    "wof:lastmodified":1466333276,
     "wof:name":"Street Life Custom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.175329,33.511845,-112.175329,33.511845],
+  "bbox": [
+    -112.175329,
+    33.511845,
+    -112.175329,
+    33.511845
+],
   "geometry": {"coordinates":[-112.175329,33.511845],"type":"Point"}
 }

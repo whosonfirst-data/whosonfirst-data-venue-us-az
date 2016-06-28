@@ -2,13 +2,14 @@
   "id": 353713591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.473846,32.658641,-114.473846,32.658641",
     "geom:latitude":32.658641,
     "geom:longitude":-114.473846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11756 S Shadow Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353713591,
-    "wof:lastmodified":1449020568,
+    "wof:lastmodified":1466329700,
     "wof:name":"Arizona Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.473846,32.658641,-114.473846,32.658641],
-  "geometry": {"coordinates":[-114.473846,32.658641],"type":"Point"}
+  "bbox": [
+    -114.473846,
+    32.658641,
+    -114.473846,
+    32.658641
+],
+  "geometry": {"coordinates":[-114.47384599999999,32.658641],"type":"Point"}
 }

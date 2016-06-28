@@ -2,13 +2,14 @@
   "id": 320618209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068001,33.454552,-112.068001,33.454552",
     "geom:latitude":33.454552,
     "geom:longitude":-112.068001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N 4th St Apt 147",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320618209,
-    "wof:lastmodified":1449013577,
+    "wof:lastmodified":1466326207,
     "wof:name":"Japanese Acupuncture",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medicine"
     ]
 },
-  "bbox": [-112.068001,33.454552,-112.068001,33.454552],
+  "bbox": [
+    -112.068001,
+    33.454552,
+    -112.068001,
+    33.454552
+],
   "geometry": {"coordinates":[-112.068001,33.454552],"type":"Point"}
 }

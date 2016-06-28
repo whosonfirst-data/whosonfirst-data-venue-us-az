@@ -2,13 +2,14 @@
   "id": 169138907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071183,33.457488,-112.071183,33.457488",
     "geom:latitude":33.457488,
     "geom:longitude":-112.071183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 N 2nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.azstamp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169138907,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466331526,
     "wof:name":"Arizona Stamp & Engraving Co",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.071183,33.457488,-112.071183,33.457488],
+  "bbox": [
+    -112.071183,
+    33.457488,
+    -112.071183,
+    33.457488
+],
   "geometry": {"coordinates":[-112.071183,33.457488],"type":"Point"}
 }

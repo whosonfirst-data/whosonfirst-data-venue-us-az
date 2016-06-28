@@ -2,13 +2,14 @@
   "id": 169361381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.24547,33.628038,-112.24547,33.628038",
     "geom:latitude":33.628038,
     "geom:longitude":-112.24547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8767 W Kathleen Rd",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169361381,
-    "wof:lastmodified":1449035080,
+    "wof:lastmodified":1466333617,
     "wof:name":"Century Estate Svc & Appraisal",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.24547,33.628038,-112.24547,33.628038],
+  "bbox": [
+    -112.24547,
+    33.628038,
+    -112.24547,
+    33.628038
+],
   "geometry": {"coordinates":[-112.24547,33.628038],"type":"Point"}
 }

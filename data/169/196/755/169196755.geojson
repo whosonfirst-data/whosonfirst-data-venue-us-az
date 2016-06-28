@@ -2,13 +2,14 @@
   "id": 169196755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.180172,33.59296,-112.180172,33.59296",
     "geom:latitude":33.59296,
     "geom:longitude":-112.180172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11815 N 56th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832555,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85832555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169196755,
-    "wof:lastmodified":1449033432,
+    "wof:lastmodified":1466332107,
     "wof:name":"Save Our Teens Net",
     "wof:parent_id":85832555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.180172,33.59296,-112.180172,33.59296],
+  "bbox": [
+    -112.180172,
+    33.59296,
+    -112.180172,
+    33.59296
+],
   "geometry": {"coordinates":[-112.180172,33.59296],"type":"Point"}
 }

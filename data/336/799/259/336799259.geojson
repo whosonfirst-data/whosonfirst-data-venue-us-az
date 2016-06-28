@@ -2,13 +2,14 @@
   "id": 336799259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.706016,33.437359,-111.706016,33.437359",
     "geom:latitude":33.437359,
     "geom:longitude":-111.706016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 E Brown Rd Apt 105",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336799259,
-    "wof:lastmodified":1448998014,
+    "wof:lastmodified":1466329547,
     "wof:name":"Barbara Brent",
     "wof:parent_id":85872427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "editorial"
     ]
 },
-  "bbox": [-111.706016,33.437359,-111.706016,33.437359],
-  "geometry": {"coordinates":[-111.706016,33.437359],"type":"Point"}
+  "bbox": [
+    -111.706016,
+    33.437359,
+    -111.706016,
+    33.437359
+],
+  "geometry": {"coordinates":[-111.70601600000001,33.437359],"type":"Point"}
 }

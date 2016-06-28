@@ -2,13 +2,14 @@
   "id": 320793501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069212,33.619874,-112.069212,33.619874",
     "geom:latitude":33.619874,
     "geom:longitude":-112.069212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 E Forest Hills Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320793501,
-    "wof:lastmodified":1449013321,
+    "wof:lastmodified":1466329735,
     "wof:name":"Once Upon A Family",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.069212,33.619874,-112.069212,33.619874],
-  "geometry": {"coordinates":[-112.069212,33.619874],"type":"Point"}
+  "bbox": [
+    -112.069212,
+    33.619874,
+    -112.069212,
+    33.619874
+],
+  "geometry": {"coordinates":[-112.06921199999999,33.619874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320637207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096146,33.451305,-112.096146,33.451305",
     "geom:latitude":33.451305,
     "geom:longitude":-112.096146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 W Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320637207,
-    "wof:lastmodified":1449011263,
+    "wof:lastmodified":1466327823,
     "wof:name":"Fuentes Janitorial Service",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.096146,33.451305,-112.096146,33.451305],
+  "bbox": [
+    -112.096146,
+    33.451305,
+    -112.096146,
+    33.451305
+],
   "geometry": {"coordinates":[-112.096146,33.451305],"type":"Point"}
 }

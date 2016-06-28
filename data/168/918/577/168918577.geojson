@@ -2,13 +2,14 @@
   "id": 168918577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.798378,32.210848,-110.798378,32.210848",
     "geom:latitude":32.210848,
     "geom:longitude":-110.798378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"666 S Gollob Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168918577,
-    "wof:lastmodified":1449028294,
+    "wof:lastmodified":1466330235,
     "wof:name":"Gale Elementary School",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.798378,32.210848,-110.798378,32.210848],
+  "bbox": [
+    -110.798378,
+    32.210848,
+    -110.798378,
+    32.210848
+],
   "geometry": {"coordinates":[-110.798378,32.210848],"type":"Point"}
 }

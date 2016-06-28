@@ -2,13 +2,14 @@
   "id": 169185181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.934636,33.603897,-111.934636,33.603897",
     "geom:latitude":33.603897,
     "geom:longitude":-111.934636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12614 N 68th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169185181,
-    "wof:lastmodified":1449033238,
+    "wof:lastmodified":1466331910,
     "wof:name":"Spaces Indoors Out Outdoors In",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.934636,33.603897,-111.934636,33.603897],
+  "bbox": [
+    -111.934636,
+    33.603897,
+    -111.934636,
+    33.603897
+],
   "geometry": {"coordinates":[-111.934636,33.603897],"type":"Point"}
 }

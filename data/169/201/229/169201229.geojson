@@ -2,13 +2,14 @@
   "id": 169201229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112484,33.640026,-112.112484,33.640026",
     "geom:latitude":33.640026,
     "geom:longitude":-112.112484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 W Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169201229,
-    "wof:lastmodified":1449035518,
+    "wof:lastmodified":1466332123,
     "wof:name":"Allied Forces Temporary Svc",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.112484,33.640026,-112.112484,33.640026],
-  "geometry": {"coordinates":[-112.112484,33.640026],"type":"Point"}
+  "bbox": [
+    -112.112484,
+    33.640026,
+    -112.112484,
+    33.640026
+],
+  "geometry": {"coordinates":[-112.11248399999999,33.640026],"type":"Point"}
 }

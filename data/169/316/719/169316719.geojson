@@ -2,13 +2,14 @@
   "id": 169316719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.977779,33.415289,-111.977779,33.415289",
     "geom:latitude":33.415289,
     "geom:longitude":-111.977779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 S 48th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881401,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169316719,
-    "wof:lastmodified":1449034928,
+    "wof:lastmodified":1466333184,
     "wof:name":"Disc 2 Day",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.977779,33.415289,-111.977779,33.415289],
+  "bbox": [
+    -111.977779,
+    33.415289,
+    -111.977779,
+    33.415289
+],
   "geometry": {"coordinates":[-111.977779,33.415289],"type":"Point"}
 }

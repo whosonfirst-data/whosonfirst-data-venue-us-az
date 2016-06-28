@@ -2,13 +2,14 @@
   "id": 153032443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.051225,31.612289,-111.051225,31.612289",
     "geom:latitude":31.612289,
     "geom:longitude":-111.051225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Tubac Rd",
     "sg:city":"Tubac",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153032443,
-    "wof:lastmodified":1449040563,
+    "wof:lastmodified":1466325944,
     "wof:name":"Upstairs Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.051225,31.612289,-111.051225,31.612289],
+  "bbox": [
+    -111.051225,
+    31.612289,
+    -111.051225,
+    31.612289
+],
   "geometry": {"coordinates":[-111.051225,31.612289],"type":"Point"}
 }

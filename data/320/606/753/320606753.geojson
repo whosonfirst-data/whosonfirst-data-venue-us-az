@@ -2,13 +2,14 @@
   "id": 320606753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081207,33.423529,-112.081207,33.423529",
     "geom:latitude":33.423529,
     "geom:longitude":-112.081207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 S 6th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320606753,
-    "wof:lastmodified":1449011829,
+    "wof:lastmodified":1466325924,
     "wof:name":"Serenity Mortuary Service Inc",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "embalmer"
     ]
 },
-  "bbox": [-112.081207,33.423529,-112.081207,33.423529],
-  "geometry": {"coordinates":[-112.081207,33.423529],"type":"Point"}
+  "bbox": [
+    -112.081207,
+    33.423529,
+    -112.081207,
+    33.423529
+],
+  "geometry": {"coordinates":[-112.08120700000001,33.423529],"type":"Point"}
 }

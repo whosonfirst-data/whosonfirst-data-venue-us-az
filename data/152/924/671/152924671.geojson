@@ -2,13 +2,14 @@
   "id": 152924671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965603,32.220491,-110.965603,32.220491",
     "geom:latitude":32.220491,
     "geom:longitude":-110.965603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152924671,
-    "wof:lastmodified":1449045581,
+    "wof:lastmodified":1466327599,
     "wof:name":"Sew Out Of Control",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965603,32.220491,-110.965603,32.220491],
+  "bbox": [
+    -110.965603,
+    32.220491,
+    -110.965603,
+    32.220491
+],
   "geometry": {"coordinates":[-110.965603,32.220491],"type":"Point"}
 }

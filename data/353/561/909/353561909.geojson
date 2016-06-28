@@ -2,13 +2,14 @@
   "id": 353561909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.170695,33.520321,-112.170695,33.520321",
     "geom:latitude":33.520321,
     "geom:longitude":-112.170695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 W Montebello Ave A6",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353561909,
-    "wof:lastmodified":1449020060,
+    "wof:lastmodified":1466328348,
     "wof:name":"Stone Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "marble"
     ]
 },
-  "bbox": [-112.170695,33.520321,-112.170695,33.520321],
-  "geometry": {"coordinates":[-112.170695,33.520321],"type":"Point"}
+  "bbox": [
+    -112.170695,
+    33.520321,
+    -112.170695,
+    33.520321
+],
+  "geometry": {"coordinates":[-112.17069499999999,33.520321],"type":"Point"}
 }

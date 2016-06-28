@@ -2,13 +2,14 @@
   "id": 169128309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034333,33.465841,-112.034333,33.465841",
     "geom:latitude":33.465841,
     "geom:longitude":-112.034333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.colormark.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169128309,
-    "wof:lastmodified":1449033967,
+    "wof:lastmodified":1466331509,
     "wof:name":"Colormark",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.034333,33.465841,-112.034333,33.465841],
+  "bbox": [
+    -112.034333,
+    33.465841,
+    -112.034333,
+    33.465841
+],
   "geometry": {"coordinates":[-112.034333,33.465841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152968013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013626,33.038987,-112.013626,33.038987",
     "geom:latitude":33.038987,
     "geom:longitude":-112.013626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17840 N Porter Rd",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152968013,
-    "wof:lastmodified":1449044590,
+    "wof:lastmodified":1466328584,
     "wof:name":"Farmers Investment Co",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013626,33.038987,-112.013626,33.038987],
+  "bbox": [
+    -112.013626,
+    33.038987,
+    -112.013626,
+    33.038987
+],
   "geometry": {"coordinates":[-112.013626,33.038987],"type":"Point"}
 }

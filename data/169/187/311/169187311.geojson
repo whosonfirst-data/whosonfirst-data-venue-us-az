@@ -2,13 +2,14 @@
   "id": 169187311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.583987,32.705849,-114.583987,32.705849",
     "geom:latitude":32.705849,
     "geom:longitude":-114.583987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 E 12th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169187311,
-    "wof:lastmodified":1449033182,
+    "wof:lastmodified":1466332283,
     "wof:name":"Desert Melon Distributors Inc",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.583987,32.705849,-114.583987,32.705849],
-  "geometry": {"coordinates":[-114.583987,32.705849],"type":"Point"}
+  "bbox": [
+    -114.583987,
+    32.705849,
+    -114.583987,
+    32.705849
+],
+  "geometry": {"coordinates":[-114.58398699999999,32.705849],"type":"Point"}
 }

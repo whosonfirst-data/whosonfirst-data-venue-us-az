@@ -2,13 +2,14 @@
   "id": 353891807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.479492,34.559639,-112.479492,34.559639",
     "geom:latitude":34.559639,
     "geom:longitude":-112.479492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Division St Ste A",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353891807,
-    "wof:lastmodified":1449019821,
+    "wof:lastmodified":1466330902,
     "wof:name":"Spring Valley Medical Center",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-112.479492,34.559639,-112.479492,34.559639],
-  "geometry": {"coordinates":[-112.479492,34.559639],"type":"Point"}
+  "bbox": [
+    -112.479492,
+    34.559639,
+    -112.479492,
+    34.559639
+],
+  "geometry": {"coordinates":[-112.47949199999999,34.559639],"type":"Point"}
 }

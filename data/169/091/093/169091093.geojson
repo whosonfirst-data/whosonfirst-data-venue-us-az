@@ -2,13 +2,14 @@
   "id": 169091093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.019339,34.190965,-110.019339,34.190965",
     "geom:latitude":34.190965,
     "geom:longitude":-110.019339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5926 Wagon Wheel Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169091093,
-    "wof:lastmodified":1449032998,
+    "wof:lastmodified":1466330431,
     "wof:name":"Graves Propane Arizona",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.019339,34.190965,-110.019339,34.190965],
+  "bbox": [
+    -110.019339,
+    34.190965,
+    -110.019339,
+    34.190965
+],
   "geometry": {"coordinates":[-110.019339,34.190965],"type":"Point"}
 }

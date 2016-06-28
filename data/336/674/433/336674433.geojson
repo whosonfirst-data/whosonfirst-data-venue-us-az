@@ -2,13 +2,14 @@
   "id": 336674433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996844,33.375024,-111.996844,33.375024",
     "geom:latitude":33.375024,
     "geom:longitude":-111.996844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7830 S 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336674433,
-    "wof:lastmodified":1448997742,
+    "wof:lastmodified":1466327545,
     "wof:name":"World Automation",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.996844,33.375024,-111.996844,33.375024],
+  "bbox": [
+    -111.996844,
+    33.375024,
+    -111.996844,
+    33.375024
+],
   "geometry": {"coordinates":[-111.996844,33.375024],"type":"Point"}
 }

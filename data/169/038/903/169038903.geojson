@@ -2,13 +2,14 @@
   "id": 169038903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884235,33.687495,-111.884235,33.687495",
     "geom:latitude":33.687495,
     "geom:longitude":-111.884235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9146 E Los Gatos Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880947,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169038903,
-    "wof:lastmodified":1449034801,
+    "wof:lastmodified":1466327651,
     "wof:name":"Briggs Financial Services",
     "wof:parent_id":85880947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.884235,33.687495,-111.884235,33.687495],
+  "bbox": [
+    -111.884235,
+    33.687495,
+    -111.884235,
+    33.687495
+],
   "geometry": {"coordinates":[-111.884235,33.687495],"type":"Point"}
 }

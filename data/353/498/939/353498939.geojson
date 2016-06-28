@@ -2,13 +2,14 @@
   "id": 353498939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910117,33.361355,-111.910117,33.361355",
     "geom:latitude":33.361355,
     "geom:longitude":-111.910117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 E Guadalupe Road Ste 101",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353498939,
-    "wof:lastmodified":1449020194,
+    "wof:lastmodified":1466327158,
     "wof:name":"The Flower Shoppe",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flower"
     ]
 },
-  "bbox": [-111.910117,33.361355,-111.910117,33.361355],
+  "bbox": [
+    -111.910117,
+    33.361355,
+    -111.910117,
+    33.361355
+],
   "geometry": {"coordinates":[-111.910117,33.361355],"type":"Point"}
 }

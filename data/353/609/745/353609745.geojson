@@ -2,13 +2,14 @@
   "id": 353609745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.153691,33.639201,-112.153691,33.639201",
     "geom:latitude":33.639201,
     "geom:longitude":-112.153691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4353 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353609745,
-    "wof:lastmodified":1449019213,
+    "wof:lastmodified":1466328654,
     "wof:name":"H&R Block",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-112.153691,33.639201,-112.153691,33.639201],
-  "geometry": {"coordinates":[-112.153691,33.639201],"type":"Point"}
+  "bbox": [
+    -112.153691,
+    33.639201,
+    -112.153691,
+    33.639201
+],
+  "geometry": {"coordinates":[-112.15369099999999,33.639201],"type":"Point"}
 }

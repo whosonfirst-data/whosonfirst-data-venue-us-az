@@ -2,13 +2,14 @@
   "id": 320726073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042801,33.494781,-112.042801,33.494781",
     "geom:latitude":33.494781,
     "geom:longitude":-112.042801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320726073,
-    "wof:lastmodified":1449013832,
+    "wof:lastmodified":1466328670,
     "wof:name":"Media Affiliates",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "facility"
     ]
 },
-  "bbox": [-112.042801,33.494781,-112.042801,33.494781],
+  "bbox": [
+    -112.042801,
+    33.494781,
+    -112.042801,
+    33.494781
+],
   "geometry": {"coordinates":[-112.042801,33.494781],"type":"Point"}
 }

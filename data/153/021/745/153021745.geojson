@@ -2,13 +2,14 @@
   "id": 153021745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.622076,33.245649,-111.622076,33.245649",
     "geom:latitude":33.245649,
     "geom:longitude":-111.622076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22267 S 213th St",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153021745,
-    "wof:lastmodified":1449040660,
+    "wof:lastmodified":1466327221,
     "wof:name":"Therapeutic Aquatic Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.622076,33.245649,-111.622076,33.245649],
-  "geometry": {"coordinates":[-111.622076,33.245649],"type":"Point"}
+  "bbox": [
+    -111.622076,
+    33.245649,
+    -111.622076,
+    33.245649
+],
+  "geometry": {"coordinates":[-111.62207600000001,33.245649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169395025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.844192,32.242811,-110.844192,32.242811",
     "geom:latitude":32.242811,
     "geom:longitude":-110.844192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1889 N Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.drachmanleed.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169395025,
-    "wof:lastmodified":1449035479,
+    "wof:lastmodified":1466333911,
     "wof:name":"Drachman-Leed Insurance Inc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.844192,32.242811,-110.844192,32.242811],
-  "geometry": {"coordinates":[-110.844192,32.242811],"type":"Point"}
+  "bbox": [
+    -110.844192,
+    32.242811,
+    -110.844192,
+    32.242811
+],
+  "geometry": {"coordinates":[-110.84419200000001,32.242811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169220733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.088482,33.531317,-112.088482,33.531317",
     "geom:latitude":33.531317,
     "geom:longitude":-112.088482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6542 N Maryland Cir",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853815,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169220733,
-    "wof:lastmodified":1449035844,
+    "wof:lastmodified":1466332345,
     "wof:name":"Arizona Sids Alliance",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.088482,33.531317,-112.088482,33.531317],
+  "bbox": [
+    -112.088482,
+    33.531317,
+    -112.088482,
+    33.531317
+],
   "geometry": {"coordinates":[-112.088482,33.531317],"type":"Point"}
 }

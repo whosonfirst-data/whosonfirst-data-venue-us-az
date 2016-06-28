@@ -2,13 +2,14 @@
   "id": 336963203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926133,33.48632,-111.926133,33.48632",
     "geom:latitude":33.48632,
     "geom:longitude":-111.926133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3308 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336963203,
-    "wof:lastmodified":1448997037,
+    "wof:lastmodified":1466330922,
     "wof:name":"Casta Inc",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.926133,33.48632,-111.926133,33.48632],
-  "geometry": {"coordinates":[-111.926133,33.48632],"type":"Point"}
+  "bbox": [
+    -111.926133,
+    33.48632,
+    -111.926133,
+    33.48632
+],
+  "geometry": {"coordinates":[-111.92613299999999,33.48632],"type":"Point"}
 }

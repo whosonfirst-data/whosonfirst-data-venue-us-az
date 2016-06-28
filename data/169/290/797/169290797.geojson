@@ -2,13 +2,14 @@
   "id": 169290797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.169097,33.357509,-112.169097,33.357509",
     "geom:latitude":33.357509,
     "geom:longitude":-112.169097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9601 S 51st Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169290797,
-    "wof:lastmodified":1449034093,
+    "wof:lastmodified":1466332982,
     "wof:name":"Portillos Tile Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.169097,33.357509,-112.169097,33.357509],
-  "geometry": {"coordinates":[-112.169097,33.357509],"type":"Point"}
+  "bbox": [
+    -112.169097,
+    33.357509,
+    -112.169097,
+    33.357509
+],
+  "geometry": {"coordinates":[-112.16909699999999,33.357509],"type":"Point"}
 }

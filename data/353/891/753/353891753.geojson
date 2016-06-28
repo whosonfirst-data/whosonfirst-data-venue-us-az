@@ -2,13 +2,14 @@
   "id": 353891753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.42844,34.59254,-112.42844,34.59254",
     "geom:latitude":34.59254,
     "geom:longitude":-112.42844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 N Meadow Ln",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353891753,
-    "wof:lastmodified":1449019821,
+    "wof:lastmodified":1466330901,
     "wof:name":"Prescott Tax & Financial Service",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-112.42844,34.59254,-112.42844,34.59254],
-  "geometry": {"coordinates":[-112.42844,34.59254],"type":"Point"}
+  "bbox": [
+    -112.42844,
+    34.59254,
+    -112.42844,
+    34.59254
+],
+  "geometry": {"coordinates":[-112.42843999999999,34.59254],"type":"Point"}
 }

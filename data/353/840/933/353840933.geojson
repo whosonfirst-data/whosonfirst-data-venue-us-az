@@ -2,13 +2,14 @@
   "id": 353840933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955002,32.4711,-110.955002,32.4711",
     "geom:latitude":32.4711,
     "geom:longitude":-110.955002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14650 N Sun City Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353840933,
-    "wof:lastmodified":1449020246,
+    "wof:lastmodified":1466330558,
     "wof:name":"Desert Oasis Recreation Center",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "team"
     ]
 },
-  "bbox": [-110.955002,32.4711,-110.955002,32.4711],
-  "geometry": {"coordinates":[-110.955002,32.4711],"type":"Point"}
+  "bbox": [
+    -110.955002,
+    32.4711,
+    -110.955002,
+    32.4711
+],
+  "geometry": {"coordinates":[-110.95500199999999,32.4711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320791855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036179,33.609138,-112.036179,33.609138",
     "geom:latitude":33.609138,
     "geom:longitude":-112.036179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13439 N Cave Creek Rd Ste 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320791855,
-    "wof:lastmodified":1449014101,
+    "wof:lastmodified":1466329861,
     "wof:name":"Phoenix Alterations",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "alterations-clothing"
     ]
 },
-  "bbox": [-112.036179,33.609138,-112.036179,33.609138],
+  "bbox": [
+    -112.036179,
+    33.609138,
+    -112.036179,
+    33.609138
+],
   "geometry": {"coordinates":[-112.036179,33.609138],"type":"Point"}
 }

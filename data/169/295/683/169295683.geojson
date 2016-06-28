@@ -2,13 +2,14 @@
   "id": 169295683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971247,32.272063,-110.971247,32.272063",
     "geom:latitude":32.272063,
     "geom:longitude":-110.971247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169295683,
-    "wof:lastmodified":1449034016,
+    "wof:lastmodified":1466332955,
     "wof:name":"Arizona Complete Glass Svc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971247,32.272063,-110.971247,32.272063],
-  "geometry": {"coordinates":[-110.971247,32.272063],"type":"Point"}
+  "bbox": [
+    -110.971247,
+    32.272063,
+    -110.971247,
+    32.272063
+],
+  "geometry": {"coordinates":[-110.97124700000001,32.272063],"type":"Point"}
 }

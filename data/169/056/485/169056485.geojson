@@ -2,13 +2,14 @@
   "id": 169056485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.343173,33.629572,-112.343173,33.629572",
     "geom:latitude":33.629572,
     "geom:longitude":-112.343173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16042 Gil Balcome St",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169056485,
-    "wof:lastmodified":1449033628,
+    "wof:lastmodified":1466328819,
     "wof:name":"Classic Carpet Care",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.343173,33.629572,-112.343173,33.629572],
-  "geometry": {"coordinates":[-112.343173,33.629572],"type":"Point"}
+  "bbox": [
+    -112.343173,
+    33.629572,
+    -112.343173,
+    33.629572
+],
+  "geometry": {"coordinates":[-112.34317299999999,33.629572],"type":"Point"}
 }

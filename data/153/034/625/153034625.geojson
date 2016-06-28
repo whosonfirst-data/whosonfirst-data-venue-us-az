@@ -2,13 +2,14 @@
   "id": 153034625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.339844,31.692908,-110.339844,31.692908",
     "geom:latitude":31.692908,
     "geom:longitude":-110.339844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 State Hwy 82",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153034625,
-    "wof:lastmodified":1449040387,
+    "wof:lastmodified":1466326095,
     "wof:name":"Supercharger Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.339844,31.692908,-110.339844,31.692908],
+  "bbox": [
+    -110.339844,
+    31.692908,
+    -110.339844,
+    31.692908
+],
   "geometry": {"coordinates":[-110.339844,31.692908],"type":"Point"}
 }

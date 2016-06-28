@@ -2,13 +2,14 @@
   "id": 337512981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.952881,33.60059,-111.952881,33.60059",
     "geom:latitude":33.60059,
     "geom:longitude":-111.952881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12601 N 59th Pl Ste 100",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337512981,
-    "wof:lastmodified":1449027540,
+    "wof:lastmodified":1466326360,
     "wof:name":"Mcnutt Reporting Service, Inc",
     "wof:parent_id":85858855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-111.952881,33.60059,-111.952881,33.60059],
+  "bbox": [
+    -111.952881,
+    33.60059,
+    -111.952881,
+    33.60059
+],
   "geometry": {"coordinates":[-111.952881,33.60059],"type":"Point"}
 }

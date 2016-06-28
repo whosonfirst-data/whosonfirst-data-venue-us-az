@@ -2,13 +2,14 @@
   "id": 169410531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.04092,34.251349,-110.04092,34.251349",
     "geom:latitude":34.251349,
     "geom:longitude":-110.04092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169410531,
-    "wof:lastmodified":1449032727,
+    "wof:lastmodified":1466334066,
     "wof:name":"Pain and Pleasures Tattoo & Bo",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.04092,34.251349,-110.04092,34.251349],
+  "bbox": [
+    -110.04092,
+    34.251349,
+    -110.04092,
+    34.251349
+],
   "geometry": {"coordinates":[-110.04092,34.251349],"type":"Point"}
 }

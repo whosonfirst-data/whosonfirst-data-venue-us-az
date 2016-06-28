@@ -2,13 +2,14 @@
   "id": 152941391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.892554,32.234001,-110.892554,32.234001",
     "geom:latitude":32.234001,
     "geom:longitude":-110.892554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152941391,
-    "wof:lastmodified":1449047057,
+    "wof:lastmodified":1466326784,
     "wof:name":"Bunea Pet Clinic",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.892554,32.234001,-110.892554,32.234001],
+  "bbox": [
+    -110.892554,
+    32.234001,
+    -110.892554,
+    32.234001
+],
   "geometry": {"coordinates":[-110.892554,32.234001],"type":"Point"}
 }

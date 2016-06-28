@@ -2,13 +2,14 @@
   "id": 336927903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.74966,33.375022,-111.74966,33.375022",
     "geom:latitude":33.375022,
     "geom:longitude":-111.74966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 E Lakecrest Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336927903,
-    "wof:lastmodified":1448997904,
+    "wof:lastmodified":1466330662,
     "wof:name":"Azmex Plastics Molding",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "forming-manufacturers"
     ]
 },
-  "bbox": [-111.74966,33.375022,-111.74966,33.375022],
-  "geometry": {"coordinates":[-111.74966,33.375022],"type":"Point"}
+  "bbox": [
+    -111.74966,
+    33.375022,
+    -111.74966,
+    33.375022
+],
+  "geometry": {"coordinates":[-111.74966000000001,33.375022],"type":"Point"}
 }

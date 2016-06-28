@@ -2,13 +2,14 @@
   "id": 336830951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.643369,33.364578,-111.643369,33.364578",
     "geom:latitude":33.364578,
     "geom:longitude":-111.643369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8915 E Guadalupe Rd Ofc",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336830951,
-    "wof:lastmodified":1448997176,
+    "wof:lastmodified":1466329866,
     "wof:name":"San Miguel Apartments Lp",
     "wof:parent_id":85872437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-111.643369,33.364578,-111.643369,33.364578],
-  "geometry": {"coordinates":[-111.643369,33.364578],"type":"Point"}
+  "bbox": [
+    -111.643369,
+    33.364578,
+    -111.643369,
+    33.364578
+],
+  "geometry": {"coordinates":[-111.64336900000001,33.364578],"type":"Point"}
 }

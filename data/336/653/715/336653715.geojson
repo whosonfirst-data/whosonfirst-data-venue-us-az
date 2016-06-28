@@ -2,13 +2,14 @@
   "id": 336653715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007042,33.40332,-112.007042,33.40332",
     "geom:latitude":33.40332,
     "geom:longitude":-112.007042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 S 35th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336653715,
-    "wof:lastmodified":1448997006,
+    "wof:lastmodified":1466327020,
     "wof:name":"Whitley Machine, Inc",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.007042,33.40332,-112.007042,33.40332],
+  "bbox": [
+    -112.007042,
+    33.40332,
+    -112.007042,
+    33.40332
+],
   "geometry": {"coordinates":[-112.007042,33.40332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168956899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.489128,34.616266,-112.489128,34.616266",
     "geom:latitude":34.616266,
     "geom:longitude":-112.489128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4670 Cody Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168956899,
-    "wof:lastmodified":1449027903,
+    "wof:lastmodified":1466331162,
     "wof:name":"Fern V Fox Trucking",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.489128,34.616266,-112.489128,34.616266],
-  "geometry": {"coordinates":[-112.489128,34.616266],"type":"Point"}
+  "bbox": [
+    -112.489128,
+    34.616266,
+    -112.489128,
+    34.616266
+],
+  "geometry": {"coordinates":[-112.48912799999999,34.616266],"type":"Point"}
 }

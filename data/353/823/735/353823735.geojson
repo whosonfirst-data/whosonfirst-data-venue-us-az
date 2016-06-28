@@ -2,13 +2,14 @@
   "id": 353823735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857988,32.244375,-110.857988,32.244375",
     "geom:latitude":32.244375,
     "geom:longitude":-110.857988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 N Wilmot Rd Ste 4",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353823735,
-    "wof:lastmodified":1449020761,
+    "wof:lastmodified":1466330550,
     "wof:name":"Pulmonary Associates Of Southern Arizona Pc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "disease"
     ]
 },
-  "bbox": [-110.857988,32.244375,-110.857988,32.244375],
-  "geometry": {"coordinates":[-110.857988,32.244375],"type":"Point"}
+  "bbox": [
+    -110.857988,
+    32.244375,
+    -110.857988,
+    32.244375
+],
+  "geometry": {"coordinates":[-110.85798800000001,32.244375],"type":"Point"}
 }

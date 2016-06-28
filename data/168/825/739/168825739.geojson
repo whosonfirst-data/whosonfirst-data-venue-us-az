@@ -2,13 +2,14 @@
   "id": 168825739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177456,33.542434,-112.177456,33.542434",
     "geom:latitude":33.542434,
     "geom:longitude":-112.177456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7220 N 55th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877785,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168825739,
-    "wof:lastmodified":1449027791,
+    "wof:lastmodified":1466325845,
     "wof:name":"Goody Casting",
     "wof:parent_id":85877785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177456,33.542434,-112.177456,33.542434],
-  "geometry": {"coordinates":[-112.177456,33.542434],"type":"Point"}
+  "bbox": [
+    -112.177456,
+    33.542434,
+    -112.177456,
+    33.542434
+],
+  "geometry": {"coordinates":[-112.17745600000001,33.542434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152962829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89937,33.314524,-111.89937,33.314524",
     "geom:latitude":33.314524,
     "geom:longitude":-111.89937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3391 W del Rio St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841283,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85841283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152962829,
-    "wof:lastmodified":1449047021,
+    "wof:lastmodified":1466328064,
     "wof:name":"Beeson Career Mgmt Svc",
     "wof:parent_id":85841283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.89937,33.314524,-111.89937,33.314524],
+  "bbox": [
+    -111.89937,
+    33.314524,
+    -111.89937,
+    33.314524
+],
   "geometry": {"coordinates":[-111.89937,33.314524],"type":"Point"}
 }

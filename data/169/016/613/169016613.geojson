@@ -2,13 +2,14 @@
   "id": 169016613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.767348,32.155391,-110.767348,32.155391",
     "geom:latitude":32.155391,
     "geom:longitude":-110.767348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 E Seven Generations Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169016613,
-    "wof:lastmodified":1449033266,
+    "wof:lastmodified":1466327714,
     "wof:name":"Madera Financial",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.767348,32.155391,-110.767348,32.155391],
+  "bbox": [
+    -110.767348,
+    32.155391,
+    -110.767348,
+    32.155391
+],
   "geometry": {"coordinates":[-110.767348,32.155391],"type":"Point"}
 }

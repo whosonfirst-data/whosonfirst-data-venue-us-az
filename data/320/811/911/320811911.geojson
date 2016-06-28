@@ -2,13 +2,14 @@
   "id": 320811911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055358,33.65704,-112.055358,33.65704",
     "geom:latitude":33.65704,
     "geom:longitude":-112.055358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 E Rosemonte Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320811911,
-    "wof:lastmodified":1449013059,
+    "wof:lastmodified":1466329853,
     "wof:name":"27th Ave Bar & Grill",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-112.055358,33.65704,-112.055358,33.65704],
+  "bbox": [
+    -112.055358,
+    33.65704,
+    -112.055358,
+    33.65704
+],
   "geometry": {"coordinates":[-112.055358,33.65704],"type":"Point"}
 }

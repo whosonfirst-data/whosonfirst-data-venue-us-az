@@ -2,13 +2,14 @@
   "id": 152954969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213917,33.518756,-112.213917,33.518756",
     "geom:latitude":33.518756,
     "geom:longitude":-112.213917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7236 W San Miguel Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877789,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152954969,
-    "wof:lastmodified":1449048323,
+    "wof:lastmodified":1466327724,
     "wof:name":"Able Americans Home Improvment",
     "wof:parent_id":85877789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.213917,33.518756,-112.213917,33.518756],
+  "bbox": [
+    -112.213917,
+    33.518756,
+    -112.213917,
+    33.518756
+],
   "geometry": {"coordinates":[-112.213917,33.518756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168970865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.956913,33.349067,-111.956913,33.349067",
     "geom:latitude":33.349067,
     "geom:longitude":-111.956913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 W Elliot Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.carlosobriens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814393,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168970865,
-    "wof:lastmodified":1449028575,
+    "wof:lastmodified":1466331271,
     "wof:name":"Carlos O'Brien's Mexican Food",
     "wof:parent_id":85814393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.956913,33.349067,-111.956913,33.349067],
+  "bbox": [
+    -111.956913,
+    33.349067,
+    -111.956913,
+    33.349067
+],
   "geometry": {"coordinates":[-111.956913,33.349067],"type":"Point"}
 }

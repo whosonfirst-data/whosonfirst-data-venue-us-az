@@ -2,13 +2,14 @@
   "id": 336834239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777999,33.456512,-111.777999,33.456512",
     "geom:latitude":33.456512,
     "geom:longitude":-111.777999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2444 E Lockwood Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336834239,
-    "wof:lastmodified":1448997034,
+    "wof:lastmodified":1466330007,
     "wof:name":"Airstride Trailer Sales",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-111.777999,33.456512,-111.777999,33.456512],
-  "geometry": {"coordinates":[-111.777999,33.456512],"type":"Point"}
+  "bbox": [
+    -111.777999,
+    33.456512,
+    -111.777999,
+    33.456512
+],
+  "geometry": {"coordinates":[-111.77799899999999,33.456512],"type":"Point"}
 }

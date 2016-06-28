@@ -2,13 +2,14 @@
   "id": 168881687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952005,32.285268,-110.952005,32.285268",
     "geom:latitude":32.285268,
     "geom:longitude":-110.952005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 Renfrew Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168881687,
-    "wof:lastmodified":1449028223,
+    "wof:lastmodified":1466328577,
     "wof:name":"Miracle Holding Co LLC",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.952005,32.285268,-110.952005,32.285268],
+  "bbox": [
+    -110.952005,
+    32.285268,
+    -110.952005,
+    32.285268
+],
   "geometry": {"coordinates":[-110.952005,32.285268],"type":"Point"}
 }

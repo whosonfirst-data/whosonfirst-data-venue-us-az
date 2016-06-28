@@ -2,13 +2,14 @@
   "id": 336693201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97789,33.319767,-111.97789,33.319767",
     "geom:latitude":33.319767,
     "geom:longitude":-111.97789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 E Ray Rd Ste 102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336693201,
-    "wof:lastmodified":1448996982,
+    "wof:lastmodified":1466328364,
     "wof:name":"Neo Tokyo",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "japanese"
     ]
 },
-  "bbox": [-111.97789,33.319767,-111.97789,33.319767],
+  "bbox": [
+    -111.97789,
+    33.319767,
+    -111.97789,
+    33.319767
+],
   "geometry": {"coordinates":[-111.97789,33.319767],"type":"Point"}
 }

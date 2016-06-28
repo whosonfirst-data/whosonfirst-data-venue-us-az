@@ -2,13 +2,14 @@
   "id": 169232275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936944,31.340861,-110.936944,31.340861",
     "geom:latitude":31.340861,
     "geom:longitude":-110.936944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Arroyo Blvd",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169232275,
-    "wof:lastmodified":1449033751,
+    "wof:lastmodified":1466332413,
     "wof:name":"Fiesta Market",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936944,31.340861,-110.936944,31.340861],
+  "bbox": [
+    -110.936944,
+    31.340861,
+    -110.936944,
+    31.340861
+],
   "geometry": {"coordinates":[-110.936944,31.340861],"type":"Point"}
 }

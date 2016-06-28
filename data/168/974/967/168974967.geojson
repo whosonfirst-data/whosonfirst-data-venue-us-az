@@ -2,13 +2,14 @@
   "id": 168974967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973891,33.776408,-111.973891,33.776408",
     "geom:latitude":33.776408,
     "geom:longitude":-111.973891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4942 E Cll de Los Arboles",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168974967,
-    "wof:lastmodified":1449028489,
+    "wof:lastmodified":1466331301,
     "wof:name":"SFH",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973891,33.776408,-111.973891,33.776408],
-  "geometry": {"coordinates":[-111.973891,33.776408],"type":"Point"}
+  "bbox": [
+    -111.973891,
+    33.776408,
+    -111.973891,
+    33.776408
+],
+  "geometry": {"coordinates":[-111.97389099999999,33.776408],"type":"Point"}
 }

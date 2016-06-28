@@ -2,13 +2,14 @@
   "id": 169303541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.24683,33.699836,-112.24683,33.699836",
     "geom:latitude":33.699836,
     "geom:longitude":-112.24683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8817 W Ave del Sol",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169303541,
-    "wof:lastmodified":1449032712,
+    "wof:lastmodified":1466333040,
     "wof:name":"Coyote Fire LLC",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.24683,33.699836,-112.24683,33.699836],
+  "bbox": [
+    -112.24683,
+    33.699836,
+    -112.24683,
+    33.699836
+],
   "geometry": {"coordinates":[-112.24683,33.699836],"type":"Point"}
 }

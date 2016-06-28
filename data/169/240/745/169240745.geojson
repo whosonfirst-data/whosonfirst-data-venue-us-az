@@ -2,13 +2,14 @@
   "id": 169240745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.049183,32.351645,-111.049183,32.351645",
     "geom:latitude":32.351645,
     "geom:longitude":-111.049183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 W Magee Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169240745,
-    "wof:lastmodified":1449033017,
+    "wof:lastmodified":1466332432,
     "wof:name":"A Atlas Discount Storage",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.049183,32.351645,-111.049183,32.351645],
+  "bbox": [
+    -111.049183,
+    32.351645,
+    -111.049183,
+    32.351645
+],
   "geometry": {"coordinates":[-111.049183,32.351645],"type":"Point"}
 }

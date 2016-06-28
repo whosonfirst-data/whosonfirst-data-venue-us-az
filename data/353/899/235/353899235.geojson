@@ -2,13 +2,14 @@
   "id": 353899235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00981,34.72862,-112.00981,34.72862",
     "geom:latitude":34.72862,
     "geom:longitude":-112.00981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 E Cottonwood St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353899235,
-    "wof:lastmodified":1449020655,
+    "wof:lastmodified":1466330970,
     "wof:name":"My Jewler",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-112.00981,34.72862,-112.00981,34.72862],
+  "bbox": [
+    -112.00981,
+    34.72862,
+    -112.00981,
+    34.72862
+],
   "geometry": {"coordinates":[-112.00981,34.72862],"type":"Point"}
 }

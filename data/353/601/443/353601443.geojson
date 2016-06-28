@@ -2,13 +2,14 @@
   "id": 353601443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.146163,33.649033,-112.146163,33.649033",
     "geom:latitude":33.649033,
     "geom:longitude":-112.146163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17846 N 40th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353601443,
-    "wof:lastmodified":1449019401,
+    "wof:lastmodified":1466328793,
     "wof:name":"Mock & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sale"
     ]
 },
-  "bbox": [-112.146163,33.649033,-112.146163,33.649033],
+  "bbox": [
+    -112.146163,
+    33.649033,
+    -112.146163,
+    33.649033
+],
   "geometry": {"coordinates":[-112.146163,33.649033],"type":"Point"}
 }

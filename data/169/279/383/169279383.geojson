@@ -2,13 +2,14 @@
   "id": 169279383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.842013,32.313109,-110.842013,32.313109",
     "geom:latitude":32.313109,
     "geom:longitude":-110.842013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5833 N Golden Eagle Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169279383,
-    "wof:lastmodified":1449034187,
+    "wof:lastmodified":1466332798,
     "wof:name":"Williams Designs",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.842013,32.313109,-110.842013,32.313109],
-  "geometry": {"coordinates":[-110.842013,32.313109],"type":"Point"}
+  "bbox": [
+    -110.842013,
+    32.313109,
+    -110.842013,
+    32.313109
+],
+  "geometry": {"coordinates":[-110.84201299999999,32.313109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169378901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073895,33.456543,-112.073895,33.456543",
     "geom:latitude":33.456543,
     "geom:longitude":-112.073895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169378901,
-    "wof:lastmodified":1449034919,
+    "wof:lastmodified":1466333829,
     "wof:name":"Downtown",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073895,33.456543,-112.073895,33.456543],
-  "geometry": {"coordinates":[-112.073895,33.456543],"type":"Point"}
+  "bbox": [
+    -112.073895,
+    33.456543,
+    -112.073895,
+    33.456543
+],
+  "geometry": {"coordinates":[-112.07389499999999,33.456543],"type":"Point"}
 }

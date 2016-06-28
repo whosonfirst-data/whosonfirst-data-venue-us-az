@@ -2,13 +2,14 @@
   "id": 353537645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.743305,33.302442,-111.743305,33.302442",
     "geom:latitude":33.302442,
     "geom:longitude":-111.743305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 S Market St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353537645,
-    "wof:lastmodified":1449018887,
+    "wof:lastmodified":1466327834,
     "wof:name":"Sc Kiosk",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.743305,33.302442,-111.743305,33.302442],
-  "geometry": {"coordinates":[-111.743305,33.302442],"type":"Point"}
+  "bbox": [
+    -111.743305,
+    33.302442,
+    -111.743305,
+    33.302442
+],
+  "geometry": {"coordinates":[-111.74330500000001,33.302442],"type":"Point"}
 }

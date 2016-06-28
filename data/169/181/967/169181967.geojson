@@ -2,13 +2,14 @@
   "id": 169181967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007627,33.497434,-112.007627,33.497434",
     "geom:latitude":33.497434,
     "geom:longitude":-112.007627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 N 34th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169181967,
-    "wof:lastmodified":1449034711,
+    "wof:lastmodified":1466332023,
     "wof:name":"Hibner's Personal Chef Svc",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007627,33.497434,-112.007627,33.497434],
+  "bbox": [
+    -112.007627,
+    33.497434,
+    -112.007627,
+    33.497434
+],
   "geometry": {"coordinates":[-112.007627,33.497434],"type":"Point"}
 }

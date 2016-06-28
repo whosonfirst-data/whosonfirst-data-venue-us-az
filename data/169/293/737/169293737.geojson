@@ -2,13 +2,14 @@
   "id": 169293737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.916851,31.441405,-109.916851,31.441405",
     "geom:latitude":31.441405,
     "geom:longitude":-109.916851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85820943
+        85633793,
+        85820943,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169293737,
-    "wof:lastmodified":1449033338,
+    "wof:lastmodified":1466332944,
     "wof:name":"Malanga Law Office",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.916851,31.441405,-109.916851,31.441405],
-  "geometry": {"coordinates":[-109.916851,31.441405],"type":"Point"}
+  "bbox": [
+    -109.916851,
+    31.441405,
+    -109.916851,
+    31.441405
+],
+  "geometry": {"coordinates":[-109.91685099999999,31.441405],"type":"Point"}
 }

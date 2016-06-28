@@ -2,13 +2,14 @@
   "id": 169366191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.882273,32.227967,-110.882273,32.227967",
     "geom:latitude":32.227967,
     "geom:longitude":-110.882273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5156 E 6th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169366191,
-    "wof:lastmodified":1449035085,
+    "wof:lastmodified":1466333595,
     "wof:name":"Allmac",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.882273,32.227967,-110.882273,32.227967],
+  "bbox": [
+    -110.882273,
+    32.227967,
+    -110.882273,
+    32.227967
+],
   "geometry": {"coordinates":[-110.882273,32.227967],"type":"Point"}
 }

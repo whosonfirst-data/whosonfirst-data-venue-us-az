@@ -2,13 +2,14 @@
   "id": 337587911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.875769,33.584099,-111.875769,33.584099",
     "geom:latitude":33.584099,
     "geom:longitude":-111.875769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9494 E Becker Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":337587911,
-    "wof:lastmodified":1449027221,
+    "wof:lastmodified":1466327008,
     "wof:name":"Life Care Ctr Of Scottsdale",
     "wof:parent_id":85823421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-111.875769,33.584099,-111.875769,33.584099],
-  "geometry": {"coordinates":[-111.875769,33.584099],"type":"Point"}
+  "bbox": [
+    -111.875769,
+    33.584099,
+    -111.875769,
+    33.584099
+],
+  "geometry": {"coordinates":[-111.87576900000001,33.584099],"type":"Point"}
 }

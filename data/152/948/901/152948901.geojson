@@ -2,13 +2,14 @@
   "id": 152948901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986559,32.262285,-110.986559,32.262285",
     "geom:latitude":32.262285,
     "geom:longitude":-110.986559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 N Fairview Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152948901,
-    "wof:lastmodified":1449047959,
+    "wof:lastmodified":1466327296,
     "wof:name":"Blue Sky Studio",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.986559,32.262285,-110.986559,32.262285],
+  "bbox": [
+    -110.986559,
+    32.262285,
+    -110.986559,
+    32.262285
+],
   "geometry": {"coordinates":[-110.986559,32.262285],"type":"Point"}
 }

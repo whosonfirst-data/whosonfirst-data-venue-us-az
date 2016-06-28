@@ -2,13 +2,14 @@
   "id": 353867061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.095396,34.442278,-110.095396,34.442278",
     "geom:latitude":34.442278,
     "geom:longitude":-110.095396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Main St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353867061,
-    "wof:lastmodified":1449019355,
+    "wof:lastmodified":1466330771,
     "wof:name":"Fill Centers Usa",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-110.095396,34.442278,-110.095396,34.442278],
-  "geometry": {"coordinates":[-110.095396,34.442278],"type":"Point"}
+  "bbox": [
+    -110.095396,
+    34.442278,
+    -110.095396,
+    34.442278
+],
+  "geometry": {"coordinates":[-110.09539599999999,34.442278],"type":"Point"}
 }

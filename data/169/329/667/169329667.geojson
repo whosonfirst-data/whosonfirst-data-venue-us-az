@@ -2,13 +2,14 @@
   "id": 169329667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.538311,33.391573,-111.538311,33.391573",
     "geom:latitude":33.391573,
     "geom:longitude":-111.538311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 E 26th Ave",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169329667,
-    "wof:lastmodified":1449033601,
+    "wof:lastmodified":1466333305,
     "wof:name":"Burnett Investments",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.538311,33.391573,-111.538311,33.391573],
-  "geometry": {"coordinates":[-111.538311,33.391573],"type":"Point"}
+  "bbox": [
+    -111.538311,
+    33.391573,
+    -111.538311,
+    33.391573
+],
+  "geometry": {"coordinates":[-111.53831099999999,33.391573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169166589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909855,33.617432,-111.909855,33.617432",
     "geom:latitude":33.617432,
     "geom:longitude":-111.909855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14525 N 79th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169166589,
-    "wof:lastmodified":1449034536,
+    "wof:lastmodified":1466331881,
     "wof:name":"Cabinetry Fine Woodworking",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909855,33.617432,-111.909855,33.617432],
-  "geometry": {"coordinates":[-111.909855,33.617432],"type":"Point"}
+  "bbox": [
+    -111.909855,
+    33.617432,
+    -111.909855,
+    33.617432
+],
+  "geometry": {"coordinates":[-111.90985499999999,33.617432],"type":"Point"}
 }

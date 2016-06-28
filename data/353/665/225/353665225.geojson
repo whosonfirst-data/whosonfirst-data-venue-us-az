@@ -2,13 +2,14 @@
   "id": 353665225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.29287,34.14629,-114.29287,34.14629",
     "geom:latitude":34.14629,
     "geom:longitude":-114.29287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 W Mohave Rd",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353665225,
-    "wof:lastmodified":1449019040,
+    "wof:lastmodified":1466329341,
     "wof:name":"La Paz Regional Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgery"
     ]
 },
-  "bbox": [-114.29287,34.14629,-114.29287,34.14629],
-  "geometry": {"coordinates":[-114.29287,34.14629],"type":"Point"}
+  "bbox": [
+    -114.29287,
+    34.14629,
+    -114.29287,
+    34.14629
+],
+  "geometry": {"coordinates":[-114.29286999999999,34.14629],"type":"Point"}
 }

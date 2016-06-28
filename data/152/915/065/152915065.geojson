@@ -2,13 +2,14 @@
   "id": 152915065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.366316,33.464544,-112.366316,33.464544",
     "geom:latitude":33.464544,
     "geom:longitude":-112.366316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14122 W McDowell Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152915065,
-    "wof:lastmodified":1449048863,
+    "wof:lastmodified":1466326236,
     "wof:name":"Belcher Grading",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.366316,33.464544,-112.366316,33.464544],
+  "bbox": [
+    -112.366316,
+    33.464544,
+    -112.366316,
+    33.464544
+],
   "geometry": {"coordinates":[-112.366316,33.464544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169354267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948633,32.27225,-110.948633,32.27225",
     "geom:latitude":32.27225,
     "geom:longitude":-110.948633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1553 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169354267,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466333366,
     "wof:name":"Aquarius Water",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948633,32.27225,-110.948633,32.27225],
+  "bbox": [
+    -110.948633,
+    32.27225,
+    -110.948633,
+    32.27225
+],
   "geometry": {"coordinates":[-110.948633,32.27225],"type":"Point"}
 }

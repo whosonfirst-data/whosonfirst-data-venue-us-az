@@ -2,13 +2,14 @@
   "id": 353852115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.024524,32.372101,-111.024524,32.372101",
     "geom:latitude":32.372101,
     "geom:longitude":-111.024524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2656 W Mountain Heights Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353852115,
-    "wof:lastmodified":1449020390,
+    "wof:lastmodified":1466330695,
     "wof:name":"Christ Mission Church Of Tucson",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.024524,32.372101,-111.024524,32.372101],
+  "bbox": [
+    -111.024524,
+    32.372101,
+    -111.024524,
+    32.372101
+],
   "geometry": {"coordinates":[-111.024524,32.372101],"type":"Point"}
 }

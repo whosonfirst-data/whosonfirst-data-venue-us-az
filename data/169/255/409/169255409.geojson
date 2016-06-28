@@ -2,13 +2,14 @@
   "id": 169255409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.989008,32.391345,-110.989008,32.391345",
     "geom:latitude":32.391345,
     "geom:longitude":-110.989008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W Shoal Creek Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169255409,
-    "wof:lastmodified":1449034176,
+    "wof:lastmodified":1466332536,
     "wof:name":"Catalina Plastics & Displays",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.989008,32.391345,-110.989008,32.391345],
+  "bbox": [
+    -110.989008,
+    32.391345,
+    -110.989008,
+    32.391345
+],
   "geometry": {"coordinates":[-110.989008,32.391345],"type":"Point"}
 }

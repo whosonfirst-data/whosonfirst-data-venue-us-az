@@ -2,13 +2,14 @@
   "id": 169412917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.616078,32.693752,-114.616078,32.693752",
     "geom:latitude":32.693752,
     "geom:longitude":-114.616078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1878 S Arizona Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169412917,
-    "wof:lastmodified":1449033362,
+    "wof:lastmodified":1466334107,
     "wof:name":"Gordies Speed Center",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.616078,32.693752,-114.616078,32.693752],
+  "bbox": [
+    -114.616078,
+    32.693752,
+    -114.616078,
+    32.693752
+],
   "geometry": {"coordinates":[-114.616078,32.693752],"type":"Point"}
 }

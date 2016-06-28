@@ -2,13 +2,14 @@
   "id": 336960041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945231,33.48019,-111.945231,33.48019",
     "geom:latitude":33.48019,
     "geom:longitude":-111.945231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 E Thomas Rd Ste 308",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336960041,
-    "wof:lastmodified":1448997702,
+    "wof:lastmodified":1466330760,
     "wof:name":"Won-Door Corporation",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "partition"
     ]
 },
-  "bbox": [-111.945231,33.48019,-111.945231,33.48019],
-  "geometry": {"coordinates":[-111.945231,33.48019],"type":"Point"}
+  "bbox": [
+    -111.945231,
+    33.48019,
+    -111.945231,
+    33.48019
+],
+  "geometry": {"coordinates":[-111.94523100000001,33.48019],"type":"Point"}
 }

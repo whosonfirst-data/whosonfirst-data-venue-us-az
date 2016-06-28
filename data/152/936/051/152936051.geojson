@@ -2,13 +2,14 @@
   "id": 152936051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.29506,33.66906,-112.29506,33.66906",
     "geom:latitude":33.66906,
     "geom:longitude":-112.29506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20365 N 109th Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152936051,
-    "wof:lastmodified":1449045848,
+    "wof:lastmodified":1466326403,
     "wof:name":"A Family Freplace Wood/Haydens",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.29506,33.66906,-112.29506,33.66906],
-  "geometry": {"coordinates":[-112.29506,33.66906],"type":"Point"}
+  "bbox": [
+    -112.29506,
+    33.66906,
+    -112.29506,
+    33.66906
+],
+  "geometry": {"coordinates":[-112.29506000000001,33.66906],"type":"Point"}
 }

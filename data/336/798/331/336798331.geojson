@@ -2,13 +2,14 @@
   "id": 336798331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.723534,33.415459,-111.723534,33.415459",
     "geom:latitude":33.415459,
     "geom:longitude":-111.723534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 E Main St Lot 1372",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336798331,
-    "wof:lastmodified":1448997151,
+    "wof:lastmodified":1466329372,
     "wof:name":"Activites Club",
     "wof:parent_id":85853593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-111.723534,33.415459,-111.723534,33.415459],
+  "bbox": [
+    -111.723534,
+    33.415459,
+    -111.723534,
+    33.415459
+],
   "geometry": {"coordinates":[-111.723534,33.415459],"type":"Point"}
 }

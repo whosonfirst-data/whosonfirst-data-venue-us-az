@@ -2,13 +2,14 @@
   "id": 169226753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.922767,33.456789,-111.922767,33.456789",
     "geom:latitude":33.456789,
     "geom:longitude":-111.922767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7304 E McKinley St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169226753,
-    "wof:lastmodified":1449035066,
+    "wof:lastmodified":1466332169,
     "wof:name":"401k ASP",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.922767,33.456789,-111.922767,33.456789],
-  "geometry": {"coordinates":[-111.922767,33.456789],"type":"Point"}
+  "bbox": [
+    -111.922767,
+    33.456789,
+    -111.922767,
+    33.456789
+],
+  "geometry": {"coordinates":[-111.92276699999999,33.456789],"type":"Point"}
 }

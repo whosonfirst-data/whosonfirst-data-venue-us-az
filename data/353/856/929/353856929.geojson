@@ -2,13 +2,14 @@
   "id": 353856929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.809016,32.11631,-110.809016,32.11631",
     "geom:latitude":32.11631,
     "geom:longitude":-110.809016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8596 E Olinga Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353856929,
-    "wof:lastmodified":1449018994,
+    "wof:lastmodified":1466330869,
     "wof:name":"Avid",
     "wof:parent_id":85858071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "destruction"
     ]
 },
-  "bbox": [-110.809016,32.11631,-110.809016,32.11631],
+  "bbox": [
+    -110.809016,
+    32.11631,
+    -110.809016,
+    32.11631
+],
   "geometry": {"coordinates":[-110.809016,32.11631],"type":"Point"}
 }

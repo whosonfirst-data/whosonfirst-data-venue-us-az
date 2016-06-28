@@ -2,13 +2,14 @@
   "id": 168866925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943405,32.415026,-110.943405,32.415026",
     "geom:latitude":32.415026,
     "geom:longitude":-110.943405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11486 N Civano Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168866925,
-    "wof:lastmodified":1449028138,
+    "wof:lastmodified":1466327190,
     "wof:name":"Fiesta Electric LLC",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943405,32.415026,-110.943405,32.415026],
+  "bbox": [
+    -110.943405,
+    32.415026,
+    -110.943405,
+    32.415026
+],
   "geometry": {"coordinates":[-110.943405,32.415026],"type":"Point"}
 }

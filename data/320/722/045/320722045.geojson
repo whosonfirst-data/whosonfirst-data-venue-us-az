@@ -2,13 +2,14 @@
   "id": 320722045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023727,33.487671,-112.023727,33.487671",
     "geom:latitude":33.487671,
     "geom:longitude":-112.023727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 E Osborn Rd Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320722045,
-    "wof:lastmodified":1449012585,
+    "wof:lastmodified":1466328623,
     "wof:name":"Olympus Payment Systems",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "card-merchant"
     ]
 },
-  "bbox": [-112.023727,33.487671,-112.023727,33.487671],
-  "geometry": {"coordinates":[-112.023727,33.487671],"type":"Point"}
+  "bbox": [
+    -112.023727,
+    33.487671,
+    -112.023727,
+    33.487671
+],
+  "geometry": {"coordinates":[-112.02372699999999,33.487671],"type":"Point"}
 }

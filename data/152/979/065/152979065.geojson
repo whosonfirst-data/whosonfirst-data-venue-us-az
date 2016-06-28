@@ -2,13 +2,14 @@
   "id": 152979065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.282246,33.516173,-112.282246,33.516173",
     "geom:latitude":33.516173,
     "geom:longitude":-112.282246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10333 W Luke Ave",
     "sg:city":"Luke Afb",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85812515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152979065,
-    "wof:lastmodified":1449047561,
+    "wof:lastmodified":1466328857,
     "wof:name":"Arizona Voluntary Complaince",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.282246,33.516173,-112.282246,33.516173],
+  "bbox": [
+    -112.282246,
+    33.516173,
+    -112.282246,
+    33.516173
+],
   "geometry": {"coordinates":[-112.282246,33.516173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168893425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.717057,33.607571,-111.717057,33.607571",
     "geom:latitude":33.607571,
     "geom:longitude":-111.717057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16803 E Palisades Blvd",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168893425,
-    "wof:lastmodified":1449028433,
+    "wof:lastmodified":1466329097,
     "wof:name":"Odyssey Builders",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.717057,33.607571,-111.717057,33.607571],
+  "bbox": [
+    -111.717057,
+    33.607571,
+    -111.717057,
+    33.607571
+],
   "geometry": {"coordinates":[-111.717057,33.607571],"type":"Point"}
 }

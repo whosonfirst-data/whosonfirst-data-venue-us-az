@@ -2,13 +2,14 @@
   "id": 169234601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.174089,33.664414,-112.174089,33.664414",
     "geom:latitude":33.664414,
     "geom:longitude":-112.174089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 W Tonto Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877771,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169234601,
-    "wof:lastmodified":1449035780,
+    "wof:lastmodified":1466332398,
     "wof:name":"Spectrum",
     "wof:parent_id":85877771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.174089,33.664414,-112.174089,33.664414],
+  "bbox": [
+    -112.174089,
+    33.664414,
+    -112.174089,
+    33.664414
+],
   "geometry": {"coordinates":[-112.174089,33.664414],"type":"Point"}
 }

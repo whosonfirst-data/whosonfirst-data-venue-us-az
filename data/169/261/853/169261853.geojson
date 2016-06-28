@@ -2,13 +2,14 @@
   "id": 169261853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.875066,33.621923,-111.875066,33.621923",
     "geom:latitude":33.621923,
     "geom:longitude":-111.875066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15027 N Thompson Peak Pkwy",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.flosrestaurants.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169261853,
-    "wof:lastmodified":1449032735,
+    "wof:lastmodified":1466332692,
     "wof:name":"Flo's Chinese Cuisine",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.875066,33.621923,-111.875066,33.621923],
+  "bbox": [
+    -111.875066,
+    33.621923,
+    -111.875066,
+    33.621923
+],
   "geometry": {"coordinates":[-111.875066,33.621923],"type":"Point"}
 }

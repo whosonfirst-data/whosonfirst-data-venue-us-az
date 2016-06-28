@@ -2,13 +2,14 @@
   "id": 353625583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.304413,33.489899,-112.304413,33.489899",
     "geom:latitude":33.489899,
     "geom:longitude":-112.304413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11343 W Primrose Drive",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353625583,
-    "wof:lastmodified":1449020845,
+    "wof:lastmodified":1466329113,
     "wof:name":"A-Pro Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspector"
     ]
 },
-  "bbox": [-112.304413,33.489899,-112.304413,33.489899],
+  "bbox": [
+    -112.304413,
+    33.489899,
+    -112.304413,
+    33.489899
+],
   "geometry": {"coordinates":[-112.304413,33.489899],"type":"Point"}
 }

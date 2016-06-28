@@ -2,13 +2,14 @@
   "id": 169410067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.81148,32.220885,-110.81148,32.220885",
     "geom:latitude":32.220885,
     "geom:longitude":-110.81148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8654 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169410067,
-    "wof:lastmodified":1449032727,
+    "wof:lastmodified":1466334023,
     "wof:name":"Image Makers Hair Designs",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.81148,32.220885,-110.81148,32.220885],
+  "bbox": [
+    -110.81148,
+    32.220885,
+    -110.81148,
+    32.220885
+],
   "geometry": {"coordinates":[-110.81148,32.220885],"type":"Point"}
 }

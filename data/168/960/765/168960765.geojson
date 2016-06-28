@@ -2,13 +2,14 @@
   "id": 168960765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.823849,32.209304,-110.823849,32.209304",
     "geom:latitude":32.209304,
     "geom:longitude":-110.823849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Pantano Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.5star-termite.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168960765,
-    "wof:lastmodified":1449028330,
+    "wof:lastmodified":1466331149,
     "wof:name":"Five Star Termite Pest Control",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.823849,32.209304,-110.823849,32.209304],
+  "bbox": [
+    -110.823849,
+    32.209304,
+    -110.823849,
+    32.209304
+],
   "geometry": {"coordinates":[-110.823849,32.209304],"type":"Point"}
 }

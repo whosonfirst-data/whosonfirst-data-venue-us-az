@@ -2,13 +2,14 @@
   "id": 168828125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068247,33.300155,-112.068247,33.300155",
     "geom:latitude":33.300155,
     "geom:longitude":-112.068247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 E Silverwood Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168828125,
-    "wof:lastmodified":1449028171,
+    "wof:lastmodified":1466325948,
     "wof:name":"Bm Promotional Products",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.068247,33.300155,-112.068247,33.300155],
+  "bbox": [
+    -112.068247,
+    33.300155,
+    -112.068247,
+    33.300155
+],
   "geometry": {"coordinates":[-112.068247,33.300155],"type":"Point"}
 }

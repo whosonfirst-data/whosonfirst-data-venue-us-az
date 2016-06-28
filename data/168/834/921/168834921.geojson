@@ -2,13 +2,14 @@
   "id": 168834921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.023051,32.332154,-111.023051,32.332154",
     "geom:latitude":32.332154,
     "geom:longitude":-111.023051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 W Dante Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168834921,
-    "wof:lastmodified":1449027853,
+    "wof:lastmodified":1466326386,
     "wof:name":"Creative Weight-Loss Tech",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.023051,32.332154,-111.023051,32.332154],
+  "bbox": [
+    -111.023051,
+    32.332154,
+    -111.023051,
+    32.332154
+],
   "geometry": {"coordinates":[-111.023051,32.332154],"type":"Point"}
 }

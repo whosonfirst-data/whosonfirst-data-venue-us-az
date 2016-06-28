@@ -2,13 +2,14 @@
   "id": 169390015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.989001,33.768766,-111.989001,33.768766",
     "geom:latitude":33.768766,
     "geom:longitude":-111.989001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4233 E Chaparosa Way",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169390015,
-    "wof:lastmodified":1449036002,
+    "wof:lastmodified":1466333834,
     "wof:name":"Bray Sales SW",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.989001,33.768766,-111.989001,33.768766],
+  "bbox": [
+    -111.989001,
+    33.768766,
+    -111.989001,
+    33.768766
+],
   "geometry": {"coordinates":[-111.989001,33.768766],"type":"Point"}
 }

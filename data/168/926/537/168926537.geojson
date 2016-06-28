@@ -2,13 +2,14 @@
   "id": 168926537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08693,33.563309,-112.08693,33.563309",
     "geom:latitude":33.563309,
     "geom:longitude":-112.08693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8610 N 11th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168926537,
-    "wof:lastmodified":1449028020,
+    "wof:lastmodified":1466330419,
     "wof:name":"Absolute Ink",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.08693,33.563309,-112.08693,33.563309],
+  "bbox": [
+    -112.08693,
+    33.563309,
+    -112.08693,
+    33.563309
+],
   "geometry": {"coordinates":[-112.08693,33.563309],"type":"Point"}
 }

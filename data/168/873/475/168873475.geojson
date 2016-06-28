@@ -2,13 +2,14 @@
   "id": 168873475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97926,32.255659,-110.97926,32.255659",
     "geom:latitude":32.255659,
     "geom:longitude":-110.97926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 W Kelso St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168873475,
-    "wof:lastmodified":1449027933,
+    "wof:lastmodified":1466327761,
     "wof:name":"Ecash Express Inc",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.97926,32.255659,-110.97926,32.255659],
+  "bbox": [
+    -110.97926,
+    32.255659,
+    -110.97926,
+    32.255659
+],
   "geometry": {"coordinates":[-110.97926,32.255659],"type":"Point"}
 }

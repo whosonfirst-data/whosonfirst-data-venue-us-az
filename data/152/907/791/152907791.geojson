@@ -2,13 +2,14 @@
   "id": 152907791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.912088,32.199387,-110.912088,32.199387",
     "geom:latitude":32.199387,
     "geom:longitude":-110.912088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3737 E 32nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152907791,
-    "wof:lastmodified":1449048570,
+    "wof:lastmodified":1466325725,
     "wof:name":"E G Painting",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.912088,32.199387,-110.912088,32.199387],
+  "bbox": [
+    -110.912088,
+    32.199387,
+    -110.912088,
+    32.199387
+],
   "geometry": {"coordinates":[-110.912088,32.199387],"type":"Point"}
 }

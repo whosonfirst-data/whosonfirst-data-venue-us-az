@@ -2,13 +2,14 @@
   "id": 168987209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.911239,33.341783,-111.911239,33.341783",
     "geom:latitude":33.341783,
     "geom:longitude":-111.911239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8150 S McClintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168987209,
-    "wof:lastmodified":1449028203,
+    "wof:lastmodified":1466331523,
     "wof:name":"TCH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.911239,33.341783,-111.911239,33.341783],
-  "geometry": {"coordinates":[-111.911239,33.341783],"type":"Point"}
+  "bbox": [
+    -111.911239,
+    33.341783,
+    -111.911239,
+    33.341783
+],
+  "geometry": {"coordinates":[-111.91123899999999,33.341783],"type":"Point"}
 }

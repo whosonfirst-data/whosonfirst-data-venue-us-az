@@ -2,13 +2,14 @@
   "id": 169384525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.949714,33.757591,-111.949714,33.757591",
     "geom:latitude":33.757591,
     "geom:longitude":-111.949714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6102 E Barwick Dr",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880937,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169384525,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466334103,
     "wof:name":"Herb Lady Of Cave Creek",
     "wof:parent_id":85880937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.949714,33.757591,-111.949714,33.757591],
+  "bbox": [
+    -111.949714,
+    33.757591,
+    -111.949714,
+    33.757591
+],
   "geometry": {"coordinates":[-111.949714,33.757591],"type":"Point"}
 }

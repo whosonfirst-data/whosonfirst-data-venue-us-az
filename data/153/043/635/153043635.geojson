@@ -2,13 +2,14 @@
   "id": 153043635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92933,32.211577,-110.92933,32.211577",
     "geom:latitude":32.211577,
     "geom:longitude":-110.92933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 E Eastland St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153043635,
-    "wof:lastmodified":1449040695,
+    "wof:lastmodified":1466326727,
     "wof:name":"Arizona Fencing Academy",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.92933,32.211577,-110.92933,32.211577],
-  "geometry": {"coordinates":[-110.92933,32.211577],"type":"Point"}
+  "bbox": [
+    -110.92933,
+    32.211577,
+    -110.92933,
+    32.211577
+],
+  "geometry": {"coordinates":[-110.92932999999999,32.211577],"type":"Point"}
 }

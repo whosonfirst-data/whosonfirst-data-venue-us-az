@@ -2,13 +2,14 @@
   "id": 169092105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956772,32.238599,-110.956772,32.238599",
     "geom:latitude":32.238599,
     "geom:longitude":-110.956772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Park Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169092105,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1466330622,
     "wof:name":"University Heights Apartments",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956772,32.238599,-110.956772,32.238599],
+  "bbox": [
+    -110.956772,
+    32.238599,
+    -110.956772,
+    32.238599
+],
   "geometry": {"coordinates":[-110.956772,32.238599],"type":"Point"}
 }

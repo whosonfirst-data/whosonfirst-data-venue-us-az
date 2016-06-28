@@ -2,13 +2,14 @@
   "id": 353722583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.394107,33.638771,-112.394107,33.638771",
     "geom:latitude":33.638771,
     "geom:longitude":-112.394107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15508 W Bell Rd Ste 111",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353722583,
-    "wof:lastmodified":1449019148,
+    "wof:lastmodified":1466329919,
     "wof:name":"Heritage Shutters",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-112.394107,33.638771,-112.394107,33.638771],
-  "geometry": {"coordinates":[-112.394107,33.638771],"type":"Point"}
+  "bbox": [
+    -112.394107,
+    33.638771,
+    -112.394107,
+    33.638771
+],
+  "geometry": {"coordinates":[-112.39410700000001,33.638771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152926837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953905,32.110858,-110.953905,32.110858",
     "geom:latitude":32.110858,
     "geom:longitude":-110.953905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 E Aero Park Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152926837,
-    "wof:lastmodified":1449045920,
+    "wof:lastmodified":1466325757,
     "wof:name":"Mesa Air Group",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953905,32.110858,-110.953905,32.110858],
-  "geometry": {"coordinates":[-110.953905,32.110858],"type":"Point"}
+  "bbox": [
+    -110.953905,
+    32.110858,
+    -110.953905,
+    32.110858
+],
+  "geometry": {"coordinates":[-110.95390500000001,32.110858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169040055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.148001,33.5428,-112.148001,33.5428",
     "geom:latitude":33.5428,
     "geom:longitude":-112.148001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 N 41st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169040055,
-    "wof:lastmodified":1449035869,
+    "wof:lastmodified":1466327754,
     "wof:name":"Splash & Dash Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.148001,33.5428,-112.148001,33.5428],
-  "geometry": {"coordinates":[-112.148001,33.5428],"type":"Point"}
+  "bbox": [
+    -112.148001,
+    33.5428,
+    -112.148001,
+    33.5428
+],
+  "geometry": {"coordinates":[-112.14800099999999,33.5428],"type":"Point"}
 }

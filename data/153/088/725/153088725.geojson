@@ -2,13 +2,14 @@
   "id": 153088725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950648,33.785333,-111.950648,33.785333",
     "geom:latitude":33.785333,
     "geom:longitude":-111.950648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33006 N 60th Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153088725,
-    "wof:lastmodified":1449040704,
+    "wof:lastmodified":1466329242,
     "wof:name":"Allied Restoration Contractors",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.950648,33.785333,-111.950648,33.785333],
+  "bbox": [
+    -111.950648,
+    33.785333,
+    -111.950648,
+    33.785333
+],
   "geometry": {"coordinates":[-111.950648,33.785333],"type":"Point"}
 }

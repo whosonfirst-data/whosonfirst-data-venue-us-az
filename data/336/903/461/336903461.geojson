@@ -2,13 +2,14 @@
   "id": 336903461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.924878,33.294555,-111.924878,33.294555",
     "geom:latitude":33.294555,
     "geom:longitude":-111.924878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4774 W Earhart Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336903461,
-    "wof:lastmodified":1448996989,
+    "wof:lastmodified":1466330461,
     "wof:name":"A S I",
     "wof:parent_id":85876687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.924878,33.294555,-111.924878,33.294555],
-  "geometry": {"coordinates":[-111.924878,33.294555],"type":"Point"}
+  "bbox": [
+    -111.924878,
+    33.294555,
+    -111.924878,
+    33.294555
+],
+  "geometry": {"coordinates":[-111.92487800000001,33.294555],"type":"Point"}
 }

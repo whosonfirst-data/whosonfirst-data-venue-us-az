@@ -2,13 +2,14 @@
   "id": 168838993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.792791,33.316753,-111.792791,33.316753",
     "geom:latitude":33.316753,
     "geom:longitude":-111.792791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 W Shamrock St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849315,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85849315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168838993,
-    "wof:lastmodified":1449027868,
+    "wof:lastmodified":1466326978,
     "wof:name":"Performance Pools",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.792791,33.316753,-111.792791,33.316753],
-  "geometry": {"coordinates":[-111.792791,33.316753],"type":"Point"}
+  "bbox": [
+    -111.792791,
+    33.316753,
+    -111.792791,
+    33.316753
+],
+  "geometry": {"coordinates":[-111.79279099999999,33.316753],"type":"Point"}
 }

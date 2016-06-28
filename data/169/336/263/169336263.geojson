@@ -2,13 +2,14 @@
   "id": 169336263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.298097,32.016017,-110.298097,32.016017",
     "geom:latitude":32.016017,
     "geom:longitude":-110.298097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 N Dusty Quail Run",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169336263,
-    "wof:lastmodified":1449032620,
+    "wof:lastmodified":1466333334,
     "wof:name":"Leroy's Plumbing Svc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.298097,32.016017,-110.298097,32.016017],
+  "bbox": [
+    -110.298097,
+    32.016017,
+    -110.298097,
+    32.016017
+],
   "geometry": {"coordinates":[-110.298097,32.016017],"type":"Point"}
 }

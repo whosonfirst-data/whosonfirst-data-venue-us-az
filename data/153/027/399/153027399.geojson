@@ -2,13 +2,14 @@
   "id": 153027399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.968151,32.174278,-110.968151,32.174278",
     "geom:latitude":32.174278,
     "geom:longitude":-110.968151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4119 S 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153027399,
-    "wof:lastmodified":1449040412,
+    "wof:lastmodified":1466327743,
     "wof:name":"Valencia Audio & Cellular",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.968151,32.174278,-110.968151,32.174278],
-  "geometry": {"coordinates":[-110.968151,32.174278],"type":"Point"}
+  "bbox": [
+    -110.968151,
+    32.174278,
+    -110.968151,
+    32.174278
+],
+  "geometry": {"coordinates":[-110.96815100000001,32.174278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353855797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999745,32.243367,-110.999745,32.243367",
     "geom:latitude":32.243367,
     "geom:longitude":-110.999745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 W El Rio Dr Ofc",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353855797,
-    "wof:lastmodified":1449020127,
+    "wof:lastmodified":1466330850,
     "wof:name":"Greenview Apartments",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.999745,32.243367,-110.999745,32.243367],
+  "bbox": [
+    -110.999745,
+    32.243367,
+    -110.999745,
+    32.243367
+],
   "geometry": {"coordinates":[-110.999745,32.243367],"type":"Point"}
 }

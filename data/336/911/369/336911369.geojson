@@ -2,13 +2,14 @@
   "id": 336911369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.796456,33.367893,-111.796456,33.367893",
     "geom:latitude":33.367893,
     "geom:longitude":-111.796456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Stanford Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336911369,
-    "wof:lastmodified":1448997860,
+    "wof:lastmodified":1466330714,
     "wof:name":"AMA Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.796456,33.367893,-111.796456,33.367893],
-  "geometry": {"coordinates":[-111.796456,33.367893],"type":"Point"}
+  "bbox": [
+    -111.796456,
+    33.367893,
+    -111.796456,
+    33.367893
+],
+  "geometry": {"coordinates":[-111.79645600000001,33.367893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169244869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948524,32.217882,-110.948524,32.217882",
     "geom:latitude":32.217882,
     "geom:longitude":-110.948524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 E Manlove St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169244869,
-    "wof:lastmodified":1449033993,
+    "wof:lastmodified":1466332498,
     "wof:name":"Charles Tearney Sculptures",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948524,32.217882,-110.948524,32.217882],
-  "geometry": {"coordinates":[-110.948524,32.217882],"type":"Point"}
+  "bbox": [
+    -110.948524,
+    32.217882,
+    -110.948524,
+    32.217882
+],
+  "geometry": {"coordinates":[-110.94852400000001,32.217882],"type":"Point"}
 }

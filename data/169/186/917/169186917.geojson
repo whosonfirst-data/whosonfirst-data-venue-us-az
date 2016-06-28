@@ -2,13 +2,14 @@
   "id": 169186917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507837,33.738432,-112.507837,33.738432",
     "geom:latitude":33.738432,
     "geom:longitude":-112.507837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28002 N 207th Ave",
     "sg:city":"Wittmann",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169186917,
-    "wof:lastmodified":1449035244,
+    "wof:lastmodified":1466332094,
     "wof:name":"R&N Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.507837,33.738432,-112.507837,33.738432],
-  "geometry": {"coordinates":[-112.507837,33.738432],"type":"Point"}
+  "bbox": [
+    -112.507837,
+    33.738432,
+    -112.507837,
+    33.738432
+],
+  "geometry": {"coordinates":[-112.50783699999999,33.738432],"type":"Point"}
 }

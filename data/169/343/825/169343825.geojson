@@ -2,13 +2,14 @@
   "id": 169343825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.937169,33.425599,-111.937169,33.425599",
     "geom:latitude":33.425599,
     "geom:longitude":-111.937169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E 5th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.tempe.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881395,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169343825,
-    "wof:lastmodified":1449035024,
+    "wof:lastmodified":1466333421,
     "wof:name":"Tempe Prosecutor",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.937169,33.425599,-111.937169,33.425599],
+  "bbox": [
+    -111.937169,
+    33.425599,
+    -111.937169,
+    33.425599
+],
   "geometry": {"coordinates":[-111.937169,33.425599],"type":"Point"}
 }

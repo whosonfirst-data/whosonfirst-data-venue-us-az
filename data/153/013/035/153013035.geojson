@@ -2,13 +2,14 @@
   "id": 153013035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.701174,33.415703,-111.701174,33.415703",
     "geom:latitude":33.415703,
     "geom:longitude":-111.701174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6040 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808263,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85808263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153013035,
-    "wof:lastmodified":1449040685,
+    "wof:lastmodified":1466326432,
     "wof:name":"Watershouse Sign Co",
     "wof:parent_id":85808263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.701174,33.415703,-111.701174,33.415703],
-  "geometry": {"coordinates":[-111.701174,33.415703],"type":"Point"}
+  "bbox": [
+    -111.701174,
+    33.415703,
+    -111.701174,
+    33.415703
+],
+  "geometry": {"coordinates":[-111.70117399999999,33.415703],"type":"Point"}
 }

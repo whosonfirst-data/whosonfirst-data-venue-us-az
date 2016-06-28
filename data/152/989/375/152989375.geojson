@@ -2,13 +2,14 @@
   "id": 152989375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.743981,32.123114,-109.743981,32.123114",
     "geom:latitude":32.123114,
     "geom:longitude":-109.743981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 E Robbs Rd",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152989375,
-    "wof:lastmodified":1449047689,
+    "wof:lastmodified":1466329475,
     "wof:name":"Robbs Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.743981,32.123114,-109.743981,32.123114],
-  "geometry": {"coordinates":[-109.743981,32.123114],"type":"Point"}
+  "bbox": [
+    -109.743981,
+    32.123114,
+    -109.743981,
+    32.123114
+],
+  "geometry": {"coordinates":[-109.74398100000001,32.123114],"type":"Point"}
 }

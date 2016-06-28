@@ -2,13 +2,14 @@
   "id": 169355113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.004379,35.226023,-114.004379,35.226023",
     "geom:latitude":35.226023,
     "geom:longitude":-114.004379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Shangrila Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169355113,
-    "wof:lastmodified":1449033608,
+    "wof:lastmodified":1466333529,
     "wof:name":"ABC Auto & Truck Ctr",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.004379,35.226023,-114.004379,35.226023],
+  "bbox": [
+    -114.004379,
+    35.226023,
+    -114.004379,
+    35.226023
+],
   "geometry": {"coordinates":[-114.004379,35.226023],"type":"Point"}
 }

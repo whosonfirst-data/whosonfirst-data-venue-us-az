@@ -2,13 +2,14 @@
   "id": 169308735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.624711,32.686033,-114.624711,32.686033",
     "geom:latitude":32.686033,
     "geom:longitude":-114.624711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 S 4th Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169308735,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1466333117,
     "wof:name":"Southern Arizona Securities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.624711,32.686033,-114.624711,32.686033],
+  "bbox": [
+    -114.624711,
+    32.686033,
+    -114.624711,
+    32.686033
+],
   "geometry": {"coordinates":[-114.624711,32.686033],"type":"Point"}
 }

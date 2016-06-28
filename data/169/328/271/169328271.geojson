@@ -2,13 +2,14 @@
   "id": 169328271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.153013,33.523852,-112.153013,33.523852",
     "geom:latitude":33.523852,
     "geom:longitude":-112.153013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4397 W Bethany Home Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169328271,
-    "wof:lastmodified":1449034629,
+    "wof:lastmodified":1466333158,
     "wof:name":"Distinguished Pool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.153013,33.523852,-112.153013,33.523852],
+  "bbox": [
+    -112.153013,
+    33.523852,
+    -112.153013,
+    33.523852
+],
   "geometry": {"coordinates":[-112.153013,33.523852],"type":"Point"}
 }

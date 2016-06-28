@@ -2,13 +2,14 @@
   "id": 169352103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00199,33.408196,-112.00199,33.408196",
     "geom:latitude":33.408196,
     "geom:longitude":-112.00199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 S 37th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169352103,
-    "wof:lastmodified":1449034715,
+    "wof:lastmodified":1466333468,
     "wof:name":"John S Hyatt & Assoc",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.00199,33.408196,-112.00199,33.408196],
-  "geometry": {"coordinates":[-112.00199,33.408196],"type":"Point"}
+  "bbox": [
+    -112.00199,
+    33.408196,
+    -112.00199,
+    33.408196
+],
+  "geometry": {"coordinates":[-112.00199000000001,33.408196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169153289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.783772,33.392465,-110.783772,33.392465",
     "geom:latitude":33.392465,
     "geom:longitude":-110.783772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 S Broad St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169153289,
-    "wof:lastmodified":1449034969,
+    "wof:lastmodified":1466331921,
     "wof:name":"Pretty Patty Lou's",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.783772,33.392465,-110.783772,33.392465],
+  "bbox": [
+    -110.783772,
+    33.392465,
+    -110.783772,
+    33.392465
+],
   "geometry": {"coordinates":[-110.783772,33.392465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169042341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.932633,31.353533,-110.932633,31.353533",
     "geom:latitude":31.353533,
     "geom:longitude":-110.932633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 W 3rd St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169042341,
-    "wof:lastmodified":1449035165,
+    "wof:lastmodified":1466328160,
     "wof:name":"Diaz Auto Inc",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.932633,31.353533,-110.932633,31.353533],
+  "bbox": [
+    -110.932633,
+    31.353533,
+    -110.932633,
+    31.353533
+],
   "geometry": {"coordinates":[-110.932633,31.353533],"type":"Point"}
 }

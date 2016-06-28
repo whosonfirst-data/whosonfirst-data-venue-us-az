@@ -2,13 +2,14 @@
   "id": 169042683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.822007,33.439299,-111.822007,33.439299",
     "geom:latitude":33.439299,
     "geom:longitude":-111.822007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 N Spring Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833889,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169042683,
-    "wof:lastmodified":1449035164,
+    "wof:lastmodified":1466328190,
     "wof:name":"J&S Usave Furniture",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.822007,33.439299,-111.822007,33.439299],
+  "bbox": [
+    -111.822007,
+    33.439299,
+    -111.822007,
+    33.439299
+],
   "geometry": {"coordinates":[-111.822007,33.439299],"type":"Point"}
 }

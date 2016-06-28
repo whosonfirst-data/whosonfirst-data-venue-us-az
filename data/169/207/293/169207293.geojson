@@ -2,13 +2,14 @@
   "id": 169207293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.933212,32.1323,-110.933212,32.1323",
     "geom:latitude":32.1323,
     "geom:longitude":-110.933212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Executive Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.imctucson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169207293,
-    "wof:lastmodified":1449034991,
+    "wof:lastmodified":1466331997,
     "wof:name":"Independent Mining Consultants",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.933212,32.1323,-110.933212,32.1323],
+  "bbox": [
+    -110.933212,
+    32.1323,
+    -110.933212,
+    32.1323
+],
   "geometry": {"coordinates":[-110.933212,32.1323],"type":"Point"}
 }

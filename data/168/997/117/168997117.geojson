@@ -2,13 +2,14 @@
   "id": 168997117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.797675,33.352895,-111.797675,33.352895",
     "geom:latitude":33.352895,
     "geom:longitude":-111.797675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 W Cullumber Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807177,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85807177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168997117,
-    "wof:lastmodified":1449028443,
+    "wof:lastmodified":1466331651,
     "wof:name":"Trocon",
     "wof:parent_id":85807177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.797675,33.352895,-111.797675,33.352895],
+  "bbox": [
+    -111.797675,
+    33.352895,
+    -111.797675,
+    33.352895
+],
   "geometry": {"coordinates":[-111.797675,33.352895],"type":"Point"}
 }

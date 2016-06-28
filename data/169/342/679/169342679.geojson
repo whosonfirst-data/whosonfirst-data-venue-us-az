@@ -2,13 +2,14 @@
   "id": 169342679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.6505,32.684491,-114.6505,32.684491",
     "geom:latitude":32.684491,
     "geom:longitude":-114.6505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2390 S Ave B",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169342679,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1466333430,
     "wof:name":"Kammann Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.6505,32.684491,-114.6505,32.684491],
-  "geometry": {"coordinates":[-114.6505,32.684491],"type":"Point"}
+  "bbox": [
+    -114.6505,
+    32.684491,
+    -114.6505,
+    32.684491
+],
+  "geometry": {"coordinates":[-114.65049999999999,32.684491],"type":"Point"}
 }

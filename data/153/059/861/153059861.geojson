@@ -2,13 +2,14 @@
   "id": 153059861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015657,33.305139,-112.015657,33.305139",
     "geom:latitude":33.305139,
     "geom:longitude":-112.015657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 E Chandler Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153059861,
-    "wof:lastmodified":1449040464,
+    "wof:lastmodified":1466327839,
     "wof:name":"Sundancer Custom Pools & Spas",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.015657,33.305139,-112.015657,33.305139],
+  "bbox": [
+    -112.015657,
+    33.305139,
+    -112.015657,
+    33.305139
+],
   "geometry": {"coordinates":[-112.015657,33.305139],"type":"Point"}
 }

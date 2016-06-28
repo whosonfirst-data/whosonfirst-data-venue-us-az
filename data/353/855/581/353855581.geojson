@@ -2,13 +2,14 @@
   "id": 353855581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.011742,32.231491,-111.011742,32.231491",
     "geom:latitude":32.231491,
     "geom:longitude":-111.011742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N la Cholla Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353855581,
-    "wof:lastmodified":1449020123,
+    "wof:lastmodified":1466330845,
     "wof:name":"Henry Oyama Elementary School",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-111.011742,32.231491,-111.011742,32.231491],
+  "bbox": [
+    -111.011742,
+    32.231491,
+    -111.011742,
+    32.231491
+],
   "geometry": {"coordinates":[-111.011742,32.231491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353820925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.89351,32.235018,-110.89351,32.235018",
     "geom:latitude":32.235018,
     "geom:longitude":-110.89351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4657 E 1st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":353820925,
-    "wof:lastmodified":1449019583,
+    "wof:lastmodified":1466330521,
     "wof:name":"Will's General Automotive",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-110.89351,32.235018,-110.89351,32.235018],
-  "geometry": {"coordinates":[-110.89351,32.235018],"type":"Point"}
+  "bbox": [
+    -110.89351,
+    32.235018,
+    -110.89351,
+    32.235018
+],
+  "geometry": {"coordinates":[-110.89351000000001,32.235018],"type":"Point"}
 }

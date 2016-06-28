@@ -2,13 +2,14 @@
   "id": 169407491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.751427,32.831433,-109.751427,32.831433",
     "geom:latitude":32.831433,
     "geom:longitude":-109.751427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 W 8th St",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169407491,
-    "wof:lastmodified":1449034520,
+    "wof:lastmodified":1466334128,
     "wof:name":"El Paso Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.751427,32.831433,-109.751427,32.831433],
-  "geometry": {"coordinates":[-109.751427,32.831433],"type":"Point"}
+  "bbox": [
+    -109.751427,
+    32.831433,
+    -109.751427,
+    32.831433
+],
+  "geometry": {"coordinates":[-109.75142700000001,32.831433],"type":"Point"}
 }

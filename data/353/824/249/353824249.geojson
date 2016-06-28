@@ -2,13 +2,14 @@
   "id": 353824249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.879822,32.250751,-110.879822,32.250751",
     "geom:latitude":32.250751,
     "geom:longitude":-110.879822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -85,10 +86,11 @@
         }
     ],
     "wof:id":353824249,
-    "wof:lastmodified":1449019155,
+    "wof:lastmodified":1466330537,
     "wof:name":"Tucson Medical Center",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -103,6 +105,11 @@
         "physical"
     ]
 },
-  "bbox": [-110.879822,32.250751,-110.879822,32.250751],
+  "bbox": [
+    -110.879822,
+    32.250751,
+    -110.879822,
+    32.250751
+],
   "geometry": {"coordinates":[-110.879822,32.250751],"type":"Point"}
 }

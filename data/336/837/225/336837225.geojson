@@ -2,13 +2,14 @@
   "id": 336837225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.867225,33.30618,-111.867225,33.30618",
     "geom:latitude":33.30618,
     "geom:longitude":-111.867225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1286 W Chandler Boulevard",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336837225,
-    "wof:lastmodified":1448997112,
+    "wof:lastmodified":1466329927,
     "wof:name":"Chandler Small Animal Clinic",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sitting"
     ]
 },
-  "bbox": [-111.867225,33.30618,-111.867225,33.30618],
+  "bbox": [
+    -111.867225,
+    33.30618,
+    -111.867225,
+    33.30618
+],
   "geometry": {"coordinates":[-111.867225,33.30618],"type":"Point"}
 }

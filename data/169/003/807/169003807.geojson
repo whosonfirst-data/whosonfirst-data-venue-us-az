@@ -2,13 +2,14 @@
   "id": 169003807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.760001,32.850751,-109.760001,32.850751",
     "geom:latitude":32.850751,
     "geom:longitude":-109.760001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 W 2nd St",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169003807,
-    "wof:lastmodified":1449035704,
+    "wof:lastmodified":1466326059,
     "wof:name":"Tech Prep Eastern Arizona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.760001,32.850751,-109.760001,32.850751],
+  "bbox": [
+    -109.760001,
+    32.850751,
+    -109.760001,
+    32.850751
+],
   "geometry": {"coordinates":[-109.760001,32.850751],"type":"Point"}
 }

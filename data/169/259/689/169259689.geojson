@@ -2,13 +2,14 @@
   "id": 169259689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.468452,34.74013,-112.468452,34.74013",
     "geom:latitude":34.74013,
     "geom:longitude":-112.468452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1066 W Pleasant Ave",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169259689,
-    "wof:lastmodified":1449033445,
+    "wof:lastmodified":1466332583,
     "wof:name":"Flyers By Laura",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.468452,34.74013,-112.468452,34.74013],
+  "bbox": [
+    -112.468452,
+    34.74013,
+    -112.468452,
+    34.74013
+],
   "geometry": {"coordinates":[-112.468452,34.74013],"type":"Point"}
 }

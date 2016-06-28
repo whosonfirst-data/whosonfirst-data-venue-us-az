@@ -2,13 +2,14 @@
   "id": 320624221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047238,33.469372,-112.047238,33.469372",
     "geom:latitude":33.469372,
     "geom:longitude":-112.047238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 E Palm Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320624221,
-    "wof:lastmodified":1449013835,
+    "wof:lastmodified":1466326374,
     "wof:name":"Axxent Realty And Property Man",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.047238,33.469372,-112.047238,33.469372],
-  "geometry": {"coordinates":[-112.047238,33.469372],"type":"Point"}
+  "bbox": [
+    -112.047238,
+    33.469372,
+    -112.047238,
+    33.469372
+],
+  "geometry": {"coordinates":[-112.04723799999999,33.469372],"type":"Point"}
 }

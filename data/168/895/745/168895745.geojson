@@ -2,13 +2,14 @@
   "id": 168895745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.834638,32.305155,-110.834638,32.305155",
     "geom:latitude":32.305155,
     "geom:longitude":-110.834638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5377 N Moccasin Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168895745,
-    "wof:lastmodified":1449028104,
+    "wof:lastmodified":1466329629,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.834638,32.305155,-110.834638,32.305155],
+  "bbox": [
+    -110.834638,
+    32.305155,
+    -110.834638,
+    32.305155
+],
   "geometry": {"coordinates":[-110.834638,32.305155],"type":"Point"}
 }

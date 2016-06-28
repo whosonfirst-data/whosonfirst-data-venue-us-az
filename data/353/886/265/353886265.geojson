@@ -2,13 +2,14 @@
   "id": 353886265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.699598,35.040824,-110.699598,35.040824",
     "geom:latitude":35.040824,
     "geom:longitude":-110.699598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Mikes Pike St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353886265,
-    "wof:lastmodified":1449019670,
+    "wof:lastmodified":1466330881,
     "wof:name":"Ca-Ty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tune"
     ]
 },
-  "bbox": [-110.699598,35.040824,-110.699598,35.040824],
-  "geometry": {"coordinates":[-110.699598,35.040824],"type":"Point"}
+  "bbox": [
+    -110.699598,
+    35.040824,
+    -110.699598,
+    35.040824
+],
+  "geometry": {"coordinates":[-110.69959799999999,35.040824],"type":"Point"}
 }

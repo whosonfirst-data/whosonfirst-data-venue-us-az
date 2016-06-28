@@ -2,13 +2,14 @@
   "id": 336823707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851002,33.371954,-111.851002,33.371954",
     "geom:latitude":33.371954,
     "geom:longitude":-111.851002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"766 W Medina Avenue",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336823707,
-    "wof:lastmodified":1448997994,
+    "wof:lastmodified":1466329934,
     "wof:name":"Foot Z the Clown",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "event"
     ]
 },
-  "bbox": [-111.851002,33.371954,-111.851002,33.371954],
-  "geometry": {"coordinates":[-111.851002,33.371954],"type":"Point"}
+  "bbox": [
+    -111.851002,
+    33.371954,
+    -111.851002,
+    33.371954
+],
+  "geometry": {"coordinates":[-111.85100199999999,33.371954],"type":"Point"}
 }

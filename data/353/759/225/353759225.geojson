@@ -2,13 +2,14 @@
   "id": 353759225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.330363,33.479314,-112.330363,33.479314",
     "geom:latitude":33.479314,
     "geom:longitude":-112.330363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12613 W Verde Ln",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353759225,
-    "wof:lastmodified":1449020838,
+    "wof:lastmodified":1466330058,
     "wof:name":"M & B Transport",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-112.330363,33.479314,-112.330363,33.479314],
-  "geometry": {"coordinates":[-112.330363,33.479314],"type":"Point"}
+  "bbox": [
+    -112.330363,
+    33.479314,
+    -112.330363,
+    33.479314
+],
+  "geometry": {"coordinates":[-112.33036300000001,33.479314],"type":"Point"}
 }

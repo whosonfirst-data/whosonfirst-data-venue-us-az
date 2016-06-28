@@ -2,13 +2,14 @@
   "id": 353898039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036685,34.734346,-112.036685,34.734346",
     "geom:latitude":34.734346,
     "geom:longitude":-112.036685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 S Airpark Rd",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353898039,
-    "wof:lastmodified":1449018206,
+    "wof:lastmodified":1466331092,
     "wof:name":"Phi Sciences",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "diet"
     ]
 },
-  "bbox": [-112.036685,34.734346,-112.036685,34.734346],
-  "geometry": {"coordinates":[-112.036685,34.734346],"type":"Point"}
+  "bbox": [
+    -112.036685,
+    34.734346,
+    -112.036685,
+    34.734346
+],
+  "geometry": {"coordinates":[-112.03668500000001,34.734346],"type":"Point"}
 }

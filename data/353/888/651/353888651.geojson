@@ -2,13 +2,14 @@
   "id": 353888651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.476295,34.544459,-112.476295,34.544459",
     "geom:latitude":34.544459,
     "geom:longitude":-112.476295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Grove Ave Ste B",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353888651,
-    "wof:lastmodified":1449019859,
+    "wof:lastmodified":1466331030,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "family"
     ]
 },
-  "bbox": [-112.476295,34.544459,-112.476295,34.544459],
-  "geometry": {"coordinates":[-112.476295,34.544459],"type":"Point"}
+  "bbox": [
+    -112.476295,
+    34.544459,
+    -112.476295,
+    34.544459
+],
+  "geometry": {"coordinates":[-112.47629499999999,34.544459],"type":"Point"}
 }

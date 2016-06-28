@@ -2,13 +2,14 @@
   "id": 169281665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.340068,33.497563,-112.340068,33.497563",
     "geom:latitude":33.497563,
     "geom:longitude":-112.340068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12930 W Apodaca Dr",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169281665,
-    "wof:lastmodified":1449035461,
+    "wof:lastmodified":1466332833,
     "wof:name":"Kodelco Inc",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.340068,33.497563,-112.340068,33.497563],
+  "bbox": [
+    -112.340068,
+    33.497563,
+    -112.340068,
+    33.497563
+],
   "geometry": {"coordinates":[-112.340068,33.497563],"type":"Point"}
 }

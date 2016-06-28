@@ -2,13 +2,14 @@
   "id": 169283057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.914661,32.267473,-110.914661,32.267473",
     "geom:latitude":32.267473,
     "geom:longitude":-110.914661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3626 E Hardy Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.anzatelecom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169283057,
-    "wof:lastmodified":1449033659,
+    "wof:lastmodified":1466332815,
     "wof:name":"Anza Telecommunications Systs",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.914661,32.267473,-110.914661,32.267473],
+  "bbox": [
+    -110.914661,
+    32.267473,
+    -110.914661,
+    32.267473
+],
   "geometry": {"coordinates":[-110.914661,32.267473],"type":"Point"}
 }

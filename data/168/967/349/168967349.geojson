@@ -2,13 +2,14 @@
   "id": 168967349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086752,33.544413,-112.086752,33.544413",
     "geom:latitude":33.544413,
     "geom:longitude":-112.086752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 W State Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853815,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168967349,
-    "wof:lastmodified":1449028536,
+    "wof:lastmodified":1466331213,
     "wof:name":"G & T Enterprises Inc",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.086752,33.544413,-112.086752,33.544413],
+  "bbox": [
+    -112.086752,
+    33.544413,
+    -112.086752,
+    33.544413
+],
   "geometry": {"coordinates":[-112.086752,33.544413],"type":"Point"}
 }

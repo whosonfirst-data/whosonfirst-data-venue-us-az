@@ -2,13 +2,14 @@
   "id": 169415813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.431739,33.434793,-112.431739,33.434793",
     "geom:latitude":33.434793,
     "geom:longitude":-112.431739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 S 173rd Dr",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169415813,
-    "wof:lastmodified":1449035054,
+    "wof:lastmodified":1466334168,
     "wof:name":"Action Fire Protection",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.431739,33.434793,-112.431739,33.434793],
-  "geometry": {"coordinates":[-112.431739,33.434793],"type":"Point"}
+  "bbox": [
+    -112.431739,
+    33.434793,
+    -112.431739,
+    33.434793
+],
+  "geometry": {"coordinates":[-112.43173899999999,33.434793],"type":"Point"}
 }

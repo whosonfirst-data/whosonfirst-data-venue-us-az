@@ -2,13 +2,14 @@
   "id": 168962331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.799883,34.863381,-111.799883,34.863381",
     "geom:latitude":34.863381,
     "geom:longitude":-111.799883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 W Hwy 89A",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168962331,
-    "wof:lastmodified":1449028235,
+    "wof:lastmodified":1466331147,
     "wof:name":"Colostrum Company",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.799883,34.863381,-111.799883,34.863381],
-  "geometry": {"coordinates":[-111.799883,34.863381],"type":"Point"}
+  "bbox": [
+    -111.799883,
+    34.863381,
+    -111.799883,
+    34.863381
+],
+  "geometry": {"coordinates":[-111.79988299999999,34.863381],"type":"Point"}
 }

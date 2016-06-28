@@ -2,13 +2,14 @@
   "id": 169044699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.339412,34.588456,-112.339412,34.588456",
     "geom:latitude":34.588456,
     "geom:longitude":-112.339412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 N Glassford Hill Rd",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169044699,
-    "wof:lastmodified":1449034403,
+    "wof:lastmodified":1466328018,
     "wof:name":"Fry's Food Store Pharmacy",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.339412,34.588456,-112.339412,34.588456],
+  "bbox": [
+    -112.339412,
+    34.588456,
+    -112.339412,
+    34.588456
+],
   "geometry": {"coordinates":[-112.339412,34.588456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169179559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.979916,32.12928,-110.979916,32.12928",
     "geom:latitude":32.12928,
     "geom:longitude":-110.979916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Cll Sevilla",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169179559,
-    "wof:lastmodified":1449035617,
+    "wof:lastmodified":1466331990,
     "wof:name":"Pyramid Electric Inc",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.979916,32.12928,-110.979916,32.12928],
+  "bbox": [
+    -110.979916,
+    32.12928,
+    -110.979916,
+    32.12928
+],
   "geometry": {"coordinates":[-110.979916,32.12928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169210561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.804713,32.220964,-110.804713,32.220964",
     "geom:latitude":32.220964,
     "geom:longitude":-110.804713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8751 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169210561,
-    "wof:lastmodified":1449033811,
+    "wof:lastmodified":1466332229,
     "wof:name":"Je Jo's",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.804713,32.220964,-110.804713,32.220964],
-  "geometry": {"coordinates":[-110.804713,32.220964],"type":"Point"}
+  "bbox": [
+    -110.804713,
+    32.220964,
+    -110.804713,
+    32.220964
+],
+  "geometry": {"coordinates":[-110.80471300000001,32.220964],"type":"Point"}
 }

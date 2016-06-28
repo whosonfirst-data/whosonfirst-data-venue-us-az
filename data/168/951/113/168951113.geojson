@@ -2,13 +2,14 @@
   "id": 168951113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.070738,32.457451,-111.070738,32.457451",
     "geom:latitude":32.457451,
     "geom:longitude":-111.070738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 N Dove Mountain Blvd",
     "sg:city":"Marana",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168951113,
-    "wof:lastmodified":1449027797,
+    "wof:lastmodified":1466330980,
     "wof:name":"Dove Mountain Information Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.070738,32.457451,-111.070738,32.457451],
-  "geometry": {"coordinates":[-111.070738,32.457451],"type":"Point"}
+  "bbox": [
+    -111.070738,
+    32.457451,
+    -111.070738,
+    32.457451
+],
+  "geometry": {"coordinates":[-111.07073800000001,32.457451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152908301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.831607,32.896763,-109.831607,32.896763",
     "geom:latitude":32.896763,
     "geom:longitude":-109.831607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 N 200 Wash",
     "sg:city":"Pima",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152908301,
-    "wof:lastmodified":1449046921,
+    "wof:lastmodified":1466325719,
     "wof:name":"Pima Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.831607,32.896763,-109.831607,32.896763],
-  "geometry": {"coordinates":[-109.831607,32.896763],"type":"Point"}
+  "bbox": [
+    -109.831607,
+    32.896763,
+    -109.831607,
+    32.896763
+],
+  "geometry": {"coordinates":[-109.83160700000001,32.896763],"type":"Point"}
 }

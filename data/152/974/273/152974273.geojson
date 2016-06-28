@@ -2,13 +2,14 @@
   "id": 152974273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.275882,33.64346,-112.275882,33.64346",
     "geom:latitude":33.64346,
     "geom:longitude":-112.275882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17404 N 99th Ave",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152974273,
-    "wof:lastmodified":1449048313,
+    "wof:lastmodified":1466328624,
     "wof:name":"Heritage Sun City Condominiums",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.275882,33.64346,-112.275882,33.64346],
+  "bbox": [
+    -112.275882,
+    33.64346,
+    -112.275882,
+    33.64346
+],
   "geometry": {"coordinates":[-112.275882,33.64346],"type":"Point"}
 }

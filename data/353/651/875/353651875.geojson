@@ -2,13 +2,14 @@
   "id": 353651875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.365424,33.475009,-112.365424,33.475009",
     "geom:latitude":33.475009,
     "geom:longitude":-112.365424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Western Avenue",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353651875,
-    "wof:lastmodified":1449018757,
+    "wof:lastmodified":1466329394,
     "wof:name":"Goodyear Auto Service Centers",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.365424,33.475009,-112.365424,33.475009],
+  "bbox": [
+    -112.365424,
+    33.475009,
+    -112.365424,
+    33.475009
+],
   "geometry": {"coordinates":[-112.365424,33.475009],"type":"Point"}
 }

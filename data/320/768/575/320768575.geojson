@@ -2,13 +2,14 @@
   "id": 320768575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073883,33.569737,-112.073883,33.569737",
     "geom:latitude":33.569737,
     "geom:longitude":-112.073883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9221 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320768575,
-    "wof:lastmodified":1449012711,
+    "wof:lastmodified":1466329209,
     "wof:name":"John C Lincoln Health Center",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "birth"
     ]
 },
-  "bbox": [-112.073883,33.569737,-112.073883,33.569737],
+  "bbox": [
+    -112.073883,
+    33.569737,
+    -112.073883,
+    33.569737
+],
   "geometry": {"coordinates":[-112.073883,33.569737],"type":"Point"}
 }

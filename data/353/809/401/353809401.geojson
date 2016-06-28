@@ -2,13 +2,14 @@
   "id": 353809401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.997248,32.301205,-110.997248,32.301205",
     "geom:latitude":32.301205,
     "geom:longitude":-110.997248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 W Roller Coaster Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353809401,
-    "wof:lastmodified":1449020370,
+    "wof:lastmodified":1466330323,
     "wof:name":"Northside Church Of Christ",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "christ"
     ]
 },
-  "bbox": [-110.997248,32.301205,-110.997248,32.301205],
+  "bbox": [
+    -110.997248,
+    32.301205,
+    -110.997248,
+    32.301205
+],
   "geometry": {"coordinates":[-110.997248,32.301205],"type":"Point"}
 }

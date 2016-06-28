@@ -2,13 +2,14 @@
   "id": 320848225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.138397,33.587521,-112.138397,33.587521",
     "geom:latitude":33.587521,
     "geom:longitude":-112.138397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 W Yucca St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320848225,
-    "wof:lastmodified":1449011780,
+    "wof:lastmodified":1466330411,
     "wof:name":"Hudak Electric",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-112.138397,33.587521,-112.138397,33.587521],
+  "bbox": [
+    -112.138397,
+    33.587521,
+    -112.138397,
+    33.587521
+],
   "geometry": {"coordinates":[-112.138397,33.587521],"type":"Point"}
 }

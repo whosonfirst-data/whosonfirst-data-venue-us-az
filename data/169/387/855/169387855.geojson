@@ -2,13 +2,14 @@
   "id": 169387855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.869823,33.399964,-110.869823,33.399964",
     "geom:latitude":33.399964,
     "geom:longitude":-110.869823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Sullivan St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169387855,
-    "wof:lastmodified":1449035514,
+    "wof:lastmodified":1466333911,
     "wof:name":"Great Escape Creations",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.869823,33.399964,-110.869823,33.399964],
+  "bbox": [
+    -110.869823,
+    33.399964,
+    -110.869823,
+    33.399964
+],
   "geometry": {"coordinates":[-110.869823,33.399964],"type":"Point"}
 }

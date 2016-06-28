@@ -2,13 +2,14 @@
   "id": 320794899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036383,33.607256,-112.036383,33.607256",
     "geom:latitude":33.607256,
     "geom:longitude":-112.036383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13235 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320794899,
-    "wof:lastmodified":1449013055,
+    "wof:lastmodified":1466329749,
     "wof:name":"Howard Air",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.036383,33.607256,-112.036383,33.607256],
+  "bbox": [
+    -112.036383,
+    33.607256,
+    -112.036383,
+    33.607256
+],
   "geometry": {"coordinates":[-112.036383,33.607256],"type":"Point"}
 }

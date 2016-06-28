@@ -2,13 +2,14 @@
   "id": 169151685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.819498,32.190451,-110.819498,32.190451",
     "geom:latitude":32.190451,
     "geom:longitude":-110.819498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7941 E Lakeside Pkwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169151685,
-    "wof:lastmodified":1449032720,
+    "wof:lastmodified":1466331657,
     "wof:name":"Varitech Commercial Svc Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.819498,32.190451,-110.819498,32.190451],
+  "bbox": [
+    -110.819498,
+    32.190451,
+    -110.819498,
+    32.190451
+],
   "geometry": {"coordinates":[-110.819498,32.190451],"type":"Point"}
 }

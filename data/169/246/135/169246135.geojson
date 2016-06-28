@@ -2,13 +2,14 @@
   "id": 169246135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961031,32.252629,-110.961031,32.252629",
     "geom:latitude":32.252629,
     "geom:longitude":-110.961031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2577 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169246135,
-    "wof:lastmodified":1449032903,
+    "wof:lastmodified":1466332628,
     "wof:name":"Western States Auto Air",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.961031,32.252629,-110.961031,32.252629],
-  "geometry": {"coordinates":[-110.961031,32.252629],"type":"Point"}
+  "bbox": [
+    -110.961031,
+    32.252629,
+    -110.961031,
+    32.252629
+],
+  "geometry": {"coordinates":[-110.96103100000001,32.252629],"type":"Point"}
 }

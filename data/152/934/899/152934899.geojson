@@ -2,13 +2,14 @@
   "id": 152934899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.432436,34.643928,-112.432436,34.643928",
     "geom:latitude":34.643928,
     "geom:longitude":-112.432436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Willow Creek Rd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852851,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85852851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152934899,
-    "wof:lastmodified":1449044529,
+    "wof:lastmodified":1466326321,
     "wof:name":"Antelope Hills Inn-Suites",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.432436,34.643928,-112.432436,34.643928],
+  "bbox": [
+    -112.432436,
+    34.643928,
+    -112.432436,
+    34.643928
+],
   "geometry": {"coordinates":[-112.432436,34.643928],"type":"Point"}
 }

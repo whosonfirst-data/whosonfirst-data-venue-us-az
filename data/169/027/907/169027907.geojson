@@ -2,13 +2,14 @@
   "id": 169027907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.779867,33.374332,-111.779867,33.374332",
     "geom:latitude":33.374332,
     "geom:longitude":-111.779867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 E Melody Ln",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169027907,
-    "wof:lastmodified":1449033309,
+    "wof:lastmodified":1466326673,
     "wof:name":"Renaes Cottage",
     "wof:parent_id":85851425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.779867,33.374332,-111.779867,33.374332],
+  "bbox": [
+    -111.779867,
+    33.374332,
+    -111.779867,
+    33.374332
+],
   "geometry": {"coordinates":[-111.779867,33.374332],"type":"Point"}
 }

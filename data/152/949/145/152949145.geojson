@@ -2,13 +2,14 @@
   "id": 152949145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949683,31.359648,-110.949683,31.359648",
     "geom:latitude":31.359648,
     "geom:longitude":-110.949683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1481 N Industrial Park Dr",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885051,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152949145,
-    "wof:lastmodified":1449047166,
+    "wof:lastmodified":1466327313,
     "wof:name":"Mandd Warehouse",
     "wof:parent_id":85885051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949683,31.359648,-110.949683,31.359648],
-  "geometry": {"coordinates":[-110.949683,31.359648],"type":"Point"}
+  "bbox": [
+    -110.949683,
+    31.359648,
+    -110.949683,
+    31.359648
+],
+  "geometry": {"coordinates":[-110.94968299999999,31.359648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153086369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.643781,35.198838,-111.643781,35.198838",
     "geom:latitude":35.198838,
     "geom:longitude":-111.643781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N Elden St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.flagstaffbedbreakfast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153086369,
-    "wof:lastmodified":1449040684,
+    "wof:lastmodified":1466329140,
     "wof:name":"Aspen Inn Bed & Breakfast",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.643781,35.198838,-111.643781,35.198838],
+  "bbox": [
+    -111.643781,
+    35.198838,
+    -111.643781,
+    35.198838
+],
   "geometry": {"coordinates":[-111.643781,35.198838],"type":"Point"}
 }

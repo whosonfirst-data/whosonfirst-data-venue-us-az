@@ -2,13 +2,14 @@
   "id": 168866747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037304,33.505654,-112.037304,33.505654",
     "geom:latitude":33.505654,
     "geom:longitude":-112.037304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 E Highland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168866747,
-    "wof:lastmodified":1449028139,
+    "wof:lastmodified":1466327175,
     "wof:name":"Homewood Suites By Hilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.037304,33.505654,-112.037304,33.505654],
-  "geometry": {"coordinates":[-112.037304,33.505654],"type":"Point"}
+  "bbox": [
+    -112.037304,
+    33.505654,
+    -112.037304,
+    33.505654
+],
+  "geometry": {"coordinates":[-112.03730400000001,33.505654],"type":"Point"}
 }

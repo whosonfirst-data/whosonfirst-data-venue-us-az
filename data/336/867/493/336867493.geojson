@@ -2,13 +2,14 @@
   "id": 336867493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841786,33.296185,-111.841786,33.296185",
     "geom:latitude":33.296185,
     "geom:longitude":-111.841786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 S Arizona Avenue",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336867493,
-    "wof:lastmodified":1448997416,
+    "wof:lastmodified":1466330043,
     "wof:name":"National Self Storage",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-111.841786,33.296185,-111.841786,33.296185],
+  "bbox": [
+    -111.841786,
+    33.296185,
+    -111.841786,
+    33.296185
+],
   "geometry": {"coordinates":[-111.841786,33.296185],"type":"Point"}
 }

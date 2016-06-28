@@ -2,13 +2,14 @@
   "id": 336871777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.828972,33.306198,-111.828972,33.306198",
     "geom:latitude":33.306198,
     "geom:longitude":-111.828972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 E Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336871777,
-    "wof:lastmodified":1448997289,
+    "wof:lastmodified":1466330161,
     "wof:name":"Payless Chandler AZ Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-111.828972,33.306198,-111.828972,33.306198],
-  "geometry": {"coordinates":[-111.828972,33.306198],"type":"Point"}
+  "bbox": [
+    -111.828972,
+    33.306198,
+    -111.828972,
+    33.306198
+],
+  "geometry": {"coordinates":[-111.82897199999999,33.306198],"type":"Point"}
 }

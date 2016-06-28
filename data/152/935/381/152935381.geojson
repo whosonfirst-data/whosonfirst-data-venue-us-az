@@ -2,13 +2,14 @@
   "id": 152935381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.670467,33.468234,-111.670467,33.468234",
     "geom:latitude":33.468234,
     "geom:longitude":-111.670467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7461 E Odessa Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872435,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152935381,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1466326354,
     "wof:name":"Saguaro Gift Basket Co",
     "wof:parent_id":85872435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.670467,33.468234,-111.670467,33.468234],
+  "bbox": [
+    -111.670467,
+    33.468234,
+    -111.670467,
+    33.468234
+],
   "geometry": {"coordinates":[-111.670467,33.468234],"type":"Point"}
 }

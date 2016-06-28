@@ -2,13 +2,14 @@
   "id": 336640125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.221826,33.472778,-112.221826,33.472778",
     "geom:latitude":33.472778,
     "geom:longitude":-112.221826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7515 W Encanto Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336640125,
-    "wof:lastmodified":1448997423,
+    "wof:lastmodified":1466326776,
     "wof:name":"Cosmoprof",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-112.221826,33.472778,-112.221826,33.472778],
-  "geometry": {"coordinates":[-112.221826,33.472778],"type":"Point"}
+  "bbox": [
+    -112.221826,
+    33.472778,
+    -112.221826,
+    33.472778
+],
+  "geometry": {"coordinates":[-112.22182599999999,33.472778],"type":"Point"}
 }

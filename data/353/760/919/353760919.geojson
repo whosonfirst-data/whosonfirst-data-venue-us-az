@@ -2,13 +2,14 @@
   "id": 353760919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.37265,33.486625,-112.37265,33.486625",
     "geom:latitude":33.486625,
     "geom:longitude":-112.37265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14950 W Indian School Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353760919,
-    "wof:lastmodified":1449020685,
+    "wof:lastmodified":1466330075,
     "wof:name":"B&E Franchise Management",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-112.37265,33.486625,-112.37265,33.486625],
-  "geometry": {"coordinates":[-112.37265,33.486625],"type":"Point"}
+  "bbox": [
+    -112.37265,
+    33.486625,
+    -112.37265,
+    33.486625
+],
+  "geometry": {"coordinates":[-112.37264999999999,33.486625],"type":"Point"}
 }

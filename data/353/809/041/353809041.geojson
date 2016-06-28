@@ -2,13 +2,14 @@
   "id": 353809041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.972734,32.351803,-110.972734,32.351803",
     "geom:latitude":32.351803,
     "geom:longitude":-110.972734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 W Magee Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353809041,
-    "wof:lastmodified":1449020368,
+    "wof:lastmodified":1466330315,
     "wof:name":"Lewis Management Resources",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "services-household"
     ]
 },
-  "bbox": [-110.972734,32.351803,-110.972734,32.351803],
+  "bbox": [
+    -110.972734,
+    32.351803,
+    -110.972734,
+    32.351803
+],
   "geometry": {"coordinates":[-110.972734,32.351803],"type":"Point"}
 }

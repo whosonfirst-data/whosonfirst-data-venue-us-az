@@ -2,13 +2,14 @@
   "id": 320695403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05632,33.497261,-112.05632,33.497261",
     "geom:latitude":33.497261,
     "geom:longitude":-112.05632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4222 N 12th St Ste 102",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320695403,
-    "wof:lastmodified":1449012700,
+    "wof:lastmodified":1466327981,
     "wof:name":"Chiro Plus Chiropractic Center, P.C.",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-112.05632,33.497261,-112.05632,33.497261],
+  "bbox": [
+    -112.05632,
+    33.497261,
+    -112.05632,
+    33.497261
+],
   "geometry": {"coordinates":[-112.05632,33.497261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153066003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.818334,33.417499,-110.818334,33.417499",
     "geom:latitude":33.417499,
     "geom:longitude":-110.818334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Paxton Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153066003,
-    "wof:lastmodified":1449040476,
+    "wof:lastmodified":1466328088,
     "wof:name":"St Pauls Lutheran Church",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.818334,33.417499,-110.818334,33.417499],
-  "geometry": {"coordinates":[-110.818334,33.417499],"type":"Point"}
+  "bbox": [
+    -110.818334,
+    33.417499,
+    -110.818334,
+    33.417499
+],
+  "geometry": {"coordinates":[-110.81833399999999,33.417499],"type":"Point"}
 }

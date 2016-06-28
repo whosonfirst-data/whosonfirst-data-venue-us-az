@@ -2,13 +2,14 @@
   "id": 336742179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115935,33.800161,-112.115935,33.800161",
     "geom:latitude":33.800161,
     "geom:longitude":-112.115935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 W Sat Nam Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336742179,
-    "wof:lastmodified":1448996999,
+    "wof:lastmodified":1466328891,
     "wof:name":"Camelback Home Inspections",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-112.115935,33.800161,-112.115935,33.800161],
-  "geometry": {"coordinates":[-112.115935,33.800161],"type":"Point"}
+  "bbox": [
+    -112.115935,
+    33.800161,
+    -112.115935,
+    33.800161
+],
+  "geometry": {"coordinates":[-112.11593499999999,33.800161],"type":"Point"}
 }

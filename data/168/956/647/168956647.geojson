@@ -2,13 +2,14 @@
   "id": 168956647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.889329,33.308162,-111.889329,33.308162",
     "geom:latitude":33.308162,
     "geom:longitude":-111.889329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Coronado St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826095,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85826095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168956647,
-    "wof:lastmodified":1449027902,
+    "wof:lastmodified":1466331091,
     "wof:name":"Medevil Gifts",
     "wof:parent_id":85826095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.889329,33.308162,-111.889329,33.308162],
+  "bbox": [
+    -111.889329,
+    33.308162,
+    -111.889329,
+    33.308162
+],
   "geometry": {"coordinates":[-111.889329,33.308162],"type":"Point"}
 }

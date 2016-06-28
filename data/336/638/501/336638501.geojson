@@ -2,13 +2,14 @@
   "id": 336638501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.169646,33.469014,-112.169646,33.469014",
     "geom:latitude":33.469014,
     "geom:longitude":-112.169646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 N 51st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336638501,
-    "wof:lastmodified":1448996976,
+    "wof:lastmodified":1466326740,
     "wof:name":"Landscape Maintenance",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.169646,33.469014,-112.169646,33.469014],
+  "bbox": [
+    -112.169646,
+    33.469014,
+    -112.169646,
+    33.469014
+],
   "geometry": {"coordinates":[-112.169646,33.469014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168921529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.329972,34.22656,-111.329972,34.22656",
     "geom:latitude":34.22656,
     "geom:longitude":-111.329972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 S Beeline Hwy",
     "sg:city":"Payson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820149,
+        85688719,
         85633793,
         85917211,
         102081525,
-        85688719
+        85820149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168921529,
-    "wof:lastmodified":1449028266,
+    "wof:lastmodified":1466330169,
     "wof:name":"Canyon Broadband Inc",
     "wof:parent_id":85820149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.329972,34.22656,-111.329972,34.22656],
+  "bbox": [
+    -111.329972,
+    34.22656,
+    -111.329972,
+    34.22656
+],
   "geometry": {"coordinates":[-111.329972,34.22656],"type":"Point"}
 }

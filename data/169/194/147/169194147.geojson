@@ -2,13 +2,14 @@
   "id": 169194147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.231512,33.582296,-112.231512,33.582296",
     "geom:latitude":33.582296,
     "geom:longitude":-112.231512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10723 N 80th Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169194147,
-    "wof:lastmodified":1449035487,
+    "wof:lastmodified":1466332055,
     "wof:name":"Personal Health Data LLC",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.231512,33.582296,-112.231512,33.582296],
+  "bbox": [
+    -112.231512,
+    33.582296,
+    -112.231512,
+    33.582296
+],
   "geometry": {"coordinates":[-112.231512,33.582296],"type":"Point"}
 }

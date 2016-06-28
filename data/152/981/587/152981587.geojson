@@ -2,13 +2,14 @@
   "id": 152981587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.990202,34.159321,-109.990202,34.159321",
     "geom:latitude":34.159321,
     "geom:longitude":-109.990202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3236 Rainbow Lake Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152981587,
-    "wof:lastmodified":1449048977,
+    "wof:lastmodified":1466329004,
     "wof:name":"D A Construction Co",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.990202,34.159321,-109.990202,34.159321],
+  "bbox": [
+    -109.990202,
+    34.159321,
+    -109.990202,
+    34.159321
+],
   "geometry": {"coordinates":[-109.990202,34.159321],"type":"Point"}
 }

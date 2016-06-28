@@ -2,13 +2,14 @@
   "id": 353890649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.458189,34.545386,-112.458189,34.545386",
     "geom:latitude":34.545386,
     "geom:longitude":-112.458189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 E Sheldon St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353890649,
-    "wof:lastmodified":1449018829,
+    "wof:lastmodified":1466331126,
     "wof:name":"Prescott Whipple Stage And Transit",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-112.458189,34.545386,-112.458189,34.545386],
+  "bbox": [
+    -112.458189,
+    34.545386,
+    -112.458189,
+    34.545386
+],
   "geometry": {"coordinates":[-112.458189,34.545386],"type":"Point"}
 }

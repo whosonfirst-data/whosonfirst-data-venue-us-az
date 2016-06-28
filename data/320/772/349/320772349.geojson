@@ -2,13 +2,14 @@
   "id": 320772349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04677,33.5419,-112.04677,33.5419",
     "geom:latitude":33.5419,
     "geom:longitude":-112.04677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 E Myrtle Ave Ste 400",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320772349,
-    "wof:lastmodified":1449012926,
+    "wof:lastmodified":1466329270,
     "wof:name":"Yeung, Christopher, Md - Arizona Orthopedic Surgeons",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.04677,33.5419,-112.04677,33.5419],
+  "bbox": [
+    -112.04677,
+    33.5419,
+    -112.04677,
+    33.5419
+],
   "geometry": {"coordinates":[-112.04677,33.5419],"type":"Point"}
 }

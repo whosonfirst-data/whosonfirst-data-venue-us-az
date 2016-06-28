@@ -2,13 +2,14 @@
   "id": 152906305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.337833,33.615448,-112.337833,33.615448",
     "geom:latitude":33.615448,
     "geom:longitude":-112.337833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14409 N 129th Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152906305,
-    "wof:lastmodified":1449046059,
+    "wof:lastmodified":1466327273,
     "wof:name":"Anj Dvds",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.337833,33.615448,-112.337833,33.615448],
+  "bbox": [
+    -112.337833,
+    33.615448,
+    -112.337833,
+    33.615448
+],
   "geometry": {"coordinates":[-112.337833,33.615448],"type":"Point"}
 }

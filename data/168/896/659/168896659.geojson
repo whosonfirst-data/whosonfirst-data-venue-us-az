@@ -2,13 +2,14 @@
   "id": 168896659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.904905,32.507149,-110.904905,32.507149",
     "geom:latitude":32.507149,
     "geom:longitude":-110.904905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 E Pinto Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168896659,
-    "wof:lastmodified":1449028038,
+    "wof:lastmodified":1466329454,
     "wof:name":"AB Carpets",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.904905,32.507149,-110.904905,32.507149],
+  "bbox": [
+    -110.904905,
+    32.507149,
+    -110.904905,
+    32.507149
+],
   "geometry": {"coordinates":[-110.904905,32.507149],"type":"Point"}
 }

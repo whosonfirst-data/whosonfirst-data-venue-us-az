@@ -2,13 +2,14 @@
   "id": 168936063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.654532,35.196448,-111.654532,35.196448",
     "geom:latitude":35.196448,
     "geom:longitude":-111.654532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Milton Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168936063,
-    "wof:lastmodified":1449028008,
+    "wof:lastmodified":1466330643,
     "wof:name":"5 Points Mobil",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.654532,35.196448,-111.654532,35.196448],
+  "bbox": [
+    -111.654532,
+    35.196448,
+    -111.654532,
+    35.196448
+],
   "geometry": {"coordinates":[-111.654532,35.196448],"type":"Point"}
 }

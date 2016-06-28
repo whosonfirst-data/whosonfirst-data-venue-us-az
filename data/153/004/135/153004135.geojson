@@ -2,13 +2,14 @@
   "id": 153004135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.689527,35.100268,-111.689527,35.100268",
     "geom:latitude":35.100268,
     "geom:longitude":-111.689527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"767 Moenkopi Trl",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153004135,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1466325709,
     "wof:name":"Moenkopi Investments LLC",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.689527,35.100268,-111.689527,35.100268],
+  "bbox": [
+    -111.689527,
+    35.100268,
+    -111.689527,
+    35.100268
+],
   "geometry": {"coordinates":[-111.689527,35.100268],"type":"Point"}
 }

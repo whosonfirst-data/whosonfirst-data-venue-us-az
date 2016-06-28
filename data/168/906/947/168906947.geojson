@@ -2,13 +2,14 @@
   "id": 168906947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035632,33.467541,-112.035632,33.467541",
     "geom:latitude":33.467541,
     "geom:longitude":-112.035632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 N 21st Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168906947,
-    "wof:lastmodified":1449028050,
+    "wof:lastmodified":1466329690,
     "wof:name":"Bam Sofas Manufactures",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.035632,33.467541,-112.035632,33.467541],
-  "geometry": {"coordinates":[-112.035632,33.467541],"type":"Point"}
+  "bbox": [
+    -112.035632,
+    33.467541,
+    -112.035632,
+    33.467541
+],
+  "geometry": {"coordinates":[-112.03563200000001,33.467541],"type":"Point"}
 }

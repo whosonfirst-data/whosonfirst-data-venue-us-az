@@ -2,13 +2,14 @@
   "id": 336625067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01519,33.422611,-112.01519,33.422611",
     "geom:latitude":33.422611,
     "geom:longitude":-112.01519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 E Old Tower Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":336625067,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466326412,
     "wof:name":"FedEx World Service Center",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "copy"
     ]
 },
-  "bbox": [-112.01519,33.422611,-112.01519,33.422611],
+  "bbox": [
+    -112.01519,
+    33.422611,
+    -112.01519,
+    33.422611
+],
   "geometry": {"coordinates":[-112.01519,33.422611],"type":"Point"}
 }

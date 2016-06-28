@@ -2,13 +2,14 @@
   "id": 168914021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.140781,33.451327,-112.140781,33.451327",
     "geom:latitude":33.451327,
     "geom:longitude":-112.140781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3865 W Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.subzero.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168914021,
-    "wof:lastmodified":1449028055,
+    "wof:lastmodified":1466330145,
     "wof:name":"Sub-Zero Freezer Company Inc",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.140781,33.451327,-112.140781,33.451327],
+  "bbox": [
+    -112.140781,
+    33.451327,
+    -112.140781,
+    33.451327
+],
   "geometry": {"coordinates":[-112.140781,33.451327],"type":"Point"}
 }

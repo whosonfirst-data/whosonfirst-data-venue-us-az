@@ -2,13 +2,14 @@
   "id": 169399605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.597989,35.002245,-114.597989,35.002245",
     "geom:latitude":35.002245,
     "geom:longitude":-114.597989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 Hwy 95",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169399605,
-    "wof:lastmodified":1449033274,
+    "wof:lastmodified":1466333984,
     "wof:name":"Thomas J Clark DO",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.597989,35.002245,-114.597989,35.002245],
+  "bbox": [
+    -114.597989,
+    35.002245,
+    -114.597989,
+    35.002245
+],
   "geometry": {"coordinates":[-114.597989,35.002245],"type":"Point"}
 }

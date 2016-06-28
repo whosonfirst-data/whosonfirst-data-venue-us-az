@@ -2,13 +2,14 @@
   "id": 353785271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.546799,31.349581,-109.546799,31.349581",
     "geom:latitude":31.349581,
     "geom:longitude":-109.546799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 E 15th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":353785271,
-    "wof:lastmodified":1449020385,
+    "wof:lastmodified":1466330346,
     "wof:name":"Hands Above Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.546799,31.349581,-109.546799,31.349581],
-  "geometry": {"coordinates":[-109.546799,31.349581],"type":"Point"}
+  "bbox": [
+    -109.546799,
+    31.349581,
+    -109.546799,
+    31.349581
+],
+  "geometry": {"coordinates":[-109.54679899999999,31.349581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169324799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925123,32.180274,-110.925123,32.180274",
     "geom:latitude":32.180274,
     "geom:longitude":-110.925123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 E 47th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169324799,
-    "wof:lastmodified":1449034615,
+    "wof:lastmodified":1466333232,
     "wof:name":"Arcadia Cleaning Systems",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.925123,32.180274,-110.925123,32.180274],
+  "bbox": [
+    -110.925123,
+    32.180274,
+    -110.925123,
+    32.180274
+],
   "geometry": {"coordinates":[-110.925123,32.180274],"type":"Point"}
 }

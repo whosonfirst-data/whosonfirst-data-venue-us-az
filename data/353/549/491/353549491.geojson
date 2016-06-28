@@ -2,13 +2,14 @@
   "id": 353549491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.702312,33.281075,-111.702312,33.281075",
     "geom:latitude":33.281075,
     "geom:longitude":-111.702312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 E Melrose St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353549491,
-    "wof:lastmodified":1449018968,
+    "wof:lastmodified":1466327975,
     "wof:name":"Wengert Bros Ranches",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.702312,33.281075,-111.702312,33.281075],
-  "geometry": {"coordinates":[-111.702312,33.281075],"type":"Point"}
+  "bbox": [
+    -111.702312,
+    33.281075,
+    -111.702312,
+    33.281075
+],
+  "geometry": {"coordinates":[-111.70231200000001,33.281075],"type":"Point"}
 }

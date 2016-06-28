@@ -2,13 +2,14 @@
   "id": 169053677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.873238,33.623124,-111.873238,33.623124",
     "geom:latitude":33.623124,
     "geom:longitude":-111.873238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15095 N Thompson Peak Pkwy",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169053677,
-    "wof:lastmodified":1449033313,
+    "wof:lastmodified":1466328613,
     "wof:name":"Defining Designs LLC",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.873238,33.623124,-111.873238,33.623124],
+  "bbox": [
+    -111.873238,
+    33.623124,
+    -111.873238,
+    33.623124
+],
   "geometry": {"coordinates":[-111.873238,33.623124],"type":"Point"}
 }

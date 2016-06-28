@@ -2,13 +2,14 @@
   "id": 169421151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.832666,32.206542,-110.832666,32.206542",
     "geom:latitude":32.206542,
     "geom:longitude":-110.832666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7401 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.sky-works.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169421151,
-    "wof:lastmodified":1449034780,
+    "wof:lastmodified":1466334161,
     "wof:name":"Sky Works",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.832666,32.206542,-110.832666,32.206542],
+  "bbox": [
+    -110.832666,
+    32.206542,
+    -110.832666,
+    32.206542
+],
   "geometry": {"coordinates":[-110.832666,32.206542],"type":"Point"}
 }

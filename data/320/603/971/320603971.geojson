@@ -2,13 +2,14 @@
   "id": 320603971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075192,33.450673,-112.075192,33.450673",
     "geom:latitude":33.450673,
     "geom:longitude":-112.075192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N 1st Ave Fl 3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320603971,
-    "wof:lastmodified":1449014396,
+    "wof:lastmodified":1466325848,
     "wof:name":"Court House Cafe",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-112.075192,33.450673,-112.075192,33.450673],
+  "bbox": [
+    -112.075192,
+    33.450673,
+    -112.075192,
+    33.450673
+],
   "geometry": {"coordinates":[-112.075192,33.450673],"type":"Point"}
 }

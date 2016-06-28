@@ -2,13 +2,14 @@
   "id": 353774777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.31869,34.240712,-111.31869,34.240712",
     "geom:latitude":34.240712,
     "geom:longitude":-111.31869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E State Highway 260 Ste F",
     "sg:city":"Payson",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353774777,
-    "wof:lastmodified":1449019260,
+    "wof:lastmodified":1466330277,
     "wof:name":"Payson Athletic Club",
     "wof:parent_id":85820149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "physical"
     ]
 },
-  "bbox": [-111.31869,34.240712,-111.31869,34.240712],
+  "bbox": [
+    -111.31869,
+    34.240712,
+    -111.31869,
+    34.240712
+],
   "geometry": {"coordinates":[-111.31869,34.240712],"type":"Point"}
 }

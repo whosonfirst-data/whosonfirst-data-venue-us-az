@@ -2,13 +2,14 @@
   "id": 320741497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121249,33.493488,-112.121249,33.493488",
     "geom:latitude":33.493488,
     "geom:longitude":-112.121249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 W Fairmount Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320741497,
-    "wof:lastmodified":1449011451,
+    "wof:lastmodified":1466328936,
     "wof:name":"Cpt",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-112.121249,33.493488,-112.121249,33.493488],
-  "geometry": {"coordinates":[-112.121249,33.493488],"type":"Point"}
+  "bbox": [
+    -112.121249,
+    33.493488,
+    -112.121249,
+    33.493488
+],
+  "geometry": {"coordinates":[-112.12124900000001,33.493488],"type":"Point"}
 }

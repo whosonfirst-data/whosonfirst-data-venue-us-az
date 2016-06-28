@@ -2,13 +2,14 @@
   "id": 168999709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.890773,32.231863,-110.890773,32.231863",
     "geom:latitude":32.231863,
     "geom:longitude":-110.890773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4830 E 3rd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168999709,
-    "wof:lastmodified":1449028495,
+    "wof:lastmodified":1466331716,
     "wof:name":"Summer Clste Prcion Art Studio",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.890773,32.231863,-110.890773,32.231863],
+  "bbox": [
+    -110.890773,
+    32.231863,
+    -110.890773,
+    32.231863
+],
   "geometry": {"coordinates":[-110.890773,32.231863],"type":"Point"}
 }

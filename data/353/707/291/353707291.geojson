@@ -2,13 +2,14 @@
   "id": 353707291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.57363,32.669719,-114.57363,32.669719",
     "geom:latitude":32.669719,
     "geom:longitude":-114.57363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3414 E 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353707291,
-    "wof:lastmodified":1449020422,
+    "wof:lastmodified":1466329656,
     "wof:name":"Ed Whitehead's Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tire"
     ]
 },
-  "bbox": [-114.57363,32.669719,-114.57363,32.669719],
-  "geometry": {"coordinates":[-114.57363,32.669719],"type":"Point"}
+  "bbox": [
+    -114.57363,
+    32.669719,
+    -114.57363,
+    32.669719
+],
+  "geometry": {"coordinates":[-114.57362999999999,32.669719],"type":"Point"}
 }

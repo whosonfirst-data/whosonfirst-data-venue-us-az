@@ -2,13 +2,14 @@
   "id": 336700715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972867,33.376339,-111.972867,33.376339",
     "geom:latitude":33.376339,
     "geom:longitude":-111.972867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7776 S Pointe Pkwy W # 250",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336700715,
-    "wof:lastmodified":1448997926,
+    "wof:lastmodified":1466328042,
     "wof:name":"Kryterion Inc.",
     "wof:parent_id":85852111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "educational"
     ]
 },
-  "bbox": [-111.972867,33.376339,-111.972867,33.376339],
-  "geometry": {"coordinates":[-111.972867,33.376339],"type":"Point"}
+  "bbox": [
+    -111.972867,
+    33.376339,
+    -111.972867,
+    33.376339
+],
+  "geometry": {"coordinates":[-111.97286699999999,33.376339],"type":"Point"}
 }

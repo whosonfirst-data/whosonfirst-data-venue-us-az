@@ -2,13 +2,14 @@
   "id": 153021235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.600815,35.20655,-111.600815,35.20655",
     "geom:latitude":35.20655,
     "geom:longitude":-111.600815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 E Soliere Ave",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ccof.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153021235,
-    "wof:lastmodified":1449040657,
+    "wof:lastmodified":1466327185,
     "wof:name":"Christ's Church Of Flagstaff",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.600815,35.20655,-111.600815,35.20655],
+  "bbox": [
+    -111.600815,
+    35.20655,
+    -111.600815,
+    35.20655
+],
   "geometry": {"coordinates":[-111.600815,35.20655],"type":"Point"}
 }

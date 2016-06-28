@@ -2,13 +2,14 @@
   "id": 353693815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.645472,32.683971,-114.645472,32.683971",
     "geom:latitude":32.683971,
     "geom:longitude":-114.645472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 W 24th St Ste A",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353693815,
-    "wof:lastmodified":1449018398,
+    "wof:lastmodified":1466329579,
     "wof:name":"Sleep Center Of Yuma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "disease"
     ]
 },
-  "bbox": [-114.645472,32.683971,-114.645472,32.683971],
+  "bbox": [
+    -114.645472,
+    32.683971,
+    -114.645472,
+    32.683971
+],
   "geometry": {"coordinates":[-114.645472,32.683971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353831891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.919562,32.268704,-110.919562,32.268704",
     "geom:latitude":32.268704,
     "geom:longitude":-110.919562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 E Kleindale Rd # F",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353831891,
-    "wof:lastmodified":1449019768,
+    "wof:lastmodified":1466330489,
     "wof:name":"Digipost",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "shipping"
     ]
 },
-  "bbox": [-110.919562,32.268704,-110.919562,32.268704],
+  "bbox": [
+    -110.919562,
+    32.268704,
+    -110.919562,
+    32.268704
+],
   "geometry": {"coordinates":[-110.919562,32.268704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152995399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020969,33.646675,-112.020969,33.646675",
     "geom:latitude":33.646675,
     "geom:longitude":-112.020969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 E Saint John Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835867,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152995399,
-    "wof:lastmodified":1449048410,
+    "wof:lastmodified":1466329728,
     "wof:name":"Royal Palm Landscaping",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.020969,33.646675,-112.020969,33.646675],
-  "geometry": {"coordinates":[-112.020969,33.646675],"type":"Point"}
+  "bbox": [
+    -112.020969,
+    33.646675,
+    -112.020969,
+    33.646675
+],
+  "geometry": {"coordinates":[-112.02096899999999,33.646675],"type":"Point"}
 }

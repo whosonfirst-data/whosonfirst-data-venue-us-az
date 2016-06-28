@@ -2,13 +2,14 @@
   "id": 336727781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124817,33.619631,-112.124817,33.619631",
     "geom:latitude":33.619631,
     "geom:longitude":-112.124817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14647 N 31st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336727781,
-    "wof:lastmodified":1448997102,
+    "wof:lastmodified":1466328474,
     "wof:name":"Micky Mouse Delivery",
     "wof:parent_id":85843759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-112.124817,33.619631,-112.124817,33.619631],
-  "geometry": {"coordinates":[-112.124817,33.619631],"type":"Point"}
+  "bbox": [
+    -112.124817,
+    33.619631,
+    -112.124817,
+    33.619631
+],
+  "geometry": {"coordinates":[-112.12481699999999,33.619631],"type":"Point"}
 }

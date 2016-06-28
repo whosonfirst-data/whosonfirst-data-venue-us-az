@@ -2,13 +2,14 @@
   "id": 168852865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070482,33.486786,-112.070482,33.486786",
     "geom:latitude":33.486786,
     "geom:longitude":-112.070482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Morris Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.processdynamicsinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168852865,
-    "wof:lastmodified":1449028452,
+    "wof:lastmodified":1466325948,
     "wof:name":"Process Dynamics Inc",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.070482,33.486786,-112.070482,33.486786],
+  "bbox": [
+    -112.070482,
+    33.486786,
+    -112.070482,
+    33.486786
+],
   "geometry": {"coordinates":[-112.070482,33.486786],"type":"Point"}
 }

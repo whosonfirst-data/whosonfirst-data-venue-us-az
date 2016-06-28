@@ -2,13 +2,14 @@
   "id": 152934385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07375,33.507464,-112.07375,33.507464",
     "geom:latitude":33.507464,
     "geom:longitude":-112.07375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152934385,
-    "wof:lastmodified":1449044527,
+    "wof:lastmodified":1466326283,
     "wof:name":"Josephs Progressive Salon",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.07375,33.507464,-112.07375,33.507464],
+  "bbox": [
+    -112.07375,
+    33.507464,
+    -112.07375,
+    33.507464
+],
   "geometry": {"coordinates":[-112.07375,33.507464],"type":"Point"}
 }

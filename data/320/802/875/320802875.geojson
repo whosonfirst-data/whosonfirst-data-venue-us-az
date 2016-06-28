@@ -2,13 +2,14 @@
   "id": 320802875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050255,33.640453,-112.050255,33.640453",
     "geom:latitude":33.640453,
     "geom:longitude":-112.050255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320802875,
-    "wof:lastmodified":1449014269,
+    "wof:lastmodified":1466329711,
     "wof:name":"Howie World",
     "wof:parent_id":85823079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-112.050255,33.640453,-112.050255,33.640453],
-  "geometry": {"coordinates":[-112.050255,33.640453],"type":"Point"}
+  "bbox": [
+    -112.050255,
+    33.640453,
+    -112.050255,
+    33.640453
+],
+  "geometry": {"coordinates":[-112.05025500000001,33.640453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353896303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.494453,34.577551,-112.494453,34.577551",
     "geom:latitude":34.577551,
     "geom:longitude":-112.494453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Yakashba Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353896303,
-    "wof:lastmodified":1449019182,
+    "wof:lastmodified":1466330917,
     "wof:name":"Richard Yetman",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.494453,34.577551,-112.494453,34.577551],
-  "geometry": {"coordinates":[-112.494453,34.577551],"type":"Point"}
+  "bbox": [
+    -112.494453,
+    34.577551,
+    -112.494453,
+    34.577551
+],
+  "geometry": {"coordinates":[-112.49445299999999,34.577551],"type":"Point"}
 }

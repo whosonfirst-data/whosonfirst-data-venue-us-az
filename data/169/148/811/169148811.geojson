@@ -2,13 +2,14 @@
   "id": 169148811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995992,32.15935,-110.995992,32.15935",
     "geom:latitude":32.15935,
     "geom:longitude":-110.995992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1449 W Delahunt St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169148811,
-    "wof:lastmodified":1449035443,
+    "wof:lastmodified":1466331823,
     "wof:name":"All American Mobile Mechanic",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995992,32.15935,-110.995992,32.15935],
+  "bbox": [
+    -110.995992,
+    32.15935,
+    -110.995992,
+    32.15935
+],
   "geometry": {"coordinates":[-110.995992,32.15935],"type":"Point"}
 }

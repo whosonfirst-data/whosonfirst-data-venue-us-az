@@ -2,13 +2,14 @@
   "id": 169124239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116853,33.562147,-112.116853,33.562147",
     "geom:latitude":33.562147,
     "geom:longitude":-112.116853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8503 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840313,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169124239,
-    "wof:lastmodified":1449035706,
+    "wof:lastmodified":1466331331,
     "wof:name":"Apollo College",
     "wof:parent_id":85840313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.116853,33.562147,-112.116853,33.562147],
-  "geometry": {"coordinates":[-112.116853,33.562147],"type":"Point"}
+  "bbox": [
+    -112.116853,
+    33.562147,
+    -112.116853,
+    33.562147
+],
+  "geometry": {"coordinates":[-112.11685300000001,33.562147],"type":"Point"}
 }

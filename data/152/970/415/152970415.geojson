@@ -2,13 +2,14 @@
   "id": 152970415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.697337,33.396549,-111.697337,33.396549",
     "geom:latitude":33.396549,
     "geom:longitude":-111.697337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1353 Leisure World",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820311,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152970415,
-    "wof:lastmodified":1449048830,
+    "wof:lastmodified":1466328457,
     "wof:name":"Concerted Logistics LLC",
     "wof:parent_id":85820311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.697337,33.396549,-111.697337,33.396549],
+  "bbox": [
+    -111.697337,
+    33.396549,
+    -111.697337,
+    33.396549
+],
   "geometry": {"coordinates":[-111.697337,33.396549],"type":"Point"}
 }

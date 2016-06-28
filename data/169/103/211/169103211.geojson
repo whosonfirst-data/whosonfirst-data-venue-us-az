@@ -2,13 +2,14 @@
   "id": 169103211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.162898,33.520592,-112.162898,33.520592",
     "geom:latitude":33.520592,
     "geom:longitude":-112.162898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5753 N 48th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169103211,
-    "wof:lastmodified":1449034744,
+    "wof:lastmodified":1466331035,
     "wof:name":"Home Away From Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.162898,33.520592,-112.162898,33.520592],
+  "bbox": [
+    -112.162898,
+    33.520592,
+    -112.162898,
+    33.520592
+],
   "geometry": {"coordinates":[-112.162898,33.520592],"type":"Point"}
 }

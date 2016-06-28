@@ -2,13 +2,14 @@
   "id": 353831309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.831527,32.24287,-110.831527,32.24287",
     "geom:latitude":32.24287,
     "geom:longitude":-110.831527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7531 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353831309,
-    "wof:lastmodified":1449019766,
+    "wof:lastmodified":1466330623,
     "wof:name":"Cdk Engineering",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-110.831527,32.24287,-110.831527,32.24287],
-  "geometry": {"coordinates":[-110.831527,32.24287],"type":"Point"}
+  "bbox": [
+    -110.831527,
+    32.24287,
+    -110.831527,
+    32.24287
+],
+  "geometry": {"coordinates":[-110.83152699999999,32.24287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169030821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.200329,33.69768,-112.200329,33.69768",
     "geom:latitude":33.69768,
     "geom:longitude":-112.200329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6620 W Pinnacle Peak Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877801,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169030821,
-    "wof:lastmodified":1449033904,
+    "wof:lastmodified":1466326942,
     "wof:name":"K 2 Livestock Svc",
     "wof:parent_id":85877801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.200329,33.69768,-112.200329,33.69768],
+  "bbox": [
+    -112.200329,
+    33.69768,
+    -112.200329,
+    33.69768
+],
   "geometry": {"coordinates":[-112.200329,33.69768],"type":"Point"}
 }

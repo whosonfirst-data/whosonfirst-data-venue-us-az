@@ -2,13 +2,14 @@
   "id": 169374385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.881565,31.411533,-109.881565,31.411533",
     "geom:latitude":31.411533,
     "geom:longitude":-109.881565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Mill Rd",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169374385,
-    "wof:lastmodified":1449034106,
+    "wof:lastmodified":1466333733,
     "wof:name":"Bisbee Bevrg",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.881565,31.411533,-109.881565,31.411533],
-  "geometry": {"coordinates":[-109.881565,31.411533],"type":"Point"}
+  "bbox": [
+    -109.881565,
+    31.411533,
+    -109.881565,
+    31.411533
+],
+  "geometry": {"coordinates":[-109.88156499999999,31.411533],"type":"Point"}
 }

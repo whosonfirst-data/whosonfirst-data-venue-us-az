@@ -2,13 +2,14 @@
   "id": 337620821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870355,33.735666,-111.870355,33.735666",
     "geom:latitude":33.735666,
     "geom:longitude":-111.870355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27545 N 97th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337620821,
-    "wof:lastmodified":1449027663,
+    "wof:lastmodified":1466327292,
     "wof:name":"Patmel",
     "wof:parent_id":85880965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "proprietary"
     ]
 },
-  "bbox": [-111.870355,33.735666,-111.870355,33.735666],
+  "bbox": [
+    -111.870355,
+    33.735666,
+    -111.870355,
+    33.735666
+],
   "geometry": {"coordinates":[-111.870355,33.735666],"type":"Point"}
 }

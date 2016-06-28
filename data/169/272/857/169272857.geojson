@@ -2,13 +2,14 @@
   "id": 169272857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.872901,33.335781,-111.872901,33.335781",
     "geom:latitude":33.335781,
     "geom:longitude":-111.872901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 W Los Arboles Ct",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85851913
+        85633793,
+        85851913,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169272857,
-    "wof:lastmodified":1449035733,
+    "wof:lastmodified":1466332803,
     "wof:name":"Titan Stairs Inc",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.872901,33.335781,-111.872901,33.335781],
+  "bbox": [
+    -111.872901,
+    33.335781,
+    -111.872901,
+    33.335781
+],
   "geometry": {"coordinates":[-111.872901,33.335781],"type":"Point"}
 }

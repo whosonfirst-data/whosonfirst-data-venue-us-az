@@ -2,13 +2,14 @@
   "id": 169370457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.34381,34.593695,-112.34381,34.593695",
     "geom:latitude":34.593695,
     "geom:longitude":-112.34381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3749 N Pleasant View Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169370457,
-    "wof:lastmodified":1449034495,
+    "wof:lastmodified":1466333744,
     "wof:name":"Thunderbird Property Inspctn",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.34381,34.593695,-112.34381,34.593695],
+  "bbox": [
+    -112.34381,
+    34.593695,
+    -112.34381,
+    34.593695
+],
   "geometry": {"coordinates":[-112.34381,34.593695],"type":"Point"}
 }

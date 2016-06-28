@@ -2,13 +2,14 @@
   "id": 169292993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.291011,33.602925,-112.291011,33.602925",
     "geom:latitude":33.602925,
     "geom:longitude":-112.291011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10771 W Grand Ave",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169292993,
-    "wof:lastmodified":1449032955,
+    "wof:lastmodified":1466332946,
     "wof:name":"J & K Ventures LLC",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.291011,33.602925,-112.291011,33.602925],
+  "bbox": [
+    -112.291011,
+    33.602925,
+    -112.291011,
+    33.602925
+],
   "geometry": {"coordinates":[-112.291011,33.602925],"type":"Point"}
 }

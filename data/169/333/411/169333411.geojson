@@ -2,13 +2,14 @@
   "id": 169333411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975055,32.319128,-110.975055,32.319128",
     "geom:latitude":32.319128,
     "geom:longitude":-110.975055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169333411,
-    "wof:lastmodified":1449035726,
+    "wof:lastmodified":1466333352,
     "wof:name":"Arizona Drivers Safety Academy",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975055,32.319128,-110.975055,32.319128],
+  "bbox": [
+    -110.975055,
+    32.319128,
+    -110.975055,
+    32.319128
+],
   "geometry": {"coordinates":[-110.975055,32.319128],"type":"Point"}
 }

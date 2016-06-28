@@ -2,13 +2,14 @@
   "id": 353851429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.025919,32.387009,-111.025919,32.387009",
     "geom:latitude":32.387009,
     "geom:longitude":-111.025919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 W Camino de la Caterva",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353851429,
-    "wof:lastmodified":1449019922,
+    "wof:lastmodified":1466330679,
     "wof:name":"Mobile Electric",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-111.025919,32.387009,-111.025919,32.387009],
+  "bbox": [
+    -111.025919,
+    32.387009,
+    -111.025919,
+    32.387009
+],
   "geometry": {"coordinates":[-111.025919,32.387009],"type":"Point"}
 }

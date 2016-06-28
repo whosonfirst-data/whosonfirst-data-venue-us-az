@@ -2,13 +2,14 @@
   "id": 169418633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.416083,34.645849,-112.416083,34.645849",
     "geom:latitude":34.645849,
     "geom:longitude":-112.416083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Wilkinson Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.wulfsberg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852851,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85852851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169418633,
-    "wof:lastmodified":1449035247,
+    "wof:lastmodified":1466334186,
     "wof:name":"Chelton Avionics Inc",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.416083,34.645849,-112.416083,34.645849],
+  "bbox": [
+    -112.416083,
+    34.645849,
+    -112.416083,
+    34.645849
+],
   "geometry": {"coordinates":[-112.416083,34.645849],"type":"Point"}
 }

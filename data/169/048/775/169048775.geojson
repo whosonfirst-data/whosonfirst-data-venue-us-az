@@ -2,13 +2,14 @@
   "id": 169048775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.772293,32.25528,-110.772293,32.25528",
     "geom:latitude":32.25528,
     "geom:longitude":-110.772293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 N Houghton Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169048775,
-    "wof:lastmodified":1449033838,
+    "wof:lastmodified":1466328253,
     "wof:name":"St John On The Desert",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.772293,32.25528,-110.772293,32.25528],
+  "bbox": [
+    -110.772293,
+    32.25528,
+    -110.772293,
+    32.25528
+],
   "geometry": {"coordinates":[-110.772293,32.25528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168856953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943308,32.287195,-110.943308,32.287195",
     "geom:latitude":32.287195,
     "geom:longitude":-110.943308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1985 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168856953,
-    "wof:lastmodified":1449027982,
+    "wof:lastmodified":1466326308,
     "wof:name":"Re/Max",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943308,32.287195,-110.943308,32.287195],
+  "bbox": [
+    -110.943308,
+    32.287195,
+    -110.943308,
+    32.287195
+],
   "geometry": {"coordinates":[-110.943308,32.287195],"type":"Point"}
 }

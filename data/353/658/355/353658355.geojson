@@ -2,13 +2,14 @@
   "id": 353658355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151778,33.339431,-112.151778,33.339431",
     "geom:latitude":33.339431,
     "geom:longitude":-112.151778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4304 W Calle Poco",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353658355,
-    "wof:lastmodified":1449018196,
+    "wof:lastmodified":1466329270,
     "wof:name":"Duane Richardson",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.151778,33.339431,-112.151778,33.339431],
-  "geometry": {"coordinates":[-112.151778,33.339431],"type":"Point"}
+  "bbox": [
+    -112.151778,
+    33.339431,
+    -112.151778,
+    33.339431
+],
+  "geometry": {"coordinates":[-112.15177799999999,33.339431],"type":"Point"}
 }

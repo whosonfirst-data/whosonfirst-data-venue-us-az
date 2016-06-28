@@ -2,13 +2,14 @@
   "id": 169393591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145236,33.670785,-112.145236,33.670785",
     "geom:latitude":33.670785,
     "geom:longitude":-112.145236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4032 W Blackhawk Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169393591,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1466333964,
     "wof:name":"Ind Foods",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.145236,33.670785,-112.145236,33.670785],
+  "bbox": [
+    -112.145236,
+    33.670785,
+    -112.145236,
+    33.670785
+],
   "geometry": {"coordinates":[-112.145236,33.670785],"type":"Point"}
 }

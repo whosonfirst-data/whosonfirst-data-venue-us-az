@@ -2,13 +2,14 @@
   "id": 153081635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173009,33.52006,-112.173009,33.52006",
     "geom:latitude":33.52006,
     "geom:longitude":-112.173009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 N 53rd Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153081635,
-    "wof:lastmodified":1449040478,
+    "wof:lastmodified":1466329211,
     "wof:name":"Hogan Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173009,33.52006,-112.173009,33.52006],
-  "geometry": {"coordinates":[-112.173009,33.52006],"type":"Point"}
+  "bbox": [
+    -112.173009,
+    33.52006,
+    -112.173009,
+    33.52006
+],
+  "geometry": {"coordinates":[-112.17300899999999,33.52006],"type":"Point"}
 }

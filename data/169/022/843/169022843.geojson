@@ -2,13 +2,14 @@
   "id": 169022843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.893175,32.223182,-110.893175,32.223182",
     "geom:latitude":32.223182,
     "geom:longitude":-110.893175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4628 E 10th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169022843,
-    "wof:lastmodified":1449033778,
+    "wof:lastmodified":1466326218,
     "wof:name":"Sundance Designs & Needleworks",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.893175,32.223182,-110.893175,32.223182],
+  "bbox": [
+    -110.893175,
+    32.223182,
+    -110.893175,
+    32.223182
+],
   "geometry": {"coordinates":[-110.893175,32.223182],"type":"Point"}
 }

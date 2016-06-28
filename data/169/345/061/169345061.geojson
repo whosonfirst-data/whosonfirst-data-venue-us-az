@@ -2,13 +2,14 @@
   "id": 169345061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.202947,33.589048,-112.202947,33.589048",
     "geom:latitude":33.589048,
     "geom:longitude":-112.202947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6702 W Cholla St",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820415,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85820415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169345061,
-    "wof:lastmodified":1449035701,
+    "wof:lastmodified":1466333526,
     "wof:name":"Sunrise Preschools Inc",
     "wof:parent_id":85820415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.202947,33.589048,-112.202947,33.589048],
-  "geometry": {"coordinates":[-112.202947,33.589048],"type":"Point"}
+  "bbox": [
+    -112.202947,
+    33.589048,
+    -112.202947,
+    33.589048
+],
+  "geometry": {"coordinates":[-112.20294699999999,33.589048],"type":"Point"}
 }

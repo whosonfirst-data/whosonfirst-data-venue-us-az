@@ -2,13 +2,14 @@
   "id": 336685847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.160225,33.464501,-112.160225,33.464501",
     "geom:latitude":33.464501,
     "geom:longitude":-112.160225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4703 W Brill St Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336685847,
-    "wof:lastmodified":1448997970,
+    "wof:lastmodified":1466327796,
     "wof:name":"Sunflower Markets",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fruit"
     ]
 },
-  "bbox": [-112.160225,33.464501,-112.160225,33.464501],
+  "bbox": [
+    -112.160225,
+    33.464501,
+    -112.160225,
+    33.464501
+],
   "geometry": {"coordinates":[-112.160225,33.464501],"type":"Point"}
 }

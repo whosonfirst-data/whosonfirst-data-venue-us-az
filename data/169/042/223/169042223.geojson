@@ -2,13 +2,14 @@
   "id": 169042223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.267027,34.454385,-114.267027,34.454385",
     "geom:latitude":34.454385,
     "geom:longitude":-114.267027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3561 Maricopa Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169042223,
-    "wof:lastmodified":1449035162,
+    "wof:lastmodified":1466328150,
     "wof:name":"B & M Cycle",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.267027,34.454385,-114.267027,34.454385],
+  "bbox": [
+    -114.267027,
+    34.454385,
+    -114.267027,
+    34.454385
+],
   "geometry": {"coordinates":[-114.267027,34.454385],"type":"Point"}
 }

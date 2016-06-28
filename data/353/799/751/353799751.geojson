@@ -2,13 +2,14 @@
   "id": 353799751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.826703,32.249738,-109.826703,32.249738",
     "geom:latitude":32.249738,
     "geom:longitude":-109.826703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"752 E Maley St",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353799751,
-    "wof:lastmodified":1449020802,
+    "wof:lastmodified":1466330244,
     "wof:name":"Valley Telecom Group",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "provider"
     ]
 },
-  "bbox": [-109.826703,32.249738,-109.826703,32.249738],
-  "geometry": {"coordinates":[-109.826703,32.249738],"type":"Point"}
+  "bbox": [
+    -109.826703,
+    32.249738,
+    -109.826703,
+    32.249738
+],
+  "geometry": {"coordinates":[-109.82670299999999,32.249738],"type":"Point"}
 }

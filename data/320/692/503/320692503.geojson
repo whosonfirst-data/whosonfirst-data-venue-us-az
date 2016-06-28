@@ -2,13 +2,14 @@
   "id": 320692503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06501,33.52079,-112.06501,33.52079",
     "geom:latitude":33.52079,
     "geom:longitude":-112.06501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5739 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320692503,
-    "wof:lastmodified":1449012251,
+    "wof:lastmodified":1466327917,
     "wof:name":"Sb Property Holdings",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-112.06501,33.52079,-112.06501,33.52079],
+  "bbox": [
+    -112.06501,
+    33.52079,
+    -112.06501,
+    33.52079
+],
   "geometry": {"coordinates":[-112.06501,33.52079],"type":"Point"}
 }

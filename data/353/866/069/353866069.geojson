@@ -2,13 +2,14 @@
   "id": 353866069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.390295,33.464501,-112.390295,33.464501",
     "geom:latitude":33.464501,
     "geom:longitude":-112.390295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15405 W McDowell Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353866069,
-    "wof:lastmodified":1449019476,
+    "wof:lastmodified":1466330751,
     "wof:name":"BevMo",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wine"
     ]
 },
-  "bbox": [-112.390295,33.464501,-112.390295,33.464501],
-  "geometry": {"coordinates":[-112.390295,33.464501],"type":"Point"}
+  "bbox": [
+    -112.390295,
+    33.464501,
+    -112.390295,
+    33.464501
+],
+  "geometry": {"coordinates":[-112.39029499999999,33.464501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153059525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.901482,33.32823,-111.901482,33.32823",
     "geom:latitude":33.32823,
     "geom:longitude":-111.901482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 E Myrna Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153059525,
-    "wof:lastmodified":1449040465,
+    "wof:lastmodified":1466328011,
     "wof:name":"Edwards Lifesciences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.901482,33.32823,-111.901482,33.32823],
+  "bbox": [
+    -111.901482,
+    33.32823,
+    -111.901482,
+    33.32823
+],
   "geometry": {"coordinates":[-111.901482,33.32823],"type":"Point"}
 }

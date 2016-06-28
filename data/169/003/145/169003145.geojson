@@ -2,13 +2,14 @@
   "id": 169003145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.816794,33.374014,-111.816794,33.374014",
     "geom:latitude":33.374014,
     "geom:longitude":-111.816794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N Mondel Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.adaracing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833339,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169003145,
-    "wof:lastmodified":1449035702,
+    "wof:lastmodified":1466325998,
     "wof:name":"ADA Inc",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.816794,33.374014,-111.816794,33.374014],
+  "bbox": [
+    -111.816794,
+    33.374014,
+    -111.816794,
+    33.374014
+],
   "geometry": {"coordinates":[-111.816794,33.374014],"type":"Point"}
 }

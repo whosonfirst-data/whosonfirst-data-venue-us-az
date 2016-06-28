@@ -2,13 +2,14 @@
   "id": 353909463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.023521,35.202705,-114.023521,35.202705",
     "geom:latitude":35.202705,
     "geom:longitude":-114.023521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 E Andy Devine Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353909463,
-    "wof:lastmodified":1449020174,
+    "wof:lastmodified":1466331195,
     "wof:name":"District 1 Highway Patrol",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rescue"
     ]
 },
-  "bbox": [-114.023521,35.202705,-114.023521,35.202705],
+  "bbox": [
+    -114.023521,
+    35.202705,
+    -114.023521,
+    35.202705
+],
   "geometry": {"coordinates":[-114.023521,35.202705],"type":"Point"}
 }

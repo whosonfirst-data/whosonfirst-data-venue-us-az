@@ -2,13 +2,14 @@
   "id": 169280439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.797764,32.20157,-110.797764,32.20157",
     "geom:latitude":32.20157,
     "geom:longitude":-110.797764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 S Aida Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169280439,
-    "wof:lastmodified":1449034310,
+    "wof:lastmodified":1466332799,
     "wof:name":"James D Bateman",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.797764,32.20157,-110.797764,32.20157],
+  "bbox": [
+    -110.797764,
+    32.20157,
+    -110.797764,
+    32.20157
+],
   "geometry": {"coordinates":[-110.797764,32.20157],"type":"Point"}
 }

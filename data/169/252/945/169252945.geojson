@@ -2,13 +2,14 @@
   "id": 169252945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.770949,33.421948,-111.770949,33.421948",
     "geom:latitude":33.421948,
     "geom:longitude":-111.770949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 N Lindsay Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169252945,
-    "wof:lastmodified":1449033118,
+    "wof:lastmodified":1466332593,
     "wof:name":"Silverado Framing",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.770949,33.421948,-111.770949,33.421948],
+  "bbox": [
+    -111.770949,
+    33.421948,
+    -111.770949,
+    33.421948
+],
   "geometry": {"coordinates":[-111.770949,33.421948],"type":"Point"}
 }

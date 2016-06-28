@@ -2,13 +2,14 @@
   "id": 320680797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.078926,33.480307,-112.078926,33.480307",
     "geom:latitude":33.480307,
     "geom:longitude":-112.078926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Thomas Rd Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320680797,
-    "wof:lastmodified":1449013883,
+    "wof:lastmodified":1466327948,
     "wof:name":"Center For Neurology & Stroke",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.078926,33.480307,-112.078926,33.480307],
+  "bbox": [
+    -112.078926,
+    33.480307,
+    -112.078926,
+    33.480307
+],
   "geometry": {"coordinates":[-112.078926,33.480307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169214755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.189225,33.603459,-112.189225,33.603459",
     "geom:latitude":33.603459,
     "geom:longitude":-112.189225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6051 W Sweetwater Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169214755,
-    "wof:lastmodified":1449035858,
+    "wof:lastmodified":1466332247,
     "wof:name":"Ironwood High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.189225,33.603459,-112.189225,33.603459],
-  "geometry": {"coordinates":[-112.189225,33.603459],"type":"Point"}
+  "bbox": [
+    -112.189225,
+    33.603459,
+    -112.189225,
+    33.603459
+],
+  "geometry": {"coordinates":[-112.18922499999999,33.603459],"type":"Point"}
 }

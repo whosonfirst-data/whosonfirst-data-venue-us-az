@@ -2,13 +2,14 @@
   "id": 336709775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.989185,33.692774,-111.989185,33.692774",
     "geom:latitude":33.692774,
     "geom:longitude":-111.989185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3997 E Lockwood Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336709775,
-    "wof:lastmodified":1448997163,
+    "wof:lastmodified":1466328390,
     "wof:name":"Wildfire Elementary School",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-111.989185,33.692774,-111.989185,33.692774],
-  "geometry": {"coordinates":[-111.989185,33.692774],"type":"Point"}
+  "bbox": [
+    -111.989185,
+    33.692774,
+    -111.989185,
+    33.692774
+],
+  "geometry": {"coordinates":[-111.98918500000001,33.692774],"type":"Point"}
 }

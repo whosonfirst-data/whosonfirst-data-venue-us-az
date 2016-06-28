@@ -2,13 +2,14 @@
   "id": 169389103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356777,33.536958,-112.356777,33.536958",
     "geom:latitude":33.536958,
     "geom:longitude":-112.356777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13730 W Glendale Ave",
     "sg:city":"Luke Afb",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169389103,
-    "wof:lastmodified":1449035286,
+    "wof:lastmodified":1466333842,
     "wof:name":"Cactus Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.356777,33.536958,-112.356777,33.536958],
-  "geometry": {"coordinates":[-112.356777,33.536958],"type":"Point"}
+  "bbox": [
+    -112.356777,
+    33.536958,
+    -112.356777,
+    33.536958
+],
+  "geometry": {"coordinates":[-112.35677699999999,33.536958],"type":"Point"}
 }

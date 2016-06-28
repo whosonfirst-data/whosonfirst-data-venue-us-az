@@ -2,13 +2,14 @@
   "id": 320826241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104479,33.693204,-112.104479,33.693204",
     "geom:latitude":33.693204,
     "geom:longitude":-112.104479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23107 N 21st Ave Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320826241,
-    "wof:lastmodified":1449013972,
+    "wof:lastmodified":1466330151,
     "wof:name":"Omnibus Air Conditioning Inc",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.104479,33.693204,-112.104479,33.693204],
+  "bbox": [
+    -112.104479,
+    33.693204,
+    -112.104479,
+    33.693204
+],
   "geometry": {"coordinates":[-112.104479,33.693204],"type":"Point"}
 }

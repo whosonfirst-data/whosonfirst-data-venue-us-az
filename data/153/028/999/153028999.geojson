@@ -2,13 +2,14 @@
   "id": 153028999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983011,33.530316,-111.983011,33.530316",
     "geom:latitude":33.530316,
     "geom:longitude":-111.983011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4554 E Pebble Ridge Rd",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811269,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153028999,
-    "wof:lastmodified":1449040615,
+    "wof:lastmodified":1466327948,
     "wof:name":"One Dress At A Time",
     "wof:parent_id":85811269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.983011,33.530316,-111.983011,33.530316],
+  "bbox": [
+    -111.983011,
+    33.530316,
+    -111.983011,
+    33.530316
+],
   "geometry": {"coordinates":[-111.983011,33.530316],"type":"Point"}
 }

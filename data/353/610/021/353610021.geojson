@@ -2,13 +2,14 @@
   "id": 353610021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139305,33.642719,-112.139305,33.642719",
     "geom:latitude":33.642719,
     "geom:longitude":-112.139305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 W Anderson Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353610021,
-    "wof:lastmodified":1449020735,
+    "wof:lastmodified":1466329177,
     "wof:name":"Vistech Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-112.139305,33.642719,-112.139305,33.642719],
-  "geometry": {"coordinates":[-112.139305,33.642719],"type":"Point"}
+  "bbox": [
+    -112.139305,
+    33.642719,
+    -112.139305,
+    33.642719
+],
+  "geometry": {"coordinates":[-112.13930499999999,33.642719],"type":"Point"}
 }

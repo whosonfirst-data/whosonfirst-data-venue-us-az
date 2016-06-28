@@ -2,13 +2,14 @@
   "id": 168889633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.243132,33.642936,-112.243132,33.642936",
     "geom:latitude":33.642936,
     "geom:longitude":-112.243132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17511 N 86th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168889633,
-    "wof:lastmodified":1449027771,
+    "wof:lastmodified":1466329102,
     "wof:name":"Morrison Construction Inc",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.243132,33.642936,-112.243132,33.642936],
+  "bbox": [
+    -112.243132,
+    33.642936,
+    -112.243132,
+    33.642936
+],
   "geometry": {"coordinates":[-112.243132,33.642936],"type":"Point"}
 }

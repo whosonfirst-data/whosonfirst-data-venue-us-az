@@ -2,13 +2,14 @@
   "id": 169310505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151424,33.510418,-112.151424,33.510418",
     "geom:latitude":33.510418,
     "geom:longitude":-112.151424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 N 43rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169310505,
-    "wof:lastmodified":1449034719,
+    "wof:lastmodified":1466333097,
     "wof:name":"Backyard Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151424,33.510418,-112.151424,33.510418],
-  "geometry": {"coordinates":[-112.151424,33.510418],"type":"Point"}
+  "bbox": [
+    -112.151424,
+    33.510418,
+    -112.151424,
+    33.510418
+],
+  "geometry": {"coordinates":[-112.15142400000001,33.510418],"type":"Point"}
 }

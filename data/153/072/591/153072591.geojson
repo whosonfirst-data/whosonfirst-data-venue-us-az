@@ -2,13 +2,14 @@
   "id": 153072591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213405,33.60546,-112.213405,33.60546",
     "geom:latitude":33.60546,
     "geom:longitude":-112.213405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7229 W Pershing Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854965,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85854965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153072591,
-    "wof:lastmodified":1449040597,
+    "wof:lastmodified":1466328415,
     "wof:name":"Dhl Landscape Maintenance",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.213405,33.60546,-112.213405,33.60546],
-  "geometry": {"coordinates":[-112.213405,33.60546],"type":"Point"}
+  "bbox": [
+    -112.213405,
+    33.60546,
+    -112.213405,
+    33.60546
+],
+  "geometry": {"coordinates":[-112.21340499999999,33.60546],"type":"Point"}
 }

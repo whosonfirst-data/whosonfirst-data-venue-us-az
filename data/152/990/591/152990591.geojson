@@ -2,13 +2,14 @@
   "id": 152990591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.584692,32.003526,-110.584692,32.003526",
     "geom:latitude":32.003526,
     "geom:longitude":-110.584692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19295 E Marsh Station Rd",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152990591,
-    "wof:lastmodified":1449047392,
+    "wof:lastmodified":1466329717,
     "wof:name":"Jim Kristan",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.584692,32.003526,-110.584692,32.003526],
+  "bbox": [
+    -110.584692,
+    32.003526,
+    -110.584692,
+    32.003526
+],
   "geometry": {"coordinates":[-110.584692,32.003526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153043657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.257321,31.488095,-110.257321,31.488095",
     "geom:latitude":31.488095,
     "geom:longitude":-110.257321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 State Hwy 92",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.idealhomes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153043657,
-    "wof:lastmodified":1449040694,
+    "wof:lastmodified":1466326729,
     "wof:name":"Ideal Homes Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.257321,31.488095,-110.257321,31.488095],
+  "bbox": [
+    -110.257321,
+    31.488095,
+    -110.257321,
+    31.488095
+],
   "geometry": {"coordinates":[-110.257321,31.488095],"type":"Point"}
 }

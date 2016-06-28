@@ -2,13 +2,14 @@
   "id": 169411919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.769681,33.728614,-111.769681,33.728614",
     "geom:latitude":33.728614,
     "geom:longitude":-111.769681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14223 E Cavedale Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169411919,
-    "wof:lastmodified":1449032843,
+    "wof:lastmodified":1466333793,
     "wof:name":"Arizona Light Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.769681,33.728614,-111.769681,33.728614],
-  "geometry": {"coordinates":[-111.769681,33.728614],"type":"Point"}
+  "bbox": [
+    -111.769681,
+    33.728614,
+    -111.769681,
+    33.728614
+],
+  "geometry": {"coordinates":[-111.76968100000001,33.728614],"type":"Point"}
 }

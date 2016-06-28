@@ -2,13 +2,14 @@
   "id": 320753049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012984,33.502915,-112.012984,33.502915",
     "geom:latitude":33.502915,
     "geom:longitude":-112.012984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 N 32nd St Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320753049,
-    "wof:lastmodified":1449011685,
+    "wof:lastmodified":1466328931,
     "wof:name":"Camelback Periodontics Pc",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-periodontists"
     ]
 },
-  "bbox": [-112.012984,33.502915,-112.012984,33.502915],
+  "bbox": [
+    -112.012984,
+    33.502915,
+    -112.012984,
+    33.502915
+],
   "geometry": {"coordinates":[-112.012984,33.502915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169209851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.751818,33.383843,-110.751818,33.383843",
     "geom:latitude":33.383843,
     "geom:longitude":-110.751818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Crestwood Dr",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169209851,
-    "wof:lastmodified":1449035603,
+    "wof:lastmodified":1466332255,
     "wof:name":"Moors Wildlife Management Svcs",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.751818,33.383843,-110.751818,33.383843],
+  "bbox": [
+    -110.751818,
+    33.383843,
+    -110.751818,
+    33.383843
+],
   "geometry": {"coordinates":[-110.751818,33.383843],"type":"Point"}
 }

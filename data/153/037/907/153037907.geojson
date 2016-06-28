@@ -2,13 +2,14 @@
   "id": 153037907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.95344,33.639869,-111.95344,33.639869",
     "geom:latitude":33.639869,
     "geom:longitude":-111.95344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16652 N 59th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153037907,
-    "wof:lastmodified":1449040824,
+    "wof:lastmodified":1466326321,
     "wof:name":"A AA First Choice Window Clean",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.95344,33.639869,-111.95344,33.639869],
+  "bbox": [
+    -111.95344,
+    33.639869,
+    -111.95344,
+    33.639869
+],
   "geometry": {"coordinates":[-111.95344,33.639869],"type":"Point"}
 }

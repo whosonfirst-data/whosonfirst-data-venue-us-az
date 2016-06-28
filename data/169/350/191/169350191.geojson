@@ -2,13 +2,14 @@
   "id": 169350191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.936669,32.264813,-110.936669,32.264813",
     "geom:latitude":32.264813,
     "geom:longitude":-110.936669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.northminstertucson.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169350191,
-    "wof:lastmodified":1449034363,
+    "wof:lastmodified":1466333474,
     "wof:name":"Northminster Presbyterian Chr",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.936669,32.264813,-110.936669,32.264813],
-  "geometry": {"coordinates":[-110.936669,32.264813],"type":"Point"}
+  "bbox": [
+    -110.936669,
+    32.264813,
+    -110.936669,
+    32.264813
+],
+  "geometry": {"coordinates":[-110.93666899999999,32.264813],"type":"Point"}
 }

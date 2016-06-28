@@ -2,13 +2,14 @@
   "id": 168992303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.085458,33.523967,-112.085458,33.523967",
     "geom:latitude":33.523967,
     "geom:longitude":-112.085458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W Bethany Home Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.azcep.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853815,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168992303,
-    "wof:lastmodified":1449028135,
+    "wof:lastmodified":1466331408,
     "wof:name":"American College Of Emergency",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.085458,33.523967,-112.085458,33.523967],
+  "bbox": [
+    -112.085458,
+    33.523967,
+    -112.085458,
+    33.523967
+],
   "geometry": {"coordinates":[-112.085458,33.523967],"type":"Point"}
 }

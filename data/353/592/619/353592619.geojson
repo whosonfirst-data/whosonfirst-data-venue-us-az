@@ -2,13 +2,14 @@
   "id": 353592619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.264798,33.508541,-112.264798,33.508541",
     "geom:latitude":33.508541,
     "geom:longitude":-112.264798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9524 W Camelback Rd # C130",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353592619,
-    "wof:lastmodified":1449019717,
+    "wof:lastmodified":1466328409,
     "wof:name":"Arizona Football League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "football"
     ]
 },
-  "bbox": [-112.264798,33.508541,-112.264798,33.508541],
+  "bbox": [
+    -112.264798,
+    33.508541,
+    -112.264798,
+    33.508541
+],
   "geometry": {"coordinates":[-112.264798,33.508541],"type":"Point"}
 }

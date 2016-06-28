@@ -2,13 +2,14 @@
   "id": 353535593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.743533,33.307007,-111.743533,33.307007",
     "geom:latitude":33.307007,
     "geom:longitude":-111.743533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 E Williams Field Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353535593,
-    "wof:lastmodified":1449018708,
+    "wof:lastmodified":1466327969,
     "wof:name":"The Glitter Box",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.743533,33.307007,-111.743533,33.307007],
+  "bbox": [
+    -111.743533,
+    33.307007,
+    -111.743533,
+    33.307007
+],
   "geometry": {"coordinates":[-111.743533,33.307007],"type":"Point"}
 }

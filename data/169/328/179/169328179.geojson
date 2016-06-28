@@ -2,13 +2,14 @@
   "id": 169328179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.218752,33.661677,-112.218752,33.661677",
     "geom:latitude":33.661677,
     "geom:longitude":-112.218752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7384 W Oraibi Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877777,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169328179,
-    "wof:lastmodified":1449034633,
+    "wof:lastmodified":1466333148,
     "wof:name":"Office Of Michael Herzog",
     "wof:parent_id":85877777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.218752,33.661677,-112.218752,33.661677],
-  "geometry": {"coordinates":[-112.218752,33.661677],"type":"Point"}
+  "bbox": [
+    -112.218752,
+    33.661677,
+    -112.218752,
+    33.661677
+],
+  "geometry": {"coordinates":[-112.21875199999999,33.661677],"type":"Point"}
 }

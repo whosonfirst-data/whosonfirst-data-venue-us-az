@@ -2,13 +2,14 @@
   "id": 169358921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.40484,33.659091,-112.40484,33.659091",
     "geom:latitude":33.659091,
     "geom:longitude":-112.40484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19781 N Remington Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169358921,
-    "wof:lastmodified":1449034059,
+    "wof:lastmodified":1466333681,
     "wof:name":"Dillon's Restaurants Catering",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.40484,33.659091,-112.40484,33.659091],
-  "geometry": {"coordinates":[-112.40484,33.659091],"type":"Point"}
+  "bbox": [
+    -112.40484,
+    33.659091,
+    -112.40484,
+    33.659091
+],
+  "geometry": {"coordinates":[-112.40483999999999,33.659091],"type":"Point"}
 }

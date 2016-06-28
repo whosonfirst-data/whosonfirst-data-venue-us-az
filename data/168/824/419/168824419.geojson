@@ -2,13 +2,14 @@
   "id": 168824419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.753662,33.411427,-111.753662,33.411427",
     "geom:latitude":33.411427,
     "geom:longitude":-111.753662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Val Vista Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830265,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85830265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168824419,
-    "wof:lastmodified":1449028028,
+    "wof:lastmodified":1466325808,
     "wof:name":"El Mirage Mobile Home Park",
     "wof:parent_id":85830265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.753662,33.411427,-111.753662,33.411427],
-  "geometry": {"coordinates":[-111.753662,33.411427],"type":"Point"}
+  "bbox": [
+    -111.753662,
+    33.411427,
+    -111.753662,
+    33.411427
+],
+  "geometry": {"coordinates":[-111.75366200000001,33.411427],"type":"Point"}
 }

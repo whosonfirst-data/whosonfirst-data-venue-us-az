@@ -2,13 +2,14 @@
   "id": 336799751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.739742,33.444548,-111.739742,33.444548",
     "geom:latitude":33.444548,
     "geom:longitude":-111.739742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4222 E Mclellan Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336799751,
-    "wof:lastmodified":1448998015,
+    "wof:lastmodified":1466329559,
     "wof:name":"G H Mcculloch Inc",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boilers-repair"
     ]
 },
-  "bbox": [-111.739742,33.444548,-111.739742,33.444548],
-  "geometry": {"coordinates":[-111.739742,33.444548],"type":"Point"}
+  "bbox": [
+    -111.739742,
+    33.444548,
+    -111.739742,
+    33.444548
+],
+  "geometry": {"coordinates":[-111.73974200000001,33.444548],"type":"Point"}
 }

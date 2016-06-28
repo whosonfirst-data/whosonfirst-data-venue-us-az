@@ -2,13 +2,14 @@
   "id": 336631891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050377,33.44836,-112.050377,33.44836",
     "geom:latitude":33.44836,
     "geom:longitude":-112.050377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 E Washington St # 20",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336631891,
-    "wof:lastmodified":1448997279,
+    "wof:lastmodified":1466326580,
     "wof:name":"Dmp Process",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-112.050377,33.44836,-112.050377,33.44836],
+  "bbox": [
+    -112.050377,
+    33.44836,
+    -112.050377,
+    33.44836
+],
   "geometry": {"coordinates":[-112.050377,33.44836],"type":"Point"}
 }

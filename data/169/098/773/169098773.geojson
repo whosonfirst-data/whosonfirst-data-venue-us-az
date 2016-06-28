@@ -2,13 +2,14 @@
   "id": 169098773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.332115,34.497048,-114.332115,34.497048",
     "geom:latitude":34.497048,
     "geom:longitude":-114.332115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2170 Havasupai Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.mountoliveonline.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169098773,
-    "wof:lastmodified":1449035605,
+    "wof:lastmodified":1466330886,
     "wof:name":"Mount Olive Lutheran Church",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.332115,34.497048,-114.332115,34.497048],
+  "bbox": [
+    -114.332115,
+    34.497048,
+    -114.332115,
+    34.497048
+],
   "geometry": {"coordinates":[-114.332115,34.497048],"type":"Point"}
 }

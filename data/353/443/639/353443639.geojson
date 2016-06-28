@@ -2,13 +2,14 @@
   "id": 353443639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.936205,33.389649,-111.936205,33.389649",
     "geom:latitude":33.389649,
     "geom:longitude":-111.936205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E la Jolla Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353443639,
-    "wof:lastmodified":1449020352,
+    "wof:lastmodified":1466326597,
     "wof:name":"Celestial Bead",
     "wof:parent_id":85881431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.936205,33.389649,-111.936205,33.389649],
+  "bbox": [
+    -111.936205,
+    33.389649,
+    -111.936205,
+    33.389649
+],
   "geometry": {"coordinates":[-111.936205,33.389649],"type":"Point"}
 }

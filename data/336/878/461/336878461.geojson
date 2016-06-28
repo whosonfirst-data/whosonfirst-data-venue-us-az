@@ -2,13 +2,14 @@
   "id": 336878461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.823997,33.305302,-111.823997,33.305302",
     "geom:latitude":33.305302,
     "geom:longitude":-111.823997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N McQueen Rd Ofc",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336878461,
-    "wof:lastmodified":1448997516,
+    "wof:lastmodified":1466330405,
     "wof:name":"Colonia Del Rey",
     "wof:parent_id":85852033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-111.823997,33.305302,-111.823997,33.305302],
-  "geometry": {"coordinates":[-111.823997,33.305302],"type":"Point"}
+  "bbox": [
+    -111.823997,
+    33.305302,
+    -111.823997,
+    33.305302
+],
+  "geometry": {"coordinates":[-111.82399700000001,33.305302],"type":"Point"}
 }

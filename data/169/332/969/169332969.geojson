@@ -2,13 +2,14 @@
   "id": 169332969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.646057,35.198587,-111.646057,35.198587",
     "geom:latitude":35.198587,
     "geom:longitude":-111.646057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Agassiz St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169332969,
-    "wof:lastmodified":1449034525,
+    "wof:lastmodified":1466333303,
     "wof:name":"Paul Overman Designer Builder",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.646057,35.198587,-111.646057,35.198587],
+  "bbox": [
+    -111.646057,
+    35.198587,
+    -111.646057,
+    35.198587
+],
   "geometry": {"coordinates":[-111.646057,35.198587],"type":"Point"}
 }

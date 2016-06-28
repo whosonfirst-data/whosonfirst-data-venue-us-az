@@ -2,13 +2,14 @@
   "id": 152929319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.96858,32.227152,-110.96858,32.227152",
     "geom:latitude":32.227152,
     "geom:longitude":-110.96858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 N 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.wheatscharf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152929319,
-    "wof:lastmodified":1449046076,
+    "wof:lastmodified":1466325929,
     "wof:name":"Wheat Scharf Associates Inc",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.96858,32.227152,-110.96858,32.227152],
+  "bbox": [
+    -110.96858,
+    32.227152,
+    -110.96858,
+    32.227152
+],
   "geometry": {"coordinates":[-110.96858,32.227152],"type":"Point"}
 }

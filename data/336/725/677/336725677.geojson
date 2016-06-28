@@ -2,13 +2,14 @@
   "id": 336725677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145341,33.632347,-112.145341,33.632347",
     "geom:latitude":33.632347,
     "geom:longitude":-112.145341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 W Paradise Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336725677,
-    "wof:lastmodified":1448997211,
+    "wof:lastmodified":1466328439,
     "wof:name":"Ken Dunn Tax Svc",
     "wof:parent_id":85853607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.145341,33.632347,-112.145341,33.632347],
+  "bbox": [
+    -112.145341,
+    33.632347,
+    -112.145341,
+    33.632347
+],
   "geometry": {"coordinates":[-112.145341,33.632347],"type":"Point"}
 }

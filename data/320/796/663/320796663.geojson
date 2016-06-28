@@ -2,13 +2,14 @@
   "id": 320796663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036596,33.605301,-112.036596,33.605301",
     "geom:latitude":33.605301,
     "geom:longitude":-112.036596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13026 N Cave Creek Rd # 204",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320796663,
-    "wof:lastmodified":1449013021,
+    "wof:lastmodified":1466329759,
     "wof:name":"Servicemaster",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.036596,33.605301,-112.036596,33.605301],
+  "bbox": [
+    -112.036596,
+    33.605301,
+    -112.036596,
+    33.605301
+],
   "geometry": {"coordinates":[-112.036596,33.605301],"type":"Point"}
 }

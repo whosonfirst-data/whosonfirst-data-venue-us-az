@@ -2,13 +2,14 @@
   "id": 353658919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341057,33.510296,-112.341057,33.510296",
     "geom:latitude":33.510296,
     "geom:longitude":-112.341057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 N Dysart Rd",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353658919,
-    "wof:lastmodified":1449018199,
+    "wof:lastmodified":1466329283,
     "wof:name":"Chase",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.341057,33.510296,-112.341057,33.510296],
-  "geometry": {"coordinates":[-112.341057,33.510296],"type":"Point"}
+  "bbox": [
+    -112.341057,
+    33.510296,
+    -112.341057,
+    33.510296
+],
+  "geometry": {"coordinates":[-112.34105700000001,33.510296],"type":"Point"}
 }

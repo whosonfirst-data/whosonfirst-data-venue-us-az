@@ -2,13 +2,14 @@
   "id": 169236951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841035,32.220191,-110.841035,32.220191",
     "geom:latitude":32.220191,
     "geom:longitude":-110.841035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169236951,
-    "wof:lastmodified":1449033024,
+    "wof:lastmodified":1466332468,
     "wof:name":"Desert Dove Ceramics Inc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.841035,32.220191,-110.841035,32.220191],
-  "geometry": {"coordinates":[-110.841035,32.220191],"type":"Point"}
+  "bbox": [
+    -110.841035,
+    32.220191,
+    -110.841035,
+    32.220191
+],
+  "geometry": {"coordinates":[-110.84103500000001,32.220191],"type":"Point"}
 }

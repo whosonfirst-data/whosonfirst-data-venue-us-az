@@ -2,13 +2,14 @@
   "id": 353730255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.400782,33.62352,-112.400782,33.62352",
     "geom:latitude":33.62352,
     "geom:longitude":-112.400782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15802 W Caribbean Ln",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353730255,
-    "wof:lastmodified":1449020414,
+    "wof:lastmodified":1466329965,
     "wof:name":"Aliencadillac",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "support"
     ]
 },
-  "bbox": [-112.400782,33.62352,-112.400782,33.62352],
-  "geometry": {"coordinates":[-112.400782,33.62352],"type":"Point"}
+  "bbox": [
+    -112.400782,
+    33.62352,
+    -112.400782,
+    33.62352
+],
+  "geometry": {"coordinates":[-112.40078200000001,33.62352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169062545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.778698,32.219101,-110.778698,32.219101",
     "geom:latitude":32.219101,
     "geom:longitude":-110.778698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 S Palace Gardens Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169062545,
-    "wof:lastmodified":1449035719,
+    "wof:lastmodified":1466329361,
     "wof:name":"J Himbeere Properties LLC",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.778698,32.219101,-110.778698,32.219101],
-  "geometry": {"coordinates":[-110.778698,32.219101],"type":"Point"}
+  "bbox": [
+    -110.778698,
+    32.219101,
+    -110.778698,
+    32.219101
+],
+  "geometry": {"coordinates":[-110.77869800000001,32.219101],"type":"Point"}
 }

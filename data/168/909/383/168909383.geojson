@@ -2,13 +2,14 @@
   "id": 168909383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971525,32.351951,-110.971525,32.351951",
     "geom:latitude":32.351951,
     "geom:longitude":-110.971525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 W Magee Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168909383,
-    "wof:lastmodified":1449028372,
+    "wof:lastmodified":1466329926,
     "wof:name":"Keller Williams Mountains",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971525,32.351951,-110.971525,32.351951],
+  "bbox": [
+    -110.971525,
+    32.351951,
+    -110.971525,
+    32.351951
+],
   "geometry": {"coordinates":[-110.971525,32.351951],"type":"Point"}
 }

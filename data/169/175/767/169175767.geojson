@@ -2,13 +2,14 @@
   "id": 169175767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056369,33.4712,-112.056369,33.4712",
     "geom:latitude":33.4712,
     "geom:longitude":-112.056369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 E Monte Vista Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169175767,
-    "wof:lastmodified":1449034977,
+    "wof:lastmodified":1466332170,
     "wof:name":"Castle & Cooke Az",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.056369,33.4712,-112.056369,33.4712],
+  "bbox": [
+    -112.056369,
+    33.4712,
+    -112.056369,
+    33.4712
+],
   "geometry": {"coordinates":[-112.056369,33.4712],"type":"Point"}
 }

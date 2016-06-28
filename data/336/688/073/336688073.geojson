@@ -2,13 +2,14 @@
   "id": 336688073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.178009,33.431252,-112.178009,33.431252",
     "geom:latitude":33.431252,
     "geom:longitude":-112.178009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 W Mohave St Ste A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336688073,
-    "wof:lastmodified":1448997345,
+    "wof:lastmodified":1466327816,
     "wof:name":"Roads West Transportation",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.178009,33.431252,-112.178009,33.431252],
+  "bbox": [
+    -112.178009,
+    33.431252,
+    -112.178009,
+    33.431252
+],
   "geometry": {"coordinates":[-112.178009,33.431252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152961861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963244,33.415497,-111.963244,33.415497",
     "geom:latitude":33.415497,
     "geom:longitude":-111.963244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 W 12th Pl",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881401,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152961861,
-    "wof:lastmodified":1449048820,
+    "wof:lastmodified":1466328518,
     "wof:name":"Coit Restoration Svc",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.963244,33.415497,-111.963244,33.415497],
+  "bbox": [
+    -111.963244,
+    33.415497,
+    -111.963244,
+    33.415497
+],
   "geometry": {"coordinates":[-111.963244,33.415497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353818069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.806739,32.234952,-110.806739,32.234952",
     "geom:latitude":32.234952,
     "geom:longitude":-110.806739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 N Camino Seco",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353818069,
-    "wof:lastmodified":1449019511,
+    "wof:lastmodified":1466330492,
     "wof:name":"Villa De Paz",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-110.806739,32.234952,-110.806739,32.234952],
-  "geometry": {"coordinates":[-110.806739,32.234952],"type":"Point"}
+  "bbox": [
+    -110.806739,
+    32.234952,
+    -110.806739,
+    32.234952
+],
+  "geometry": {"coordinates":[-110.80673899999999,32.234952],"type":"Point"}
 }

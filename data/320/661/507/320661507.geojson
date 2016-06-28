@@ -2,13 +2,14 @@
   "id": 320661507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.130917,33.455023,-112.130917,33.455023",
     "geom:latitude":33.455023,
     "geom:longitude":-112.130917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 W Fillmore St Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320661507,
-    "wof:lastmodified":1449014560,
+    "wof:lastmodified":1466327304,
     "wof:name":"Fillmore Apartments",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.130917,33.455023,-112.130917,33.455023],
+  "bbox": [
+    -112.130917,
+    33.455023,
+    -112.130917,
+    33.455023
+],
   "geometry": {"coordinates":[-112.130917,33.455023],"type":"Point"}
 }

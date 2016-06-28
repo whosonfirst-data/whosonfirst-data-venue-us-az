@@ -2,13 +2,14 @@
   "id": 168953711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.789786,33.30633,-111.789786,33.30633",
     "geom:latitude":33.30633,
     "geom:longitude":-111.789786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15606 S Gilbert Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876649,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168953711,
-    "wof:lastmodified":1449028298,
+    "wof:lastmodified":1466331119,
     "wof:name":"Hacienda Solano Resort",
     "wof:parent_id":85876649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.789786,33.30633,-111.789786,33.30633],
-  "geometry": {"coordinates":[-111.789786,33.30633],"type":"Point"}
+  "bbox": [
+    -111.789786,
+    33.30633,
+    -111.789786,
+    33.30633
+],
+  "geometry": {"coordinates":[-111.78978600000001,33.30633],"type":"Point"}
 }

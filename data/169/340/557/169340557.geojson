@@ -2,13 +2,14 @@
   "id": 169340557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788626,33.43934,-111.788626,33.43934",
     "geom:latitude":33.43934,
     "geom:longitude":-111.788626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 E Gary St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169340557,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1466333367,
     "wof:name":"Rembrant Tile & Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.788626,33.43934,-111.788626,33.43934],
-  "geometry": {"coordinates":[-111.788626,33.43934],"type":"Point"}
+  "bbox": [
+    -111.788626,
+    33.43934,
+    -111.788626,
+    33.43934
+],
+  "geometry": {"coordinates":[-111.78862599999999,33.43934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353814001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.017228,32.284845,-111.017228,32.284845",
     "geom:latitude":32.284845,
     "geom:longitude":-111.017228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 N Sullinger Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353814001,
-    "wof:lastmodified":1449018714,
+    "wof:lastmodified":1466330367,
     "wof:name":"Rjr Trucking",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucks-industrial"
     ]
 },
-  "bbox": [-111.017228,32.284845,-111.017228,32.284845],
+  "bbox": [
+    -111.017228,
+    32.284845,
+    -111.017228,
+    32.284845
+],
   "geometry": {"coordinates":[-111.017228,32.284845],"type":"Point"}
 }

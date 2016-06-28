@@ -2,13 +2,14 @@
   "id": 168930133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.897028,33.42478,-111.897028,33.42478",
     "geom:latitude":33.42478,
     "geom:longitude":-111.897028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Rockford Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cwa7050.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851911,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168930133,
-    "wof:lastmodified":1449027998,
+    "wof:lastmodified":1466330528,
     "wof:name":"Communications Workers 7050",
     "wof:parent_id":85851911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.897028,33.42478,-111.897028,33.42478],
-  "geometry": {"coordinates":[-111.897028,33.42478],"type":"Point"}
+  "bbox": [
+    -111.897028,
+    33.42478,
+    -111.897028,
+    33.42478
+],
+  "geometry": {"coordinates":[-111.89702800000001,33.42478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152954083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.821494,32.201384,-110.821494,32.201384",
     "geom:latitude":32.201384,
     "geom:longitude":-110.821494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1674 S Research Loop",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152954083,
-    "wof:lastmodified":1449048322,
+    "wof:lastmodified":1466327662,
     "wof:name":"April 15th Tax",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.821494,32.201384,-110.821494,32.201384],
+  "bbox": [
+    -110.821494,
+    32.201384,
+    -110.821494,
+    32.201384
+],
   "geometry": {"coordinates":[-110.821494,32.201384],"type":"Point"}
 }

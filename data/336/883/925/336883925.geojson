@@ -2,13 +2,14 @@
   "id": 336883925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.850363,33.320629,-111.850363,33.320629",
     "geom:latitude":33.320629,
     "geom:longitude":-111.850363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Ray Rd Ste D4",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336883925,
-    "wof:lastmodified":1448997775,
+    "wof:lastmodified":1466330144,
     "wof:name":"Blue Chip Capital Inc",
     "wof:parent_id":85876699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-111.850363,33.320629,-111.850363,33.320629],
+  "bbox": [
+    -111.850363,
+    33.320629,
+    -111.850363,
+    33.320629
+],
   "geometry": {"coordinates":[-111.850363,33.320629],"type":"Point"}
 }

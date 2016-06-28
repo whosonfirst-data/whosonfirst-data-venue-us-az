@@ -2,13 +2,14 @@
   "id": 353844663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.925798,32.509335,-110.925798,32.509335",
     "geom:latitude":32.509335,
     "geom:longitude":-110.925798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16702 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353844663,
-    "wof:lastmodified":1449019337,
+    "wof:lastmodified":1466330609,
     "wof:name":"Air Conditioning US Mount Lemmon",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-110.925798,32.509335,-110.925798,32.509335],
+  "bbox": [
+    -110.925798,
+    32.509335,
+    -110.925798,
+    32.509335
+],
   "geometry": {"coordinates":[-110.925798,32.509335],"type":"Point"}
 }

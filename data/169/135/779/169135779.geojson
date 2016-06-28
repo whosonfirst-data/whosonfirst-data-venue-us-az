@@ -2,13 +2,14 @@
   "id": 169135779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.914745,32.288328,-110.914745,32.288328",
     "geom:latitude":32.288328,
     "geom:longitude":-110.914745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3613 E Pla Lindura",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169135779,
-    "wof:lastmodified":1449033949,
+    "wof:lastmodified":1466331587,
     "wof:name":"Richard S Gottlieb",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.914745,32.288328,-110.914745,32.288328],
+  "bbox": [
+    -110.914745,
+    32.288328,
+    -110.914745,
+    32.288328
+],
   "geometry": {"coordinates":[-110.914745,32.288328],"type":"Point"}
 }

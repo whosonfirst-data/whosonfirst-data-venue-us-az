@@ -2,13 +2,14 @@
   "id": 169079725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.932201,32.285954,-110.932201,32.285954",
     "geom:latitude":32.285954,
     "geom:longitude":-110.932201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4351 N Hacienda del Sol Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169079725,
-    "wof:lastmodified":1449035413,
+    "wof:lastmodified":1466330011,
     "wof:name":"Construction R Us",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.932201,32.285954,-110.932201,32.285954],
-  "geometry": {"coordinates":[-110.932201,32.285954],"type":"Point"}
+  "bbox": [
+    -110.932201,
+    32.285954,
+    -110.932201,
+    32.285954
+],
+  "geometry": {"coordinates":[-110.93220100000001,32.285954],"type":"Point"}
 }

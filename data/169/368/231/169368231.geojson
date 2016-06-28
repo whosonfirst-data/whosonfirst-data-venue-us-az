@@ -2,13 +2,14 @@
   "id": 169368231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.67524,35.235974,-111.67524,35.235974",
     "geom:latitude":35.235974,
     "geom:longitude":-111.67524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3530 W Nicole Ln",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169368231,
-    "wof:lastmodified":1449033450,
+    "wof:lastmodified":1466333690,
     "wof:name":"West Fork Publishing",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.67524,35.235974,-111.67524,35.235974],
+  "bbox": [
+    -111.67524,
+    35.235974,
+    -111.67524,
+    35.235974
+],
   "geometry": {"coordinates":[-111.67524,35.235974],"type":"Point"}
 }

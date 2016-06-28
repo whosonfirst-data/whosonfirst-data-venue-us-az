@@ -2,13 +2,14 @@
   "id": 336659837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003055,33.409161,-112.003055,33.409161",
     "geom:latitude":33.409161,
     "geom:longitude":-112.003055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4246 S 36th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":336659837,
-    "wof:lastmodified":1448997047,
+    "wof:lastmodified":1466327175,
     "wof:name":"The Arizona Stair Company Inc",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "railing"
     ]
 },
-  "bbox": [-112.003055,33.409161,-112.003055,33.409161],
+  "bbox": [
+    -112.003055,
+    33.409161,
+    -112.003055,
+    33.409161
+],
   "geometry": {"coordinates":[-112.003055,33.409161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169249875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.915777,32.168407,-110.915777,32.168407",
     "geom:latitude":32.168407,
     "geom:longitude":-110.915777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 S Butterfield Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169249875,
-    "wof:lastmodified":1449032854,
+    "wof:lastmodified":1466332485,
     "wof:name":"Hughes-Calihan Corporation",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.915777,32.168407,-110.915777,32.168407],
-  "geometry": {"coordinates":[-110.915777,32.168407],"type":"Point"}
+  "bbox": [
+    -110.915777,
+    32.168407,
+    -110.915777,
+    32.168407
+],
+  "geometry": {"coordinates":[-110.91577700000001,32.168407],"type":"Point"}
 }

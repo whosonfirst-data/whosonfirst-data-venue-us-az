@@ -2,13 +2,14 @@
   "id": 153030415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841355,33.569804,-111.841355,33.569804",
     "geom:latitude":33.569804,
     "geom:longitude":-111.841355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11056 E Mission Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880971,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85880971,
         85847455
     ],
     "wof:breaches":[],
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":153030415,
-    "wof:lastmodified":1449040514,
+    "wof:lastmodified":1466325799,
     "wof:name":"Scottsdale Medical Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841355,33.569804,-111.841355,33.569804],
-  "geometry": {"coordinates":[-111.841355,33.569804],"type":"Point"}
+  "bbox": [
+    -111.841355,
+    33.569804,
+    -111.841355,
+    33.569804
+],
+  "geometry": {"coordinates":[-111.84135499999999,33.569804],"type":"Point"}
 }

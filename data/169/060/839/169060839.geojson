@@ -2,13 +2,14 @@
   "id": 169060839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104911,33.393331,-112.104911,33.393331",
     "geom:latitude":33.393331,
     "geom:longitude":-112.104911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 W Chambers St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169060839,
-    "wof:lastmodified":1449035657,
+    "wof:lastmodified":1466328984,
     "wof:name":"Brothers For Life Plumbing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.104911,33.393331,-112.104911,33.393331],
+  "bbox": [
+    -112.104911,
+    33.393331,
+    -112.104911,
+    33.393331
+],
   "geometry": {"coordinates":[-112.104911,33.393331],"type":"Point"}
 }

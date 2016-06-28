@@ -2,13 +2,14 @@
   "id": 353672337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.246507,33.582189,-112.246507,33.582189",
     "geom:latitude":33.582189,
     "geom:longitude":-112.246507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8714 W Becker Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353672337,
-    "wof:lastmodified":1449018424,
+    "wof:lastmodified":1466329390,
     "wof:name":"Salas Masonary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.246507,33.582189,-112.246507,33.582189],
-  "geometry": {"coordinates":[-112.246507,33.582189],"type":"Point"}
+  "bbox": [
+    -112.246507,
+    33.582189,
+    -112.246507,
+    33.582189
+],
+  "geometry": {"coordinates":[-112.24650699999999,33.582189],"type":"Point"}
 }

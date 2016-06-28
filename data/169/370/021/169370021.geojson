@@ -2,13 +2,14 @@
   "id": 169370021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82271,33.455316,-111.82271,33.455316",
     "geom:latitude":33.455316,
     "geom:longitude":-111.82271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Bates St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872451
+        85633793,
+        85872451,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169370021,
-    "wof:lastmodified":1449034495,
+    "wof:lastmodified":1466334040,
     "wof:name":"Roger's Limousine Svc",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.82271,33.455316,-111.82271,33.455316],
+  "bbox": [
+    -111.82271,
+    33.455316,
+    -111.82271,
+    33.455316
+],
   "geometry": {"coordinates":[-111.82271,33.455316],"type":"Point"}
 }

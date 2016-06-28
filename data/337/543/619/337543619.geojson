@@ -2,13 +2,14 @@
   "id": 337543619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.941286,33.475884,-111.941286,33.475884",
     "geom:latitude":33.475884,
     "geom:longitude":-111.941286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2544 N 65th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337543619,
-    "wof:lastmodified":1449027080,
+    "wof:lastmodified":1466326637,
     "wof:name":"C C Glass Beading",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.941286,33.475884,-111.941286,33.475884],
-  "geometry": {"coordinates":[-111.941286,33.475884],"type":"Point"}
+  "bbox": [
+    -111.941286,
+    33.475884,
+    -111.941286,
+    33.475884
+],
+  "geometry": {"coordinates":[-111.94128600000001,33.475884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336824605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.832733,33.407423,-111.832733,33.407423",
     "geom:latitude":33.407423,
     "geom:longitude":-111.832733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 S Drew St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336824605,
-    "wof:lastmodified":1448997309,
+    "wof:lastmodified":1466329807,
     "wof:name":"Damage Control",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "damage"
     ]
 },
-  "bbox": [-111.832733,33.407423,-111.832733,33.407423],
+  "bbox": [
+    -111.832733,
+    33.407423,
+    -111.832733,
+    33.407423
+],
   "geometry": {"coordinates":[-111.832733,33.407423],"type":"Point"}
 }

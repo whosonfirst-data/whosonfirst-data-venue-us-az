@@ -2,13 +2,14 @@
   "id": 153003945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.798511,33.361524,-111.798511,33.361524",
     "geom:latitude":33.361524,
     "geom:longitude":-111.798511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 N Neely St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807177,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85807177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153003945,
-    "wof:lastmodified":1449040789,
+    "wof:lastmodified":1466325766,
     "wof:name":"Models Military",
     "wof:parent_id":85807177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.798511,33.361524,-111.798511,33.361524],
+  "bbox": [
+    -111.798511,
+    33.361524,
+    -111.798511,
+    33.361524
+],
   "geometry": {"coordinates":[-111.798511,33.361524],"type":"Point"}
 }

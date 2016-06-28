@@ -2,13 +2,14 @@
   "id": 153088357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.668263,35.17713,-111.668263,35.17713",
     "geom:latitude":35.17713,
     "geom:longitude":-111.668263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 S Woodlands Village Blvd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153088357,
-    "wof:lastmodified":1449040708,
+    "wof:lastmodified":1466329218,
     "wof:name":"Dogs 4 Vips",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.668263,35.17713,-111.668263,35.17713],
+  "bbox": [
+    -111.668263,
+    35.17713,
+    -111.668263,
+    35.17713
+],
   "geometry": {"coordinates":[-111.668263,35.17713],"type":"Point"}
 }

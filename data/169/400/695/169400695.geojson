@@ -2,13 +2,14 @@
   "id": 169400695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.282042,31.556824,-110.282042,31.556824",
     "geom:latitude":31.556824,
     "geom:longitude":-110.282042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 State Hwy 92",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169400695,
-    "wof:lastmodified":1449032989,
+    "wof:lastmodified":1466333624,
     "wof:name":"Pioneer Paint",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.282042,31.556824,-110.282042,31.556824],
+  "bbox": [
+    -110.282042,
+    31.556824,
+    -110.282042,
+    31.556824
+],
   "geometry": {"coordinates":[-110.282042,31.556824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169249519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.830987,35.404826,-113.830987,35.404826",
     "geom:latitude":35.404826,
     "geom:longitude":-113.830987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9451 E State Rte 66",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169249519,
-    "wof:lastmodified":1449032856,
+    "wof:lastmodified":1466332426,
     "wof:name":"Riccardi's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.830987,35.404826,-113.830987,35.404826],
-  "geometry": {"coordinates":[-113.830987,35.404826],"type":"Point"}
+  "bbox": [
+    -113.830987,
+    35.404826,
+    -113.830987,
+    35.404826
+],
+  "geometry": {"coordinates":[-113.83098699999999,35.404826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169395333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.823079,33.447231,-111.823079,33.447231",
     "geom:latitude":33.447231,
     "geom:longitude":-111.823079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 E Inglewood St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872451
+        85633793,
+        85872451,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169395333,
-    "wof:lastmodified":1449035479,
+    "wof:lastmodified":1466333945,
     "wof:name":"Arrow Indian Contractors Inc",
     "wof:parent_id":85872451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.823079,33.447231,-111.823079,33.447231],
-  "geometry": {"coordinates":[-111.823079,33.447231],"type":"Point"}
+  "bbox": [
+    -111.823079,
+    33.447231,
+    -111.823079,
+    33.447231
+],
+  "geometry": {"coordinates":[-111.82307900000001,33.447231],"type":"Point"}
 }

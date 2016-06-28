@@ -2,13 +2,14 @@
   "id": 168848409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.881676,33.628426,-111.881676,33.628426",
     "geom:latitude":33.628426,
     "geom:longitude":-111.881676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15678 N Frank Lloyd Wright Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168848409,
-    "wof:lastmodified":1449027878,
+    "wof:lastmodified":1466327661,
     "wof:name":"Frazer Chiropractic",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.881676,33.628426,-111.881676,33.628426],
+  "bbox": [
+    -111.881676,
+    33.628426,
+    -111.881676,
+    33.628426
+],
   "geometry": {"coordinates":[-111.881676,33.628426],"type":"Point"}
 }

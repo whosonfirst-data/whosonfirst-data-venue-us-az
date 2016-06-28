@@ -2,13 +2,14 @@
   "id": 169126233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.826545,33.417183,-111.826545,33.417183",
     "geom:latitude":33.417183,
     "geom:longitude":-111.826545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 E 1st St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872459,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169126233,
-    "wof:lastmodified":1449033912,
+    "wof:lastmodified":1466331445,
     "wof:name":"Select Financial Svc",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.826545,33.417183,-111.826545,33.417183],
+  "bbox": [
+    -111.826545,
+    33.417183,
+    -111.826545,
+    33.417183
+],
   "geometry": {"coordinates":[-111.826545,33.417183],"type":"Point"}
 }

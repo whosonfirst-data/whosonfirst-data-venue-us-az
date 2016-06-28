@@ -2,13 +2,14 @@
   "id": 353771709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.33329,33.053879,-109.33329,33.053879",
     "geom:latitude":33.053879,
     "geom:longitude":-109.33329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Burro Aly",
     "sg:city":"Morenci",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353771709,
-    "wof:lastmodified":1449019643,
+    "wof:lastmodified":1466330248,
     "wof:name":"Phelps Dodge Mercantile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.33329,33.053879,-109.33329,33.053879],
-  "geometry": {"coordinates":[-109.33329,33.053879],"type":"Point"}
+  "bbox": [
+    -109.33329,
+    33.053879,
+    -109.33329,
+    33.053879
+],
+  "geometry": {"coordinates":[-109.33329000000001,33.053879],"type":"Point"}
 }

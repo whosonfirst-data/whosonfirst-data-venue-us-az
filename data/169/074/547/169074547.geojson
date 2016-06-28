@@ -2,13 +2,14 @@
   "id": 169074547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039439,33.645131,-112.039439,33.645131",
     "geom:latitude":33.645131,
     "geom:longitude":-112.039439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17417 N 20th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840437,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169074547,
-    "wof:lastmodified":1449034466,
+    "wof:lastmodified":1466330005,
     "wof:name":"Affordable USA Restoration",
     "wof:parent_id":85840437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.039439,33.645131,-112.039439,33.645131],
+  "bbox": [
+    -112.039439,
+    33.645131,
+    -112.039439,
+    33.645131
+],
   "geometry": {"coordinates":[-112.039439,33.645131],"type":"Point"}
 }

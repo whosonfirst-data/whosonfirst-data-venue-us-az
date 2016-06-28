@@ -2,13 +2,14 @@
   "id": 169332177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034315,34.73485,-112.034315,34.73485",
     "geom:latitude":34.73485,
     "geom:longitude":-112.034315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Jennifer Dr",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169332177,
-    "wof:lastmodified":1449034530,
+    "wof:lastmodified":1466333291,
     "wof:name":"Sedona Laboratories LLC",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.034315,34.73485,-112.034315,34.73485],
-  "geometry": {"coordinates":[-112.034315,34.73485],"type":"Point"}
+  "bbox": [
+    -112.034315,
+    34.73485,
+    -112.034315,
+    34.73485
+],
+  "geometry": {"coordinates":[-112.03431500000001,34.73485],"type":"Point"}
 }

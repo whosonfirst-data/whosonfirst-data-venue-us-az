@@ -2,13 +2,14 @@
   "id": 169054679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.384338,35.02698,-114.384338,35.02698",
     "geom:latitude":35.02698,
     "geom:longitude":-114.384338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Main St",
     "sg:city":"Oatman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169054679,
-    "wof:lastmodified":1449034232,
+    "wof:lastmodified":1466328923,
     "wof:name":"Creative Edge Gallery",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.384338,35.02698,-114.384338,35.02698],
+  "bbox": [
+    -114.384338,
+    35.02698,
+    -114.384338,
+    35.02698
+],
   "geometry": {"coordinates":[-114.384338,35.02698],"type":"Point"}
 }

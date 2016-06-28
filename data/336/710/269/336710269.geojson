@@ -2,13 +2,14 @@
   "id": 336710269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013702,33.667033,-112.013702,33.667033",
     "geom:latitude":33.667033,
     "geom:longitude":-112.013702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19802 N 32nd St Lot 58",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336710269,
-    "wof:lastmodified":1448996992,
+    "wof:lastmodified":1466328399,
     "wof:name":"Simko Trucking",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.013702,33.667033,-112.013702,33.667033],
-  "geometry": {"coordinates":[-112.013702,33.667033],"type":"Point"}
+  "bbox": [
+    -112.013702,
+    33.667033,
+    -112.013702,
+    33.667033
+],
+  "geometry": {"coordinates":[-112.01370199999999,33.667033],"type":"Point"}
 }

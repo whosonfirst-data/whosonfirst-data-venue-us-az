@@ -2,13 +2,14 @@
   "id": 169078751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82286,33.393376,-111.82286,33.393376",
     "geom:latitude":33.393376,
     "geom:longitude":-111.82286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 S Mesa Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846607,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85846607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169078751,
-    "wof:lastmodified":1449035448,
+    "wof:lastmodified":1466330021,
     "wof:name":"Arizona Pools & Spa",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.82286,33.393376,-111.82286,33.393376],
-  "geometry": {"coordinates":[-111.82286,33.393376],"type":"Point"}
+  "bbox": [
+    -111.82286,
+    33.393376,
+    -111.82286,
+    33.393376
+],
+  "geometry": {"coordinates":[-111.82286000000001,33.393376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152911481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.066063,31.712265,-110.066063,31.712265",
     "geom:latitude":31.712265,
     "geom:longitude":-110.066063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Allen St",
     "sg:city":"Tombstone",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152911481,
-    "wof:lastmodified":1449048161,
+    "wof:lastmodified":1466325871,
     "wof:name":"Branding Iron",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.066063,31.712265,-110.066063,31.712265],
+  "bbox": [
+    -110.066063,
+    31.712265,
+    -110.066063,
+    31.712265
+],
   "geometry": {"coordinates":[-110.066063,31.712265],"type":"Point"}
 }

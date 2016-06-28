@@ -2,13 +2,14 @@
   "id": 153062761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145558,33.449731,-112.145558,33.449731",
     "geom:latitude":33.449731,
     "geom:longitude":-112.145558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 W Adams St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153062761,
-    "wof:lastmodified":1449040798,
+    "wof:lastmodified":1466327892,
     "wof:name":"Q V Distributors Inc",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.145558,33.449731,-112.145558,33.449731],
-  "geometry": {"coordinates":[-112.145558,33.449731],"type":"Point"}
+  "bbox": [
+    -112.145558,
+    33.449731,
+    -112.145558,
+    33.449731
+],
+  "geometry": {"coordinates":[-112.14555799999999,33.449731],"type":"Point"}
 }

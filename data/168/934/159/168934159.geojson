@@ -2,13 +2,14 @@
   "id": 168934159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996913,33.377996,-111.996913,33.377996",
     "geom:latitude":33.377996,
     "geom:longitude":-111.996913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 E Baseline Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168934159,
-    "wof:lastmodified":1449027808,
+    "wof:lastmodified":1466330644,
     "wof:name":"Go Wireless",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.996913,33.377996,-111.996913,33.377996],
-  "geometry": {"coordinates":[-111.996913,33.377996],"type":"Point"}
+  "bbox": [
+    -111.996913,
+    33.377996,
+    -111.996913,
+    33.377996
+],
+  "geometry": {"coordinates":[-111.99691300000001,33.377996],"type":"Point"}
 }

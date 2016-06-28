@@ -2,13 +2,14 @@
   "id": 353813953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978143,32.288545,-110.978143,32.288545",
     "geom:latitude":32.288545,
     "geom:longitude":-110.978143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4470 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353813953,
-    "wof:lastmodified":1449018919,
+    "wof:lastmodified":1466330365,
     "wof:name":"Robinsons-May",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978143,32.288545,-110.978143,32.288545],
+  "bbox": [
+    -110.978143,
+    32.288545,
+    -110.978143,
+    32.288545
+],
   "geometry": {"coordinates":[-110.978143,32.288545],"type":"Point"}
 }

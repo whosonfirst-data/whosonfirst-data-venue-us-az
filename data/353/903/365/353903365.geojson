@@ -2,13 +2,14 @@
   "id": 353903365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.810882,34.863486,-111.810882,34.863486",
     "geom:latitude":34.863486,
     "geom:longitude":-111.810882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2860 Southwest Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353903365,
-    "wof:lastmodified":1449018406,
+    "wof:lastmodified":1466331045,
     "wof:name":"Station 1",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-111.810882,34.863486,-111.810882,34.863486],
-  "geometry": {"coordinates":[-111.810882,34.863486],"type":"Point"}
+  "bbox": [
+    -111.810882,
+    34.863486,
+    -111.810882,
+    34.863486
+],
+  "geometry": {"coordinates":[-111.81088200000001,34.863486],"type":"Point"}
 }

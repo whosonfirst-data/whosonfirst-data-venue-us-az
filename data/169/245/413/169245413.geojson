@@ -2,13 +2,14 @@
   "id": 169245413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967333,32.199482,-110.967333,32.199482",
     "geom:latitude":32.199482,
     "geom:longitude":-110.967333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 E 29th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169245413,
-    "wof:lastmodified":1449035853,
+    "wof:lastmodified":1466332633,
     "wof:name":"A & F Auto Glass",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.967333,32.199482,-110.967333,32.199482],
+  "bbox": [
+    -110.967333,
+    32.199482,
+    -110.967333,
+    32.199482
+],
   "geometry": {"coordinates":[-110.967333,32.199482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169006133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.959404,32.271697,-110.959404,32.271697",
     "geom:latitude":32.271697,
     "geom:longitude":-110.959404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3546 N Euclid Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169006133,
-    "wof:lastmodified":1449035319,
+    "wof:lastmodified":1466326354,
     "wof:name":"Lynn Goar",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.959404,32.271697,-110.959404,32.271697],
-  "geometry": {"coordinates":[-110.959404,32.271697],"type":"Point"}
+  "bbox": [
+    -110.959404,
+    32.271697,
+    -110.959404,
+    32.271697
+],
+  "geometry": {"coordinates":[-110.95940400000001,32.271697],"type":"Point"}
 }

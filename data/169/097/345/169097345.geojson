@@ -2,13 +2,14 @@
   "id": 169097345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.30639,33.43983,-112.30639,33.43983",
     "geom:latitude":33.43983,
     "geom:longitude":-112.30639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Avondale Blvd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169097345,
-    "wof:lastmodified":1449033981,
+    "wof:lastmodified":1466330858,
     "wof:name":"Planned Development Svc",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.30639,33.43983,-112.30639,33.43983],
-  "geometry": {"coordinates":[-112.30639,33.43983],"type":"Point"}
+  "bbox": [
+    -112.30639,
+    33.43983,
+    -112.30639,
+    33.43983
+],
+  "geometry": {"coordinates":[-112.30638999999999,33.43983],"type":"Point"}
 }

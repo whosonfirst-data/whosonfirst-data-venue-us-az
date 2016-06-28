@@ -2,13 +2,14 @@
   "id": 353913209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.99054,35.255306,-113.99054,35.255306",
     "geom:latitude":35.255306,
     "geom:longitude":-113.99054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 E Neal Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353913209,
-    "wof:lastmodified":1449019250,
+    "wof:lastmodified":1466331159,
     "wof:name":"Fred F Wood",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-113.99054,35.255306,-113.99054,35.255306],
+  "bbox": [
+    -113.99054,
+    35.255306,
+    -113.99054,
+    35.255306
+],
   "geometry": {"coordinates":[-113.99054,35.255306],"type":"Point"}
 }

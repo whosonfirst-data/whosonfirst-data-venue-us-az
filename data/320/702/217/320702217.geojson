@@ -2,13 +2,14 @@
   "id": 320702217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09199,33.480497,-112.09199,33.480497",
     "geom:latitude":33.480497,
     "geom:longitude":-112.09199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1529 W Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320702217,
-    "wof:lastmodified":1449013132,
+    "wof:lastmodified":1466328097,
     "wof:name":"Citywide Insurance",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "resume"
     ]
 },
-  "bbox": [-112.09199,33.480497,-112.09199,33.480497],
+  "bbox": [
+    -112.09199,
+    33.480497,
+    -112.09199,
+    33.480497
+],
   "geometry": {"coordinates":[-112.09199,33.480497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168951805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.990202,32.258253,-110.990202,32.258253",
     "geom:latitude":32.258253,
     "geom:longitude":-110.990202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 N Tuttle Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168951805,
-    "wof:lastmodified":1449027794,
+    "wof:lastmodified":1466331033,
     "wof:name":"Vroom Aerospace",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.990202,32.258253,-110.990202,32.258253],
+  "bbox": [
+    -110.990202,
+    32.258253,
+    -110.990202,
+    32.258253
+],
   "geometry": {"coordinates":[-110.990202,32.258253],"type":"Point"}
 }

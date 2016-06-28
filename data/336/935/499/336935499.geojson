@@ -2,13 +2,14 @@
   "id": 336935499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788322,33.377545,-111.788322,33.377545",
     "geom:latitude":33.377545,
     "geom:longitude":-111.788322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Gilbert Rd Suite 107",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336935499,
-    "wof:lastmodified":1448997841,
+    "wof:lastmodified":1466330716,
     "wof:name":"Edward Jones - Gilbert Financial Advisor - Roger W Seeley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.788322,33.377545,-111.788322,33.377545],
-  "geometry": {"coordinates":[-111.788322,33.377545],"type":"Point"}
+  "bbox": [
+    -111.788322,
+    33.377545,
+    -111.788322,
+    33.377545
+],
+  "geometry": {"coordinates":[-111.78832199999999,33.377545],"type":"Point"}
 }

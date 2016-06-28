@@ -2,13 +2,14 @@
   "id": 152910213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.214492,33.620732,-112.214492,33.620732",
     "geom:latitude":33.620732,
     "geom:longitude":-112.214492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7119 W Country Gables Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877815,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152910213,
-    "wof:lastmodified":1449046242,
+    "wof:lastmodified":1466325807,
     "wof:name":"Adglc Arizona Desert Grn Lnd",
     "wof:parent_id":85877815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.214492,33.620732,-112.214492,33.620732],
-  "geometry": {"coordinates":[-112.214492,33.620732],"type":"Point"}
+  "bbox": [
+    -112.214492,
+    33.620732,
+    -112.214492,
+    33.620732
+],
+  "geometry": {"coordinates":[-112.21449200000001,33.620732],"type":"Point"}
 }

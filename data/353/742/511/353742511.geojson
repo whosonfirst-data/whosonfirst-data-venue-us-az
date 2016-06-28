@@ -2,13 +2,14 @@
   "id": 353742511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.256443,33.737076,-112.256443,33.737076",
     "geom:latitude":33.737076,
     "geom:longitude":-112.256443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22015 N 91st Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353742511,
-    "wof:lastmodified":1449018427,
+    "wof:lastmodified":1466329944,
     "wof:name":"Pacific Air Conditioning & Heating",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.256443,33.737076,-112.256443,33.737076],
+  "bbox": [
+    -112.256443,
+    33.737076,
+    -112.256443,
+    33.737076
+],
   "geometry": {"coordinates":[-112.256443,33.737076],"type":"Point"}
 }

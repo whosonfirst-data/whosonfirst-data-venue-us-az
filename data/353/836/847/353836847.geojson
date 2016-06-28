@@ -2,13 +2,14 @@
   "id": 353836847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.94091,32.217157,-110.94091,32.217157",
     "geom:latitude":32.217157,
     "geom:longitude":-110.94091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 S Olsen Ave Ste B",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":353836847,
-    "wof:lastmodified":1449019925,
+    "wof:lastmodified":1466330503,
     "wof:name":"Technical Building Svc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-110.94091,32.217157,-110.94091,32.217157],
+  "bbox": [
+    -110.94091,
+    32.217157,
+    -110.94091,
+    32.217157
+],
   "geometry": {"coordinates":[-110.94091,32.217157],"type":"Point"}
 }

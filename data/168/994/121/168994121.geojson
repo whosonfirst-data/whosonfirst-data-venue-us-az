@@ -2,13 +2,14 @@
   "id": 168994121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001454,33.418133,-112.001454,33.418133",
     "geom:latitude":33.418133,
     "geom:longitude":-112.001454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3631 E Miami Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168994121,
-    "wof:lastmodified":1449027806,
+    "wof:lastmodified":1466331529,
     "wof:name":"Copperstate Curb Form Rental",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.001454,33.418133,-112.001454,33.418133],
+  "bbox": [
+    -112.001454,
+    33.418133,
+    -112.001454,
+    33.418133
+],
   "geometry": {"coordinates":[-112.001454,33.418133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353737181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.235558,33.635368,-112.235558,33.635368",
     "geom:latitude":33.635368,
     "geom:longitude":-112.235558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16150 N Arrowhead Fountains Ctr Dr #100",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353737181,
-    "wof:lastmodified":1449018832,
+    "wof:lastmodified":1466330018,
     "wof:name":"J S Smith Mortgage",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-112.235558,33.635368,-112.235558,33.635368],
+  "bbox": [
+    -112.235558,
+    33.635368,
+    -112.235558,
+    33.635368
+],
   "geometry": {"coordinates":[-112.235558,33.635368],"type":"Point"}
 }

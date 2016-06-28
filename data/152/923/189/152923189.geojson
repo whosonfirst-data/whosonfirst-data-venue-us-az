@@ -2,13 +2,14 @@
   "id": 152923189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906638,33.376524,-111.906638,33.376524",
     "geom:latitude":33.376524,
     "geom:longitude":-111.906638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 E Harvard Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852061,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85852061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152923189,
-    "wof:lastmodified":1449048762,
+    "wof:lastmodified":1466327448,
     "wof:name":"O F Excavating Inc",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906638,33.376524,-111.906638,33.376524],
+  "bbox": [
+    -111.906638,
+    33.376524,
+    -111.906638,
+    33.376524
+],
   "geometry": {"coordinates":[-111.906638,33.376524],"type":"Point"}
 }

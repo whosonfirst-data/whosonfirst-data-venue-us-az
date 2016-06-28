@@ -2,13 +2,14 @@
   "id": 169056257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.942785,33.429143,-111.942785,33.429143",
     "geom:latitude":33.429143,
     "geom:longitude":-111.942785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Ash Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.tostitosfiestabowl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881395,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169056257,
-    "wof:lastmodified":1449033628,
+    "wof:lastmodified":1466328802,
     "wof:name":"Fiesta Bowl",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.942785,33.429143,-111.942785,33.429143],
+  "bbox": [
+    -111.942785,
+    33.429143,
+    -111.942785,
+    33.429143
+],
   "geometry": {"coordinates":[-111.942785,33.429143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169176341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.877685,32.243446,-110.877685,32.243446",
     "geom:latitude":32.243446,
     "geom:longitude":-110.877685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169176341,
-    "wof:lastmodified":1449034843,
+    "wof:lastmodified":1466331972,
     "wof:name":"Baggins Admin Office",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.877685,32.243446,-110.877685,32.243446],
+  "bbox": [
+    -110.877685,
+    32.243446,
+    -110.877685,
+    32.243446
+],
   "geometry": {"coordinates":[-110.877685,32.243446],"type":"Point"}
 }

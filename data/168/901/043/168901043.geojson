@@ -2,13 +2,14 @@
   "id": 168901043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.624668,32.723858,-114.624668,32.723858",
     "geom:latitude":32.723858,
     "geom:longitude":-114.624668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 S 4th Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168901043,
-    "wof:lastmodified":1449028098,
+    "wof:lastmodified":1466329655,
     "wof:name":"Rickys Furniture",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.624668,32.723858,-114.624668,32.723858],
+  "bbox": [
+    -114.624668,
+    32.723858,
+    -114.624668,
+    32.723858
+],
   "geometry": {"coordinates":[-114.624668,32.723858],"type":"Point"}
 }

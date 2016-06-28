@@ -2,13 +2,14 @@
   "id": 169305769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075036,33.452623,-112.075036,33.452623",
     "geom:latitude":33.452623,
     "geom:longitude":-112.075036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 N 1st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169305769,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1466333072,
     "wof:name":"Adult Parole Administration",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.075036,33.452623,-112.075036,33.452623],
+  "bbox": [
+    -112.075036,
+    33.452623,
+    -112.075036,
+    33.452623
+],
   "geometry": {"coordinates":[-112.075036,33.452623],"type":"Point"}
 }

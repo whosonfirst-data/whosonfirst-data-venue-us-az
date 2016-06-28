@@ -2,13 +2,14 @@
   "id": 168839913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008008,33.582477,-112.008008,33.582477",
     "geom:latitude":33.582477,
     "geom:longitude":-112.008008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 E Shea Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gergen.homestead.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168839913,
-    "wof:lastmodified":1449028248,
+    "wof:lastmodified":1466327081,
     "wof:name":"Gergen's Orthodontic Lab",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.008008,33.582477,-112.008008,33.582477],
+  "bbox": [
+    -112.008008,
+    33.582477,
+    -112.008008,
+    33.582477
+],
   "geometry": {"coordinates":[-112.008008,33.582477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336676495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.05889,33.375568,-112.05889,33.375568",
     "geom:latitude":33.375568,
     "geom:longitude":-112.05889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 E Beautiful Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336676495,
-    "wof:lastmodified":1448997618,
+    "wof:lastmodified":1466327596,
     "wof:name":"Katherine Jestila",
     "wof:parent_id":85828931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-112.05889,33.375568,-112.05889,33.375568],
-  "geometry": {"coordinates":[-112.05889,33.375568],"type":"Point"}
+  "bbox": [
+    -112.05889,
+    33.375568,
+    -112.05889,
+    33.375568
+],
+  "geometry": {"coordinates":[-112.05889000000001,33.375568],"type":"Point"}
 }

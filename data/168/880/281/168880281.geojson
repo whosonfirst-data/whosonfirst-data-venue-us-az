@@ -2,13 +2,14 @@
   "id": 168880281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.200165,33.665695,-112.200165,33.665695",
     "geom:latitude":33.665695,
     "geom:longitude":-112.200165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19918 N 65th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168880281,
-    "wof:lastmodified":1449028593,
+    "wof:lastmodified":1466328253,
     "wof:name":"Home Of Loving Hands",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.200165,33.665695,-112.200165,33.665695],
+  "bbox": [
+    -112.200165,
+    33.665695,
+    -112.200165,
+    33.665695
+],
   "geometry": {"coordinates":[-112.200165,33.665695],"type":"Point"}
 }

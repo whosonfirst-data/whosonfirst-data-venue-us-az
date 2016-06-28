@@ -2,13 +2,14 @@
   "id": 168840573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.321241,33.609019,-112.321241,33.609019",
     "geom:latitude":33.609019,
     "geom:longitude":-112.321241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12102 W Thunderbird Rd",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168840573,
-    "wof:lastmodified":1449028400,
+    "wof:lastmodified":1466327161,
     "wof:name":"H & D Barber & Hair Salon",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.321241,33.609019,-112.321241,33.609019],
+  "bbox": [
+    -112.321241,
+    33.609019,
+    -112.321241,
+    33.609019
+],
   "geometry": {"coordinates":[-112.321241,33.609019],"type":"Point"}
 }

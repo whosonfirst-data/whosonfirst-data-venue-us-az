@@ -2,13 +2,14 @@
   "id": 336722945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.14804,33.562638,-112.14804,33.562638",
     "geom:latitude":33.562638,
     "geom:longitude":-112.14804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8616 N 41st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336722945,
-    "wof:lastmodified":1448997304,
+    "wof:lastmodified":1466328382,
     "wof:name":"Rausch Electric",
     "wof:parent_id":85877825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-112.14804,33.562638,-112.14804,33.562638],
-  "geometry": {"coordinates":[-112.14804,33.562638],"type":"Point"}
+  "bbox": [
+    -112.14804,
+    33.562638,
+    -112.14804,
+    33.562638
+],
+  "geometry": {"coordinates":[-112.14803999999999,33.562638],"type":"Point"}
 }

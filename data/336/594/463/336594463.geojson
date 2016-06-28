@@ -2,13 +2,14 @@
   "id": 336594463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022091,33.62557,-112.022091,33.62557",
     "geom:latitude":33.62557,
     "geom:longitude":-112.022091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15226 N 28th St Apt 4",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336594463,
-    "wof:lastmodified":1448997094,
+    "wof:lastmodified":1466325863,
     "wof:name":"Arizona Wildfire Protection Corp.",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "forester"
     ]
 },
-  "bbox": [-112.022091,33.62557,-112.022091,33.62557],
+  "bbox": [
+    -112.022091,
+    33.62557,
+    -112.022091,
+    33.62557
+],
   "geometry": {"coordinates":[-112.022091,33.62557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337458041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870161,33.434609,-111.870161,33.434609",
     "geom:latitude":33.434609,
     "geom:longitude":-111.870161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 W Riverview Auto Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337458041,
-    "wof:lastmodified":1449027526,
+    "wof:lastmodified":1466325969,
     "wof:name":"Riverview Scion",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.870161,33.434609,-111.870161,33.434609],
+  "bbox": [
+    -111.870161,
+    33.434609,
+    -111.870161,
+    33.434609
+],
   "geometry": {"coordinates":[-111.870161,33.434609],"type":"Point"}
 }

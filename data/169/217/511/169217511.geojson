@@ -2,13 +2,14 @@
   "id": 169217511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.794735,32.235383,-110.794735,32.235383",
     "geom:latitude":32.235383,
     "geom:longitude":-110.794735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9350 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169217511,
-    "wof:lastmodified":1449035761,
+    "wof:lastmodified":1466332226,
     "wof:name":"Campagne Tile",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.794735,32.235383,-110.794735,32.235383],
+  "bbox": [
+    -110.794735,
+    32.235383,
+    -110.794735,
+    32.235383
+],
   "geometry": {"coordinates":[-110.794735,32.235383],"type":"Point"}
 }

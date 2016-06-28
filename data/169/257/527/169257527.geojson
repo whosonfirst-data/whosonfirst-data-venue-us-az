@@ -2,13 +2,14 @@
   "id": 169257527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870555,33.423407,-111.870555,33.423407",
     "geom:latitude":33.423407,
     "geom:longitude":-111.870555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 N Cholla",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85872455
+        85633793,
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169257527,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1466332550,
     "wof:name":"Paul Hawkins AC & Htg",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.870555,33.423407,-111.870555,33.423407],
+  "bbox": [
+    -111.870555,
+    33.423407,
+    -111.870555,
+    33.423407
+],
   "geometry": {"coordinates":[-111.870555,33.423407],"type":"Point"}
 }

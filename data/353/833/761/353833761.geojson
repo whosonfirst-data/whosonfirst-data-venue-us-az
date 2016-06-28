@@ -2,13 +2,14 @@
   "id": 353833761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929774,32.321125,-110.929774,32.321125",
     "geom:latitude":32.321125,
     "geom:longitude":-110.929774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6340 N Campbell Ave Ste 256",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353833761,
-    "wof:lastmodified":1449018579,
+    "wof:lastmodified":1466330495,
     "wof:name":"Skyline Pediatrics",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-110.929774,32.321125,-110.929774,32.321125],
-  "geometry": {"coordinates":[-110.929774,32.321125],"type":"Point"}
+  "bbox": [
+    -110.929774,
+    32.321125,
+    -110.929774,
+    32.321125
+],
+  "geometry": {"coordinates":[-110.92977399999999,32.321125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337588625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909199,33.6284,-111.909199,33.6284",
     "geom:latitude":33.6284,
     "geom:longitude":-111.909199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8014 E Mcclain Dr Suite 210",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337588625,
-    "wof:lastmodified":1449027589,
+    "wof:lastmodified":1466327014,
     "wof:name":"PrimeJet",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-111.909199,33.6284,-111.909199,33.6284],
+  "bbox": [
+    -111.909199,
+    33.6284,
+    -111.909199,
+    33.6284
+],
   "geometry": {"coordinates":[-111.909199,33.6284],"type":"Point"}
 }

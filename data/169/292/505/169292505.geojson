@@ -2,13 +2,14 @@
   "id": 169292505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041631,33.465683,-112.041631,33.465683",
     "geom:latitude":33.465683,
     "geom:longitude":-112.041631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169292505,
-    "wof:lastmodified":1449032955,
+    "wof:lastmodified":1466332932,
     "wof:name":"Checker Auto Parts 154",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.041631,33.465683,-112.041631,33.465683],
+  "bbox": [
+    -112.041631,
+    33.465683,
+    -112.041631,
+    33.465683
+],
   "geometry": {"coordinates":[-112.041631,33.465683],"type":"Point"}
 }

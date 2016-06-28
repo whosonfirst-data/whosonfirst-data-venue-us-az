@@ -2,13 +2,14 @@
   "id": 336790441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.764434,33.398767,-111.764434,33.398767",
     "geom:latitude":33.398767,
     "geom:longitude":-111.764434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 E El Moro Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336790441,
-    "wof:lastmodified":1448997783,
+    "wof:lastmodified":1466329481,
     "wof:name":"Lonestar Consulting & Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-111.764434,33.398767,-111.764434,33.398767],
-  "geometry": {"coordinates":[-111.764434,33.398767],"type":"Point"}
+  "bbox": [
+    -111.764434,
+    33.398767,
+    -111.764434,
+    33.398767
+],
+  "geometry": {"coordinates":[-111.76443399999999,33.398767],"type":"Point"}
 }

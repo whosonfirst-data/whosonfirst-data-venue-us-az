@@ -2,13 +2,14 @@
   "id": 169134411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906554,33.345592,-111.906554,33.345592",
     "geom:latitude":33.345592,
     "geom:longitude":-111.906554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 E Secretariat Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85851913
+        85633793,
+        85851913,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169134411,
-    "wof:lastmodified":1449035774,
+    "wof:lastmodified":1466331656,
     "wof:name":"Soaring Solutions Cmpt Tech",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906554,33.345592,-111.906554,33.345592],
+  "bbox": [
+    -111.906554,
+    33.345592,
+    -111.906554,
+    33.345592
+],
   "geometry": {"coordinates":[-111.906554,33.345592],"type":"Point"}
 }

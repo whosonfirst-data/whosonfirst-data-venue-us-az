@@ -2,13 +2,14 @@
   "id": 168998365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825527,33.296158,-111.825527,33.296158",
     "geom:latitude":33.296158,
     "geom:longitude":-111.825527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 E Glenmere Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852033,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85852033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168998365,
-    "wof:lastmodified":1449028005,
+    "wof:lastmodified":1466331665,
     "wof:name":"Selectively Yours",
     "wof:parent_id":85852033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.825527,33.296158,-111.825527,33.296158],
-  "geometry": {"coordinates":[-111.825527,33.296158],"type":"Point"}
+  "bbox": [
+    -111.825527,
+    33.296158,
+    -111.825527,
+    33.296158
+],
+  "geometry": {"coordinates":[-111.82552699999999,33.296158],"type":"Point"}
 }

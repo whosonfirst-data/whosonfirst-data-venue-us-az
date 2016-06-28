@@ -2,13 +2,14 @@
   "id": 168870529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.826057,32.221049,-110.826057,32.221049",
     "geom:latitude":32.221049,
     "geom:longitude":-110.826057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7865 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168870529,
-    "wof:lastmodified":1449027965,
+    "wof:lastmodified":1466327499,
     "wof:name":"Caffe Diva Fine Coffee",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.826057,32.221049,-110.826057,32.221049],
-  "geometry": {"coordinates":[-110.826057,32.221049],"type":"Point"}
+  "bbox": [
+    -110.826057,
+    32.221049,
+    -110.826057,
+    32.221049
+],
+  "geometry": {"coordinates":[-110.82605700000001,32.221049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353883129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.142327,34.92374,-110.142327,34.92374",
     "geom:latitude":34.92374,
     "geom:longitude":-110.142327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Hermosa Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353883129,
-    "wof:lastmodified":1449020217,
+    "wof:lastmodified":1466330990,
     "wof:name":"Kingdom Hall Of Jehovahs Witnesses",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "denomination"
     ]
 },
-  "bbox": [-110.142327,34.92374,-110.142327,34.92374],
-  "geometry": {"coordinates":[-110.142327,34.92374],"type":"Point"}
+  "bbox": [
+    -110.142327,
+    34.92374,
+    -110.142327,
+    34.92374
+],
+  "geometry": {"coordinates":[-110.14232699999999,34.92374],"type":"Point"}
 }

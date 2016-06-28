@@ -2,13 +2,14 @@
   "id": 168976967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956329,32.134162,-110.956329,32.134162",
     "geom:latitude":32.134162,
     "geom:longitude":-110.956329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6402 S Park Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168976967,
-    "wof:lastmodified":1449028093,
+    "wof:lastmodified":1466331408,
     "wof:name":"Holsum Bakery Outlet Stores",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956329,32.134162,-110.956329,32.134162],
+  "bbox": [
+    -110.956329,
+    32.134162,
+    -110.956329,
+    32.134162
+],
   "geometry": {"coordinates":[-110.956329,32.134162],"type":"Point"}
 }

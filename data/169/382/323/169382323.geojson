@@ -2,13 +2,14 @@
   "id": 169382323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.866347,33.401392,-110.866347,33.401392",
     "geom:latitude":33.401392,
     "geom:longitude":-110.866347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Live Oak St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169382323,
-    "wof:lastmodified":1449033562,
+    "wof:lastmodified":1466333825,
     "wof:name":"Miami Liquors",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.866347,33.401392,-110.866347,33.401392],
+  "bbox": [
+    -110.866347,
+    33.401392,
+    -110.866347,
+    33.401392
+],
   "geometry": {"coordinates":[-110.866347,33.401392],"type":"Point"}
 }

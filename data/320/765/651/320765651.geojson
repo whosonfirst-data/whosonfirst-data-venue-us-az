@@ -2,13 +2,14 @@
   "id": 320765651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.135585,33.502163,-112.135585,33.502163",
     "geom:latitude":33.502163,
     "geom:longitude":-112.135585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 W Campbell Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320765651,
-    "wof:lastmodified":1449013416,
+    "wof:lastmodified":1466329165,
     "wof:name":"Precision Speed Instruments",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gauge"
     ]
 },
-  "bbox": [-112.135585,33.502163,-112.135585,33.502163],
-  "geometry": {"coordinates":[-112.135585,33.502163],"type":"Point"}
+  "bbox": [
+    -112.135585,
+    33.502163,
+    -112.135585,
+    33.502163
+],
+  "geometry": {"coordinates":[-112.13558500000001,33.502163],"type":"Point"}
 }

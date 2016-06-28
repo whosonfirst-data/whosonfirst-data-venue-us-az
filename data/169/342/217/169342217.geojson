@@ -2,13 +2,14 @@
   "id": 169342217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.761576,32.231299,-110.761576,32.231299",
     "geom:latitude":32.231299,
     "geom:longitude":-110.761576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N Western Ridge Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169342217,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1466333395,
     "wof:name":"Catnaps LLC",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.761576,32.231299,-110.761576,32.231299],
-  "geometry": {"coordinates":[-110.761576,32.231299],"type":"Point"}
+  "bbox": [
+    -110.761576,
+    32.231299,
+    -110.761576,
+    32.231299
+],
+  "geometry": {"coordinates":[-110.76157600000001,32.231299],"type":"Point"}
 }

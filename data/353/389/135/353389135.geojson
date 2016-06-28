@@ -2,13 +2,14 @@
   "id": 353389135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.940001,33.41899,-111.940001,33.41899",
     "geom:latitude":33.41899,
     "geom:longitude":-111.940001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S Mill Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353389135,
-    "wof:lastmodified":1449020307,
+    "wof:lastmodified":1466326175,
     "wof:name":"Domenic's Cycling",
     "wof:parent_id":85881413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-111.940001,33.41899,-111.940001,33.41899],
+  "bbox": [
+    -111.940001,
+    33.41899,
+    -111.940001,
+    33.41899
+],
   "geometry": {"coordinates":[-111.940001,33.41899],"type":"Point"}
 }

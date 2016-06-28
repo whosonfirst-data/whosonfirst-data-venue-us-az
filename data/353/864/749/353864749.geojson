@@ -2,13 +2,14 @@
   "id": 353864749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.976724,34.15203,-109.976724,34.15203",
     "geom:latitude":34.15203,
     "geom:longitude":-109.976724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 N Niels Hansen Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353864749,
-    "wof:lastmodified":1449020834,
+    "wof:lastmodified":1466330898,
     "wof:name":"Fairview Apartments",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-109.976724,34.15203,-109.976724,34.15203],
+  "bbox": [
+    -109.976724,
+    34.15203,
+    -109.976724,
+    34.15203
+],
   "geometry": {"coordinates":[-109.976724,34.15203],"type":"Point"}
 }

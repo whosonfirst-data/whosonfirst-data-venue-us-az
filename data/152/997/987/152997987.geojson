@@ -2,13 +2,14 @@
   "id": 152997987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909878,32.228815,-110.909878,32.228815",
     "geom:latitude":32.228815,
     "geom:longitude":-110.909878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152997987,
-    "wof:lastmodified":1449048094,
+    "wof:lastmodified":1466329988,
     "wof:name":"Laurie M Munirih DC",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909878,32.228815,-110.909878,32.228815],
-  "geometry": {"coordinates":[-110.909878,32.228815],"type":"Point"}
+  "bbox": [
+    -110.909878,
+    32.228815,
+    -110.909878,
+    32.228815
+],
+  "geometry": {"coordinates":[-110.90987800000001,32.228815],"type":"Point"}
 }

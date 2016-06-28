@@ -2,13 +2,14 @@
   "id": 168970327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909105,33.404658,-111.909105,33.404658",
     "geom:latitude":33.404658,
     "geom:longitude":-111.909105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S McClintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881417,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168970327,
-    "wof:lastmodified":1449028571,
+    "wof:lastmodified":1466331251,
     "wof:name":"All Pro Eyeglass Repair",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909105,33.404658,-111.909105,33.404658],
+  "bbox": [
+    -111.909105,
+    33.404658,
+    -111.909105,
+    33.404658
+],
   "geometry": {"coordinates":[-111.909105,33.404658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169222107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.782274,32.2342,-110.782274,32.2342",
     "geom:latitude":32.2342,
     "geom:longitude":-110.782274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9804 2nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169222107,
-    "wof:lastmodified":1449034897,
+    "wof:lastmodified":1466332270,
     "wof:name":"Made To Be Worn Jewelry",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.782274,32.2342,-110.782274,32.2342],
+  "bbox": [
+    -110.782274,
+    32.2342,
+    -110.782274,
+    32.2342
+],
   "geometry": {"coordinates":[-110.782274,32.2342],"type":"Point"}
 }

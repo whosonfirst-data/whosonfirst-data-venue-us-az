@@ -2,13 +2,14 @@
   "id": 336617363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.206369,33.494903,-112.206369,33.494903",
     "geom:latitude":33.494903,
     "geom:longitude":-112.206369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6850 W Indian School Road",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336617363,
-    "wof:lastmodified":1448996949,
+    "wof:lastmodified":1466326282,
     "wof:name":"Fitness West",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.206369,33.494903,-112.206369,33.494903],
+  "bbox": [
+    -112.206369,
+    33.494903,
+    -112.206369,
+    33.494903
+],
   "geometry": {"coordinates":[-112.206369,33.494903],"type":"Point"}
 }

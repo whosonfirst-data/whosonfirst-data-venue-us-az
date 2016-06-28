@@ -2,13 +2,14 @@
   "id": 168870921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.198447,33.640835,-112.198447,33.640835",
     "geom:latitude":33.640835,
     "geom:longitude":-112.198447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17315 N 64th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168870921,
-    "wof:lastmodified":1449027965,
+    "wof:lastmodified":1466327534,
     "wof:name":"WJS Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.198447,33.640835,-112.198447,33.640835],
+  "bbox": [
+    -112.198447,
+    33.640835,
+    -112.198447,
+    33.640835
+],
   "geometry": {"coordinates":[-112.198447,33.640835],"type":"Point"}
 }

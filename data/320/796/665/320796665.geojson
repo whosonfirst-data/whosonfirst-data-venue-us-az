@@ -2,13 +2,14 @@
   "id": 320796665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065399,33.615972,-112.065399,33.615972",
     "geom:latitude":33.615972,
     "geom:longitude":-112.065399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14231 N 7th St # A2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320796665,
-    "wof:lastmodified":1449013018,
+    "wof:lastmodified":1466329625,
     "wof:name":"Valley Integrative Physicians",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.065399,33.615972,-112.065399,33.615972],
+  "bbox": [
+    -112.065399,
+    33.615972,
+    -112.065399,
+    33.615972
+],
   "geometry": {"coordinates":[-112.065399,33.615972],"type":"Point"}
 }

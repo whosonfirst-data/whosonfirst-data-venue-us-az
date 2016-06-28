@@ -2,13 +2,14 @@
   "id": 320820933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.097263,33.666896,-112.097263,33.666896",
     "geom:latitude":33.666896,
     "geom:longitude":-112.097263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 W Wahalla Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320820933,
-    "wof:lastmodified":1449013187,
+    "wof:lastmodified":1466329996,
     "wof:name":"Valley Fire Equipment Company",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment-repairing"
     ]
 },
-  "bbox": [-112.097263,33.666896,-112.097263,33.666896],
+  "bbox": [
+    -112.097263,
+    33.666896,
+    -112.097263,
+    33.666896
+],
   "geometry": {"coordinates":[-112.097263,33.666896],"type":"Point"}
 }

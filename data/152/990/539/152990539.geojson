@@ -2,13 +2,14 @@
   "id": 152990539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.336378,34.484289,-114.336378,34.484289",
     "geom:latitude":34.484289,
     "geom:longitude":-114.336378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 Wallapai Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152990539,
-    "wof:lastmodified":1449047394,
+    "wof:lastmodified":1466329536,
     "wof:name":"Al Owen's Appliance Svc",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.336378,34.484289,-114.336378,34.484289],
+  "bbox": [
+    -114.336378,
+    34.484289,
+    -114.336378,
+    34.484289
+],
   "geometry": {"coordinates":[-114.336378,34.484289],"type":"Point"}
 }

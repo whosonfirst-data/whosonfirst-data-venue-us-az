@@ -2,13 +2,14 @@
   "id": 168825335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.192879,33.586088,-112.192879,33.586088",
     "geom:latitude":33.586088,
     "geom:longitude":-112.192879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 W Mescal St",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843371,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85843371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168825335,
-    "wof:lastmodified":1449027791,
+    "wof:lastmodified":1466325811,
     "wof:name":"Truck Signz Inc",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.192879,33.586088,-112.192879,33.586088],
+  "bbox": [
+    -112.192879,
+    33.586088,
+    -112.192879,
+    33.586088
+],
   "geometry": {"coordinates":[-112.192879,33.586088],"type":"Point"}
 }

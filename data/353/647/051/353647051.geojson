@@ -2,13 +2,14 @@
   "id": 353647051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341158,33.453522,-112.341158,33.453522",
     "geom:latitude":33.453522,
     "geom:longitude":-112.341158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 N Dysart Rd Ste A1",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353647051,
-    "wof:lastmodified":1449019469,
+    "wof:lastmodified":1466329357,
     "wof:name":"Einstein Bagels",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.341158,33.453522,-112.341158,33.453522],
-  "geometry": {"coordinates":[-112.341158,33.453522],"type":"Point"}
+  "bbox": [
+    -112.341158,
+    33.453522,
+    -112.341158,
+    33.453522
+],
+  "geometry": {"coordinates":[-112.34115799999999,33.453522],"type":"Point"}
 }

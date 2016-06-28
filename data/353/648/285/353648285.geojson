@@ -2,13 +2,14 @@
   "id": 353648285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341177,33.450619,-112.341177,33.450619",
     "geom:latitude":33.450619,
     "geom:longitude":-112.341177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Dysart Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353648285,
-    "wof:lastmodified":1449018963,
+    "wof:lastmodified":1466329127,
     "wof:name":"Golden Corral Restaurants",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-112.341177,33.450619,-112.341177,33.450619],
+  "bbox": [
+    -112.341177,
+    33.450619,
+    -112.341177,
+    33.450619
+],
   "geometry": {"coordinates":[-112.341177,33.450619],"type":"Point"}
 }

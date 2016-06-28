@@ -2,13 +2,14 @@
   "id": 169125191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.192479,33.473276,-112.192479,33.473276",
     "geom:latitude":33.473276,
     "geom:longitude":-112.192479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6180 W Encanto Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169125191,
-    "wof:lastmodified":1449035849,
+    "wof:lastmodified":1466331603,
     "wof:name":"Phoenix Police Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.192479,33.473276,-112.192479,33.473276],
-  "geometry": {"coordinates":[-112.192479,33.473276],"type":"Point"}
+  "bbox": [
+    -112.192479,
+    33.473276,
+    -112.192479,
+    33.473276
+],
+  "geometry": {"coordinates":[-112.19247900000001,33.473276],"type":"Point"}
 }

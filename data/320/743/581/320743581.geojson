@@ -2,13 +2,14 @@
   "id": 320743581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114128,33.52409,-112.114128,33.52409",
     "geom:latitude":33.52409,
     "geom:longitude":-112.114128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 W Bethany Home Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320743581,
-    "wof:lastmodified":1449014942,
+    "wof:lastmodified":1466328750,
     "wof:name":"Sandra's Thrift Store",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "hand"
     ]
 },
-  "bbox": [-112.114128,33.52409,-112.114128,33.52409],
-  "geometry": {"coordinates":[-112.114128,33.52409],"type":"Point"}
+  "bbox": [
+    -112.114128,
+    33.52409,
+    -112.114128,
+    33.52409
+],
+  "geometry": {"coordinates":[-112.11412799999999,33.52409],"type":"Point"}
 }

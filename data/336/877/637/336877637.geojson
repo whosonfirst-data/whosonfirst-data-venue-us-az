@@ -2,13 +2,14 @@
   "id": 336877637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829514,33.30619,-111.829514,33.30619",
     "geom:latitude":33.30619,
     "geom:longitude":-111.829514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 E Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336877637,
-    "wof:lastmodified":1448997691,
+    "wof:lastmodified":1466330113,
     "wof:name":"Brighton Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-111.829514,33.30619,-111.829514,33.30619],
+  "bbox": [
+    -111.829514,
+    33.30619,
+    -111.829514,
+    33.30619
+],
   "geometry": {"coordinates":[-111.829514,33.30619],"type":"Point"}
 }

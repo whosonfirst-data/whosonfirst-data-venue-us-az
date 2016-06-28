@@ -2,13 +2,14 @@
   "id": 320791335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037598,33.61956,-112.037598,33.61956",
     "geom:latitude":33.61956,
     "geom:longitude":-112.037598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E Everett Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320791335,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1466329728,
     "wof:name":"Abc Adult Care Home",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurses-home"
     ]
 },
-  "bbox": [-112.037598,33.61956,-112.037598,33.61956],
+  "bbox": [
+    -112.037598,
+    33.61956,
+    -112.037598,
+    33.61956
+],
   "geometry": {"coordinates":[-112.037598,33.61956],"type":"Point"}
 }

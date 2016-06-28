@@ -2,13 +2,14 @@
   "id": 169073573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.580644,35.123956,-114.580644,35.123956",
     "geom:latitude":35.123956,
     "geom:longitude":-114.580644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1691 Hwy 95",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169073573,
-    "wof:lastmodified":1449033145,
+    "wof:lastmodified":1466330006,
     "wof:name":"Park On The River",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.580644,35.123956,-114.580644,35.123956],
-  "geometry": {"coordinates":[-114.580644,35.123956],"type":"Point"}
+  "bbox": [
+    -114.580644,
+    35.123956,
+    -114.580644,
+    35.123956
+],
+  "geometry": {"coordinates":[-114.58064400000001,35.123956],"type":"Point"}
 }

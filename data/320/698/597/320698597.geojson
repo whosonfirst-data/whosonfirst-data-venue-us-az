@@ -2,13 +2,14 @@
   "id": 320698597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053485,33.49192,-112.053485,33.49192",
     "geom:latitude":33.49192,
     "geom:longitude":-112.053485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 E Indianola Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":320698597,
-    "wof:lastmodified":1449014734,
+    "wof:lastmodified":1466328295,
     "wof:name":"Modern Pools",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.053485,33.49192,-112.053485,33.49192],
-  "geometry": {"coordinates":[-112.053485,33.49192],"type":"Point"}
+  "bbox": [
+    -112.053485,
+    33.49192,
+    -112.053485,
+    33.49192
+],
+  "geometry": {"coordinates":[-112.05348499999999,33.49192],"type":"Point"}
 }

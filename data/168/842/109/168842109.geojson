@@ -2,13 +2,14 @@
   "id": 168842109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.861318,32.388569,-112.861318,32.388569",
     "geom:latitude":32.388569,
     "geom:longitude":-112.861318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W 11th St",
     "sg:city":"Ajo",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168842109,
-    "wof:lastmodified":1449027829,
+    "wof:lastmodified":1466327251,
     "wof:name":"William J Reid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.861318,32.388569,-112.861318,32.388569],
+  "bbox": [
+    -112.861318,
+    32.388569,
+    -112.861318,
+    32.388569
+],
   "geometry": {"coordinates":[-112.861318,32.388569],"type":"Point"}
 }

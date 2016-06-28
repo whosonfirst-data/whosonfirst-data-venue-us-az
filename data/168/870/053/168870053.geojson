@@ -2,13 +2,14 @@
   "id": 168870053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.898496,33.402667,-111.898496,33.402667",
     "geom:latitude":33.402667,
     "geom:longitude":-111.898496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 S Fairfield Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881417,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168870053,
-    "wof:lastmodified":1449027963,
+    "wof:lastmodified":1466327458,
     "wof:name":"Bliss R C Construction",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.898496,33.402667,-111.898496,33.402667],
-  "geometry": {"coordinates":[-111.898496,33.402667],"type":"Point"}
+  "bbox": [
+    -111.898496,
+    33.402667,
+    -111.898496,
+    33.402667
+],
+  "geometry": {"coordinates":[-111.89849599999999,33.402667],"type":"Point"}
 }

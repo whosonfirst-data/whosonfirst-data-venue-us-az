@@ -2,13 +2,14 @@
   "id": 169021781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.945903,32.171305,-110.945903,32.171305",
     "geom:latitude":32.171305,
     "geom:longitude":-110.945903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169021781,
-    "wof:lastmodified":1449034763,
+    "wof:lastmodified":1466326123,
     "wof:name":"Pima County Tucson Sav",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.945903,32.171305,-110.945903,32.171305],
+  "bbox": [
+    -110.945903,
+    32.171305,
+    -110.945903,
+    32.171305
+],
   "geometry": {"coordinates":[-110.945903,32.171305],"type":"Point"}
 }

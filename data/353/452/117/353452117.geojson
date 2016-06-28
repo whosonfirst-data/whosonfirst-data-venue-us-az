@@ -2,13 +2,14 @@
   "id": 353452117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962166,33.401631,-111.962166,33.401631",
     "geom:latitude":33.401631,
     "geom:longitude":-111.962166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 S Plaza Dr Ste 100",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353452117,
-    "wof:lastmodified":1449018852,
+    "wof:lastmodified":1466326665,
     "wof:name":"Armor Holdings",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industry"
     ]
 },
-  "bbox": [-111.962166,33.401631,-111.962166,33.401631],
+  "bbox": [
+    -111.962166,
+    33.401631,
+    -111.962166,
+    33.401631
+],
   "geometry": {"coordinates":[-111.962166,33.401631],"type":"Point"}
 }

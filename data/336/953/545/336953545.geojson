@@ -2,13 +2,14 @@
   "id": 336953545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909166,33.520882,-111.909166,33.520882",
     "geom:latitude":33.520882,
     "geom:longitude":-111.909166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7950 E Starlight Way # 133",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336953545,
-    "wof:lastmodified":1448997667,
+    "wof:lastmodified":1466330838,
     "wof:name":"Scottsdale Shuttle",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "public"
     ]
 },
-  "bbox": [-111.909166,33.520882,-111.909166,33.520882],
+  "bbox": [
+    -111.909166,
+    33.520882,
+    -111.909166,
+    33.520882
+],
   "geometry": {"coordinates":[-111.909166,33.520882],"type":"Point"}
 }

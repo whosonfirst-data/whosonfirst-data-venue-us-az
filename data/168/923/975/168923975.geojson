@@ -2,13 +2,14 @@
   "id": 168923975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.981752,33.616294,-111.981752,33.616294",
     "geom:latitude":33.616294,
     "geom:longitude":-111.981752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14238 N 46th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168923975,
-    "wof:lastmodified":1449028562,
+    "wof:lastmodified":1466330275,
     "wof:name":"John R Voigt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.981752,33.616294,-111.981752,33.616294],
+  "bbox": [
+    -111.981752,
+    33.616294,
+    -111.981752,
+    33.616294
+],
   "geometry": {"coordinates":[-111.981752,33.616294],"type":"Point"}
 }

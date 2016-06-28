@@ -2,13 +2,14 @@
   "id": 169168659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.094372,33.695242,-112.094372,33.695242",
     "geom:latitude":33.695242,
     "geom:longitude":-112.094372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 W Parkside Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169168659,
-    "wof:lastmodified":1449034407,
+    "wof:lastmodified":1466331886,
     "wof:name":"Mountain Semicdtr Inds LLC",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.094372,33.695242,-112.094372,33.695242],
-  "geometry": {"coordinates":[-112.094372,33.695242],"type":"Point"}
+  "bbox": [
+    -112.094372,
+    33.695242,
+    -112.094372,
+    33.695242
+],
+  "geometry": {"coordinates":[-112.09437200000001,33.695242],"type":"Point"}
 }

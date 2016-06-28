@@ -2,13 +2,14 @@
   "id": 169048241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.000199,31.472889,-111.000199,31.472889",
     "geom:latitude":31.472889,
     "geom:longitude":-111.000199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 C\ufffd\ufffdr Mercado",
     "sg:city":"Rio Rico",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169048241,
-    "wof:lastmodified":1449033838,
+    "wof:lastmodified":1466328221,
     "wof:name":"International Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.000199,31.472889,-111.000199,31.472889],
-  "geometry": {"coordinates":[-111.000199,31.472889],"type":"Point"}
+  "bbox": [
+    -111.000199,
+    31.472889,
+    -111.000199,
+    31.472889
+],
+  "geometry": {"coordinates":[-111.00019899999999,31.472889],"type":"Point"}
 }

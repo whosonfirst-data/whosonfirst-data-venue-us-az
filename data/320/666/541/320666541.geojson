@@ -2,13 +2,14 @@
   "id": 320666541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070381,33.486079,-112.070381,33.486079",
     "geom:latitude":33.486079,
     "geom:longitude":-112.070381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Lexington Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320666541,
-    "wof:lastmodified":1449012646,
+    "wof:lastmodified":1466327434,
     "wof:name":"Midwife",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-112.070381,33.486079,-112.070381,33.486079],
+  "bbox": [
+    -112.070381,
+    33.486079,
+    -112.070381,
+    33.486079
+],
   "geometry": {"coordinates":[-112.070381,33.486079],"type":"Point"}
 }

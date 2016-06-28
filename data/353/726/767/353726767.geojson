@@ -2,13 +2,14 @@
   "id": 353726767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.922715,33.8241,-111.922715,33.8241",
     "geom:latitude":33.8241,
     "geom:longitude":-111.922715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Easy St",
     "sg:city":"Carefree",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353726767,
-    "wof:lastmodified":1449019988,
+    "wof:lastmodified":1466329827,
     "wof:name":"AZ Wine Company",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "wine"
     ]
 },
-  "bbox": [-111.922715,33.8241,-111.922715,33.8241],
+  "bbox": [
+    -111.922715,
+    33.8241,
+    -111.922715,
+    33.8241
+],
   "geometry": {"coordinates":[-111.922715,33.8241],"type":"Point"}
 }

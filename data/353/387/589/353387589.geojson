@@ -2,13 +2,14 @@
   "id": 353387589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.93981,33.424364,-111.93981,33.424364",
     "geom:latitude":33.424364,
     "geom:longitude":-111.93981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E 6th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353387589,
-    "wof:lastmodified":1449020459,
+    "wof:lastmodified":1466326162,
     "wof:name":"Human Resources Department",
     "wof:parent_id":85881395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-111.93981,33.424364,-111.93981,33.424364],
-  "geometry": {"coordinates":[-111.93981,33.424364],"type":"Point"}
+  "bbox": [
+    -111.93981,
+    33.424364,
+    -111.93981,
+    33.424364
+],
+  "geometry": {"coordinates":[-111.93980999999999,33.424364],"type":"Point"}
 }

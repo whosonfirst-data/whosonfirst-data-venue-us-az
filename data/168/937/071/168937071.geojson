@@ -2,13 +2,14 @@
   "id": 168937071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.066053,31.712261,-110.066053,31.712261",
     "geom:latitude":31.712261,
     "geom:longitude":-110.066053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 E Allen St",
     "sg:city":"Tombstone",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.silverhillstrading.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168937071,
-    "wof:lastmodified":1449027920,
+    "wof:lastmodified":1466330558,
     "wof:name":"Silver Hills Trading Co",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.066053,31.712261,-110.066053,31.712261],
+  "bbox": [
+    -110.066053,
+    31.712261,
+    -110.066053,
+    31.712261
+],
   "geometry": {"coordinates":[-110.066053,31.712261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169069755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04748,33.525591,-112.04748,33.525591",
     "geom:latitude":33.525591,
     "geom:longitude":-112.04748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169069755,
-    "wof:lastmodified":1449034769,
+    "wof:lastmodified":1466329674,
     "wof:name":"Action Computer Supply Inc",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.04748,33.525591,-112.04748,33.525591],
-  "geometry": {"coordinates":[-112.04748,33.525591],"type":"Point"}
+  "bbox": [
+    -112.04748,
+    33.525591,
+    -112.04748,
+    33.525591
+],
+  "geometry": {"coordinates":[-112.04747999999999,33.525591],"type":"Point"}
 }

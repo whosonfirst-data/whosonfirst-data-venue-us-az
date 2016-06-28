@@ -2,13 +2,14 @@
   "id": 353598617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172865,33.610729,-112.172865,33.610729",
     "geom:latitude":33.610729,
     "geom:longitude":-112.172865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353598617,
-    "wof:lastmodified":1449018374,
+    "wof:lastmodified":1466328498,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-112.172865,33.610729,-112.172865,33.610729],
+  "bbox": [
+    -112.172865,
+    33.610729,
+    -112.172865,
+    33.610729
+],
   "geometry": {"coordinates":[-112.172865,33.610729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353848949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.039932,32.344681,-111.039932,32.344681",
     "geom:latitude":32.344681,
     "geom:longitude":-111.039932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 W Massingale Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353848949,
-    "wof:lastmodified":1449018611,
+    "wof:lastmodified":1466330632,
     "wof:name":"League Program",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.039932,32.344681,-111.039932,32.344681],
-  "geometry": {"coordinates":[-111.039932,32.344681],"type":"Point"}
+  "bbox": [
+    -111.039932,
+    32.344681,
+    -111.039932,
+    32.344681
+],
+  "geometry": {"coordinates":[-111.03993199999999,32.344681],"type":"Point"}
 }

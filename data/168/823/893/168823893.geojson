@@ -2,13 +2,14 @@
   "id": 168823893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968939,32.922995,-111.968939,32.922995",
     "geom:latitude":32.922995,
     "geom:longitude":-111.968939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37816 W Barnes Rd",
     "sg:city":"Stanfield",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168823893,
-    "wof:lastmodified":1449028587,
+    "wof:lastmodified":1466325783,
     "wof:name":"Feenstras Dairy",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.968939,32.922995,-111.968939,32.922995],
-  "geometry": {"coordinates":[-111.968939,32.922995],"type":"Point"}
+  "bbox": [
+    -111.968939,
+    32.922995,
+    -111.968939,
+    32.922995
+],
+  "geometry": {"coordinates":[-111.96893900000001,32.922995],"type":"Point"}
 }

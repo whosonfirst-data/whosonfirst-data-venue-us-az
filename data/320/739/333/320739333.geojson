@@ -2,13 +2,14 @@
   "id": 320739333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.113684,33.498614,-112.113684,33.498614",
     "geom:latitude":33.498614,
     "geom:longitude":-112.113684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 W Glenrosa Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320739333,
-    "wof:lastmodified":1449012838,
+    "wof:lastmodified":1466328655,
     "wof:name":"P B Bell Asset Management",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.113684,33.498614,-112.113684,33.498614],
-  "geometry": {"coordinates":[-112.113684,33.498614],"type":"Point"}
+  "bbox": [
+    -112.113684,
+    33.498614,
+    -112.113684,
+    33.498614
+],
+  "geometry": {"coordinates":[-112.11368400000001,33.498614],"type":"Point"}
 }

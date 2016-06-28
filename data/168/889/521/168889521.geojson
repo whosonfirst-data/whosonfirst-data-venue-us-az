@@ -2,13 +2,14 @@
   "id": 168889521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181399,33.596288,-112.181399,33.596288",
     "geom:latitude":33.596288,
     "geom:longitude":-112.181399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 W Cactus Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832555,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85832555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168889521,
-    "wof:lastmodified":1449027772,
+    "wof:lastmodified":1466329092,
     "wof:name":"Country View Estates",
     "wof:parent_id":85832555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181399,33.596288,-112.181399,33.596288],
+  "bbox": [
+    -112.181399,
+    33.596288,
+    -112.181399,
+    33.596288
+],
   "geometry": {"coordinates":[-112.181399,33.596288],"type":"Point"}
 }

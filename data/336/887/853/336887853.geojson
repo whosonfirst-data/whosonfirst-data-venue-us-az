@@ -2,13 +2,14 @@
   "id": 336887853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948553,33.305265,-111.948553,33.305265",
     "geom:latitude":33.305265,
     "geom:longitude":-111.948553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6185 W Chandler Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336887853,
-    "wof:lastmodified":1448997816,
+    "wof:lastmodified":1466330153,
     "wof:name":"Heart Attack Grill",
     "wof:parent_id":85855285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-111.948553,33.305265,-111.948553,33.305265],
+  "bbox": [
+    -111.948553,
+    33.305265,
+    -111.948553,
+    33.305265
+],
   "geometry": {"coordinates":[-111.948553,33.305265],"type":"Point"}
 }

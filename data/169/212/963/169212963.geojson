@@ -2,13 +2,14 @@
   "id": 169212963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.796865,33.385598,-111.796865,33.385598",
     "geom:latitude":33.385598,
     "geom:longitude":-111.796865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 S Harris Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858553,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85858553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169212963,
-    "wof:lastmodified":1449034817,
+    "wof:lastmodified":1466332266,
     "wof:name":"Big Systems",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.796865,33.385598,-111.796865,33.385598],
+  "bbox": [
+    -111.796865,
+    33.385598,
+    -111.796865,
+    33.385598
+],
   "geometry": {"coordinates":[-111.796865,33.385598],"type":"Point"}
 }

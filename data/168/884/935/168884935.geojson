@@ -2,13 +2,14 @@
   "id": 168884935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036355,33.668576,-112.036355,33.668576",
     "geom:latitude":33.668576,
     "geom:longitude":-112.036355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 E Menadota Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ergoadvantage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841273,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85841273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168884935,
-    "wof:lastmodified":1449028430,
+    "wof:lastmodified":1466328605,
     "wof:name":"ERGOADVANTAGE.COM",
     "wof:parent_id":85841273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036355,33.668576,-112.036355,33.668576],
+  "bbox": [
+    -112.036355,
+    33.668576,
+    -112.036355,
+    33.668576
+],
   "geometry": {"coordinates":[-112.036355,33.668576],"type":"Point"}
 }

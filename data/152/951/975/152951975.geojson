@@ -2,13 +2,14 @@
   "id": 152951975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.061903,35.190328,-114.061903,35.190328",
     "geom:latitude":35.190328,
     "geom:longitude":-114.061903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 W Beale St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152951975,
-    "wof:lastmodified":1449044503,
+    "wof:lastmodified":1466327508,
     "wof:name":"White Buffalo",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.061903,35.190328,-114.061903,35.190328],
+  "bbox": [
+    -114.061903,
+    35.190328,
+    -114.061903,
+    35.190328
+],
   "geometry": {"coordinates":[-114.061903,35.190328],"type":"Point"}
 }

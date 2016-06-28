@@ -2,13 +2,14 @@
   "id": 169276463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.783859,32.248105,-110.783859,32.248105",
     "geom:latitude":32.248105,
     "geom:longitude":-110.783859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 N Water View Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169276463,
-    "wof:lastmodified":1449032810,
+    "wof:lastmodified":1466332753,
     "wof:name":"Money Mailer",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.783859,32.248105,-110.783859,32.248105],
-  "geometry": {"coordinates":[-110.783859,32.248105],"type":"Point"}
+  "bbox": [
+    -110.783859,
+    32.248105,
+    -110.783859,
+    32.248105
+],
+  "geometry": {"coordinates":[-110.78385900000001,32.248105],"type":"Point"}
 }

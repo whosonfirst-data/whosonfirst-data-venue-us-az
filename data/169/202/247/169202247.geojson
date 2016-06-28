@@ -2,13 +2,14 @@
   "id": 169202247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.593084,32.69854,-114.593084,32.69854",
     "geom:latitude":32.69854,
     "geom:longitude":-114.593084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 E 16th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081527,
-        85633793,
         85688719,
-        85895863
+        85633793,
+        85895863,
+        102081527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169202247,
-    "wof:lastmodified":1449035526,
+    "wof:lastmodified":1466332134,
     "wof:name":"Kustom Desert Cycle",
     "wof:parent_id":85895863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.593084,32.69854,-114.593084,32.69854],
+  "bbox": [
+    -114.593084,
+    32.69854,
+    -114.593084,
+    32.69854
+],
   "geometry": {"coordinates":[-114.593084,32.69854],"type":"Point"}
 }

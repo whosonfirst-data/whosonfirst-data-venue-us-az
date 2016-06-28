@@ -2,13 +2,14 @@
   "id": 153014429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040358,33.294234,-112.040358,33.294234",
     "geom:latitude":33.294234,
     "geom:longitude":-112.040358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 E Saltsage Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153014429,
-    "wof:lastmodified":1449040569,
+    "wof:lastmodified":1466326529,
     "wof:name":"Erjavic Inc",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.040358,33.294234,-112.040358,33.294234],
+  "bbox": [
+    -112.040358,
+    33.294234,
+    -112.040358,
+    33.294234
+],
   "geometry": {"coordinates":[-112.040358,33.294234],"type":"Point"}
 }

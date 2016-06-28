@@ -2,13 +2,14 @@
   "id": 153078351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.87125,33.616886,-111.87125,33.616886",
     "geom:latitude":33.616886,
     "geom:longitude":-111.87125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14360 N Frank Lloyd Wright Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153078351,
-    "wof:lastmodified":1449040757,
+    "wof:lastmodified":1466328683,
     "wof:name":"Bass Trading",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.87125,33.616886,-111.87125,33.616886],
+  "bbox": [
+    -111.87125,
+    33.616886,
+    -111.87125,
+    33.616886
+],
   "geometry": {"coordinates":[-111.87125,33.616886],"type":"Point"}
 }

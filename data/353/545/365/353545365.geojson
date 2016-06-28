@@ -2,13 +2,14 @@
   "id": 353545365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.742044,33.338715,-111.742044,33.338715",
     "geom:latitude":33.338715,
     "geom:longitude":-111.742044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2239 E Saratoga St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353545365,
-    "wof:lastmodified":1449018872,
+    "wof:lastmodified":1466327915,
     "wof:name":"East Valley Traffic Survival Schools",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-111.742044,33.338715,-111.742044,33.338715],
-  "geometry": {"coordinates":[-111.742044,33.338715],"type":"Point"}
+  "bbox": [
+    -111.742044,
+    33.338715,
+    -111.742044,
+    33.338715
+],
+  "geometry": {"coordinates":[-111.74204400000001,33.338715],"type":"Point"}
 }

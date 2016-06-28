@@ -2,13 +2,14 @@
   "id": 169258753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.036663,35.240071,-114.036663,35.240071",
     "geom:latitude":35.240071,
     "geom:longitude":-114.036663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 N Sierra Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169258753,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466332595,
     "wof:name":"Kingman Fire Dept",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.036663,35.240071,-114.036663,35.240071],
+  "bbox": [
+    -114.036663,
+    35.240071,
+    -114.036663,
+    35.240071
+],
   "geometry": {"coordinates":[-114.036663,35.240071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168906417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.618449,32.697665,-114.618449,32.697665",
     "geom:latitude":32.697665,
     "geom:longitude":-114.618449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 E 16th Pl",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895873,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168906417,
-    "wof:lastmodified":1449028050,
+    "wof:lastmodified":1466329792,
     "wof:name":"Kris Kraft Cabinet Co",
     "wof:parent_id":85895873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.618449,32.697665,-114.618449,32.697665],
+  "bbox": [
+    -114.618449,
+    32.697665,
+    -114.618449,
+    32.697665
+],
   "geometry": {"coordinates":[-114.618449,32.697665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353889677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.479493,34.559661,-112.479493,34.559661",
     "geom:latitude":34.559661,
     "geom:longitude":-112.479493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Division St Ste 5",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353889677,
-    "wof:lastmodified":1449018207,
+    "wof:lastmodified":1466331128,
     "wof:name":"Akdhc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.479493,34.559661,-112.479493,34.559661],
-  "geometry": {"coordinates":[-112.479493,34.559661],"type":"Point"}
+  "bbox": [
+    -112.479493,
+    34.559661,
+    -112.479493,
+    34.559661
+],
+  "geometry": {"coordinates":[-112.47949300000001,34.559661],"type":"Point"}
 }

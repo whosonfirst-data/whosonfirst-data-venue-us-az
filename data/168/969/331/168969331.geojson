@@ -2,13 +2,14 @@
   "id": 168969331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117352,33.589177,-112.117352,33.589177",
     "geom:latitude":33.589177,
     "geom:longitude":-112.117352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11601 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168969331,
-    "wof:lastmodified":1449027952,
+    "wof:lastmodified":1466331350,
     "wof:name":"Kitchell Development",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117352,33.589177,-112.117352,33.589177],
+  "bbox": [
+    -112.117352,
+    33.589177,
+    -112.117352,
+    33.589177
+],
   "geometry": {"coordinates":[-112.117352,33.589177],"type":"Point"}
 }

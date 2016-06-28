@@ -2,13 +2,14 @@
   "id": 153024113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.110991,33.589314,-112.110991,33.589314",
     "geom:latitude":33.589314,
     "geom:longitude":-112.110991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 W Cholla St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153024113,
-    "wof:lastmodified":1449040555,
+    "wof:lastmodified":1466327436,
     "wof:name":"Rob S Creative Woodworks",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.110991,33.589314,-112.110991,33.589314],
+  "bbox": [
+    -112.110991,
+    33.589314,
+    -112.110991,
+    33.589314
+],
   "geometry": {"coordinates":[-112.110991,33.589314],"type":"Point"}
 }

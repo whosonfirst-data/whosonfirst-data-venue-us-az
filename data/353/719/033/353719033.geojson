@@ -2,13 +2,14 @@
   "id": 353719033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.406639,32.666961,-114.406639,32.666961",
     "geom:latitude":32.666961,
     "geom:longitude":-114.406639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11279 S Glenwood Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353719033,
-    "wof:lastmodified":1449018581,
+    "wof:lastmodified":1466329863,
     "wof:name":"Postal Mail Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "labeling"
     ]
 },
-  "bbox": [-114.406639,32.666961,-114.406639,32.666961],
+  "bbox": [
+    -114.406639,
+    32.666961,
+    -114.406639,
+    32.666961
+],
   "geometry": {"coordinates":[-114.406639,32.666961],"type":"Point"}
 }

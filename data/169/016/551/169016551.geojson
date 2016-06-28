@@ -2,13 +2,14 @@
   "id": 169016551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.468763,34.543067,-112.468763,34.543067",
     "geom:latitude":34.543067,
     "geom:longitude":-112.468763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 N Cortez St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169016551,
-    "wof:lastmodified":1449033265,
+    "wof:lastmodified":1466327709,
     "wof:name":"John Olvera's Barber Shop",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.468763,34.543067,-112.468763,34.543067],
+  "bbox": [
+    -112.468763,
+    34.543067,
+    -112.468763,
+    34.543067
+],
   "geometry": {"coordinates":[-112.468763,34.543067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169089877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.825835,32.896105,-109.825835,32.896105",
     "geom:latitude":32.896105,
     "geom:longitude":-109.825835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 E Center St",
     "sg:city":"Pima",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169089877,
-    "wof:lastmodified":1449033356,
+    "wof:lastmodified":1466330417,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.825835,32.896105,-109.825835,32.896105],
+  "bbox": [
+    -109.825835,
+    32.896105,
+    -109.825835,
+    32.896105
+],
   "geometry": {"coordinates":[-109.825835,32.896105],"type":"Point"}
 }

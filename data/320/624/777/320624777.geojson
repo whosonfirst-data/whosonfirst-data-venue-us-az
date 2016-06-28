@@ -2,13 +2,14 @@
   "id": 320624777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045023,33.465753,-112.045023,33.465753",
     "geom:latitude":33.465753,
     "geom:longitude":-112.045023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 E Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320624777,
-    "wof:lastmodified":1449013835,
+    "wof:lastmodified":1466326386,
     "wof:name":"Piccolo Pizza",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "italian"
     ]
 },
-  "bbox": [-112.045023,33.465753,-112.045023,33.465753],
+  "bbox": [
+    -112.045023,
+    33.465753,
+    -112.045023,
+    33.465753
+],
   "geometry": {"coordinates":[-112.045023,33.465753],"type":"Point"}
 }

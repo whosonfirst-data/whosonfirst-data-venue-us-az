@@ -2,13 +2,14 @@
   "id": 169292539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.704019,32.270186,-110.704019,32.270186",
     "geom:latitude":32.270186,
     "geom:longitude":-110.704019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 N el Camino Rinconado",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169292539,
-    "wof:lastmodified":1449032957,
+    "wof:lastmodified":1466332982,
     "wof:name":"Richard Labare Dry/Pnt Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.704019,32.270186,-110.704019,32.270186],
+  "bbox": [
+    -110.704019,
+    32.270186,
+    -110.704019,
+    32.270186
+],
   "geometry": {"coordinates":[-110.704019,32.270186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169011179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.243063,33.591552,-112.243063,33.591552",
     "geom:latitude":33.591552,
     "geom:longitude":-112.243063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8552 W Jenan Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169011179,
-    "wof:lastmodified":1449035362,
+    "wof:lastmodified":1466326984,
     "wof:name":"Cutting Edge Curbing & Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.243063,33.591552,-112.243063,33.591552],
-  "geometry": {"coordinates":[-112.243063,33.591552],"type":"Point"}
+  "bbox": [
+    -112.243063,
+    33.591552,
+    -112.243063,
+    33.591552
+],
+  "geometry": {"coordinates":[-112.24306300000001,33.591552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353478395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923532,33.381246,-111.923532,33.381246",
     "geom:latitude":33.381246,
     "geom:longitude":-111.923532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 S Lakeshore Dr Suite 6",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353478395,
-    "wof:lastmodified":1449018328,
+    "wof:lastmodified":1466326855,
     "wof:name":"David C. Larkin",
     "wof:parent_id":85881387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "employment"
     ]
 },
-  "bbox": [-111.923532,33.381246,-111.923532,33.381246],
-  "geometry": {"coordinates":[-111.923532,33.381246],"type":"Point"}
+  "bbox": [
+    -111.923532,
+    33.381246,
+    -111.923532,
+    33.381246
+],
+  "geometry": {"coordinates":[-111.92353199999999,33.381246],"type":"Point"}
 }

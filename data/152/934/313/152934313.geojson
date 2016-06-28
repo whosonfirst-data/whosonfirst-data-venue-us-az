@@ -2,13 +2,14 @@
   "id": 152934313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172317,33.52027,-112.172317,33.52027",
     "geom:latitude":33.52027,
     "geom:longitude":-112.172317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5237 W Montebello Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152934313,
-    "wof:lastmodified":1449044525,
+    "wof:lastmodified":1466326278,
     "wof:name":"Pro Import",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172317,33.52027,-112.172317,33.52027],
-  "geometry": {"coordinates":[-112.172317,33.52027],"type":"Point"}
+  "bbox": [
+    -112.172317,
+    33.52027,
+    -112.172317,
+    33.52027
+],
+  "geometry": {"coordinates":[-112.17231700000001,33.52027],"type":"Point"}
 }

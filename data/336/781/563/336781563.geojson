@@ -2,13 +2,14 @@
   "id": 336781563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.822769,33.417229,-111.822769,33.417229",
     "geom:latitude":33.417229,
     "geom:longitude":-111.822769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 E 1st St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336781563,
-    "wof:lastmodified":1448997151,
+    "wof:lastmodified":1466329181,
     "wof:name":"Ready Set Go Fantasy Sports",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete-ready"
     ]
 },
-  "bbox": [-111.822769,33.417229,-111.822769,33.417229],
-  "geometry": {"coordinates":[-111.822769,33.417229],"type":"Point"}
+  "bbox": [
+    -111.822769,
+    33.417229,
+    -111.822769,
+    33.417229
+],
+  "geometry": {"coordinates":[-111.82276899999999,33.417229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236264545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.580781,35.167836,-114.580781,35.167836",
     "geom:latitude":35.167836,
     "geom:longitude":-114.580781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Thomas Edison Dr",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236264545,
-    "wof:lastmodified":1449003866,
+    "wof:lastmodified":1466325713,
     "wof:name":"Laughlin Transit Inc",
     "wof:parent_id":85813655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-114.580781,35.167836,-114.580781,35.167836],
+  "bbox": [
+    -114.580781,
+    35.167836,
+    -114.580781,
+    35.167836
+],
   "geometry": {"coordinates":[-114.580781,35.167836],"type":"Point"}
 }

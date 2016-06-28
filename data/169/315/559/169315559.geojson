@@ -2,13 +2,14 @@
   "id": 169315559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885833,34.581586,-111.885833,34.581586",
     "geom:latitude":34.581586,
     "geom:longitude":-111.885833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 W Hwy 260",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844103,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85844103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169315559,
-    "wof:lastmodified":1449035789,
+    "wof:lastmodified":1466333175,
     "wof:name":"Mcgees Trading Post",
     "wof:parent_id":85844103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885833,34.581586,-111.885833,34.581586],
-  "geometry": {"coordinates":[-111.885833,34.581586],"type":"Point"}
+  "bbox": [
+    -111.885833,
+    34.581586,
+    -111.885833,
+    34.581586
+],
+  "geometry": {"coordinates":[-111.88583300000001,34.581586],"type":"Point"}
 }

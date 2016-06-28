@@ -2,13 +2,14 @@
   "id": 169367957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119454,33.524091,-112.119454,33.524091",
     "geom:latitude":33.524091,
     "geom:longitude":-112.119454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2722 W Bethany Home Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169367957,
-    "wof:lastmodified":1449034639,
+    "wof:lastmodified":1466333687,
     "wof:name":"Serkland Swimming Pool Service",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119454,33.524091,-112.119454,33.524091],
+  "bbox": [
+    -112.119454,
+    33.524091,
+    -112.119454,
+    33.524091
+],
   "geometry": {"coordinates":[-112.119454,33.524091],"type":"Point"}
 }

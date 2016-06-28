@@ -2,13 +2,14 @@
   "id": 169174191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.914051,31.443149,-109.914051,31.443149",
     "geom:latitude":31.443149,
     "geom:longitude":-109.914051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Brewery Ave",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85820943
+        85633793,
+        85820943,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169174191,
-    "wof:lastmodified":1449033135,
+    "wof:lastmodified":1466331942,
     "wof:name":"Brewery Restaurant",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.914051,31.443149,-109.914051,31.443149],
+  "bbox": [
+    -109.914051,
+    31.443149,
+    -109.914051,
+    31.443149
+],
   "geometry": {"coordinates":[-109.914051,31.443149],"type":"Point"}
 }

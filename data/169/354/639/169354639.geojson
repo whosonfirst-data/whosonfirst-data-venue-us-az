@@ -2,13 +2,14 @@
   "id": 169354639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.200505,33.638445,-112.200505,33.638445",
     "geom:latitude":33.638445,
     "geom:longitude":-112.200505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6426 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169354639,
-    "wof:lastmodified":1449035584,
+    "wof:lastmodified":1466333515,
     "wof:name":"Desert Winds Nurs & Grdn Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.200505,33.638445,-112.200505,33.638445],
-  "geometry": {"coordinates":[-112.200505,33.638445],"type":"Point"}
+  "bbox": [
+    -112.200505,
+    33.638445,
+    -112.200505,
+    33.638445
+],
+  "geometry": {"coordinates":[-112.20050500000001,33.638445],"type":"Point"}
 }

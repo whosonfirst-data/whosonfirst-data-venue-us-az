@@ -2,13 +2,14 @@
   "id": 169175117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.980185,32.289988,-110.980185,32.289988",
     "geom:latitude":32.289988,
     "geom:longitude":-110.980185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 W Auto Mall Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.davidsbridal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169175117,
-    "wof:lastmodified":1449034980,
+    "wof:lastmodified":1466331955,
     "wof:name":"David's Bridal",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.980185,32.289988,-110.980185,32.289988],
-  "geometry": {"coordinates":[-110.980185,32.289988],"type":"Point"}
+  "bbox": [
+    -110.980185,
+    32.289988,
+    -110.980185,
+    32.289988
+],
+  "geometry": {"coordinates":[-110.98018500000001,32.289988],"type":"Point"}
 }

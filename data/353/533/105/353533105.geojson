@@ -2,13 +2,14 @@
   "id": 353533105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.744036,33.306563,-111.744036,33.306563",
     "geom:latitude":33.306563,
     "geom:longitude":-111.744036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2189 E Williams Field Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353533105,
-    "wof:lastmodified":1449018224,
+    "wof:lastmodified":1466327768,
     "wof:name":"Lucy's Activewear",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-111.744036,33.306563,-111.744036,33.306563],
-  "geometry": {"coordinates":[-111.744036,33.306563],"type":"Point"}
+  "bbox": [
+    -111.744036,
+    33.306563,
+    -111.744036,
+    33.306563
+],
+  "geometry": {"coordinates":[-111.74403599999999,33.306563],"type":"Point"}
 }

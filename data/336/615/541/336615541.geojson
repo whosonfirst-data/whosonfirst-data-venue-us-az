@@ -2,13 +2,14 @@
   "id": 336615541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.236715,33.494426,-112.236715,33.494426",
     "geom:latitude":33.494426,
     "geom:longitude":-112.236715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8260 W Indian School Rd Ste 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336615541,
-    "wof:lastmodified":1448997281,
+    "wof:lastmodified":1466326246,
     "wof:name":"Wellness To Go",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.236715,33.494426,-112.236715,33.494426],
+  "bbox": [
+    -112.236715,
+    33.494426,
+    -112.236715,
+    33.494426
+],
   "geometry": {"coordinates":[-112.236715,33.494426],"type":"Point"}
 }

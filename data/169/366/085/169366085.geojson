@@ -2,13 +2,14 @@
   "id": 169366085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.102085,33.423653,-112.102085,33.423653",
     "geom:latitude":33.423653,
     "geom:longitude":-112.102085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S 20th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169366085,
-    "wof:lastmodified":1449035083,
+    "wof:lastmodified":1466333583,
     "wof:name":"We Do Tires Truck Tire Sales",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.102085,33.423653,-112.102085,33.423653],
+  "bbox": [
+    -112.102085,
+    33.423653,
+    -112.102085,
+    33.423653
+],
   "geometry": {"coordinates":[-112.102085,33.423653],"type":"Point"}
 }

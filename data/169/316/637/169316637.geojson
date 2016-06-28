@@ -2,13 +2,14 @@
   "id": 169316637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966594,33.41563,-111.966594,33.41563",
     "geom:latitude":33.41563,
     "geom:longitude":-111.966594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 W 12th Pl",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881399,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169316637,
-    "wof:lastmodified":1449034927,
+    "wof:lastmodified":1466333175,
     "wof:name":"Nelco Hitec",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.966594,33.41563,-111.966594,33.41563],
+  "bbox": [
+    -111.966594,
+    33.41563,
+    -111.966594,
+    33.41563
+],
   "geometry": {"coordinates":[-111.966594,33.41563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153034815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917862,33.492271,-111.917862,33.492271",
     "geom:latitude":33.492271,
     "geom:longitude":-111.917862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 E 1st St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153034815,
-    "wof:lastmodified":1449040385,
+    "wof:lastmodified":1466326109,
     "wof:name":"David N Boyer MD",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.917862,33.492271,-111.917862,33.492271],
+  "bbox": [
+    -111.917862,
+    33.492271,
+    -111.917862,
+    33.492271
+],
   "geometry": {"coordinates":[-111.917862,33.492271],"type":"Point"}
 }

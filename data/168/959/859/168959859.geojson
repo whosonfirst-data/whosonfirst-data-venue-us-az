@@ -2,13 +2,14 @@
   "id": 168959859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.59674,32.682084,-114.59674,32.682084",
     "geom:latitude":32.682084,
     "geom:longitude":-114.59674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 E 25th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081527,
-        85633793,
         85688719,
-        85895863
+        85633793,
+        85895863,
+        102081527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168959859,
-    "wof:lastmodified":1449028516,
+    "wof:lastmodified":1466331029,
     "wof:name":"Lynn Johnna Trains",
     "wof:parent_id":85895863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.59674,32.682084,-114.59674,32.682084],
+  "bbox": [
+    -114.59674,
+    32.682084,
+    -114.59674,
+    32.682084
+],
   "geometry": {"coordinates":[-114.59674,32.682084],"type":"Point"}
 }

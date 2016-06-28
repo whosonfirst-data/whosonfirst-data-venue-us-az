@@ -2,13 +2,14 @@
   "id": 336653031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983102,33.399472,-111.983102,33.399472",
     "geom:latitude":33.399472,
     "geom:longitude":-111.983102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5221 S 46th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336653031,
-    "wof:lastmodified":1448997005,
+    "wof:lastmodified":1466327005,
     "wof:name":"Desert Sky Pool Service",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-111.983102,33.399472,-111.983102,33.399472],
+  "bbox": [
+    -111.983102,
+    33.399472,
+    -111.983102,
+    33.399472
+],
   "geometry": {"coordinates":[-111.983102,33.399472],"type":"Point"}
 }

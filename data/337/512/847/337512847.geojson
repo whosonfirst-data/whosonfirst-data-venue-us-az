@@ -2,13 +2,14 @@
   "id": 337512847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.944349,33.612149,-111.944349,33.612149",
     "geom:latitude":33.612149,
     "geom:longitude":-111.944349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6309 E Ludlow Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337512847,
-    "wof:lastmodified":1449027540,
+    "wof:lastmodified":1466326358,
     "wof:name":"Desert Springs Bed And Breakfast",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lodging"
     ]
 },
-  "bbox": [-111.944349,33.612149,-111.944349,33.612149],
+  "bbox": [
+    -111.944349,
+    33.612149,
+    -111.944349,
+    33.612149
+],
   "geometry": {"coordinates":[-111.944349,33.612149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168903589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.696432,33.451948,-111.696432,33.451948",
     "geom:latitude":33.451948,
     "geom:longitude":-111.696432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6380 E McKellips Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803247,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85803247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168903589,
-    "wof:lastmodified":1449027816,
+    "wof:lastmodified":1466329529,
     "wof:name":"Fischer Villa Golf Resort",
     "wof:parent_id":85803247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.696432,33.451948,-111.696432,33.451948],
+  "bbox": [
+    -111.696432,
+    33.451948,
+    -111.696432,
+    33.451948
+],
   "geometry": {"coordinates":[-111.696432,33.451948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168961739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.784168,32.250834,-110.784168,32.250834",
     "geom:latitude":32.250834,
     "geom:longitude":-110.784168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9735 E Rock Ridge Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168961739,
-    "wof:lastmodified":1449028570,
+    "wof:lastmodified":1466331181,
     "wof:name":"Lawrence International USA Co",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.784168,32.250834,-110.784168,32.250834],
-  "geometry": {"coordinates":[-110.784168,32.250834],"type":"Point"}
+  "bbox": [
+    -110.784168,
+    32.250834,
+    -110.784168,
+    32.250834
+],
+  "geometry": {"coordinates":[-110.78416799999999,32.250834],"type":"Point"}
 }

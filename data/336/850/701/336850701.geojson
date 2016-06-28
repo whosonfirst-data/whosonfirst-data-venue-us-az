@@ -2,13 +2,14 @@
   "id": 336850701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.875,33.298599,-111.875,33.298599",
     "geom:latitude":33.298599,
     "geom:longitude":-111.875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 W Frye Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336850701,
-    "wof:lastmodified":1448997559,
+    "wof:lastmodified":1466329914,
     "wof:name":"Valley Oncology Associates PC",
     "wof:parent_id":85876691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.875,33.298599,-111.875,33.298599],
+  "bbox": [
+    -111.875,
+    33.298599,
+    -111.875,
+    33.298599
+],
   "geometry": {"coordinates":[-111.875,33.298599],"type":"Point"}
 }

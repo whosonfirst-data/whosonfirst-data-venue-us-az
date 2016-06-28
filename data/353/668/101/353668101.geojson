@@ -2,13 +2,14 @@
   "id": 353668101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.250737,33.569469,-112.250737,33.569469",
     "geom:latitude":33.569469,
     "geom:longitude":-112.250737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8905 W Sunnyslope Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353668101,
-    "wof:lastmodified":1449020024,
+    "wof:lastmodified":1466329513,
     "wof:name":"Whispers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.250737,33.569469,-112.250737,33.569469],
+  "bbox": [
+    -112.250737,
+    33.569469,
+    -112.250737,
+    33.569469
+],
   "geometry": {"coordinates":[-112.250737,33.569469],"type":"Point"}
 }

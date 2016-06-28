@@ -2,13 +2,14 @@
   "id": 336888007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.913133,33.320902,-111.913133,33.320902",
     "geom:latitude":33.320902,
     "geom:longitude":-111.913133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 W Ray Rd Ste 4",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336888007,
-    "wof:lastmodified":1448997610,
+    "wof:lastmodified":1466330154,
     "wof:name":"The Gemsetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.913133,33.320902,-111.913133,33.320902],
+  "bbox": [
+    -111.913133,
+    33.320902,
+    -111.913133,
+    33.320902
+],
   "geometry": {"coordinates":[-111.913133,33.320902],"type":"Point"}
 }

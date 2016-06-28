@@ -2,13 +2,14 @@
   "id": 320755099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995275,33.51236,-111.995275,33.51236",
     "geom:latitude":33.51236,
     "geom:longitude":-111.995275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5141 N 40th St Ste 300",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320755099,
-    "wof:lastmodified":1449012314,
+    "wof:lastmodified":1466328954,
     "wof:name":"Weil Lifestyle",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-111.995275,33.51236,-111.995275,33.51236],
-  "geometry": {"coordinates":[-111.995275,33.51236],"type":"Point"}
+  "bbox": [
+    -111.995275,
+    33.51236,
+    -111.995275,
+    33.51236
+],
+  "geometry": {"coordinates":[-111.99527500000001,33.51236],"type":"Point"}
 }

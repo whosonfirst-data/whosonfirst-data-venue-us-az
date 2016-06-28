@@ -2,13 +2,14 @@
   "id": 337593451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921506,33.622599,-111.921506,33.622599",
     "geom:latitude":33.622599,
     "geom:longitude":-111.921506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7333 E Butherus Dr A200",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":337593451,
-    "wof:lastmodified":1449027493,
+    "wof:lastmodified":1466327059,
     "wof:name":"Airpark Collision Center LLC",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "repairing"
     ]
 },
-  "bbox": [-111.921506,33.622599,-111.921506,33.622599],
-  "geometry": {"coordinates":[-111.921506,33.622599],"type":"Point"}
+  "bbox": [
+    -111.921506,
+    33.622599,
+    -111.921506,
+    33.622599
+],
+  "geometry": {"coordinates":[-111.92150599999999,33.622599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169272627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.504112,33.381179,-112.504112,33.381179",
     "geom:latitude":33.381179,
     "geom:longitude":-112.504112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7205 S Airport Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169272627,
-    "wof:lastmodified":1449035736,
+    "wof:lastmodified":1466332775,
     "wof:name":"South Mountain Farmers Gin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.504112,33.381179,-112.504112,33.381179],
-  "geometry": {"coordinates":[-112.504112,33.381179],"type":"Point"}
+  "bbox": [
+    -112.504112,
+    33.381179,
+    -112.504112,
+    33.381179
+],
+  "geometry": {"coordinates":[-112.50411200000001,33.381179],"type":"Point"}
 }

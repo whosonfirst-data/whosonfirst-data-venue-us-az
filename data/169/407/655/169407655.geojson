@@ -2,13 +2,14 @@
   "id": 169407655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013327,33.609844,-112.013327,33.609844",
     "geom:latitude":33.609844,
     "geom:longitude":-112.013327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13444 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847869,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85847869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169407655,
-    "wof:lastmodified":1449034522,
+    "wof:lastmodified":1466334076,
     "wof:name":"Danny T Seivert Insurance Inc",
     "wof:parent_id":85847869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013327,33.609844,-112.013327,33.609844],
+  "bbox": [
+    -112.013327,
+    33.609844,
+    -112.013327,
+    33.609844
+],
   "geometry": {"coordinates":[-112.013327,33.609844],"type":"Point"}
 }

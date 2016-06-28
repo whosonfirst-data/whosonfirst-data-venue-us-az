@@ -2,13 +2,14 @@
   "id": 168982229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.870184,33.398831,-110.870184,33.398831",
     "geom:latitude":33.398831,
     "geom:longitude":-110.870184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Live Oak St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168982229,
-    "wof:lastmodified":1449027909,
+    "wof:lastmodified":1466331427,
     "wof:name":"Senior Citizen Ctr",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.870184,33.398831,-110.870184,33.398831],
-  "geometry": {"coordinates":[-110.870184,33.398831],"type":"Point"}
+  "bbox": [
+    -110.870184,
+    33.398831,
+    -110.870184,
+    33.398831
+],
+  "geometry": {"coordinates":[-110.87018399999999,33.398831],"type":"Point"}
 }

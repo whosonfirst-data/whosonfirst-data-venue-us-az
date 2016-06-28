@@ -2,13 +2,14 @@
   "id": 169044819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151073,33.556176,-112.151073,33.556176",
     "geom:latitude":33.556176,
     "geom:longitude":-112.151073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8136 N 42nd Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877833,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85877833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169044819,
-    "wof:lastmodified":1449034403,
+    "wof:lastmodified":1466328274,
     "wof:name":"Quality Rebar LLC",
     "wof:parent_id":85877833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151073,33.556176,-112.151073,33.556176],
+  "bbox": [
+    -112.151073,
+    33.556176,
+    -112.151073,
+    33.556176
+],
   "geometry": {"coordinates":[-112.151073,33.556176],"type":"Point"}
 }

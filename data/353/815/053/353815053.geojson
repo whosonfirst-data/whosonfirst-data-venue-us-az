@@ -2,13 +2,14 @@
   "id": 353815053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.884508,32.148767,-110.884508,32.148767",
     "geom:latitude":32.148767,
     "geom:longitude":-110.884508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5051 E Drexel Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353815053,
-    "wof:lastmodified":1449019506,
+    "wof:lastmodified":1466330616,
     "wof:name":"Discover Auto Salvage",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-110.884508,32.148767,-110.884508,32.148767],
+  "bbox": [
+    -110.884508,
+    32.148767,
+    -110.884508,
+    32.148767
+],
   "geometry": {"coordinates":[-110.884508,32.148767],"type":"Point"}
 }

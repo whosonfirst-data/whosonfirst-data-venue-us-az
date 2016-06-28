@@ -2,13 +2,14 @@
   "id": 353684893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.268606,33.458045,-112.268606,33.458045",
     "geom:latitude":33.458045,
     "geom:longitude":-112.268606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9650 W Roosevelt St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":353684893,
-    "wof:lastmodified":1449018899,
+    "wof:lastmodified":1466329807,
     "wof:name":"Bleier Industries",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "signs-maintenance"
     ]
 },
-  "bbox": [-112.268606,33.458045,-112.268606,33.458045],
-  "geometry": {"coordinates":[-112.268606,33.458045],"type":"Point"}
+  "bbox": [
+    -112.268606,
+    33.458045,
+    -112.268606,
+    33.458045
+],
+  "geometry": {"coordinates":[-112.26860600000001,33.458045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152919541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.017828,32.286206,-111.017828,32.286206",
     "geom:latitude":32.286206,
     "geom:longitude":-111.017828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4345 N Sullinger Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152919541,
-    "wof:lastmodified":1449047792,
+    "wof:lastmodified":1466326793,
     "wof:name":"Northwest Tool Company",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.017828,32.286206,-111.017828,32.286206],
-  "geometry": {"coordinates":[-111.017828,32.286206],"type":"Point"}
+  "bbox": [
+    -111.017828,
+    32.286206,
+    -111.017828,
+    32.286206
+],
+  "geometry": {"coordinates":[-111.01782799999999,32.286206],"type":"Point"}
 }

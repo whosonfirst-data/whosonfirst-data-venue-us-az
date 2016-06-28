@@ -2,13 +2,14 @@
   "id": 168920507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.758114,33.466291,-111.758114,33.466291",
     "geom:latitude":33.466291,
     "geom:longitude":-111.758114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 E McDowell Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811069,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85811069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168920507,
-    "wof:lastmodified":1449028398,
+    "wof:lastmodified":1466330339,
     "wof:name":"Southwest Homebrew Suplies",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.758114,33.466291,-111.758114,33.466291],
-  "geometry": {"coordinates":[-111.758114,33.466291],"type":"Point"}
+  "bbox": [
+    -111.758114,
+    33.466291,
+    -111.758114,
+    33.466291
+],
+  "geometry": {"coordinates":[-111.75811400000001,33.466291],"type":"Point"}
 }

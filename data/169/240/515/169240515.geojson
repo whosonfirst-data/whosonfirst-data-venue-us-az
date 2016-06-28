@@ -2,13 +2,14 @@
   "id": 169240515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975671,32.34746,-110.975671,32.34746",
     "geom:latitude":32.34746,
     "geom:longitude":-110.975671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7860 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.nationwidevision.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169240515,
-    "wof:lastmodified":1449033016,
+    "wof:lastmodified":1466332430,
     "wof:name":"Nationwide Vision Ctr",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975671,32.34746,-110.975671,32.34746],
-  "geometry": {"coordinates":[-110.975671,32.34746],"type":"Point"}
+  "bbox": [
+    -110.975671,
+    32.34746,
+    -110.975671,
+    32.34746
+],
+  "geometry": {"coordinates":[-110.97567100000001,32.34746],"type":"Point"}
 }

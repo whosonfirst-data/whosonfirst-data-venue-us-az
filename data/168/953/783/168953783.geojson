@@ -2,13 +2,14 @@
   "id": 168953783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.867476,32.236243,-110.867476,32.236243",
     "geom:latitude":32.236243,
     "geom:longitude":-110.867476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5839 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.ultraperformance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168953783,
-    "wof:lastmodified":1449028293,
+    "wof:lastmodified":1466331121,
     "wof:name":"Ultra Performance",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.867476,32.236243,-110.867476,32.236243],
+  "bbox": [
+    -110.867476,
+    32.236243,
+    -110.867476,
+    32.236243
+],
   "geometry": {"coordinates":[-110.867476,32.236243],"type":"Point"}
 }

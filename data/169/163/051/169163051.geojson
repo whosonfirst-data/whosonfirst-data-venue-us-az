@@ -2,13 +2,14 @@
   "id": 169163051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.857773,33.593449,-111.857773,33.593449",
     "geom:latitude":33.593449,
     "geom:longitude":-111.857773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10360 E Jenan Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851767,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85851767,
         85880933
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169163051,
-    "wof:lastmodified":1449035894,
+    "wof:lastmodified":1466331836,
     "wof:name":"Thomson Financial Advisors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.857773,33.593449,-111.857773,33.593449],
-  "geometry": {"coordinates":[-111.857773,33.593449],"type":"Point"}
+  "bbox": [
+    -111.857773,
+    33.593449,
+    -111.857773,
+    33.593449
+],
+  "geometry": {"coordinates":[-111.85777299999999,33.593449],"type":"Point"}
 }

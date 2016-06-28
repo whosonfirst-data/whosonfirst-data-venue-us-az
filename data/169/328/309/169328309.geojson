@@ -2,13 +2,14 @@
   "id": 169328309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.932546,31.342162,-110.932546,31.342162",
     "geom:latitude":31.342162,
     "geom:longitude":-110.932546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169328309,
-    "wof:lastmodified":1449034630,
+    "wof:lastmodified":1466333162,
     "wof:name":"Karim Salon and Suplies",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.932546,31.342162,-110.932546,31.342162],
+  "bbox": [
+    -110.932546,
+    31.342162,
+    -110.932546,
+    31.342162
+],
   "geometry": {"coordinates":[-110.932546,31.342162],"type":"Point"}
 }

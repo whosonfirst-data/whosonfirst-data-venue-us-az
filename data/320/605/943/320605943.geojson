@@ -2,13 +2,14 @@
   "id": 320605943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07769,33.456708,-112.07769,33.456708",
     "geom:latitude":33.456708,
     "geom:longitude":-112.07769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N 3rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320605943,
-    "wof:lastmodified":1449013077,
+    "wof:lastmodified":1466325901,
     "wof:name":"Riester Corp",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-112.07769,33.456708,-112.07769,33.456708],
+  "bbox": [
+    -112.07769,
+    33.456708,
+    -112.07769,
+    33.456708
+],
   "geometry": {"coordinates":[-112.07769,33.456708],"type":"Point"}
 }

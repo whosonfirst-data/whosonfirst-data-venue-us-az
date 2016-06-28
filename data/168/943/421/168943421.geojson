@@ -2,13 +2,14 @@
   "id": 168943421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.298807,33.594496,-112.298807,33.594496",
     "geom:latitude":33.594496,
     "geom:longitude":-112.298807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12040 N 111th Ave",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168943421,
-    "wof:lastmodified":1449027970,
+    "wof:lastmodified":1466330711,
     "wof:name":"Curlys Customs",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.298807,33.594496,-112.298807,33.594496],
+  "bbox": [
+    -112.298807,
+    33.594496,
+    -112.298807,
+    33.594496
+],
   "geometry": {"coordinates":[-112.298807,33.594496],"type":"Point"}
 }

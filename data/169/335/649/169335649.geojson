@@ -2,13 +2,14 @@
   "id": 169335649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123655,33.668793,-112.123655,33.668793",
     "geom:latitude":33.668793,
     "geom:longitude":-112.123655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Aqua Fria Fwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.asyouwishpottery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853891,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169335649,
-    "wof:lastmodified":1449034865,
+    "wof:lastmodified":1466333379,
     "wof:name":"As You Wish Pottery Painting",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.123655,33.668793,-112.123655,33.668793],
+  "bbox": [
+    -112.123655,
+    33.668793,
+    -112.123655,
+    33.668793
+],
   "geometry": {"coordinates":[-112.123655,33.668793],"type":"Point"}
 }

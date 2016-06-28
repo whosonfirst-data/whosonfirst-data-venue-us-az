@@ -2,13 +2,14 @@
   "id": 153081749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08244,33.503068,-112.08244,33.503068",
     "geom:latitude":33.503068,
     "geom:longitude":-112.08244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 N 7th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153081749,
-    "wof:lastmodified":1449040476,
+    "wof:lastmodified":1466329414,
     "wof:name":"Artistic Arborist Inc",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.08244,33.503068,-112.08244,33.503068],
-  "geometry": {"coordinates":[-112.08244,33.503068],"type":"Point"}
+  "bbox": [
+    -112.08244,
+    33.503068,
+    -112.08244,
+    33.503068
+],
+  "geometry": {"coordinates":[-112.08244000000001,33.503068],"type":"Point"}
 }

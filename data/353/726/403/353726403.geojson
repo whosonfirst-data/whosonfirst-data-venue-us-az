@@ -2,13 +2,14 @@
   "id": 353726403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.367734,33.638569,-112.367734,33.638569",
     "geom:latitude":33.638569,
     "geom:longitude":-112.367734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14239 W Bell Rd Ste 115",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353726403,
-    "wof:lastmodified":1449019988,
+    "wof:lastmodified":1466329821,
     "wof:name":"The First American Corporation",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "escrow"
     ]
 },
-  "bbox": [-112.367734,33.638569,-112.367734,33.638569],
+  "bbox": [
+    -112.367734,
+    33.638569,
+    -112.367734,
+    33.638569
+],
   "geometry": {"coordinates":[-112.367734,33.638569],"type":"Point"}
 }

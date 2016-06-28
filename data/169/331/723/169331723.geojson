@@ -2,13 +2,14 @@
   "id": 169331723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927008,33.492286,-111.927008,33.492286",
     "geom:latitude":33.492286,
     "geom:longitude":-111.927008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7146 E 1st St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169331723,
-    "wof:lastmodified":1449034691,
+    "wof:lastmodified":1466333342,
     "wof:name":"Skin Body & Spirit By Dianna",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927008,33.492286,-111.927008,33.492286],
+  "bbox": [
+    -111.927008,
+    33.492286,
+    -111.927008,
+    33.492286
+],
   "geometry": {"coordinates":[-111.927008,33.492286],"type":"Point"}
 }

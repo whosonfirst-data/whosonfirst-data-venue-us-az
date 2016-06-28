@@ -2,13 +2,14 @@
   "id": 169078409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.65411,32.720315,-114.65411,32.720315",
     "geom:latitude":32.720315,
     "geom:longitude":-114.65411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 W 4th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169078409,
-    "wof:lastmodified":1449035450,
+    "wof:lastmodified":1466330102,
     "wof:name":"Custom House Currency Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.65411,32.720315,-114.65411,32.720315],
+  "bbox": [
+    -114.65411,
+    32.720315,
+    -114.65411,
+    32.720315
+],
   "geometry": {"coordinates":[-114.65411,32.720315],"type":"Point"}
 }

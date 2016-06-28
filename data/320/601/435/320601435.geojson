@@ -2,13 +2,14 @@
   "id": 320601435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081004,33.433145,-112.081004,33.433145",
     "geom:latitude":33.433145,
     "geom:longitude":-112.081004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 W Pima St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320601435,
-    "wof:lastmodified":1449012924,
+    "wof:lastmodified":1466325782,
     "wof:name":"St Paul's Sudanese Episcopal Mission",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "churches-episcopal"
     ]
 },
-  "bbox": [-112.081004,33.433145,-112.081004,33.433145],
-  "geometry": {"coordinates":[-112.081004,33.433145],"type":"Point"}
+  "bbox": [
+    -112.081004,
+    33.433145,
+    -112.081004,
+    33.433145
+],
+  "geometry": {"coordinates":[-112.08100399999999,33.433145],"type":"Point"}
 }

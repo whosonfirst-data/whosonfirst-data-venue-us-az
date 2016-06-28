@@ -2,13 +2,14 @@
   "id": 353908399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.98456,35.192502,-113.98456,35.192502",
     "geom:latitude":35.192502,
     "geom:longitude":-113.98456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 Comanche Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353908399,
-    "wof:lastmodified":1449019705,
+    "wof:lastmodified":1466331137,
     "wof:name":"Benchmark Plumbing",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-113.98456,35.192502,-113.98456,35.192502],
+  "bbox": [
+    -113.98456,
+    35.192502,
+    -113.98456,
+    35.192502
+],
   "geometry": {"coordinates":[-113.98456,35.192502],"type":"Point"}
 }

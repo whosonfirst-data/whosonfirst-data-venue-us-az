@@ -2,13 +2,14 @@
   "id": 152949677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921446,33.479553,-111.921446,33.479553",
     "geom:latitude":33.479553,
     "geom:longitude":-111.921446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 N 74th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.genustechnology.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152949677,
-    "wof:lastmodified":1449047167,
+    "wof:lastmodified":1466327348,
     "wof:name":"Genus Technology-Databases",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921446,33.479553,-111.921446,33.479553],
+  "bbox": [
+    -111.921446,
+    33.479553,
+    -111.921446,
+    33.479553
+],
   "geometry": {"coordinates":[-111.921446,33.479553],"type":"Point"}
 }

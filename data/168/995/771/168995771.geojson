@@ -2,13 +2,14 @@
   "id": 168995771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.950839,32.177908,-110.950839,32.177908",
     "geom:latitude":32.177908,
     "geom:longitude":-110.950839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168995771,
-    "wof:lastmodified":1449028504,
+    "wof:lastmodified":1466331678,
     "wof:name":"Tucson Industrial Products Inc",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.950839,32.177908,-110.950839,32.177908],
+  "bbox": [
+    -110.950839,
+    32.177908,
+    -110.950839,
+    32.177908
+],
   "geometry": {"coordinates":[-110.950839,32.177908],"type":"Point"}
 }

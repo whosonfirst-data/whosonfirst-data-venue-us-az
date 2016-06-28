@@ -2,13 +2,14 @@
   "id": 320857433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995972,33.615501,-111.995972,33.615501",
     "geom:latitude":33.615501,
     "geom:longitude":-111.995972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 E Hearn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320857433,
-    "wof:lastmodified":1449013686,
+    "wof:lastmodified":1466330610,
     "wof:name":"Hospitality Services, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cleaners-water"
     ]
 },
-  "bbox": [-111.995972,33.615501,-111.995972,33.615501],
-  "geometry": {"coordinates":[-111.995972,33.615501],"type":"Point"}
+  "bbox": [
+    -111.995972,
+    33.615501,
+    -111.995972,
+    33.615501
+],
+  "geometry": {"coordinates":[-111.99597199999999,33.615501],"type":"Point"}
 }

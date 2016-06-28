@@ -2,13 +2,14 @@
   "id": 169391487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.693487,33.477915,-111.693487,33.477915",
     "geom:latitude":33.477915,
     "geom:longitude":-111.693487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 N Sea Pines",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872431,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169391487,
-    "wof:lastmodified":1449034797,
+    "wof:lastmodified":1466333895,
     "wof:name":"Quality Life Products",
     "wof:parent_id":85872431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.693487,33.477915,-111.693487,33.477915],
+  "bbox": [
+    -111.693487,
+    33.477915,
+    -111.693487,
+    33.477915
+],
   "geometry": {"coordinates":[-111.693487,33.477915],"type":"Point"}
 }

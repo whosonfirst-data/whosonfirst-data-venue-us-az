@@ -2,13 +2,14 @@
   "id": 353859193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.82399,32.295071,-110.82399,32.295071",
     "geom:latitude":32.295071,
     "geom:longitude":-110.82399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 N Sabino Canyon Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353859193,
-    "wof:lastmodified":1449020070,
+    "wof:lastmodified":1466330856,
     "wof:name":"Cpes",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-110.82399,32.295071,-110.82399,32.295071],
-  "geometry": {"coordinates":[-110.82399,32.295071],"type":"Point"}
+  "bbox": [
+    -110.82399,
+    32.295071,
+    -110.82399,
+    32.295071
+],
+  "geometry": {"coordinates":[-110.82398999999999,32.295071],"type":"Point"}
 }

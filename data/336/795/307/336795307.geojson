@@ -2,13 +2,14 @@
   "id": 336795307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.783732,33.379123,-111.783732,33.379123",
     "geom:latitude":33.379123,
     "geom:longitude":-111.783732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336795307,
-    "wof:lastmodified":1448997576,
+    "wof:lastmodified":1466329688,
     "wof:name":"Adventure Bicycle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-111.783732,33.379123,-111.783732,33.379123],
+  "bbox": [
+    -111.783732,
+    33.379123,
+    -111.783732,
+    33.379123
+],
   "geometry": {"coordinates":[-111.783732,33.379123],"type":"Point"}
 }

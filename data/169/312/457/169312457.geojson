@@ -2,13 +2,14 @@
   "id": 169312457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790411,33.312509,-111.790411,33.312509",
     "geom:latitude":33.312509,
     "geom:longitude":-111.790411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 N Scott Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169312457,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1466333126,
     "wof:name":"Gowns By Pamela Of Chandler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.790411,33.312509,-111.790411,33.312509],
-  "geometry": {"coordinates":[-111.790411,33.312509],"type":"Point"}
+  "bbox": [
+    -111.790411,
+    33.312509,
+    -111.790411,
+    33.312509
+],
+  "geometry": {"coordinates":[-111.79041100000001,33.312509],"type":"Point"}
 }

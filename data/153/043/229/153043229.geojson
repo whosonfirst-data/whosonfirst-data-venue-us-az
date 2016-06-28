@@ -2,13 +2,14 @@
   "id": 153043229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.385983,34.55549,-112.385983,34.55549",
     "geom:latitude":34.55549,
     "geom:longitude":-112.385983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Sunrise Blvd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.rkindustries.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153043229,
-    "wof:lastmodified":1449040696,
+    "wof:lastmodified":1466326699,
     "wof:name":"R K Industries",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.385983,34.55549,-112.385983,34.55549],
+  "bbox": [
+    -112.385983,
+    34.55549,
+    -112.385983,
+    34.55549
+],
   "geometry": {"coordinates":[-112.385983,34.55549],"type":"Point"}
 }

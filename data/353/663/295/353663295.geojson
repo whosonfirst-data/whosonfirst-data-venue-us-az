@@ -2,13 +2,14 @@
   "id": 353663295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.290129,34.146265,-114.290129,34.146265",
     "geom:latitude":34.146265,
     "geom:longitude":-114.290129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 W Arizona Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353663295,
-    "wof:lastmodified":1449020118,
+    "wof:lastmodified":1466329327,
     "wof:name":"River Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [-114.290129,34.146265,-114.290129,34.146265],
-  "geometry": {"coordinates":[-114.290129,34.146265],"type":"Point"}
+  "bbox": [
+    -114.290129,
+    34.146265,
+    -114.290129,
+    34.146265
+],
+  "geometry": {"coordinates":[-114.29012899999999,34.146265],"type":"Point"}
 }

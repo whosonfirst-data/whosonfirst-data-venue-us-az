@@ -2,13 +2,14 @@
   "id": 353833797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.937699,32.316401,-110.937699,32.316401",
     "geom:latitude":32.316401,
     "geom:longitude":-110.937699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 E Cerrada de Promesa",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353833797,
-    "wof:lastmodified":1449018579,
+    "wof:lastmodified":1466330656,
     "wof:name":"Sonoran Center For Pediatric Dentistry, P.C.",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-110.937699,32.316401,-110.937699,32.316401],
-  "geometry": {"coordinates":[-110.937699,32.316401],"type":"Point"}
+  "bbox": [
+    -110.937699,
+    32.316401,
+    -110.937699,
+    32.316401
+],
+  "geometry": {"coordinates":[-110.93769899999999,32.316401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168888445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.928161,32.221595,-110.928161,32.221595",
     "geom:latitude":32.221595,
     "geom:longitude":-110.928161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168888445,
-    "wof:lastmodified":1449028260,
+    "wof:lastmodified":1466328801,
     "wof:name":"Moeller Law Ofc",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.928161,32.221595,-110.928161,32.221595],
+  "bbox": [
+    -110.928161,
+    32.221595,
+    -110.928161,
+    32.221595
+],
   "geometry": {"coordinates":[-110.928161,32.221595],"type":"Point"}
 }

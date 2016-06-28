@@ -2,13 +2,14 @@
   "id": 169406353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.945152,32.235966,-110.945152,32.235966",
     "geom:latitude":32.235966,
     "geom:longitude":-110.945152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169406353,
-    "wof:lastmodified":1449034455,
+    "wof:lastmodified":1466334040,
     "wof:name":"Sunsations",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.945152,32.235966,-110.945152,32.235966],
-  "geometry": {"coordinates":[-110.945152,32.235966],"type":"Point"}
+  "bbox": [
+    -110.945152,
+    32.235966,
+    -110.945152,
+    32.235966
+],
+  "geometry": {"coordinates":[-110.94515199999999,32.235966],"type":"Point"}
 }

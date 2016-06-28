@@ -2,13 +2,14 @@
   "id": 169007603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.096334,32.192995,-111.096334,32.192995",
     "geom:latitude":32.192995,
     "geom:longitude":-111.096334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6113 W Tucson Estates Pkwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169007603,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466326628,
     "wof:name":"Old Peblo MBL HM Resellers LLC",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.096334,32.192995,-111.096334,32.192995],
+  "bbox": [
+    -111.096334,
+    32.192995,
+    -111.096334,
+    32.192995
+],
   "geometry": {"coordinates":[-111.096334,32.192995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169294777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.818179,32.20649,-110.818179,32.20649",
     "geom:latitude":32.20649,
     "geom:longitude":-110.818179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8125 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169294777,
-    "wof:lastmodified":1449035032,
+    "wof:lastmodified":1466332926,
     "wof:name":"A Atlas Discount Storage",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.818179,32.20649,-110.818179,32.20649],
+  "bbox": [
+    -110.818179,
+    32.20649,
+    -110.818179,
+    32.20649
+],
   "geometry": {"coordinates":[-110.818179,32.20649],"type":"Point"}
 }

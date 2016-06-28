@@ -2,13 +2,14 @@
   "id": 169392055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.658745,33.415174,-111.658745,33.415174",
     "geom:latitude":33.415174,
     "geom:longitude":-111.658745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7935 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820323,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169392055,
-    "wof:lastmodified":1449035305,
+    "wof:lastmodified":1466333847,
     "wof:name":"Custom Golf Cart Sales",
     "wof:parent_id":85820323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.658745,33.415174,-111.658745,33.415174],
+  "bbox": [
+    -111.658745,
+    33.415174,
+    -111.658745,
+    33.415174
+],
   "geometry": {"coordinates":[-111.658745,33.415174],"type":"Point"}
 }

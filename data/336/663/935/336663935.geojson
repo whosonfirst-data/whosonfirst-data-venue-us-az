@@ -2,13 +2,14 @@
   "id": 336663935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008338,33.412491,-112.008338,33.412491",
     "geom:latitude":33.412491,
     "geom:longitude":-112.008338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3449 E Illini St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336663935,
-    "wof:lastmodified":1448997726,
+    "wof:lastmodified":1466327278,
     "wof:name":"Fountain Land",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-112.008338,33.412491,-112.008338,33.412491],
-  "geometry": {"coordinates":[-112.008338,33.412491],"type":"Point"}
+  "bbox": [
+    -112.008338,
+    33.412491,
+    -112.008338,
+    33.412491
+],
+  "geometry": {"coordinates":[-112.00833799999999,33.412491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169183565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.901039,33.56395,-111.901039,33.56395",
     "geom:latitude":33.56395,
     "geom:longitude":-111.901039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8207 E del Cuarzo Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833181,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85833181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169183565,
-    "wof:lastmodified":1449034460,
+    "wof:lastmodified":1466331993,
     "wof:name":"Carol Conway Design Assoc",
     "wof:parent_id":85833181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.901039,33.56395,-111.901039,33.56395],
+  "bbox": [
+    -111.901039,
+    33.56395,
+    -111.901039,
+    33.56395
+],
   "geometry": {"coordinates":[-111.901039,33.56395],"type":"Point"}
 }

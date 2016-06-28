@@ -2,13 +2,14 @@
   "id": 336756829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.871186,33.425364,-111.871186,33.425364",
     "geom:latitude":33.425364,
     "geom:longitude":-111.871186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 W 6th St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336756829,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466328915,
     "wof:name":"Sweetwater Lawn Svc Inc",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-111.871186,33.425364,-111.871186,33.425364],
-  "geometry": {"coordinates":[-111.871186,33.425364],"type":"Point"}
+  "bbox": [
+    -111.871186,
+    33.425364,
+    -111.871186,
+    33.425364
+],
+  "geometry": {"coordinates":[-111.87118599999999,33.425364],"type":"Point"}
 }

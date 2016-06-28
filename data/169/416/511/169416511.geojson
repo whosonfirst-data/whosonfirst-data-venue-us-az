@@ -2,13 +2,14 @@
   "id": 169416511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.5926,32.698545,-114.5926,32.698545",
     "geom:latitude":32.698545,
     "geom:longitude":-114.5926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 E 16th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081527,
-        85633793,
         85688719,
-        85895863
+        85633793,
+        85895863,
+        102081527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169416511,
-    "wof:lastmodified":1449034156,
+    "wof:lastmodified":1466334145,
     "wof:name":"Barneys Gas Stop",
     "wof:parent_id":85895863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.5926,32.698545,-114.5926,32.698545],
+  "bbox": [
+    -114.5926,
+    32.698545,
+    -114.5926,
+    32.698545
+],
   "geometry": {"coordinates":[-114.5926,32.698545],"type":"Point"}
 }

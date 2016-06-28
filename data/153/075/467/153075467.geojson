@@ -2,13 +2,14 @@
   "id": 153075467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598026,35.087897,-114.598026,35.087897",
     "geom:latitude":35.087897,
     "geom:longitude":-114.598026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Newberry Dr",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153075467,
-    "wof:lastmodified":1449040619,
+    "wof:lastmodified":1466328557,
     "wof:name":"Back Bay Canoes Kayaks & Acces",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598026,35.087897,-114.598026,35.087897],
+  "bbox": [
+    -114.598026,
+    35.087897,
+    -114.598026,
+    35.087897
+],
   "geometry": {"coordinates":[-114.598026,35.087897],"type":"Point"}
 }

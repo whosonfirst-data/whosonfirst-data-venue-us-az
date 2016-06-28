@@ -2,13 +2,14 @@
   "id": 168943921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923326,33.491273,-111.923326,33.491273",
     "geom:latitude":33.491273,
     "geom:longitude":-111.923326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 N Wells Fargo Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168943921,
-    "wof:lastmodified":1449027968,
+    "wof:lastmodified":1466330874,
     "wof:name":"Surgical Specialist-Scottsdale",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.923326,33.491273,-111.923326,33.491273],
+  "bbox": [
+    -111.923326,
+    33.491273,
+    -111.923326,
+    33.491273
+],
   "geometry": {"coordinates":[-111.923326,33.491273],"type":"Point"}
 }

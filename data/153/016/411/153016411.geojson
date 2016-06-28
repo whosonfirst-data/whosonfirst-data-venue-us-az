@@ -2,13 +2,14 @@
   "id": 153016411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926247,33.395658,-111.926247,33.395658",
     "geom:latitude":33.395658,
     "geom:longitude":-111.926247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 S Rural Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881431,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153016411,
-    "wof:lastmodified":1449040409,
+    "wof:lastmodified":1466326593,
     "wof:name":"Chapter Eight Clothing LLC",
     "wof:parent_id":85881431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.926247,33.395658,-111.926247,33.395658],
+  "bbox": [
+    -111.926247,
+    33.395658,
+    -111.926247,
+    33.395658
+],
   "geometry": {"coordinates":[-111.926247,33.395658],"type":"Point"}
 }

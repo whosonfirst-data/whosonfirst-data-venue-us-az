@@ -2,13 +2,14 @@
   "id": 169075237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.250562,33.631199,-112.250562,33.631199",
     "geom:latitude":33.631199,
     "geom:longitude":-112.250562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16106 N 90th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169075237,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466329865,
     "wof:name":"Sme Trucking",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.250562,33.631199,-112.250562,33.631199],
+  "bbox": [
+    -112.250562,
+    33.631199,
+    -112.250562,
+    33.631199
+],
   "geometry": {"coordinates":[-112.250562,33.631199],"type":"Point"}
 }

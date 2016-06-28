@@ -2,13 +2,14 @@
   "id": 153068763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.912721,32.164844,-110.912721,32.164844",
     "geom:latitude":32.164844,
     "geom:longitude":-110.912721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 S Overland Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153068763,
-    "wof:lastmodified":1449040592,
+    "wof:lastmodified":1466328487,
     "wof:name":"Raim Associates LLC",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.912721,32.164844,-110.912721,32.164844],
+  "bbox": [
+    -110.912721,
+    32.164844,
+    -110.912721,
+    32.164844
+],
   "geometry": {"coordinates":[-110.912721,32.164844],"type":"Point"}
 }

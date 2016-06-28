@@ -2,13 +2,14 @@
   "id": 168882559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952717,32.264862,-110.952717,32.264862",
     "geom:latitude":32.264862,
     "geom:longitude":-110.952717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168882559,
-    "wof:lastmodified":1449027912,
+    "wof:lastmodified":1466328425,
     "wof:name":"Bubblebath Carwash Supply",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.952717,32.264862,-110.952717,32.264862],
-  "geometry": {"coordinates":[-110.952717,32.264862],"type":"Point"}
+  "bbox": [
+    -110.952717,
+    32.264862,
+    -110.952717,
+    32.264862
+],
+  "geometry": {"coordinates":[-110.95271700000001,32.264862],"type":"Point"}
 }

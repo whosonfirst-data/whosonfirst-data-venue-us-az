@@ -2,13 +2,14 @@
   "id": 169055971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220391,33.546362,-112.220391,33.546362",
     "geom:latitude":33.546362,
     "geom:longitude":-112.220391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7533 N 75th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169055971,
-    "wof:lastmodified":1449033427,
+    "wof:lastmodified":1466328781,
     "wof:name":"JDS Footings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220391,33.546362,-112.220391,33.546362],
-  "geometry": {"coordinates":[-112.220391,33.546362],"type":"Point"}
+  "bbox": [
+    -112.220391,
+    33.546362,
+    -112.220391,
+    33.546362
+],
+  "geometry": {"coordinates":[-112.22039100000001,33.546362],"type":"Point"}
 }

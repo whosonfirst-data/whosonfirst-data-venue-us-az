@@ -2,13 +2,14 @@
   "id": 169396747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.033495,32.261599,-111.033495,32.261599",
     "geom:latitude":32.261599,
     "geom:longitude":-111.033495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 W Morgan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169396747,
-    "wof:lastmodified":1449034853,
+    "wof:lastmodified":1466333979,
     "wof:name":"Kharlsma Arabians",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.033495,32.261599,-111.033495,32.261599],
+  "bbox": [
+    -111.033495,
+    32.261599,
+    -111.033495,
+    32.261599
+],
   "geometry": {"coordinates":[-111.033495,32.261599],"type":"Point"}
 }

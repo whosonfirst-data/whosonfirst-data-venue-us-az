@@ -2,13 +2,14 @@
   "id": 169224231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.933091,32.272335,-110.933091,32.272335",
     "geom:latitude":32.272335,
     "geom:longitude":-110.933091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2631 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169224231,
-    "wof:lastmodified":1449035088,
+    "wof:lastmodified":1466332304,
     "wof:name":"Paradise Limousine",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.933091,32.272335,-110.933091,32.272335],
+  "bbox": [
+    -110.933091,
+    32.272335,
+    -110.933091,
+    32.272335
+],
   "geometry": {"coordinates":[-110.933091,32.272335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152996073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.823043,33.349707,-111.823043,33.349707",
     "geom:latitude":33.349707,
     "geom:longitude":-111.823043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 W Elliot Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818853,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85818853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152996073,
-    "wof:lastmodified":1449045534,
+    "wof:lastmodified":1466329903,
     "wof:name":"Susan Beyer Agency Inc",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.823043,33.349707,-111.823043,33.349707],
+  "bbox": [
+    -111.823043,
+    33.349707,
+    -111.823043,
+    33.349707
+],
   "geometry": {"coordinates":[-111.823043,33.349707],"type":"Point"}
 }

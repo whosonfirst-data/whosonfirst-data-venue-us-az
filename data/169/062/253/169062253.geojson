@@ -2,13 +2,14 @@
   "id": 169062253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.295892,31.555829,-110.295892,31.555829",
     "geom:latitude":31.555829,
     "geom:longitude":-110.295892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 E Short St",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169062253,
-    "wof:lastmodified":1449035721,
+    "wof:lastmodified":1466329096,
     "wof:name":"All Appliance Repair",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.295892,31.555829,-110.295892,31.555829],
-  "geometry": {"coordinates":[-110.295892,31.555829],"type":"Point"}
+  "bbox": [
+    -110.295892,
+    31.555829,
+    -110.295892,
+    31.555829
+],
+  "geometry": {"coordinates":[-110.29589199999999,31.555829],"type":"Point"}
 }

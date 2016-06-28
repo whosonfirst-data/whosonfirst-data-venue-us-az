@@ -2,13 +2,14 @@
   "id": 169238587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.397789,34.546612,-112.397789,34.546612",
     "geom:latitude":34.546612,
     "geom:longitude":-112.397789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3719 Karicio Ln",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.paar.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169238587,
-    "wof:lastmodified":1449033927,
+    "wof:lastmodified":1466332395,
     "wof:name":"Prescott Area Assn of Realtors",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.397789,34.546612,-112.397789,34.546612],
+  "bbox": [
+    -112.397789,
+    34.546612,
+    -112.397789,
+    34.546612
+],
   "geometry": {"coordinates":[-112.397789,34.546612],"type":"Point"}
 }

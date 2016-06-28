@@ -2,13 +2,14 @@
   "id": 169211155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.986169,32.225338,-110.986169,32.225338",
     "geom:latitude":32.225338,
     "geom:longitude":-110.986169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Commerce Park Loop",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169211155,
-    "wof:lastmodified":1449033502,
+    "wof:lastmodified":1466332193,
     "wof:name":"Tucson Property-Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.986169,32.225338,-110.986169,32.225338],
+  "bbox": [
+    -110.986169,
+    32.225338,
+    -110.986169,
+    32.225338
+],
   "geometry": {"coordinates":[-110.986169,32.225338],"type":"Point"}
 }

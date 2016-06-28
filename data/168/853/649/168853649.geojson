@@ -2,13 +2,14 @@
   "id": 168853649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.295332,31.967968,-110.295332,31.967968",
     "geom:latitude":31.967968,
     "geom:longitude":-110.295332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E 4th St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168853649,
-    "wof:lastmodified":1449028080,
+    "wof:lastmodified":1466326021,
     "wof:name":"Pages Palace",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.295332,31.967968,-110.295332,31.967968],
+  "bbox": [
+    -110.295332,
+    31.967968,
+    -110.295332,
+    31.967968
+],
   "geometry": {"coordinates":[-110.295332,31.967968],"type":"Point"}
 }

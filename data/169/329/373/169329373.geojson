@@ -2,13 +2,14 @@
   "id": 169329373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16975,33.664271,-112.16975,33.664271",
     "geom:latitude":33.664271,
     "geom:longitude":-112.16975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5119 W Oraibi Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858917,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85858917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169329373,
-    "wof:lastmodified":1449033601,
+    "wof:lastmodified":1466333294,
     "wof:name":"AIG Royal Alliance",
     "wof:parent_id":85858917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16975,33.664271,-112.16975,33.664271],
-  "geometry": {"coordinates":[-112.16975,33.664271],"type":"Point"}
+  "bbox": [
+    -112.16975,
+    33.664271,
+    -112.16975,
+    33.664271
+],
+  "geometry": {"coordinates":[-112.16974999999999,33.664271],"type":"Point"}
 }

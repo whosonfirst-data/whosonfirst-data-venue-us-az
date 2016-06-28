@@ -2,13 +2,14 @@
   "id": 153010761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.272186,33.598453,-112.272186,33.598453",
     "geom:latitude":33.598453,
     "geom:longitude":-112.272186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9922 W Santa Fe Dr",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.pohlenv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153010761,
-    "wof:lastmodified":1449040651,
+    "wof:lastmodified":1466326099,
     "wof:name":"Pohle Nv Ctr",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.272186,33.598453,-112.272186,33.598453],
+  "bbox": [
+    -112.272186,
+    33.598453,
+    -112.272186,
+    33.598453
+],
   "geometry": {"coordinates":[-112.272186,33.598453],"type":"Point"}
 }

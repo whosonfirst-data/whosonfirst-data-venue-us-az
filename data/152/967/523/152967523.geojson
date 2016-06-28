@@ -2,13 +2,14 @@
   "id": 152967523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.725403,33.45177,-111.725403,33.45177",
     "geom:latitude":33.45177,
     "geom:longitude":-111.725403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 E McKellips Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803247,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85803247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152967523,
-    "wof:lastmodified":1449048575,
+    "wof:lastmodified":1466328550,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":85803247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.725403,33.45177,-111.725403,33.45177],
+  "bbox": [
+    -111.725403,
+    33.45177,
+    -111.725403,
+    33.45177
+],
   "geometry": {"coordinates":[-111.725403,33.45177],"type":"Point"}
 }

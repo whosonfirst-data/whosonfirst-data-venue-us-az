@@ -2,13 +2,14 @@
   "id": 353830601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956064,32.175181,-110.956064,32.175181",
     "geom:latitude":32.175181,
     "geom:longitude":-110.956064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Palmdale St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353830601,
-    "wof:lastmodified":1449018806,
+    "wof:lastmodified":1466330763,
     "wof:name":"PPEP Inc",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-110.956064,32.175181,-110.956064,32.175181],
+  "bbox": [
+    -110.956064,
+    32.175181,
+    -110.956064,
+    32.175181
+],
   "geometry": {"coordinates":[-110.956064,32.175181],"type":"Point"}
 }

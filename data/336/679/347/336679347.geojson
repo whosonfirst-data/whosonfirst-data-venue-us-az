@@ -2,13 +2,14 @@
   "id": 336679347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036588,33.374648,-112.036588,33.374648",
     "geom:latitude":33.374648,
     "geom:longitude":-112.036588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 E Fawn Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336679347,
-    "wof:lastmodified":1448997622,
+    "wof:lastmodified":1466327667,
     "wof:name":"Research This",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-112.036588,33.374648,-112.036588,33.374648],
-  "geometry": {"coordinates":[-112.036588,33.374648],"type":"Point"}
+  "bbox": [
+    -112.036588,
+    33.374648,
+    -112.036588,
+    33.374648
+],
+  "geometry": {"coordinates":[-112.03658799999999,33.374648],"type":"Point"}
 }

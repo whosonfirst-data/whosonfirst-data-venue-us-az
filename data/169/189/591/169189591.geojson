@@ -2,13 +2,14 @@
   "id": 169189591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.71168,33.219231,-111.71168,33.219231",
     "geom:latitude":33.219231,
     "geom:longitude":-111.71168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17239 E Riggs Rd",
     "sg:city":"Queen Creek",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169189591,
-    "wof:lastmodified":1449035012,
+    "wof:lastmodified":1466332067,
     "wof:name":"Sunrise Paso Finos",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.71168,33.219231,-111.71168,33.219231],
+  "bbox": [
+    -111.71168,
+    33.219231,
+    -111.71168,
+    33.219231
+],
   "geometry": {"coordinates":[-111.71168,33.219231],"type":"Point"}
 }

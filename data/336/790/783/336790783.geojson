@@ -2,13 +2,14 @@
   "id": 336790783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.764091,33.379985,-111.764091,33.379985",
     "geom:latitude":33.379985,
     "geom:longitude":-111.764091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3048 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336790783,
-    "wof:lastmodified":1448997781,
+    "wof:lastmodified":1466329487,
     "wof:name":"Vip Homes",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.764091,33.379985,-111.764091,33.379985],
-  "geometry": {"coordinates":[-111.764091,33.379985],"type":"Point"}
+  "bbox": [
+    -111.764091,
+    33.379985,
+    -111.764091,
+    33.379985
+],
+  "geometry": {"coordinates":[-111.76409099999999,33.379985],"type":"Point"}
 }

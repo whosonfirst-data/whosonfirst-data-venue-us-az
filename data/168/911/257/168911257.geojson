@@ -2,13 +2,14 @@
   "id": 168911257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.926786,32.243245,-110.926786,32.243245",
     "geom:latitude":32.243245,
     "geom:longitude":-110.926786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Country Club Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.sacasa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168911257,
-    "wof:lastmodified":1449028454,
+    "wof:lastmodified":1466329908,
     "wof:name":"Southern Arizona Ctr Against",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.926786,32.243245,-110.926786,32.243245],
-  "geometry": {"coordinates":[-110.926786,32.243245],"type":"Point"}
+  "bbox": [
+    -110.926786,
+    32.243245,
+    -110.926786,
+    32.243245
+],
+  "geometry": {"coordinates":[-110.92678600000001,32.243245],"type":"Point"}
 }

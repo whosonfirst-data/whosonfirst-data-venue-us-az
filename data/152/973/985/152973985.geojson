@@ -2,13 +2,14 @@
   "id": 152973985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969583,32.366126,-110.969583,32.366126",
     "geom:latitude":32.366126,
     "geom:longitude":-110.969583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8710 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152973985,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1466328609,
     "wof:name":"Storage USA 86",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969583,32.366126,-110.969583,32.366126],
+  "bbox": [
+    -110.969583,
+    32.366126,
+    -110.969583,
+    32.366126
+],
   "geometry": {"coordinates":[-110.969583,32.366126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320789095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105027,33.539485,-112.105027,33.539485",
     "geom:latitude":33.539485,
     "geom:longitude":-112.105027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 W Cactus Wren Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320789095,
-    "wof:lastmodified":1449012938,
+    "wof:lastmodified":1466329525,
     "wof:name":"Rna Productions",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "companies-film"
     ]
 },
-  "bbox": [-112.105027,33.539485,-112.105027,33.539485],
-  "geometry": {"coordinates":[-112.105027,33.539485],"type":"Point"}
+  "bbox": [
+    -112.105027,
+    33.539485,
+    -112.105027,
+    33.539485
+],
+  "geometry": {"coordinates":[-112.10502700000001,33.539485],"type":"Point"}
 }

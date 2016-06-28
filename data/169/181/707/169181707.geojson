@@ -2,13 +2,14 @@
   "id": 169181707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.031555,34.253515,-110.031555,34.253515",
     "geom:latitude":34.253515,
     "geom:longitude":-110.031555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169181707,
-    "wof:lastmodified":1449034709,
+    "wof:lastmodified":1466332006,
     "wof:name":"Fraley's Auto Svc",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.031555,34.253515,-110.031555,34.253515],
+  "bbox": [
+    -110.031555,
+    34.253515,
+    -110.031555,
+    34.253515
+],
   "geometry": {"coordinates":[-110.031555,34.253515],"type":"Point"}
 }

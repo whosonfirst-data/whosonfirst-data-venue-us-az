@@ -2,13 +2,14 @@
   "id": 353866435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.091682,34.453609,-110.091682,34.453609",
     "geom:latitude":34.453609,
     "geom:longitude":-110.091682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 S Main St",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353866435,
-    "wof:lastmodified":1449019476,
+    "wof:lastmodified":1466330758,
     "wof:name":"McDonald's",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "chicken"
     ]
 },
-  "bbox": [-110.091682,34.453609,-110.091682,34.453609],
-  "geometry": {"coordinates":[-110.091682,34.453609],"type":"Point"}
+  "bbox": [
+    -110.091682,
+    34.453609,
+    -110.091682,
+    34.453609
+],
+  "geometry": {"coordinates":[-110.09168200000001,34.453609],"type":"Point"}
 }

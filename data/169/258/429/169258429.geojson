@@ -2,13 +2,14 @@
   "id": 169258429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.438604,34.664705,-112.438604,34.664705",
     "geom:latitude":34.664705,
     "geom:longitude":-112.438604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 N US Hwy 89",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852851,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85852851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169258429,
-    "wof:lastmodified":1449035284,
+    "wof:lastmodified":1466332559,
     "wof:name":"Deep Well Ranch Office",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.438604,34.664705,-112.438604,34.664705],
+  "bbox": [
+    -112.438604,
+    34.664705,
+    -112.438604,
+    34.664705
+],
   "geometry": {"coordinates":[-112.438604,34.664705],"type":"Point"}
 }

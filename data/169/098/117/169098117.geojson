@@ -2,13 +2,14 @@
   "id": 169098117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.343248,33.528099,-112.343248,33.528099",
     "geom:latitude":33.528099,
     "geom:longitude":-112.343248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13129 W Citrus Way",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85812515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169098117,
-    "wof:lastmodified":1449035607,
+    "wof:lastmodified":1466330971,
     "wof:name":"Daddy Hippo Music Co",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.343248,33.528099,-112.343248,33.528099],
+  "bbox": [
+    -112.343248,
+    33.528099,
+    -112.343248,
+    33.528099
+],
   "geometry": {"coordinates":[-112.343248,33.528099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169048803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969732,32.221143,-110.969732,32.221143",
     "geom:latitude":32.221143,
     "geom:longitude":-110.969732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169048803,
-    "wof:lastmodified":1449033840,
+    "wof:lastmodified":1466328465,
     "wof:name":"Cafe Poca Cosa",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969732,32.221143,-110.969732,32.221143],
-  "geometry": {"coordinates":[-110.969732,32.221143],"type":"Point"}
+  "bbox": [
+    -110.969732,
+    32.221143,
+    -110.969732,
+    32.221143
+],
+  "geometry": {"coordinates":[-110.96973199999999,32.221143],"type":"Point"}
 }

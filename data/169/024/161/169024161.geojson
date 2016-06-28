@@ -2,13 +2,14 @@
   "id": 169024161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.786939,33.45535,-111.786939,33.45535",
     "geom:latitude":33.45535,
     "geom:longitude":-111.786939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2049 N Ashbrook",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831453,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85831453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169024161,
-    "wof:lastmodified":1449034265,
+    "wof:lastmodified":1466326342,
     "wof:name":"We Do Shade Inc",
     "wof:parent_id":85831453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.786939,33.45535,-111.786939,33.45535],
+  "bbox": [
+    -111.786939,
+    33.45535,
+    -111.786939,
+    33.45535
+],
   "geometry": {"coordinates":[-111.786939,33.45535],"type":"Point"}
 }

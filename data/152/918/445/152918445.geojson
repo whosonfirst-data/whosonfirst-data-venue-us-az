@@ -2,13 +2,14 @@
   "id": 152918445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010358,33.51637,-112.010358,33.51637",
     "geom:latitude":33.51637,
     "geom:longitude":-112.010358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 N 33rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853881,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152918445,
-    "wof:lastmodified":1449047441,
+    "wof:lastmodified":1466326668,
     "wof:name":"Mc Ginn Co",
     "wof:parent_id":85853881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.010358,33.51637,-112.010358,33.51637],
+  "bbox": [
+    -112.010358,
+    33.51637,
+    -112.010358,
+    33.51637
+],
   "geometry": {"coordinates":[-112.010358,33.51637],"type":"Point"}
 }

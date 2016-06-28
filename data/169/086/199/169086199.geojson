@@ -2,13 +2,14 @@
   "id": 169086199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154091,33.639209,-112.154091,33.639209",
     "geom:latitude":33.639209,
     "geom:longitude":-112.154091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4367 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840735,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169086199,
-    "wof:lastmodified":1449034900,
+    "wof:lastmodified":1466330192,
     "wof:name":"Super Vacuum",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154091,33.639209,-112.154091,33.639209],
-  "geometry": {"coordinates":[-112.154091,33.639209],"type":"Point"}
+  "bbox": [
+    -112.154091,
+    33.639209,
+    -112.154091,
+    33.639209
+],
+  "geometry": {"coordinates":[-112.15409099999999,33.639209],"type":"Point"}
 }

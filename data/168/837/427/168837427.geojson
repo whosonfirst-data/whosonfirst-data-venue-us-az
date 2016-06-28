@@ -2,13 +2,14 @@
   "id": 168837427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103778,33.658107,-112.103778,33.658107",
     "geom:latitude":33.658107,
     "geom:longitude":-112.103778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19024 N 20th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168837427,
-    "wof:lastmodified":1449027889,
+    "wof:lastmodified":1466326833,
     "wof:name":"Jaynie C Klecka",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103778,33.658107,-112.103778,33.658107],
-  "geometry": {"coordinates":[-112.103778,33.658107],"type":"Point"}
+  "bbox": [
+    -112.103778,
+    33.658107,
+    -112.103778,
+    33.658107
+],
+  "geometry": {"coordinates":[-112.10377800000001,33.658107],"type":"Point"}
 }

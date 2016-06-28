@@ -2,13 +2,14 @@
   "id": 169194409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.180911,35.220386,-114.180911,35.220386",
     "geom:latitude":35.220386,
     "geom:longitude":-114.180911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4278 US Hwy 68",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169194409,
-    "wof:lastmodified":1449035487,
+    "wof:lastmodified":1466332078,
     "wof:name":"68 Auto-Three Amigos",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.180911,35.220386,-114.180911,35.220386],
-  "geometry": {"coordinates":[-114.180911,35.220386],"type":"Point"}
+  "bbox": [
+    -114.180911,
+    35.220386,
+    -114.180911,
+    35.220386
+],
+  "geometry": {"coordinates":[-114.18091099999999,35.220386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169013891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.091517,32.186904,-111.091517,32.186904",
     "geom:latitude":32.186904,
     "geom:longitude":-111.091517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 W Western Way Cir",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.tucsonestates.goodday.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169013891,
-    "wof:lastmodified":1449034925,
+    "wof:lastmodified":1466327211,
     "wof:name":"Tucson Estates",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.091517,32.186904,-111.091517,32.186904],
+  "bbox": [
+    -111.091517,
+    32.186904,
+    -111.091517,
+    32.186904
+],
   "geometry": {"coordinates":[-111.091517,32.186904],"type":"Point"}
 }

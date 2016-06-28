@@ -2,13 +2,14 @@
   "id": 169289065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.589094,35.023859,-114.589094,35.023859",
     "geom:latitude":35.023859,
     "geom:longitude":-114.589094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4560 Cll del Media",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169289065,
-    "wof:lastmodified":1449035419,
+    "wof:lastmodified":1466332829,
     "wof:name":"Mobile Wash Of America",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.589094,35.023859,-114.589094,35.023859],
+  "bbox": [
+    -114.589094,
+    35.023859,
+    -114.589094,
+    35.023859
+],
   "geometry": {"coordinates":[-114.589094,35.023859],"type":"Point"}
 }

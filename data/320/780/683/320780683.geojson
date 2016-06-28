@@ -2,13 +2,14 @@
   "id": 320780683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.099609,33.54224,-112.099609,33.54224",
     "geom:latitude":33.54224,
     "geom:longitude":-112.099609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 N 19th Ave # 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320780683,
-    "wof:lastmodified":1449014044,
+    "wof:lastmodified":1466329600,
     "wof:name":"Feinberg, Irwin, Dds - Arizona Periodontal Group",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-periodontists"
     ]
 },
-  "bbox": [-112.099609,33.54224,-112.099609,33.54224],
+  "bbox": [
+    -112.099609,
+    33.54224,
+    -112.099609,
+    33.54224
+],
   "geometry": {"coordinates":[-112.099609,33.54224],"type":"Point"}
 }

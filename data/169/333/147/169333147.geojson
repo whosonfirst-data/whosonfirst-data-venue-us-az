@@ -2,13 +2,14 @@
   "id": 169333147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220904,33.437619,-112.220904,33.437619",
     "geom:latitude":33.437619,
     "geom:longitude":-112.220904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S 75th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169333147,
-    "wof:lastmodified":1449035729,
+    "wof:lastmodified":1466333320,
     "wof:name":"Sun Valley Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220904,33.437619,-112.220904,33.437619],
+  "bbox": [
+    -112.220904,
+    33.437619,
+    -112.220904,
+    33.437619
+],
   "geometry": {"coordinates":[-112.220904,33.437619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168998471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927589,33.583606,-111.927589,33.583606",
     "geom:latitude":33.583606,
     "geom:longitude":-111.927589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7127 E Sahuaro Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880973,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168998471,
-    "wof:lastmodified":1449028007,
+    "wof:lastmodified":1466331670,
     "wof:name":"Morga Law Offices",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927589,33.583606,-111.927589,33.583606],
+  "bbox": [
+    -111.927589,
+    33.583606,
+    -111.927589,
+    33.583606
+],
   "geometry": {"coordinates":[-111.927589,33.583606],"type":"Point"}
 }

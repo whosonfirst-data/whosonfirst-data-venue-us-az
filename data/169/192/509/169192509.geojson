@@ -2,13 +2,14 @@
   "id": 169192509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.840139,33.397795,-111.840139,33.397795",
     "geom:latitude":33.397795,
     "geom:longitude":-111.840139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 S Country Club Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846607,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85846607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169192509,
-    "wof:lastmodified":1449035014,
+    "wof:lastmodified":1466332089,
     "wof:name":"Chosa's Harley-Davidson Inc",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.840139,33.397795,-111.840139,33.397795],
-  "geometry": {"coordinates":[-111.840139,33.397795],"type":"Point"}
+  "bbox": [
+    -111.840139,
+    33.397795,
+    -111.840139,
+    33.397795
+],
+  "geometry": {"coordinates":[-111.84013899999999,33.397795],"type":"Point"}
 }

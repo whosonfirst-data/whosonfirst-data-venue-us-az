@@ -2,13 +2,14 @@
   "id": 169367641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.918158,32.26514,-110.918158,32.26514",
     "geom:latitude":32.26514,
     "geom:longitude":-110.918158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3443 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169367641,
-    "wof:lastmodified":1449034639,
+    "wof:lastmodified":1466333650,
     "wof:name":"Retirement Financial Planning",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.918158,32.26514,-110.918158,32.26514],
-  "geometry": {"coordinates":[-110.918158,32.26514],"type":"Point"}
+  "bbox": [
+    -110.918158,
+    32.26514,
+    -110.918158,
+    32.26514
+],
+  "geometry": {"coordinates":[-110.91815800000001,32.26514],"type":"Point"}
 }

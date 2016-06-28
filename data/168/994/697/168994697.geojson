@@ -2,13 +2,14 @@
   "id": 168994697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.034736,35.208878,-114.034736,35.208878",
     "geom:latitude":35.208878,
     "geom:longitude":-114.034736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 Stockton Hill Rd",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168994697,
-    "wof:lastmodified":1449027805,
+    "wof:lastmodified":1466331640,
     "wof:name":"Gospel Light Baptist Church",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.034736,35.208878,-114.034736,35.208878],
+  "bbox": [
+    -114.034736,
+    35.208878,
+    -114.034736,
+    35.208878
+],
   "geometry": {"coordinates":[-114.034736,35.208878],"type":"Point"}
 }

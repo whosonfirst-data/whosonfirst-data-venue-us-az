@@ -2,13 +2,14 @@
   "id": 336661445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001355,33.399741,-112.001355,33.399741",
     "geom:latitude":33.399741,
     "geom:longitude":-112.001355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 E Roeser Rd Ste 17",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336661445,
-    "wof:lastmodified":1448997901,
+    "wof:lastmodified":1466327217,
     "wof:name":"Park Avenue Shutters and Blinds, Corp.",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "trimming"
     ]
 },
-  "bbox": [-112.001355,33.399741,-112.001355,33.399741],
+  "bbox": [
+    -112.001355,
+    33.399741,
+    -112.001355,
+    33.399741
+],
   "geometry": {"coordinates":[-112.001355,33.399741],"type":"Point"}
 }

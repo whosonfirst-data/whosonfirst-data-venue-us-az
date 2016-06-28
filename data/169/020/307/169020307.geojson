@@ -2,13 +2,14 @@
   "id": 169020307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.967878,32.263001,-110.967878,32.263001",
     "geom:latitude":32.263001,
     "geom:longitude":-110.967878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Delano St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169020307,
-    "wof:lastmodified":1449034215,
+    "wof:lastmodified":1466325992,
     "wof:name":"Wise Tank Service",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.967878,32.263001,-110.967878,32.263001],
+  "bbox": [
+    -110.967878,
+    32.263001,
+    -110.967878,
+    32.263001
+],
   "geometry": {"coordinates":[-110.967878,32.263001],"type":"Point"}
 }

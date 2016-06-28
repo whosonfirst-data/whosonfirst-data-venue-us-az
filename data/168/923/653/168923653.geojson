@@ -2,13 +2,14 @@
   "id": 168923653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172188,33.538411,-112.172188,33.538411",
     "geom:latitude":33.538411,
     "geom:longitude":-112.172188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5233 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168923653,
-    "wof:lastmodified":1449028559,
+    "wof:lastmodified":1466330249,
     "wof:name":"National Insurance Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172188,33.538411,-112.172188,33.538411],
-  "geometry": {"coordinates":[-112.172188,33.538411],"type":"Point"}
+  "bbox": [
+    -112.172188,
+    33.538411,
+    -112.172188,
+    33.538411
+],
+  "geometry": {"coordinates":[-112.17218800000001,33.538411],"type":"Point"}
 }

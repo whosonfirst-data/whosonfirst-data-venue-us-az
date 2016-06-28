@@ -2,13 +2,14 @@
   "id": 336636497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052062,33.449469,-112.052062,33.449469",
     "geom:latitude":33.449469,
     "geom:longitude":-112.052062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N 14th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336636497,
-    "wof:lastmodified":1448997384,
+    "wof:lastmodified":1466326695,
     "wof:name":"Uni First Corp",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "uniform"
     ]
 },
-  "bbox": [-112.052062,33.449469,-112.052062,33.449469],
-  "geometry": {"coordinates":[-112.052062,33.449469],"type":"Point"}
+  "bbox": [
+    -112.052062,
+    33.449469,
+    -112.052062,
+    33.449469
+],
+  "geometry": {"coordinates":[-112.05206200000001,33.449469],"type":"Point"}
 }

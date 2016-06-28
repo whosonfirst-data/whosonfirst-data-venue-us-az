@@ -2,13 +2,14 @@
   "id": 336759969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886612,33.374424,-111.886612,33.374424",
     "geom:latitude":33.374424,
     "geom:longitude":-111.886612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 W Los Lagos Vis",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":336759969,
-    "wof:lastmodified":1448998031,
+    "wof:lastmodified":1466329248,
     "wof:name":"Manhattan Bagel",
     "wof:parent_id":85828681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "balloons-retail"
     ]
 },
-  "bbox": [-111.886612,33.374424,-111.886612,33.374424],
+  "bbox": [
+    -111.886612,
+    33.374424,
+    -111.886612,
+    33.374424
+],
   "geometry": {"coordinates":[-111.886612,33.374424],"type":"Point"}
 }

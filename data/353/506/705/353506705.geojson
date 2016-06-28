@@ -2,13 +2,14 @@
   "id": 353506705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.954394,33.341068,-111.954394,33.341068",
     "geom:latitude":33.341068,
     "geom:longitude":-111.954394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 S Hardy Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353506705,
-    "wof:lastmodified":1449018311,
+    "wof:lastmodified":1466327305,
     "wof:name":"FedEx World Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "copy"
     ]
 },
-  "bbox": [-111.954394,33.341068,-111.954394,33.341068],
-  "geometry": {"coordinates":[-111.954394,33.341068],"type":"Point"}
+  "bbox": [
+    -111.954394,
+    33.341068,
+    -111.954394,
+    33.341068
+],
+  "geometry": {"coordinates":[-111.95439399999999,33.341068],"type":"Point"}
 }

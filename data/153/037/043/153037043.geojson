@@ -2,13 +2,14 @@
   "id": 153037043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.071076,33.486315,-112.071076,33.486315",
     "geom:latitude":33.486315,
     "geom:longitude":-112.071076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 N 2nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153037043,
-    "wof:lastmodified":1449040824,
+    "wof:lastmodified":1466326259,
     "wof:name":"Keig Tom",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.071076,33.486315,-112.071076,33.486315],
-  "geometry": {"coordinates":[-112.071076,33.486315],"type":"Point"}
+  "bbox": [
+    -112.071076,
+    33.486315,
+    -112.071076,
+    33.486315
+],
+  "geometry": {"coordinates":[-112.07107600000001,33.486315],"type":"Point"}
 }

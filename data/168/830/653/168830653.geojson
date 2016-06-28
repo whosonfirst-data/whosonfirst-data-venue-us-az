@@ -2,13 +2,14 @@
   "id": 168830653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.287725,34.130329,-109.287725,34.130329",
     "geom:latitude":34.130329,
     "geom:longitude":-109.287725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N Main St",
     "sg:city":"Eagar",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168830653,
-    "wof:lastmodified":1449027942,
+    "wof:lastmodified":1466326018,
     "wof:name":"A Better Look By Tina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.287725,34.130329,-109.287725,34.130329],
-  "geometry": {"coordinates":[-109.287725,34.130329],"type":"Point"}
+  "bbox": [
+    -109.287725,
+    34.130329,
+    -109.287725,
+    34.130329
+],
+  "geometry": {"coordinates":[-109.28772499999999,34.130329],"type":"Point"}
 }

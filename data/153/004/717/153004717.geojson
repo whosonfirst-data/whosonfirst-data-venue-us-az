@@ -2,13 +2,14 @@
   "id": 153004717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022584,33.530849,-112.022584,33.530849",
     "geom:latitude":33.530849,
     "geom:longitude":-112.022584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6402 N 28th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153004717,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1466325751,
     "wof:name":"Dance Centre",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022584,33.530849,-112.022584,33.530849],
-  "geometry": {"coordinates":[-112.022584,33.530849],"type":"Point"}
+  "bbox": [
+    -112.022584,
+    33.530849,
+    -112.022584,
+    33.530849
+],
+  "geometry": {"coordinates":[-112.02258399999999,33.530849],"type":"Point"}
 }

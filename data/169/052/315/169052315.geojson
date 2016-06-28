@@ -2,13 +2,14 @@
   "id": 169052315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.240968,33.659229,-112.240968,33.659229",
     "geom:latitude":33.659229,
     "geom:longitude":-112.240968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19147 N 84th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169052315,
-    "wof:lastmodified":1449034173,
+    "wof:lastmodified":1466328503,
     "wof:name":"Everyday Heroes Inc",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.240968,33.659229,-112.240968,33.659229],
+  "bbox": [
+    -112.240968,
+    33.659229,
+    -112.240968,
+    33.659229
+],
   "geometry": {"coordinates":[-112.240968,33.659229],"type":"Point"}
 }

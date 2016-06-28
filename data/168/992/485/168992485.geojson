@@ -2,13 +2,14 @@
   "id": 168992485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.174524,33.627419,-112.174524,33.627419",
     "geom:latitude":33.627419,
     "geom:longitude":-112.174524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5436 W Waltann Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":168992485,
-    "wof:lastmodified":1449028136,
+    "wof:lastmodified":1466331420,
     "wof:name":"Arizona Life Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.174524,33.627419,-112.174524,33.627419],
-  "geometry": {"coordinates":[-112.174524,33.627419],"type":"Point"}
+  "bbox": [
+    -112.174524,
+    33.627419,
+    -112.174524,
+    33.627419
+],
+  "geometry": {"coordinates":[-112.17452400000001,33.627419],"type":"Point"}
 }

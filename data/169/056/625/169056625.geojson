@@ -2,13 +2,14 @@
   "id": 169056625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929946,33.494939,-111.929946,33.494939",
     "geom:latitude":33.494939,
     "geom:longitude":-111.929946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7030 E Indian School Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.teacheredition.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169056625,
-    "wof:lastmodified":1449033630,
+    "wof:lastmodified":1466328830,
     "wof:name":"Bailey Design",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.929946,33.494939,-111.929946,33.494939],
+  "bbox": [
+    -111.929946,
+    33.494939,
+    -111.929946,
+    33.494939
+],
   "geometry": {"coordinates":[-111.929946,33.494939],"type":"Point"}
 }

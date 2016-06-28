@@ -2,13 +2,14 @@
   "id": 353809531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.96595,32.37472,-110.96595,32.37472",
     "geom:latitude":32.37472,
     "geom:longitude":-110.96595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10110 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353809531,
-    "wof:lastmodified":1449020364,
+    "wof:lastmodified":1466330325,
     "wof:name":"Bruce Unger - Allstate Insurance Company",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "renter"
     ]
 },
-  "bbox": [-110.96595,32.37472,-110.96595,32.37472],
-  "geometry": {"coordinates":[-110.96595,32.37472],"type":"Point"}
+  "bbox": [
+    -110.96595,
+    32.37472,
+    -110.96595,
+    32.37472
+],
+  "geometry": {"coordinates":[-110.96595000000001,32.37472],"type":"Point"}
 }

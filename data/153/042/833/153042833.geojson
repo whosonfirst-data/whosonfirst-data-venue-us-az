@@ -2,13 +2,14 @@
   "id": 153042833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.024274,32.268005,-111.024274,32.268005",
     "geom:latitude":32.268005,
     "geom:longitude":-111.024274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 N Silverbell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":153042833,
-    "wof:lastmodified":1449040698,
+    "wof:lastmodified":1466326671,
     "wof:name":"B & A Swarm Removal",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.024274,32.268005,-111.024274,32.268005],
-  "geometry": {"coordinates":[-111.024274,32.268005],"type":"Point"}
+  "bbox": [
+    -111.024274,
+    32.268005,
+    -111.024274,
+    32.268005
+],
+  "geometry": {"coordinates":[-111.02427400000001,32.268005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336816199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829948,33.399799,-111.829948,33.399799",
     "geom:latitude":33.399799,
     "geom:longitude":-111.829948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 E 8th Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336816199,
-    "wof:lastmodified":1448997565,
+    "wof:lastmodified":1466329536,
     "wof:name":"Robert G Chitwood",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-111.829948,33.399799,-111.829948,33.399799],
+  "bbox": [
+    -111.829948,
+    33.399799,
+    -111.829948,
+    33.399799
+],
   "geometry": {"coordinates":[-111.829948,33.399799],"type":"Point"}
 }

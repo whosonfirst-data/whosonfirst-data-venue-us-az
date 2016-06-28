@@ -2,13 +2,14 @@
   "id": 337450085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.221001,33.470299,-112.221001,33.470299",
     "geom:latitude":33.470299,
     "geom:longitude":-112.221001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 N 75th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337450085,
-    "wof:lastmodified":1449027612,
+    "wof:lastmodified":1466325939,
     "wof:name":"1st National Bank of Arizona",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.221001,33.470299,-112.221001,33.470299],
+  "bbox": [
+    -112.221001,
+    33.470299,
+    -112.221001,
+    33.470299
+],
   "geometry": {"coordinates":[-112.221001,33.470299],"type":"Point"}
 }

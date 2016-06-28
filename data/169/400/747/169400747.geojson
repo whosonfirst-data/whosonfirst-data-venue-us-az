@@ -2,13 +2,14 @@
   "id": 169400747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.832556,32.207707,-110.832556,32.207707",
     "geom:latitude":32.207707,
     "geom:longitude":-110.832556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7408 E Beverly Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169400747,
-    "wof:lastmodified":1449032990,
+    "wof:lastmodified":1466333630,
     "wof:name":"Perkins Maintech Svc",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.832556,32.207707,-110.832556,32.207707],
+  "bbox": [
+    -110.832556,
+    32.207707,
+    -110.832556,
+    32.207707
+],
   "geometry": {"coordinates":[-110.832556,32.207707],"type":"Point"}
 }

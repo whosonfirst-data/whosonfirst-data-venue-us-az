@@ -2,13 +2,14 @@
   "id": 169309945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055502,34.761415,-112.055502,34.761415",
     "geom:latitude":34.761415,
     "geom:longitude":-112.055502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Cll Rosas",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169309945,
-    "wof:lastmodified":1449033415,
+    "wof:lastmodified":1466333132,
     "wof:name":"Sitting Pretty Pet Sit",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.055502,34.761415,-112.055502,34.761415],
+  "bbox": [
+    -112.055502,
+    34.761415,
+    -112.055502,
+    34.761415
+],
   "geometry": {"coordinates":[-112.055502,34.761415],"type":"Point"}
 }

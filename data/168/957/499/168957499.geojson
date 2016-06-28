@@ -2,13 +2,14 @@
   "id": 168957499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.881832,32.262782,-110.881832,32.262782",
     "geom:latitude":32.262782,
     "geom:longitude":-110.881832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5191 E Hill Place Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.timingindicator.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871719,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168957499,
-    "wof:lastmodified":1449028464,
+    "wof:lastmodified":1466331084,
     "wof:name":"Schannep Timing Indicator LLC",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.881832,32.262782,-110.881832,32.262782],
+  "bbox": [
+    -110.881832,
+    32.262782,
+    -110.881832,
+    32.262782
+],
   "geometry": {"coordinates":[-110.881832,32.262782],"type":"Point"}
 }

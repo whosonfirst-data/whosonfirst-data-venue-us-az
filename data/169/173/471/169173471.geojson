@@ -2,13 +2,14 @@
   "id": 169173471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96738,33.631317,-111.96738,33.631317",
     "geom:latitude":33.631317,
     "geom:longitude":-111.96738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16037 N 52nd Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.mccayphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169173471,
-    "wof:lastmodified":1449033325,
+    "wof:lastmodified":1466331929,
     "wof:name":"Mc Cay Photography",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.96738,33.631317,-111.96738,33.631317],
-  "geometry": {"coordinates":[-111.96738,33.631317],"type":"Point"}
+  "bbox": [
+    -111.96738,
+    33.631317,
+    -111.96738,
+    33.631317
+],
+  "geometry": {"coordinates":[-111.96738000000001,33.631317],"type":"Point"}
 }

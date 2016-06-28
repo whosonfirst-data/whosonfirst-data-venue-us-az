@@ -2,13 +2,14 @@
   "id": 169036009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.345959,34.235369,-111.345959,34.235369",
     "geom:latitude":34.235369,
     "geom:longitude":-111.345959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Rim View Cir",
     "sg:city":"Payson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820149,
+        85688719,
         85633793,
         85917211,
         102081525,
-        85688719
+        85820149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169036009,
-    "wof:lastmodified":1449033425,
+    "wof:lastmodified":1466327397,
     "wof:name":"Thorne Clay Company",
     "wof:parent_id":85820149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.345959,34.235369,-111.345959,34.235369],
-  "geometry": {"coordinates":[-111.345959,34.235369],"type":"Point"}
+  "bbox": [
+    -111.345959,
+    34.235369,
+    -111.345959,
+    34.235369
+],
+  "geometry": {"coordinates":[-111.34595899999999,34.235369],"type":"Point"}
 }

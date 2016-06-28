@@ -2,13 +2,14 @@
   "id": 168843881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096387,33.569055,-112.096387,33.569055",
     "geom:latitude":33.569055,
     "geom:longitude":-112.096387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 W Mission Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168843881,
-    "wof:lastmodified":1449027838,
+    "wof:lastmodified":1466327412,
     "wof:name":"Futureway Mechanical Inc",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.096387,33.569055,-112.096387,33.569055],
-  "geometry": {"coordinates":[-112.096387,33.569055],"type":"Point"}
+  "bbox": [
+    -112.096387,
+    33.569055,
+    -112.096387,
+    33.569055
+],
+  "geometry": {"coordinates":[-112.09638699999999,33.569055],"type":"Point"}
 }

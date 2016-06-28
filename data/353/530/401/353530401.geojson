@@ -2,13 +2,14 @@
   "id": 353530401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.815641,33.270534,-111.815641,33.270534",
     "geom:latitude":33.270534,
     "geom:longitude":-111.815641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 S Airport Blvd Ste 1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353530401,
-    "wof:lastmodified":1449019622,
+    "wof:lastmodified":1466327709,
     "wof:name":"Curtis Superior Valve Co Inc",
     "wof:parent_id":85876661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-111.815641,33.270534,-111.815641,33.270534],
+  "bbox": [
+    -111.815641,
+    33.270534,
+    -111.815641,
+    33.270534
+],
   "geometry": {"coordinates":[-111.815641,33.270534],"type":"Point"}
 }

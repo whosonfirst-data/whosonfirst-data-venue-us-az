@@ -2,13 +2,14 @@
   "id": 353731219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356896,33.609215,-112.356896,33.609215",
     "geom:latitude":33.609215,
     "geom:longitude":-112.356896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13794 W Waddell Rd # 203400",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353731219,
-    "wof:lastmodified":1449020520,
+    "wof:lastmodified":1466329983,
     "wof:name":"Proborders",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.356896,33.609215,-112.356896,33.609215],
-  "geometry": {"coordinates":[-112.356896,33.609215],"type":"Point"}
+  "bbox": [
+    -112.356896,
+    33.609215,
+    -112.356896,
+    33.609215
+],
+  "geometry": {"coordinates":[-112.35689600000001,33.609215],"type":"Point"}
 }

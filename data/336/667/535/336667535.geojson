@@ -2,13 +2,14 @@
   "id": 336667535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07328,33.4058,-112.07328,33.4058",
     "geom:latitude":33.4058,
     "geom:longitude":-112.07328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 S Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336667535,
-    "wof:lastmodified":1448997634,
+    "wof:lastmodified":1466327363,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-112.07328,33.4058,-112.07328,33.4058],
+  "bbox": [
+    -112.07328,
+    33.4058,
+    -112.07328,
+    33.4058
+],
   "geometry": {"coordinates":[-112.07328,33.4058],"type":"Point"}
 }

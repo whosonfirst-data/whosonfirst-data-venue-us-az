@@ -2,13 +2,14 @@
   "id": 168849519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.820177,33.310888,-111.820177,33.310888",
     "geom:latitude":33.310888,
     "geom:longitude":-111.820177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 E Thatcher Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168849519,
-    "wof:lastmodified":1449027919,
+    "wof:lastmodified":1466327688,
     "wof:name":"AMV Web Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.820177,33.310888,-111.820177,33.310888],
+  "bbox": [
+    -111.820177,
+    33.310888,
+    -111.820177,
+    33.310888
+],
   "geometry": {"coordinates":[-111.820177,33.310888],"type":"Point"}
 }

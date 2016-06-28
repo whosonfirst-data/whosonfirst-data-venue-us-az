@@ -2,13 +2,14 @@
   "id": 152905747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.345611,33.613439,-112.345611,33.613439",
     "geom:latitude":33.613439,
     "geom:longitude":-112.345611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13272 W Watson Ln",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152905747,
-    "wof:lastmodified":1449046112,
+    "wof:lastmodified":1466325891,
     "wof:name":"AC Doctor The",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.345611,33.613439,-112.345611,33.613439],
-  "geometry": {"coordinates":[-112.345611,33.613439],"type":"Point"}
+  "bbox": [
+    -112.345611,
+    33.613439,
+    -112.345611,
+    33.613439
+],
+  "geometry": {"coordinates":[-112.34561100000001,33.613439],"type":"Point"}
 }

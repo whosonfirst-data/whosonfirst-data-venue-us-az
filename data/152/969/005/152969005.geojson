@@ -2,13 +2,14 @@
   "id": 152969005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969005,32.222053,-110.969005,32.222053",
     "geom:latitude":32.222053,
     "geom:longitude":-110.969005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152969005,
-    "wof:lastmodified":1449045406,
+    "wof:lastmodified":1466328366,
     "wof:name":"Asylum",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969005,32.222053,-110.969005,32.222053],
+  "bbox": [
+    -110.969005,
+    32.222053,
+    -110.969005,
+    32.222053
+],
   "geometry": {"coordinates":[-110.969005,32.222053],"type":"Point"}
 }

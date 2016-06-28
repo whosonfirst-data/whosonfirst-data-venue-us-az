@@ -2,13 +2,14 @@
   "id": 152969285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052104,33.629972,-112.052104,33.629972",
     "geom:latitude":33.629972,
     "geom:longitude":-112.052104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 E Tierra Buena Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866819,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152969285,
-    "wof:lastmodified":1449045399,
+    "wof:lastmodified":1466328384,
     "wof:name":"Michigan Mobile Home Park LLC",
     "wof:parent_id":85866819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.052104,33.629972,-112.052104,33.629972],
+  "bbox": [
+    -112.052104,
+    33.629972,
+    -112.052104,
+    33.629972
+],
   "geometry": {"coordinates":[-112.052104,33.629972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168854651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.545073,31.378718,-109.545073,31.378718",
     "geom:latitude":31.378718,
     "geom:longitude":-109.545073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3677 N Leslie Canyon Rd",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168854651,
-    "wof:lastmodified":1449028554,
+    "wof:lastmodified":1466326112,
     "wof:name":"Cochise County Fair Assn",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.545073,31.378718,-109.545073,31.378718],
+  "bbox": [
+    -109.545073,
+    31.378718,
+    -109.545073,
+    31.378718
+],
   "geometry": {"coordinates":[-109.545073,31.378718],"type":"Point"}
 }

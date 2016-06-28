@@ -2,13 +2,14 @@
   "id": 168976437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971386,32.221933,-110.971386,32.221933",
     "geom:latitude":32.221933,
     "geom:longitude":-110.971386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 W Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871765,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168976437,
-    "wof:lastmodified":1449028087,
+    "wof:lastmodified":1466331334,
     "wof:name":"Tucson Rio Nuevo Office",
     "wof:parent_id":85871765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971386,32.221933,-110.971386,32.221933],
+  "bbox": [
+    -110.971386,
+    32.221933,
+    -110.971386,
+    32.221933
+],
   "geometry": {"coordinates":[-110.971386,32.221933],"type":"Point"}
 }

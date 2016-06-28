@@ -2,13 +2,14 @@
   "id": 169159661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.313003,34.585039,-112.313003,34.585039",
     "geom:latitude":34.585039,
     "geom:longitude":-112.313003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 E Frontage Rd",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169159661,
-    "wof:lastmodified":1449033081,
+    "wof:lastmodified":1466331794,
     "wof:name":"Tri City Computers",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.313003,34.585039,-112.313003,34.585039],
-  "geometry": {"coordinates":[-112.313003,34.585039],"type":"Point"}
+  "bbox": [
+    -112.313003,
+    34.585039,
+    -112.313003,
+    34.585039
+],
+  "geometry": {"coordinates":[-112.31300299999999,34.585039],"type":"Point"}
 }

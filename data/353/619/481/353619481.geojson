@@ -2,13 +2,14 @@
   "id": 353619481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.336998,33.434898,-112.336998,33.434898",
     "geom:latitude":33.434898,
     "geom:longitude":-112.336998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12721 W Buckeye Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353619481,
-    "wof:lastmodified":1449018702,
+    "wof:lastmodified":1466328778,
     "wof:name":"Village At Avondale Apartments",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.336998,33.434898,-112.336998,33.434898],
-  "geometry": {"coordinates":[-112.336998,33.434898],"type":"Point"}
+  "bbox": [
+    -112.336998,
+    33.434898,
+    -112.336998,
+    33.434898
+],
+  "geometry": {"coordinates":[-112.33699799999999,33.434898],"type":"Point"}
 }

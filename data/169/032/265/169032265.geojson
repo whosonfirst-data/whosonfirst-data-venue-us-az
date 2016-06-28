@@ -2,13 +2,14 @@
   "id": 169032265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.256802,33.580858,-112.256802,33.580858",
     "geom:latitude":33.580858,
     "geom:longitude":-112.256802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9210 W Peoria Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169032265,
-    "wof:lastmodified":1449034300,
+    "wof:lastmodified":1466327065,
     "wof:name":"Absolute Central Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.256802,33.580858,-112.256802,33.580858],
-  "geometry": {"coordinates":[-112.256802,33.580858],"type":"Point"}
+  "bbox": [
+    -112.256802,
+    33.580858,
+    -112.256802,
+    33.580858
+],
+  "geometry": {"coordinates":[-112.25680199999999,33.580858],"type":"Point"}
 }

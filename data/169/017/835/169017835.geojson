@@ -2,13 +2,14 @@
   "id": 169017835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.148569,33.599657,-112.148569,33.599657",
     "geom:latitude":33.599657,
     "geom:longitude":-112.148569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 W Columbine Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169017835,
-    "wof:lastmodified":1449034439,
+    "wof:lastmodified":1466325774,
     "wof:name":"K V Screen Printing",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.148569,33.599657,-112.148569,33.599657],
-  "geometry": {"coordinates":[-112.148569,33.599657],"type":"Point"}
+  "bbox": [
+    -112.148569,
+    33.599657,
+    -112.148569,
+    33.599657
+],
+  "geometry": {"coordinates":[-112.14856899999999,33.599657],"type":"Point"}
 }

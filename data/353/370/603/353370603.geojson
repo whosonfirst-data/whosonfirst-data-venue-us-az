@@ -2,13 +2,14 @@
   "id": 353370603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919005,33.414875,-111.919005,33.414875",
     "geom:latitude":33.414875,
     "geom:longitude":-111.919005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 E Apache Blvd # 103",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353370603,
-    "wof:lastmodified":1449019653,
+    "wof:lastmodified":1466326027,
     "wof:name":"Mom's Tattoo",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-111.919005,33.414875,-111.919005,33.414875],
+  "bbox": [
+    -111.919005,
+    33.414875,
+    -111.919005,
+    33.414875
+],
   "geometry": {"coordinates":[-111.919005,33.414875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152951831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976557,32.344209,-110.976557,32.344209",
     "geom:latitude":32.344209,
     "geom:longitude":-110.976557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152951831,
-    "wof:lastmodified":1449044500,
+    "wof:lastmodified":1466327499,
     "wof:name":"Relational Advantage Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976557,32.344209,-110.976557,32.344209],
+  "bbox": [
+    -110.976557,
+    32.344209,
+    -110.976557,
+    32.344209
+],
   "geometry": {"coordinates":[-110.976557,32.344209],"type":"Point"}
 }

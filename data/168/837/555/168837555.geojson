@@ -2,13 +2,14 @@
   "id": 168837555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182804,33.568076,-112.182804,33.568076",
     "geom:latitude":33.568076,
     "geom:longitude":-112.182804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 N 57th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.childtime.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852007,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85852007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168837555,
-    "wof:lastmodified":1449027892,
+    "wof:lastmodified":1466326846,
     "wof:name":"Childtime Learning Ctr",
     "wof:parent_id":85852007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.182804,33.568076,-112.182804,33.568076],
+  "bbox": [
+    -112.182804,
+    33.568076,
+    -112.182804,
+    33.568076
+],
   "geometry": {"coordinates":[-112.182804,33.568076],"type":"Point"}
 }

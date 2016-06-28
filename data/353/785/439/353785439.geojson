@@ -2,13 +2,14 @@
   "id": 353785439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.538625,31.347549,-109.538625,31.347549",
     "geom:latitude":31.347549,
     "geom:longitude":-109.538625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 E 13th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353785439,
-    "wof:lastmodified":1449020383,
+    "wof:lastmodified":1466330155,
     "wof:name":"Romero's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-109.538625,31.347549,-109.538625,31.347549],
+  "bbox": [
+    -109.538625,
+    31.347549,
+    -109.538625,
+    31.347549
+],
   "geometry": {"coordinates":[-109.538625,31.347549],"type":"Point"}
 }

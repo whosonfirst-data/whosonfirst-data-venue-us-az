@@ -2,13 +2,14 @@
   "id": 169074609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.904684,33.59665,-111.904684,33.59665",
     "geom:latitude":33.59665,
     "geom:longitude":-111.904684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8140 E Cactus Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808393,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85808393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169074609,
-    "wof:lastmodified":1449034468,
+    "wof:lastmodified":1466329888,
     "wof:name":"Arizona Sports & Rehab Ctr",
     "wof:parent_id":85808393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.904684,33.59665,-111.904684,33.59665],
+  "bbox": [
+    -111.904684,
+    33.59665,
+    -111.904684,
+    33.59665
+],
   "geometry": {"coordinates":[-111.904684,33.59665],"type":"Point"}
 }

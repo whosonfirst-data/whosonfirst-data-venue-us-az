@@ -2,13 +2,14 @@
   "id": 152963851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.818813,32.215564,-110.818813,32.215564",
     "geom:latitude":32.215564,
     "geom:longitude":-110.818813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8021 E Malvern St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152963851,
-    "wof:lastmodified":1449044748,
+    "wof:lastmodified":1466328123,
     "wof:name":"Resco General Contractors",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.818813,32.215564,-110.818813,32.215564],
-  "geometry": {"coordinates":[-110.818813,32.215564],"type":"Point"}
+  "bbox": [
+    -110.818813,
+    32.215564,
+    -110.818813,
+    32.215564
+],
+  "geometry": {"coordinates":[-110.81881300000001,32.215564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169121983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.905883,32.232615,-110.905883,32.232615",
     "geom:latitude":32.232615,
     "geom:longitude":-110.905883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 E Roberts Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169121983,
-    "wof:lastmodified":1449035235,
+    "wof:lastmodified":1466331408,
     "wof:name":"Katherine Norgard PHD",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.905883,32.232615,-110.905883,32.232615],
+  "bbox": [
+    -110.905883,
+    32.232615,
+    -110.905883,
+    32.232615
+],
   "geometry": {"coordinates":[-110.905883,32.232615],"type":"Point"}
 }

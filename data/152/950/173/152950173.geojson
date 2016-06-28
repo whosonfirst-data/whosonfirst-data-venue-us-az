@@ -2,13 +2,14 @@
   "id": 152950173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921952,33.358172,-111.921952,33.358172",
     "geom:latitude":33.358172,
     "geom:longitude":-111.921952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 E Redfield Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881391,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152950173,
-    "wof:lastmodified":1449046107,
+    "wof:lastmodified":1466327381,
     "wof:name":"Creative Printing Solutions",
     "wof:parent_id":85881391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921952,33.358172,-111.921952,33.358172],
+  "bbox": [
+    -111.921952,
+    33.358172,
+    -111.921952,
+    33.358172
+],
   "geometry": {"coordinates":[-111.921952,33.358172],"type":"Point"}
 }

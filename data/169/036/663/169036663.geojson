@@ -2,13 +2,14 @@
   "id": 169036663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07985,33.480401,-112.07985,33.480401",
     "geom:latitude":33.480401,
     "geom:longitude":-112.07985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 W Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169036663,
-    "wof:lastmodified":1449033425,
+    "wof:lastmodified":1466327453,
     "wof:name":"Select Specialty Hospital",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.07985,33.480401,-112.07985,33.480401],
-  "geometry": {"coordinates":[-112.07985,33.480401],"type":"Point"}
+  "bbox": [
+    -112.07985,
+    33.480401,
+    -112.07985,
+    33.480401
+],
+  "geometry": {"coordinates":[-112.07984999999999,33.480401],"type":"Point"}
 }

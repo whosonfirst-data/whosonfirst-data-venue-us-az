@@ -2,13 +2,14 @@
   "id": 168843307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.774022,32.903885,-111.774022,32.903885",
     "geom:latitude":32.903885,
     "geom:longitude":-111.774022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"967 Desert Sky Dr",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168843307,
-    "wof:lastmodified":1449027837,
+    "wof:lastmodified":1466327361,
     "wof:name":"Nutz About Nuts",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.774022,32.903885,-111.774022,32.903885],
+  "bbox": [
+    -111.774022,
+    32.903885,
+    -111.774022,
+    32.903885
+],
   "geometry": {"coordinates":[-111.774022,32.903885],"type":"Point"}
 }

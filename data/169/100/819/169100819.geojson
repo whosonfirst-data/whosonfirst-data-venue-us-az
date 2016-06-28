@@ -2,13 +2,14 @@
   "id": 169100819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.331054,34.499953,-114.331054,34.499953",
     "geom:latitude":34.499953,
     "geom:longitude":-114.331054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Cactus Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169100819,
-    "wof:lastmodified":1449035120,
+    "wof:lastmodified":1466330813,
     "wof:name":"Parker Denture Lab",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.331054,34.499953,-114.331054,34.499953],
-  "geometry": {"coordinates":[-114.331054,34.499953],"type":"Point"}
+  "bbox": [
+    -114.331054,
+    34.499953,
+    -114.331054,
+    34.499953
+],
+  "geometry": {"coordinates":[-114.33105399999999,34.499953],"type":"Point"}
 }

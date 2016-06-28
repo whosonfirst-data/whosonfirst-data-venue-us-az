@@ -2,13 +2,14 @@
   "id": 152958191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.267679,31.522675,-110.267679,31.522675",
     "geom:latitude":31.522675,
     "geom:longitude":-110.267679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Oakmont Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152958191,
-    "wof:lastmodified":1449047897,
+    "wof:lastmodified":1466327856,
     "wof:name":"East Queen Street Jewelers",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.267679,31.522675,-110.267679,31.522675],
+  "bbox": [
+    -110.267679,
+    31.522675,
+    -110.267679,
+    31.522675
+],
   "geometry": {"coordinates":[-110.267679,31.522675],"type":"Point"}
 }

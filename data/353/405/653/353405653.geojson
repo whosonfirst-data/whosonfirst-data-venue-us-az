@@ -2,13 +2,14 @@
   "id": 353405653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.960968,33.428961,-111.960968,33.428961",
     "geom:latitude":33.428961,
     "geom:longitude":-111.960968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Priest Dr Ste 101",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353405653,
-    "wof:lastmodified":1449020600,
+    "wof:lastmodified":1466326302,
     "wof:name":"Arizona Regional Multiple Listing Service, Inc.",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-111.960968,33.428961,-111.960968,33.428961],
-  "geometry": {"coordinates":[-111.960968,33.428961],"type":"Point"}
+  "bbox": [
+    -111.960968,
+    33.428961,
+    -111.960968,
+    33.428961
+],
+  "geometry": {"coordinates":[-111.96096799999999,33.428961],"type":"Point"}
 }

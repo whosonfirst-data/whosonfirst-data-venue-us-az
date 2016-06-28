@@ -2,13 +2,14 @@
   "id": 353792323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969433,31.332805,-110.969433,31.332805",
     "geom:latitude":31.332805,
     "geom:longitude":-110.969433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W MARIPOSA RD STE C10",
     "sg:city":"NOGALES",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353792323,
-    "wof:lastmodified":1449018810,
+    "wof:lastmodified":1466330381,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "rental"
     ]
 },
-  "bbox": [-110.969433,31.332805,-110.969433,31.332805],
+  "bbox": [
+    -110.969433,
+    31.332805,
+    -110.969433,
+    31.332805
+],
   "geometry": {"coordinates":[-110.969433,31.332805],"type":"Point"}
 }

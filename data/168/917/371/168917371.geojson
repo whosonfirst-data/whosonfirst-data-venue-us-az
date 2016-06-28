@@ -2,13 +2,14 @@
   "id": 168917371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.898807,33.428419,-111.898807,33.428419",
     "geom:latitude":33.428419,
     "geom:longitude":-111.898807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Clark Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168917371,
-    "wof:lastmodified":1449028483,
+    "wof:lastmodified":1466330216,
     "wof:name":"Hat Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.898807,33.428419,-111.898807,33.428419],
-  "geometry": {"coordinates":[-111.898807,33.428419],"type":"Point"}
+  "bbox": [
+    -111.898807,
+    33.428419,
+    -111.898807,
+    33.428419
+],
+  "geometry": {"coordinates":[-111.89880700000001,33.428419],"type":"Point"}
 }

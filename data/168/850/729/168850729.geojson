@@ -2,13 +2,14 @@
   "id": 168850729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124957,33.492313,-112.124957,33.492313",
     "geom:latitude":33.492313,
     "geom:longitude":-112.124957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3046 W Clarendon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168850729,
-    "wof:lastmodified":1449028217,
+    "wof:lastmodified":1466325763,
     "wof:name":"Baxter Johnson Pillow Co",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.124957,33.492313,-112.124957,33.492313],
-  "geometry": {"coordinates":[-112.124957,33.492313],"type":"Point"}
+  "bbox": [
+    -112.124957,
+    33.492313,
+    -112.124957,
+    33.492313
+],
+  "geometry": {"coordinates":[-112.12495699999999,33.492313],"type":"Point"}
 }

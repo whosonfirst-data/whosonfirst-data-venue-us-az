@@ -2,13 +2,14 @@
   "id": 153011179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.153403,34.909082,-110.153403,34.909082",
     "geom:latitude":34.909082,
     "geom:longitude":-110.153403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Iowa St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153011179,
-    "wof:lastmodified":1449040733,
+    "wof:lastmodified":1466326111,
     "wof:name":"White Mountain Physical Thrpy",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.153403,34.909082,-110.153403,34.909082],
+  "bbox": [
+    -110.153403,
+    34.909082,
+    -110.153403,
+    34.909082
+],
   "geometry": {"coordinates":[-110.153403,34.909082],"type":"Point"}
 }

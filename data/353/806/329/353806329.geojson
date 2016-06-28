@@ -2,13 +2,14 @@
   "id": 353806329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977278,32.353597,-110.977278,32.353597",
     "geom:latitude":32.353597,
     "geom:longitude":-110.977278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W Cool Dr Ste 107",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353806329,
-    "wof:lastmodified":1449018248,
+    "wof:lastmodified":1466330432,
     "wof:name":"Southwest Skin Pathology Servi",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "pathology"
     ]
 },
-  "bbox": [-110.977278,32.353597,-110.977278,32.353597],
+  "bbox": [
+    -110.977278,
+    32.353597,
+    -110.977278,
+    32.353597
+],
   "geometry": {"coordinates":[-110.977278,32.353597],"type":"Point"}
 }

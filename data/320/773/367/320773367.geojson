@@ -2,13 +2,14 @@
   "id": 320773367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041231,33.544174,-112.041231,33.544174",
     "geom:latitude":33.544174,
     "geom:longitude":-112.041231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 E Gardenia Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320773367,
-    "wof:lastmodified":1449011725,
+    "wof:lastmodified":1466329473,
     "wof:name":"Loc Capital Group, Inc.",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-112.041231,33.544174,-112.041231,33.544174],
+  "bbox": [
+    -112.041231,
+    33.544174,
+    -112.041231,
+    33.544174
+],
   "geometry": {"coordinates":[-112.041231,33.544174],"type":"Point"}
 }

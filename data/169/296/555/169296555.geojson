@@ -2,13 +2,14 @@
   "id": 169296555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.055885,33.613849,-112.055885,33.613849",
     "geom:latitude":33.613849,
     "geom:longitude":-112.055885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 E Dailey St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169296555,
-    "wof:lastmodified":1449035346,
+    "wof:lastmodified":1466332845,
     "wof:name":"Beach Stephen Business",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.055885,33.613849,-112.055885,33.613849],
+  "bbox": [
+    -112.055885,
+    33.613849,
+    -112.055885,
+    33.613849
+],
   "geometry": {"coordinates":[-112.055885,33.613849],"type":"Point"}
 }

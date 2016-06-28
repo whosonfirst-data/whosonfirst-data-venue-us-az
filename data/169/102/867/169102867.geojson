@@ -2,13 +2,14 @@
   "id": 169102867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223746,33.57474,-112.223746,33.57474",
     "geom:latitude":33.57474,
     "geom:longitude":-112.223746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7558 W Turquoise Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169102867,
-    "wof:lastmodified":1449035711,
+    "wof:lastmodified":1466331008,
     "wof:name":"Communication Messaging Svc",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223746,33.57474,-112.223746,33.57474],
-  "geometry": {"coordinates":[-112.223746,33.57474],"type":"Point"}
+  "bbox": [
+    -112.223746,
+    33.57474,
+    -112.223746,
+    33.57474
+],
+  "geometry": {"coordinates":[-112.22374600000001,33.57474],"type":"Point"}
 }

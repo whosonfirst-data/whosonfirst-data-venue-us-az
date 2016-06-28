@@ -2,13 +2,14 @@
   "id": 169312423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.573368,33.371378,-112.573368,33.371378",
     "geom:latitude":33.371378,
     "geom:longitude":-112.573368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Apache Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169312423,
-    "wof:lastmodified":1449034349,
+    "wof:lastmodified":1466333123,
     "wof:name":"Buckeye Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.573368,33.371378,-112.573368,33.371378],
+  "bbox": [
+    -112.573368,
+    33.371378,
+    -112.573368,
+    33.371378
+],
   "geometry": {"coordinates":[-112.573368,33.371378],"type":"Point"}
 }

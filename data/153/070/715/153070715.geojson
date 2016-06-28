@@ -2,13 +2,14 @@
   "id": 153070715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.973644,34.155861,-109.973644,34.155861",
     "geom:latitude":34.155861,
     "geom:longitude":-109.973644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1697 W White Mountain Blvd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153070715,
-    "wof:lastmodified":1449040559,
+    "wof:lastmodified":1466328815,
     "wof:name":"Interior Complements",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.973644,34.155861,-109.973644,34.155861],
-  "geometry": {"coordinates":[-109.973644,34.155861],"type":"Point"}
+  "bbox": [
+    -109.973644,
+    34.155861,
+    -109.973644,
+    34.155861
+],
+  "geometry": {"coordinates":[-109.97364399999999,34.155861],"type":"Point"}
 }

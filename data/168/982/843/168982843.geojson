@@ -2,13 +2,14 @@
   "id": 168982843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.669637,35.160575,-111.669637,35.160575",
     "geom:latitude":35.160575,
     "geom:longitude":-111.669637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3874 S Marble Canyon Trl",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168982843,
-    "wof:lastmodified":1449027904,
+    "wof:lastmodified":1466331478,
     "wof:name":"Rks Design Build",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.669637,35.160575,-111.669637,35.160575],
-  "geometry": {"coordinates":[-111.669637,35.160575],"type":"Point"}
+  "bbox": [
+    -111.669637,
+    35.160575,
+    -111.669637,
+    35.160575
+],
+  "geometry": {"coordinates":[-111.66963699999999,35.160575],"type":"Point"}
 }

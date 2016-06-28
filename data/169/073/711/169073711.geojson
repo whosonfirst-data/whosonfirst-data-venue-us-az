@@ -2,13 +2,14 @@
   "id": 169073711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.712426,32.833748,-109.712426,32.833748",
     "geom:latitude":32.833748,
     "geom:longitude":-109.712426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S 5th Ave",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169073711,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466329893,
     "wof:name":"Medical Center-Eastern Arizona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.712426,32.833748,-109.712426,32.833748],
-  "geometry": {"coordinates":[-109.712426,32.833748],"type":"Point"}
+  "bbox": [
+    -109.712426,
+    32.833748,
+    -109.712426,
+    32.833748
+],
+  "geometry": {"coordinates":[-109.71242599999999,32.833748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320636769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.089142,33.456902,-112.089142,33.456902",
     "geom:latitude":33.456902,
     "geom:longitude":-112.089142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320636769,
-    "wof:lastmodified":1449012747,
+    "wof:lastmodified":1466326702,
     "wof:name":"Sapna Cafe",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-112.089142,33.456902,-112.089142,33.456902],
+  "bbox": [
+    -112.089142,
+    33.456902,
+    -112.089142,
+    33.456902
+],
   "geometry": {"coordinates":[-112.089142,33.456902],"type":"Point"}
 }

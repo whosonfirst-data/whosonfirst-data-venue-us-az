@@ -2,13 +2,14 @@
   "id": 320709829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026984,33.52857,-112.026984,33.52857",
     "geom:latitude":33.52857,
     "geom:longitude":-112.026984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6245 N 24th Pkwy Ste 201",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":320709829,
-    "wof:lastmodified":1449012007,
+    "wof:lastmodified":1466328448,
     "wof:name":"Arizona Benefit Consultants",
     "wof:parent_id":85806119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "pension"
     ]
 },
-  "bbox": [-112.026984,33.52857,-112.026984,33.52857],
+  "bbox": [
+    -112.026984,
+    33.52857,
+    -112.026984,
+    33.52857
+],
   "geometry": {"coordinates":[-112.026984,33.52857],"type":"Point"}
 }

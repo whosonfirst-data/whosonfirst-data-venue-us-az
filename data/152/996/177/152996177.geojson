@@ -2,13 +2,14 @@
   "id": 152996177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.824249,32.316186,-110.824249,32.316186",
     "geom:latitude":32.316186,
     "geom:longitude":-110.824249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12781 N Sabino Canyon Rd",
     "sg:city":"Mt Lemmon",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152996177,
-    "wof:lastmodified":1449045536,
+    "wof:lastmodified":1466329764,
     "wof:name":"Mt Lemmon Cookie Cabin",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.824249,32.316186,-110.824249,32.316186],
-  "geometry": {"coordinates":[-110.824249,32.316186],"type":"Point"}
+  "bbox": [
+    -110.824249,
+    32.316186,
+    -110.824249,
+    32.316186
+],
+  "geometry": {"coordinates":[-110.82424899999999,32.316186],"type":"Point"}
 }

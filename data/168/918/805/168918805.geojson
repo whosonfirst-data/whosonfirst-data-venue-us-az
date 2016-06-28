@@ -2,13 +2,14 @@
   "id": 168918805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356372,33.493462,-112.356372,33.493462",
     "geom:latitude":33.493462,
     "geom:longitude":-112.356372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Wigwam Blvd",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168918805,
-    "wof:lastmodified":1449028292,
+    "wof:lastmodified":1466330252,
     "wof:name":"Litchfield Recreation Center",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.356372,33.493462,-112.356372,33.493462],
-  "geometry": {"coordinates":[-112.356372,33.493462],"type":"Point"}
+  "bbox": [
+    -112.356372,
+    33.493462,
+    -112.356372,
+    33.493462
+],
+  "geometry": {"coordinates":[-112.35637199999999,33.493462],"type":"Point"}
 }

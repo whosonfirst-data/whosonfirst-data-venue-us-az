@@ -2,13 +2,14 @@
   "id": 153042557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.490679,34.616924,-112.490679,34.616924",
     "geom:latitude":34.616924,
     "geom:longitude":-112.490679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4695 Bowie Dr S",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153042557,
-    "wof:lastmodified":1449040700,
+    "wof:lastmodified":1466326652,
     "wof:name":"GL Chartier Properties",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.490679,34.616924,-112.490679,34.616924],
+  "bbox": [
+    -112.490679,
+    34.616924,
+    -112.490679,
+    34.616924
+],
   "geometry": {"coordinates":[-112.490679,34.616924],"type":"Point"}
 }

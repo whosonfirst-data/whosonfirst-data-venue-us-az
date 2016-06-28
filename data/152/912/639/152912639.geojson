@@ -2,13 +2,14 @@
   "id": 152912639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.798829,33.292382,-111.798829,33.292382",
     "geom:latitude":33.292382,
     "geom:longitude":-111.798829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2362 E Kesler Ln",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152912639,
-    "wof:lastmodified":1449046584,
+    "wof:lastmodified":1466325899,
     "wof:name":"Mindware Medical",
     "wof:parent_id":85876675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.798829,33.292382,-111.798829,33.292382],
+  "bbox": [
+    -111.798829,
+    33.292382,
+    -111.798829,
+    33.292382
+],
   "geometry": {"coordinates":[-111.798829,33.292382],"type":"Point"}
 }

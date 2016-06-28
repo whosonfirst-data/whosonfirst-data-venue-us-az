@@ -2,13 +2,14 @@
   "id": 168955827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.185026,33.494992,-112.185026,33.494992",
     "geom:latitude":33.494992,
     "geom:longitude":-112.185026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5881 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168955827,
-    "wof:lastmodified":1449028302,
+    "wof:lastmodified":1466331161,
     "wof:name":"LA Botana Restaurant",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.185026,33.494992,-112.185026,33.494992],
-  "geometry": {"coordinates":[-112.185026,33.494992],"type":"Point"}
+  "bbox": [
+    -112.185026,
+    33.494992,
+    -112.185026,
+    33.494992
+],
+  "geometry": {"coordinates":[-112.18502599999999,33.494992],"type":"Point"}
 }

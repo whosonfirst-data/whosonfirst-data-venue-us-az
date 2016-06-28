@@ -2,13 +2,14 @@
   "id": 353732515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220499,33.612547,-112.220499,33.612547",
     "geom:latitude":33.612547,
     "geom:longitude":-112.220499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 W Calavar Rd",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353732515,
-    "wof:lastmodified":1449020892,
+    "wof:lastmodified":1466329989,
     "wof:name":"Shell Gas And Conv",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas-industrial"
     ]
 },
-  "bbox": [-112.220499,33.612547,-112.220499,33.612547],
+  "bbox": [
+    -112.220499,
+    33.612547,
+    -112.220499,
+    33.612547
+],
   "geometry": {"coordinates":[-112.220499,33.612547],"type":"Point"}
 }

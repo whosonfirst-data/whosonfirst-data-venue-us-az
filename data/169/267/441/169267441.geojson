@@ -2,13 +2,14 @@
   "id": 169267441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.289673,33.442038,-112.289673,33.442038",
     "geom:latitude":33.442038,
     "geom:longitude":-112.289673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S 107th Ave",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169267441,
-    "wof:lastmodified":1449035659,
+    "wof:lastmodified":1466332632,
     "wof:name":"Mc Kesson Health Solutions",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.289673,33.442038,-112.289673,33.442038],
-  "geometry": {"coordinates":[-112.289673,33.442038],"type":"Point"}
+  "bbox": [
+    -112.289673,
+    33.442038,
+    -112.289673,
+    33.442038
+],
+  "geometry": {"coordinates":[-112.28967299999999,33.442038],"type":"Point"}
 }

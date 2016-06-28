@@ -2,13 +2,14 @@
   "id": 168933811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.879707,32.237076,-110.879707,32.237076",
     "geom:latitude":32.237076,
     "geom:longitude":-110.879707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 N Beverly Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168933811,
-    "wof:lastmodified":1449027930,
+    "wof:lastmodified":1466330694,
     "wof:name":"Veterans Of Foreign Wars 4903",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.879707,32.237076,-110.879707,32.237076],
+  "bbox": [
+    -110.879707,
+    32.237076,
+    -110.879707,
+    32.237076
+],
   "geometry": {"coordinates":[-110.879707,32.237076],"type":"Point"}
 }

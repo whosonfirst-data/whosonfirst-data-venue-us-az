@@ -2,13 +2,14 @@
   "id": 169222207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.21997,33.514953,-112.21997,33.514953",
     "geom:latitude":33.514953,
     "geom:longitude":-112.21997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5422 N 74th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877789,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169222207,
-    "wof:lastmodified":1449034898,
+    "wof:lastmodified":1466332271,
     "wof:name":"Broschart Electric Inc",
     "wof:parent_id":85877789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.21997,33.514953,-112.21997,33.514953],
+  "bbox": [
+    -112.21997,
+    33.514953,
+    -112.21997,
+    33.514953
+],
   "geometry": {"coordinates":[-112.21997,33.514953],"type":"Point"}
 }

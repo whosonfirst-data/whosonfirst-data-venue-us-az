@@ -2,13 +2,14 @@
   "id": 169411961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.080552,33.427987,-112.080552,33.427987",
     "geom:latitude":33.427987,
     "geom:longitude":-112.080552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 S 5th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169411961,
-    "wof:lastmodified":1449032844,
+    "wof:lastmodified":1466333798,
     "wof:name":"Custom Metal Cutting & Fabg",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.080552,33.427987,-112.080552,33.427987],
+  "bbox": [
+    -112.080552,
+    33.427987,
+    -112.080552,
+    33.427987
+],
   "geometry": {"coordinates":[-112.080552,33.427987],"type":"Point"}
 }

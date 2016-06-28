@@ -2,13 +2,14 @@
   "id": 353822047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.903,32.229841,-110.903,32.229841",
     "geom:latitude":32.229841,
     "geom:longitude":-110.903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 E 4th Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353822047,
-    "wof:lastmodified":1449020699,
+    "wof:lastmodified":1466330533,
     "wof:name":"Inov Inc",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-110.903,32.229841,-110.903,32.229841],
-  "geometry": {"coordinates":[-110.903,32.229841],"type":"Point"}
+  "bbox": [
+    -110.903,
+    32.229841,
+    -110.903,
+    32.229841
+],
+  "geometry": {"coordinates":[-110.90300000000001,32.229841],"type":"Point"}
 }

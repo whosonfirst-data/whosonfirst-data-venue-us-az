@@ -2,13 +2,14 @@
   "id": 353545053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.767119,33.310188,-111.767119,33.310188",
     "geom:latitude":33.310188,
     "geom:longitude":-111.767119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14703 E Williams Field Road",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353545053,
-    "wof:lastmodified":1449018872,
+    "wof:lastmodified":1466327909,
     "wof:name":"V and P Nurseries",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [-111.767119,33.310188,-111.767119,33.310188],
-  "geometry": {"coordinates":[-111.767119,33.310188],"type":"Point"}
+  "bbox": [
+    -111.767119,
+    33.310188,
+    -111.767119,
+    33.310188
+],
+  "geometry": {"coordinates":[-111.76711899999999,33.310188],"type":"Point"}
 }

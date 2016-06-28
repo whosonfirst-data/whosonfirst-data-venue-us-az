@@ -2,13 +2,14 @@
   "id": 169064651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.287939,34.148223,-114.287939,34.148223",
     "geom:latitude":34.148223,
     "geom:longitude":-114.287939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 S California Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169064651,
-    "wof:lastmodified":1449033850,
+    "wof:lastmodified":1466329472,
     "wof:name":"Parker Area Historical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.287939,34.148223,-114.287939,34.148223],
-  "geometry": {"coordinates":[-114.287939,34.148223],"type":"Point"}
+  "bbox": [
+    -114.287939,
+    34.148223,
+    -114.287939,
+    34.148223
+],
+  "geometry": {"coordinates":[-114.28793899999999,34.148223],"type":"Point"}
 }

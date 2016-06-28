@@ -2,13 +2,14 @@
   "id": 152960873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.821856,33.439339,-111.821856,33.439339",
     "geom:latitude":33.439339,
     "geom:longitude":-111.821856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 N Spring Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833889,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152960873,
-    "wof:lastmodified":1449047619,
+    "wof:lastmodified":1466328005,
     "wof:name":"Mkl Services LLC",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.821856,33.439339,-111.821856,33.439339],
+  "bbox": [
+    -111.821856,
+    33.439339,
+    -111.821856,
+    33.439339
+],
   "geometry": {"coordinates":[-111.821856,33.439339],"type":"Point"}
 }

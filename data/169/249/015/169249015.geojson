@@ -2,13 +2,14 @@
   "id": 169249015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.076496,33.455694,-112.076496,33.455694",
     "geom:latitude":33.455694,
     "geom:longitude":-112.076496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 N 2nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.nativeconnections.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169249015,
-    "wof:lastmodified":1449032853,
+    "wof:lastmodified":1466332471,
     "wof:name":"Native American Connection",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.076496,33.455694,-112.076496,33.455694],
-  "geometry": {"coordinates":[-112.076496,33.455694],"type":"Point"}
+  "bbox": [
+    -112.076496,
+    33.455694,
+    -112.076496,
+    33.455694
+],
+  "geometry": {"coordinates":[-112.07649600000001,33.455694],"type":"Point"}
 }

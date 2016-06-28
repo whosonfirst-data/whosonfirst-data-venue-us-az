@@ -2,13 +2,14 @@
   "id": 169327019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190695,35.244261,-112.190695,35.244261",
     "geom:latitude":35.244261,
     "geom:longitude":-112.190695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 W Meade Ave",
     "sg:city":"Williams",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857825,
+        85688719,
         85633793,
         85917435,
         102086831,
-        85688719
+        85857825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169327019,
-    "wof:lastmodified":1449032926,
+    "wof:lastmodified":1466333422,
     "wof:name":"Red Feather Properties",
     "wof:parent_id":85857825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.190695,35.244261,-112.190695,35.244261],
-  "geometry": {"coordinates":[-112.190695,35.244261],"type":"Point"}
+  "bbox": [
+    -112.190695,
+    35.244261,
+    -112.190695,
+    35.244261
+],
+  "geometry": {"coordinates":[-112.19069500000001,35.244261],"type":"Point"}
 }

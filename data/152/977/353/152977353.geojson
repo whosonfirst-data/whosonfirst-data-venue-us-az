@@ -2,13 +2,14 @@
   "id": 152977353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.033688,35.195655,-114.033688,35.195655",
     "geom:latitude":35.195655,
     "geom:longitude":-114.033688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Hall St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152977353,
-    "wof:lastmodified":1449049002,
+    "wof:lastmodified":1466329011,
     "wof:name":"Brite Ideas Lights R Us LLC",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.033688,35.195655,-114.033688,35.195655],
+  "bbox": [
+    -114.033688,
+    35.195655,
+    -114.033688,
+    35.195655
+],
   "geometry": {"coordinates":[-114.033688,35.195655],"type":"Point"}
 }

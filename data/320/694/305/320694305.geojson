@@ -2,13 +2,14 @@
   "id": 320694305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065069,33.481333,-112.065069,33.481333",
     "geom:latitude":33.481333,
     "geom:longitude":-112.065069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":320694305,
-    "wof:lastmodified":1449012305,
+    "wof:lastmodified":1466327956,
     "wof:name":"Shasta Pools",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "spa"
     ]
 },
-  "bbox": [-112.065069,33.481333,-112.065069,33.481333],
-  "geometry": {"coordinates":[-112.065069,33.481333],"type":"Point"}
+  "bbox": [
+    -112.065069,
+    33.481333,
+    -112.065069,
+    33.481333
+],
+  "geometry": {"coordinates":[-112.06506899999999,33.481333],"type":"Point"}
 }

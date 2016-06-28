@@ -2,13 +2,14 @@
   "id": 153011127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.989011,33.786683,-111.989011,33.786683",
     "geom:latitude":33.786683,
     "geom:longitude":-111.989011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4247 E Smokehouse Trl",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153011127,
-    "wof:lastmodified":1449040733,
+    "wof:lastmodified":1466326107,
     "wof:name":"Arizona Action Prperty MGT LLC",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.989011,33.786683,-111.989011,33.786683],
+  "bbox": [
+    -111.989011,
+    33.786683,
+    -111.989011,
+    33.786683
+],
   "geometry": {"coordinates":[-111.989011,33.786683],"type":"Point"}
 }

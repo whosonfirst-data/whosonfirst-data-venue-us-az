@@ -2,13 +2,14 @@
   "id": 353607989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.192507,33.66618,-112.192507,33.66618",
     "geom:latitude":33.66618,
     "geom:longitude":-112.192507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6160 W Behrend Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -91,10 +92,11 @@
         }
     ],
     "wof:id":353607989,
-    "wof:lastmodified":1449018595,
+    "wof:lastmodified":1466328626,
     "wof:name":"The Home Depot Tool Rental",
     "wof:parent_id":85877827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -110,6 +112,11 @@
         "carpet"
     ]
 },
-  "bbox": [-112.192507,33.66618,-112.192507,33.66618],
-  "geometry": {"coordinates":[-112.192507,33.66618],"type":"Point"}
+  "bbox": [
+    -112.192507,
+    33.66618,
+    -112.192507,
+    33.66618
+],
+  "geometry": {"coordinates":[-112.19250700000001,33.66618],"type":"Point"}
 }

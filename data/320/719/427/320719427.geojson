@@ -2,13 +2,14 @@
   "id": 320719427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027273,33.509326,-112.027273,33.509326",
     "geom:latitude":33.509326,
     "geom:longitude":-112.027273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 E Camelback Rd # 136",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320719427,
-    "wof:lastmodified":1449011731,
+    "wof:lastmodified":1466328598,
     "wof:name":"Coolwater Properties",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "park"
     ]
 },
-  "bbox": [-112.027273,33.509326,-112.027273,33.509326],
-  "geometry": {"coordinates":[-112.027273,33.509326],"type":"Point"}
+  "bbox": [
+    -112.027273,
+    33.509326,
+    -112.027273,
+    33.509326
+],
+  "geometry": {"coordinates":[-112.02727299999999,33.509326],"type":"Point"}
 }

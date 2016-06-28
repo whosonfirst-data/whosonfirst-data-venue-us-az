@@ -2,13 +2,14 @@
   "id": 153074689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.805653,32.220832,-110.805653,32.220832",
     "geom:latitude":32.220832,
     "geom:longitude":-110.805653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8796 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sticksnstrings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153074689,
-    "wof:lastmodified":1449040609,
+    "wof:lastmodified":1466328826,
     "wof:name":"Sticks N Strings Music Center",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.805653,32.220832,-110.805653,32.220832],
-  "geometry": {"coordinates":[-110.805653,32.220832],"type":"Point"}
+  "bbox": [
+    -110.805653,
+    32.220832,
+    -110.805653,
+    32.220832
+],
+  "geometry": {"coordinates":[-110.80565300000001,32.220832],"type":"Point"}
 }

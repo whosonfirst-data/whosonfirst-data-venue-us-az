@@ -2,13 +2,14 @@
   "id": 353732171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.208245,33.606322,-112.208245,33.606322",
     "geom:latitude":33.606322,
     "geom:longitude":-112.208245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7011 W Willow Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353732171,
-    "wof:lastmodified":1449020895,
+    "wof:lastmodified":1466329854,
     "wof:name":"Gn Beal Corp",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-112.208245,33.606322,-112.208245,33.606322],
-  "geometry": {"coordinates":[-112.208245,33.606322],"type":"Point"}
+  "bbox": [
+    -112.208245,
+    33.606322,
+    -112.208245,
+    33.606322
+],
+  "geometry": {"coordinates":[-112.20824500000001,33.606322],"type":"Point"}
 }

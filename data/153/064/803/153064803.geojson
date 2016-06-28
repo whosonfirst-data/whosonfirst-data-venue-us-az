@@ -2,13 +2,14 @@
   "id": 153064803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.079032,31.73027,-110.079032,31.73027",
     "geom:latitude":31.73027,
     "geom:longitude":-110.079032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 State Hwy 80",
     "sg:city":"Tombstone",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153064803,
-    "wof:lastmodified":1449040503,
+    "wof:lastmodified":1466327992,
     "wof:name":"German Antique Store",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.079032,31.73027,-110.079032,31.73027],
+  "bbox": [
+    -110.079032,
+    31.73027,
+    -110.079032,
+    31.73027
+],
   "geometry": {"coordinates":[-110.079032,31.73027],"type":"Point"}
 }

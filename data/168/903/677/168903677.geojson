@@ -2,13 +2,14 @@
   "id": 168903677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.989703,32.277857,-110.989703,32.277857",
     "geom:latitude":32.277857,
     "geom:longitude":-110.989703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3932 N Palm Grove Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168903677,
-    "wof:lastmodified":1449027813,
+    "wof:lastmodified":1466329533,
     "wof:name":"Sportsmans Cafe The",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.989703,32.277857,-110.989703,32.277857],
-  "geometry": {"coordinates":[-110.989703,32.277857],"type":"Point"}
+  "bbox": [
+    -110.989703,
+    32.277857,
+    -110.989703,
+    32.277857
+],
+  "geometry": {"coordinates":[-110.98970300000001,32.277857],"type":"Point"}
 }

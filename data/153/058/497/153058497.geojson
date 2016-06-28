@@ -2,13 +2,14 @@
   "id": 153058497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.318511,33.609005,-112.318511,33.609005",
     "geom:latitude":33.609005,
     "geom:longitude":-112.318511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 W Thunderbird Rd",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153058497,
-    "wof:lastmodified":1449040399,
+    "wof:lastmodified":1466327769,
     "wof:name":"LA Fondita",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.318511,33.609005,-112.318511,33.609005],
+  "bbox": [
+    -112.318511,
+    33.609005,
+    -112.318511,
+    33.609005
+],
   "geometry": {"coordinates":[-112.318511,33.609005],"type":"Point"}
 }

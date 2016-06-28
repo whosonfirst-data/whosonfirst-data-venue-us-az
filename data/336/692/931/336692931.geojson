@@ -2,13 +2,14 @@
   "id": 336692931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012672,33.324705,-112.012672,33.324705",
     "geom:latitude":33.324705,
     "geom:longitude":-112.012672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13404 S 33rd Ct",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336692931,
-    "wof:lastmodified":1448997239,
+    "wof:lastmodified":1466327900,
     "wof:name":"Az Tech Radiology",
     "wof:parent_id":85858489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.012672,33.324705,-112.012672,33.324705],
-  "geometry": {"coordinates":[-112.012672,33.324705],"type":"Point"}
+  "bbox": [
+    -112.012672,
+    33.324705,
+    -112.012672,
+    33.324705
+],
+  "geometry": {"coordinates":[-112.01267199999999,33.324705],"type":"Point"}
 }

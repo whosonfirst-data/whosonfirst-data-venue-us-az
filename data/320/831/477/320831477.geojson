@@ -2,13 +2,14 @@
   "id": 320831477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013029,33.579153,-112.013029,33.579153",
     "geom:latitude":33.579153,
     "geom:longitude":-112.013029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10211 N 32nd St Ste F2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320831477,
-    "wof:lastmodified":1449013450,
+    "wof:lastmodified":1466330110,
     "wof:name":"Houston-Taylor Group, LLC",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "boat"
     ]
 },
-  "bbox": [-112.013029,33.579153,-112.013029,33.579153],
+  "bbox": [
+    -112.013029,
+    33.579153,
+    -112.013029,
+    33.579153
+],
   "geometry": {"coordinates":[-112.013029,33.579153],"type":"Point"}
 }

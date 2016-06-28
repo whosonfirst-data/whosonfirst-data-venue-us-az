@@ -2,13 +2,14 @@
   "id": 337535723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896628,33.469507,-111.896628,33.469507",
     "geom:latitude":33.469507,
     "geom:longitude":-111.896628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2017 N 86th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337535723,
-    "wof:lastmodified":1449027071,
+    "wof:lastmodified":1466326562,
     "wof:name":"Lechleitner Notary Service",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-111.896628,33.469507,-111.896628,33.469507],
-  "geometry": {"coordinates":[-111.896628,33.469507],"type":"Point"}
+  "bbox": [
+    -111.896628,
+    33.469507,
+    -111.896628,
+    33.469507
+],
+  "geometry": {"coordinates":[-111.89662800000001,33.469507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152978493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.806609,32.274988,-110.806609,32.274988",
     "geom:latitude":32.274988,
     "geom:longitude":-110.806609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 N Cam Seco",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hoofprintsphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152978493,
-    "wof:lastmodified":1449046970,
+    "wof:lastmodified":1466328825,
     "wof:name":"Mc Clure-HOSMER Pb",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.806609,32.274988,-110.806609,32.274988],
-  "geometry": {"coordinates":[-110.806609,32.274988],"type":"Point"}
+  "bbox": [
+    -110.806609,
+    32.274988,
+    -110.806609,
+    32.274988
+],
+  "geometry": {"coordinates":[-110.80660899999999,32.274988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169385987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.971913,33.62275,-111.971913,33.62275",
     "geom:latitude":33.62275,
     "geom:longitude":-111.971913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14802 N 50th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169385987,
-    "wof:lastmodified":1449034650,
+    "wof:lastmodified":1466333830,
     "wof:name":"Grasenick Ursula",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.971913,33.62275,-111.971913,33.62275],
+  "bbox": [
+    -111.971913,
+    33.62275,
+    -111.971913,
+    33.62275
+],
   "geometry": {"coordinates":[-111.971913,33.62275],"type":"Point"}
 }

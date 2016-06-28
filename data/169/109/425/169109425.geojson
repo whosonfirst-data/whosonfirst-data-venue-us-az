@@ -2,13 +2,14 @@
   "id": 169109425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.029795,31.957561,-111.029795,31.957561",
     "geom:latitude":31.957561,
     "geom:longitude":-111.029795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 W Helmet Peak Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169109425,
-    "wof:lastmodified":1449033833,
+    "wof:lastmodified":1466331095,
     "wof:name":"Serr's Towing Svc",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.029795,31.957561,-111.029795,31.957561],
-  "geometry": {"coordinates":[-111.029795,31.957561],"type":"Point"}
+  "bbox": [
+    -111.029795,
+    31.957561,
+    -111.029795,
+    31.957561
+],
+  "geometry": {"coordinates":[-111.02979499999999,31.957561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168827083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.60523,34.999817,-114.60523,34.999817",
     "geom:latitude":34.999817,
     "geom:longitude":-114.60523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Pasadena Ln",
     "sg:city":"Fort Mohave",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168827083,
-    "wof:lastmodified":1449028031,
+    "wof:lastmodified":1466325940,
     "wof:name":"Dollmakers Shoppe",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.60523,34.999817,-114.60523,34.999817],
-  "geometry": {"coordinates":[-114.60523,34.999817],"type":"Point"}
+  "bbox": [
+    -114.60523,
+    34.999817,
+    -114.60523,
+    34.999817
+],
+  "geometry": {"coordinates":[-114.60523000000001,34.999817],"type":"Point"}
 }

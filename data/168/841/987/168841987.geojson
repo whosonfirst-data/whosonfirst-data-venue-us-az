@@ -2,13 +2,14 @@
   "id": 168841987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082986,33.681736,-112.082986,33.681736",
     "geom:latitude":33.681736,
     "geom:longitude":-112.082986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21632 N 7th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857713,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85857713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168841987,
-    "wof:lastmodified":1449027941,
+    "wof:lastmodified":1466327324,
     "wof:name":"Son's Automotive Svc",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.082986,33.681736,-112.082986,33.681736],
-  "geometry": {"coordinates":[-112.082986,33.681736],"type":"Point"}
+  "bbox": [
+    -112.082986,
+    33.681736,
+    -112.082986,
+    33.681736
+],
+  "geometry": {"coordinates":[-112.08298600000001,33.681736],"type":"Point"}
 }

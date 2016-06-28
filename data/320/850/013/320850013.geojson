@@ -2,13 +2,14 @@
   "id": 320850013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142153,33.58508,-112.142153,33.58508",
     "geom:latitude":33.58508,
     "geom:longitude":-112.142153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3836 W Desert Cove Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320850013,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466330292,
     "wof:name":"Coupon Cache",
     "wof:parent_id":85877823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coupon"
     ]
 },
-  "bbox": [-112.142153,33.58508,-112.142153,33.58508],
-  "geometry": {"coordinates":[-112.142153,33.58508],"type":"Point"}
+  "bbox": [
+    -112.142153,
+    33.58508,
+    -112.142153,
+    33.58508
+],
+  "geometry": {"coordinates":[-112.14215299999999,33.58508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353736233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.225394,33.62415,-112.225394,33.62415",
     "geom:latitude":33.62415,
     "geom:longitude":-112.225394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7737 W Caribbean Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353736233,
-    "wof:lastmodified":1449020754,
+    "wof:lastmodified":1466330018,
     "wof:name":"W L Camping",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-112.225394,33.62415,-112.225394,33.62415],
-  "geometry": {"coordinates":[-112.225394,33.62415],"type":"Point"}
+  "bbox": [
+    -112.225394,
+    33.62415,
+    -112.225394,
+    33.62415
+],
+  "geometry": {"coordinates":[-112.22539399999999,33.62415],"type":"Point"}
 }

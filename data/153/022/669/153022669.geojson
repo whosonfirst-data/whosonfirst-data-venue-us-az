@@ -2,13 +2,14 @@
   "id": 153022669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931067,33.603934,-111.931067,33.603934",
     "geom:latitude":33.603934,
     "geom:longitude":-111.931067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6837 E Sweetwater Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.1cdrom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153022669,
-    "wof:lastmodified":1449040489,
+    "wof:lastmodified":1466327332,
     "wof:name":"Creative Data Inc Cd-Rom",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.931067,33.603934,-111.931067,33.603934],
+  "bbox": [
+    -111.931067,
+    33.603934,
+    -111.931067,
+    33.603934
+],
   "geometry": {"coordinates":[-111.931067,33.603934],"type":"Point"}
 }

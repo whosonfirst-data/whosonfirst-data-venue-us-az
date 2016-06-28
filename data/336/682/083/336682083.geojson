@@ -2,13 +2,14 @@
   "id": 336682083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.212305,33.456675,-112.212305,33.456675",
     "geom:latitude":33.456675,
     "geom:longitude":-112.212305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 N 71st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336682083,
-    "wof:lastmodified":1448997131,
+    "wof:lastmodified":1466327731,
     "wof:name":"Tony's Pizza Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-112.212305,33.456675,-112.212305,33.456675],
+  "bbox": [
+    -112.212305,
+    33.456675,
+    -112.212305,
+    33.456675
+],
   "geometry": {"coordinates":[-112.212305,33.456675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169127681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.920054,33.575591,-111.920054,33.575591",
     "geom:latitude":33.575591,
     "geom:longitude":-111.920054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9811 N 74th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880973,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169127681,
-    "wof:lastmodified":1449035691,
+    "wof:lastmodified":1466331633,
     "wof:name":"Ratiu Business Svc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.920054,33.575591,-111.920054,33.575591],
-  "geometry": {"coordinates":[-111.920054,33.575591],"type":"Point"}
+  "bbox": [
+    -111.920054,
+    33.575591,
+    -111.920054,
+    33.575591
+],
+  "geometry": {"coordinates":[-111.92005399999999,33.575591],"type":"Point"}
 }

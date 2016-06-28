@@ -2,13 +2,14 @@
   "id": 336863365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.816741,33.293685,-111.816741,33.293685",
     "geom:latitude":33.293685,
     "geom:longitude":-111.816741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 E Dana Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336863365,
-    "wof:lastmodified":1448997673,
+    "wof:lastmodified":1466329993,
     "wof:name":"Shea Electric",
     "wof:parent_id":85852033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-111.816741,33.293685,-111.816741,33.293685],
-  "geometry": {"coordinates":[-111.816741,33.293685],"type":"Point"}
+  "bbox": [
+    -111.816741,
+    33.293685,
+    -111.816741,
+    33.293685
+],
+  "geometry": {"coordinates":[-111.81674099999999,33.293685],"type":"Point"}
 }

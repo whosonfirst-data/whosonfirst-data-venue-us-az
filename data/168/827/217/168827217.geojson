@@ -2,13 +2,14 @@
   "id": 168827217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.832975,32.165338,-110.832975,32.165338",
     "geom:latitude":32.165338,
     "geom:longitude":-110.832975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4718 S Lantana Cir",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168827217,
-    "wof:lastmodified":1449028031,
+    "wof:lastmodified":1466325953,
     "wof:name":"Bags N More",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.832975,32.165338,-110.832975,32.165338],
+  "bbox": [
+    -110.832975,
+    32.165338,
+    -110.832975,
+    32.165338
+],
   "geometry": {"coordinates":[-110.832975,32.165338],"type":"Point"}
 }

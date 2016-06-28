@@ -2,13 +2,14 @@
   "id": 152910917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.645282,32.713135,-114.645282,32.713135",
     "geom:latitude":32.713135,
     "geom:longitude":-114.645282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 W 8th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152910917,
-    "wof:lastmodified":1449046244,
+    "wof:lastmodified":1466325853,
     "wof:name":"Sams Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.645282,32.713135,-114.645282,32.713135],
-  "geometry": {"coordinates":[-114.645282,32.713135],"type":"Point"}
+  "bbox": [
+    -114.645282,
+    32.713135,
+    -114.645282,
+    32.713135
+],
+  "geometry": {"coordinates":[-114.64528199999999,32.713135],"type":"Point"}
 }

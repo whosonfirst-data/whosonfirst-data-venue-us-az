@@ -2,13 +2,14 @@
   "id": 152963549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977916,32.242135,-110.977916,32.242135",
     "geom:latitude":32.242135,
     "geom:longitude":-110.977916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152963549,
-    "wof:lastmodified":1449044748,
+    "wof:lastmodified":1466328105,
     "wof:name":"Quail Inn Motel",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977916,32.242135,-110.977916,32.242135],
-  "geometry": {"coordinates":[-110.977916,32.242135],"type":"Point"}
+  "bbox": [
+    -110.977916,
+    32.242135,
+    -110.977916,
+    32.242135
+],
+  "geometry": {"coordinates":[-110.97791599999999,32.242135],"type":"Point"}
 }

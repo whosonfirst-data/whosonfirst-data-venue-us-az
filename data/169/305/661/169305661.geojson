@@ -2,13 +2,14 @@
   "id": 169305661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.919615,32.182564,-110.919615,32.182564",
     "geom:latitude":32.182564,
     "geom:longitude":-110.919615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3565 S Broadmont Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.dot.state.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169305661,
-    "wof:lastmodified":1449033194,
+    "wof:lastmodified":1466333060,
     "wof:name":"Transportation Arizona Dept",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.919615,32.182564,-110.919615,32.182564],
-  "geometry": {"coordinates":[-110.919615,32.182564],"type":"Point"}
+  "bbox": [
+    -110.919615,
+    32.182564,
+    -110.919615,
+    32.182564
+],
+  "geometry": {"coordinates":[-110.91961499999999,32.182564],"type":"Point"}
 }

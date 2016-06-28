@@ -2,13 +2,14 @@
   "id": 168925315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.680332,35.035191,-110.680332,35.035191",
     "geom:latitude":35.035191,
     "geom:longitude":-110.680332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1046 Sunset Rd",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168925315,
-    "wof:lastmodified":1449027783,
+    "wof:lastmodified":1466330366,
     "wof:name":"Northern Arizona Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.680332,35.035191,-110.680332,35.035191],
-  "geometry": {"coordinates":[-110.680332,35.035191],"type":"Point"}
+  "bbox": [
+    -110.680332,
+    35.035191,
+    -110.680332,
+    35.035191
+],
+  "geometry": {"coordinates":[-110.68033200000001,35.035191],"type":"Point"}
 }

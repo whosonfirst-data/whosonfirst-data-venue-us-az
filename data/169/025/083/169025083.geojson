@@ -2,13 +2,14 @@
   "id": 169025083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.994997,32.289356,-110.994997,32.289356",
     "geom:latitude":32.289356,
     "geom:longitude":-110.994997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169025083,
-    "wof:lastmodified":1449035421,
+    "wof:lastmodified":1466326424,
     "wof:name":"Swan Lake",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.994997,32.289356,-110.994997,32.289356],
+  "bbox": [
+    -110.994997,
+    32.289356,
+    -110.994997,
+    32.289356
+],
   "geometry": {"coordinates":[-110.994997,32.289356],"type":"Point"}
 }

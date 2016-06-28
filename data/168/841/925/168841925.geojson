@@ -2,13 +2,14 @@
   "id": 168841925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041513,33.372695,-112.041513,33.372695",
     "geom:latitude":33.372695,
     "geom:longitude":-112.041513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 E Desert Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871011,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168841925,
-    "wof:lastmodified":1449027937,
+    "wof:lastmodified":1466327317,
     "wof:name":"Highline Ranch",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.041513,33.372695,-112.041513,33.372695],
-  "geometry": {"coordinates":[-112.041513,33.372695],"type":"Point"}
+  "bbox": [
+    -112.041513,
+    33.372695,
+    -112.041513,
+    33.372695
+],
+  "geometry": {"coordinates":[-112.04151299999999,33.372695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169142767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.849117,32.250503,-110.849117,32.250503",
     "geom:latitude":32.250503,
     "geom:longitude":-110.849117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6743 E Cam Principal",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169142767,
-    "wof:lastmodified":1449035301,
+    "wof:lastmodified":1466331686,
     "wof:name":"Sentry Insurance",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.849117,32.250503,-110.849117,32.250503],
-  "geometry": {"coordinates":[-110.849117,32.250503],"type":"Point"}
+  "bbox": [
+    -110.849117,
+    32.250503,
+    -110.849117,
+    32.250503
+],
+  "geometry": {"coordinates":[-110.84911700000001,32.250503],"type":"Point"}
 }

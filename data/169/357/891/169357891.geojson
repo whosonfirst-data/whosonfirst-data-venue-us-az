@@ -2,13 +2,14 @@
   "id": 169357891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.472894,34.544335,-112.472894,34.544335",
     "geom:latitude":34.544335,
     "geom:longitude":-112.472894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N McCormick St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169357891,
-    "wof:lastmodified":1449035551,
+    "wof:lastmodified":1466333675,
     "wof:name":"Try Me Racing",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.472894,34.544335,-112.472894,34.544335],
+  "bbox": [
+    -112.472894,
+    34.544335,
+    -112.472894,
+    34.544335
+],
   "geometry": {"coordinates":[-112.472894,34.544335],"type":"Point"}
 }

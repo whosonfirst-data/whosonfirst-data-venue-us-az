@@ -2,13 +2,14 @@
   "id": 353579133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.152561,33.561111,-112.152561,33.561111",
     "geom:latitude":33.561111,
     "geom:longitude":-112.152561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4313 W Seldon Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353579133,
-    "wof:lastmodified":1449019073,
+    "wof:lastmodified":1466328282,
     "wof:name":"Three Son's Cigar Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tobacco-wholesale"
     ]
 },
-  "bbox": [-112.152561,33.561111,-112.152561,33.561111],
-  "geometry": {"coordinates":[-112.152561,33.561111],"type":"Point"}
+  "bbox": [
+    -112.152561,
+    33.561111,
+    -112.152561,
+    33.561111
+],
+  "geometry": {"coordinates":[-112.15256100000001,33.561111],"type":"Point"}
 }

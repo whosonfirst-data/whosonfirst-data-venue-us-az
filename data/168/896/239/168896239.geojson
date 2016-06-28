@@ -2,13 +2,14 @@
   "id": 168896239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.818515,33.420409,-111.818515,33.420409",
     "geom:latitude":33.420409,
     "geom:longitude":-111.818515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 N Hobson",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872457,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168896239,
-    "wof:lastmodified":1449028037,
+    "wof:lastmodified":1466329432,
     "wof:name":"Paladin Reihc LLC",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.818515,33.420409,-111.818515,33.420409],
+  "bbox": [
+    -111.818515,
+    33.420409,
+    -111.818515,
+    33.420409
+],
   "geometry": {"coordinates":[-111.818515,33.420409],"type":"Point"}
 }

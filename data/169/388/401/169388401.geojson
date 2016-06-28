@@ -2,13 +2,14 @@
   "id": 169388401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.860887,33.346428,-111.860887,33.346428",
     "geom:latitude":33.346428,
     "geom:longitude":-111.860887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 W Palo Verde Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169388401,
-    "wof:lastmodified":1449032814,
+    "wof:lastmodified":1466333873,
     "wof:name":"Advanced Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.860887,33.346428,-111.860887,33.346428],
-  "geometry": {"coordinates":[-111.860887,33.346428],"type":"Point"}
+  "bbox": [
+    -111.860887,
+    33.346428,
+    -111.860887,
+    33.346428
+],
+  "geometry": {"coordinates":[-111.86088700000001,33.346428],"type":"Point"}
 }

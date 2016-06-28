@@ -2,13 +2,14 @@
   "id": 353815387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.896454,32.144364,-110.896454,32.144364",
     "geom:latitude":32.144364,
     "geom:longitude":-110.896454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5949 S Belvedere Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353815387,
-    "wof:lastmodified":1449019507,
+    "wof:lastmodified":1466330618,
     "wof:name":"Orta Fence Co Inc",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-110.896454,32.144364,-110.896454,32.144364],
-  "geometry": {"coordinates":[-110.896454,32.144364],"type":"Point"}
+  "bbox": [
+    -110.896454,
+    32.144364,
+    -110.896454,
+    32.144364
+],
+  "geometry": {"coordinates":[-110.89645400000001,32.144364],"type":"Point"}
 }

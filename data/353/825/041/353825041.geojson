@@ -2,13 +2,14 @@
   "id": 353825041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.90121,32.242433,-110.90121,32.242433",
     "geom:latitude":32.242433,
     "geom:longitude":-110.90121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 N Columbus Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353825041,
-    "wof:lastmodified":1449018338,
+    "wof:lastmodified":1466330556,
     "wof:name":"Desert Clean",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "carpet"
     ]
 },
-  "bbox": [-110.90121,32.242433,-110.90121,32.242433],
-  "geometry": {"coordinates":[-110.90121,32.242433],"type":"Point"}
+  "bbox": [
+    -110.90121,
+    32.242433,
+    -110.90121,
+    32.242433
+],
+  "geometry": {"coordinates":[-110.90121000000001,32.242433],"type":"Point"}
 }

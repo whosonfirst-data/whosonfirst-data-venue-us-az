@@ -2,13 +2,14 @@
   "id": 353513941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.905458,33.345289,-111.905458,33.345289",
     "geom:latitude":33.345289,
     "geom:longitude":-111.905458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 E Velvet Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353513941,
-    "wof:lastmodified":1449019930,
+    "wof:lastmodified":1466327418,
     "wof:name":"Arizona Biltmore Commercial Painting",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.905458,33.345289,-111.905458,33.345289],
+  "bbox": [
+    -111.905458,
+    33.345289,
+    -111.905458,
+    33.345289
+],
   "geometry": {"coordinates":[-111.905458,33.345289],"type":"Point"}
 }

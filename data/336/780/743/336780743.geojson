@@ -2,13 +2,14 @@
   "id": 336780743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.806778,33.422409,-111.806778,33.422409",
     "geom:latitude":33.422409,
     "geom:longitude":-111.806778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 E University Dr # 114",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336780743,
-    "wof:lastmodified":1448997748,
+    "wof:lastmodified":1466329165,
     "wof:name":"James P Schlichting Do P",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"
     ]
 },
-  "bbox": [-111.806778,33.422409,-111.806778,33.422409],
-  "geometry": {"coordinates":[-111.806778,33.422409],"type":"Point"}
+  "bbox": [
+    -111.806778,
+    33.422409,
+    -111.806778,
+    33.422409
+],
+  "geometry": {"coordinates":[-111.80677799999999,33.422409],"type":"Point"}
 }

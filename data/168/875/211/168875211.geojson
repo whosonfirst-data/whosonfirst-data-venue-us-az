@@ -2,13 +2,14 @@
   "id": 168875211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.935487,34.121734,-109.935487,34.121734",
     "geom:latitude":34.121734,
     "geom:longitude":-109.935487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 S Penrod Ln",
     "sg:city":"Pinetop",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168875211,
-    "wof:lastmodified":1449028362,
+    "wof:lastmodified":1466327887,
     "wof:name":"Mogollon Drywall",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.935487,34.121734,-109.935487,34.121734],
-  "geometry": {"coordinates":[-109.935487,34.121734],"type":"Point"}
+  "bbox": [
+    -109.935487,
+    34.121734,
+    -109.935487,
+    34.121734
+],
+  "geometry": {"coordinates":[-109.93548699999999,34.121734],"type":"Point"}
 }

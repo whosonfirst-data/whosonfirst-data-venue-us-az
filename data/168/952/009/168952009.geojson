@@ -2,13 +2,14 @@
   "id": 168952009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.889199,32.119468,-110.889199,32.119468",
     "geom:latitude":32.119468,
     "geom:longitude":-110.889199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4771 E Los Reales Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.azhometownhauling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081135,
-        85633793,
         85688719,
-        85831051
+        85633793,
+        85831051,
+        102081135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168952009,
-    "wof:lastmodified":1449028334,
+    "wof:lastmodified":1466330974,
     "wof:name":"Arizona Hometown Hauling Inc",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.889199,32.119468,-110.889199,32.119468],
+  "bbox": [
+    -110.889199,
+    32.119468,
+    -110.889199,
+    32.119468
+],
   "geometry": {"coordinates":[-110.889199,32.119468],"type":"Point"}
 }

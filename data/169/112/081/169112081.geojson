@@ -2,13 +2,14 @@
   "id": 169112081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.248421,33.58409,-112.248421,33.58409",
     "geom:latitude":33.58409,
     "geom:longitude":-112.248421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10823 N 88th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169112081,
-    "wof:lastmodified":1449034192,
+    "wof:lastmodified":1466331200,
     "wof:name":"Diaz Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.248421,33.58409,-112.248421,33.58409],
-  "geometry": {"coordinates":[-112.248421,33.58409],"type":"Point"}
+  "bbox": [
+    -112.248421,
+    33.58409,
+    -112.248421,
+    33.58409
+],
+  "geometry": {"coordinates":[-112.24842099999999,33.58409],"type":"Point"}
 }

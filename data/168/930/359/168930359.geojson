@@ -2,13 +2,14 @@
   "id": 168930359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.035203,33.49488,-112.035203,33.49488",
     "geom:latitude":33.49488,
     "geom:longitude":-112.035203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2136 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807777,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85807777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168930359,
-    "wof:lastmodified":1449027993,
+    "wof:lastmodified":1466330544,
     "wof:name":"Seth Smith Propellers",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.035203,33.49488,-112.035203,33.49488],
+  "bbox": [
+    -112.035203,
+    33.49488,
+    -112.035203,
+    33.49488
+],
   "geometry": {"coordinates":[-112.035203,33.49488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168953593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09771,33.640225,-112.09771,33.640225",
     "geom:latitude":33.640225,
     "geom:longitude":-112.09771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 W Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.futonsaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835119,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168953593,
-    "wof:lastmodified":1449028297,
+    "wof:lastmodified":1466331015,
     "wof:name":"Futon Factory Outlet Inc",
     "wof:parent_id":85835119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.09771,33.640225,-112.09771,33.640225],
-  "geometry": {"coordinates":[-112.09771,33.640225],"type":"Point"}
+  "bbox": [
+    -112.09771,
+    33.640225,
+    -112.09771,
+    33.640225
+],
+  "geometry": {"coordinates":[-112.09771000000001,33.640225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336801831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.72099,33.393829,-111.72099,33.393829",
     "geom:latitude":33.393829,
     "geom:longitude":-111.72099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5114 E Southern Ave Ste 151",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":336801831,
-    "wof:lastmodified":1448997846,
+    "wof:lastmodified":1466329556,
     "wof:name":"Color Me Wild",
     "wof:parent_id":85840599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.72099,33.393829,-111.72099,33.393829],
+  "bbox": [
+    -111.72099,
+    33.393829,
+    -111.72099,
+    33.393829
+],
   "geometry": {"coordinates":[-111.72099,33.393829],"type":"Point"}
 }

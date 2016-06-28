@@ -2,13 +2,14 @@
   "id": 168915333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939744,31.338885,-110.939744,31.338885",
     "geom:latitude":31.338885,
     "geom:longitude":-110.939744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168915333,
-    "wof:lastmodified":1449028582,
+    "wof:lastmodified":1466330213,
     "wof:name":"International Motors",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939744,31.338885,-110.939744,31.338885],
+  "bbox": [
+    -110.939744,
+    31.338885,
+    -110.939744,
+    31.338885
+],
   "geometry": {"coordinates":[-110.939744,31.338885],"type":"Point"}
 }

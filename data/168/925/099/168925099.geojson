@@ -2,13 +2,14 @@
   "id": 168925099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.833673,32.254252,-110.833673,32.254252",
     "geom:latitude":32.254252,
     "geom:longitude":-110.833673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7439 E Pla Rio Cabo",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168925099,
-    "wof:lastmodified":1449027781,
+    "wof:lastmodified":1466330451,
     "wof:name":"Diane D Jackman",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.833673,32.254252,-110.833673,32.254252],
+  "bbox": [
+    -110.833673,
+    32.254252,
+    -110.833673,
+    32.254252
+],
   "geometry": {"coordinates":[-110.833673,32.254252],"type":"Point"}
 }

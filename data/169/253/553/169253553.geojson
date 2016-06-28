@@ -2,13 +2,14 @@
   "id": 169253553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965465,32.284533,-110.965465,32.284533",
     "geom:latitude":32.284533,
     "geom:longitude":-110.965465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 N 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169253553,
-    "wof:lastmodified":1449035545,
+    "wof:lastmodified":1466332552,
     "wof:name":"Colwell Rentals",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965465,32.284533,-110.965465,32.284533],
-  "geometry": {"coordinates":[-110.965465,32.284533],"type":"Point"}
+  "bbox": [
+    -110.965465,
+    32.284533,
+    -110.965465,
+    32.284533
+],
+  "geometry": {"coordinates":[-110.96546499999999,32.284533],"type":"Point"}
 }

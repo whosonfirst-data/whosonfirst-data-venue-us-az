@@ -2,13 +2,14 @@
   "id": 169267493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014293,33.372379,-112.014293,33.372379",
     "geom:latitude":33.372379,
     "geom:longitude":-112.014293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8025 S 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169267493,
-    "wof:lastmodified":1449035661,
+    "wof:lastmodified":1466332682,
     "wof:name":"Gifts From God",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.014293,33.372379,-112.014293,33.372379],
+  "bbox": [
+    -112.014293,
+    33.372379,
+    -112.014293,
+    33.372379
+],
   "geometry": {"coordinates":[-112.014293,33.372379],"type":"Point"}
 }

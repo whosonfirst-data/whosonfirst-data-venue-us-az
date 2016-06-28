@@ -2,13 +2,14 @@
   "id": 336718903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151582,33.554205,-112.151582,33.554205",
     "geom:latitude":33.554205,
     "geom:longitude":-112.151582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8037 N 43rd Ave Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336718903,
-    "wof:lastmodified":1448997183,
+    "wof:lastmodified":1466328543,
     "wof:name":"Aerotech Mapping Technologies",
     "wof:parent_id":85877833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.151582,33.554205,-112.151582,33.554205],
+  "bbox": [
+    -112.151582,
+    33.554205,
+    -112.151582,
+    33.554205
+],
   "geometry": {"coordinates":[-112.151582,33.554205],"type":"Point"}
 }

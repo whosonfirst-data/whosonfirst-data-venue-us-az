@@ -2,13 +2,14 @@
   "id": 169225411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.430652,32.007271,-110.430652,32.007271",
     "geom:latitude":32.007271,
     "geom:longitude":-110.430652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1538 N Mescal Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169225411,
-    "wof:lastmodified":1449033716,
+    "wof:lastmodified":1466332359,
     "wof:name":"Old Tucson's Mescal Location",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.430652,32.007271,-110.430652,32.007271],
-  "geometry": {"coordinates":[-110.430652,32.007271],"type":"Point"}
+  "bbox": [
+    -110.430652,
+    32.007271,
+    -110.430652,
+    32.007271
+],
+  "geometry": {"coordinates":[-110.43065199999999,32.007271],"type":"Point"}
 }

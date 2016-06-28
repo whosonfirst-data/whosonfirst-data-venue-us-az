@@ -2,13 +2,14 @@
   "id": 169391083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817315,33.235723,-111.817315,33.235723",
     "geom:latitude":33.235723,
     "geom:longitude":-111.817315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 E Powell Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169391083,
-    "wof:lastmodified":1449034798,
+    "wof:lastmodified":1466333849,
     "wof:name":"Cyberstaff America Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.817315,33.235723,-111.817315,33.235723],
-  "geometry": {"coordinates":[-111.817315,33.235723],"type":"Point"}
+  "bbox": [
+    -111.817315,
+    33.235723,
+    -111.817315,
+    33.235723
+],
+  "geometry": {"coordinates":[-111.81731499999999,33.235723],"type":"Point"}
 }

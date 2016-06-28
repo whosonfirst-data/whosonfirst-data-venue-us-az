@@ -2,13 +2,14 @@
   "id": 153078239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.163858,33.556828,-112.163858,33.556828",
     "geom:latitude":33.556828,
     "geom:longitude":-112.163858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4737 W Las Palmaritas Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845677,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85845677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153078239,
-    "wof:lastmodified":1449040755,
+    "wof:lastmodified":1466328674,
     "wof:name":"FM Vending",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.163858,33.556828,-112.163858,33.556828],
+  "bbox": [
+    -112.163858,
+    33.556828,
+    -112.163858,
+    33.556828
+],
   "geometry": {"coordinates":[-112.163858,33.556828],"type":"Point"}
 }

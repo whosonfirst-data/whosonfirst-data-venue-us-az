@@ -2,13 +2,14 @@
   "id": 169064041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921188,33.442731,-111.921188,33.442731",
     "geom:latitude":33.442731,
     "geom:longitude":-111.921188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 N Rose St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169064041,
-    "wof:lastmodified":1449033851,
+    "wof:lastmodified":1466329249,
     "wof:name":"Eagle Nest Landscaping",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921188,33.442731,-111.921188,33.442731],
+  "bbox": [
+    -111.921188,
+    33.442731,
+    -111.921188,
+    33.442731
+],
   "geometry": {"coordinates":[-111.921188,33.442731],"type":"Point"}
 }

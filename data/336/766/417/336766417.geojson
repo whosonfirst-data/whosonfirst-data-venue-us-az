@@ -2,13 +2,14 @@
   "id": 336766417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.889999,33.378601,-111.889999,33.378601",
     "geom:latitude":33.378601,
     "geom:longitude":-111.889999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 W Baseline Rd Ste 32",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336766417,
-    "wof:lastmodified":1448996906,
+    "wof:lastmodified":1466329009,
     "wof:name":"Clements & Associates-GMAC Real Estate",
     "wof:parent_id":85828681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.889999,33.378601,-111.889999,33.378601],
+  "bbox": [
+    -111.889999,
+    33.378601,
+    -111.889999,
+    33.378601
+],
   "geometry": {"coordinates":[-111.889999,33.378601],"type":"Point"}
 }

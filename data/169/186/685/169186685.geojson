@@ -2,13 +2,14 @@
   "id": 169186685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026283,34.7479,-112.026283,34.7479",
     "geom:latitude":34.7479,
     "geom:longitude":-112.026283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Pinal St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169186685,
-    "wof:lastmodified":1449035245,
+    "wof:lastmodified":1466332077,
     "wof:name":"Old Town Mission",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.026283,34.7479,-112.026283,34.7479],
-  "geometry": {"coordinates":[-112.026283,34.7479],"type":"Point"}
+  "bbox": [
+    -112.026283,
+    34.7479,
+    -112.026283,
+    34.7479
+],
+  "geometry": {"coordinates":[-112.02628300000001,34.7479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168825565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.813967,33.43549,-111.813967,33.43549",
     "geom:latitude":33.43549,
     "geom:longitude":-111.813967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 N Horne Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168825565,
-    "wof:lastmodified":1449027792,
+    "wof:lastmodified":1466325831,
     "wof:name":"Siesta Villa Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.813967,33.43549,-111.813967,33.43549],
-  "geometry": {"coordinates":[-111.813967,33.43549],"type":"Point"}
+  "bbox": [
+    -111.813967,
+    33.43549,
+    -111.813967,
+    33.43549
+],
+  "geometry": {"coordinates":[-111.81396700000001,33.43549],"type":"Point"}
 }

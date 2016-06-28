@@ -2,13 +2,14 @@
   "id": 152916177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976898,32.351866,-110.976898,32.351866",
     "geom:latitude":32.351866,
     "geom:longitude":-110.976898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Magee Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.casahospice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152916177,
-    "wof:lastmodified":1449046836,
+    "wof:lastmodified":1466326245,
     "wof:name":"Casa De LA Luz Hospice",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976898,32.351866,-110.976898,32.351866],
-  "geometry": {"coordinates":[-110.976898,32.351866],"type":"Point"}
+  "bbox": [
+    -110.976898,
+    32.351866,
+    -110.976898,
+    32.351866
+],
+  "geometry": {"coordinates":[-110.97689800000001,32.351866],"type":"Point"}
 }

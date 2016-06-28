@@ -2,13 +2,14 @@
   "id": 169071305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.24924,33.681005,-112.24924,33.681005",
     "geom:latitude":33.681005,
     "geom:longitude":-112.24924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8764 W Alex Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169071305,
-    "wof:lastmodified":1449034760,
+    "wof:lastmodified":1466329752,
     "wof:name":"Arizona Discount Vending",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.24924,33.681005,-112.24924,33.681005],
+  "bbox": [
+    -112.24924,
+    33.681005,
+    -112.24924,
+    33.681005
+],
   "geometry": {"coordinates":[-112.24924,33.681005],"type":"Point"}
 }

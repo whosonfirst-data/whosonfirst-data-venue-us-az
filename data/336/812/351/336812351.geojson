@@ -2,13 +2,14 @@
   "id": 336812351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.844181,33.410853,-111.844181,33.410853",
     "geom:latitude":33.410853,
     "geom:longitude":-111.844181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 S Date Ste A",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336812351,
-    "wof:lastmodified":1448996945,
+    "wof:lastmodified":1466329817,
     "wof:name":"Hr & E",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "services-site"
     ]
 },
-  "bbox": [-111.844181,33.410853,-111.844181,33.410853],
-  "geometry": {"coordinates":[-111.844181,33.410853],"type":"Point"}
+  "bbox": [
+    -111.844181,
+    33.410853,
+    -111.844181,
+    33.410853
+],
+  "geometry": {"coordinates":[-111.84418100000001,33.410853],"type":"Point"}
 }

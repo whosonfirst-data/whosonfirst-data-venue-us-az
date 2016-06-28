@@ -2,13 +2,14 @@
   "id": 168848557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.869884,33.399917,-110.869884,33.399917",
     "geom:latitude":33.399917,
     "geom:longitude":-110.869884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Sullivan St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168848557,
-    "wof:lastmodified":1449027878,
+    "wof:lastmodified":1466327676,
     "wof:name":"Copper Cities Gallery",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.869884,33.399917,-110.869884,33.399917],
+  "bbox": [
+    -110.869884,
+    33.399917,
+    -110.869884,
+    33.399917
+],
   "geometry": {"coordinates":[-110.869884,33.399917],"type":"Point"}
 }

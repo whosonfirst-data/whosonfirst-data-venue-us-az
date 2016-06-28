@@ -2,13 +2,14 @@
   "id": 169066797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.158684,34.900874,-110.158684,34.900874",
     "geom:latitude":34.900874,
     "geom:longitude":-110.158684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Navajo Blvd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169066797,
-    "wof:lastmodified":1449033650,
+    "wof:lastmodified":1466329606,
     "wof:name":"Rainbow Rack Shop",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.158684,34.900874,-110.158684,34.900874],
-  "geometry": {"coordinates":[-110.158684,34.900874],"type":"Point"}
+  "bbox": [
+    -110.158684,
+    34.900874,
+    -110.158684,
+    34.900874
+],
+  "geometry": {"coordinates":[-110.15868399999999,34.900874],"type":"Point"}
 }

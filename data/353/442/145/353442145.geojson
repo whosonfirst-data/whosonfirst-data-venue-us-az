@@ -2,13 +2,14 @@
   "id": 353442145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.978333,33.395658,-111.978333,33.395658",
     "geom:latitude":33.395658,
     "geom:longitude":-111.978333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 S 48th St Ste 102",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353442145,
-    "wof:lastmodified":1449019376,
+    "wof:lastmodified":1466326586,
     "wof:name":"Alternative Energy Approa",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "energy"
     ]
 },
-  "bbox": [-111.978333,33.395658,-111.978333,33.395658],
-  "geometry": {"coordinates":[-111.978333,33.395658],"type":"Point"}
+  "bbox": [
+    -111.978333,
+    33.395658,
+    -111.978333,
+    33.395658
+],
+  "geometry": {"coordinates":[-111.97833300000001,33.395658],"type":"Point"}
 }

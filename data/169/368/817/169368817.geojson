@@ -2,13 +2,14 @@
   "id": 169368817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.166135,33.538522,-112.166135,33.538522",
     "geom:latitude":33.538522,
     "geom:longitude":-112.166135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4922 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877783,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169368817,
-    "wof:lastmodified":1449033450,
+    "wof:lastmodified":1466333696,
     "wof:name":"Aabar Insurance Services Inc",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.166135,33.538522,-112.166135,33.538522],
+  "bbox": [
+    -112.166135,
+    33.538522,
+    -112.166135,
+    33.538522
+],
   "geometry": {"coordinates":[-112.166135,33.538522],"type":"Point"}
 }

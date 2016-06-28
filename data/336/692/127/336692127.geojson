@@ -2,13 +2,14 @@
   "id": 336692127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.975802,33.372685,-111.975802,33.372685",
     "geom:latitude":33.372685,
     "geom:longitude":-111.975802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8222 S 48th St Ste 250",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336692127,
-    "wof:lastmodified":1448997240,
+    "wof:lastmodified":1466327883,
     "wof:name":"ForRent.com - Apartments in the Greater Phoenix Area",
     "wof:parent_id":85852111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "condominium"
     ]
 },
-  "bbox": [-111.975802,33.372685,-111.975802,33.372685],
+  "bbox": [
+    -111.975802,
+    33.372685,
+    -111.975802,
+    33.372685
+],
   "geometry": {"coordinates":[-111.975802,33.372685],"type":"Point"}
 }

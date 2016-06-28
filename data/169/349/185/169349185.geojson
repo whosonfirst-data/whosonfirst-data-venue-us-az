@@ -2,13 +2,14 @@
   "id": 169349185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970036,32.214685,-110.970036,32.214685",
     "geom:latitude":32.214685,
     "geom:longitude":-110.970036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871733,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169349185,
-    "wof:lastmodified":1449033939,
+    "wof:lastmodified":1466333266,
     "wof:name":"Cadigan & Williamson",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970036,32.214685,-110.970036,32.214685],
-  "geometry": {"coordinates":[-110.970036,32.214685],"type":"Point"}
+  "bbox": [
+    -110.970036,
+    32.214685,
+    -110.970036,
+    32.214685
+],
+  "geometry": {"coordinates":[-110.97003599999999,32.214685],"type":"Point"}
 }

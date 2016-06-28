@@ -2,13 +2,14 @@
   "id": 353592895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.261086,33.534381,-112.261086,33.534381",
     "geom:latitude":33.534381,
     "geom:longitude":-112.261086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9404 W Westgate Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353592895,
-    "wof:lastmodified":1449019722,
+    "wof:lastmodified":1466328414,
     "wof:name":"Tully's Coffee Shop",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "espresso"
     ]
 },
-  "bbox": [-112.261086,33.534381,-112.261086,33.534381],
-  "geometry": {"coordinates":[-112.261086,33.534381],"type":"Point"}
+  "bbox": [
+    -112.261086,
+    33.534381,
+    -112.261086,
+    33.534381
+],
+  "geometry": {"coordinates":[-112.26108600000001,33.534381],"type":"Point"}
 }

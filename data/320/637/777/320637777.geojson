@@ -2,13 +2,14 @@
   "id": 320637777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086122,33.467629,-112.086122,33.467629",
     "geom:latitude":33.467629,
     "geom:longitude":-112.086122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 W Coronado Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320637777,
-    "wof:lastmodified":1449011262,
+    "wof:lastmodified":1466327834,
     "wof:name":"Environmental Horticulture",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-112.086122,33.467629,-112.086122,33.467629],
+  "bbox": [
+    -112.086122,
+    33.467629,
+    -112.086122,
+    33.467629
+],
   "geometry": {"coordinates":[-112.086122,33.467629],"type":"Point"}
 }

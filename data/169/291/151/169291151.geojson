@@ -2,13 +2,14 @@
   "id": 169291151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974363,32.216884,-110.974363,32.216884",
     "geom:latitude":32.216884,
     "geom:longitude":-110.974363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 W Cushing St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871759,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169291151,
-    "wof:lastmodified":1449033703,
+    "wof:lastmodified":1466332877,
     "wof:name":"R I Inc",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974363,32.216884,-110.974363,32.216884],
+  "bbox": [
+    -110.974363,
+    32.216884,
+    -110.974363,
+    32.216884
+],
   "geometry": {"coordinates":[-110.974363,32.216884],"type":"Point"}
 }

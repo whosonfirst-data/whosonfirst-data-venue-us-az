@@ -2,13 +2,14 @@
   "id": 169009103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.867101,32.269016,-109.867101,32.269016",
     "geom:latitude":32.269016,
     "geom:longitude":-109.867101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Fort Grant Rd",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169009103,
-    "wof:lastmodified":1449035903,
+    "wof:lastmodified":1466326727,
     "wof:name":"Mc Bee Drilling Co Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.867101,32.269016,-109.867101,32.269016],
-  "geometry": {"coordinates":[-109.867101,32.269016],"type":"Point"}
+  "bbox": [
+    -109.867101,
+    32.269016,
+    -109.867101,
+    32.269016
+],
+  "geometry": {"coordinates":[-109.86710100000001,32.269016],"type":"Point"}
 }

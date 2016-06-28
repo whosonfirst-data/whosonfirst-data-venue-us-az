@@ -2,13 +2,14 @@
   "id": 169302607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183662,33.534202,-112.183662,33.534202",
     "geom:latitude":33.534202,
     "geom:longitude":-112.183662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6645 N 58th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169302607,
-    "wof:lastmodified":1449033798,
+    "wof:lastmodified":1466333041,
     "wof:name":"Arm Hauling",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183662,33.534202,-112.183662,33.534202],
+  "bbox": [
+    -112.183662,
+    33.534202,
+    -112.183662,
+    33.534202
+],
   "geometry": {"coordinates":[-112.183662,33.534202],"type":"Point"}
 }

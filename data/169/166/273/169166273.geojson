@@ -2,13 +2,14 @@
   "id": 169166273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.452632,33.595056,-112.452632,33.595056",
     "geom:latitude":33.595056,
     "geom:longitude":-112.452632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18323 W Cactus Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169166273,
-    "wof:lastmodified":1449034534,
+    "wof:lastmodified":1466331971,
     "wof:name":"Ingersoll-Rand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.452632,33.595056,-112.452632,33.595056],
-  "geometry": {"coordinates":[-112.452632,33.595056],"type":"Point"}
+  "bbox": [
+    -112.452632,
+    33.595056,
+    -112.452632,
+    33.595056
+],
+  "geometry": {"coordinates":[-112.45263199999999,33.595056],"type":"Point"}
 }

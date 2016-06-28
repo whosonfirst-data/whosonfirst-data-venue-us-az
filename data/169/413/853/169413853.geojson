@@ -2,13 +2,14 @@
   "id": 169413853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.576901,35.126692,-114.576901,35.126692",
     "geom:latitude":35.126692,
     "geom:longitude":-114.576901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 Interstate Pl",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169413853,
-    "wof:lastmodified":1449033213,
+    "wof:lastmodified":1466333989,
     "wof:name":"M & M Water & Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.576901,35.126692,-114.576901,35.126692],
-  "geometry": {"coordinates":[-114.576901,35.126692],"type":"Point"}
+  "bbox": [
+    -114.576901,
+    35.126692,
+    -114.576901,
+    35.126692
+],
+  "geometry": {"coordinates":[-114.57690100000001,35.126692],"type":"Point"}
 }

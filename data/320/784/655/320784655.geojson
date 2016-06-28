@@ -2,13 +2,14 @@
   "id": 320784655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086076,33.580348,-112.086076,33.580348",
     "geom:latitude":33.580348,
     "geom:longitude":-112.086076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 W Cochise Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320784655,
-    "wof:lastmodified":1449013765,
+    "wof:lastmodified":1466329637,
     "wof:name":"Euromex",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-112.086076,33.580348,-112.086076,33.580348],
-  "geometry": {"coordinates":[-112.086076,33.580348],"type":"Point"}
+  "bbox": [
+    -112.086076,
+    33.580348,
+    -112.086076,
+    33.580348
+],
+  "geometry": {"coordinates":[-112.08607600000001,33.580348],"type":"Point"}
 }

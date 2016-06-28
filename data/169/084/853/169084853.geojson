@@ -2,13 +2,14 @@
   "id": 169084853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.146979,33.383073,-112.146979,33.383073",
     "geom:latitude":33.383073,
     "geom:longitude":-112.146979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6833 S 41st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169084853,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1466330340,
     "wof:name":"Bensinger Consulting",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.146979,33.383073,-112.146979,33.383073],
+  "bbox": [
+    -112.146979,
+    33.383073,
+    -112.146979,
+    33.383073
+],
   "geometry": {"coordinates":[-112.146979,33.383073],"type":"Point"}
 }

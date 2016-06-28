@@ -2,13 +2,14 @@
   "id": 353834449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.942989,32.291207,-110.942989,32.291207",
     "geom:latitude":32.291207,
     "geom:longitude":-110.942989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4647 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":353834449,
-    "wof:lastmodified":1449018501,
+    "wof:lastmodified":1466330668,
     "wof:name":"Tucson Rental Homes",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "finder"
     ]
 },
-  "bbox": [-110.942989,32.291207,-110.942989,32.291207],
+  "bbox": [
+    -110.942989,
+    32.291207,
+    -110.942989,
+    32.291207
+],
   "geometry": {"coordinates":[-110.942989,32.291207],"type":"Point"}
 }

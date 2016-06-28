@@ -2,13 +2,14 @@
   "id": 168924955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.932238,32.264841,-110.932238,32.264841",
     "geom:latitude":32.264841,
     "geom:longitude":-110.932238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168924955,
-    "wof:lastmodified":1449027977,
+    "wof:lastmodified":1466330346,
     "wof:name":"Azure Hair Salon",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.932238,32.264841,-110.932238,32.264841],
+  "bbox": [
+    -110.932238,
+    32.264841,
+    -110.932238,
+    32.264841
+],
   "geometry": {"coordinates":[-110.932238,32.264841],"type":"Point"}
 }

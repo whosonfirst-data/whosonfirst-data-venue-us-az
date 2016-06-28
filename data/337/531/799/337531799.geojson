@@ -2,13 +2,14 @@
   "id": 337531799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906919,33.712349,-111.906919,33.712349",
     "geom:latitude":33.712349,
     "geom:longitude":-111.906919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8129 E la Junta Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337531799,
-    "wof:lastmodified":1449027117,
+    "wof:lastmodified":1466326526,
     "wof:name":"Auditory Impressions",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hearing"
     ]
 },
-  "bbox": [-111.906919,33.712349,-111.906919,33.712349],
+  "bbox": [
+    -111.906919,
+    33.712349,
+    -111.906919,
+    33.712349
+],
   "geometry": {"coordinates":[-111.906919,33.712349],"type":"Point"}
 }

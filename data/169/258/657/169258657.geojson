@@ -2,13 +2,14 @@
   "id": 169258657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006247,33.6603,-112.006247,33.6603",
     "geom:latitude":33.6603,
     "geom:longitude":-112.006247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 E Clark Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835867,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169258657,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466332585,
     "wof:name":"House Of Destiny",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.006247,33.6603,-112.006247,33.6603],
+  "bbox": [
+    -112.006247,
+    33.6603,
+    -112.006247,
+    33.6603
+],
   "geometry": {"coordinates":[-112.006247,33.6603],"type":"Point"}
 }

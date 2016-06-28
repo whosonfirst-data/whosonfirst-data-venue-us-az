@@ -2,13 +2,14 @@
   "id": 169056269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.883401,33.416562,-111.883401,33.416562",
     "geom:latitude":33.416562,
     "geom:longitude":-111.883401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 E McArthur Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881435,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85881435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169056269,
-    "wof:lastmodified":1449033631,
+    "wof:lastmodified":1466328997,
     "wof:name":"St Margaret Church",
     "wof:parent_id":85881435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.883401,33.416562,-111.883401,33.416562],
-  "geometry": {"coordinates":[-111.883401,33.416562],"type":"Point"}
+  "bbox": [
+    -111.883401,
+    33.416562,
+    -111.883401,
+    33.416562
+],
+  "geometry": {"coordinates":[-111.88340100000001,33.416562],"type":"Point"}
 }

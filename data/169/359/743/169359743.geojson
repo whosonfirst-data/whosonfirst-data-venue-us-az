@@ -2,13 +2,14 @@
   "id": 169359743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956253,32.142997,-110.956253,32.142997",
     "geom:latitude":32.142997,
     "geom:longitude":-110.956253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6090 S Park Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169359743,
-    "wof:lastmodified":1449032634,
+    "wof:lastmodified":1466333659,
     "wof:name":"Circle K",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956253,32.142997,-110.956253,32.142997],
+  "bbox": [
+    -110.956253,
+    32.142997,
+    -110.956253,
+    32.142997
+],
   "geometry": {"coordinates":[-110.956253,32.142997],"type":"Point"}
 }

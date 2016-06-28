@@ -2,13 +2,14 @@
   "id": 336834339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.771027,33.424309,-111.771027,33.424309",
     "geom:latitude":33.424309,
     "geom:longitude":-111.771027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 N Lindsay Rd Ste 4",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336834339,
-    "wof:lastmodified":1448997034,
+    "wof:lastmodified":1466329886,
     "wof:name":"Tooth Doctor",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-111.771027,33.424309,-111.771027,33.424309],
+  "bbox": [
+    -111.771027,
+    33.424309,
+    -111.771027,
+    33.424309
+],
   "geometry": {"coordinates":[-111.771027,33.424309],"type":"Point"}
 }

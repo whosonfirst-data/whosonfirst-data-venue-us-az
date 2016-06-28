@@ -2,13 +2,14 @@
   "id": 168874163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.067031,32.363589,-111.067031,32.363589",
     "geom:latitude":32.363589,
     "geom:longitude":-111.067031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4796 W Bluebell Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168874163,
-    "wof:lastmodified":1449028550,
+    "wof:lastmodified":1466327816,
     "wof:name":"Car Payment Guide",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.067031,32.363589,-111.067031,32.363589],
+  "bbox": [
+    -111.067031,
+    32.363589,
+    -111.067031,
+    32.363589
+],
   "geometry": {"coordinates":[-111.067031,32.363589],"type":"Point"}
 }

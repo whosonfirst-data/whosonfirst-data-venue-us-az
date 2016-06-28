@@ -2,13 +2,14 @@
   "id": 169251133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.04103,34.251101,-110.04103,34.251101",
     "geom:latitude":34.251101,
     "geom:longitude":-110.04103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169251133,
-    "wof:lastmodified":1449032746,
+    "wof:lastmodified":1466332502,
     "wof:name":"White Mountain Jewelers",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.04103,34.251101,-110.04103,34.251101],
-  "geometry": {"coordinates":[-110.04103,34.251101],"type":"Point"}
+  "bbox": [
+    -110.04103,
+    34.251101,
+    -110.04103,
+    34.251101
+],
+  "geometry": {"coordinates":[-110.04103000000001,34.251101],"type":"Point"}
 }

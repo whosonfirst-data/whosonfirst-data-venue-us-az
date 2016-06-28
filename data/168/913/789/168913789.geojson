@@ -2,13 +2,14 @@
   "id": 168913789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.263558,33.721734,-112.263558,33.721734",
     "geom:latitude":33.721734,
     "geom:longitude":-112.263558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26439 N 95th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168913789,
-    "wof:lastmodified":1449028064,
+    "wof:lastmodified":1466330134,
     "wof:name":"Obedient K9 Co",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.263558,33.721734,-112.263558,33.721734],
+  "bbox": [
+    -112.263558,
+    33.721734,
+    -112.263558,
+    33.721734
+],
   "geometry": {"coordinates":[-112.263558,33.721734],"type":"Point"}
 }

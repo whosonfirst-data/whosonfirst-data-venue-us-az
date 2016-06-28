@@ -2,13 +2,14 @@
   "id": 168965139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.549073,31.352706,-109.549073,31.352706",
     "geom:latitude":31.352706,
     "geom:longitude":-109.549073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 E 18th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":168965139,
-    "wof:lastmodified":1449028309,
+    "wof:lastmodified":1466331315,
     "wof:name":"First Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.549073,31.352706,-109.549073,31.352706],
-  "geometry": {"coordinates":[-109.549073,31.352706],"type":"Point"}
+  "bbox": [
+    -109.549073,
+    31.352706,
+    -109.549073,
+    31.352706
+],
+  "geometry": {"coordinates":[-109.54907300000001,31.352706],"type":"Point"}
 }

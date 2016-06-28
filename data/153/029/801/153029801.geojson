@@ -2,13 +2,14 @@
   "id": 153029801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.938265,32.236134,-110.938265,32.236134",
     "geom:latitude":32.236134,
     "geom:longitude":-110.938265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153029801,
-    "wof:lastmodified":1449040526,
+    "wof:lastmodified":1466325758,
     "wof:name":"1959 Ranch Racing Aqha & Tb",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.938265,32.236134,-110.938265,32.236134],
+  "bbox": [
+    -110.938265,
+    32.236134,
+    -110.938265,
+    32.236134
+],
   "geometry": {"coordinates":[-110.938265,32.236134],"type":"Point"}
 }

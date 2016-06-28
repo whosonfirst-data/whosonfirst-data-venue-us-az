@@ -2,13 +2,14 @@
   "id": 168878075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892406,33.536949,-111.892406,33.536949",
     "geom:latitude":33.536949,
     "geom:longitude":-111.892406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8636 E Joshua Tree Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85858179
+        85633793,
+        85858179,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168878075,
-    "wof:lastmodified":1449028174,
+    "wof:lastmodified":1466328093,
     "wof:name":"Arizona Cowboys Jeep Tours",
     "wof:parent_id":85858179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892406,33.536949,-111.892406,33.536949],
-  "geometry": {"coordinates":[-111.892406,33.536949],"type":"Point"}
+  "bbox": [
+    -111.892406,
+    33.536949,
+    -111.892406,
+    33.536949
+],
+  "geometry": {"coordinates":[-111.89240599999999,33.536949],"type":"Point"}
 }

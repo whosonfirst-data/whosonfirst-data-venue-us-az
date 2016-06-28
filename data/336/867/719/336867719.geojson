@@ -2,13 +2,14 @@
   "id": 336867719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.824547,33.335299,-111.824547,33.335299",
     "geom:latitude":33.335299,
     "geom:longitude":-111.824547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 E Warner Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336867719,
-    "wof:lastmodified":1448997415,
+    "wof:lastmodified":1466330045,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.824547,33.335299,-111.824547,33.335299],
+  "bbox": [
+    -111.824547,
+    33.335299,
+    -111.824547,
+    33.335299
+],
   "geometry": {"coordinates":[-111.824547,33.335299],"type":"Point"}
 }

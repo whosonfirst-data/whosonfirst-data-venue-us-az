@@ -2,13 +2,14 @@
   "id": 169152439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16662,33.655674,-112.16662,33.655674",
     "geom:latitude":33.655674,
     "geom:longitude":-112.16662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 W Julie Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858917,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85858917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169152439,
-    "wof:lastmodified":1449035200,
+    "wof:lastmodified":1466331764,
     "wof:name":"Eas Construction",
     "wof:parent_id":85858917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16662,33.655674,-112.16662,33.655674],
-  "geometry": {"coordinates":[-112.16662,33.655674],"type":"Point"}
+  "bbox": [
+    -112.16662,
+    33.655674,
+    -112.16662,
+    33.655674
+],
+  "geometry": {"coordinates":[-112.16661999999999,33.655674],"type":"Point"}
 }

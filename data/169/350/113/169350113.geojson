@@ -2,13 +2,14 @@
   "id": 169350113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.14738,33.481795,-112.14738,33.481795",
     "geom:latitude":33.481795,
     "geom:longitude":-112.14738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3047 N 42nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169350113,
-    "wof:lastmodified":1449034363,
+    "wof:lastmodified":1466333542,
     "wof:name":"Al's Backhoe Svc",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.14738,33.481795,-112.14738,33.481795],
+  "bbox": [
+    -112.14738,
+    33.481795,
+    -112.14738,
+    33.481795
+],
   "geometry": {"coordinates":[-112.14738,33.481795],"type":"Point"}
 }

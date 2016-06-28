@@ -2,13 +2,14 @@
   "id": 152954213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.167093,33.501286,-112.167093,33.501286",
     "geom:latitude":33.501286,
     "geom:longitude":-112.167093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 N 50th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831319,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85831319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152954213,
-    "wof:lastmodified":1449048322,
+    "wof:lastmodified":1466327670,
     "wof:name":"Ice Cream Vero",
     "wof:parent_id":85831319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.167093,33.501286,-112.167093,33.501286],
-  "geometry": {"coordinates":[-112.167093,33.501286],"type":"Point"}
+  "bbox": [
+    -112.167093,
+    33.501286,
+    -112.167093,
+    33.501286
+],
+  "geometry": {"coordinates":[-112.16709299999999,33.501286],"type":"Point"}
 }

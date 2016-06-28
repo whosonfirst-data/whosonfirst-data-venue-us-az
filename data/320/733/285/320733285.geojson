@@ -2,13 +2,14 @@
   "id": 320733285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027205,33.494886,-112.027205,33.494886",
     "geom:latitude":33.494886,
     "geom:longitude":-112.027205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2539 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320733285,
-    "wof:lastmodified":1449011771,
+    "wof:lastmodified":1466328994,
     "wof:name":"Luxor Limousine",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-112.027205,33.494886,-112.027205,33.494886],
+  "bbox": [
+    -112.027205,
+    33.494886,
+    -112.027205,
+    33.494886
+],
   "geometry": {"coordinates":[-112.027205,33.494886],"type":"Point"}
 }

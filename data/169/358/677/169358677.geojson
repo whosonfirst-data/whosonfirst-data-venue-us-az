@@ -2,13 +2,14 @@
   "id": 169358677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007534,33.592161,-112.007534,33.592161",
     "geom:latitude":33.592161,
     "geom:longitude":-112.007534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3542 E Altadena Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.abbn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169358677,
-    "wof:lastmodified":1449034058,
+    "wof:lastmodified":1466333651,
     "wof:name":"A Bridge Between Nations",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007534,33.592161,-112.007534,33.592161],
-  "geometry": {"coordinates":[-112.007534,33.592161],"type":"Point"}
+  "bbox": [
+    -112.007534,
+    33.592161,
+    -112.007534,
+    33.592161
+],
+  "geometry": {"coordinates":[-112.00753400000001,33.592161],"type":"Point"}
 }

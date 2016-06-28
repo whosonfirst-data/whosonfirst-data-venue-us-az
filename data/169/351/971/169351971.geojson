@@ -2,13 +2,14 @@
   "id": 169351971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.981556,32.179111,-110.981556,32.179111",
     "geom:latitude":32.179111,
     "geom:longitude":-110.981556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 S 16th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.frys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169351971,
-    "wof:lastmodified":1449035469,
+    "wof:lastmodified":1466333566,
     "wof:name":"Fry's Food Store",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.981556,32.179111,-110.981556,32.179111],
+  "bbox": [
+    -110.981556,
+    32.179111,
+    -110.981556,
+    32.179111
+],
   "geometry": {"coordinates":[-110.981556,32.179111],"type":"Point"}
 }

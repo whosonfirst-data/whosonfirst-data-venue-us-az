@@ -2,13 +2,14 @@
   "id": 153026401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220933,33.592906,-112.220933,33.592906",
     "geom:latitude":33.592906,
     "geom:longitude":-112.220933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11826 N 75th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858203,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85858203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153026401,
-    "wof:lastmodified":1449040640,
+    "wof:lastmodified":1466327615,
     "wof:name":"Coyote Electronics LLC",
     "wof:parent_id":85858203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220933,33.592906,-112.220933,33.592906],
+  "bbox": [
+    -112.220933,
+    33.592906,
+    -112.220933,
+    33.592906
+],
   "geometry": {"coordinates":[-112.220933,33.592906],"type":"Point"}
 }

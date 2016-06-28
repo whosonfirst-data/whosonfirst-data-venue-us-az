@@ -2,13 +2,14 @@
   "id": 353577775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183894,33.582,-112.183894,33.582",
     "geom:latitude":33.582,
     "geom:longitude":-112.183894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 W PEORIA AVE STE #109",
     "sg:city":"GLENDALE",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353577775,
-    "wof:lastmodified":1449020891,
+    "wof:lastmodified":1466328271,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "rental"
     ]
 },
-  "bbox": [-112.183894,33.582,-112.183894,33.582],
+  "bbox": [
+    -112.183894,
+    33.582,
+    -112.183894,
+    33.582
+],
   "geometry": {"coordinates":[-112.183894,33.582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320776413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062553,33.570184,-112.062553,33.570184",
     "geom:latitude":33.570184,
     "geom:longitude":-112.062553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9219 N 8th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320776413,
-    "wof:lastmodified":1449012069,
+    "wof:lastmodified":1466329358,
     "wof:name":"Car Tune Diagnostics",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.062553,33.570184,-112.062553,33.570184],
-  "geometry": {"coordinates":[-112.062553,33.570184],"type":"Point"}
+  "bbox": [
+    -112.062553,
+    33.570184,
+    -112.062553,
+    33.570184
+],
+  "geometry": {"coordinates":[-112.06255299999999,33.570184],"type":"Point"}
 }

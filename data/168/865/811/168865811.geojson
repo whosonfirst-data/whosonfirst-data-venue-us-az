@@ -2,13 +2,14 @@
   "id": 168865811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.93598,32.236155,-110.93598,32.236155",
     "geom:latitude":32.236155,
     "geom:longitude":-110.93598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168865811,
-    "wof:lastmodified":1449028385,
+    "wof:lastmodified":1466327093,
     "wof:name":"Northwest Research Assoc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.93598,32.236155,-110.93598,32.236155],
+  "bbox": [
+    -110.93598,
+    32.236155,
+    -110.93598,
+    32.236155
+],
   "geometry": {"coordinates":[-110.93598,32.236155],"type":"Point"}
 }

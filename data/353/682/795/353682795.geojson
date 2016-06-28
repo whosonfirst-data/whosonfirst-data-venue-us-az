@@ -2,13 +2,14 @@
   "id": 353682795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.289728,33.440802,-112.289728,33.440802",
     "geom:latitude":33.440802,
     "geom:longitude":-112.289728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S 107th Ave Bldg C Suite 42",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353682795,
-    "wof:lastmodified":1449018686,
+    "wof:lastmodified":1466329673,
     "wof:name":"ANS Distributing",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-sales"
     ]
 },
-  "bbox": [-112.289728,33.440802,-112.289728,33.440802],
+  "bbox": [
+    -112.289728,
+    33.440802,
+    -112.289728,
+    33.440802
+],
   "geometry": {"coordinates":[-112.289728,33.440802],"type":"Point"}
 }

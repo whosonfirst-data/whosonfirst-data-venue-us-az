@@ -2,13 +2,14 @@
   "id": 169313269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909546,33.442764,-111.909546,33.442764",
     "geom:latitude":33.442764,
     "geom:longitude":-111.909546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N McClintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169313269,
-    "wof:lastmodified":1449032785,
+    "wof:lastmodified":1466333110,
     "wof:name":"Arizona Discount Marine",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909546,33.442764,-111.909546,33.442764],
-  "geometry": {"coordinates":[-111.909546,33.442764],"type":"Point"}
+  "bbox": [
+    -111.909546,
+    33.442764,
+    -111.909546,
+    33.442764
+],
+  "geometry": {"coordinates":[-111.90954600000001,33.442764],"type":"Point"}
 }

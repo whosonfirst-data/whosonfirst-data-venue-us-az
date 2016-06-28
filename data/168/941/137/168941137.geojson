@@ -2,13 +2,14 @@
   "id": 168941137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.985558,32.406673,-110.985558,32.406673",
     "geom:latitude":32.406673,
     "geom:longitude":-110.985558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10985 N Poinsettia Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168941137,
-    "wof:lastmodified":1449028238,
+    "wof:lastmodified":1466330752,
     "wof:name":"Douglass Minerals",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.985558,32.406673,-110.985558,32.406673],
+  "bbox": [
+    -110.985558,
+    32.406673,
+    -110.985558,
+    32.406673
+],
   "geometry": {"coordinates":[-110.985558,32.406673],"type":"Point"}
 }

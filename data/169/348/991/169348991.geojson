@@ -2,13 +2,14 @@
   "id": 169348991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.159054,33.595445,-112.159054,33.595445",
     "geom:latitude":33.595445,
     "geom:longitude":-112.159054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12050 N 46th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808757,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169348991,
-    "wof:lastmodified":1449032833,
+    "wof:lastmodified":1466333502,
     "wof:name":"Rob's Rooter Svc",
     "wof:parent_id":85808757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.159054,33.595445,-112.159054,33.595445],
+  "bbox": [
+    -112.159054,
+    33.595445,
+    -112.159054,
+    33.595445
+],
   "geometry": {"coordinates":[-112.159054,33.595445],"type":"Point"}
 }

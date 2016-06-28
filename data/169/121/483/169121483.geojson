@@ -2,13 +2,14 @@
   "id": 169121483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92196,32.134218,-110.92196,32.134218",
     "geom:latitude":32.134218,
     "geom:longitude":-110.92196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 E Valencia Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169121483,
-    "wof:lastmodified":1449035234,
+    "wof:lastmodified":1466331332,
     "wof:name":"McDonalds 13132",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.92196,32.134218,-110.92196,32.134218],
+  "bbox": [
+    -110.92196,
+    32.134218,
+    -110.92196,
+    32.134218
+],
   "geometry": {"coordinates":[-110.92196,32.134218],"type":"Point"}
 }

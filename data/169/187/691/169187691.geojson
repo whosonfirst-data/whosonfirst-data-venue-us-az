@@ -2,13 +2,14 @@
   "id": 169187691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929572,31.350778,-110.929572,31.350778",
     "geom:latitude":31.350778,
     "geom:longitude":-110.929572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Kino St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.nogaleschamber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169187691,
-    "wof:lastmodified":1449033182,
+    "wof:lastmodified":1466332068,
     "wof:name":"Nogales Chamber Of Commerce",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.929572,31.350778,-110.929572,31.350778],
-  "geometry": {"coordinates":[-110.929572,31.350778],"type":"Point"}
+  "bbox": [
+    -110.929572,
+    31.350778,
+    -110.929572,
+    31.350778
+],
+  "geometry": {"coordinates":[-110.92957199999999,31.350778],"type":"Point"}
 }

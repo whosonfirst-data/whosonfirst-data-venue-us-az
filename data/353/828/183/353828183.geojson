@@ -2,13 +2,14 @@
   "id": 353828183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.912388,32.194309,-110.912388,32.194309",
     "geom:latitude":32.194309,
     "geom:longitude":-110.912388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3755 E 34th St Ste 101A",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353828183,
-    "wof:lastmodified":1449019563,
+    "wof:lastmodified":1466330595,
     "wof:name":"ESM Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "equipment"
     ]
 },
-  "bbox": [-110.912388,32.194309,-110.912388,32.194309],
-  "geometry": {"coordinates":[-110.912388,32.194309],"type":"Point"}
+  "bbox": [
+    -110.912388,
+    32.194309,
+    -110.912388,
+    32.194309
+],
+  "geometry": {"coordinates":[-110.91238800000001,32.194309],"type":"Point"}
 }

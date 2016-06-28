@@ -2,13 +2,14 @@
   "id": 169258871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.959185,33.284634,-111.959185,33.284634",
     "geom:latitude":33.284634,
     "geom:longitude":-111.959185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6872 W Willis Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     "sg:website":"www.ktfab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85876645
+        85633793,
+        85876645,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169258871,
-    "wof:lastmodified":1449035282,
+    "wof:lastmodified":1466332659,
     "wof:name":"K T Fabrication Inc",
     "wof:parent_id":85876645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.959185,33.284634,-111.959185,33.284634],
-  "geometry": {"coordinates":[-111.959185,33.284634],"type":"Point"}
+  "bbox": [
+    -111.959185,
+    33.284634,
+    -111.959185,
+    33.284634
+],
+  "geometry": {"coordinates":[-111.95918500000001,33.284634],"type":"Point"}
 }

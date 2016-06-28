@@ -2,13 +2,14 @@
   "id": 152998327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103618,33.676582,-112.103618,33.676582",
     "geom:latitude":33.676582,
     "geom:longitude":-112.103618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2058 W Rose Garden Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845883,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85845883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152998327,
-    "wof:lastmodified":1449045833,
+    "wof:lastmodified":1466330066,
     "wof:name":"Best Foods Baking Co",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103618,33.676582,-112.103618,33.676582],
+  "bbox": [
+    -112.103618,
+    33.676582,
+    -112.103618,
+    33.676582
+],
   "geometry": {"coordinates":[-112.103618,33.676582],"type":"Point"}
 }

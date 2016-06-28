@@ -2,13 +2,14 @@
   "id": 168847903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978243,32.276914,-110.978243,32.276914",
     "geom:latitude":32.276914,
     "geom:longitude":-110.978243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168847903,
-    "wof:lastmodified":1449028033,
+    "wof:lastmodified":1466327671,
     "wof:name":"Transunion Credit Report Data",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978243,32.276914,-110.978243,32.276914],
-  "geometry": {"coordinates":[-110.978243,32.276914],"type":"Point"}
+  "bbox": [
+    -110.978243,
+    32.276914,
+    -110.978243,
+    32.276914
+],
+  "geometry": {"coordinates":[-110.97824300000001,32.276914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169326043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.165453,34.90237,-110.165453,34.90237",
     "geom:latitude":34.90237,
     "geom:longitude":-110.165453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 W Hopi Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169326043,
-    "wof:lastmodified":1449034076,
+    "wof:lastmodified":1466333041,
     "wof:name":"Route 66 Self Storage",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.165453,34.90237,-110.165453,34.90237],
+  "bbox": [
+    -110.165453,
+    34.90237,
+    -110.165453,
+    34.90237
+],
   "geometry": {"coordinates":[-110.165453,34.90237],"type":"Point"}
 }

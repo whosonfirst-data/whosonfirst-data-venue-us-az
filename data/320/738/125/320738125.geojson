@@ -2,13 +2,14 @@
   "id": 320738125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.122887,33.485389,-112.122887,33.485389",
     "geom:latitude":33.485389,
     "geom:longitude":-112.122887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2960 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320738125,
-    "wof:lastmodified":1449013996,
+    "wof:lastmodified":1466328632,
     "wof:name":"Century Graphics, Inc.",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "plotting"
     ]
 },
-  "bbox": [-112.122887,33.485389,-112.122887,33.485389],
-  "geometry": {"coordinates":[-112.122887,33.485389],"type":"Point"}
+  "bbox": [
+    -112.122887,
+    33.485389,
+    -112.122887,
+    33.485389
+],
+  "geometry": {"coordinates":[-112.12288700000001,33.485389],"type":"Point"}
 }

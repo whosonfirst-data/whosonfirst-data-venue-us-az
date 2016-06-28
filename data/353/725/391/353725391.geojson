@@ -2,13 +2,14 @@
   "id": 353725391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.406045,33.627983,-112.406045,33.627983",
     "geom:latitude":33.627983,
     "geom:longitude":-112.406045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16133 W Marconi Ave",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353725391,
-    "wof:lastmodified":1449018883,
+    "wof:lastmodified":1466329804,
     "wof:name":"Mario's Express Trucking",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.406045,33.627983,-112.406045,33.627983],
-  "geometry": {"coordinates":[-112.406045,33.627983],"type":"Point"}
+  "bbox": [
+    -112.406045,
+    33.627983,
+    -112.406045,
+    33.627983
+],
+  "geometry": {"coordinates":[-112.40604500000001,33.627983],"type":"Point"}
 }

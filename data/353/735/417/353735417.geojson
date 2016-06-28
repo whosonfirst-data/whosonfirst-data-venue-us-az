@@ -2,13 +2,14 @@
   "id": 353735417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204245,33.610563,-112.204245,33.610563",
     "geom:latitude":33.610563,
     "geom:longitude":-112.204245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6750 W Thunderbird Rd Ste 104,Ste. 104",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353735417,
-    "wof:lastmodified":1449020712,
+    "wof:lastmodified":1466330022,
     "wof:name":"DataFast",
     "wof:parent_id":85854965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-112.204245,33.610563,-112.204245,33.610563],
+  "bbox": [
+    -112.204245,
+    33.610563,
+    -112.204245,
+    33.610563
+],
   "geometry": {"coordinates":[-112.204245,33.610563],"type":"Point"}
 }

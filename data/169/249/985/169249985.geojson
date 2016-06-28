@@ -2,13 +2,14 @@
   "id": 169249985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.165447,33.601445,-112.165447,33.601445",
     "geom:latitude":33.601445,
     "geom:longitude":-112.165447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 W Rosewood Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808757,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169249985,
-    "wof:lastmodified":1449032854,
+    "wof:lastmodified":1466332486,
     "wof:name":"Times To Remember Travel",
     "wof:parent_id":85808757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.165447,33.601445,-112.165447,33.601445],
+  "bbox": [
+    -112.165447,
+    33.601445,
+    -112.165447,
+    33.601445
+],
   "geometry": {"coordinates":[-112.165447,33.601445],"type":"Point"}
 }

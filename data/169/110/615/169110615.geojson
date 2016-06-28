@@ -2,13 +2,14 @@
   "id": 169110615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.780229,32.169844,-110.780229,32.169844",
     "geom:latitude":32.169844,
     "geom:longitude":-110.780229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10100 E Millmar Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169110615,
-    "wof:lastmodified":1449033772,
+    "wof:lastmodified":1466331142,
     "wof:name":"R W Burkel Contracting Inc",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.780229,32.169844,-110.780229,32.169844],
-  "geometry": {"coordinates":[-110.780229,32.169844],"type":"Point"}
+  "bbox": [
+    -110.780229,
+    32.169844,
+    -110.780229,
+    32.169844
+],
+  "geometry": {"coordinates":[-110.78022900000001,32.169844],"type":"Point"}
 }

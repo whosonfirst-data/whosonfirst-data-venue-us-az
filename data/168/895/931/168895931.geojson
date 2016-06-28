@@ -2,13 +2,14 @@
   "id": 168895931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220802,33.474351,-112.220802,33.474351",
     "geom:latitude":33.474351,
     "geom:longitude":-112.220802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 N 75th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168895931,
-    "wof:lastmodified":1449028103,
+    "wof:lastmodified":1466329637,
     "wof:name":"J J's Beauty College",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220802,33.474351,-112.220802,33.474351],
-  "geometry": {"coordinates":[-112.220802,33.474351],"type":"Point"}
+  "bbox": [
+    -112.220802,
+    33.474351,
+    -112.220802,
+    33.474351
+],
+  "geometry": {"coordinates":[-112.22080200000001,33.474351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169254883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.727326,32.635027,-114.727326,32.635027",
     "geom:latitude":32.635027,
     "geom:longitude":-114.727326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13389 S Bridge Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169254883,
-    "wof:lastmodified":1449034963,
+    "wof:lastmodified":1466332588,
     "wof:name":"Valley Meat Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.727326,32.635027,-114.727326,32.635027],
-  "geometry": {"coordinates":[-114.727326,32.635027],"type":"Point"}
+  "bbox": [
+    -114.727326,
+    32.635027,
+    -114.727326,
+    32.635027
+],
+  "geometry": {"coordinates":[-114.72732600000001,32.635027],"type":"Point"}
 }

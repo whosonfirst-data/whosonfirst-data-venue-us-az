@@ -2,13 +2,14 @@
   "id": 169135849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01101,33.451094,-112.01101,33.451094",
     "geom:latitude":33.451094,
     "geom:longitude":-112.01101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 N 32nd Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169135849,
-    "wof:lastmodified":1449033949,
+    "wof:lastmodified":1466331401,
     "wof:name":"Martinez Roberto Lawn Grdn Svc",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01101,33.451094,-112.01101,33.451094],
+  "bbox": [
+    -112.01101,
+    33.451094,
+    -112.01101,
+    33.451094
+],
   "geometry": {"coordinates":[-112.01101,33.451094],"type":"Point"}
 }

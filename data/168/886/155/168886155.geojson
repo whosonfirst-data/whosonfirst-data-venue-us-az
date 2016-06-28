@@ -2,13 +2,14 @@
   "id": 168886155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939498,32.338742,-110.939498,32.338742",
     "geom:latitude":32.338742,
     "geom:longitude":-110.939498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 E Quiet Canyon Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168886155,
-    "wof:lastmodified":1449028195,
+    "wof:lastmodified":1466328697,
     "wof:name":"Willoughby Cnstr & Dev Corp",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939498,32.338742,-110.939498,32.338742],
+  "bbox": [
+    -110.939498,
+    32.338742,
+    -110.939498,
+    32.338742
+],
   "geometry": {"coordinates":[-110.939498,32.338742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168898601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.937946,33.488667,-111.937946,33.488667",
     "geom:latitude":33.488667,
     "geom:longitude":-111.937946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 N Pinto Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168898601,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1466329556,
     "wof:name":"Steve Sumrall Landscape Mntnc",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.937946,33.488667,-111.937946,33.488667],
+  "bbox": [
+    -111.937946,
+    33.488667,
+    -111.937946,
+    33.488667
+],
   "geometry": {"coordinates":[-111.937946,33.488667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320755843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.999806,33.497039,-111.999806,33.497039",
     "geom:latitude":33.497039,
     "geom:longitude":-111.999806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4202 N 38th St Apt 7",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320755843,
-    "wof:lastmodified":1449012312,
+    "wof:lastmodified":1466328971,
     "wof:name":"Gym Movers",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "unloading"
     ]
 },
-  "bbox": [-111.999806,33.497039,-111.999806,33.497039],
-  "geometry": {"coordinates":[-111.999806,33.497039],"type":"Point"}
+  "bbox": [
+    -111.999806,
+    33.497039,
+    -111.999806,
+    33.497039
+],
+  "geometry": {"coordinates":[-111.99980600000001,33.497039],"type":"Point"}
 }

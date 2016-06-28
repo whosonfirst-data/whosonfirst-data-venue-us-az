@@ -2,13 +2,14 @@
   "id": 169419763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086888,33.509411,-112.086888,33.509411",
     "geom:latitude":33.509411,
     "geom:longitude":-112.086888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169419763,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466334156,
     "wof:name":"A Z Signworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.086888,33.509411,-112.086888,33.509411],
+  "bbox": [
+    -112.086888,
+    33.509411,
+    -112.086888,
+    33.509411
+],
   "geometry": {"coordinates":[-112.086888,33.509411],"type":"Point"}
 }

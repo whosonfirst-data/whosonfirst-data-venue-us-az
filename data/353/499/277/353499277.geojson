@@ -2,13 +2,14 @@
   "id": 353499277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.959774,33.37825,-111.959774,33.37825",
     "geom:latitude":33.37825,
     "geom:longitude":-111.959774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 W Baseline Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353499277,
-    "wof:lastmodified":1449018741,
+    "wof:lastmodified":1466327165,
     "wof:name":"Candlewood Suites Phoenix/Tempe",
     "wof:parent_id":85881383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-111.959774,33.37825,-111.959774,33.37825],
+  "bbox": [
+    -111.959774,
+    33.37825,
+    -111.959774,
+    33.37825
+],
   "geometry": {"coordinates":[-111.959774,33.37825],"type":"Point"}
 }

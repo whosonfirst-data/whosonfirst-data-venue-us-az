@@ -2,13 +2,14 @@
   "id": 169334205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.122541,33.814278,-112.122541,33.814278",
     "geom:latitude":33.814278,
     "geom:longitude":-112.122541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 W Trail Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169334205,
-    "wof:lastmodified":1449033653,
+    "wof:lastmodified":1466333327,
     "wof:name":"Keenes Earth Works Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.122541,33.814278,-112.122541,33.814278],
+  "bbox": [
+    -112.122541,
+    33.814278,
+    -112.122541,
+    33.814278
+],
   "geometry": {"coordinates":[-112.122541,33.814278],"type":"Point"}
 }

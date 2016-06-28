@@ -2,13 +2,14 @@
   "id": 169298967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950234,33.310152,-111.950234,33.310152",
     "geom:latitude":33.310152,
     "geom:longitude":-111.950234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6290 W Erie St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169298967,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466332987,
     "wof:name":"Sun Tech Circuits Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.950234,33.310152,-111.950234,33.310152],
-  "geometry": {"coordinates":[-111.950234,33.310152],"type":"Point"}
+  "bbox": [
+    -111.950234,
+    33.310152,
+    -111.950234,
+    33.310152
+],
+  "geometry": {"coordinates":[-111.95023399999999,33.310152],"type":"Point"}
 }

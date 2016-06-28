@@ -2,13 +2,14 @@
   "id": 169193719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993535,33.62482,-111.993535,33.62482",
     "geom:latitude":33.62482,
     "geom:longitude":-111.993535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15210 N 41st St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169193719,
-    "wof:lastmodified":1449033228,
+    "wof:lastmodified":1466332107,
     "wof:name":"Building Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.993535,33.62482,-111.993535,33.62482],
-  "geometry": {"coordinates":[-111.993535,33.62482],"type":"Point"}
+  "bbox": [
+    -111.993535,
+    33.62482,
+    -111.993535,
+    33.62482
+],
+  "geometry": {"coordinates":[-111.99353499999999,33.62482],"type":"Point"}
 }

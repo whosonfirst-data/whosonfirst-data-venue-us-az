@@ -2,13 +2,14 @@
   "id": 168840083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.057435,32.337488,-111.057435,32.337488",
     "geom:latitude":32.337488,
     "geom:longitude":-111.057435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6918 N Cam Martin",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168840083,
-    "wof:lastmodified":1449028401,
+    "wof:lastmodified":1466327117,
     "wof:name":"Smith Tool",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.057435,32.337488,-111.057435,32.337488],
+  "bbox": [
+    -111.057435,
+    32.337488,
+    -111.057435,
+    32.337488
+],
   "geometry": {"coordinates":[-111.057435,32.337488],"type":"Point"}
 }

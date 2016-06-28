@@ -2,13 +2,14 @@
   "id": 152973329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.891974,32.159626,-110.891974,32.159626",
     "geom:latitude":32.159626,
     "geom:longitude":-110.891974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 S Swan Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081135,
-        85633793,
         85688719,
-        85831051
+        85633793,
+        85831051,
+        102081135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152973329,
-    "wof:lastmodified":1449047068,
+    "wof:lastmodified":1466328826,
     "wof:name":"Notable Sandblasting Inc",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.891974,32.159626,-110.891974,32.159626],
+  "bbox": [
+    -110.891974,
+    32.159626,
+    -110.891974,
+    32.159626
+],
   "geometry": {"coordinates":[-110.891974,32.159626],"type":"Point"}
 }

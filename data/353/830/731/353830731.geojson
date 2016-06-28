@@ -2,13 +2,14 @@
   "id": 353830731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.901794,32.169115,-110.901794,32.169115",
     "geom:latitude":32.169115,
     "geom:longitude":-110.901794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 E Illinois St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353830731,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1466330628,
     "wof:name":"Avila Concrete",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-110.901794,32.169115,-110.901794,32.169115],
+  "bbox": [
+    -110.901794,
+    32.169115,
+    -110.901794,
+    32.169115
+],
   "geometry": {"coordinates":[-110.901794,32.169115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169253139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.516245,34.583403,-112.516245,34.583403",
     "geom:latitude":34.583403,
     "geom:longitude":-112.516245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Wildwood Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169253139,
-    "wof:lastmodified":1449035545,
+    "wof:lastmodified":1466332503,
     "wof:name":"Four Haydens Corp",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.516245,34.583403,-112.516245,34.583403],
+  "bbox": [
+    -112.516245,
+    34.583403,
+    -112.516245,
+    34.583403
+],
   "geometry": {"coordinates":[-112.516245,34.583403],"type":"Point"}
 }

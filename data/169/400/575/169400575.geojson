@@ -2,13 +2,14 @@
   "id": 169400575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.414302,33.537079,-112.414302,33.537079",
     "geom:latitude":33.537079,
     "geom:longitude":-112.414302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16689 W Glendale Ave",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169400575,
-    "wof:lastmodified":1449032990,
+    "wof:lastmodified":1466333610,
     "wof:name":"Jero Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.414302,33.537079,-112.414302,33.537079],
-  "geometry": {"coordinates":[-112.414302,33.537079],"type":"Point"}
+  "bbox": [
+    -112.414302,
+    33.537079,
+    -112.414302,
+    33.537079
+],
+  "geometry": {"coordinates":[-112.41430200000001,33.537079],"type":"Point"}
 }

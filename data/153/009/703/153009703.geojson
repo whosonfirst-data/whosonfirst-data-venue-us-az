@@ -2,13 +2,14 @@
   "id": 153009703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.997726,34.151327,-109.997726,34.151327",
     "geom:latitude":34.151327,
     "geom:longitude":-109.997726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Pioneer Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153009703,
-    "wof:lastmodified":1449040813,
+    "wof:lastmodified":1466326072,
     "wof:name":"Lakeside Tool & Mold",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.997726,34.151327,-109.997726,34.151327],
+  "bbox": [
+    -109.997726,
+    34.151327,
+    -109.997726,
+    34.151327
+],
   "geometry": {"coordinates":[-109.997726,34.151327],"type":"Point"}
 }

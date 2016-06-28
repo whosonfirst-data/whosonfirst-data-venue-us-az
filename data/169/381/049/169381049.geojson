@@ -2,13 +2,14 @@
   "id": 169381049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.806918,32.227533,-110.806918,32.227533",
     "geom:latitude":32.227533,
     "geom:longitude":-110.806918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 N Cam Seco",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.sahuarohighschool.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169381049,
-    "wof:lastmodified":1449032946,
+    "wof:lastmodified":1466333804,
     "wof:name":"Sahuaro High School",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.806918,32.227533,-110.806918,32.227533],
+  "bbox": [
+    -110.806918,
+    32.227533,
+    -110.806918,
+    32.227533
+],
   "geometry": {"coordinates":[-110.806918,32.227533],"type":"Point"}
 }

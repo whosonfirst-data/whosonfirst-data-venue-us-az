@@ -2,13 +2,14 @@
   "id": 169289583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966373,32.231645,-110.966373,32.231645",
     "geom:latitude":32.231645,
     "geom:longitude":-110.966373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E University Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169289583,
-    "wof:lastmodified":1449035418,
+    "wof:lastmodified":1466332887,
     "wof:name":"Paulo Freire Freedom School",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966373,32.231645,-110.966373,32.231645],
+  "bbox": [
+    -110.966373,
+    32.231645,
+    -110.966373,
+    32.231645
+],
   "geometry": {"coordinates":[-110.966373,32.231645],"type":"Point"}
 }

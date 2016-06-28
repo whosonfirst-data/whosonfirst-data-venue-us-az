@@ -2,13 +2,14 @@
   "id": 169302993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.288672,34.128628,-109.288672,34.128628",
     "geom:latitude":34.128628,
     "geom:longitude":-109.288672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 N Main St",
     "sg:city":"Eagar",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169302993,
-    "wof:lastmodified":1449033802,
+    "wof:lastmodified":1466333087,
     "wof:name":"Springerville Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.288672,34.128628,-109.288672,34.128628],
-  "geometry": {"coordinates":[-109.288672,34.128628],"type":"Point"}
+  "bbox": [
+    -109.288672,
+    34.128628,
+    -109.288672,
+    34.128628
+],
+  "geometry": {"coordinates":[-109.28867200000001,34.128628],"type":"Point"}
 }

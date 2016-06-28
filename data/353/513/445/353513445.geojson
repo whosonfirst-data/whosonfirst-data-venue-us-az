@@ -2,13 +2,14 @@
   "id": 353513445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.911059,33.349071,-111.911059,33.349071",
     "geom:latitude":33.349071,
     "geom:longitude":-111.911059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 E Elliot Road",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353513445,
-    "wof:lastmodified":1449019931,
+    "wof:lastmodified":1466327409,
     "wof:name":"Boston Market",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-111.911059,33.349071,-111.911059,33.349071],
-  "geometry": {"coordinates":[-111.911059,33.349071],"type":"Point"}
+  "bbox": [
+    -111.911059,
+    33.349071,
+    -111.911059,
+    33.349071
+],
+  "geometry": {"coordinates":[-111.91105899999999,33.349071],"type":"Point"}
 }

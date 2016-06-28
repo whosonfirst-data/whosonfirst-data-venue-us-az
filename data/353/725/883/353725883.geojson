@@ -2,13 +2,14 @@
   "id": 353725883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.440441,33.650347,-112.440441,33.650347",
     "geom:latitude":33.650347,
     "geom:longitude":-112.440441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18266 N Arriba Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353725883,
-    "wof:lastmodified":1449018883,
+    "wof:lastmodified":1466329815,
     "wof:name":"Cyma Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-112.440441,33.650347,-112.440441,33.650347],
-  "geometry": {"coordinates":[-112.440441,33.650347],"type":"Point"}
+  "bbox": [
+    -112.440441,
+    33.650347,
+    -112.440441,
+    33.650347
+],
+  "geometry": {"coordinates":[-112.44044100000001,33.650347],"type":"Point"}
 }

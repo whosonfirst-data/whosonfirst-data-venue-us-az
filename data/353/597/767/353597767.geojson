@@ -2,13 +2,14 @@
   "id": 353597767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.18752,33.625168,-112.18752,33.625168",
     "geom:latitude":33.625168,
     "geom:longitude":-112.18752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5959 W Greenway Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353597767,
-    "wof:lastmodified":1449020743,
+    "wof:lastmodified":1466328488,
     "wof:name":"Greentree",
     "wof:parent_id":85877831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.18752,33.625168,-112.18752,33.625168],
-  "geometry": {"coordinates":[-112.18752,33.625168],"type":"Point"}
+  "bbox": [
+    -112.18752,
+    33.625168,
+    -112.18752,
+    33.625168
+],
+  "geometry": {"coordinates":[-112.18752000000001,33.625168],"type":"Point"}
 }

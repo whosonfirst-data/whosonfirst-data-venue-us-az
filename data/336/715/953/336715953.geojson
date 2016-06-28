@@ -2,13 +2,14 @@
   "id": 336715953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124664,33.573954,-112.124664,33.573954",
     "geom:latitude":33.573954,
     "geom:longitude":-112.124664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9630 N Metro Pkwy W",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":336715953,
-    "wof:lastmodified":1448997813,
+    "wof:lastmodified":1466328278,
     "wof:name":"AT&T Mobility",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "cellular"
     ]
 },
-  "bbox": [-112.124664,33.573954,-112.124664,33.573954],
+  "bbox": [
+    -112.124664,
+    33.573954,
+    -112.124664,
+    33.573954
+],
   "geometry": {"coordinates":[-112.124664,33.573954],"type":"Point"}
 }

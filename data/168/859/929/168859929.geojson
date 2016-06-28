@@ -2,13 +2,14 @@
   "id": 168859929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943919,32.256629,-110.943919,32.256629",
     "geom:latitude":32.256629,
     "geom:longitude":-110.943919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168859929,
-    "wof:lastmodified":1449028323,
+    "wof:lastmodified":1466326576,
     "wof:name":"Casa Bonita",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943919,32.256629,-110.943919,32.256629],
-  "geometry": {"coordinates":[-110.943919,32.256629],"type":"Point"}
+  "bbox": [
+    -110.943919,
+    32.256629,
+    -110.943919,
+    32.256629
+],
+  "geometry": {"coordinates":[-110.94391899999999,32.256629],"type":"Point"}
 }

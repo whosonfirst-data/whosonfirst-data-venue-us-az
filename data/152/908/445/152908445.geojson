@@ -2,13 +2,14 @@
   "id": 152908445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000398,33.621996,-112.000398,33.621996",
     "geom:latitude":33.621996,
     "geom:longitude":-112.000398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14802 N 38th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152908445,
-    "wof:lastmodified":1449046920,
+    "wof:lastmodified":1466325729,
     "wof:name":"Planet Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.000398,33.621996,-112.000398,33.621996],
+  "bbox": [
+    -112.000398,
+    33.621996,
+    -112.000398,
+    33.621996
+],
   "geometry": {"coordinates":[-112.000398,33.621996],"type":"Point"}
 }

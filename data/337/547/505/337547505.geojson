@@ -2,13 +2,14 @@
   "id": 337547505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.926352,33.458488,-111.926352,33.458488",
     "geom:latitude":33.458488,
     "geom:longitude":-111.926352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":337547505,
-    "wof:lastmodified":1449027022,
+    "wof:lastmodified":1466326674,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "new"
     ]
 },
-  "bbox": [-111.926352,33.458488,-111.926352,33.458488],
-  "geometry": {"coordinates":[-111.926352,33.458488],"type":"Point"}
+  "bbox": [
+    -111.926352,
+    33.458488,
+    -111.926352,
+    33.458488
+],
+  "geometry": {"coordinates":[-111.92635199999999,33.458488],"type":"Point"}
 }

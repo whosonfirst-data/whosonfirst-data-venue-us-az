@@ -2,13 +2,14 @@
   "id": 169414651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.934675,33.481329,-111.934675,33.481329",
     "geom:latitude":33.481329,
     "geom:longitude":-111.934675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 N 68th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169414651,
-    "wof:lastmodified":1449034220,
+    "wof:lastmodified":1466334075,
     "wof:name":"Desert Sky Management Corp",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.934675,33.481329,-111.934675,33.481329],
+  "bbox": [
+    -111.934675,
+    33.481329,
+    -111.934675,
+    33.481329
+],
   "geometry": {"coordinates":[-111.934675,33.481329],"type":"Point"}
 }

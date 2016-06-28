@@ -2,13 +2,14 @@
   "id": 153067159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.881904,33.671556,-111.881904,33.671556",
     "geom:latitude":33.671556,
     "geom:longitude":-111.881904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9218 E Rusty Spur Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880935,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153067159,
-    "wof:lastmodified":1449040364,
+    "wof:lastmodified":1466328168,
     "wof:name":"Animas Capital Investments LLC",
     "wof:parent_id":85880935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.881904,33.671556,-111.881904,33.671556],
-  "geometry": {"coordinates":[-111.881904,33.671556],"type":"Point"}
+  "bbox": [
+    -111.881904,
+    33.671556,
+    -111.881904,
+    33.671556
+],
+  "geometry": {"coordinates":[-111.88190400000001,33.671556],"type":"Point"}
 }

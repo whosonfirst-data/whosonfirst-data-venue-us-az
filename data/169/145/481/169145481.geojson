@@ -2,13 +2,14 @@
   "id": 169145481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.833943,32.252907,-109.833943,32.252907",
     "geom:latitude":32.252907,
     "geom:longitude":-109.833943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 S Curtis Ave",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169145481,
-    "wof:lastmodified":1449033694,
+    "wof:lastmodified":1466331705,
     "wof:name":"S W Gas",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.833943,32.252907,-109.833943,32.252907],
+  "bbox": [
+    -109.833943,
+    32.252907,
+    -109.833943,
+    32.252907
+],
   "geometry": {"coordinates":[-109.833943,32.252907],"type":"Point"}
 }

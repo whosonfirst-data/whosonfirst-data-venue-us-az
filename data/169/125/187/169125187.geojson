@@ -2,13 +2,14 @@
   "id": 169125187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011234,33.40557,-112.011234,33.40557",
     "geom:latitude":33.40557,
     "geom:longitude":-112.011234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 E Corona Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169125187,
-    "wof:lastmodified":1449035849,
+    "wof:lastmodified":1466331424,
     "wof:name":"Garages & Beyond",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.011234,33.40557,-112.011234,33.40557],
+  "bbox": [
+    -112.011234,
+    33.40557,
+    -112.011234,
+    33.40557
+],
   "geometry": {"coordinates":[-112.011234,33.40557],"type":"Point"}
 }

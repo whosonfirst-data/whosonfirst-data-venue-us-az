@@ -2,13 +2,14 @@
   "id": 336950245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.75547,33.219365,-111.75547,33.219365",
     "geom:latitude":33.219365,
     "geom:longitude":-111.75547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5990 S Val Vista Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336950245,
-    "wof:lastmodified":1448997376,
+    "wof:lastmodified":1466330711,
     "wof:name":"Bash Library",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-111.75547,33.219365,-111.75547,33.219365],
+  "bbox": [
+    -111.75547,
+    33.219365,
+    -111.75547,
+    33.219365
+],
   "geometry": {"coordinates":[-111.75547,33.219365],"type":"Point"}
 }

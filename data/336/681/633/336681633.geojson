@@ -2,13 +2,14 @@
   "id": 336681633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.221034,33.439581,-112.221034,33.439581",
     "geom:latitude":33.439581,
     "geom:longitude":-112.221034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S 75th Ave Ste 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336681633,
-    "wof:lastmodified":1448997600,
+    "wof:lastmodified":1466327721,
     "wof:name":"Fedex Smartpost, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "courier"
     ]
 },
-  "bbox": [-112.221034,33.439581,-112.221034,33.439581],
+  "bbox": [
+    -112.221034,
+    33.439581,
+    -112.221034,
+    33.439581
+],
   "geometry": {"coordinates":[-112.221034,33.439581],"type":"Point"}
 }

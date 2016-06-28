@@ -2,13 +2,14 @@
   "id": 169003887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142596,33.712252,-112.142596,33.712252",
     "geom:latitude":33.712252,
     "geom:longitude":-112.142596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3826 W Villa Linda Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169003887,
-    "wof:lastmodified":1449035706,
+    "wof:lastmodified":1466326066,
     "wof:name":"Tuscany Elegant Old World",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.142596,33.712252,-112.142596,33.712252],
+  "bbox": [
+    -112.142596,
+    33.712252,
+    -112.142596,
+    33.712252
+],
   "geometry": {"coordinates":[-112.142596,33.712252],"type":"Point"}
 }

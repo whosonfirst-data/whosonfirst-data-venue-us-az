@@ -2,13 +2,14 @@
   "id": 353592139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.264618,33.529202,-112.264618,33.529202",
     "geom:latitude":33.529202,
     "geom:longitude":-112.264618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cardinals Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353592139,
-    "wof:lastmodified":1449019717,
+    "wof:lastmodified":1466328400,
     "wof:name":"University Of Phoenix Stadium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-112.264618,33.529202,-112.264618,33.529202],
+  "bbox": [
+    -112.264618,
+    33.529202,
+    -112.264618,
+    33.529202
+],
   "geometry": {"coordinates":[-112.264618,33.529202],"type":"Point"}
 }

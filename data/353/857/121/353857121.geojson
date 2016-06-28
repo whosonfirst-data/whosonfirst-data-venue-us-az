@@ -2,13 +2,14 @@
   "id": 353857121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.793442,32.11652,-110.793442,32.11652",
     "geom:latitude":32.11652,
     "geom:longitude":-110.793442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9346 E Carmel Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353857121,
-    "wof:lastmodified":1449019901,
+    "wof:lastmodified":1466330852,
     "wof:name":"New Light Cathedral Church",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-110.793442,32.11652,-110.793442,32.11652],
+  "bbox": [
+    -110.793442,
+    32.11652,
+    -110.793442,
+    32.11652
+],
   "geometry": {"coordinates":[-110.793442,32.11652],"type":"Point"}
 }

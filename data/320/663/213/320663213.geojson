@@ -2,13 +2,14 @@
   "id": 320663213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.130356,33.474129,-112.130356,33.474129",
     "geom:latitude":33.474129,
     "geom:longitude":-112.130356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 W Vernon Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":320663213,
-    "wof:lastmodified":1449014002,
+    "wof:lastmodified":1466327347,
     "wof:name":"Associated Sign Co.",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-112.130356,33.474129,-112.130356,33.474129],
-  "geometry": {"coordinates":[-112.130356,33.474129],"type":"Point"}
+  "bbox": [
+    -112.130356,
+    33.474129,
+    -112.130356,
+    33.474129
+],
+  "geometry": {"coordinates":[-112.13035600000001,33.474129],"type":"Point"}
 }

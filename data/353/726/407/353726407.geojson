@@ -2,13 +2,14 @@
   "id": 353726407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.385354,33.63429,-112.385354,33.63429",
     "geom:latitude":33.63429,
     "geom:longitude":-112.385354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15127 W Cottonwood St",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353726407,
-    "wof:lastmodified":1449019987,
+    "wof:lastmodified":1466329821,
     "wof:name":"J.V. Surveying",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.385354,33.63429,-112.385354,33.63429],
-  "geometry": {"coordinates":[-112.385354,33.63429],"type":"Point"}
+  "bbox": [
+    -112.385354,
+    33.63429,
+    -112.385354,
+    33.63429
+],
+  "geometry": {"coordinates":[-112.38535400000001,33.63429],"type":"Point"}
 }

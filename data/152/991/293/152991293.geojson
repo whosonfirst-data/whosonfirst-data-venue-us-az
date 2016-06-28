@@ -2,13 +2,14 @@
   "id": 152991293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020877,33.448293,-112.020877,33.448293",
     "geom:latitude":33.448293,
     "geom:longitude":-112.020877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2824 E Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.accutemp-phx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152991293,
-    "wof:lastmodified":1449045758,
+    "wof:lastmodified":1466329732,
     "wof:name":"Accutemp Refrigeration Inc",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.020877,33.448293,-112.020877,33.448293],
+  "bbox": [
+    -112.020877,
+    33.448293,
+    -112.020877,
+    33.448293
+],
   "geometry": {"coordinates":[-112.020877,33.448293],"type":"Point"}
 }

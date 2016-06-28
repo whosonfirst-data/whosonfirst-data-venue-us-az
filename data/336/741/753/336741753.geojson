@@ -2,13 +2,14 @@
   "id": 336741753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056635,33.808908,-112.056635,33.808908",
     "geom:latitude":33.808908,
     "geom:longitude":-112.056635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35630 N 12th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336741753,
-    "wof:lastmodified":1448996970,
+    "wof:lastmodified":1466328643,
     "wof:name":"Hay Waddell's Farm",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hay"
     ]
 },
-  "bbox": [-112.056635,33.808908,-112.056635,33.808908],
+  "bbox": [
+    -112.056635,
+    33.808908,
+    -112.056635,
+    33.808908
+],
   "geometry": {"coordinates":[-112.056635,33.808908],"type":"Point"}
 }

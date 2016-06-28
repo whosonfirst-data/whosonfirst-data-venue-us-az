@@ -2,13 +2,14 @@
   "id": 169110805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065052,33.436573,-112.065052,33.436573",
     "geom:latitude":33.436573,
     "geom:longitude":-112.065052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1243 S 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169110805,
-    "wof:lastmodified":1449033771,
+    "wof:lastmodified":1466331148,
     "wof:name":"Desert West Coach Service Ltd",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065052,33.436573,-112.065052,33.436573],
-  "geometry": {"coordinates":[-112.065052,33.436573],"type":"Point"}
+  "bbox": [
+    -112.065052,
+    33.436573,
+    -112.065052,
+    33.436573
+],
+  "geometry": {"coordinates":[-112.06505199999999,33.436573],"type":"Point"}
 }

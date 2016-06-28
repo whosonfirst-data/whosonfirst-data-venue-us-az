@@ -2,13 +2,14 @@
   "id": 168924111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.303238,33.644627,-112.303238,33.644627",
     "geom:latitude":33.644627,
     "geom:longitude":-112.303238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17647 N 113th Ave",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168924111,
-    "wof:lastmodified":1449027979,
+    "wof:lastmodified":1466330283,
     "wof:name":"Chris Krajchir",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.303238,33.644627,-112.303238,33.644627],
-  "geometry": {"coordinates":[-112.303238,33.644627],"type":"Point"}
+  "bbox": [
+    -112.303238,
+    33.644627,
+    -112.303238,
+    33.644627
+],
+  "geometry": {"coordinates":[-112.30323799999999,33.644627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152923227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.43596,34.743409,-112.43596,34.743409",
     "geom:latitude":34.743409,
     "geom:longitude":-112.43596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Posey Ln",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152923227,
-    "wof:lastmodified":1449048763,
+    "wof:lastmodified":1466327450,
     "wof:name":"Hudson Homes Inc",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.43596,34.743409,-112.43596,34.743409],
-  "geometry": {"coordinates":[-112.43596,34.743409],"type":"Point"}
+  "bbox": [
+    -112.43596,
+    34.743409,
+    -112.43596,
+    34.743409
+],
+  "geometry": {"coordinates":[-112.43595999999999,34.743409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169328427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.903934,33.593955,-111.903934,33.593955",
     "geom:latitude":33.593955,
     "geom:longitude":-111.903934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8334 E Jenan Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808393,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85808393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169328427,
-    "wof:lastmodified":1449034630,
+    "wof:lastmodified":1466333173,
     "wof:name":"Izard Insurance",
     "wof:parent_id":85808393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.903934,33.593955,-111.903934,33.593955],
-  "geometry": {"coordinates":[-111.903934,33.593955],"type":"Point"}
+  "bbox": [
+    -111.903934,
+    33.593955,
+    -111.903934,
+    33.593955
+],
+  "geometry": {"coordinates":[-111.90393400000001,33.593955],"type":"Point"}
 }

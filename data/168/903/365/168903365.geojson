@@ -2,13 +2,14 @@
   "id": 168903365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.093792,33.425903,-112.093792,33.425903",
     "geom:latitude":33.425903,
     "geom:longitude":-112.093792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 S 16th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168903365,
-    "wof:lastmodified":1449027813,
+    "wof:lastmodified":1466329517,
     "wof:name":"Lincoln Transportation Svc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.093792,33.425903,-112.093792,33.425903],
-  "geometry": {"coordinates":[-112.093792,33.425903],"type":"Point"}
+  "bbox": [
+    -112.093792,
+    33.425903,
+    -112.093792,
+    33.425903
+],
+  "geometry": {"coordinates":[-112.09379199999999,33.425903],"type":"Point"}
 }

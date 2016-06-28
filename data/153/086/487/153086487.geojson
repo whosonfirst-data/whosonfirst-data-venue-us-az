@@ -2,13 +2,14 @@
   "id": 153086487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.193169,33.586939,-112.193169,33.586939",
     "geom:latitude":33.586939,
     "geom:longitude":-112.193169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 W Shangri la Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843371,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85843371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153086487,
-    "wof:lastmodified":1449040683,
+    "wof:lastmodified":1466329148,
     "wof:name":"Midway General Construction",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.193169,33.586939,-112.193169,33.586939],
+  "bbox": [
+    -112.193169,
+    33.586939,
+    -112.193169,
+    33.586939
+],
   "geometry": {"coordinates":[-112.193169,33.586939],"type":"Point"}
 }

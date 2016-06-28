@@ -2,13 +2,14 @@
   "id": 152985835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.538373,31.361257,-109.538373,31.361257",
     "geom:latitude":31.361257,
     "geom:longitude":-109.538373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2897 E Bagwell Rd",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152985835,
-    "wof:lastmodified":1449046602,
+    "wof:lastmodified":1466329273,
     "wof:name":"Stevens H Bagwell",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.538373,31.361257,-109.538373,31.361257],
-  "geometry": {"coordinates":[-109.538373,31.361257],"type":"Point"}
+  "bbox": [
+    -109.538373,
+    31.361257,
+    -109.538373,
+    31.361257
+],
+  "geometry": {"coordinates":[-109.53837300000001,31.361257],"type":"Point"}
 }

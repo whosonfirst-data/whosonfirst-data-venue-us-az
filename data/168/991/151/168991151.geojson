@@ -2,13 +2,14 @@
   "id": 168991151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.54619,31.349656,-109.54619,31.349656",
     "geom:latitude":31.349656,
     "geom:longitude":-109.54619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 E 15th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":168991151,
-    "wof:lastmodified":1449027989,
+    "wof:lastmodified":1466331669,
     "wof:name":"Cochise Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.54619,31.349656,-109.54619,31.349656],
+  "bbox": [
+    -109.54619,
+    31.349656,
+    -109.54619,
+    31.349656
+],
   "geometry": {"coordinates":[-109.54619,31.349656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336735055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11174,33.712799,-112.11174,33.712799",
     "geom:latitude":33.712799,
     "geom:longitude":-112.11174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 W Happy Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336735055,
-    "wof:lastmodified":1448997974,
+    "wof:lastmodified":1466328835,
     "wof:name":"Picture Me Portrait Studios",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographers-portrait"
     ]
 },
-  "bbox": [-112.11174,33.712799,-112.11174,33.712799],
+  "bbox": [
+    -112.11174,
+    33.712799,
+    -112.11174,
+    33.712799
+],
   "geometry": {"coordinates":[-112.11174,33.712799],"type":"Point"}
 }

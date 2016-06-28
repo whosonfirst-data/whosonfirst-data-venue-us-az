@@ -2,13 +2,14 @@
   "id": 169312931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.97204,34.13658,-109.97204,34.13658",
     "geom:latitude":34.13658,
     "geom:longitude":-109.97204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Woodland Rd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169312931,
-    "wof:lastmodified":1449034350,
+    "wof:lastmodified":1466333173,
     "wof:name":"Tella Dental Lab",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.97204,34.13658,-109.97204,34.13658],
-  "geometry": {"coordinates":[-109.97204,34.13658],"type":"Point"}
+  "bbox": [
+    -109.97204,
+    34.13658,
+    -109.97204,
+    34.13658
+],
+  "geometry": {"coordinates":[-109.97204000000001,34.13658],"type":"Point"}
 }

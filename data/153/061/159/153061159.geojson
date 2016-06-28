@@ -2,13 +2,14 @@
   "id": 153061159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.748274,32.877544,-111.748274,32.877544",
     "geom:latitude":32.877544,
     "geom:longitude":-111.748274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 E 5th St",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153061159,
-    "wof:lastmodified":1449040687,
+    "wof:lastmodified":1466328039,
     "wof:name":"Birdsong Real Estate",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.748274,32.877544,-111.748274,32.877544],
-  "geometry": {"coordinates":[-111.748274,32.877544],"type":"Point"}
+  "bbox": [
+    -111.748274,
+    32.877544,
+    -111.748274,
+    32.877544
+],
+  "geometry": {"coordinates":[-111.74827399999999,32.877544],"type":"Point"}
 }

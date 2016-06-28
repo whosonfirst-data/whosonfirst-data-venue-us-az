@@ -2,13 +2,14 @@
   "id": 169194157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003647,33.44539,-112.003647,33.44539",
     "geom:latitude":33.44539,
     "geom:longitude":-112.003647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169194157,
-    "wof:lastmodified":1449035486,
+    "wof:lastmodified":1466332057,
     "wof:name":"Zero Defects Inc",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003647,33.44539,-112.003647,33.44539],
+  "bbox": [
+    -112.003647,
+    33.44539,
+    -112.003647,
+    33.44539
+],
   "geometry": {"coordinates":[-112.003647,33.44539],"type":"Point"}
 }

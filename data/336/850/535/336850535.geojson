@@ -2,13 +2,14 @@
   "id": 336850535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.862283,33.306195,-111.862283,33.306195",
     "geom:latitude":33.306195,
     "geom:longitude":-111.862283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 W Chandler Boulevard",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336850535,
-    "wof:lastmodified":1448997557,
+    "wof:lastmodified":1466329912,
     "wof:name":"Sunraj Investment",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-111.862283,33.306195,-111.862283,33.306195],
-  "geometry": {"coordinates":[-111.862283,33.306195],"type":"Point"}
+  "bbox": [
+    -111.862283,
+    33.306195,
+    -111.862283,
+    33.306195
+],
+  "geometry": {"coordinates":[-111.86228300000001,33.306195],"type":"Point"}
 }

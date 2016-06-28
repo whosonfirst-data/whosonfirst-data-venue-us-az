@@ -2,13 +2,14 @@
   "id": 153052769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190221,33.512048,-112.190221,33.512048",
     "geom:latitude":33.512048,
     "geom:longitude":-112.190221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 N 60th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":153052769,
-    "wof:lastmodified":1449040527,
+    "wof:lastmodified":1466327363,
     "wof:name":"Fittings By Nickie LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.190221,33.512048,-112.190221,33.512048],
-  "geometry": {"coordinates":[-112.190221,33.512048],"type":"Point"}
+  "bbox": [
+    -112.190221,
+    33.512048,
+    -112.190221,
+    33.512048
+],
+  "geometry": {"coordinates":[-112.19022099999999,33.512048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320632223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090347,33.448181,-112.090347,33.448181",
     "geom:latitude":33.448181,
     "geom:longitude":-112.090347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Washington St # 260",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320632223,
-    "wof:lastmodified":1449013647,
+    "wof:lastmodified":1466326582,
     "wof:name":"Private Postsecondary Education, Arizona State Board For",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-112.090347,33.448181,-112.090347,33.448181],
-  "geometry": {"coordinates":[-112.090347,33.448181],"type":"Point"}
+  "bbox": [
+    -112.090347,
+    33.448181,
+    -112.090347,
+    33.448181
+],
+  "geometry": {"coordinates":[-112.09034699999999,33.448181],"type":"Point"}
 }

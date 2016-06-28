@@ -2,13 +2,14 @@
   "id": 353846137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.910204,32.469363,-110.910204,32.469363",
     "geom:latitude":32.469363,
     "geom:longitude":-110.910204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14511 N Bowman Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353846137,
-    "wof:lastmodified":1449020250,
+    "wof:lastmodified":1466330612,
     "wof:name":"Dawson Electric",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.910204,32.469363,-110.910204,32.469363],
-  "geometry": {"coordinates":[-110.910204,32.469363],"type":"Point"}
+  "bbox": [
+    -110.910204,
+    32.469363,
+    -110.910204,
+    32.469363
+],
+  "geometry": {"coordinates":[-110.91020399999999,32.469363],"type":"Point"}
 }

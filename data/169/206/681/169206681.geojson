@@ -2,13 +2,14 @@
   "id": 169206681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.036032,34.25087,-110.036032,34.25087",
     "geom:latitude":34.25087,
     "geom:longitude":-110.036032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 N 6th St",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169206681,
-    "wof:lastmodified":1449034938,
+    "wof:lastmodified":1466332187,
     "wof:name":"Mv Transportation",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.036032,34.25087,-110.036032,34.25087],
-  "geometry": {"coordinates":[-110.036032,34.25087],"type":"Point"}
+  "bbox": [
+    -110.036032,
+    34.25087,
+    -110.036032,
+    34.25087
+],
+  "geometry": {"coordinates":[-110.03603200000001,34.25087],"type":"Point"}
 }

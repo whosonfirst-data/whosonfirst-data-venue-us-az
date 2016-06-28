@@ -2,13 +2,14 @@
   "id": 169187169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.252327,33.558324,-112.252327,33.558324",
     "geom:latitude":33.558324,
     "geom:longitude":-112.252327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9020 W Echo Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169187169,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466332033,
     "wof:name":"SCC Installation",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.252327,33.558324,-112.252327,33.558324],
-  "geometry": {"coordinates":[-112.252327,33.558324],"type":"Point"}
+  "bbox": [
+    -112.252327,
+    33.558324,
+    -112.252327,
+    33.558324
+],
+  "geometry": {"coordinates":[-112.25232699999999,33.558324],"type":"Point"}
 }

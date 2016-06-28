@@ -2,13 +2,14 @@
   "id": 353563213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.157951,33.550053,-112.157951,33.550053",
     "geom:latitude":33.550053,
     "geom:longitude":-112.157951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7720 N 46th Cir",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353563213,
-    "wof:lastmodified":1449018293,
+    "wof:lastmodified":1466328357,
     "wof:name":"Segway Management",
     "wof:parent_id":85845677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "services-household"
     ]
 },
-  "bbox": [-112.157951,33.550053,-112.157951,33.550053],
+  "bbox": [
+    -112.157951,
+    33.550053,
+    -112.157951,
+    33.550053
+],
   "geometry": {"coordinates":[-112.157951,33.550053],"type":"Point"}
 }

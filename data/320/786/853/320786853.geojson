@@ -2,13 +2,14 @@
   "id": 320786853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.11441,33.57996,-112.11441,33.57996",
     "geom:latitude":33.57996,
     "geom:longitude":-112.11441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 W Beryl Ave Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320786853,
-    "wof:lastmodified":1449011736,
+    "wof:lastmodified":1466329662,
     "wof:name":"Abe Goldstein, Md Pc",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-112.11441,33.57996,-112.11441,33.57996],
-  "geometry": {"coordinates":[-112.11441,33.57996],"type":"Point"}
+  "bbox": [
+    -112.11441,
+    33.57996,
+    -112.11441,
+    33.57996
+],
+  "geometry": {"coordinates":[-112.11441000000001,33.57996],"type":"Point"}
 }

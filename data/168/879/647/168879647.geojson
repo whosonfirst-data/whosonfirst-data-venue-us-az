@@ -2,13 +2,14 @@
   "id": 168879647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.297173,34.472715,-114.297173,34.472715",
     "geom:latitude":34.472715,
     "geom:longitude":-114.297173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 S Jamaica Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168879647,
-    "wof:lastmodified":1449027785,
+    "wof:lastmodified":1466328212,
     "wof:name":"Cinnamon Street Bakery",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.297173,34.472715,-114.297173,34.472715],
+  "bbox": [
+    -114.297173,
+    34.472715,
+    -114.297173,
+    34.472715
+],
   "geometry": {"coordinates":[-114.297173,34.472715],"type":"Point"}
 }

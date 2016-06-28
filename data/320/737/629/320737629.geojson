@@ -2,13 +2,14 @@
   "id": 320737629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124109,33.493487,-112.124109,33.493487",
     "geom:latitude":33.493487,
     "geom:longitude":-112.124109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 W Fairmount Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320737629,
-    "wof:lastmodified":1449012090,
+    "wof:lastmodified":1466328619,
     "wof:name":"Monday Night Auction",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-112.124109,33.493487,-112.124109,33.493487],
+  "bbox": [
+    -112.124109,
+    33.493487,
+    -112.124109,
+    33.493487
+],
   "geometry": {"coordinates":[-112.124109,33.493487],"type":"Point"}
 }

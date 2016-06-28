@@ -2,13 +2,14 @@
   "id": 168947705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909188,33.455979,-111.909188,33.455979",
     "geom:latitude":33.455979,
     "geom:longitude":-111.909188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7919 E Kimsey Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881419,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168947705,
-    "wof:lastmodified":1449028342,
+    "wof:lastmodified":1466330953,
     "wof:name":"Eye Care For Animals",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909188,33.455979,-111.909188,33.455979],
+  "bbox": [
+    -111.909188,
+    33.455979,
+    -111.909188,
+    33.455979
+],
   "geometry": {"coordinates":[-111.909188,33.455979],"type":"Point"}
 }

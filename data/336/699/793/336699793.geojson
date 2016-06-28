@@ -2,13 +2,14 @@
   "id": 336699793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.989479,33.314758,-111.989479,33.314758",
     "geom:latitude":33.314758,
     "geom:longitude":-111.989479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4354 E Badger Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336699793,
-    "wof:lastmodified":1448997074,
+    "wof:lastmodified":1466328020,
     "wof:name":"Market Works",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.989479,33.314758,-111.989479,33.314758],
+  "bbox": [
+    -111.989479,
+    33.314758,
+    -111.989479,
+    33.314758
+],
   "geometry": {"coordinates":[-111.989479,33.314758],"type":"Point"}
 }

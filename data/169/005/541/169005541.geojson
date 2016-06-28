@@ -2,13 +2,14 @@
   "id": 169005541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105595,33.558692,-112.105595,33.558692",
     "geom:latitude":33.558692,
     "geom:longitude":-112.105595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 N 21st Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840323,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169005541,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1466326227,
     "wof:name":"Dot To Dot",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.105595,33.558692,-112.105595,33.558692],
-  "geometry": {"coordinates":[-112.105595,33.558692],"type":"Point"}
+  "bbox": [
+    -112.105595,
+    33.558692,
+    -112.105595,
+    33.558692
+],
+  "geometry": {"coordinates":[-112.10559499999999,33.558692],"type":"Point"}
 }

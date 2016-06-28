@@ -2,13 +2,14 @@
   "id": 168954881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.901178,33.427478,-111.901178,33.427478",
     "geom:latitude":33.427478,
     "geom:longitude":-111.901178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 E 3rd St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881381,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168954881,
-    "wof:lastmodified":1449028490,
+    "wof:lastmodified":1466331055,
     "wof:name":"Thomas Woodcraft",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.901178,33.427478,-111.901178,33.427478],
+  "bbox": [
+    -111.901178,
+    33.427478,
+    -111.901178,
+    33.427478
+],
   "geometry": {"coordinates":[-111.901178,33.427478],"type":"Point"}
 }

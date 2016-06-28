@@ -2,13 +2,14 @@
   "id": 169308763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.101431,33.502395,-112.101431,33.502395",
     "geom:latitude":33.502395,
     "geom:longitude":-112.101431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 W Campbell Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169308763,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1466333119,
     "wof:name":"United Auto Insurance Inc",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.101431,33.502395,-112.101431,33.502395],
-  "geometry": {"coordinates":[-112.101431,33.502395],"type":"Point"}
+  "bbox": [
+    -112.101431,
+    33.502395,
+    -112.101431,
+    33.502395
+],
+  "geometry": {"coordinates":[-112.10143100000001,33.502395],"type":"Point"}
 }

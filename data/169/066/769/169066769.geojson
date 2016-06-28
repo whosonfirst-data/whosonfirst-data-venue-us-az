@@ -2,13 +2,14 @@
   "id": 169066769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.854224,32.328207,-110.854224,32.328207",
     "geom:latitude":32.328207,
     "geom:longitude":-110.854224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6655 N Canyon Crest Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169066769,
-    "wof:lastmodified":1449033648,
+    "wof:lastmodified":1466329742,
     "wof:name":"Ventana Canyon View",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.854224,32.328207,-110.854224,32.328207],
+  "bbox": [
+    -110.854224,
+    32.328207,
+    -110.854224,
+    32.328207
+],
   "geometry": {"coordinates":[-110.854224,32.328207],"type":"Point"}
 }

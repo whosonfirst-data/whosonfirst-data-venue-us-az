@@ -2,13 +2,14 @@
   "id": 153045343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857684,32.290196,-110.857684,32.290196",
     "geom:latitude":32.290196,
     "geom:longitude":-110.857684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4524 N Ave Ronca",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153045343,
-    "wof:lastmodified":1449040767,
+    "wof:lastmodified":1466326842,
     "wof:name":"R Dekker",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.857684,32.290196,-110.857684,32.290196],
-  "geometry": {"coordinates":[-110.857684,32.290196],"type":"Point"}
+  "bbox": [
+    -110.857684,
+    32.290196,
+    -110.857684,
+    32.290196
+],
+  "geometry": {"coordinates":[-110.85768400000001,32.290196],"type":"Point"}
 }

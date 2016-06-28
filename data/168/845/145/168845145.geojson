@@ -2,13 +2,14 @@
   "id": 168845145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.011449,35.255904,-114.011449,35.255904",
     "geom:latitude":35.255904,
     "geom:longitude":-114.011449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 N Bank St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168845145,
-    "wof:lastmodified":1449027898,
+    "wof:lastmodified":1466327512,
     "wof:name":"Fresh Tomato",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.011449,35.255904,-114.011449,35.255904],
+  "bbox": [
+    -114.011449,
+    35.255904,
+    -114.011449,
+    35.255904
+],
   "geometry": {"coordinates":[-114.011449,35.255904],"type":"Point"}
 }

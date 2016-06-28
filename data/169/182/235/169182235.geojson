@@ -2,13 +2,14 @@
   "id": 169182235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.598105,35.110897,-114.598105,35.110897",
     "geom:latitude":35.110897,
     "geom:longitude":-114.598105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 Hwy 95",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169182235,
-    "wof:lastmodified":1449034773,
+    "wof:lastmodified":1466332159,
     "wof:name":"Elite Team Realty",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.598105,35.110897,-114.598105,35.110897],
+  "bbox": [
+    -114.598105,
+    35.110897,
+    -114.598105,
+    35.110897
+],
   "geometry": {"coordinates":[-114.598105,35.110897],"type":"Point"}
 }

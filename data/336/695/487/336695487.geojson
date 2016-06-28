@@ -2,13 +2,14 @@
   "id": 336695487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.980383,33.308219,-111.980383,33.308219",
     "geom:latitude":33.308219,
     "geom:longitude":-111.980383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15215 S 48th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336695487,
-    "wof:lastmodified":1448997349,
+    "wof:lastmodified":1466328214,
     "wof:name":"Arizona's Vision",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "optometrists-od-pediatric"
     ]
 },
-  "bbox": [-111.980383,33.308219,-111.980383,33.308219],
+  "bbox": [
+    -111.980383,
+    33.308219,
+    -111.980383,
+    33.308219
+],
   "geometry": {"coordinates":[-111.980383,33.308219],"type":"Point"}
 }

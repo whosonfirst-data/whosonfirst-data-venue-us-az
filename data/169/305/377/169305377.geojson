@@ -2,13 +2,14 @@
   "id": 169305377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.301151,31.96694,-110.301151,31.96694",
     "geom:latitude":31.96694,
     "geom:longitude":-110.301151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 W 6th St",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169305377,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1466333242,
     "wof:name":"Benson Chiropractic Care Clnc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.301151,31.96694,-110.301151,31.96694],
+  "bbox": [
+    -110.301151,
+    31.96694,
+    -110.301151,
+    31.96694
+],
   "geometry": {"coordinates":[-110.301151,31.96694],"type":"Point"}
 }

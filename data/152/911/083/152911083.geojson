@@ -2,13 +2,14 @@
   "id": 152911083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.549673,31.343326,-109.549673,31.343326",
     "geom:latitude":31.343326,
     "geom:longitude":-109.549673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 E 9th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719,
-        85885053,
-        85917171
+        85804277,
+        85917171,
+        85885053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152911083,
-    "wof:lastmodified":1449048161,
+    "wof:lastmodified":1466325845,
     "wof:name":"Ken Neff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.549673,31.343326,-109.549673,31.343326],
+  "bbox": [
+    -109.549673,
+    31.343326,
+    -109.549673,
+    31.343326
+],
   "geometry": {"coordinates":[-109.549673,31.343326],"type":"Point"}
 }

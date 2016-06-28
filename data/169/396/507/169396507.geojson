@@ -2,13 +2,14 @@
   "id": 169396507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049921,33.396424,-112.049921,33.396424",
     "geom:latitude":33.396424,
     "geom:longitude":-112.049921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 E Bowker St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853813,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169396507,
-    "wof:lastmodified":1449034852,
+    "wof:lastmodified":1466333958,
     "wof:name":"Novedades Karely",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.049921,33.396424,-112.049921,33.396424],
+  "bbox": [
+    -112.049921,
+    33.396424,
+    -112.049921,
+    33.396424
+],
   "geometry": {"coordinates":[-112.049921,33.396424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169248343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.613025,35.108456,-114.613025,35.108456",
     "geom:latitude":35.108456,
     "geom:longitude":-114.613025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Lakeside Dr",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169248343,
-    "wof:lastmodified":1449034502,
+    "wof:lastmodified":1466332645,
     "wof:name":"Smiths Food & Drug Center 191",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.613025,35.108456,-114.613025,35.108456],
-  "geometry": {"coordinates":[-114.613025,35.108456],"type":"Point"}
+  "bbox": [
+    -114.613025,
+    35.108456,
+    -114.613025,
+    35.108456
+],
+  "geometry": {"coordinates":[-114.61302499999999,35.108456],"type":"Point"}
 }

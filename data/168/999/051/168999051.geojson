@@ -2,13 +2,14 @@
   "id": 168999051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.973401,32.253881,-110.973401,32.253881",
     "geom:latitude":32.253881,
     "geom:longitude":-110.973401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 W Jacinto St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.puschridgerealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168999051,
-    "wof:lastmodified":1449028497,
+    "wof:lastmodified":1466331704,
     "wof:name":"Biblical Financial Counseling",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.973401,32.253881,-110.973401,32.253881],
+  "bbox": [
+    -110.973401,
+    32.253881,
+    -110.973401,
+    32.253881
+],
   "geometry": {"coordinates":[-110.973401,32.253881],"type":"Point"}
 }

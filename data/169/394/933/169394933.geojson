@@ -2,13 +2,14 @@
   "id": 169394933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.653614,33.364765,-111.653614,33.364765",
     "geom:latitude":33.364765,
     "geom:longitude":-111.653614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8257 E Guadalupe Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872437,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169394933,
-    "wof:lastmodified":1449033329,
+    "wof:lastmodified":1466334008,
     "wof:name":"Planet Beach Tanning Spa",
     "wof:parent_id":85872437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.653614,33.364765,-111.653614,33.364765],
+  "bbox": [
+    -111.653614,
+    33.364765,
+    -111.653614,
+    33.364765
+],
   "geometry": {"coordinates":[-111.653614,33.364765],"type":"Point"}
 }

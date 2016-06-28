@@ -2,13 +2,14 @@
   "id": 336664119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995303,33.416611,-111.995303,33.416611",
     "geom:latitude":33.416611,
     "geom:longitude":-111.995303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4032 E Superior Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336664119,
-    "wof:lastmodified":1448997337,
+    "wof:lastmodified":1466327282,
     "wof:name":"Innovative Networks",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-111.995303,33.416611,-111.995303,33.416611],
-  "geometry": {"coordinates":[-111.995303,33.416611],"type":"Point"}
+  "bbox": [
+    -111.995303,
+    33.416611,
+    -111.995303,
+    33.416611
+],
+  "geometry": {"coordinates":[-111.99530300000001,33.416611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353700001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.630707,32.713692,-114.630707,32.713692",
     "geom:latitude":32.713692,
     "geom:longitude":-114.630707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 S 9th Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353700001,
-    "wof:lastmodified":1449020585,
+    "wof:lastmodified":1466329625,
     "wof:name":"Sun Belt Trucking",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.630707,32.713692,-114.630707,32.713692],
+  "bbox": [
+    -114.630707,
+    32.713692,
+    -114.630707,
+    32.713692
+],
   "geometry": {"coordinates":[-114.630707,32.713692],"type":"Point"}
 }

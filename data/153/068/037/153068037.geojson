@@ -2,13 +2,14 @@
   "id": 153068037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.147726,33.333975,-112.147726,33.333975",
     "geom:latitude":33.333975,
     "geom:longitude":-112.147726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4249 W Estrella Dr",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153068037,
-    "wof:lastmodified":1449040592,
+    "wof:lastmodified":1466328434,
     "wof:name":"Alpine Safety K-9 Intl",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.147726,33.333975,-112.147726,33.333975],
-  "geometry": {"coordinates":[-112.147726,33.333975],"type":"Point"}
+  "bbox": [
+    -112.147726,
+    33.333975,
+    -112.147726,
+    33.333975
+],
+  "geometry": {"coordinates":[-112.14772600000001,33.333975],"type":"Point"}
 }

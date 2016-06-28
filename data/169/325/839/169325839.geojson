@@ -2,13 +2,14 @@
   "id": 169325839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.892679,32.236283,-110.892679,32.236283",
     "geom:latitude":32.236283,
     "geom:longitude":-110.892679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169325839,
-    "wof:lastmodified":1449033971,
+    "wof:lastmodified":1466333023,
     "wof:name":"Cricket Communications",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.892679,32.236283,-110.892679,32.236283],
+  "bbox": [
+    -110.892679,
+    32.236283,
+    -110.892679,
+    32.236283
+],
   "geometry": {"coordinates":[-110.892679,32.236283],"type":"Point"}
 }

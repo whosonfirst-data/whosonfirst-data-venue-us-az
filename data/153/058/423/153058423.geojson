@@ -2,13 +2,14 @@
   "id": 153058423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.902721,33.527458,-111.902721,33.527458",
     "geom:latitude":33.527458,
     "geom:longitude":-111.902721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8223 E Rose Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858851,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85858851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153058423,
-    "wof:lastmodified":1449040395,
+    "wof:lastmodified":1466327763,
     "wof:name":"Lear West Inc",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.902721,33.527458,-111.902721,33.527458],
+  "bbox": [
+    -111.902721,
+    33.527458,
+    -111.902721,
+    33.527458
+],
   "geometry": {"coordinates":[-111.902721,33.527458],"type":"Point"}
 }

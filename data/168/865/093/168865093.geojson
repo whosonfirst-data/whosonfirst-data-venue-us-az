@@ -2,13 +2,14 @@
   "id": 168865093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.339423,34.494957,-114.339423,34.494957",
     "geom:latitude":34.494957,
     "geom:longitude":-114.339423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 Industrial Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168865093,
-    "wof:lastmodified":1449028379,
+    "wof:lastmodified":1466327028,
     "wof:name":"More Furniture & Mattress",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.339423,34.494957,-114.339423,34.494957],
+  "bbox": [
+    -114.339423,
+    34.494957,
+    -114.339423,
+    34.494957
+],
   "geometry": {"coordinates":[-114.339423,34.494957],"type":"Point"}
 }

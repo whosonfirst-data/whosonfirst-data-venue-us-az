@@ -2,13 +2,14 @@
   "id": 153047129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.990083,32.251383,-110.990083,32.251383",
     "geom:latitude":32.251383,
     "geom:longitude":-110.990083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153047129,
-    "wof:lastmodified":1449040675,
+    "wof:lastmodified":1466327852,
     "wof:name":"PMA Construction Co",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.990083,32.251383,-110.990083,32.251383],
+  "bbox": [
+    -110.990083,
+    32.251383,
+    -110.990083,
+    32.251383
+],
   "geometry": {"coordinates":[-110.990083,32.251383],"type":"Point"}
 }

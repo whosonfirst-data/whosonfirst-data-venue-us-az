@@ -2,13 +2,14 @@
   "id": 169251475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068733,33.529207,-112.068733,33.529207",
     "geom:latitude":33.529207,
     "geom:longitude":-112.068733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Marlette Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169251475,
-    "wof:lastmodified":1449032744,
+    "wof:lastmodified":1466332544,
     "wof:name":"Payne Brothers Properties LLC",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.068733,33.529207,-112.068733,33.529207],
-  "geometry": {"coordinates":[-112.068733,33.529207],"type":"Point"}
+  "bbox": [
+    -112.068733,
+    33.529207,
+    -112.068733,
+    33.529207
+],
+  "geometry": {"coordinates":[-112.06873299999999,33.529207],"type":"Point"}
 }

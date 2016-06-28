@@ -2,13 +2,14 @@
   "id": 153080473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.159265,32.378865,-111.159265,32.378865",
     "geom:latitude":32.378865,
     "geom:longitude":-111.159265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9350 N Sidewinder Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153080473,
-    "wof:lastmodified":1449040809,
+    "wof:lastmodified":1466328843,
     "wof:name":"Concierge De Tucson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.159265,32.378865,-111.159265,32.378865],
+  "bbox": [
+    -111.159265,
+    32.378865,
+    -111.159265,
+    32.378865
+],
   "geometry": {"coordinates":[-111.159265,32.378865],"type":"Point"}
 }

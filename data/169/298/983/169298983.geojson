@@ -2,13 +2,14 @@
   "id": 169298983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.964129,32.389158,-110.964129,32.389158",
     "geom:latitude":32.389158,
     "geom:longitude":-110.964129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10195 N Oracle Rd",
     "sg:city":"Oro Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169298983,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466332988,
     "wof:name":"First National Bank Of Arizona",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.964129,32.389158,-110.964129,32.389158],
+  "bbox": [
+    -110.964129,
+    32.389158,
+    -110.964129,
+    32.389158
+],
   "geometry": {"coordinates":[-110.964129,32.389158],"type":"Point"}
 }

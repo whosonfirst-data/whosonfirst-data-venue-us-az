@@ -2,13 +2,14 @@
   "id": 169262295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.840088,33.587004,-111.840088,33.587004",
     "geom:latitude":33.587004,
     "geom:longitude":-111.840088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11130 E Cholla St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169262295,
-    "wof:lastmodified":1449034728,
+    "wof:lastmodified":1466332624,
     "wof:name":"Cheyenne Traditional School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.840088,33.587004,-111.840088,33.587004],
-  "geometry": {"coordinates":[-111.840088,33.587004],"type":"Point"}
+  "bbox": [
+    -111.840088,
+    33.587004,
+    -111.840088,
+    33.587004
+],
+  "geometry": {"coordinates":[-111.84008799999999,33.587004],"type":"Point"}
 }

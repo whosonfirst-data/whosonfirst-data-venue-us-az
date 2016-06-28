@@ -2,13 +2,14 @@
   "id": 168900431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.994808,32.204029,-110.994808,32.204029",
     "geom:latitude":32.204029,
     "geom:longitude":-110.994808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Mission Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168900431,
-    "wof:lastmodified":1449028108,
+    "wof:lastmodified":1466329626,
     "wof:name":"Pima County Automotive Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.994808,32.204029,-110.994808,32.204029],
-  "geometry": {"coordinates":[-110.994808,32.204029],"type":"Point"}
+  "bbox": [
+    -110.994808,
+    32.204029,
+    -110.994808,
+    32.204029
+],
+  "geometry": {"coordinates":[-110.99480800000001,32.204029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353580797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16266,33.565373,-112.16266,33.565373",
     "geom:latitude":33.565373,
     "geom:longitude":-112.16266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8810 N 48th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353580797,
-    "wof:lastmodified":1449019964,
+    "wof:lastmodified":1466328304,
     "wof:name":"24 Hr 7 Days Glendale Emergency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lock"
     ]
 },
-  "bbox": [-112.16266,33.565373,-112.16266,33.565373],
+  "bbox": [
+    -112.16266,
+    33.565373,
+    -112.16266,
+    33.565373
+],
   "geometry": {"coordinates":[-112.16266,33.565373],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336900813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895538,33.306401,-111.895538,33.306401",
     "geom:latitude":33.306401,
     "geom:longitude":-111.895538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 West Chandler Blvd.",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336900813,
-    "wof:lastmodified":1448997411,
+    "wof:lastmodified":1466330331,
     "wof:name":"London Gold Jewelers",
     "wof:parent_id":85841283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.895538,33.306401,-111.895538,33.306401],
+  "bbox": [
+    -111.895538,
+    33.306401,
+    -111.895538,
+    33.306401
+],
   "geometry": {"coordinates":[-111.895538,33.306401],"type":"Point"}
 }

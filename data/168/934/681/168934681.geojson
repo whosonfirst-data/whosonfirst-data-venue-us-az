@@ -2,13 +2,14 @@
   "id": 168934681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119108,33.487827,-112.119108,33.487827",
     "geom:latitude":33.487827,
     "geom:longitude":-112.119108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 W Osborn Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168934681,
-    "wof:lastmodified":1449027812,
+    "wof:lastmodified":1466330687,
     "wof:name":"Thompson Systems",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119108,33.487827,-112.119108,33.487827],
+  "bbox": [
+    -112.119108,
+    33.487827,
+    -112.119108,
+    33.487827
+],
   "geometry": {"coordinates":[-112.119108,33.487827],"type":"Point"}
 }

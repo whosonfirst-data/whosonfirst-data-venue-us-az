@@ -2,13 +2,14 @@
   "id": 353591185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190329,33.59581,-112.190329,33.59581",
     "geom:latitude":33.59581,
     "geom:longitude":-112.190329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12028 N 61st Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353591185,
-    "wof:lastmodified":1449019629,
+    "wof:lastmodified":1466328386,
     "wof:name":"Castcade Arizona",
     "wof:parent_id":85843371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artificial"
     ]
 },
-  "bbox": [-112.190329,33.59581,-112.190329,33.59581],
-  "geometry": {"coordinates":[-112.190329,33.59581],"type":"Point"}
+  "bbox": [
+    -112.190329,
+    33.59581,
+    -112.190329,
+    33.59581
+],
+  "geometry": {"coordinates":[-112.19032900000001,33.59581],"type":"Point"}
 }

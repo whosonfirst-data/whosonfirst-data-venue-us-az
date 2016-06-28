@@ -2,13 +2,14 @@
   "id": 353740569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.27244,33.710897,-112.27244,33.710897",
     "geom:latitude":33.710897,
     "geom:longitude":-112.27244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25101 N Lake Pleasant Pkwy Pleasant # 1340",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353740569,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466329935,
     "wof:name":"Parkway Animal Clinic",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-112.27244,33.710897,-112.27244,33.710897],
+  "bbox": [
+    -112.27244,
+    33.710897,
+    -112.27244,
+    33.710897
+],
   "geometry": {"coordinates":[-112.27244,33.710897],"type":"Point"}
 }

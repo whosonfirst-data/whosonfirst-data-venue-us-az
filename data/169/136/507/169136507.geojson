@@ -2,13 +2,14 @@
   "id": 169136507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.868427,32.314796,-110.868427,32.314796",
     "geom:latitude":32.314796,
     "geom:longitude":-110.868427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5925 N Via Serena",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169136507,
-    "wof:lastmodified":1449035912,
+    "wof:lastmodified":1466331617,
     "wof:name":"Customers For Life Consulting",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.868427,32.314796,-110.868427,32.314796],
+  "bbox": [
+    -110.868427,
+    32.314796,
+    -110.868427,
+    32.314796
+],
   "geometry": {"coordinates":[-110.868427,32.314796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336849909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.876181,33.30025,-111.876181,33.30025",
     "geom:latitude":33.30025,
     "geom:longitude":-111.876181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Dobson Rd Ste 1",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336849909,
-    "wof:lastmodified":1448997148,
+    "wof:lastmodified":1466330030,
     "wof:name":"Gateway Pediatrics",
     "wof:parent_id":85876691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.876181,33.30025,-111.876181,33.30025],
+  "bbox": [
+    -111.876181,
+    33.30025,
+    -111.876181,
+    33.30025
+],
   "geometry": {"coordinates":[-111.876181,33.30025],"type":"Point"}
 }

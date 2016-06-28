@@ -2,13 +2,14 @@
   "id": 169357409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886983,33.339397,-111.886983,33.339397",
     "geom:latitude":33.339397,
     "geom:longitude":-111.886983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2553 W el Alba Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85851913
+        85633793,
+        85851913,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169357409,
-    "wof:lastmodified":1449035551,
+    "wof:lastmodified":1466333619,
     "wof:name":"Surgassistant Corp",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.886983,33.339397,-111.886983,33.339397],
+  "bbox": [
+    -111.886983,
+    33.339397,
+    -111.886983,
+    33.339397
+],
   "geometry": {"coordinates":[-111.886983,33.339397],"type":"Point"}
 }

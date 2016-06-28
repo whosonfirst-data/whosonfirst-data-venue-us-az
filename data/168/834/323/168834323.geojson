@@ -2,13 +2,14 @@
   "id": 168834323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.485679,34.582783,-112.485679,34.582783",
     "geom:latitude":34.582783,
     "geom:longitude":-112.485679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Country Park Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168834323,
-    "wof:lastmodified":1449027849,
+    "wof:lastmodified":1466326329,
     "wof:name":"Benchmark Appraisals",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.485679,34.582783,-112.485679,34.582783],
+  "bbox": [
+    -112.485679,
+    34.582783,
+    -112.485679,
+    34.582783
+],
   "geometry": {"coordinates":[-112.485679,34.582783],"type":"Point"}
 }

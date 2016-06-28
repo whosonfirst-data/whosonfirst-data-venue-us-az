@@ -2,13 +2,14 @@
   "id": 320664811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118721,33.46595,-112.118721,33.46595",
     "geom:latitude":33.46595,
     "geom:longitude":-112.118721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 W Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320664811,
-    "wof:lastmodified":1449012663,
+    "wof:lastmodified":1466327388,
     "wof:name":"Zavalas Towing",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-112.118721,33.46595,-112.118721,33.46595],
-  "geometry": {"coordinates":[-112.118721,33.46595],"type":"Point"}
+  "bbox": [
+    -112.118721,
+    33.46595,
+    -112.118721,
+    33.46595
+],
+  "geometry": {"coordinates":[-112.11872099999999,33.46595],"type":"Point"}
 }

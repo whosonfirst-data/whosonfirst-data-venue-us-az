@@ -2,13 +2,14 @@
   "id": 169325619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.996984,32.377799,-110.996984,32.377799",
     "geom:latitude":32.377799,
     "geom:longitude":-110.996984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 W Rancho Feliz Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169325619,
-    "wof:lastmodified":1449033971,
+    "wof:lastmodified":1466333214,
     "wof:name":"P L Bookkeeping Svc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.996984,32.377799,-110.996984,32.377799],
+  "bbox": [
+    -110.996984,
+    32.377799,
+    -110.996984,
+    32.377799
+],
   "geometry": {"coordinates":[-110.996984,32.377799],"type":"Point"}
 }

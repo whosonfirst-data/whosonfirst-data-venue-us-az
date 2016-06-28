@@ -2,13 +2,14 @@
   "id": 153081761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.126442,32.168275,-111.126442,32.168275",
     "geom:latitude":32.168275,
     "geom:longitude":-111.126442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7590 W Illinois St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153081761,
-    "wof:lastmodified":1449040477,
+    "wof:lastmodified":1466329415,
     "wof:name":"Fred's Carpentry",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.126442,32.168275,-111.126442,32.168275],
+  "bbox": [
+    -111.126442,
+    32.168275,
+    -111.126442,
+    32.168275
+],
   "geometry": {"coordinates":[-111.126442,32.168275],"type":"Point"}
 }

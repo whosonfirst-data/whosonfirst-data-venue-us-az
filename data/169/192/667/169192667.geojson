@@ -2,13 +2,14 @@
   "id": 169192667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.613685,32.669352,-114.613685,32.669352",
     "geom:latitude":32.669352,
     "geom:longitude":-114.613685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 E 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895869,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169192667,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466332103,
     "wof:name":"Desert Royal Mobile Park",
     "wof:parent_id":85895869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.613685,32.669352,-114.613685,32.669352],
+  "bbox": [
+    -114.613685,
+    32.669352,
+    -114.613685,
+    32.669352
+],
   "geometry": {"coordinates":[-114.613685,32.669352],"type":"Point"}
 }

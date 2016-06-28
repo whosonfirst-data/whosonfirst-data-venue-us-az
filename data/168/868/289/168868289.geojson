@@ -2,13 +2,14 @@
   "id": 168868289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.813189,33.273393,-111.813189,33.273393",
     "geom:latitude":33.273393,
     "geom:longitude":-111.813189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 S Stinson Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.chandleraviation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168868289,
-    "wof:lastmodified":1449027803,
+    "wof:lastmodified":1466327312,
     "wof:name":"Chandler Aviation Inc",
     "wof:parent_id":85876675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.813189,33.273393,-111.813189,33.273393],
-  "geometry": {"coordinates":[-111.813189,33.273393],"type":"Point"}
+  "bbox": [
+    -111.813189,
+    33.273393,
+    -111.813189,
+    33.273393
+],
+  "geometry": {"coordinates":[-111.81318899999999,33.273393],"type":"Point"}
 }

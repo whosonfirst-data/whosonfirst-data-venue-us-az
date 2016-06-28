@@ -2,13 +2,14 @@
   "id": 153073183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825071,33.573206,-111.825071,33.573206",
     "geom:latitude":33.573206,
     "geom:longitude":-111.825071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11867 E Sorrel Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153073183,
-    "wof:lastmodified":1449040388,
+    "wof:lastmodified":1466328459,
     "wof:name":"Velocity Communication",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.825071,33.573206,-111.825071,33.573206],
-  "geometry": {"coordinates":[-111.825071,33.573206],"type":"Point"}
+  "bbox": [
+    -111.825071,
+    33.573206,
+    -111.825071,
+    33.573206
+],
+  "geometry": {"coordinates":[-111.82507099999999,33.573206],"type":"Point"}
 }

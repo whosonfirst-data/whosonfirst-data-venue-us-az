@@ -2,13 +2,14 @@
   "id": 169207089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.292271,33.464359,-112.292271,33.464359",
     "geom:latitude":33.464359,
     "geom:longitude":-112.292271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10815 W McDowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169207089,
-    "wof:lastmodified":1449034991,
+    "wof:lastmodified":1466331984,
     "wof:name":"Acclaim Foot & Ankle Ctr",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.292271,33.464359,-112.292271,33.464359],
+  "bbox": [
+    -112.292271,
+    33.464359,
+    -112.292271,
+    33.464359
+],
   "geometry": {"coordinates":[-112.292271,33.464359],"type":"Point"}
 }

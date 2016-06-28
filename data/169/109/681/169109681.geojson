@@ -2,13 +2,14 @@
   "id": 169109681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.20249,33.510998,-112.20249,33.510998",
     "geom:latitude":33.510998,
     "geom:longitude":-112.20249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6629 W Pasadena Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169109681,
-    "wof:lastmodified":1449033833,
+    "wof:lastmodified":1466331164,
     "wof:name":"Moobak Imagery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.20249,33.510998,-112.20249,33.510998],
+  "bbox": [
+    -112.20249,
+    33.510998,
+    -112.20249,
+    33.510998
+],
   "geometry": {"coordinates":[-112.20249,33.510998],"type":"Point"}
 }

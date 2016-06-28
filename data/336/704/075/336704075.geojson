@@ -2,13 +2,14 @@
   "id": 336704075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049743,33.302751,-112.049743,33.302751",
     "geom:latitude":33.302751,
     "geom:longitude":-112.049743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15811 S 15th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336704075,
-    "wof:lastmodified":1448997230,
+    "wof:lastmodified":1466328099,
     "wof:name":"Magic Touch Carpet Cleaning, LLC",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "carpet"
     ]
 },
-  "bbox": [-112.049743,33.302751,-112.049743,33.302751],
-  "geometry": {"coordinates":[-112.049743,33.302751],"type":"Point"}
+  "bbox": [
+    -112.049743,
+    33.302751,
+    -112.049743,
+    33.302751
+],
+  "geometry": {"coordinates":[-112.04974300000001,33.302751],"type":"Point"}
 }

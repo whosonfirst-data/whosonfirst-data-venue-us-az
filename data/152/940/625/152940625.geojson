@@ -2,13 +2,14 @@
   "id": 152940625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.944415,32.272276,-110.944415,32.272276",
     "geom:latitude":32.272276,
     "geom:longitude":-110.944415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1763 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152940625,
-    "wof:lastmodified":1449045427,
+    "wof:lastmodified":1466326731,
     "wof:name":"Pizzazz Bistro",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.944415,32.272276,-110.944415,32.272276],
-  "geometry": {"coordinates":[-110.944415,32.272276],"type":"Point"}
+  "bbox": [
+    -110.944415,
+    32.272276,
+    -110.944415,
+    32.272276
+],
+  "geometry": {"coordinates":[-110.94441500000001,32.272276],"type":"Point"}
 }

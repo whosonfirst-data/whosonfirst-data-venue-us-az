@@ -2,13 +2,14 @@
   "id": 169236371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054084,33.516559,-112.054084,33.516559",
     "geom:latitude":33.516559,
     "geom:longitude":-112.054084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 E Missouri Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885501,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169236371,
-    "wof:lastmodified":1449033024,
+    "wof:lastmodified":1466332442,
     "wof:name":"American Family Mutl Insur Co",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054084,33.516559,-112.054084,33.516559],
+  "bbox": [
+    -112.054084,
+    33.516559,
+    -112.054084,
+    33.516559
+],
   "geometry": {"coordinates":[-112.054084,33.516559],"type":"Point"}
 }

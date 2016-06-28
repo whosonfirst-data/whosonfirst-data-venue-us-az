@@ -2,13 +2,14 @@
   "id": 353572585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204698,33.559886,-112.204698,33.559886",
     "geom:latitude":33.559886,
     "geom:longitude":-112.204698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6767 W Butler Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353572585,
-    "wof:lastmodified":1449019846,
+    "wof:lastmodified":1466328431,
     "wof:name":"Enhanced Drywall",
     "wof:parent_id":85852007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.204698,33.559886,-112.204698,33.559886],
-  "geometry": {"coordinates":[-112.204698,33.559886],"type":"Point"}
+  "bbox": [
+    -112.204698,
+    33.559886,
+    -112.204698,
+    33.559886
+],
+  "geometry": {"coordinates":[-112.20469799999999,33.559886],"type":"Point"}
 }

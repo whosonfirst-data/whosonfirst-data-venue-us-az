@@ -2,13 +2,14 @@
   "id": 336696139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.988448,33.32703,-111.988448,33.32703",
     "geom:latitude":33.32703,
     "geom:longitude":-111.988448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 E Knox Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336696139,
-    "wof:lastmodified":1448997010,
+    "wof:lastmodified":1466327937,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
     "wof:parent_id":85840707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "saint"
     ]
 },
-  "bbox": [-111.988448,33.32703,-111.988448,33.32703],
-  "geometry": {"coordinates":[-111.988448,33.32703],"type":"Point"}
+  "bbox": [
+    -111.988448,
+    33.32703,
+    -111.988448,
+    33.32703
+],
+  "geometry": {"coordinates":[-111.98844800000001,33.32703],"type":"Point"}
 }

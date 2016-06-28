@@ -2,13 +2,14 @@
   "id": 169362025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.077475,33.604707,-112.077475,33.604707",
     "geom:latitude":33.604707,
     "geom:longitude":-112.077475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 W Wood Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824655,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85824655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169362025,
-    "wof:lastmodified":1449034819,
+    "wof:lastmodified":1466333576,
     "wof:name":"Gary & Kimberly Stafford",
     "wof:parent_id":85824655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.077475,33.604707,-112.077475,33.604707],
-  "geometry": {"coordinates":[-112.077475,33.604707],"type":"Point"}
+  "bbox": [
+    -112.077475,
+    33.604707,
+    -112.077475,
+    33.604707
+],
+  "geometry": {"coordinates":[-112.07747500000001,33.604707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169080077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.956913,32.264859,-110.956913,32.264859",
     "geom:latitude":32.264859,
     "geom:longitude":-110.956913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 E Fort Lowell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169080077,
-    "wof:lastmodified":1449035873,
+    "wof:lastmodified":1466330041,
     "wof:name":"Food City",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.956913,32.264859,-110.956913,32.264859],
+  "bbox": [
+    -110.956913,
+    32.264859,
+    -110.956913,
+    32.264859
+],
   "geometry": {"coordinates":[-110.956913,32.264859],"type":"Point"}
 }

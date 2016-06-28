@@ -2,13 +2,14 @@
   "id": 169293201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886462,33.6144,-111.886462,33.6144",
     "geom:latitude":33.6144,
     "geom:longitude":-111.886462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9021 E Gray Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169293201,
-    "wof:lastmodified":1449033340,
+    "wof:lastmodified":1466332973,
     "wof:name":"Anthony's Fine Tailor",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.886462,33.6144,-111.886462,33.6144],
-  "geometry": {"coordinates":[-111.886462,33.6144],"type":"Point"}
+  "bbox": [
+    -111.886462,
+    33.6144,
+    -111.886462,
+    33.6144
+],
+  "geometry": {"coordinates":[-111.88646199999999,33.6144],"type":"Point"}
 }

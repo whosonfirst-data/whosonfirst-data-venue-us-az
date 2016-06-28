@@ -2,13 +2,14 @@
   "id": 353559775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.182064,33.535331,-112.182064,33.535331",
     "geom:latitude":33.535331,
     "geom:longitude":-112.182064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 NW Grand Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353559775,
-    "wof:lastmodified":1449020269,
+    "wof:lastmodified":1466328550,
     "wof:name":"Trucks Unique",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.182064,33.535331,-112.182064,33.535331],
+  "bbox": [
+    -112.182064,
+    33.535331,
+    -112.182064,
+    33.535331
+],
   "geometry": {"coordinates":[-112.182064,33.535331],"type":"Point"}
 }

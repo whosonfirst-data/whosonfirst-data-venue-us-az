@@ -2,13 +2,14 @@
   "id": 336948449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.790556,33.277426,-111.790556,33.277426",
     "geom:latitude":33.277426,
     "geom:longitude":-111.790556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 East Germann Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336948449,
-    "wof:lastmodified":1448997812,
+    "wof:lastmodified":1466330682,
     "wof:name":"LongHorn Steakhouse",
     "wof:parent_id":85876675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-111.790556,33.277426,-111.790556,33.277426],
+  "bbox": [
+    -111.790556,
+    33.277426,
+    -111.790556,
+    33.277426
+],
   "geometry": {"coordinates":[-111.790556,33.277426],"type":"Point"}
 }

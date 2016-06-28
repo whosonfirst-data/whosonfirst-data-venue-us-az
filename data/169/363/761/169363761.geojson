@@ -2,13 +2,14 @@
   "id": 169363761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976509,32.25023,-110.976509,32.25023",
     "geom:latitude":32.25023,
     "geom:longitude":-110.976509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 W Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169363761,
-    "wof:lastmodified":1449035555,
+    "wof:lastmodified":1466333659,
     "wof:name":"Ideal Fire Control Inc",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976509,32.25023,-110.976509,32.25023],
-  "geometry": {"coordinates":[-110.976509,32.25023],"type":"Point"}
+  "bbox": [
+    -110.976509,
+    32.25023,
+    -110.976509,
+    32.25023
+],
+  "geometry": {"coordinates":[-110.97650899999999,32.25023],"type":"Point"}
 }

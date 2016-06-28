@@ -2,13 +2,14 @@
   "id": 169107971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009064,33.495139,-112.009064,33.495139",
     "geom:latitude":33.495139,
     "geom:longitude":-112.009064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cbri.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871019,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169107971,
-    "wof:lastmodified":1449032701,
+    "wof:lastmodified":1466331195,
     "wof:name":"Creative Business Resources",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.009064,33.495139,-112.009064,33.495139],
+  "bbox": [
+    -112.009064,
+    33.495139,
+    -112.009064,
+    33.495139
+],
   "geometry": {"coordinates":[-112.009064,33.495139],"type":"Point"}
 }

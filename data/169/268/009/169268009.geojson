@@ -2,13 +2,14 @@
   "id": 169268009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137953,33.851555,-112.137953,33.851555",
     "geom:latitude":33.851555,
     "geom:longitude":-112.137953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3618 W Sousa Ct",
     "sg:city":"Anthem",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mdintl3.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169268009,
-    "wof:lastmodified":1449034567,
+    "wof:lastmodified":1466332928,
     "wof:name":"M D Intl Co",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.137953,33.851555,-112.137953,33.851555],
+  "bbox": [
+    -112.137953,
+    33.851555,
+    -112.137953,
+    33.851555
+],
   "geometry": {"coordinates":[-112.137953,33.851555],"type":"Point"}
 }

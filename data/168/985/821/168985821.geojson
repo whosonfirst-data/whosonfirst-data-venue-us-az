@@ -2,13 +2,14 @@
   "id": 168985821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00771,33.403388,-112.00771,33.403388",
     "geom:latitude":33.403388,
     "geom:longitude":-112.00771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3342 E Wier Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.azdimatrix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168985821,
-    "wof:lastmodified":1449028149,
+    "wof:lastmodified":1466331498,
     "wof:name":"Di-Matrix",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.00771,33.403388,-112.00771,33.403388],
+  "bbox": [
+    -112.00771,
+    33.403388,
+    -112.00771,
+    33.403388
+],
   "geometry": {"coordinates":[-112.00771,33.403388],"type":"Point"}
 }

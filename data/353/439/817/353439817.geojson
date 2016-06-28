@@ -2,13 +2,14 @@
   "id": 353439817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893212,33.383332,-111.893212,33.383332",
     "geom:latitude":33.383332,
     "geom:longitude":-111.893212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2169 E Greenway Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353439817,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466326575,
     "wof:name":"Med Ed Inc",
     "wof:parent_id":85828681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "analyst"
     ]
 },
-  "bbox": [-111.893212,33.383332,-111.893212,33.383332],
-  "geometry": {"coordinates":[-111.893212,33.383332],"type":"Point"}
+  "bbox": [
+    -111.893212,
+    33.383332,
+    -111.893212,
+    33.383332
+],
+  "geometry": {"coordinates":[-111.89321200000001,33.383332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336820377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.845326,33.376681,-111.845326,33.376681",
     "geom:latitude":33.376681,
     "geom:longitude":-111.845326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 S. Vineyard Ave.",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336820377,
-    "wof:lastmodified":1448997513,
+    "wof:lastmodified":1466329616,
     "wof:name":"NUMBERSetc",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-111.845326,33.376681,-111.845326,33.376681],
+  "bbox": [
+    -111.845326,
+    33.376681,
+    -111.845326,
+    33.376681
+],
   "geometry": {"coordinates":[-111.845326,33.376681],"type":"Point"}
 }

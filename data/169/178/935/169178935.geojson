@@ -2,13 +2,14 @@
   "id": 169178935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.69522,35.030863,-110.69522,35.030863",
     "geom:latitude":35.030863,
     "geom:longitude":-110.69522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Mulberry St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169178935,
-    "wof:lastmodified":1449035052,
+    "wof:lastmodified":1466332017,
     "wof:name":"Little Critters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.69522,35.030863,-110.69522,35.030863],
-  "geometry": {"coordinates":[-110.69522,35.030863],"type":"Point"}
+  "bbox": [
+    -110.69522,
+    35.030863,
+    -110.69522,
+    35.030863
+],
+  "geometry": {"coordinates":[-110.69522000000001,35.030863],"type":"Point"}
 }

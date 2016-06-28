@@ -2,13 +2,14 @@
   "id": 169181795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.614853,35.218098,-111.614853,35.218098",
     "geom:latitude":35.218098,
     "geom:longitude":-111.614853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 E Cedar Ave",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169181795,
-    "wof:lastmodified":1449034709,
+    "wof:lastmodified":1466332013,
     "wof:name":"Montessori School-Flagstaff",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.614853,35.218098,-111.614853,35.218098],
+  "bbox": [
+    -111.614853,
+    35.218098,
+    -111.614853,
+    35.218098
+],
   "geometry": {"coordinates":[-111.614853,35.218098],"type":"Point"}
 }

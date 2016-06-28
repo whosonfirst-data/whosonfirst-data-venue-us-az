@@ -2,13 +2,14 @@
   "id": 168834673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.133707,33.626684,-112.133707,33.626684",
     "geom:latitude":33.626684,
     "geom:longitude":-112.133707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15440 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843759,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168834673,
-    "wof:lastmodified":1449027853,
+    "wof:lastmodified":1466326362,
     "wof:name":"Aromin Media Svc",
     "wof:parent_id":85843759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.133707,33.626684,-112.133707,33.626684],
+  "bbox": [
+    -112.133707,
+    33.626684,
+    -112.133707,
+    33.626684
+],
   "geometry": {"coordinates":[-112.133707,33.626684],"type":"Point"}
 }

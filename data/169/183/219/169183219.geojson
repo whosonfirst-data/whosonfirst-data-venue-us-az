@@ -2,13 +2,14 @@
   "id": 169183219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9774,33.480018,-111.9774,33.480018",
     "geom:latitude":33.480018,
     "geom:longitude":-111.9774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885499,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169183219,
-    "wof:lastmodified":1449034461,
+    "wof:lastmodified":1466331966,
     "wof:name":"Silktree Apartments",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.9774,33.480018,-111.9774,33.480018],
+  "bbox": [
+    -111.9774,
+    33.480018,
+    -111.9774,
+    33.480018
+],
   "geometry": {"coordinates":[-111.9774,33.480018],"type":"Point"}
 }

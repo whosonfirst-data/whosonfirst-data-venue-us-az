@@ -2,13 +2,14 @@
   "id": 169019319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027408,33.592047,-112.027408,33.592047",
     "geom:latitude":33.592047,
     "geom:longitude":-112.027408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 E Sierra St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851187,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169019319,
-    "wof:lastmodified":1449034579,
+    "wof:lastmodified":1466325906,
     "wof:name":"Realty Solutions Inc",
     "wof:parent_id":85851187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.027408,33.592047,-112.027408,33.592047],
-  "geometry": {"coordinates":[-112.027408,33.592047],"type":"Point"}
+  "bbox": [
+    -112.027408,
+    33.592047,
+    -112.027408,
+    33.592047
+],
+  "geometry": {"coordinates":[-112.02740799999999,33.592047],"type":"Point"}
 }

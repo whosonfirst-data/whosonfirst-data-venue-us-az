@@ -2,13 +2,14 @@
   "id": 353785299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.513878,31.343559,-109.513878,31.343559",
     "geom:latitude":31.343559,
     "geom:longitude":-109.513878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 E 9th St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353785299,
-    "wof:lastmodified":1449020385,
+    "wof:lastmodified":1466330153,
     "wof:name":"Weaver Aircraft Repair",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-109.513878,31.343559,-109.513878,31.343559],
-  "geometry": {"coordinates":[-109.513878,31.343559],"type":"Point"}
+  "bbox": [
+    -109.513878,
+    31.343559,
+    -109.513878,
+    31.343559
+],
+  "geometry": {"coordinates":[-109.51387800000001,31.343559],"type":"Point"}
 }

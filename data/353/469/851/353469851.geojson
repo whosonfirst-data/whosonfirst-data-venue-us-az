@@ -2,13 +2,14 @@
   "id": 353469851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908915,33.384413,-111.908915,33.384413",
     "geom:latitude":33.384413,
     "geom:longitude":-111.908915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 S McClintock Drive",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353469851,
-    "wof:lastmodified":1449020883,
+    "wof:lastmodified":1466327838,
     "wof:name":"Sirri",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-111.908915,33.384413,-111.908915,33.384413],
-  "geometry": {"coordinates":[-111.908915,33.384413],"type":"Point"}
+  "bbox": [
+    -111.908915,
+    33.384413,
+    -111.908915,
+    33.384413
+],
+  "geometry": {"coordinates":[-111.90891499999999,33.384413],"type":"Point"}
 }

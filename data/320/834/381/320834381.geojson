@@ -2,13 +2,14 @@
   "id": 320834381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027564,33.572443,-112.027564,33.572443",
     "geom:latitude":33.572443,
     "geom:longitude":-112.027564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 E Carol Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320834381,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466330133,
     "wof:name":"Red Dress",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.027564,33.572443,-112.027564,33.572443],
+  "bbox": [
+    -112.027564,
+    33.572443,
+    -112.027564,
+    33.572443
+],
   "geometry": {"coordinates":[-112.027564,33.572443],"type":"Point"}
 }

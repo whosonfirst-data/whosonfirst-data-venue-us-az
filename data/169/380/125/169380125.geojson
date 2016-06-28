@@ -2,13 +2,14 @@
   "id": 169380125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.135933,33.570635,-112.135933,33.570635",
     "geom:latitude":33.570635,
     "geom:longitude":-112.135933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3541 W Eva St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169380125,
-    "wof:lastmodified":1449034205,
+    "wof:lastmodified":1466333748,
     "wof:name":"Richard R Hilmer",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.135933,33.570635,-112.135933,33.570635],
-  "geometry": {"coordinates":[-112.135933,33.570635],"type":"Point"}
+  "bbox": [
+    -112.135933,
+    33.570635,
+    -112.135933,
+    33.570635
+],
+  "geometry": {"coordinates":[-112.13593299999999,33.570635],"type":"Point"}
 }

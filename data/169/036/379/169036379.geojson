@@ -2,13 +2,14 @@
   "id": 169036379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.973863,34.156183,-109.973863,34.156183",
     "geom:latitude":34.156183,
     "geom:longitude":-109.973863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1663 W White Mountain Blvd",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169036379,
-    "wof:lastmodified":1449033424,
+    "wof:lastmodified":1466327429,
     "wof:name":"Mountain Leisure",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.973863,34.156183,-109.973863,34.156183],
-  "geometry": {"coordinates":[-109.973863,34.156183],"type":"Point"}
+  "bbox": [
+    -109.973863,
+    34.156183,
+    -109.973863,
+    34.156183
+],
+  "geometry": {"coordinates":[-109.97386299999999,34.156183],"type":"Point"}
 }

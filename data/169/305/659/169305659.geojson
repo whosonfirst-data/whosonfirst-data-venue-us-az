@@ -2,13 +2,14 @@
   "id": 169305659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.377409,33.647707,-112.377409,33.647707",
     "geom:latitude":33.647707,
     "geom:longitude":-112.377409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14706 W Kelly Ct",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169305659,
-    "wof:lastmodified":1449033191,
+    "wof:lastmodified":1466333060,
     "wof:name":"Dream Destinations Inc",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.377409,33.647707,-112.377409,33.647707],
+  "bbox": [
+    -112.377409,
+    33.647707,
+    -112.377409,
+    33.647707
+],
   "geometry": {"coordinates":[-112.377409,33.647707],"type":"Point"}
 }

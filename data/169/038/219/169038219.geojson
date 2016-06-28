@@ -2,13 +2,14 @@
   "id": 169038219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.789809,32.208728,-110.789809,32.208728",
     "geom:latitude":32.208728,
     "geom:longitude":-110.789809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Harrison Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169038219,
-    "wof:lastmodified":1449034805,
+    "wof:lastmodified":1466327589,
     "wof:name":"Great Village Chinese Rest",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.789809,32.208728,-110.789809,32.208728],
-  "geometry": {"coordinates":[-110.789809,32.208728],"type":"Point"}
+  "bbox": [
+    -110.789809,
+    32.208728,
+    -110.789809,
+    32.208728
+],
+  "geometry": {"coordinates":[-110.78980900000001,32.208728],"type":"Point"}
 }

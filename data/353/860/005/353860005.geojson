@@ -2,13 +2,14 @@
   "id": 353860005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.020433,32.431785,-111.020433,32.431785",
     "geom:latitude":32.431785,
     "geom:longitude":-111.020433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12432 N Camino Del Plata",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353860005,
-    "wof:lastmodified":1449019398,
+    "wof:lastmodified":1466330978,
     "wof:name":"Mehl Mitchell",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-111.020433,32.431785,-111.020433,32.431785],
+  "bbox": [
+    -111.020433,
+    32.431785,
+    -111.020433,
+    32.431785
+],
   "geometry": {"coordinates":[-111.020433,32.431785],"type":"Point"}
 }

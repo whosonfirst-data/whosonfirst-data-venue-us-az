@@ -2,13 +2,14 @@
   "id": 320790579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075488,33.539899,-112.075488,33.539899",
     "geom:latitude":33.539899,
     "geom:longitude":-112.075488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7032 N 2nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320790579,
-    "wof:lastmodified":1449014095,
+    "wof:lastmodified":1466329561,
     "wof:name":"Nielsen Global Telecom",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-112.075488,33.539899,-112.075488,33.539899],
-  "geometry": {"coordinates":[-112.075488,33.539899],"type":"Point"}
+  "bbox": [
+    -112.075488,
+    33.539899,
+    -112.075488,
+    33.539899
+],
+  "geometry": {"coordinates":[-112.07548800000001,33.539899],"type":"Point"}
 }

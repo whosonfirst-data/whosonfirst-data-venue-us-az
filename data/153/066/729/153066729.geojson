@@ -2,13 +2,14 @@
   "id": 153066729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.211089,33.646432,-112.211089,33.646432",
     "geom:latitude":33.646432,
     "geom:longitude":-112.211089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17836 N 70th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153066729,
-    "wof:lastmodified":1449040470,
+    "wof:lastmodified":1466328134,
     "wof:name":"AAA Tri-State Coating Spec",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.211089,33.646432,-112.211089,33.646432],
+  "bbox": [
+    -112.211089,
+    33.646432,
+    -112.211089,
+    33.646432
+],
   "geometry": {"coordinates":[-112.211089,33.646432],"type":"Point"}
 }

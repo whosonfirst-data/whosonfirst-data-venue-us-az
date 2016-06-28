@@ -2,13 +2,14 @@
   "id": 152960393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.470205,34.541747,-112.470205,34.541747",
     "geom:latitude":34.541747,
     "geom:longitude":-112.470205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Montezuma St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152960393,
-    "wof:lastmodified":1449047621,
+    "wof:lastmodified":1466327971,
     "wof:name":"Llama House Earring & Boutique",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.470205,34.541747,-112.470205,34.541747],
-  "geometry": {"coordinates":[-112.470205,34.541747],"type":"Point"}
+  "bbox": [
+    -112.470205,
+    34.541747,
+    -112.470205,
+    34.541747
+],
+  "geometry": {"coordinates":[-112.47020500000001,34.541747],"type":"Point"}
 }

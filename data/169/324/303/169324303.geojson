@@ -2,13 +2,14 @@
   "id": 169324303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.848241,32.180326,-110.848241,32.180326",
     "geom:latitude":32.180326,
     "geom:longitude":-110.848241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6745 E Hawk Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169324303,
-    "wof:lastmodified":1449034610,
+    "wof:lastmodified":1466333186,
     "wof:name":"Ideal Landscape & Mainten",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.848241,32.180326,-110.848241,32.180326],
+  "bbox": [
+    -110.848241,
+    32.180326,
+    -110.848241,
+    32.180326
+],
   "geometry": {"coordinates":[-110.848241,32.180326],"type":"Point"}
 }

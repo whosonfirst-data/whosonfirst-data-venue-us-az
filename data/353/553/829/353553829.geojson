@@ -2,13 +2,14 @@
   "id": 353553829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.157576,33.520997,-112.157576,33.520997",
     "geom:latitude":33.520997,
     "geom:longitude":-112.157576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 W Solano Dr S",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353553829,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466328292,
     "wof:name":"Wind Chaser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-112.157576,33.520997,-112.157576,33.520997],
-  "geometry": {"coordinates":[-112.157576,33.520997],"type":"Point"}
+  "bbox": [
+    -112.157576,
+    33.520997,
+    -112.157576,
+    33.520997
+],
+  "geometry": {"coordinates":[-112.15757600000001,33.520997],"type":"Point"}
 }

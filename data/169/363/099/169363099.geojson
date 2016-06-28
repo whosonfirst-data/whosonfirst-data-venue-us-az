@@ -2,13 +2,14 @@
   "id": 169363099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036328,33.608299,-112.036328,33.608299",
     "geom:latitude":33.608299,
     "geom:longitude":-112.036328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13212 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808751,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169363099,
-    "wof:lastmodified":1449035554,
+    "wof:lastmodified":1466333583,
     "wof:name":"Maids 'n More",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036328,33.608299,-112.036328,33.608299],
+  "bbox": [
+    -112.036328,
+    33.608299,
+    -112.036328,
+    33.608299
+],
   "geometry": {"coordinates":[-112.036328,33.608299],"type":"Point"}
 }

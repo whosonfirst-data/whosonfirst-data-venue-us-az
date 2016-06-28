@@ -2,13 +2,14 @@
   "id": 353815301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977531,32.162209,-110.977531,32.162209",
     "geom:latitude":32.162209,
     "geom:longitude":-110.977531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4941 S 12th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353815301,
-    "wof:lastmodified":1449019505,
+    "wof:lastmodified":1466330618,
     "wof:name":"Flower Stop",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977531,32.162209,-110.977531,32.162209],
+  "bbox": [
+    -110.977531,
+    32.162209,
+    -110.977531,
+    32.162209
+],
   "geometry": {"coordinates":[-110.977531,32.162209],"type":"Point"}
 }

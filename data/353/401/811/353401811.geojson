@@ -2,13 +2,14 @@
   "id": 353401811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974646,33.4285,-111.974646,33.4285",
     "geom:latitude":33.4285,
     "geom:longitude":-111.974646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 W 1st St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":353401811,
-    "wof:lastmodified":1449020440,
+    "wof:lastmodified":1466327804,
     "wof:name":"Desert Milk Transport, Inc.",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "truck"
     ]
 },
-  "bbox": [-111.974646,33.4285,-111.974646,33.4285],
-  "geometry": {"coordinates":[-111.974646,33.4285],"type":"Point"}
+  "bbox": [
+    -111.974646,
+    33.4285,
+    -111.974646,
+    33.4285
+],
+  "geometry": {"coordinates":[-111.97464600000001,33.4285],"type":"Point"}
 }

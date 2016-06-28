@@ -2,13 +2,14 @@
   "id": 320770327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.044403,33.54616,-112.044403,33.54616",
     "geom:latitude":33.54616,
     "geom:longitude":-112.044403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 E Morten Ave Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320770327,
-    "wof:lastmodified":1449015035,
+    "wof:lastmodified":1466329250,
     "wof:name":"Goldstone Development",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.044403,33.54616,-112.044403,33.54616],
+  "bbox": [
+    -112.044403,
+    33.54616,
+    -112.044403,
+    33.54616
+],
   "geometry": {"coordinates":[-112.044403,33.54616],"type":"Point"}
 }

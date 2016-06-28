@@ -2,13 +2,14 @@
   "id": 169115453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906196,33.394784,-111.906196,33.394784",
     "geom:latitude":33.394784,
     "geom:longitude":-111.906196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1858 E Geneva Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881417,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169115453,
-    "wof:lastmodified":1449032660,
+    "wof:lastmodified":1466331373,
     "wof:name":"Gunter Video Svc",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906196,33.394784,-111.906196,33.394784],
-  "geometry": {"coordinates":[-111.906196,33.394784],"type":"Point"}
+  "bbox": [
+    -111.906196,
+    33.394784,
+    -111.906196,
+    33.394784
+],
+  "geometry": {"coordinates":[-111.90619599999999,33.394784],"type":"Point"}
 }

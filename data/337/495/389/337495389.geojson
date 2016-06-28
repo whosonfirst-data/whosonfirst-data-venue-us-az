@@ -2,13 +2,14 @@
   "id": 337495389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972353,33.582705,-111.972353,33.582705",
     "geom:latitude":33.582705,
     "geom:longitude":-111.972353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 E Shea Blvd Ste D202",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337495389,
-    "wof:lastmodified":1449027300,
+    "wof:lastmodified":1466326211,
     "wof:name":"Act Counseling Education",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "drug"
     ]
 },
-  "bbox": [-111.972353,33.582705,-111.972353,33.582705],
+  "bbox": [
+    -111.972353,
+    33.582705,
+    -111.972353,
+    33.582705
+],
   "geometry": {"coordinates":[-111.972353,33.582705],"type":"Point"}
 }

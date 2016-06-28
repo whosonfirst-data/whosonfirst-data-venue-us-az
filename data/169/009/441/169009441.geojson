@@ -2,13 +2,14 @@
   "id": 169009441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.053209,34.755725,-112.053209,34.755725",
     "geom:latitude":34.755725,
     "geom:longitude":-112.053209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Sunrise Dr",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169009441,
-    "wof:lastmodified":1449035900,
+    "wof:lastmodified":1466326761,
     "wof:name":"Verde Valley Plant Tenders",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.053209,34.755725,-112.053209,34.755725],
+  "bbox": [
+    -112.053209,
+    34.755725,
+    -112.053209,
+    34.755725
+],
   "geometry": {"coordinates":[-112.053209,34.755725],"type":"Point"}
 }

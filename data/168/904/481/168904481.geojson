@@ -2,13 +2,14 @@
   "id": 168904481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.141235,33.849055,-109.141235,33.849055",
     "geom:latitude":33.849055,
     "geom:longitude":-109.141235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Co Rd 2052",
     "sg:city":"Alpine",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168904481,
-    "wof:lastmodified":1449028611,
+    "wof:lastmodified":1466329592,
     "wof:name":"Becker Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.141235,33.849055,-109.141235,33.849055],
-  "geometry": {"coordinates":[-109.141235,33.849055],"type":"Point"}
+  "bbox": [
+    -109.141235,
+    33.849055,
+    -109.141235,
+    33.849055
+],
+  "geometry": {"coordinates":[-109.14123499999999,33.849055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168846409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.33202,31.635757,-110.33202,31.635757",
     "geom:latitude":31.635757,
     "geom:longitude":-110.33202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Skyline Dr",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834203,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85834203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168846409,
-    "wof:lastmodified":1449028407,
+    "wof:lastmodified":1466327539,
     "wof:name":"City Government Landfill Scale",
     "wof:parent_id":85834203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.33202,31.635757,-110.33202,31.635757],
+  "bbox": [
+    -110.33202,
+    31.635757,
+    -110.33202,
+    31.635757
+],
   "geometry": {"coordinates":[-110.33202,31.635757],"type":"Point"}
 }

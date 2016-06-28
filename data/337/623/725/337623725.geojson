@@ -2,13 +2,14 @@
   "id": 337623725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.84014,33.740564,-111.84014,33.740564",
     "geom:latitude":33.740564,
     "geom:longitude":-111.84014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11155 E Running Deer Trl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337623725,
-    "wof:lastmodified":1449027518,
+    "wof:lastmodified":1466327316,
     "wof:name":"The Social Boutique",
     "wof:parent_id":85843941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-111.84014,33.740564,-111.84014,33.740564],
-  "geometry": {"coordinates":[-111.84014,33.740564],"type":"Point"}
+  "bbox": [
+    -111.84014,
+    33.740564,
+    -111.84014,
+    33.740564
+],
+  "geometry": {"coordinates":[-111.84014000000001,33.740564],"type":"Point"}
 }

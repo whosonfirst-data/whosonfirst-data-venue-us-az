@@ -2,13 +2,14 @@
   "id": 353590577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177202,33.608407,-112.177202,33.608407",
     "geom:latitude":33.608407,
     "geom:longitude":-112.177202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13617 N 55th Ave Apt 136",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353590577,
-    "wof:lastmodified":1449019790,
+    "wof:lastmodified":1466328599,
     "wof:name":"Western Hearing Aid Service, Inc.",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hearing"
     ]
 },
-  "bbox": [-112.177202,33.608407,-112.177202,33.608407],
-  "geometry": {"coordinates":[-112.177202,33.608407],"type":"Point"}
+  "bbox": [
+    -112.177202,
+    33.608407,
+    -112.177202,
+    33.608407
+],
+  "geometry": {"coordinates":[-112.17720199999999,33.608407],"type":"Point"}
 }

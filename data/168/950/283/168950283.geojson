@@ -2,13 +2,14 @@
   "id": 168950283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.389288,34.526246,-109.389288,34.526246",
     "geom:latitude":34.526246,
     "geom:longitude":-109.389288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 N 16th Pl W",
     "sg:city":"St Johns",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168950283,
-    "wof:lastmodified":1449028070,
+    "wof:lastmodified":1466330992,
     "wof:name":"B C Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.389288,34.526246,-109.389288,34.526246],
-  "geometry": {"coordinates":[-109.389288,34.526246],"type":"Point"}
+  "bbox": [
+    -109.389288,
+    34.526246,
+    -109.389288,
+    34.526246
+],
+  "geometry": {"coordinates":[-109.38928799999999,34.526246],"type":"Point"}
 }

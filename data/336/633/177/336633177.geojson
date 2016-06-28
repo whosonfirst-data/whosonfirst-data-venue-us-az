@@ -2,13 +2,14 @@
   "id": 336633177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064975,33.423502,-112.064975,33.423502",
     "geom:latitude":33.423502,
     "geom:longitude":-112.064975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 S 7th St Ste 165",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336633177,
-    "wof:lastmodified":1448997998,
+    "wof:lastmodified":1466326612,
     "wof:name":"Muticam West",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-112.064975,33.423502,-112.064975,33.423502],
+  "bbox": [
+    -112.064975,
+    33.423502,
+    -112.064975,
+    33.423502
+],
   "geometry": {"coordinates":[-112.064975,33.423502],"type":"Point"}
 }

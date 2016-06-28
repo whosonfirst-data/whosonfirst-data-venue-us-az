@@ -2,13 +2,14 @@
   "id": 336812137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.82629,33.410178,-111.82629,33.410178",
     "geom:latitude":33.410178,
     "geom:longitude":-111.82629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Hibbert Unit 101",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336812137,
-    "wof:lastmodified":1448996944,
+    "wof:lastmodified":1466329679,
     "wof:name":"Heating & Cooling Supply",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.82629,33.410178,-111.82629,33.410178],
+  "bbox": [
+    -111.82629,
+    33.410178,
+    -111.82629,
+    33.410178
+],
   "geometry": {"coordinates":[-111.82629,33.410178],"type":"Point"}
 }

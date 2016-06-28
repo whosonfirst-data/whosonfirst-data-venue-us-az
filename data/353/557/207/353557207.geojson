@@ -2,13 +2,14 @@
   "id": 353557207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.195739,33.542065,-112.195739,33.542065",
     "geom:latitude":33.542065,
     "geom:longitude":-112.195739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6322 W Myrtle Ave Ste A",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353557207,
-    "wof:lastmodified":1449020063,
+    "wof:lastmodified":1466328081,
     "wof:name":"Glendale Transit",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "line"
     ]
 },
-  "bbox": [-112.195739,33.542065,-112.195739,33.542065],
+  "bbox": [
+    -112.195739,
+    33.542065,
+    -112.195739,
+    33.542065
+],
   "geometry": {"coordinates":[-112.195739,33.542065],"type":"Point"}
 }

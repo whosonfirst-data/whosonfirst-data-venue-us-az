@@ -2,13 +2,14 @@
   "id": 337505447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927467,33.611259,-111.927467,33.611259",
     "geom:latitude":33.611259,
     "geom:longitude":-111.927467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 E Thunderbird Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337505447,
-    "wof:lastmodified":1449027607,
+    "wof:lastmodified":1466326297,
     "wof:name":"Arrivederci",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-111.927467,33.611259,-111.927467,33.611259],
-  "geometry": {"coordinates":[-111.927467,33.611259],"type":"Point"}
+  "bbox": [
+    -111.927467,
+    33.611259,
+    -111.927467,
+    33.611259
+],
+  "geometry": {"coordinates":[-111.92746699999999,33.611259],"type":"Point"}
 }

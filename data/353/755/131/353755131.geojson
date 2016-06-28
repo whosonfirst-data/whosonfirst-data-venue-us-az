@@ -2,13 +2,14 @@
   "id": 353755131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.318398,33.462521,-112.318398,33.462521",
     "geom:latitude":33.462521,
     "geom:longitude":-112.318398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12175 W McDowell Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353755131,
-    "wof:lastmodified":1449018991,
+    "wof:lastmodified":1466330041,
     "wof:name":"Ashton Pointe Luxury Apartments",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.318398,33.462521,-112.318398,33.462521],
+  "bbox": [
+    -112.318398,
+    33.462521,
+    -112.318398,
+    33.462521
+],
   "geometry": {"coordinates":[-112.318398,33.462521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169335695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.789565,33.576738,-111.789565,33.576738",
     "geom:latitude":33.576738,
     "geom:longitude":-111.789565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13587 E Estrella Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169335695,
-    "wof:lastmodified":1449034863,
+    "wof:lastmodified":1466333384,
     "wof:name":"Teresa Rojna Ash",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.789565,33.576738,-111.789565,33.576738],
+  "bbox": [
+    -111.789565,
+    33.576738,
+    -111.789565,
+    33.576738
+],
   "geometry": {"coordinates":[-111.789565,33.576738],"type":"Point"}
 }

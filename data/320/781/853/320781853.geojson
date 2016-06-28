@@ -2,13 +2,14 @@
   "id": 320781853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08368,33.551246,-112.08368,33.551246",
     "geom:latitude":33.551246,
     "geom:longitude":-112.08368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Linger Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320781853,
-    "wof:lastmodified":1449011960,
+    "wof:lastmodified":1466329444,
     "wof:name":"Sonoran Waste Disposal",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "waste"
     ]
 },
-  "bbox": [-112.08368,33.551246,-112.08368,33.551246],
+  "bbox": [
+    -112.08368,
+    33.551246,
+    -112.08368,
+    33.551246
+],
   "geometry": {"coordinates":[-112.08368,33.551246],"type":"Point"}
 }

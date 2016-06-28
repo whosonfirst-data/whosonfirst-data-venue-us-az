@@ -2,13 +2,14 @@
   "id": 168964521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919924,33.407586,-111.919924,33.407586",
     "geom:latitude":33.407586,
     "geom:longitude":-111.919924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E Broadway Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.brokerageusa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881405,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168964521,
-    "wof:lastmodified":1449028379,
+    "wof:lastmodified":1466331235,
     "wof:name":"B-USA Insurance Svc",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.919924,33.407586,-111.919924,33.407586],
-  "geometry": {"coordinates":[-111.919924,33.407586],"type":"Point"}
+  "bbox": [
+    -111.919924,
+    33.407586,
+    -111.919924,
+    33.407586
+],
+  "geometry": {"coordinates":[-111.91992399999999,33.407586],"type":"Point"}
 }

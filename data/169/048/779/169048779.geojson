@@ -2,13 +2,14 @@
   "id": 169048779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.959869,32.213282,-110.959869,32.213282",
     "geom:latitude":32.213282,
     "geom:longitude":-110.959869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 S Euclid Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169048779,
-    "wof:lastmodified":1449033835,
+    "wof:lastmodified":1466328253,
     "wof:name":"Catalina Hardwood Floors Inc",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.959869,32.213282,-110.959869,32.213282],
+  "bbox": [
+    -110.959869,
+    32.213282,
+    -110.959869,
+    32.213282
+],
   "geometry": {"coordinates":[-110.959869,32.213282],"type":"Point"}
 }

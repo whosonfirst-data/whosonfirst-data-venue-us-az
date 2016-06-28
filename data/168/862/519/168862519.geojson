@@ -2,13 +2,14 @@
   "id": 168862519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.425282,32.660515,-114.425282,32.660515",
     "geom:latitude":32.660515,
     "geom:longitude":-114.425282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12155 E 37th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168862519,
-    "wof:lastmodified":1449028622,
+    "wof:lastmodified":1466326805,
     "wof:name":"Brian Sennikoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.425282,32.660515,-114.425282,32.660515],
+  "bbox": [
+    -114.425282,
+    32.660515,
+    -114.425282,
+    32.660515
+],
   "geometry": {"coordinates":[-114.425282,32.660515],"type":"Point"}
 }

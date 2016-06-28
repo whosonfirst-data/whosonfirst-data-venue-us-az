@@ -2,13 +2,14 @@
   "id": 337476595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945765,33.480188,-111.945765,33.480188",
     "geom:latitude":33.480188,
     "geom:longitude":-111.945765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6310 E Thomas Rd Ste 220",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":337476595,
-    "wof:lastmodified":1449027254,
+    "wof:lastmodified":1466326050,
     "wof:name":"Pan Western Corporation",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-111.945765,33.480188,-111.945765,33.480188],
-  "geometry": {"coordinates":[-111.945765,33.480188],"type":"Point"}
+  "bbox": [
+    -111.945765,
+    33.480188,
+    -111.945765,
+    33.480188
+],
+  "geometry": {"coordinates":[-111.94576499999999,33.480188],"type":"Point"}
 }

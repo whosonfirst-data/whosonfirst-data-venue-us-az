@@ -2,13 +2,14 @@
   "id": 169108729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.485472,34.785858,-112.485472,34.785858",
     "geom:latitude":34.785858,
     "geom:longitude":-112.485472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2175 W Blue Sky Trl",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169108729,
-    "wof:lastmodified":1449032740,
+    "wof:lastmodified":1466331056,
     "wof:name":"Log Creations",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.485472,34.785858,-112.485472,34.785858],
+  "bbox": [
+    -112.485472,
+    34.785858,
+    -112.485472,
+    34.785858
+],
   "geometry": {"coordinates":[-112.485472,34.785858],"type":"Point"}
 }

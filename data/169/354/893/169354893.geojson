@@ -2,13 +2,14 @@
   "id": 169354893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213946,33.638329,-112.213946,33.638329",
     "geom:latitude":33.638329,
     "geom:longitude":-112.213946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7260 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.metropolitanmattress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877799,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169354893,
-    "wof:lastmodified":1449035584,
+    "wof:lastmodified":1466333522,
     "wof:name":"Metropolitan Mattress",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.213946,33.638329,-112.213946,33.638329],
-  "geometry": {"coordinates":[-112.213946,33.638329],"type":"Point"}
+  "bbox": [
+    -112.213946,
+    33.638329,
+    -112.213946,
+    33.638329
+],
+  "geometry": {"coordinates":[-112.21394600000001,33.638329],"type":"Point"}
 }

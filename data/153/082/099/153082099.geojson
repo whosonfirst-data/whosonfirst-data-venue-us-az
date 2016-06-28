@@ -2,13 +2,14 @@
   "id": 153082099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995991,31.892173,-110.995991,31.892173",
     "geom:latitude":31.892173,
     "geom:longitude":-110.995991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 W San Ignacio",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153082099,
-    "wof:lastmodified":1449040361,
+    "wof:lastmodified":1466329166,
     "wof:name":"Valle Verde Apts",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995991,31.892173,-110.995991,31.892173],
+  "bbox": [
+    -110.995991,
+    31.892173,
+    -110.995991,
+    31.892173
+],
   "geometry": {"coordinates":[-110.995991,31.892173],"type":"Point"}
 }

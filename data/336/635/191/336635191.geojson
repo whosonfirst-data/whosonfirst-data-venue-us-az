@@ -2,13 +2,14 @@
   "id": 336635191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033894,33.422422,-112.033894,33.422422",
     "geom:latitude":33.422422,
     "geom:longitude":-112.033894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 E Magnolia St Ste D",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336635191,
-    "wof:lastmodified":1448997419,
+    "wof:lastmodified":1466326661,
     "wof:name":"Bob Wallace Cars Inc",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-112.033894,33.422422,-112.033894,33.422422],
+  "bbox": [
+    -112.033894,
+    33.422422,
+    -112.033894,
+    33.422422
+],
   "geometry": {"coordinates":[-112.033894,33.422422],"type":"Point"}
 }

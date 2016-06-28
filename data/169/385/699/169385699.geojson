@@ -2,13 +2,14 @@
   "id": 169385699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.621473,32.71601,-114.621473,32.71601",
     "geom:latitude":32.71601,
     "geom:longitude":-114.621473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 W 6th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169385699,
-    "wof:lastmodified":1449034650,
+    "wof:lastmodified":1466333822,
     "wof:name":"Keithly-Williams Seeds Inc",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.621473,32.71601,-114.621473,32.71601],
-  "geometry": {"coordinates":[-114.621473,32.71601],"type":"Point"}
+  "bbox": [
+    -114.621473,
+    32.71601,
+    -114.621473,
+    32.71601
+],
+  "geometry": {"coordinates":[-114.62147299999999,32.71601],"type":"Point"}
 }

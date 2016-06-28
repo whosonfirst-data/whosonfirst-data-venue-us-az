@@ -2,13 +2,14 @@
   "id": 152915003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065203,33.559904,-112.065203,33.559904",
     "geom:latitude":33.559904,
     "geom:longitude":-112.065203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8359 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152915003,
-    "wof:lastmodified":1449048863,
+    "wof:lastmodified":1466327803,
     "wof:name":"Shamrock Liquors Drive-In",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.065203,33.559904,-112.065203,33.559904],
+  "bbox": [
+    -112.065203,
+    33.559904,
+    -112.065203,
+    33.559904
+],
   "geometry": {"coordinates":[-112.065203,33.559904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153018163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134263,33.529033,-112.134263,33.529033",
     "geom:latitude":33.529033,
     "geom:longitude":-112.134263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153018163,
-    "wof:lastmodified":1449040584,
+    "wof:lastmodified":1466326820,
     "wof:name":"Arizona Adult Day Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134263,33.529033,-112.134263,33.529033],
+  "bbox": [
+    -112.134263,
+    33.529033,
+    -112.134263,
+    33.529033
+],
   "geometry": {"coordinates":[-112.134263,33.529033],"type":"Point"}
 }

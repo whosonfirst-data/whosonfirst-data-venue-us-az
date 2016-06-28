@@ -2,13 +2,14 @@
   "id": 336646465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.249527,33.498041,-112.249527,33.498041",
     "geom:latitude":33.498041,
     "geom:longitude":-112.249527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8830 W Glenrosa Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336646465,
-    "wof:lastmodified":1448996898,
+    "wof:lastmodified":1466326905,
     "wof:name":"J & J Web Hosting",
     "wof:parent_id":85856669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-112.249527,33.498041,-112.249527,33.498041],
+  "bbox": [
+    -112.249527,
+    33.498041,
+    -112.249527,
+    33.498041
+],
   "geometry": {"coordinates":[-112.249527,33.498041],"type":"Point"}
 }

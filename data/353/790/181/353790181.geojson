@@ -2,13 +2,14 @@
   "id": 353790181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.929915,31.348024,-110.929915,31.348024",
     "geom:latitude":31.348024,
     "geom:longitude":-110.929915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353790181,
-    "wof:lastmodified":1449020225,
+    "wof:lastmodified":1466330369,
     "wof:name":"Excellence Mailbox",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mailbox-rental"
     ]
 },
-  "bbox": [-110.929915,31.348024,-110.929915,31.348024],
-  "geometry": {"coordinates":[-110.929915,31.348024],"type":"Point"}
+  "bbox": [
+    -110.929915,
+    31.348024,
+    -110.929915,
+    31.348024
+],
+  "geometry": {"coordinates":[-110.92991499999999,31.348024],"type":"Point"}
 }

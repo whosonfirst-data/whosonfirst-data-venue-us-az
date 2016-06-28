@@ -2,13 +2,14 @@
   "id": 169420723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9954,33.321655,-111.9954,33.321655",
     "geom:latitude":33.321655,
     "geom:longitude":-111.9954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4159 E Jojoba Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169420723,
-    "wof:lastmodified":1449034260,
+    "wof:lastmodified":1466334196,
     "wof:name":"Trans Gate Transportation",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.9954,33.321655,-111.9954,33.321655],
+  "bbox": [
+    -111.9954,
+    33.321655,
+    -111.9954,
+    33.321655
+],
   "geometry": {"coordinates":[-111.9954,33.321655],"type":"Point"}
 }

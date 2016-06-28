@@ -2,13 +2,14 @@
   "id": 168880863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.847112,32.250707,-109.847112,32.250707",
     "geom:latitude":32.250707,
     "geom:longitude":-109.847112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 W Palomas Dr",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168880863,
-    "wof:lastmodified":1449028594,
+    "wof:lastmodified":1466328298,
     "wof:name":"Call Investments Arizona LL",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.847112,32.250707,-109.847112,32.250707],
+  "bbox": [
+    -109.847112,
+    32.250707,
+    -109.847112,
+    32.250707
+],
   "geometry": {"coordinates":[-109.847112,32.250707],"type":"Point"}
 }

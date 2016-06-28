@@ -2,13 +2,14 @@
   "id": 336902835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.941002,33.277302,-111.941002,33.277302",
     "geom:latitude":33.277302,
     "geom:longitude":-111.941002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 W Germann Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336902835,
-    "wof:lastmodified":1448997733,
+    "wof:lastmodified":1466330457,
     "wof:name":"D Bci",
     "wof:parent_id":85851421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.941002,33.277302,-111.941002,33.277302],
+  "bbox": [
+    -111.941002,
+    33.277302,
+    -111.941002,
+    33.277302
+],
   "geometry": {"coordinates":[-111.941002,33.277302],"type":"Point"}
 }

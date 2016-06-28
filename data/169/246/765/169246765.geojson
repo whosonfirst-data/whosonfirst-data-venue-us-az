@@ -2,13 +2,14 @@
   "id": 169246765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.356677,34.493515,-114.356677,34.493515",
     "geom:latitude":34.493515,
     "geom:longitude":-114.356677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Industrial Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169246765,
-    "wof:lastmodified":1449032902,
+    "wof:lastmodified":1466332490,
     "wof:name":"Palm Oasis Storage",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.356677,34.493515,-114.356677,34.493515],
+  "bbox": [
+    -114.356677,
+    34.493515,
+    -114.356677,
+    34.493515
+],
   "geometry": {"coordinates":[-114.356677,34.493515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168952945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955359,32.17512,-110.955359,32.17512",
     "geom:latitude":32.17512,
     "geom:longitude":-110.955359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Palmdale St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.resphealthsite.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168952945,
-    "wof:lastmodified":1449028332,
+    "wof:lastmodified":1466331045,
     "wof:name":"Desert Air Respiratory",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.955359,32.17512,-110.955359,32.17512],
+  "bbox": [
+    -110.955359,
+    32.17512,
+    -110.955359,
+    32.17512
+],
   "geometry": {"coordinates":[-110.955359,32.17512],"type":"Point"}
 }

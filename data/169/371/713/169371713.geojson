@@ -2,13 +2,14 @@
   "id": 169371713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943788,32.212544,-110.943788,32.212544",
     "geom:latitude":32.212544,
     "geom:longitude":-110.943788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 S Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.bestwayelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169371713,
-    "wof:lastmodified":1449035226,
+    "wof:lastmodified":1466333766,
     "wof:name":"Bestway Electric Motor Service",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943788,32.212544,-110.943788,32.212544],
+  "bbox": [
+    -110.943788,
+    32.212544,
+    -110.943788,
+    32.212544
+],
   "geometry": {"coordinates":[-110.943788,32.212544],"type":"Point"}
 }

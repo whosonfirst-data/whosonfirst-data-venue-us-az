@@ -2,13 +2,14 @@
   "id": 353893961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.412231,34.547649,-112.412231,34.547649",
     "geom:latitude":34.547649,
     "geom:longitude":-112.412231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Gateway Blvd",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -100,10 +101,11 @@
         }
     ],
     "wof:id":353893961,
-    "wof:lastmodified":1449020349,
+    "wof:lastmodified":1466331066,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -124,6 +126,11 @@
         "decorator"
     ]
 },
-  "bbox": [-112.412231,34.547649,-112.412231,34.547649],
-  "geometry": {"coordinates":[-112.412231,34.547649],"type":"Point"}
+  "bbox": [
+    -112.412231,
+    34.547649,
+    -112.412231,
+    34.547649
+],
+  "geometry": {"coordinates":[-112.41223100000001,34.547649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353584525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.216719,33.522185,-112.216719,33.522185",
     "geom:latitude":33.522185,
     "geom:longitude":-112.216719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5931 N 73rd Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353584525,
-    "wof:lastmodified":1449018532,
+    "wof:lastmodified":1466328324,
     "wof:name":"73rd Dr 24 Hr A Locksmith",
     "wof:parent_id":85877789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "locksmiths-commercial"
     ]
 },
-  "bbox": [-112.216719,33.522185,-112.216719,33.522185],
+  "bbox": [
+    -112.216719,
+    33.522185,
+    -112.216719,
+    33.522185
+],
   "geometry": {"coordinates":[-112.216719,33.522185],"type":"Point"}
 }

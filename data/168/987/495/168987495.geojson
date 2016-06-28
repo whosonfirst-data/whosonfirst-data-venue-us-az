@@ -2,13 +2,14 @@
   "id": 168987495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.844182,33.411453,-111.844182,33.411453",
     "geom:latitude":33.411453,
     "geom:longitude":-111.844182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"663 W 2nd Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168987495,
-    "wof:lastmodified":1449028201,
+    "wof:lastmodified":1466331544,
     "wof:name":"Hampden Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.844182,33.411453,-111.844182,33.411453],
+  "bbox": [
+    -111.844182,
+    33.411453,
+    -111.844182,
+    33.411453
+],
   "geometry": {"coordinates":[-111.844182,33.411453],"type":"Point"}
 }

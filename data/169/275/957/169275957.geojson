@@ -2,13 +2,14 @@
   "id": 169275957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.722656,32.257155,-110.722656,32.257155",
     "geom:latitude":32.257155,
     "geom:longitude":-110.722656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 Pla Mia",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169275957,
-    "wof:lastmodified":1449033750,
+    "wof:lastmodified":1466332809,
     "wof:name":"Desert Doula Birth & Post Prtm",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.722656,32.257155,-110.722656,32.257155],
+  "bbox": [
+    -110.722656,
+    32.257155,
+    -110.722656,
+    32.257155
+],
   "geometry": {"coordinates":[-110.722656,32.257155],"type":"Point"}
 }

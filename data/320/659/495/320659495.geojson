@@ -2,13 +2,14 @@
   "id": 320659495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.110461,33.468275,-112.110461,33.468275",
     "geom:latitude":33.468275,
     "geom:longitude":-112.110461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2377 W Granada Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320659495,
-    "wof:lastmodified":1449011645,
+    "wof:lastmodified":1466327251,
     "wof:name":"Phoenix Truck And Equipment Repair",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-112.110461,33.468275,-112.110461,33.468275],
+  "bbox": [
+    -112.110461,
+    33.468275,
+    -112.110461,
+    33.468275
+],
   "geometry": {"coordinates":[-112.110461,33.468275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169416689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151395,33.547864,-112.151395,33.547864",
     "geom:latitude":33.547864,
     "geom:longitude":-112.151395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 N 43rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169416689,
-    "wof:lastmodified":1449034157,
+    "wof:lastmodified":1466334146,
     "wof:name":"Oxygen Home Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.151395,33.547864,-112.151395,33.547864],
-  "geometry": {"coordinates":[-112.151395,33.547864],"type":"Point"}
+  "bbox": [
+    -112.151395,
+    33.547864,
+    -112.151395,
+    33.547864
+],
+  "geometry": {"coordinates":[-112.15139499999999,33.547864],"type":"Point"}
 }

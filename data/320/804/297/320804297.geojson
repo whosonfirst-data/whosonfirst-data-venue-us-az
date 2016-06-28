@@ -2,13 +2,14 @@
   "id": 320804297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.076631,33.614555,-112.076631,33.614555",
     "geom:latitude":33.614555,
     "geom:longitude":-112.076631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14215 N 2nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320804297,
-    "wof:lastmodified":1449013870,
+    "wof:lastmodified":1466329721,
     "wof:name":"Expert Radiology Investigations, Ltd.",
     "wof:parent_id":85824655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.076631,33.614555,-112.076631,33.614555],
-  "geometry": {"coordinates":[-112.076631,33.614555],"type":"Point"}
+  "bbox": [
+    -112.076631,
+    33.614555,
+    -112.076631,
+    33.614555
+],
+  "geometry": {"coordinates":[-112.07663100000001,33.614555],"type":"Point"}
 }

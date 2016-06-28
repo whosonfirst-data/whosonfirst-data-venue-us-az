@@ -2,13 +2,14 @@
   "id": 152978053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.281334,33.599667,-112.281334,33.599667",
     "geom:latitude":33.599667,
     "geom:longitude":-112.281334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12630 N 103rd Ave",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152978053,
-    "wof:lastmodified":1449046967,
+    "wof:lastmodified":1466328797,
     "wof:name":"Thomas Chong DDS",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.281334,33.599667,-112.281334,33.599667],
+  "bbox": [
+    -112.281334,
+    33.599667,
+    -112.281334,
+    33.599667
+],
   "geometry": {"coordinates":[-112.281334,33.599667],"type":"Point"}
 }

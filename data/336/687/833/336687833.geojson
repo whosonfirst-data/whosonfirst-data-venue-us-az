@@ -2,13 +2,14 @@
   "id": 336687833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.160345,33.43663,-112.160345,33.43663",
     "geom:latitude":33.43663,
     "geom:longitude":-112.160345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 S 47th Ave Ste 110",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":336687833,
-    "wof:lastmodified":1448997245,
+    "wof:lastmodified":1466327997,
     "wof:name":"Clean Energy Foundation Inc.",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.160345,33.43663,-112.160345,33.43663],
-  "geometry": {"coordinates":[-112.160345,33.43663],"type":"Point"}
+  "bbox": [
+    -112.160345,
+    33.43663,
+    -112.160345,
+    33.43663
+],
+  "geometry": {"coordinates":[-112.16034500000001,33.43663],"type":"Point"}
 }

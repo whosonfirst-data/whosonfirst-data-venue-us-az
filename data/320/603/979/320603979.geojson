@@ -2,13 +2,14 @@
   "id": 320603979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075202,33.451452,-112.075202,33.451452",
     "geom:latitude":33.451452,
     "geom:longitude":-112.075202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N 1st Ave Ste 410",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320603979,
-    "wof:lastmodified":1449014398,
+    "wof:lastmodified":1466325849,
     "wof:name":"Aarp",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-112.075202,33.451452,-112.075202,33.451452],
+  "bbox": [
+    -112.075202,
+    33.451452,
+    -112.075202,
+    33.451452
+],
   "geometry": {"coordinates":[-112.075202,33.451452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336636053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026356,33.448292,-112.026356,33.448292",
     "geom:latitude":33.448292,
     "geom:longitude":-112.026356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2543 E Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336636053,
-    "wof:lastmodified":1448997381,
+    "wof:lastmodified":1466326683,
     "wof:name":"Valley Spring Svc",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.026356,33.448292,-112.026356,33.448292],
-  "geometry": {"coordinates":[-112.026356,33.448292],"type":"Point"}
+  "bbox": [
+    -112.026356,
+    33.448292,
+    -112.026356,
+    33.448292
+],
+  "geometry": {"coordinates":[-112.02635600000001,33.448292],"type":"Point"}
 }

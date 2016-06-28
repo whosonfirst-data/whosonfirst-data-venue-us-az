@@ -2,13 +2,14 @@
   "id": 320745129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115193,33.498599,-112.115193,33.498599",
     "geom:latitude":33.498599,
     "geom:longitude":-112.115193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 W Glenrosa Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320745129,
-    "wof:lastmodified":1449014795,
+    "wof:lastmodified":1466328780,
     "wof:name":"Silktree Inn",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-112.115193,33.498599,-112.115193,33.498599],
+  "bbox": [
+    -112.115193,
+    33.498599,
+    -112.115193,
+    33.498599
+],
   "geometry": {"coordinates":[-112.115193,33.498599],"type":"Point"}
 }

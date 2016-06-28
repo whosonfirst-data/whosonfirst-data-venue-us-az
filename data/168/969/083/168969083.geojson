@@ -2,13 +2,14 @@
   "id": 168969083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.202956,31.489172,-110.202956,31.489172",
     "geom:latitude":31.489172,
     "geom:longitude":-110.202956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6969 Canada Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168969083,
-    "wof:lastmodified":1449027952,
+    "wof:lastmodified":1466331239,
     "wof:name":"2 Eagle Electric",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.202956,31.489172,-110.202956,31.489172],
+  "bbox": [
+    -110.202956,
+    31.489172,
+    -110.202956,
+    31.489172
+],
   "geometry": {"coordinates":[-110.202956,31.489172],"type":"Point"}
 }

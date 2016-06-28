@@ -2,13 +2,14 @@
   "id": 168907191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.617655,32.721241,-114.617655,32.721241",
     "geom:latitude":32.721241,
     "geom:longitude":-114.617655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Main St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168907191,
-    "wof:lastmodified":1449028532,
+    "wof:lastmodified":1466329836,
     "wof:name":"Tender Touch Electrolysis",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.617655,32.721241,-114.617655,32.721241],
+  "bbox": [
+    -114.617655,
+    32.721241,
+    -114.617655,
+    32.721241
+],
   "geometry": {"coordinates":[-114.617655,32.721241],"type":"Point"}
 }

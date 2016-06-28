@@ -2,13 +2,14 @@
   "id": 169053505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.266331,34.475587,-114.266331,34.475587",
     "geom:latitude":34.475587,
     "geom:longitude":-114.266331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 McCulloch Blvd S",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169053505,
-    "wof:lastmodified":1449033315,
+    "wof:lastmodified":1466328600,
     "wof:name":"Nautico Resort",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.266331,34.475587,-114.266331,34.475587],
-  "geometry": {"coordinates":[-114.266331,34.475587],"type":"Point"}
+  "bbox": [
+    -114.266331,
+    34.475587,
+    -114.266331,
+    34.475587
+],
+  "geometry": {"coordinates":[-114.26633099999999,34.475587],"type":"Point"}
 }

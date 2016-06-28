@@ -2,13 +2,14 @@
   "id": 353838451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.846256,32.187824,-110.846256,32.187824",
     "geom:latitude":32.187824,
     "geom:longitude":-110.846256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6856 E Nelson Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353838451,
-    "wof:lastmodified":1449018560,
+    "wof:lastmodified":1466330509,
     "wof:name":"Superior Installations",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-110.846256,32.187824,-110.846256,32.187824],
+  "bbox": [
+    -110.846256,
+    32.187824,
+    -110.846256,
+    32.187824
+],
   "geometry": {"coordinates":[-110.846256,32.187824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169402697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.920125,33.39688,-111.920125,33.39688",
     "geom:latitude":33.39688,
     "geom:longitude":-111.920125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 E del Rio Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881423,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169402697,
-    "wof:lastmodified":1449033744,
+    "wof:lastmodified":1466334051,
     "wof:name":"S R T Arms",
     "wof:parent_id":85881423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.920125,33.39688,-111.920125,33.39688],
+  "bbox": [
+    -111.920125,
+    33.39688,
+    -111.920125,
+    33.39688
+],
   "geometry": {"coordinates":[-111.920125,33.39688],"type":"Point"}
 }

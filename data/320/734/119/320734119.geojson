@@ -2,13 +2,14 @@
   "id": 320734119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030036,33.526008,-112.030036,33.526008",
     "geom:latitude":33.526008,
     "geom:longitude":-112.030036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6202 N 24th St Bldg 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320734119,
-    "wof:lastmodified":1449014490,
+    "wof:lastmodified":1466328549,
     "wof:name":"24th Street Water Trtmnt Plant",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "pollution"
     ]
 },
-  "bbox": [-112.030036,33.526008,-112.030036,33.526008],
+  "bbox": [
+    -112.030036,
+    33.526008,
+    -112.030036,
+    33.526008
+],
   "geometry": {"coordinates":[-112.030036,33.526008],"type":"Point"}
 }

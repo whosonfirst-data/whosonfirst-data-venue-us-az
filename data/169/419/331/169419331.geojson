@@ -2,13 +2,14 @@
   "id": 169419331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.841032,32.220002,-110.841032,32.220002",
     "geom:latitude":32.220002,
     "geom:longitude":-110.841032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Kolb Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169419331,
-    "wof:lastmodified":1449035907,
+    "wof:lastmodified":1466334152,
     "wof:name":"Advanced Hearing Aid Co",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.841032,32.220002,-110.841032,32.220002],
+  "bbox": [
+    -110.841032,
+    32.220002,
+    -110.841032,
+    32.220002
+],
   "geometry": {"coordinates":[-110.841032,32.220002],"type":"Point"}
 }

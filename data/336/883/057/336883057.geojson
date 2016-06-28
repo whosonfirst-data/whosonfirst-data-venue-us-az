@@ -2,13 +2,14 @@
   "id": 336883057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841581,33.319373,-111.841581,33.319373",
     "geom:latitude":33.319373,
     "geom:longitude":-111.841581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Arizona Avenue",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336883057,
-    "wof:lastmodified":1448997776,
+    "wof:lastmodified":1466330134,
     "wof:name":"Express Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-111.841581,33.319373,-111.841581,33.319373],
-  "geometry": {"coordinates":[-111.841581,33.319373],"type":"Point"}
+  "bbox": [
+    -111.841581,
+    33.319373,
+    -111.841581,
+    33.319373
+],
+  "geometry": {"coordinates":[-111.84158100000001,33.319373],"type":"Point"}
 }

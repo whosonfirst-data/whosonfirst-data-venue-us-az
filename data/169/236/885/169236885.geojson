@@ -2,13 +2,14 @@
   "id": 169236885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.974563,33.444341,-111.974563,33.444341",
     "geom:latitude":33.444341,
     "geom:longitude":-111.974563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 50th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852393,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169236885,
-    "wof:lastmodified":1449033024,
+    "wof:lastmodified":1466332465,
     "wof:name":"Via Condotti LLC",
     "wof:parent_id":85852393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.974563,33.444341,-111.974563,33.444341],
+  "bbox": [
+    -111.974563,
+    33.444341,
+    -111.974563,
+    33.444341
+],
   "geometry": {"coordinates":[-111.974563,33.444341],"type":"Point"}
 }

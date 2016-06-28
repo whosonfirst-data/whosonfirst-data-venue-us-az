@@ -2,13 +2,14 @@
   "id": 336964435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908933,33.486795,-111.908933,33.486795",
     "geom:latitude":33.486795,
     "geom:longitude":-111.908933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 N Hayden Rd Suite 112",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":336964435,
-    "wof:lastmodified":1448997757,
+    "wof:lastmodified":1466330803,
     "wof:name":"Secrest Family Chiropractic PC",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-111.908933,33.486795,-111.908933,33.486795],
+  "bbox": [
+    -111.908933,
+    33.486795,
+    -111.908933,
+    33.486795
+],
   "geometry": {"coordinates":[-111.908933,33.486795],"type":"Point"}
 }

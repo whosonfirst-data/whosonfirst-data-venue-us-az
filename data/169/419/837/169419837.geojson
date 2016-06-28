@@ -2,13 +2,14 @@
   "id": 169419837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08147,33.571337,-112.08147,33.571337",
     "geom:latitude":33.571337,
     "geom:longitude":-112.08147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 W Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169419837,
-    "wof:lastmodified":1449035903,
+    "wof:lastmodified":1466334157,
     "wof:name":"Eye Opener Family Restaurant",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.08147,33.571337,-112.08147,33.571337],
+  "bbox": [
+    -112.08147,
+    33.571337,
+    -112.08147,
+    33.571337
+],
   "geometry": {"coordinates":[-112.08147,33.571337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169418647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.765345,34.788653,-111.765345,34.788653",
     "geom:latitude":34.788653,
     "geom:longitude":-111.765345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Bell Rock Plz",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.autojustice.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169418647,
-    "wof:lastmodified":1449035246,
+    "wof:lastmodified":1466334186,
     "wof:name":"Douglas C Fitzpatrick",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.765345,34.788653,-111.765345,34.788653],
+  "bbox": [
+    -111.765345,
+    34.788653,
+    -111.765345,
+    34.788653
+],
   "geometry": {"coordinates":[-111.765345,34.788653],"type":"Point"}
 }

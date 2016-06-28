@@ -2,13 +2,14 @@
   "id": 353693165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.679685,32.711667,-114.679685,32.711667",
     "geom:latitude":32.711667,
     "geom:longitude":-114.679685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8176 S Yavapai Ln",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353693165,
-    "wof:lastmodified":1449018401,
+    "wof:lastmodified":1466329729,
     "wof:name":"J G G Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "truck"
     ]
 },
-  "bbox": [-114.679685,32.711667,-114.679685,32.711667],
-  "geometry": {"coordinates":[-114.679685,32.711667],"type":"Point"}
+  "bbox": [
+    -114.679685,
+    32.711667,
+    -114.679685,
+    32.711667
+],
+  "geometry": {"coordinates":[-114.67968500000001,32.711667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153001625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.712456,33.594323,-111.712456,33.594323",
     "geom:latitude":33.594323,
     "geom:longitude":-111.712456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11803 N Saguaro Blvd",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153001625,
-    "wof:lastmodified":1449040448,
+    "wof:lastmodified":1466326919,
     "wof:name":"Mel's Vacuum Repair & Sales",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.712456,33.594323,-111.712456,33.594323],
+  "bbox": [
+    -111.712456,
+    33.594323,
+    -111.712456,
+    33.594323
+],
   "geometry": {"coordinates":[-111.712456,33.594323],"type":"Point"}
 }

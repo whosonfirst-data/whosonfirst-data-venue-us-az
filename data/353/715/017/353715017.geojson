@@ -2,13 +2,14 @@
   "id": 353715017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.587356,32.702337,-114.587356,32.702337",
     "geom:latitude":32.702337,
     "geom:longitude":-114.587356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2734 E 14th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353715017,
-    "wof:lastmodified":1449020307,
+    "wof:lastmodified":1466329713,
     "wof:name":"Polar Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-114.587356,32.702337,-114.587356,32.702337],
+  "bbox": [
+    -114.587356,
+    32.702337,
+    -114.587356,
+    32.702337
+],
   "geometry": {"coordinates":[-114.587356,32.702337],"type":"Point"}
 }

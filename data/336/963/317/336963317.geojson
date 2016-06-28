@@ -2,13 +2,14 @@
   "id": 336963317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918553,33.491294,-111.918553,33.491294",
     "geom:latitude":33.491294,
     "geom:longitude":-111.918553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 E 2nd St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":336963317,
-    "wof:lastmodified":1448997038,
+    "wof:lastmodified":1466330923,
     "wof:name":"Kilpatrick, William R, Md - Scottsdale Eye Physicians",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-111.918553,33.491294,-111.918553,33.491294],
+  "bbox": [
+    -111.918553,
+    33.491294,
+    -111.918553,
+    33.491294
+],
   "geometry": {"coordinates":[-111.918553,33.491294],"type":"Point"}
 }

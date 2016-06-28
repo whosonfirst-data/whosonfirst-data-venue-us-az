@@ -2,13 +2,14 @@
   "id": 169065475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816763,32.229016,-110.816763,32.229016",
     "geom:latitude":32.229016,
     "geom:longitude":-110.816763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 N Kent Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169065475,
-    "wof:lastmodified":1449035928,
+    "wof:lastmodified":1466329351,
     "wof:name":"Pakkr Electric LLC",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816763,32.229016,-110.816763,32.229016],
-  "geometry": {"coordinates":[-110.816763,32.229016],"type":"Point"}
+  "bbox": [
+    -110.816763,
+    32.229016,
+    -110.816763,
+    32.229016
+],
+  "geometry": {"coordinates":[-110.81676299999999,32.229016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320663383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134453,33.470728,-112.134453,33.470728",
     "geom:latitude":33.470728,
     "geom:longitude":-112.134453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320663383,
-    "wof:lastmodified":1449014003,
+    "wof:lastmodified":1466327350,
     "wof:name":"One Stop Smoke Shop",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cigar"
     ]
 },
-  "bbox": [-112.134453,33.470728,-112.134453,33.470728],
-  "geometry": {"coordinates":[-112.134453,33.470728],"type":"Point"}
+  "bbox": [
+    -112.134453,
+    33.470728,
+    -112.134453,
+    33.470728
+],
+  "geometry": {"coordinates":[-112.13445299999999,33.470728],"type":"Point"}
 }

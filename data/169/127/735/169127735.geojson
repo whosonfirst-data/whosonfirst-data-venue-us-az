@@ -2,13 +2,14 @@
   "id": 169127735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.812789,33.3544,-111.812789,33.3544",
     "geom:latitude":33.3544,
     "geom:longitude":-111.812789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 W Page Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.sillygoosetoys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818853,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85818853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169127735,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1466331545,
     "wof:name":"Silly Goose Toys LLC",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.812789,33.3544,-111.812789,33.3544],
+  "bbox": [
+    -111.812789,
+    33.3544,
+    -111.812789,
+    33.3544
+],
   "geometry": {"coordinates":[-111.812789,33.3544],"type":"Point"}
 }

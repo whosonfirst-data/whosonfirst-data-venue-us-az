@@ -2,13 +2,14 @@
   "id": 320660709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109594,33.440599,-112.109594,33.440599",
     "geom:latitude":33.440599,
     "geom:longitude":-112.109594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 W Sherman St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320660709,
-    "wof:lastmodified":1449014573,
+    "wof:lastmodified":1466327282,
     "wof:name":"Phoenix Fiberglass Inc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "fiberglass"
     ]
 },
-  "bbox": [-112.109594,33.440599,-112.109594,33.440599],
+  "bbox": [
+    -112.109594,
+    33.440599,
+    -112.109594,
+    33.440599
+],
   "geometry": {"coordinates":[-112.109594,33.440599],"type":"Point"}
 }

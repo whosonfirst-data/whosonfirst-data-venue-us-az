@@ -2,13 +2,14 @@
   "id": 153020941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.930971,31.95756,-110.930971,31.95756",
     "geom:latitude":31.95756,
     "geom:longitude":-110.930971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E Sahuarita Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153020941,
-    "wof:lastmodified":1449040538,
+    "wof:lastmodified":1466327161,
     "wof:name":"Richard Gonzalez Sculptur",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.930971,31.95756,-110.930971,31.95756],
+  "bbox": [
+    -110.930971,
+    31.95756,
+    -110.930971,
+    31.95756
+],
   "geometry": {"coordinates":[-110.930971,31.95756],"type":"Point"}
 }

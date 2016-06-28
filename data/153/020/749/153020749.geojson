@@ -2,13 +2,14 @@
   "id": 153020749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.969109,34.725348,-111.969109,34.725348",
     "geom:latitude":34.725348,
     "geom:longitude":-111.969109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 E Moonlight Dr",
     "sg:city":"Cornville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153020749,
-    "wof:lastmodified":1449040536,
+    "wof:lastmodified":1466327146,
     "wof:name":"Am Pac Ins Assoc",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.969109,34.725348,-111.969109,34.725348],
+  "bbox": [
+    -111.969109,
+    34.725348,
+    -111.969109,
+    34.725348
+],
   "geometry": {"coordinates":[-111.969109,34.725348],"type":"Point"}
 }

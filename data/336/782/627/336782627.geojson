@@ -2,13 +2,14 @@
   "id": 336782627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.813747,33.415171,-111.813747,33.415171",
     "geom:latitude":33.415171,
     "geom:longitude":-111.813747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336782627,
-    "wof:lastmodified":1448996915,
+    "wof:lastmodified":1466329578,
     "wof:name":"AMF Apache Lanes",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "planning"
     ]
 },
-  "bbox": [-111.813747,33.415171,-111.813747,33.415171],
-  "geometry": {"coordinates":[-111.813747,33.415171],"type":"Point"}
+  "bbox": [
+    -111.813747,
+    33.415171,
+    -111.813747,
+    33.415171
+],
+  "geometry": {"coordinates":[-111.81374700000001,33.415171],"type":"Point"}
 }

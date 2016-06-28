@@ -2,13 +2,14 @@
   "id": 168989849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.486498,34.778629,-112.486498,34.778629",
     "geom:latitude":34.778629,
     "geom:longitude":-112.486498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 N Koolridge Way",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168989849,
-    "wof:lastmodified":1449028345,
+    "wof:lastmodified":1466331587,
     "wof:name":"Knack Kitchens",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.486498,34.778629,-112.486498,34.778629],
+  "bbox": [
+    -112.486498,
+    34.778629,
+    -112.486498,
+    34.778629
+],
   "geometry": {"coordinates":[-112.486498,34.778629],"type":"Point"}
 }

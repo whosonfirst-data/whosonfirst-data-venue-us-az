@@ -2,13 +2,14 @@
   "id": 169232153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.185757,33.610679,-112.185757,33.610679",
     "geom:latitude":33.610679,
     "geom:longitude":-112.185757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852223,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85852223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169232153,
-    "wof:lastmodified":1449033754,
+    "wof:lastmodified":1466332412,
     "wof:name":"Arizona Arthroscopy & Sports",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.185757,33.610679,-112.185757,33.610679],
+  "bbox": [
+    -112.185757,
+    33.610679,
+    -112.185757,
+    33.610679
+],
   "geometry": {"coordinates":[-112.185757,33.610679],"type":"Point"}
 }

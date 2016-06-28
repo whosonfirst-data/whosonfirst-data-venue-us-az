@@ -2,13 +2,14 @@
   "id": 169080645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030206,33.513018,-112.030206,33.513018",
     "geom:latitude":33.513018,
     "geom:longitude":-112.030206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 E Colter St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.conquesttraining.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811943,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169080645,
-    "wof:lastmodified":1449035874,
+    "wof:lastmodified":1466330061,
     "wof:name":"Conquest Training Systems Inc",
     "wof:parent_id":85811943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.030206,33.513018,-112.030206,33.513018],
-  "geometry": {"coordinates":[-112.030206,33.513018],"type":"Point"}
+  "bbox": [
+    -112.030206,
+    33.513018,
+    -112.030206,
+    33.513018
+],
+  "geometry": {"coordinates":[-112.03020600000001,33.513018],"type":"Point"}
 }

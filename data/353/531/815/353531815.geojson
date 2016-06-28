@@ -2,13 +2,14 @@
   "id": 353531815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.779716,33.303177,-111.779716,33.303177",
     "geom:latitude":33.303177,
     "geom:longitude":-111.779716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"482 E Vermont Dr",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353531815,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1466327740,
     "wof:name":"Loyalty Mortgage",
     "wof:parent_id":85876649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-111.779716,33.303177,-111.779716,33.303177],
-  "geometry": {"coordinates":[-111.779716,33.303177],"type":"Point"}
+  "bbox": [
+    -111.779716,
+    33.303177,
+    -111.779716,
+    33.303177
+],
+  "geometry": {"coordinates":[-111.77971599999999,33.303177],"type":"Point"}
 }

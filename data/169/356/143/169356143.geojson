@@ -2,13 +2,14 @@
   "id": 169356143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.266346,31.551827,-110.266346,31.551827",
     "geom:latitude":31.551827,
     "geom:longitude":-110.266346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 Dove Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169356143,
-    "wof:lastmodified":1449035376,
+    "wof:lastmodified":1466333556,
     "wof:name":"Doctors Financial Svc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.266346,31.551827,-110.266346,31.551827],
+  "bbox": [
+    -110.266346,
+    31.551827,
+    -110.266346,
+    31.551827
+],
   "geometry": {"coordinates":[-110.266346,31.551827],"type":"Point"}
 }

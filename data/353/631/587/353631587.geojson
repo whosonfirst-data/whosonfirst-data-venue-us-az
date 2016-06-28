@@ -2,13 +2,14 @@
   "id": 353631587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.584834,33.364422,-112.584834,33.364422",
     "geom:latitude":33.364422,
     "geom:longitude":-112.584834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E South Ave",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353631587,
-    "wof:lastmodified":1449019049,
+    "wof:lastmodified":1466328905,
     "wof:name":"Westside Maintance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.584834,33.364422,-112.584834,33.364422],
+  "bbox": [
+    -112.584834,
+    33.364422,
+    -112.584834,
+    33.364422
+],
   "geometry": {"coordinates":[-112.584834,33.364422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320852363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.168391,33.509472,-112.168391,33.509472",
     "geom:latitude":33.509472,
     "geom:longitude":-112.168391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5095 W Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320852363,
-    "wof:lastmodified":1449014341,
+    "wof:lastmodified":1466330325,
     "wof:name":"Liberty Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-112.168391,33.509472,-112.168391,33.509472],
+  "bbox": [
+    -112.168391,
+    33.509472,
+    -112.168391,
+    33.509472
+],
   "geometry": {"coordinates":[-112.168391,33.509472],"type":"Point"}
 }

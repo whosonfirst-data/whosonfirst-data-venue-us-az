@@ -2,13 +2,14 @@
   "id": 152921137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960968,32.339469,-110.960968,32.339469",
     "geom:latitude":32.339469,
     "geom:longitude":-110.960968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 N Christie Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152921137,
-    "wof:lastmodified":1449047265,
+    "wof:lastmodified":1466327070,
     "wof:name":"Natural Growth & Development",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960968,32.339469,-110.960968,32.339469],
-  "geometry": {"coordinates":[-110.960968,32.339469],"type":"Point"}
+  "bbox": [
+    -110.960968,
+    32.339469,
+    -110.960968,
+    32.339469
+],
+  "geometry": {"coordinates":[-110.96096799999999,32.339469],"type":"Point"}
 }

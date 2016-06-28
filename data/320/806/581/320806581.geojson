@@ -2,13 +2,14 @@
   "id": 320806581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.099733,33.642547,-112.099733,33.642547",
     "geom:latitude":33.642547,
     "geom:longitude":-112.099733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17219 N 19th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":320806581,
-    "wof:lastmodified":1449011250,
+    "wof:lastmodified":1466329897,
     "wof:name":"Metro Tune & Lube",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "tune"
     ]
 },
-  "bbox": [-112.099733,33.642547,-112.099733,33.642547],
+  "bbox": [
+    -112.099733,
+    33.642547,
+    -112.099733,
+    33.642547
+],
   "geometry": {"coordinates":[-112.099733,33.642547],"type":"Point"}
 }

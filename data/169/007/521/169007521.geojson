@@ -2,13 +2,14 @@
   "id": 169007521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.191001,33.633867,-112.191001,33.633867",
     "geom:latitude":33.633867,
     "geom:longitude":-112.191001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16403 N 61st Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846577,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85846577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169007521,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466326621,
     "wof:name":"Hagar Commercial Tire",
     "wof:parent_id":85846577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.191001,33.633867,-112.191001,33.633867],
+  "bbox": [
+    -112.191001,
+    33.633867,
+    -112.191001,
+    33.633867
+],
   "geometry": {"coordinates":[-112.191001,33.633867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169232159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.804015,34.862267,-111.804015,34.862267",
     "geom:latitude":34.862267,
     "geom:longitude":-111.804015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Stutz Bearcat Dr",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169232159,
-    "wof:lastmodified":1449033752,
+    "wof:lastmodified":1466332412,
     "wof:name":"Hosler Financial Svc Inc",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.804015,34.862267,-111.804015,34.862267],
-  "geometry": {"coordinates":[-111.804015,34.862267],"type":"Point"}
+  "bbox": [
+    -111.804015,
+    34.862267,
+    -111.804015,
+    34.862267
+],
+  "geometry": {"coordinates":[-111.80401500000001,34.862267],"type":"Point"}
 }

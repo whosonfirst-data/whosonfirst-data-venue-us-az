@@ -2,13 +2,14 @@
   "id": 168963213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.711892,32.04416,-110.711892,32.04416",
     "geom:latitude":32.04416,
     "geom:longitude":-110.711892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11626 S Carolyn Beach Ave",
     "sg:city":"Vail",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168963213,
-    "wof:lastmodified":1449027856,
+    "wof:lastmodified":1466331319,
     "wof:name":"Southwinds Distributing",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.711892,32.04416,-110.711892,32.04416],
-  "geometry": {"coordinates":[-110.711892,32.04416],"type":"Point"}
+  "bbox": [
+    -110.711892,
+    32.04416,
+    -110.711892,
+    32.04416
+],
+  "geometry": {"coordinates":[-110.71189200000001,32.04416],"type":"Point"}
 }

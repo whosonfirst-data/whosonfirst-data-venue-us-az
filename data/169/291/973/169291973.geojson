@@ -2,13 +2,14 @@
   "id": 169291973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.835259,32.25067,-109.835259,32.25067",
     "geom:latitude":32.25067,
     "geom:longitude":-109.835259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Curtis Ave",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169291973,
-    "wof:lastmodified":1449033705,
+    "wof:lastmodified":1466332907,
     "wof:name":"US Post Office",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.835259,32.25067,-109.835259,32.25067],
-  "geometry": {"coordinates":[-109.835259,32.25067],"type":"Point"}
+  "bbox": [
+    -109.835259,
+    32.25067,
+    -109.835259,
+    32.25067
+],
+  "geometry": {"coordinates":[-109.83525899999999,32.25067],"type":"Point"}
 }

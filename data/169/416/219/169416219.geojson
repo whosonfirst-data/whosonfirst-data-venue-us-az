@@ -2,13 +2,14 @@
   "id": 169416219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970973,32.221954,-110.970973,32.221954",
     "geom:latitude":32.221954,
     "geom:longitude":-110.970973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 E Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871765,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169416219,
-    "wof:lastmodified":1449034158,
+    "wof:lastmodified":1466334101,
     "wof:name":"Heart-Five",
     "wof:parent_id":85871765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970973,32.221954,-110.970973,32.221954],
+  "bbox": [
+    -110.970973,
+    32.221954,
+    -110.970973,
+    32.221954
+],
   "geometry": {"coordinates":[-110.970973,32.221954],"type":"Point"}
 }

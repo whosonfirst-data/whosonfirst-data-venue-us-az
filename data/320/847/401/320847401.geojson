@@ -2,13 +2,14 @@
   "id": 320847401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.150947,33.586319,-112.150947,33.586319",
     "geom:latitude":33.586319,
     "geom:longitude":-112.150947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4236 W Mescal St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320847401,
-    "wof:lastmodified":1449012639,
+    "wof:lastmodified":1466330273,
     "wof:name":"Stone Restoration Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.150947,33.586319,-112.150947,33.586319],
+  "bbox": [
+    -112.150947,
+    33.586319,
+    -112.150947,
+    33.586319
+],
   "geometry": {"coordinates":[-112.150947,33.586319],"type":"Point"}
 }

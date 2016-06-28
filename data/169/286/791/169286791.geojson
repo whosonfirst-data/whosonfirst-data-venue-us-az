@@ -2,13 +2,14 @@
   "id": 169286791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.822469,32.27836,-110.822469,32.27836",
     "geom:latitude":32.27836,
     "geom:longitude":-110.822469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 N Pla Hondonada",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169286791,
-    "wof:lastmodified":1449033557,
+    "wof:lastmodified":1466332964,
     "wof:name":"Tucson Music Theatre",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.822469,32.27836,-110.822469,32.27836],
+  "bbox": [
+    -110.822469,
+    32.27836,
+    -110.822469,
+    32.27836
+],
   "geometry": {"coordinates":[-110.822469,32.27836],"type":"Point"}
 }

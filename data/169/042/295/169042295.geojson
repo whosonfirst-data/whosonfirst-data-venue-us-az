@@ -2,13 +2,14 @@
   "id": 169042295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.052815,35.190554,-114.052815,35.190554",
     "geom:latitude":35.190554,
     "geom:longitude":-114.052815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 4th St",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169042295,
-    "wof:lastmodified":1449035164,
+    "wof:lastmodified":1466328155,
     "wof:name":"Mohave County Housing Authorit",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.052815,35.190554,-114.052815,35.190554],
+  "bbox": [
+    -114.052815,
+    35.190554,
+    -114.052815,
+    35.190554
+],
   "geometry": {"coordinates":[-114.052815,35.190554],"type":"Point"}
 }

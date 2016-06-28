@@ -2,13 +2,14 @@
   "id": 169324611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965489,32.224849,-110.965489,32.224849",
     "geom:latitude":32.224849,
     "geom:longitude":-110.965489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 N 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169324611,
-    "wof:lastmodified":1449034615,
+    "wof:lastmodified":1466333218,
     "wof:name":"Rusticos Mexicanos",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965489,32.224849,-110.965489,32.224849],
-  "geometry": {"coordinates":[-110.965489,32.224849],"type":"Point"}
+  "bbox": [
+    -110.965489,
+    32.224849,
+    -110.965489,
+    32.224849
+],
+  "geometry": {"coordinates":[-110.96548900000001,32.224849],"type":"Point"}
 }

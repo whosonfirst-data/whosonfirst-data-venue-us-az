@@ -2,13 +2,14 @@
   "id": 320833289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019912,33.573906,-112.019912,33.573906",
     "geom:latitude":33.573906,
     "geom:longitude":-112.019912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 E Northern Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320833289,
-    "wof:lastmodified":1449011729,
+    "wof:lastmodified":1466330275,
     "wof:name":"Houston Design Group",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "residential"
     ]
 },
-  "bbox": [-112.019912,33.573906,-112.019912,33.573906],
-  "geometry": {"coordinates":[-112.019912,33.573906],"type":"Point"}
+  "bbox": [
+    -112.019912,
+    33.573906,
+    -112.019912,
+    33.573906
+],
+  "geometry": {"coordinates":[-112.01991200000001,33.573906],"type":"Point"}
 }

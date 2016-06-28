@@ -2,13 +2,14 @@
   "id": 336618667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203201,33.50333,-112.203201,33.50333",
     "geom:latitude":33.50333,
     "geom:longitude":-112.203201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 N 67th Ave Unit 1226",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336618667,
-    "wof:lastmodified":1448997605,
+    "wof:lastmodified":1466326304,
     "wof:name":"Boston World Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-112.203201,33.50333,-112.203201,33.50333],
-  "geometry": {"coordinates":[-112.203201,33.50333],"type":"Point"}
+  "bbox": [
+    -112.203201,
+    33.50333,
+    -112.203201,
+    33.50333
+],
+  "geometry": {"coordinates":[-112.20320100000001,33.50333],"type":"Point"}
 }

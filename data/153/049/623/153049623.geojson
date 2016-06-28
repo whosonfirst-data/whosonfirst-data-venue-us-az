@@ -2,13 +2,14 @@
   "id": 153049623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982997,33.748097,-111.982997,33.748097",
     "geom:latitude":33.748097,
     "geom:longitude":-111.982997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4536 E Mazatzal Dr",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":153049623,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1466327142,
     "wof:name":"Preferred Coatings Inc",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.982997,33.748097,-111.982997,33.748097],
+  "bbox": [
+    -111.982997,
+    33.748097,
+    -111.982997,
+    33.748097
+],
   "geometry": {"coordinates":[-111.982997,33.748097],"type":"Point"}
 }

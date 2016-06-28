@@ -2,13 +2,14 @@
   "id": 153050813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.389537,33.443556,-112.389537,33.443556",
     "geom:latitude":33.443556,
     "geom:longitude":-112.389537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15363 W Jackson St",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153050813,
-    "wof:lastmodified":1449040626,
+    "wof:lastmodified":1466327227,
     "wof:name":"Standard Pacific Homes",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.389537,33.443556,-112.389537,33.443556],
+  "bbox": [
+    -112.389537,
+    33.443556,
+    -112.389537,
+    33.443556
+],
   "geometry": {"coordinates":[-112.389537,33.443556],"type":"Point"}
 }

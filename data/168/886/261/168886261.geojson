@@ -2,13 +2,14 @@
   "id": 168886261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.977366,32.385412,-110.977366,32.385412",
     "geom:latitude":32.385412,
     "geom:longitude":-110.977366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 W Atua Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.gr8scottdesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168886261,
-    "wof:lastmodified":1449028195,
+    "wof:lastmodified":1466328705,
     "wof:name":"Great Scott Design & Illstrtn",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.977366,32.385412,-110.977366,32.385412],
+  "bbox": [
+    -110.977366,
+    32.385412,
+    -110.977366,
+    32.385412
+],
   "geometry": {"coordinates":[-110.977366,32.385412],"type":"Point"}
 }

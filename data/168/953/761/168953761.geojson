@@ -2,13 +2,14 @@
   "id": 168953761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.876558,32.23157,-110.876558,32.23157",
     "geom:latitude":32.23157,
     "geom:longitude":-110.876558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5454 E 3rd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168953761,
-    "wof:lastmodified":1449028298,
+    "wof:lastmodified":1466331030,
     "wof:name":"Corona Painting",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.876558,32.23157,-110.876558,32.23157],
+  "bbox": [
+    -110.876558,
+    32.23157,
+    -110.876558,
+    32.23157
+],
   "geometry": {"coordinates":[-110.876558,32.23157],"type":"Point"}
 }

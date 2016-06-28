@@ -2,13 +2,14 @@
   "id": 168929771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.963701,32.355555,-110.963701,32.355555",
     "geom:latitude":32.355555,
     "geom:longitude":-110.963701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 E Rancho Catalina Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168929771,
-    "wof:lastmodified":1449028060,
+    "wof:lastmodified":1466330578,
     "wof:name":"Century Research Corp",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.963701,32.355555,-110.963701,32.355555],
+  "bbox": [
+    -110.963701,
+    32.355555,
+    -110.963701,
+    32.355555
+],
   "geometry": {"coordinates":[-110.963701,32.355555],"type":"Point"}
 }

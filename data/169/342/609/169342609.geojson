@@ -2,13 +2,14 @@
   "id": 169342609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.714897,33.263904,-111.714897,33.263904",
     "geom:latitude":33.263904,
     "geom:longitude":-111.714897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3442 E Thornton Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169342609,
-    "wof:lastmodified":1449035724,
+    "wof:lastmodified":1466333424,
     "wof:name":"Carolina Yanez",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.714897,33.263904,-111.714897,33.263904],
-  "geometry": {"coordinates":[-111.714897,33.263904],"type":"Point"}
+  "bbox": [
+    -111.714897,
+    33.263904,
+    -111.714897,
+    33.263904
+],
+  "geometry": {"coordinates":[-111.71489699999999,33.263904],"type":"Point"}
 }

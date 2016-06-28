@@ -2,13 +2,14 @@
   "id": 336681345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177929,33.439893,-112.177929,33.439893",
     "geom:latitude":33.439893,
     "geom:longitude":-112.177929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5502 W Hadley St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336681345,
-    "wof:lastmodified":1448997600,
+    "wof:lastmodified":1466327715,
     "wof:name":"R & B Wholesale Distributors, Inc.",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.177929,33.439893,-112.177929,33.439893],
-  "geometry": {"coordinates":[-112.177929,33.439893],"type":"Point"}
+  "bbox": [
+    -112.177929,
+    33.439893,
+    -112.177929,
+    33.439893
+],
+  "geometry": {"coordinates":[-112.17792900000001,33.439893],"type":"Point"}
 }

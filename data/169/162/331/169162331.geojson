@@ -2,13 +2,14 @@
   "id": 169162331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.663038,35.163217,-111.663038,35.163217",
     "geom:latitude":35.163217,
     "geom:longitude":-111.663038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Lake Mary Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169162331,
-    "wof:lastmodified":1449035481,
+    "wof:lastmodified":1466331862,
     "wof:name":"Land Arizona Department of",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.663038,35.163217,-111.663038,35.163217],
+  "bbox": [
+    -111.663038,
+    35.163217,
+    -111.663038,
+    35.163217
+],
   "geometry": {"coordinates":[-111.663038,35.163217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.2785,31.495896,-110.2785,31.495896",
     "geom:latitude":31.495896,
     "geom:longitude":-110.2785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1971 E Suma Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152935573,
-    "wof:lastmodified":1449048090,
+    "wof:lastmodified":1466326369,
     "wof:name":"T & B Framing L L C",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.2785,31.495896,-110.2785,31.495896],
-  "geometry": {"coordinates":[-110.2785,31.495896],"type":"Point"}
+  "bbox": [
+    -110.2785,
+    31.495896,
+    -110.2785,
+    31.495896
+],
+  "geometry": {"coordinates":[-110.27849999999999,31.495896],"type":"Point"}
 }

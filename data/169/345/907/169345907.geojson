@@ -2,13 +2,14 @@
   "id": 169345907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134559,33.66925,-112.134559,33.66925",
     "geom:latitude":33.66925,
     "geom:longitude":-112.134559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20215 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169345907,
-    "wof:lastmodified":1449035701,
+    "wof:lastmodified":1466333501,
     "wof:name":"Kiewit Western Co",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134559,33.66925,-112.134559,33.66925],
+  "bbox": [
+    -112.134559,
+    33.66925,
+    -112.134559,
+    33.66925
+],
   "geometry": {"coordinates":[-112.134559,33.66925],"type":"Point"}
 }

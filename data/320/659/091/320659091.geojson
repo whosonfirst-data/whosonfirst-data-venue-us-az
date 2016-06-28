@@ -2,13 +2,14 @@
   "id": 320659091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.101077,33.454916,-112.101077,33.454916",
     "geom:latitude":33.454916,
     "geom:longitude":-112.101077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 W Fillmore St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320659091,
-    "wof:lastmodified":1449011639,
+    "wof:lastmodified":1466327240,
     "wof:name":"Neighborhood Clinic",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.101077,33.454916,-112.101077,33.454916],
+  "bbox": [
+    -112.101077,
+    33.454916,
+    -112.101077,
+    33.454916
+],
   "geometry": {"coordinates":[-112.101077,33.454916],"type":"Point"}
 }

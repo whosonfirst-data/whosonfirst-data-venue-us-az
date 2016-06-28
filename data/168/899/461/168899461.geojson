@@ -2,13 +2,14 @@
   "id": 168899461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943705,32.16322,-110.943705,32.16322",
     "geom:latitude":32.16322,
     "geom:longitude":-110.943705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 E Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168899461,
-    "wof:lastmodified":1449028551,
+    "wof:lastmodified":1466329397,
     "wof:name":"Ninety Nine Cent & General Str",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943705,32.16322,-110.943705,32.16322],
-  "geometry": {"coordinates":[-110.943705,32.16322],"type":"Point"}
+  "bbox": [
+    -110.943705,
+    32.16322,
+    -110.943705,
+    32.16322
+],
+  "geometry": {"coordinates":[-110.94370499999999,32.16322],"type":"Point"}
 }

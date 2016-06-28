@@ -2,13 +2,14 @@
   "id": 320790201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.077042,33.56765,-112.077042,33.56765",
     "geom:latitude":33.56765,
     "geom:longitude":-112.077042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9001 N 2nd Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320790201,
-    "wof:lastmodified":1449014097,
+    "wof:lastmodified":1466329549,
     "wof:name":"Ammexxwood Enterprise",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-112.077042,33.56765,-112.077042,33.56765],
-  "geometry": {"coordinates":[-112.077042,33.56765],"type":"Point"}
+  "bbox": [
+    -112.077042,
+    33.56765,
+    -112.077042,
+    33.56765
+],
+  "geometry": {"coordinates":[-112.07704200000001,33.56765],"type":"Point"}
 }

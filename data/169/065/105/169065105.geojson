@@ -2,13 +2,14 @@
   "id": 169065105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.950552,33.396404,-111.950552,33.396404",
     "geom:latitude":33.396404,
     "geom:longitude":-111.950552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 W Fairmont Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.distinctivesecuredoor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881407,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169065105,
-    "wof:lastmodified":1449035925,
+    "wof:lastmodified":1466329323,
     "wof:name":"Distinctive Secure Door Inc",
     "wof:parent_id":85881407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.950552,33.396404,-111.950552,33.396404],
+  "bbox": [
+    -111.950552,
+    33.396404,
+    -111.950552,
+    33.396404
+],
   "geometry": {"coordinates":[-111.950552,33.396404],"type":"Point"}
 }

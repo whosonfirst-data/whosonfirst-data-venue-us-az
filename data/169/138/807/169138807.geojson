@@ -2,13 +2,14 @@
   "id": 169138807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.84133,33.410596,-110.84133,33.410596",
     "geom:latitude":33.410596,
     "geom:longitude":-110.84133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4335 Broadway St",
     "sg:city":"Claypool",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169138807,
-    "wof:lastmodified":1449033636,
+    "wof:lastmodified":1466331630,
     "wof:name":"Cerenity Ceramics",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.84133,33.410596,-110.84133,33.410596],
+  "bbox": [
+    -110.84133,
+    33.410596,
+    -110.84133,
+    33.410596
+],
   "geometry": {"coordinates":[-110.84133,33.410596],"type":"Point"}
 }

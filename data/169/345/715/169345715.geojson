@@ -2,13 +2,14 @@
   "id": 169345715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.293263,33.672925,-112.293263,33.672925",
     "geom:latitude":33.672925,
     "geom:longitude":-112.293263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20713 N 108th Ln",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169345715,
-    "wof:lastmodified":1449035700,
+    "wof:lastmodified":1466333481,
     "wof:name":"Quality Golf Carts",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.293263,33.672925,-112.293263,33.672925],
+  "bbox": [
+    -112.293263,
+    33.672925,
+    -112.293263,
+    33.672925
+],
   "geometry": {"coordinates":[-112.293263,33.672925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153078027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.930284,31.347377,-110.930284,31.347377",
     "geom:latitude":31.347377,
     "geom:longitude":-110.930284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153078027,
-    "wof:lastmodified":1449040754,
+    "wof:lastmodified":1466328661,
     "wof:name":"Budget Motel",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.930284,31.347377,-110.930284,31.347377],
+  "bbox": [
+    -110.930284,
+    31.347377,
+    -110.930284,
+    31.347377
+],
   "geometry": {"coordinates":[-110.930284,31.347377],"type":"Point"}
 }

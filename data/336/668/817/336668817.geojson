@@ -2,13 +2,14 @@
   "id": 336668817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.107466,33.395426,-112.107466,33.395426",
     "geom:latitude":33.395426,
     "geom:longitude":-112.107466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2253 W Sunland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":336668817,
-    "wof:lastmodified":1448997683,
+    "wof:lastmodified":1466327397,
     "wof:name":"Smith And Company",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.107466,33.395426,-112.107466,33.395426],
+  "bbox": [
+    -112.107466,
+    33.395426,
+    -112.107466,
+    33.395426
+],
   "geometry": {"coordinates":[-112.107466,33.395426],"type":"Point"}
 }

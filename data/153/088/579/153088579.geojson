@@ -2,13 +2,14 @@
   "id": 153088579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.759677,33.228606,-111.759677,33.228606",
     "geom:latitude":33.228606,
     "geom:longitude":-111.759677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23819 S 150th St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876647,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153088579,
-    "wof:lastmodified":1449040704,
+    "wof:lastmodified":1466329232,
     "wof:name":"Dairy Vetenary Services",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.759677,33.228606,-111.759677,33.228606],
+  "bbox": [
+    -111.759677,
+    33.228606,
+    -111.759677,
+    33.228606
+],
   "geometry": {"coordinates":[-111.759677,33.228606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336793691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.770147,33.379075,-111.770147,33.379075",
     "geom:latitude":33.379075,
     "geom:longitude":-111.770147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 E Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336793691,
-    "wof:lastmodified":1448997536,
+    "wof:lastmodified":1466329329,
     "wof:name":"Cigar Warehouse",
     "wof:parent_id":85851615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-111.770147,33.379075,-111.770147,33.379075],
-  "geometry": {"coordinates":[-111.770147,33.379075],"type":"Point"}
+  "bbox": [
+    -111.770147,
+    33.379075,
+    -111.770147,
+    33.379075
+],
+  "geometry": {"coordinates":[-111.77014699999999,33.379075],"type":"Point"}
 }

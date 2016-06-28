@@ -2,13 +2,14 @@
   "id": 169081411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995041,32.278878,-110.995041,32.278878",
     "geom:latitude":32.278878,
     "geom:longitude":-110.995041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169081411,
-    "wof:lastmodified":1449033711,
+    "wof:lastmodified":1466330093,
     "wof:name":"Thrift City & Outlet",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995041,32.278878,-110.995041,32.278878],
+  "bbox": [
+    -110.995041,
+    32.278878,
+    -110.995041,
+    32.278878
+],
   "geometry": {"coordinates":[-110.995041,32.278878],"type":"Point"}
 }

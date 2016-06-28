@@ -2,13 +2,14 @@
   "id": 152960019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.289136,34.487587,-114.289136,34.487587",
     "geom:latitude":34.487587,
     "geom:longitude":-114.289136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 Horseshoe Canyon Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152960019,
-    "wof:lastmodified":1449047620,
+    "wof:lastmodified":1466328242,
     "wof:name":"That Computer Guy",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.289136,34.487587,-114.289136,34.487587],
+  "bbox": [
+    -114.289136,
+    34.487587,
+    -114.289136,
+    34.487587
+],
   "geometry": {"coordinates":[-114.289136,34.487587],"type":"Point"}
 }

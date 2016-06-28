@@ -2,13 +2,14 @@
   "id": 169267911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109051,34.749172,-112.109051,34.749172",
     "geom:latitude":34.749172,
     "geom:longitude":-112.109051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Hampshire Ave",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169267911,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466332690,
     "wof:name":"Gallery Margo",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.109051,34.749172,-112.109051,34.749172],
-  "geometry": {"coordinates":[-112.109051,34.749172],"type":"Point"}
+  "bbox": [
+    -112.109051,
+    34.749172,
+    -112.109051,
+    34.749172
+],
+  "geometry": {"coordinates":[-112.10905099999999,34.749172],"type":"Point"}
 }

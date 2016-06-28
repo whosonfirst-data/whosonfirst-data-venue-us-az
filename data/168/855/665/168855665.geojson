@@ -2,13 +2,14 @@
   "id": 168855665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.178787,33.538397,-112.178787,33.538397",
     "geom:latitude":33.538397,
     "geom:longitude":-112.178787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6826 N 55th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.glendaleprinting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168855665,
-    "wof:lastmodified":1449028354,
+    "wof:lastmodified":1466326200,
     "wof:name":"Glendale Printing",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.178787,33.538397,-112.178787,33.538397],
+  "bbox": [
+    -112.178787,
+    33.538397,
+    -112.178787,
+    33.538397
+],
   "geometry": {"coordinates":[-112.178787,33.538397],"type":"Point"}
 }

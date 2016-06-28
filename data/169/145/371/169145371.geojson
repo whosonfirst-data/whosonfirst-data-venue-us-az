@@ -2,13 +2,14 @@
   "id": 169145371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.34791,33.616771,-112.34791,33.616771",
     "geom:latitude":33.616771,
     "geom:longitude":-112.34791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13367 W Lisbon Ln",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169145371,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466331703,
     "wof:name":"Rick's Lock Svc",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.34791,33.616771,-112.34791,33.616771],
+  "bbox": [
+    -112.34791,
+    33.616771,
+    -112.34791,
+    33.616771
+],
   "geometry": {"coordinates":[-112.34791,33.616771],"type":"Point"}
 }

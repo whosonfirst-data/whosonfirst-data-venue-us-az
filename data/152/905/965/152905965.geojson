@@ -2,13 +2,14 @@
   "id": 152905965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978932,32.163139,-110.978932,32.163139",
     "geom:latitude":32.163139,
     "geom:longitude":-110.978932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 W Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152905965,
-    "wof:lastmodified":1449046114,
+    "wof:lastmodified":1466325982,
     "wof:name":"Eagle Appliance",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978932,32.163139,-110.978932,32.163139],
+  "bbox": [
+    -110.978932,
+    32.163139,
+    -110.978932,
+    32.163139
+],
   "geometry": {"coordinates":[-110.978932,32.163139],"type":"Point"}
 }

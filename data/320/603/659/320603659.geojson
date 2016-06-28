@@ -2,13 +2,14 @@
   "id": 320603659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081454,33.427692,-112.081454,33.427692",
     "geom:latitude":33.427692,
     "geom:longitude":-112.081454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2142 S 6th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320603659,
-    "wof:lastmodified":1449014395,
+    "wof:lastmodified":1466325841,
     "wof:name":"Pete's Custom Metal Finishing",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "finisher"
     ]
 },
-  "bbox": [-112.081454,33.427692,-112.081454,33.427692],
-  "geometry": {"coordinates":[-112.081454,33.427692],"type":"Point"}
+  "bbox": [
+    -112.081454,
+    33.427692,
+    -112.081454,
+    33.427692
+],
+  "geometry": {"coordinates":[-112.08145399999999,33.427692],"type":"Point"}
 }

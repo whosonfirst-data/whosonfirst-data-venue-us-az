@@ -2,13 +2,14 @@
   "id": 168924583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.189782,33.656033,-112.189782,33.656033",
     "geom:latitude":33.656033,
     "geom:longitude":-112.189782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6038 W Morrow Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168924583,
-    "wof:lastmodified":1449027977,
+    "wof:lastmodified":1466330319,
     "wof:name":"Hynes Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.189782,33.656033,-112.189782,33.656033],
-  "geometry": {"coordinates":[-112.189782,33.656033],"type":"Point"}
+  "bbox": [
+    -112.189782,
+    33.656033,
+    -112.189782,
+    33.656033
+],
+  "geometry": {"coordinates":[-112.18978199999999,33.656033],"type":"Point"}
 }

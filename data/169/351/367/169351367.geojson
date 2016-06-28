@@ -2,13 +2,14 @@
   "id": 169351367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.900067,33.521807,-111.900067,33.521807",
     "geom:latitude":33.521807,
     "geom:longitude":-111.900067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5877 N Granite Reef Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858851,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85858851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169351367,
-    "wof:lastmodified":1449035469,
+    "wof:lastmodified":1466333491,
     "wof:name":"Park Scottsdale Apartments",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.900067,33.521807,-111.900067,33.521807],
-  "geometry": {"coordinates":[-111.900067,33.521807],"type":"Point"}
+  "bbox": [
+    -111.900067,
+    33.521807,
+    -111.900067,
+    33.521807
+],
+  "geometry": {"coordinates":[-111.90006700000001,33.521807],"type":"Point"}
 }

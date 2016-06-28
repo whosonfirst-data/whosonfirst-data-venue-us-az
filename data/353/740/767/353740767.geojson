@@ -2,13 +2,14 @@
   "id": 353740767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.252948,33.698002,-112.252948,33.698002",
     "geom:latitude":33.698002,
     "geom:longitude":-112.252948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8951 W Camino de Oro",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353740767,
-    "wof:lastmodified":1449019418,
+    "wof:lastmodified":1466330056,
     "wof:name":"KC Towing",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "service-automotive"
     ]
 },
-  "bbox": [-112.252948,33.698002,-112.252948,33.698002],
+  "bbox": [
+    -112.252948,
+    33.698002,
+    -112.252948,
+    33.698002
+],
   "geometry": {"coordinates":[-112.252948,33.698002],"type":"Point"}
 }

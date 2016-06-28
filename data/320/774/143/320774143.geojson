@@ -2,13 +2,14 @@
   "id": 320774143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047527,33.543268,-112.047527,33.543268",
     "geom:latitude":33.543268,
     "geom:longitude":-112.047527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 N 16th St Ste 410",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320774143,
-    "wof:lastmodified":1449012721,
+    "wof:lastmodified":1466329307,
     "wof:name":"The Ryerson Company",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.047527,33.543268,-112.047527,33.543268],
+  "bbox": [
+    -112.047527,
+    33.543268,
+    -112.047527,
+    33.543268
+],
   "geometry": {"coordinates":[-112.047527,33.543268],"type":"Point"}
 }

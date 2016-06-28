@@ -2,13 +2,14 @@
   "id": 353493653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916711,33.363762,-111.916711,33.363762",
     "geom:latitude":33.363762,
     "geom:longitude":-111.916711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 E Guadalupe Rd Ste 1",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353493653,
-    "wof:lastmodified":1449019063,
+    "wof:lastmodified":1466327057,
     "wof:name":"Gleave & Company, Inc",
     "wof:parent_id":85881425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-111.916711,33.363762,-111.916711,33.363762],
-  "geometry": {"coordinates":[-111.916711,33.363762],"type":"Point"}
+  "bbox": [
+    -111.916711,
+    33.363762,
+    -111.916711,
+    33.363762
+],
+  "geometry": {"coordinates":[-111.91671100000001,33.363762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168986505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.192253,33.518387,-112.192253,33.518387",
     "geom:latitude":33.518387,
     "geom:longitude":-112.192253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 N 61st Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168986505,
-    "wof:lastmodified":1449028428,
+    "wof:lastmodified":1466331548,
     "wof:name":"Richards Residential Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.192253,33.518387,-112.192253,33.518387],
-  "geometry": {"coordinates":[-112.192253,33.518387],"type":"Point"}
+  "bbox": [
+    -112.192253,
+    33.518387,
+    -112.192253,
+    33.518387
+],
+  "geometry": {"coordinates":[-112.19225299999999,33.518387],"type":"Point"}
 }

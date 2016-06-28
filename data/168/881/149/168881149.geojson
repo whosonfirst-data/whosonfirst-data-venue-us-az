@@ -2,13 +2,14 @@
   "id": 168881149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.933098,32.161767,-110.933098,32.161767",
     "geom:latitude":32.161767,
     "geom:longitude":-110.933098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168881149,
-    "wof:lastmodified":1449028223,
+    "wof:lastmodified":1466328321,
     "wof:name":"E C Custom Cabinets",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.933098,32.161767,-110.933098,32.161767],
+  "bbox": [
+    -110.933098,
+    32.161767,
+    -110.933098,
+    32.161767
+],
   "geometry": {"coordinates":[-110.933098,32.161767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169359383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.052991,33.644411,-112.052991,33.644411",
     "geom:latitude":33.644411,
     "geom:longitude":-112.052991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17441 N 14th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823079,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169359383,
-    "wof:lastmodified":1449032632,
+    "wof:lastmodified":1466333617,
     "wof:name":"P C Guru Inc",
     "wof:parent_id":85823079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.052991,33.644411,-112.052991,33.644411],
-  "geometry": {"coordinates":[-112.052991,33.644411],"type":"Point"}
+  "bbox": [
+    -112.052991,
+    33.644411,
+    -112.052991,
+    33.644411
+],
+  "geometry": {"coordinates":[-112.05299100000001,33.644411],"type":"Point"}
 }

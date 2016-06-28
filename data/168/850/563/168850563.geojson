@@ -2,13 +2,14 @@
   "id": 168850563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.83884,33.204863,-111.83884,33.204863",
     "geom:latitude":33.204863,
     "geom:longitude":-111.83884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11235 E Starflower Ct",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876663,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168850563,
-    "wof:lastmodified":1449028217,
+    "wof:lastmodified":1466325748,
     "wof:name":"J & K Tarwater LLC",
     "wof:parent_id":85876663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.83884,33.204863,-111.83884,33.204863],
+  "bbox": [
+    -111.83884,
+    33.204863,
+    -111.83884,
+    33.204863
+],
   "geometry": {"coordinates":[-111.83884,33.204863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169262051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.038823,34.252332,-110.038823,34.252332",
     "geom:latitude":34.252332,
     "geom:longitude":-110.038823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169262051,
-    "wof:lastmodified":1449034731,
+    "wof:lastmodified":1466332615,
     "wof:name":"First United Realty Inc",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.038823,34.252332,-110.038823,34.252332],
-  "geometry": {"coordinates":[-110.038823,34.252332],"type":"Point"}
+  "bbox": [
+    -110.038823,
+    34.252332,
+    -110.038823,
+    34.252332
+],
+  "geometry": {"coordinates":[-110.03882299999999,34.252332],"type":"Point"}
 }

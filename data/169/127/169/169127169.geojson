@@ -2,13 +2,14 @@
   "id": 169127169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.207271,33.547645,-112.207271,33.547645",
     "geom:latitude":33.547645,
     "geom:longitude":-112.207271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6713 W Belmont Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169127169,
-    "wof:lastmodified":1449035691,
+    "wof:lastmodified":1466331626,
     "wof:name":"Aztec Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.207271,33.547645,-112.207271,33.547645],
-  "geometry": {"coordinates":[-112.207271,33.547645],"type":"Point"}
+  "bbox": [
+    -112.207271,
+    33.547645,
+    -112.207271,
+    33.547645
+],
+  "geometry": {"coordinates":[-112.20727100000001,33.547645],"type":"Point"}
 }

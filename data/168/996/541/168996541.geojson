@@ -2,13 +2,14 @@
   "id": 168996541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.781742,32.282349,-110.781742,32.282349",
     "geom:latitude":32.282349,
     "geom:longitude":-110.781742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9771 E Vis Montanas",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168996541,
-    "wof:lastmodified":1449027973,
+    "wof:lastmodified":1466331677,
     "wof:name":"Correctnal Mntal Hlth Spclists",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.781742,32.282349,-110.781742,32.282349],
-  "geometry": {"coordinates":[-110.781742,32.282349],"type":"Point"}
+  "bbox": [
+    -110.781742,
+    32.282349,
+    -110.781742,
+    32.282349
+],
+  "geometry": {"coordinates":[-110.78174199999999,32.282349],"type":"Point"}
 }

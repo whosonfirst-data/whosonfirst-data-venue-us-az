@@ -2,13 +2,14 @@
   "id": 169080845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.237483,33.548614,-112.237483,33.548614",
     "geom:latitude":33.548614,
     "geom:longitude":-112.237483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8269 W Cll de Montalvo",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169080845,
-    "wof:lastmodified":1449035873,
+    "wof:lastmodified":1466330068,
     "wof:name":"Casa De Ensueno Hoa",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.237483,33.548614,-112.237483,33.548614],
+  "bbox": [
+    -112.237483,
+    33.548614,
+    -112.237483,
+    33.548614
+],
   "geometry": {"coordinates":[-112.237483,33.548614],"type":"Point"}
 }

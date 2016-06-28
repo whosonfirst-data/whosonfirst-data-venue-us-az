@@ -2,13 +2,14 @@
   "id": 353825933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.908394,32.236267,-110.908394,32.236267",
     "geom:latitude":32.236267,
     "geom:longitude":-110.908394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3959 E Speedway Blvd Suite 311",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353825933,
-    "wof:lastmodified":1449018337,
+    "wof:lastmodified":1466330457,
     "wof:name":"Shipping Depot",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shipping"
     ]
 },
-  "bbox": [-110.908394,32.236267,-110.908394,32.236267],
+  "bbox": [
+    -110.908394,
+    32.236267,
+    -110.908394,
+    32.236267
+],
   "geometry": {"coordinates":[-110.908394,32.236267],"type":"Point"}
 }

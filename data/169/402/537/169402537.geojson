@@ -2,13 +2,14 @@
   "id": 169402537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.077452,34.506245,-110.077452,34.506245",
     "geom:latitude":34.506245,
     "geom:longitude":-110.077452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 1st St E",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169402537,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1466334034,
     "wof:name":"Snowflake Cattle Company",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.077452,34.506245,-110.077452,34.506245],
-  "geometry": {"coordinates":[-110.077452,34.506245],"type":"Point"}
+  "bbox": [
+    -110.077452,
+    34.506245,
+    -110.077452,
+    34.506245
+],
+  "geometry": {"coordinates":[-110.07745199999999,34.506245],"type":"Point"}
 }

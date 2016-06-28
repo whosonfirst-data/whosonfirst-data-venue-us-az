@@ -2,13 +2,14 @@
   "id": 169106701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.366349,33.656311,-112.366349,33.656311",
     "geom:latitude":33.656311,
     "geom:longitude":-112.366349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18818 Grandview Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169106701,
-    "wof:lastmodified":1449032636,
+    "wof:lastmodified":1466330984,
     "wof:name":"A-440 Piano Tuning",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.366349,33.656311,-112.366349,33.656311],
+  "bbox": [
+    -112.366349,
+    33.656311,
+    -112.366349,
+    33.656311
+],
   "geometry": {"coordinates":[-112.366349,33.656311],"type":"Point"}
 }

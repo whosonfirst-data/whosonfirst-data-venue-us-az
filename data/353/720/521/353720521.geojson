@@ -2,13 +2,14 @@
   "id": 353720521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.347604,33.640411,-112.347604,33.640411",
     "geom:latitude":33.640411,
     "geom:longitude":-112.347604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13415 W Westgate Dr Ste 101",
     "sg:city":"Surprise",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353720521,
-    "wof:lastmodified":1449018865,
+    "wof:lastmodified":1466329880,
     "wof:name":"Carescape Inc",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.347604,33.640411,-112.347604,33.640411],
+  "bbox": [
+    -112.347604,
+    33.640411,
+    -112.347604,
+    33.640411
+],
   "geometry": {"coordinates":[-112.347604,33.640411],"type":"Point"}
 }

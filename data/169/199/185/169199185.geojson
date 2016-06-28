@@ -2,13 +2,14 @@
   "id": 169199185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991831,33.307433,-111.991831,33.307433",
     "geom:latitude":33.307433,
     "geom:longitude":-111.991831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4241 E Raven Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169199185,
-    "wof:lastmodified":1449033011,
+    "wof:lastmodified":1466332119,
     "wof:name":"Eba Foothills Catering",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.991831,33.307433,-111.991831,33.307433],
+  "bbox": [
+    -111.991831,
+    33.307433,
+    -111.991831,
+    33.307433
+],
   "geometry": {"coordinates":[-111.991831,33.307433],"type":"Point"}
 }

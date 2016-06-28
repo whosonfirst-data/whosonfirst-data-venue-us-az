@@ -2,13 +2,14 @@
   "id": 169274311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.198439,33.641569,-112.198439,33.641569",
     "geom:latitude":33.641569,
     "geom:longitude":-112.198439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17339 N 64th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169274311,
-    "wof:lastmodified":1449033084,
+    "wof:lastmodified":1466332735,
     "wof:name":"De Graff Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.198439,33.641569,-112.198439,33.641569],
-  "geometry": {"coordinates":[-112.198439,33.641569],"type":"Point"}
+  "bbox": [
+    -112.198439,
+    33.641569,
+    -112.198439,
+    33.641569
+],
+  "geometry": {"coordinates":[-112.19843899999999,33.641569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168872747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.059467,31.722485,-111.059467,31.722485",
     "geom:latitude":31.722485,
     "geom:longitude":-111.059467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 E Frontage Rd",
     "sg:city":"Amado",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168872747,
-    "wof:lastmodified":1449027844,
+    "wof:lastmodified":1466327697,
     "wof:name":"Amado Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.059467,31.722485,-111.059467,31.722485],
+  "bbox": [
+    -111.059467,
+    31.722485,
+    -111.059467,
+    31.722485
+],
   "geometry": {"coordinates":[-111.059467,31.722485],"type":"Point"}
 }

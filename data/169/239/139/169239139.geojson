@@ -2,13 +2,14 @@
   "id": 169239139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16144,34.547845,-112.16144,34.547845",
     "geom:latitude":34.547845,
     "geom:longitude":-112.16144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17300 E Old Cherry Rd",
     "sg:city":"Dewey",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169239139,
-    "wof:lastmodified":1449032984,
+    "wof:lastmodified":1466332405,
     "wof:name":"Allred Drywall",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16144,34.547845,-112.16144,34.547845],
+  "bbox": [
+    -112.16144,
+    34.547845,
+    -112.16144,
+    34.547845
+],
   "geometry": {"coordinates":[-112.16144,34.547845],"type":"Point"}
 }

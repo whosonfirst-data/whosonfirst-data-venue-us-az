@@ -2,13 +2,14 @@
   "id": 320706183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091164,33.527887,-112.091164,33.527887",
     "geom:latitude":33.527887,
     "geom:longitude":-112.091164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 N 15th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320706183,
-    "wof:lastmodified":1449011512,
+    "wof:lastmodified":1466328188,
     "wof:name":"Palo Verde Golf Course",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-112.091164,33.527887,-112.091164,33.527887],
-  "geometry": {"coordinates":[-112.091164,33.527887],"type":"Point"}
+  "bbox": [
+    -112.091164,
+    33.527887,
+    -112.091164,
+    33.527887
+],
+  "geometry": {"coordinates":[-112.09116400000001,33.527887],"type":"Point"}
 }

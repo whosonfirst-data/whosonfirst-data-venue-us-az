@@ -2,13 +2,14 @@
   "id": 353827049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.962088,32.1996,-110.962088,32.1996",
     "geom:latitude":32.1996,
     "geom:longitude":-110.962088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 E 29th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353827049,
-    "wof:lastmodified":1449019168,
+    "wof:lastmodified":1466330592,
     "wof:name":"J & L Auto Sales",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-110.962088,32.1996,-110.962088,32.1996],
-  "geometry": {"coordinates":[-110.962088,32.1996],"type":"Point"}
+  "bbox": [
+    -110.962088,
+    32.1996,
+    -110.962088,
+    32.1996
+],
+  "geometry": {"coordinates":[-110.96208799999999,32.1996],"type":"Point"}
 }

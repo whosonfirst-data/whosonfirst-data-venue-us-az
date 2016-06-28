@@ -2,13 +2,14 @@
   "id": 153029915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223362,33.585586,-112.223362,33.585586",
     "geom:latitude":33.585586,
     "geom:longitude":-112.223362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7635 W Hope Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153029915,
-    "wof:lastmodified":1449040526,
+    "wof:lastmodified":1466325768,
     "wof:name":"Metro Phoenix Phcc",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223362,33.585586,-112.223362,33.585586],
-  "geometry": {"coordinates":[-112.223362,33.585586],"type":"Point"}
+  "bbox": [
+    -112.223362,
+    33.585586,
+    -112.223362,
+    33.585586
+],
+  "geometry": {"coordinates":[-112.22336199999999,33.585586],"type":"Point"}
 }

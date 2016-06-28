@@ -2,13 +2,14 @@
   "id": 353682523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.283969,33.439229,-112.283969,33.439229",
     "geom:latitude":33.439229,
     "geom:longitude":-112.283969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S 104th Ave",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353682523,
-    "wof:lastmodified":1449018687,
+    "wof:lastmodified":1466329667,
     "wof:name":"Quakers Oats",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beverages-distributors"
     ]
 },
-  "bbox": [-112.283969,33.439229,-112.283969,33.439229],
+  "bbox": [
+    -112.283969,
+    33.439229,
+    -112.283969,
+    33.439229
+],
   "geometry": {"coordinates":[-112.283969,33.439229],"type":"Point"}
 }

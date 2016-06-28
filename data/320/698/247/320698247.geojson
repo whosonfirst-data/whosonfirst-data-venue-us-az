@@ -2,13 +2,14 @@
   "id": 320698247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064891,33.516472,-112.064891,33.516472",
     "geom:latitude":33.516472,
     "geom:longitude":-112.064891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 E Missouri Ave Ste 120",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320698247,
-    "wof:lastmodified":1449014733,
+    "wof:lastmodified":1466328285,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "nurse"
     ]
 },
-  "bbox": [-112.064891,33.516472,-112.064891,33.516472],
+  "bbox": [
+    -112.064891,
+    33.516472,
+    -112.064891,
+    33.516472
+],
   "geometry": {"coordinates":[-112.064891,33.516472],"type":"Point"}
 }

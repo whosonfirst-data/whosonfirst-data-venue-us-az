@@ -2,13 +2,14 @@
   "id": 353586557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.17955,33.607349,-112.17955,33.607349",
     "geom:latitude":33.607349,
     "geom:longitude":-112.17955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 W Eugie Ave Ste 106",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353586557,
-    "wof:lastmodified":1449020512,
+    "wof:lastmodified":1466328811,
     "wof:name":"Palo Verde Hematology-Oncology",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.17955,33.607349,-112.17955,33.607349],
-  "geometry": {"coordinates":[-112.17955,33.607349],"type":"Point"}
+  "bbox": [
+    -112.17955,
+    33.607349,
+    -112.17955,
+    33.607349
+],
+  "geometry": {"coordinates":[-112.17955000000001,33.607349],"type":"Point"}
 }

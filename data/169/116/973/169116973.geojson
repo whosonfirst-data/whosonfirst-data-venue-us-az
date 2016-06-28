@@ -2,13 +2,14 @@
   "id": 169116973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.781889,33.396854,-110.781889,33.396854",
     "geom:latitude":33.396854,
     "geom:longitude":-110.781889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 E Sycamore St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169116973,
-    "wof:lastmodified":1449033173,
+    "wof:lastmodified":1466331330,
     "wof:name":"Doubletree Custom Excvtg LLC",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.781889,33.396854,-110.781889,33.396854],
-  "geometry": {"coordinates":[-110.781889,33.396854],"type":"Point"}
+  "bbox": [
+    -110.781889,
+    33.396854,
+    -110.781889,
+    33.396854
+],
+  "geometry": {"coordinates":[-110.78188900000001,33.396854],"type":"Point"}
 }

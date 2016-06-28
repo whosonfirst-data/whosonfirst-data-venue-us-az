@@ -2,13 +2,14 @@
   "id": 169292375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06492,33.525284,-112.06492,33.525284",
     "geom:latitude":33.525284,
     "geom:longitude":-112.06492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6115 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866821,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85866821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169292375,
-    "wof:lastmodified":1449032952,
+    "wof:lastmodified":1466332927,
     "wof:name":"Saving Face With Susan",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.06492,33.525284,-112.06492,33.525284],
+  "bbox": [
+    -112.06492,
+    33.525284,
+    -112.06492,
+    33.525284
+],
   "geometry": {"coordinates":[-112.06492,33.525284],"type":"Point"}
 }

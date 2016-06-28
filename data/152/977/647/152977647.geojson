@@ -2,13 +2,14 @@
   "id": 152977647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.45527,34.53403,-112.45527,34.53403",
     "geom:latitude":34.53403,
     "geom:longitude":-112.45527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Eastwood Pl",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152977647,
-    "wof:lastmodified":1449049001,
+    "wof:lastmodified":1466329031,
     "wof:name":"Roller Rave",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.45527,34.53403,-112.45527,34.53403],
+  "bbox": [
+    -112.45527,
+    34.53403,
+    -112.45527,
+    34.53403
+],
   "geometry": {"coordinates":[-112.45527,34.53403],"type":"Point"}
 }

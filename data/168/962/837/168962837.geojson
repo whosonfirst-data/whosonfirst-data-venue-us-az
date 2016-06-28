@@ -2,13 +2,14 @@
   "id": 168962837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.952447,33.309821,-111.952447,33.309821",
     "geom:latitude":33.309821,
     "geom:longitude":-111.952447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N McKemy Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168962837,
-    "wof:lastmodified":1449028233,
+    "wof:lastmodified":1466331204,
     "wof:name":"AOP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.952447,33.309821,-111.952447,33.309821],
-  "geometry": {"coordinates":[-111.952447,33.309821],"type":"Point"}
+  "bbox": [
+    -111.952447,
+    33.309821,
+    -111.952447,
+    33.309821
+],
+  "geometry": {"coordinates":[-111.95244700000001,33.309821],"type":"Point"}
 }

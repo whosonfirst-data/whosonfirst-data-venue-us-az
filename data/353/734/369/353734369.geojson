@@ -2,13 +2,14 @@
   "id": 353734369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.227922,33.605998,-112.227922,33.605998",
     "geom:latitude":33.605998,
     "geom:longitude":-112.227922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13290 N 78th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353734369,
-    "wof:lastmodified":1449020487,
+    "wof:lastmodified":1466329891,
     "wof:name":"Duke Coins And Currency",
     "wof:parent_id":85812431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.227922,33.605998,-112.227922,33.605998],
-  "geometry": {"coordinates":[-112.227922,33.605998],"type":"Point"}
+  "bbox": [
+    -112.227922,
+    33.605998,
+    -112.227922,
+    33.605998
+],
+  "geometry": {"coordinates":[-112.22792200000001,33.605998],"type":"Point"}
 }

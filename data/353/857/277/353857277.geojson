@@ -2,13 +2,14 @@
   "id": 353857277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.772728,32.100079,-110.772728,32.100079",
     "geom:latitude":32.100079,
     "geom:longitude":-110.772728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8235 S Houghton Rd Ste 100",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353857277,
-    "wof:lastmodified":1449019897,
+    "wof:lastmodified":1466330858,
     "wof:name":"USPS - United States Post Office - Tucson Rita Ranch Retail",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-110.772728,32.100079,-110.772728,32.100079],
+  "bbox": [
+    -110.772728,
+    32.100079,
+    -110.772728,
+    32.100079
+],
   "geometry": {"coordinates":[-110.772728,32.100079],"type":"Point"}
 }

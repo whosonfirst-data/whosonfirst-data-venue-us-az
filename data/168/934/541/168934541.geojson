@@ -2,13 +2,14 @@
   "id": 168934541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.803115,33.454389,-111.803115,33.454389",
     "geom:latitude":33.454389,
     "geom:longitude":-111.803115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 N Allen",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85830207
+        85633793,
+        85830207,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168934541,
-    "wof:lastmodified":1449027807,
+    "wof:lastmodified":1466330803,
     "wof:name":"Bair Family Properties LLC",
     "wof:parent_id":85830207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.803115,33.454389,-111.803115,33.454389],
-  "geometry": {"coordinates":[-111.803115,33.454389],"type":"Point"}
+  "bbox": [
+    -111.803115,
+    33.454389,
+    -111.803115,
+    33.454389
+],
+  "geometry": {"coordinates":[-111.80311500000001,33.454389],"type":"Point"}
 }

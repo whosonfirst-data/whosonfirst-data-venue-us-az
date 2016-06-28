@@ -2,13 +2,14 @@
   "id": 152956209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622098,32.669602,-114.622098,32.669602",
     "geom:latitude":32.669602,
     "geom:longitude":-114.622098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152956209,
-    "wof:lastmodified":1449045093,
+    "wof:lastmodified":1466327959,
     "wof:name":"Michaels Arts & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622098,32.669602,-114.622098,32.669602],
-  "geometry": {"coordinates":[-114.622098,32.669602],"type":"Point"}
+  "bbox": [
+    -114.622098,
+    32.669602,
+    -114.622098,
+    32.669602
+],
+  "geometry": {"coordinates":[-114.62209799999999,32.669602],"type":"Point"}
 }

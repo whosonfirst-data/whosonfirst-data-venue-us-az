@@ -2,13 +2,14 @@
   "id": 353883505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.191388,35.256405,-112.191388,35.256405",
     "geom:latitude":35.256405,
     "geom:longitude":-112.191388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 N Grand Canyon Blvd",
     "sg:city":"Williams",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353883505,
-    "wof:lastmodified":1449020218,
+    "wof:lastmodified":1466330996,
     "wof:name":"Knights Inn Williams",
     "wof:parent_id":85857825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-112.191388,35.256405,-112.191388,35.256405],
+  "bbox": [
+    -112.191388,
+    35.256405,
+    -112.191388,
+    35.256405
+],
   "geometry": {"coordinates":[-112.191388,35.256405],"type":"Point"}
 }

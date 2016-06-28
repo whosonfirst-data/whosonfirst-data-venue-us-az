@@ -2,13 +2,14 @@
   "id": 353616483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.314003,33.464001,-112.314003,33.464001",
     "geom:latitude":33.464001,
     "geom:longitude":-112.314003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11011 W Buckeye Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353616483,
-    "wof:lastmodified":1449020117,
+    "wof:lastmodified":1466328718,
     "wof:name":"Rio's Bar",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-112.314003,33.464001,-112.314003,33.464001],
+  "bbox": [
+    -112.314003,
+    33.464001,
+    -112.314003,
+    33.464001
+],
   "geometry": {"coordinates":[-112.314003,33.464001],"type":"Point"}
 }

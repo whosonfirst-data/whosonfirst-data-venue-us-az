@@ -2,13 +2,14 @@
   "id": 320623831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.061692,33.465732,-112.061692,33.465732",
     "geom:latitude":33.465732,
     "geom:longitude":-112.061692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 E Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320623831,
-    "wof:lastmodified":1449013886,
+    "wof:lastmodified":1466326363,
     "wof:name":"Womens Health Services Of Banner Health",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.061692,33.465732,-112.061692,33.465732],
-  "geometry": {"coordinates":[-112.061692,33.465732],"type":"Point"}
+  "bbox": [
+    -112.061692,
+    33.465732,
+    -112.061692,
+    33.465732
+],
+  "geometry": {"coordinates":[-112.06169199999999,33.465732],"type":"Point"}
 }

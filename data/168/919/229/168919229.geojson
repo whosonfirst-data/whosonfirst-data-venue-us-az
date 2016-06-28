@@ -2,13 +2,14 @@
   "id": 168919229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131564,33.616809,-112.131564,33.616809",
     "geom:latitude":33.616809,
     "geom:longitude":-112.131564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3426 W Evans Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168919229,
-    "wof:lastmodified":1449028389,
+    "wof:lastmodified":1466330244,
     "wof:name":"T 3 Computing",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.131564,33.616809,-112.131564,33.616809],
+  "bbox": [
+    -112.131564,
+    33.616809,
+    -112.131564,
+    33.616809
+],
   "geometry": {"coordinates":[-112.131564,33.616809],"type":"Point"}
 }

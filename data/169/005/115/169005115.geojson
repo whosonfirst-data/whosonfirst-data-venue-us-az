@@ -2,13 +2,14 @@
   "id": 169005115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.333078,34.61049,-112.333078,34.61049",
     "geom:latitude":34.61049,
     "geom:longitude":-112.333078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4649 N Agua Fria Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169005115,
-    "wof:lastmodified":1449035690,
+    "wof:lastmodified":1466326190,
     "wof:name":"ICN LLC",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.333078,34.61049,-112.333078,34.61049],
+  "bbox": [
+    -112.333078,
+    34.61049,
+    -112.333078,
+    34.61049
+],
   "geometry": {"coordinates":[-112.333078,34.61049],"type":"Point"}
 }

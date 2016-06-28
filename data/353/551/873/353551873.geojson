@@ -2,13 +2,14 @@
   "id": 353551873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183273,33.53133,-112.183273,33.53133",
     "geom:latitude":33.53133,
     "geom:longitude":-112.183273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5745 W Maryland Ave # 39",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353551873,
-    "wof:lastmodified":1449018765,
+    "wof:lastmodified":1466328276,
     "wof:name":"Laguna Properties",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-112.183273,33.53133,-112.183273,33.53133],
+  "bbox": [
+    -112.183273,
+    33.53133,
+    -112.183273,
+    33.53133
+],
   "geometry": {"coordinates":[-112.183273,33.53133],"type":"Point"}
 }

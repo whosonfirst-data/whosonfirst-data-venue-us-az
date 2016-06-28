@@ -2,13 +2,14 @@
   "id": 320846249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104445,33.60667,-112.104445,33.60667",
     "geom:latitude":33.60667,
     "geom:longitude":-112.104445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2143 W Willow Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320846249,
-    "wof:lastmodified":1449014124,
+    "wof:lastmodified":1466330245,
     "wof:name":"Max Electric",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.104445,33.60667,-112.104445,33.60667],
+  "bbox": [
+    -112.104445,
+    33.60667,
+    -112.104445,
+    33.60667
+],
   "geometry": {"coordinates":[-112.104445,33.60667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169400243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948368,33.614305,-111.948368,33.614305",
     "geom:latitude":33.614305,
     "geom:longitude":-111.948368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6112 E Redfield Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851581,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169400243,
-    "wof:lastmodified":1449032988,
+    "wof:lastmodified":1466333947,
     "wof:name":"Macari Alliance",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.948368,33.614305,-111.948368,33.614305],
+  "bbox": [
+    -111.948368,
+    33.614305,
+    -111.948368,
+    33.614305
+],
   "geometry": {"coordinates":[-111.948368,33.614305],"type":"Point"}
 }

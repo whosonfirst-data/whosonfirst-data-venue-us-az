@@ -2,13 +2,14 @@
   "id": 168852945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.314352,34.584955,-112.314352,34.584955",
     "geom:latitude":34.584955,
     "geom:longitude":-112.314352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8650 E State Rte 69",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168852945,
-    "wof:lastmodified":1449028448,
+    "wof:lastmodified":1466325956,
     "wof:name":"Yavapai Hearing Aid Service",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.314352,34.584955,-112.314352,34.584955],
+  "bbox": [
+    -112.314352,
+    34.584955,
+    -112.314352,
+    34.584955
+],
   "geometry": {"coordinates":[-112.314352,34.584955],"type":"Point"}
 }

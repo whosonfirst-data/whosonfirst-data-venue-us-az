@@ -2,13 +2,14 @@
   "id": 337636279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976358,33.422422,-111.976358,33.422422",
     "geom:latitude":33.422422,
     "geom:longitude":-111.976358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S 48th St Ste 104",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337636279,
-    "wof:lastmodified":1449027247,
+    "wof:lastmodified":1466327426,
     "wof:name":"Desert Archaeology Inc",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "expedition"
     ]
 },
-  "bbox": [-111.976358,33.422422,-111.976358,33.422422],
+  "bbox": [
+    -111.976358,
+    33.422422,
+    -111.976358,
+    33.422422
+],
   "geometry": {"coordinates":[-111.976358,33.422422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169358741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.886209,32.484724,-110.886209,32.484724",
     "geom:latitude":32.484724,
     "geom:longitude":-110.886209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15655 N Equestrian Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169358741,
-    "wof:lastmodified":1449034059,
+    "wof:lastmodified":1466333660,
     "wof:name":"Axiom Aviation Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.886209,32.484724,-110.886209,32.484724],
-  "geometry": {"coordinates":[-110.886209,32.484724],"type":"Point"}
+  "bbox": [
+    -110.886209,
+    32.484724,
+    -110.886209,
+    32.484724
+],
+  "geometry": {"coordinates":[-110.88620899999999,32.484724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320718685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021551,33.489553,-112.021551,33.489553",
     "geom:latitude":33.489553,
     "geom:longitude":-112.021551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2802 E Sherran Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320718685,
-    "wof:lastmodified":1449012064,
+    "wof:lastmodified":1466328365,
     "wof:name":"Jim Mulvanny",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.021551,33.489553,-112.021551,33.489553],
+  "bbox": [
+    -112.021551,
+    33.489553,
+    -112.021551,
+    33.489553
+],
   "geometry": {"coordinates":[-112.021551,33.489553],"type":"Point"}
 }

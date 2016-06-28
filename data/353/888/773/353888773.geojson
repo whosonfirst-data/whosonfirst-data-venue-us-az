@@ -2,13 +2,14 @@
   "id": 353888773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.45515,34.571343,-112.45515,34.571343",
     "geom:latitude":34.571343,
     "geom:longitude":-112.45515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1738 Birdsong",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353888773,
-    "wof:lastmodified":1449019858,
+    "wof:lastmodified":1466330891,
     "wof:name":"Prescott Synthetic Turf",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.45515,34.571343,-112.45515,34.571343],
+  "bbox": [
+    -112.45515,
+    34.571343,
+    -112.45515,
+    34.571343
+],
   "geometry": {"coordinates":[-112.45515,34.571343],"type":"Point"}
 }

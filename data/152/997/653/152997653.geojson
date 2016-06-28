@@ -2,13 +2,14 @@
   "id": 152997653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.275157,33.619593,-112.275157,33.619593",
     "geom:latitude":33.619593,
     "geom:longitude":-112.275157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14808 N Boswell Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.thepalms.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152997653,
-    "wof:lastmodified":1449048092,
+    "wof:lastmodified":1466329969,
     "wof:name":"Church Of The Palms United Chr",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.275157,33.619593,-112.275157,33.619593],
-  "geometry": {"coordinates":[-112.275157,33.619593],"type":"Point"}
+  "bbox": [
+    -112.275157,
+    33.619593,
+    -112.275157,
+    33.619593
+],
+  "geometry": {"coordinates":[-112.27515699999999,33.619593],"type":"Point"}
 }

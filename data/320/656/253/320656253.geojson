@@ -2,13 +2,14 @@
   "id": 320656253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125908,33.431324,-112.125908,33.431324",
     "geom:latitude":33.431324,
     "geom:longitude":-112.125908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 S 31st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320656253,
-    "wof:lastmodified":1449013703,
+    "wof:lastmodified":1466327168,
     "wof:name":"United Highways Logistics",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-112.125908,33.431324,-112.125908,33.431324],
+  "bbox": [
+    -112.125908,
+    33.431324,
+    -112.125908,
+    33.431324
+],
   "geometry": {"coordinates":[-112.125908,33.431324],"type":"Point"}
 }

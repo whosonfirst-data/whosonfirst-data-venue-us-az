@@ -2,13 +2,14 @@
   "id": 153035003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.007783,32.419971,-111.007783,32.419971",
     "geom:latitude":32.419971,
     "geom:longitude":-111.007783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11795 N Via de la Verbenita",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153035003,
-    "wof:lastmodified":1449040730,
+    "wof:lastmodified":1466326121,
     "wof:name":"Oasis Adoption Svc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.007783,32.419971,-111.007783,32.419971],
+  "bbox": [
+    -111.007783,
+    32.419971,
+    -111.007783,
+    32.419971
+],
   "geometry": {"coordinates":[-111.007783,32.419971],"type":"Point"}
 }

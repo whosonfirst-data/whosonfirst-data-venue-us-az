@@ -2,13 +2,14 @@
   "id": 168977347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.797179,32.180951,-110.797179,32.180951",
     "geom:latitude":32.180951,
     "geom:longitude":-110.797179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9235 E Sellarole St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168977347,
-    "wof:lastmodified":1449028616,
+    "wof:lastmodified":1466331433,
     "wof:name":"Grasslands Reclamation Seeding",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.797179,32.180951,-110.797179,32.180951],
+  "bbox": [
+    -110.797179,
+    32.180951,
+    -110.797179,
+    32.180951
+],
   "geometry": {"coordinates":[-110.797179,32.180951],"type":"Point"}
 }

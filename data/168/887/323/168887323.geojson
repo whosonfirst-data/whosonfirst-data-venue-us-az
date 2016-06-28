@@ -2,13 +2,14 @@
   "id": 168887323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.8992,33.515267,-111.8992,33.515267",
     "geom:latitude":33.515267,
     "geom:longitude":-111.8992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8556 E Bonnie Rose Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858851,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85858851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168887323,
-    "wof:lastmodified":1449028419,
+    "wof:lastmodified":1466328987,
     "wof:name":"Paragon Painting LLC",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.8992,33.515267,-111.8992,33.515267],
-  "geometry": {"coordinates":[-111.8992,33.515267],"type":"Point"}
+  "bbox": [
+    -111.8992,
+    33.515267,
+    -111.8992,
+    33.515267
+],
+  "geometry": {"coordinates":[-111.89919999999999,33.515267],"type":"Point"}
 }

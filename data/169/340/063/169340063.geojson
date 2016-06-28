@@ -2,13 +2,14 @@
   "id": 169340063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.773938,32.224248,-110.773938,32.224248",
     "geom:latitude":32.224248,
     "geom:longitude":-110.773938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10231 E Potomac Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.secondopinionfirst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169340063,
-    "wof:lastmodified":1449035208,
+    "wof:lastmodified":1466333310,
     "wof:name":"Second Opinion Vehicle",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.773938,32.224248,-110.773938,32.224248],
+  "bbox": [
+    -110.773938,
+    32.224248,
+    -110.773938,
+    32.224248
+],
   "geometry": {"coordinates":[-110.773938,32.224248],"type":"Point"}
 }

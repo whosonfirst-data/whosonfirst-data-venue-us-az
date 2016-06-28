@@ -2,13 +2,14 @@
   "id": 353862409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952673,32.110861,-110.952673,32.110861",
     "geom:latitude":32.110861,
     "geom:longitude":-110.952673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 E Aero Park Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353862409,
-    "wof:lastmodified":1449020878,
+    "wof:lastmodified":1466330882,
     "wof:name":"Sun Valley Food Service",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-110.952673,32.110861,-110.952673,32.110861],
+  "bbox": [
+    -110.952673,
+    32.110861,
+    -110.952673,
+    32.110861
+],
   "geometry": {"coordinates":[-110.952673,32.110861],"type":"Point"}
 }

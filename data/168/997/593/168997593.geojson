@@ -2,13 +2,14 @@
   "id": 168997593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966713,32.29907,-110.966713,32.29907",
     "geom:latitude":32.29907,
     "geom:longitude":-110.966713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 E Hillcrest Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sports-trading.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168997593,
-    "wof:lastmodified":1449028445,
+    "wof:lastmodified":1466331754,
     "wof:name":"Ocongi",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966713,32.29907,-110.966713,32.29907],
+  "bbox": [
+    -110.966713,
+    32.29907,
+    -110.966713,
+    32.29907
+],
   "geometry": {"coordinates":[-110.966713,32.29907],"type":"Point"}
 }

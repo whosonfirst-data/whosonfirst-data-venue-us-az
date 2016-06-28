@@ -2,13 +2,14 @@
   "id": 169422311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.335621,31.626159,-110.335621,31.626159",
     "geom:latitude":31.626159,
     "geom:longitude":-110.335621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Huachuca Blvd",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834203,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85834203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169422311,
-    "wof:lastmodified":1449032908,
+    "wof:lastmodified":1466334204,
     "wof:name":"Campstone Transfer Inc",
     "wof:parent_id":85834203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.335621,31.626159,-110.335621,31.626159],
+  "bbox": [
+    -110.335621,
+    31.626159,
+    -110.335621,
+    31.626159
+],
   "geometry": {"coordinates":[-110.335621,31.626159],"type":"Point"}
 }

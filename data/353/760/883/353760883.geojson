@@ -2,13 +2,14 @@
   "id": 353760883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358364,33.473088,-112.358364,33.473088",
     "geom:latitude":33.473088,
     "geom:longitude":-112.358364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 N Litchfield Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353760883,
-    "wof:lastmodified":1449020685,
+    "wof:lastmodified":1466330157,
     "wof:name":"Dibble Engineering",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.358364,33.473088,-112.358364,33.473088],
-  "geometry": {"coordinates":[-112.358364,33.473088],"type":"Point"}
+  "bbox": [
+    -112.358364,
+    33.473088,
+    -112.358364,
+    33.473088
+],
+  "geometry": {"coordinates":[-112.35836399999999,33.473088],"type":"Point"}
 }

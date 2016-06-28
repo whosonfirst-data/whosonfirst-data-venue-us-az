@@ -2,13 +2,14 @@
   "id": 353735575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.237536,33.614119,-112.237536,33.614119",
     "geom:latitude":33.614119,
     "geom:longitude":-112.237536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14155 N 83rd Ave Ste 105",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353735575,
-    "wof:lastmodified":1449020712,
+    "wof:lastmodified":1466330027,
     "wof:name":"Prebil Brian E DO Surgeon",
     "wof:parent_id":85812431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.237536,33.614119,-112.237536,33.614119],
-  "geometry": {"coordinates":[-112.237536,33.614119],"type":"Point"}
+  "bbox": [
+    -112.237536,
+    33.614119,
+    -112.237536,
+    33.614119
+],
+  "geometry": {"coordinates":[-112.23753600000001,33.614119],"type":"Point"}
 }

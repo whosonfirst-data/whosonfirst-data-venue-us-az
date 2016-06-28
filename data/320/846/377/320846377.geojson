@@ -2,13 +2,14 @@
   "id": 320846377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.09964,33.609911,-112.09964,33.609911",
     "geom:latitude":33.609911,
     "geom:longitude":-112.09964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13650 N 19th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320846377,
-    "wof:lastmodified":1449014126,
+    "wof:lastmodified":1466330249,
     "wof:name":"Moon Valley Animal Hospital",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-112.09964,33.609911,-112.09964,33.609911],
-  "geometry": {"coordinates":[-112.09964,33.609911],"type":"Point"}
+  "bbox": [
+    -112.09964,
+    33.609911,
+    -112.09964,
+    33.609911
+],
+  "geometry": {"coordinates":[-112.09963999999999,33.609911],"type":"Point"}
 }

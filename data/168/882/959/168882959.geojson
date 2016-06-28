@@ -2,13 +2,14 @@
   "id": 168882959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120857,33.487656,-112.120857,33.487656",
     "geom:latitude":33.487656,
     "geom:longitude":-112.120857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 N 29th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.clubchameleon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168882959,
-    "wof:lastmodified":1449027912,
+    "wof:lastmodified":1466328455,
     "wof:name":"Club Chameleon",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.120857,33.487656,-112.120857,33.487656],
+  "bbox": [
+    -112.120857,
+    33.487656,
+    -112.120857,
+    33.487656
+],
   "geometry": {"coordinates":[-112.120857,33.487656],"type":"Point"}
 }

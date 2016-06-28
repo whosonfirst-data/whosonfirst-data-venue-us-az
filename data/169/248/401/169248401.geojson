@@ -2,13 +2,14 @@
   "id": 169248401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.330815,33.623595,-112.330815,33.623595",
     "geom:latitude":33.623595,
     "geom:longitude":-112.330815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12465 NW Grand Ave",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169248401,
-    "wof:lastmodified":1449034504,
+    "wof:lastmodified":1466332486,
     "wof:name":"Elias Iron",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.330815,33.623595,-112.330815,33.623595],
+  "bbox": [
+    -112.330815,
+    33.623595,
+    -112.330815,
+    33.623595
+],
   "geometry": {"coordinates":[-112.330815,33.623595],"type":"Point"}
 }

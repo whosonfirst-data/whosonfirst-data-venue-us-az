@@ -2,13 +2,14 @@
   "id": 169127787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028467,33.494956,-112.028467,33.494956",
     "geom:latitude":33.494956,
     "geom:longitude":-112.028467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169127787,
-    "wof:lastmodified":1449035689,
+    "wof:lastmodified":1466331548,
     "wof:name":"David Dziedzic",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.028467,33.494956,-112.028467,33.494956],
-  "geometry": {"coordinates":[-112.028467,33.494956],"type":"Point"}
+  "bbox": [
+    -112.028467,
+    33.494956,
+    -112.028467,
+    33.494956
+],
+  "geometry": {"coordinates":[-112.02846700000001,33.494956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353675731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.26542,33.583025,-112.26542,33.583025",
     "geom:latitude":33.583025,
     "geom:longitude":-112.26542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 N 96th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353675731,
-    "wof:lastmodified":1449019571,
+    "wof:lastmodified":1466329608,
     "wof:name":"Universal Pest Control",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.26542,33.583025,-112.26542,33.583025],
-  "geometry": {"coordinates":[-112.26542,33.583025],"type":"Point"}
+  "bbox": [
+    -112.26542,
+    33.583025,
+    -112.26542,
+    33.583025
+],
+  "geometry": {"coordinates":[-112.26542000000001,33.583025],"type":"Point"}
 }

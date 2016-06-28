@@ -2,13 +2,14 @@
   "id": 169081015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16921,33.607724,-112.16921,33.607724",
     "geom:latitude":33.607724,
     "geom:longitude":-112.16921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 W Eugie Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852223,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85852223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169081015,
-    "wof:lastmodified":1449033711,
+    "wof:lastmodified":1466329966,
     "wof:name":"Formiga Inc",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16921,33.607724,-112.16921,33.607724],
-  "geometry": {"coordinates":[-112.16921,33.607724],"type":"Point"}
+  "bbox": [
+    -112.16921,
+    33.607724,
+    -112.16921,
+    33.607724
+],
+  "geometry": {"coordinates":[-112.16921000000001,33.607724],"type":"Point"}
 }

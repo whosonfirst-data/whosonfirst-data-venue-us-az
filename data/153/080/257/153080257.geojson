@@ -2,13 +2,14 @@
   "id": 153080257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.781388,33.586341,-111.781388,33.586341",
     "geom:latitude":33.586341,
     "geom:longitude":-111.781388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11025 N 138th Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153080257,
-    "wof:lastmodified":1449040810,
+    "wof:lastmodified":1466328826,
     "wof:name":"Retirement Systems",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.781388,33.586341,-111.781388,33.586341],
-  "geometry": {"coordinates":[-111.781388,33.586341],"type":"Point"}
+  "bbox": [
+    -111.781388,
+    33.586341,
+    -111.781388,
+    33.586341
+],
+  "geometry": {"coordinates":[-111.78138800000001,33.586341],"type":"Point"}
 }

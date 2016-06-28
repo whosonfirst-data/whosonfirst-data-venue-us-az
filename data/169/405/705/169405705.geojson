@@ -2,13 +2,14 @@
   "id": 169405705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.788936,33.593983,-111.788936,33.593983",
     "geom:latitude":33.593983,
     "geom:longitude":-111.788936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13562 E Jenan Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169405705,
-    "wof:lastmodified":1449035685,
+    "wof:lastmodified":1466334054,
     "wof:name":"Todd Reynolds",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.788936,33.593983,-111.788936,33.593983],
-  "geometry": {"coordinates":[-111.788936,33.593983],"type":"Point"}
+  "bbox": [
+    -111.788936,
+    33.593983,
+    -111.788936,
+    33.593983
+],
+  "geometry": {"coordinates":[-111.78893600000001,33.593983],"type":"Point"}
 }

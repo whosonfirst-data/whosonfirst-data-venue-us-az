@@ -2,13 +2,14 @@
   "id": 169394245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.283538,34.454177,-114.283538,34.454177",
     "geom:latitude":34.454177,
     "geom:longitude":-114.283538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2991 Baylor Dr",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169394245,
-    "wof:lastmodified":1449033330,
+    "wof:lastmodified":1466333934,
     "wof:name":"Arizona Pool Techs",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.283538,34.454177,-114.283538,34.454177],
-  "geometry": {"coordinates":[-114.283538,34.454177],"type":"Point"}
+  "bbox": [
+    -114.283538,
+    34.454177,
+    -114.283538,
+    34.454177
+],
+  "geometry": {"coordinates":[-114.28353799999999,34.454177],"type":"Point"}
 }

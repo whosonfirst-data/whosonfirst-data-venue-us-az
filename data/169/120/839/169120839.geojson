@@ -2,13 +2,14 @@
   "id": 169120839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.90235,32.319375,-110.90235,32.319375",
     "geom:latitude":32.319375,
     "geom:longitude":-110.90235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6325 N Pinnacle Ridge Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169120839,
-    "wof:lastmodified":1449035490,
+    "wof:lastmodified":1466331351,
     "wof:name":"Aries Realty",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.90235,32.319375,-110.90235,32.319375],
+  "bbox": [
+    -110.90235,
+    32.319375,
+    -110.90235,
+    32.319375
+],
   "geometry": {"coordinates":[-110.90235,32.319375],"type":"Point"}
 }

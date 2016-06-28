@@ -2,13 +2,14 @@
   "id": 353895351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.485036,34.553349,-112.485036,34.553349",
     "geom:latitude":34.553349,
     "geom:longitude":-112.485036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 Fair St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":353895351,
-    "wof:lastmodified":1449019333,
+    "wof:lastmodified":1466331143,
     "wof:name":"Joyful Health",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "alternative"
     ]
 },
-  "bbox": [-112.485036,34.553349,-112.485036,34.553349],
-  "geometry": {"coordinates":[-112.485036,34.553349],"type":"Point"}
+  "bbox": [
+    -112.485036,
+    34.553349,
+    -112.485036,
+    34.553349
+],
+  "geometry": {"coordinates":[-112.48503599999999,34.553349],"type":"Point"}
 }

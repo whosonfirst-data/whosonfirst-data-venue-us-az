@@ -2,13 +2,14 @@
   "id": 320786851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091749,33.538498,-112.091749,33.538498",
     "geom:latitude":33.538498,
     "geom:longitude":-112.091749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 W Glendale Ave Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320786851,
-    "wof:lastmodified":1449011738,
+    "wof:lastmodified":1466329661,
     "wof:name":"Richard I Glazer Dmd Pc",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "oral"
     ]
 },
-  "bbox": [-112.091749,33.538498,-112.091749,33.538498],
-  "geometry": {"coordinates":[-112.091749,33.538498],"type":"Point"}
+  "bbox": [
+    -112.091749,
+    33.538498,
+    -112.091749,
+    33.538498
+],
+  "geometry": {"coordinates":[-112.09174899999999,33.538498],"type":"Point"}
 }

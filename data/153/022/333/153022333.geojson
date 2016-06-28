@@ -2,13 +2,14 @@
   "id": 153022333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.19979,33.510594,-112.19979,33.510594",
     "geom:latitude":33.510594,
     "geom:longitude":-112.19979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 N 65th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153022333,
-    "wof:lastmodified":1449040490,
+    "wof:lastmodified":1466327307,
     "wof:name":"Scottsdale Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.19979,33.510594,-112.19979,33.510594],
-  "geometry": {"coordinates":[-112.19979,33.510594],"type":"Point"}
+  "bbox": [
+    -112.19979,
+    33.510594,
+    -112.19979,
+    33.510594
+],
+  "geometry": {"coordinates":[-112.19978999999999,33.510594],"type":"Point"}
 }

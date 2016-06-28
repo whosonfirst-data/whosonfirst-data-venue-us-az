@@ -2,13 +2,14 @@
   "id": 336728575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.147259,33.610698,-112.147259,33.610698",
     "geom:latitude":33.610698,
     "geom:longitude":-112.147259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 W Thunderbird Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":336728575,
-    "wof:lastmodified":1448997200,
+    "wof:lastmodified":1466328488,
     "wof:name":"Schofield Natural Health Center",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.147259,33.610698,-112.147259,33.610698],
-  "geometry": {"coordinates":[-112.147259,33.610698],"type":"Point"}
+  "bbox": [
+    -112.147259,
+    33.610698,
+    -112.147259,
+    33.610698
+],
+  "geometry": {"coordinates":[-112.14725900000001,33.610698],"type":"Point"}
 }

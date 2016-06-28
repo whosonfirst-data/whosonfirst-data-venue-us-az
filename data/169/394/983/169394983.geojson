@@ -2,13 +2,14 @@
   "id": 169394983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.882408,32.254797,-110.882408,32.254797",
     "geom:latitude":32.254797,
     "geom:longitude":-110.882408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2675 N Wyatt Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.encoresl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169394983,
-    "wof:lastmodified":1449033331,
+    "wof:lastmodified":1466334014,
     "wof:name":"Encore Senior Vlg At Tucson",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.882408,32.254797,-110.882408,32.254797],
+  "bbox": [
+    -110.882408,
+    32.254797,
+    -110.882408,
+    32.254797
+],
   "geometry": {"coordinates":[-110.882408,32.254797],"type":"Point"}
 }

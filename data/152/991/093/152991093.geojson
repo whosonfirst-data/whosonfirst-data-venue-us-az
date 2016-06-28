@@ -2,13 +2,14 @@
   "id": 152991093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.155656,33.661765,-112.155656,33.661765",
     "geom:latitude":33.661765,
     "geom:longitude":-112.155656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4431 W Yorkshire Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851427,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152991093,
-    "wof:lastmodified":1449045756,
+    "wof:lastmodified":1466329571,
     "wof:name":"Accessories By Patti",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.155656,33.661765,-112.155656,33.661765],
-  "geometry": {"coordinates":[-112.155656,33.661765],"type":"Point"}
+  "bbox": [
+    -112.155656,
+    33.661765,
+    -112.155656,
+    33.661765
+],
+  "geometry": {"coordinates":[-112.15565599999999,33.661765],"type":"Point"}
 }

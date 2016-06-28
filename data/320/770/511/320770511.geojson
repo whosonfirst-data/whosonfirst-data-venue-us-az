@@ -2,13 +2,14 @@
   "id": 320770511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073907,33.561043,-112.073907,33.561043",
     "geom:latitude":33.561043,
     "geom:longitude":-112.073907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8540 N Central Ave # 21",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320770511,
-    "wof:lastmodified":1449015035,
+    "wof:lastmodified":1466329253,
     "wof:name":"Nathan Edwin Dean",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-112.073907,33.561043,-112.073907,33.561043],
-  "geometry": {"coordinates":[-112.073907,33.561043],"type":"Point"}
+  "bbox": [
+    -112.073907,
+    33.561043,
+    -112.073907,
+    33.561043
+],
+  "geometry": {"coordinates":[-112.07390700000001,33.561043],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169410637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.887689,33.409271,-111.887689,33.409271",
     "geom:latitude":33.409271,
     "geom:longitude":-111.887689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 W Birchwood Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169410637,
-    "wof:lastmodified":1449032725,
+    "wof:lastmodified":1466334077,
     "wof:name":"One Way Svc Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.887689,33.409271,-111.887689,33.409271],
-  "geometry": {"coordinates":[-111.887689,33.409271],"type":"Point"}
+  "bbox": [
+    -111.887689,
+    33.409271,
+    -111.887689,
+    33.409271
+],
+  "geometry": {"coordinates":[-111.88768899999999,33.409271],"type":"Point"}
 }

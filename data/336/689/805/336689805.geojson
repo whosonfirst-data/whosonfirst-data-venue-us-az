@@ -2,13 +2,14 @@
   "id": 336689805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.155242,33.451326,-112.155242,33.451326",
     "geom:latitude":33.451326,
     "geom:longitude":-112.155242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4433 W Van Buren St Ste 6",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336689805,
-    "wof:lastmodified":1448997853,
+    "wof:lastmodified":1466327848,
     "wof:name":"Camfil Farr",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.155242,33.451326,-112.155242,33.451326],
+  "bbox": [
+    -112.155242,
+    33.451326,
+    -112.155242,
+    33.451326
+],
   "geometry": {"coordinates":[-112.155242,33.451326],"type":"Point"}
 }

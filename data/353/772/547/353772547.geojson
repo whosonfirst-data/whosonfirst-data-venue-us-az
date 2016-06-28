@@ -2,13 +2,14 @@
   "id": 353772547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.33234,34.240652,-111.33234,34.240652",
     "geom:latitude":34.240652,
     "geom:longitude":-111.33234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Parkwood Ln",
     "sg:city":"Payson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353772547,
-    "wof:lastmodified":1449019402,
+    "wof:lastmodified":1466330264,
     "wof:name":"Expedition Church",
     "wof:parent_id":85820149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.33234,34.240652,-111.33234,34.240652],
+  "bbox": [
+    -111.33234,
+    34.240652,
+    -111.33234,
+    34.240652
+],
   "geometry": {"coordinates":[-111.33234,34.240652],"type":"Point"}
 }

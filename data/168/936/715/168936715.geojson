@@ -2,13 +2,14 @@
   "id": 168936715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111528,33.470725,-112.111528,33.470725",
     "geom:latitude":33.470725,
     "geom:longitude":-112.111528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hertzequip.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168936715,
-    "wof:lastmodified":1449028010,
+    "wof:lastmodified":1466330527,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.111528,33.470725,-112.111528,33.470725],
-  "geometry": {"coordinates":[-112.111528,33.470725],"type":"Point"}
+  "bbox": [
+    -112.111528,
+    33.470725,
+    -112.111528,
+    33.470725
+],
+  "geometry": {"coordinates":[-112.11152800000001,33.470725],"type":"Point"}
 }

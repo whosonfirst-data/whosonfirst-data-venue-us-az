@@ -2,13 +2,14 @@
   "id": 169284451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.701061,33.415554,-111.701061,33.415554",
     "geom:latitude":33.415554,
     "geom:longitude":-111.701061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6035 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808263,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85808263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169284451,
-    "wof:lastmodified":1449034734,
+    "wof:lastmodified":1466332866,
     "wof:name":"Circle H",
     "wof:parent_id":85808263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.701061,33.415554,-111.701061,33.415554],
+  "bbox": [
+    -111.701061,
+    33.415554,
+    -111.701061,
+    33.415554
+],
   "geometry": {"coordinates":[-111.701061,33.415554],"type":"Point"}
 }

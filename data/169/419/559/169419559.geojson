@@ -2,13 +2,14 @@
   "id": 169419559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932208,33.502095,-111.932208,33.502095",
     "geom:latitude":33.502095,
     "geom:longitude":-111.932208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6991 E Camelback Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169419559,
-    "wof:lastmodified":1449035907,
+    "wof:lastmodified":1466334154,
     "wof:name":"Summit Global Partners Ariz",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.932208,33.502095,-111.932208,33.502095],
+  "bbox": [
+    -111.932208,
+    33.502095,
+    -111.932208,
+    33.502095
+],
   "geometry": {"coordinates":[-111.932208,33.502095],"type":"Point"}
 }

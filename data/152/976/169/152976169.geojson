@@ -2,13 +2,14 @@
   "id": 152976169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.942288,33.322942,-111.942288,33.322942",
     "geom:latitude":33.322942,
     "geom:longitude":-111.942288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5891 W Orchid Ln",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876693,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85876693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152976169,
-    "wof:lastmodified":1449046220,
+    "wof:lastmodified":1466328750,
     "wof:name":"Dade Behring Inc",
     "wof:parent_id":85876693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.942288,33.322942,-111.942288,33.322942],
+  "bbox": [
+    -111.942288,
+    33.322942,
+    -111.942288,
+    33.322942
+],
   "geometry": {"coordinates":[-111.942288,33.322942],"type":"Point"}
 }

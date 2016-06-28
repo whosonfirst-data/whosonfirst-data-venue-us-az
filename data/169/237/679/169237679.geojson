@@ -2,13 +2,14 @@
   "id": 169237679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.290718,33.619864,-112.290718,33.619864",
     "geom:latitude":33.619864,
     "geom:longitude":-112.290718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14811 N del Webb Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169237679,
-    "wof:lastmodified":1449032766,
+    "wof:lastmodified":1466332402,
     "wof:name":"Golf Factory",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.290718,33.619864,-112.290718,33.619864],
+  "bbox": [
+    -112.290718,
+    33.619864,
+    -112.290718,
+    33.619864
+],
   "geometry": {"coordinates":[-112.290718,33.619864],"type":"Point"}
 }

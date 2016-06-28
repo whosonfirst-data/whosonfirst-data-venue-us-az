@@ -2,13 +2,14 @@
   "id": 169062351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.066694,31.713694,-110.066694,31.713694",
     "geom:latitude":31.713694,
     "geom:longitude":-110.066694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Fremont St",
     "sg:city":"Tombstone",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.tombstonemotels.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169062351,
-    "wof:lastmodified":1449035719,
+    "wof:lastmodified":1466329105,
     "wof:name":"Larian Motel",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.066694,31.713694,-110.066694,31.713694],
+  "bbox": [
+    -110.066694,
+    31.713694,
+    -110.066694,
+    31.713694
+],
   "geometry": {"coordinates":[-110.066694,31.713694],"type":"Point"}
 }

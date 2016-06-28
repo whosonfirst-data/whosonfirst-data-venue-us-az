@@ -2,13 +2,14 @@
   "id": 168841203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.877814,31.411777,-109.877814,31.411777",
     "geom:latitude":31.411777,
     "geom:longitude":-109.877814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Arizona St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804277,
+        85688719,
         85633793,
         85917167,
         102087425,
-        85688719
+        85804277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168841203,
-    "wof:lastmodified":1449027939,
+    "wof:lastmodified":1466327255,
     "wof:name":"Chiricahua Comm Health Ctr",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.877814,31.411777,-109.877814,31.411777],
+  "bbox": [
+    -109.877814,
+    31.411777,
+    -109.877814,
+    31.411777
+],
   "geometry": {"coordinates":[-109.877814,31.411777],"type":"Point"}
 }

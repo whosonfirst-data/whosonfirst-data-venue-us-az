@@ -2,13 +2,14 @@
   "id": 320650849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118575,33.464791,-112.118575,33.464791",
     "geom:latitude":33.464791,
     "geom:longitude":-112.118575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 N 27th Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320650849,
-    "wof:lastmodified":1449013531,
+    "wof:lastmodified":1466327024,
     "wof:name":"SW Cage",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.118575,33.464791,-112.118575,33.464791],
-  "geometry": {"coordinates":[-112.118575,33.464791],"type":"Point"}
+  "bbox": [
+    -112.118575,
+    33.464791,
+    -112.118575,
+    33.464791
+],
+  "geometry": {"coordinates":[-112.11857500000001,33.464791],"type":"Point"}
 }

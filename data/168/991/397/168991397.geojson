@@ -2,13 +2,14 @@
   "id": 168991397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.972967,32.21551,-110.972967,32.21551",
     "geom:latitude":32.21551,
     "geom:longitude":-110.972967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 S Meyer Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871733,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168991397,
-    "wof:lastmodified":1449027990,
+    "wof:lastmodified":1466331611,
     "wof:name":"Roger H Sigal Law Offices",
     "wof:parent_id":85871733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.972967,32.21551,-110.972967,32.21551],
+  "bbox": [
+    -110.972967,
+    32.21551,
+    -110.972967,
+    32.21551
+],
   "geometry": {"coordinates":[-110.972967,32.21551],"type":"Point"}
 }

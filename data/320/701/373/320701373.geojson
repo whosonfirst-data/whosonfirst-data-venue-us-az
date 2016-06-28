@@ -2,13 +2,14 @@
   "id": 320701373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108292,33.528515,-112.108292,33.528515",
     "geom:latitude":33.528515,
     "geom:longitude":-112.108292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 N 23rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320701373,
-    "wof:lastmodified":1449014184,
+    "wof:lastmodified":1466328077,
     "wof:name":"B & E Distributing",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "goods-wholesale"
     ]
 },
-  "bbox": [-112.108292,33.528515,-112.108292,33.528515],
-  "geometry": {"coordinates":[-112.108292,33.528515],"type":"Point"}
+  "bbox": [
+    -112.108292,
+    33.528515,
+    -112.108292,
+    33.528515
+],
+  "geometry": {"coordinates":[-112.10829200000001,33.528515],"type":"Point"}
 }

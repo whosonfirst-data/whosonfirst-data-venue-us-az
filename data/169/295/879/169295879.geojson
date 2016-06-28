@@ -2,13 +2,14 @@
   "id": 169295879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.202852,33.418899,-112.202852,33.418899",
     "geom:latitude":33.418899,
     "geom:longitude":-112.202852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6638 W Miami St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169295879,
-    "wof:lastmodified":1449034017,
+    "wof:lastmodified":1466332761,
     "wof:name":"Morningstar Wall System Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.202852,33.418899,-112.202852,33.418899],
-  "geometry": {"coordinates":[-112.202852,33.418899],"type":"Point"}
+  "bbox": [
+    -112.202852,
+    33.418899,
+    -112.202852,
+    33.418899
+],
+  "geometry": {"coordinates":[-112.20285199999999,33.418899],"type":"Point"}
 }

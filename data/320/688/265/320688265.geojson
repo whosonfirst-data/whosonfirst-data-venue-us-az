@@ -2,13 +2,14 @@
   "id": 320688265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054536,33.516472,-112.054536,33.516472",
     "geom:latitude":33.516472,
     "geom:longitude":-112.054536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 E Missouri Ave # 202",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320688265,
-    "wof:lastmodified":1449012677,
+    "wof:lastmodified":1466328078,
     "wof:name":"Art Endo",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-endodontists"
     ]
 },
-  "bbox": [-112.054536,33.516472,-112.054536,33.516472],
+  "bbox": [
+    -112.054536,
+    33.516472,
+    -112.054536,
+    33.516472
+],
   "geometry": {"coordinates":[-112.054536,33.516472],"type":"Point"}
 }

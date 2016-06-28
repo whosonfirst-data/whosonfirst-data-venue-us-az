@@ -2,13 +2,14 @@
   "id": 168968317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.975642,32.347626,-110.975642,32.347626",
     "geom:latitude":32.347626,
     "geom:longitude":-110.975642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168968317,
-    "wof:lastmodified":1449027817,
+    "wof:lastmodified":1466331349,
     "wof:name":"Great American Cattle Company",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.975642,32.347626,-110.975642,32.347626],
-  "geometry": {"coordinates":[-110.975642,32.347626],"type":"Point"}
+  "bbox": [
+    -110.975642,
+    32.347626,
+    -110.975642,
+    32.347626
+],
+  "geometry": {"coordinates":[-110.97564199999999,32.347626],"type":"Point"}
 }

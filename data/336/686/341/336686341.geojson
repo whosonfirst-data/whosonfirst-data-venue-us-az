@@ -2,13 +2,14 @@
   "id": 336686341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.235155,33.418622,-112.235155,33.418622",
     "geom:latitude":33.418622,
     "geom:longitude":-112.235155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8134 W Miami St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336686341,
-    "wof:lastmodified":1448997765,
+    "wof:lastmodified":1466327805,
     "wof:name":"The Variety Theater",
     "wof:parent_id":85871005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "variety"
     ]
 },
-  "bbox": [-112.235155,33.418622,-112.235155,33.418622],
-  "geometry": {"coordinates":[-112.235155,33.418622],"type":"Point"}
+  "bbox": [
+    -112.235155,
+    33.418622,
+    -112.235155,
+    33.418622
+],
+  "geometry": {"coordinates":[-112.23515500000001,33.418622],"type":"Point"}
 }

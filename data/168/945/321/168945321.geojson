@@ -2,13 +2,14 @@
   "id": 168945321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.810097,32.235408,-110.810097,32.235408",
     "geom:latitude":32.235408,
     "geom:longitude":-110.810097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8550 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168945321,
-    "wof:lastmodified":1449027834,
+    "wof:lastmodified":1466330745,
     "wof:name":"A Welcome Home House Cleaning",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.810097,32.235408,-110.810097,32.235408],
+  "bbox": [
+    -110.810097,
+    32.235408,
+    -110.810097,
+    32.235408
+],
   "geometry": {"coordinates":[-110.810097,32.235408],"type":"Point"}
 }

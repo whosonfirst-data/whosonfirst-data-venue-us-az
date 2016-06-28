@@ -2,13 +2,14 @@
   "id": 336901505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.941805,33.313373,-111.941805,33.313373",
     "geom:latitude":33.313373,
     "geom:longitude":-111.941805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 N May St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336901505,
-    "wof:lastmodified":1448997396,
+    "wof:lastmodified":1466330345,
     "wof:name":"Progressive Electric",
     "wof:parent_id":85853867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.941805,33.313373,-111.941805,33.313373],
+  "bbox": [
+    -111.941805,
+    33.313373,
+    -111.941805,
+    33.313373
+],
   "geometry": {"coordinates":[-111.941805,33.313373],"type":"Point"}
 }

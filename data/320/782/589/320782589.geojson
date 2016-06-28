@@ -2,13 +2,14 @@
   "id": 320782589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112313,33.57411,-112.112313,33.57411",
     "geom:latitude":33.57411,
     "geom:longitude":-112.112313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9630 N 25th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":320782589,
-    "wof:lastmodified":1449011245,
+    "wof:lastmodified":1466329626,
     "wof:name":"Sanford-Brown College - Phoenix",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "medical"
     ]
 },
-  "bbox": [-112.112313,33.57411,-112.112313,33.57411],
+  "bbox": [
+    -112.112313,
+    33.57411,
+    -112.112313,
+    33.57411
+],
   "geometry": {"coordinates":[-112.112313,33.57411],"type":"Point"}
 }

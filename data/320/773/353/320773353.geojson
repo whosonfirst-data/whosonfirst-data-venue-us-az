@@ -2,13 +2,14 @@
   "id": 320773353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.061531,33.57061,-112.061531,33.57061",
     "geom:latitude":33.57061,
     "geom:longitude":-112.061531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320773353,
-    "wof:lastmodified":1449011721,
+    "wof:lastmodified":1466329292,
     "wof:name":"U-Haul at Sunnyslope",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.061531,33.57061,-112.061531,33.57061],
+  "bbox": [
+    -112.061531,
+    33.57061,
+    -112.061531,
+    33.57061
+],
   "geometry": {"coordinates":[-112.061531,33.57061],"type":"Point"}
 }

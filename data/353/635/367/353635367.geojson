@@ -2,13 +2,14 @@
   "id": 353635367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.943165,33.83219,-111.943165,33.83219",
     "geom:latitude":33.83219,
     "geom:longitude":-111.943165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 7070",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353635367,
-    "wof:lastmodified":1449019358,
+    "wof:lastmodified":1466329210,
     "wof:name":"Miller Jenifer DVM",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-111.943165,33.83219,-111.943165,33.83219],
-  "geometry": {"coordinates":[-111.943165,33.83219],"type":"Point"}
+  "bbox": [
+    -111.943165,
+    33.83219,
+    -111.943165,
+    33.83219
+],
+  "geometry": {"coordinates":[-111.94316499999999,33.83219],"type":"Point"}
 }

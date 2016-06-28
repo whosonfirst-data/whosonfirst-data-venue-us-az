@@ -2,13 +2,14 @@
   "id": 168867595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.755796,34.281558,-112.755796,34.281558",
     "geom:latitude":34.281558,
     "geom:longitude":-112.755796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18300 Henley Rd",
     "sg:city":"Peeples Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168867595,
-    "wof:lastmodified":1449028117,
+    "wof:lastmodified":1466327251,
     "wof:name":"Peeples Valley Water Co",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.755796,34.281558,-112.755796,34.281558],
+  "bbox": [
+    -112.755796,
+    34.281558,
+    -112.755796,
+    34.281558
+],
   "geometry": {"coordinates":[-112.755796,34.281558],"type":"Point"}
 }

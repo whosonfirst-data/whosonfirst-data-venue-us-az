@@ -2,13 +2,14 @@
   "id": 336630759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056053,33.448174,-112.056053,33.448174",
     "geom:latitude":33.448174,
     "geom:longitude":-112.056053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 E Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336630759,
-    "wof:lastmodified":1448997314,
+    "wof:lastmodified":1466326553,
     "wof:name":"Health Care Cost Containment System, Arizona",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "administration"
     ]
 },
-  "bbox": [-112.056053,33.448174,-112.056053,33.448174],
-  "geometry": {"coordinates":[-112.056053,33.448174],"type":"Point"}
+  "bbox": [
+    -112.056053,
+    33.448174,
+    -112.056053,
+    33.448174
+],
+  "geometry": {"coordinates":[-112.05605300000001,33.448174],"type":"Point"}
 }

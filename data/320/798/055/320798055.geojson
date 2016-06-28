@@ -2,13 +2,14 @@
   "id": 320798055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039032,33.607716,-112.039032,33.607716",
     "geom:latitude":33.607716,
     "geom:longitude":-112.039032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 E Teddy Ln Apt 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320798055,
-    "wof:lastmodified":1449011951,
+    "wof:lastmodified":1466329779,
     "wof:name":"Delta Diversified",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-112.039032,33.607716,-112.039032,33.607716],
-  "geometry": {"coordinates":[-112.039032,33.607716],"type":"Point"}
+  "bbox": [
+    -112.039032,
+    33.607716,
+    -112.039032,
+    33.607716
+],
+  "geometry": {"coordinates":[-112.03903200000001,33.607716],"type":"Point"}
 }

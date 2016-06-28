@@ -2,13 +2,14 @@
   "id": 353816129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.823853,32.229488,-110.823853,32.229488",
     "geom:latitude":32.229488,
     "geom:longitude":-110.823853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Pantano Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353816129,
-    "wof:lastmodified":1449019758,
+    "wof:lastmodified":1466330385,
     "wof:name":"Canyon Oaks - HSL",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-110.823853,32.229488,-110.823853,32.229488],
+  "bbox": [
+    -110.823853,
+    32.229488,
+    -110.823853,
+    32.229488
+],
   "geometry": {"coordinates":[-110.823853,32.229488],"type":"Point"}
 }

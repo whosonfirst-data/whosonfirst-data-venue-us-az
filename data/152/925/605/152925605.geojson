@@ -2,13 +2,14 @@
   "id": 152925605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995513,32.001384,-110.995513,32.001384",
     "geom:latitude":32.001384,
     "geom:longitude":-110.995513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Pima Mine Rd",
     "sg:city":"Sahuarita",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.desertdiamondcasino.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152925605,
-    "wof:lastmodified":1449044326,
+    "wof:lastmodified":1466327726,
     "wof:name":"Desert Diamond Banquet Dept",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995513,32.001384,-110.995513,32.001384],
+  "bbox": [
+    -110.995513,
+    32.001384,
+    -110.995513,
+    32.001384
+],
   "geometry": {"coordinates":[-110.995513,32.001384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169343801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969011,32.129617,-110.969011,32.129617",
     "geom:latitude":32.129617,
     "geom:longitude":-110.969011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6757 S Missiondale Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169343801,
-    "wof:lastmodified":1449035026,
+    "wof:lastmodified":1466333421,
     "wof:name":"Carmon's Appliance & Repair",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969011,32.129617,-110.969011,32.129617],
-  "geometry": {"coordinates":[-110.969011,32.129617],"type":"Point"}
+  "bbox": [
+    -110.969011,
+    32.129617,
+    -110.969011,
+    32.129617
+],
+  "geometry": {"coordinates":[-110.96901099999999,32.129617],"type":"Point"}
 }

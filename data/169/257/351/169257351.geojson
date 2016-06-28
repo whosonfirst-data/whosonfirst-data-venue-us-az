@@ -2,13 +2,14 @@
   "id": 169257351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.248832,33.65259,-112.248832,33.65259",
     "geom:latitude":33.65259,
     "geom:longitude":-112.248832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 W Union Hills Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169257351,
-    "wof:lastmodified":1449033658,
+    "wof:lastmodified":1466332528,
     "wof:name":"Peter Levins MD",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.248832,33.65259,-112.248832,33.65259],
-  "geometry": {"coordinates":[-112.248832,33.65259],"type":"Point"}
+  "bbox": [
+    -112.248832,
+    33.65259,
+    -112.248832,
+    33.65259
+],
+  "geometry": {"coordinates":[-112.24883199999999,33.65259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169352327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.854723,34.564335,-111.854723,34.564335",
     "geom:latitude":34.564335,
     "geom:longitude":-111.854723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 S Main St",
     "sg:city":"Camp Verde",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852631,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85852631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169352327,
-    "wof:lastmodified":1449034711,
+    "wof:lastmodified":1466333548,
     "wof:name":"Verde Cafe",
     "wof:parent_id":85852631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.854723,34.564335,-111.854723,34.564335],
-  "geometry": {"coordinates":[-111.854723,34.564335],"type":"Point"}
+  "bbox": [
+    -111.854723,
+    34.564335,
+    -111.854723,
+    34.564335
+],
+  "geometry": {"coordinates":[-111.85472300000001,34.564335],"type":"Point"}
 }

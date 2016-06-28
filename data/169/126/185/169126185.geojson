@@ -2,13 +2,14 @@
   "id": 169126185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837047,33.344207,-111.837047,33.344207",
     "geom:latitude":33.344207,
     "geom:longitude":-111.837047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E Palomino Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.esscous.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802983,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85802983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169126185,
-    "wof:lastmodified":1449033907,
+    "wof:lastmodified":1466331441,
     "wof:name":"Essco Group Management Billing",
     "wof:parent_id":85802983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.837047,33.344207,-111.837047,33.344207],
+  "bbox": [
+    -111.837047,
+    33.344207,
+    -111.837047,
+    33.344207
+],
   "geometry": {"coordinates":[-111.837047,33.344207],"type":"Point"}
 }

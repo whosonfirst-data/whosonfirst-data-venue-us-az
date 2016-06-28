@@ -2,13 +2,14 @@
   "id": 169316101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.174864,34.907991,-110.174864,34.907991",
     "geom:latitude":34.907991,
     "geom:longitude":-110.174864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 W Florida St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169316101,
-    "wof:lastmodified":1449034929,
+    "wof:lastmodified":1466333135,
     "wof:name":"Bud Ferriegel Painting",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.174864,34.907991,-110.174864,34.907991],
+  "bbox": [
+    -110.174864,
+    34.907991,
+    -110.174864,
+    34.907991
+],
   "geometry": {"coordinates":[-110.174864,34.907991],"type":"Point"}
 }

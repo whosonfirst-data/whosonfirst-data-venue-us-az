@@ -2,13 +2,14 @@
   "id": 168859481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.913654,32.186894,-110.913654,32.186894",
     "geom:latitude":32.186894,
     "geom:longitude":-110.913654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 S Dodge Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168859481,
-    "wof:lastmodified":1449028326,
+    "wof:lastmodified":1466326535,
     "wof:name":"Adchemco Scientific Inc",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.913654,32.186894,-110.913654,32.186894],
-  "geometry": {"coordinates":[-110.913654,32.186894],"type":"Point"}
+  "bbox": [
+    -110.913654,
+    32.186894,
+    -110.913654,
+    32.186894
+],
+  "geometry": {"coordinates":[-110.91365399999999,32.186894],"type":"Point"}
 }

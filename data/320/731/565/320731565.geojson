@@ -2,13 +2,14 @@
   "id": 320731565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026168,33.509399,-112.026168,33.509399",
     "geom:latitude":33.509399,
     "geom:longitude":-112.026168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 E. Camelback Rd.",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320731565,
-    "wof:lastmodified":1449014548,
+    "wof:lastmodified":1466328789,
     "wof:name":"NFA Tax Help",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-112.026168,33.509399,-112.026168,33.509399],
+  "bbox": [
+    -112.026168,
+    33.509399,
+    -112.026168,
+    33.509399
+],
   "geometry": {"coordinates":[-112.026168,33.509399],"type":"Point"}
 }

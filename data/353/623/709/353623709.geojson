@@ -2,13 +2,14 @@
   "id": 353623709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.336905,33.443381,-112.336905,33.443381",
     "geom:latitude":33.443381,
     "geom:longitude":-112.336905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 N Eliseo Felix Jr Way",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353623709,
-    "wof:lastmodified":1449020036,
+    "wof:lastmodified":1466328853,
     "wof:name":"Imagine Elementary Avondale",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-112.336905,33.443381,-112.336905,33.443381],
+  "bbox": [
+    -112.336905,
+    33.443381,
+    -112.336905,
+    33.443381
+],
   "geometry": {"coordinates":[-112.336905,33.443381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336879773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841583,33.310177,-111.841583,33.310177",
     "geom:latitude":33.310177,
     "geom:longitude":-111.841583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Arizona Avenue",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336879773,
-    "wof:lastmodified":1448996932,
+    "wof:lastmodified":1466330406,
     "wof:name":"Direct Car Audio",
     "wof:parent_id":85876681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841583,33.310177,-111.841583,33.310177],
+  "bbox": [
+    -111.841583,
+    33.310177,
+    -111.841583,
+    33.310177
+],
   "geometry": {"coordinates":[-111.841583,33.310177],"type":"Point"}
 }

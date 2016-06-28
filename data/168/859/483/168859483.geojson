@@ -2,13 +2,14 @@
   "id": 168859483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.784008,34.788091,-111.784008,34.788091",
     "geom:latitude":34.788091,
     "geom:longitude":-111.784008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Horse Mesa Cir",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168859483,
-    "wof:lastmodified":1449028325,
+    "wof:lastmodified":1466326535,
     "wof:name":"Investment Analysis & Research",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.784008,34.788091,-111.784008,34.788091],
+  "bbox": [
+    -111.784008,
+    34.788091,
+    -111.784008,
+    34.788091
+],
   "geometry": {"coordinates":[-111.784008,34.788091],"type":"Point"}
 }

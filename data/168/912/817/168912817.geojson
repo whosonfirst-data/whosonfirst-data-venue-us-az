@@ -2,13 +2,14 @@
   "id": 168912817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.324474,33.5859,-112.324474,33.5859",
     "geom:latitude":33.5859,
     "geom:longitude":-112.324474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11201 N el Mirage Rd",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168912817,
-    "wof:lastmodified":1449028147,
+    "wof:lastmodified":1466330003,
     "wof:name":"Jim's Handyman",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.324474,33.5859,-112.324474,33.5859],
+  "bbox": [
+    -112.324474,
+    33.5859,
+    -112.324474,
+    33.5859
+],
   "geometry": {"coordinates":[-112.324474,33.5859],"type":"Point"}
 }

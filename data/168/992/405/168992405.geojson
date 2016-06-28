@@ -2,13 +2,14 @@
   "id": 168992405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.848071,33.596912,-111.848071,33.596912",
     "geom:latitude":33.596912,
     "geom:longitude":-111.848071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10605 E Cactus Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gomerconsulting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851767,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85851767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168992405,
-    "wof:lastmodified":1449028136,
+    "wof:lastmodified":1466331414,
     "wof:name":"Gomer Consulting Group",
     "wof:parent_id":85851767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.848071,33.596912,-111.848071,33.596912],
+  "bbox": [
+    -111.848071,
+    33.596912,
+    -111.848071,
+    33.596912
+],
   "geometry": {"coordinates":[-111.848071,33.596912],"type":"Point"}
 }

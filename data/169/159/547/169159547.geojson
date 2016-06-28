@@ -2,13 +2,14 @@
   "id": 169159547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.23772,33.552371,-112.23772,33.552371",
     "geom:latitude":33.552371,
     "geom:longitude":-112.23772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8137 N 83rd Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169159547,
-    "wof:lastmodified":1449033076,
+    "wof:lastmodified":1466331790,
     "wof:name":"Mw Erectors Inc",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.23772,33.552371,-112.23772,33.552371],
+  "bbox": [
+    -112.23772,
+    33.552371,
+    -112.23772,
+    33.552371
+],
   "geometry": {"coordinates":[-112.23772,33.552371],"type":"Point"}
 }

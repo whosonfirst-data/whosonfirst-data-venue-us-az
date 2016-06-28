@@ -2,13 +2,14 @@
   "id": 169112899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.952407,33.795111,-111.952407,33.795111",
     "geom:latitude":33.795111,
     "geom:longitude":-111.952407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5985 E Dusty Coyote Cir",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169112899,
-    "wof:lastmodified":1449034195,
+    "wof:lastmodified":1466331232,
     "wof:name":"Los Alisos Homeowners Assn",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.952407,33.795111,-111.952407,33.795111],
-  "geometry": {"coordinates":[-111.952407,33.795111],"type":"Point"}
+  "bbox": [
+    -111.952407,
+    33.795111,
+    -111.952407,
+    33.795111
+],
+  "geometry": {"coordinates":[-111.95240699999999,33.795111],"type":"Point"}
 }

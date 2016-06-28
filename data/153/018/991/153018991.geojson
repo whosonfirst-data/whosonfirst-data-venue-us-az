@@ -2,13 +2,14 @@
   "id": 153018991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.875426,32.237719,-110.875426,32.237719",
     "geom:latitude":32.237719,
     "geom:longitude":-110.875426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 N Craycroft Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153018991,
-    "wof:lastmodified":1449040581,
+    "wof:lastmodified":1466326880,
     "wof:name":"Blissage",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.875426,32.237719,-110.875426,32.237719],
+  "bbox": [
+    -110.875426,
+    32.237719,
+    -110.875426,
+    32.237719
+],
   "geometry": {"coordinates":[-110.875426,32.237719],"type":"Point"}
 }

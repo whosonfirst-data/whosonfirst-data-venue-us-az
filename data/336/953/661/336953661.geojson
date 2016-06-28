@@ -2,13 +2,14 @@
   "id": 336953661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923528,33.53866,-111.923528,33.53866",
     "geom:latitude":33.53866,
     "geom:longitude":-111.923528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 E Indian Bend Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336953661,
-    "wof:lastmodified":1448997672,
+    "wof:lastmodified":1466330841,
     "wof:name":"Mc Cormick-Stillman Railroad",
     "wof:parent_id":85880967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "village"
     ]
 },
-  "bbox": [-111.923528,33.53866,-111.923528,33.53866],
+  "bbox": [
+    -111.923528,
+    33.53866,
+    -111.923528,
+    33.53866
+],
   "geometry": {"coordinates":[-111.923528,33.53866],"type":"Point"}
 }

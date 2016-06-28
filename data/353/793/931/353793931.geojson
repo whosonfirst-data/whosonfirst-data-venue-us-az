@@ -2,13 +2,14 @@
   "id": 353793931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.753225,32.599112,-110.753225,32.599112",
     "geom:latitude":32.599112,
     "geom:longitude":-110.753225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 S Hobe Rd",
     "sg:city":"Oracle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353793931,
-    "wof:lastmodified":1449019668,
+    "wof:lastmodified":1466330385,
     "wof:name":"Hendrickson Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-110.753225,32.599112,-110.753225,32.599112],
+  "bbox": [
+    -110.753225,
+    32.599112,
+    -110.753225,
+    32.599112
+],
   "geometry": {"coordinates":[-110.753225,32.599112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153031721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139878,32.941938,-112.139878,32.941938",
     "geom:latitude":32.941938,
     "geom:longitude":-112.139878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53221 W Miller Rd",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153031721,
-    "wof:lastmodified":1449040523,
+    "wof:lastmodified":1466325894,
     "wof:name":"Gvr Deliveries Inc",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.139878,32.941938,-112.139878,32.941938],
+  "bbox": [
+    -112.139878,
+    32.941938,
+    -112.139878,
+    32.941938
+],
   "geometry": {"coordinates":[-112.139878,32.941938],"type":"Point"}
 }

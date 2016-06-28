@@ -2,13 +2,14 @@
   "id": 168987059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.300982,34.471309,-114.300982,34.471309",
     "geom:latitude":34.471309,
     "geom:longitude":-114.300982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Pso Granda",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168987059,
-    "wof:lastmodified":1449028200,
+    "wof:lastmodified":1466331510,
     "wof:name":"Laydon Leasing Inc",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.300982,34.471309,-114.300982,34.471309],
+  "bbox": [
+    -114.300982,
+    34.471309,
+    -114.300982,
+    34.471309
+],
   "geometry": {"coordinates":[-114.300982,34.471309],"type":"Point"}
 }

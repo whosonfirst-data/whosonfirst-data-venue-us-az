@@ -2,13 +2,14 @@
   "id": 168894557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.842558,32.210706,-110.842558,32.210706",
     "geom:latitude":32.210706,
     "geom:longitude":-110.842558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S Langley Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168894557,
-    "wof:lastmodified":1449028082,
+    "wof:lastmodified":1466329188,
     "wof:name":"Cadden Community Management",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.842558,32.210706,-110.842558,32.210706],
+  "bbox": [
+    -110.842558,
+    32.210706,
+    -110.842558,
+    32.210706
+],
   "geometry": {"coordinates":[-110.842558,32.210706],"type":"Point"}
 }

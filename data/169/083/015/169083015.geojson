@@ -2,13 +2,14 @@
   "id": 169083015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.887147,33.570313,-111.887147,33.570313",
     "geom:latitude":33.570313,
     "geom:longitude":-111.887147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9393 N 90th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812523,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85812523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169083015,
-    "wof:lastmodified":1449034243,
+    "wof:lastmodified":1466330079,
     "wof:name":"Infinite Business Possibilitie",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.887147,33.570313,-111.887147,33.570313],
+  "bbox": [
+    -111.887147,
+    33.570313,
+    -111.887147,
+    33.570313
+],
   "geometry": {"coordinates":[-111.887147,33.570313],"type":"Point"}
 }

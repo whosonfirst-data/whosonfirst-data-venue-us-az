@@ -2,13 +2,14 @@
   "id": 336752903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.859712,33.422159,-111.859712,33.422159",
     "geom:latitude":33.422159,
     "geom:longitude":-111.859712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 W University Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336752903,
-    "wof:lastmodified":1448997122,
+    "wof:lastmodified":1466329054,
     "wof:name":"Mesa Lazona Ward",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-111.859712,33.422159,-111.859712,33.422159],
+  "bbox": [
+    -111.859712,
+    33.422159,
+    -111.859712,
+    33.422159
+],
   "geometry": {"coordinates":[-111.859712,33.422159],"type":"Point"}
 }

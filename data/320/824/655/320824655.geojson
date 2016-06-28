@@ -2,13 +2,14 @@
   "id": 320824655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098376,33.676478,-112.098376,33.676478",
     "geom:latitude":33.676478,
     "geom:longitude":-112.098376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 W Rose Garden Ln # 3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320824655,
-    "wof:lastmodified":1449012606,
+    "wof:lastmodified":1466330131,
     "wof:name":"Scantool.Net",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "device"
     ]
 },
-  "bbox": [-112.098376,33.676478,-112.098376,33.676478],
+  "bbox": [
+    -112.098376,
+    33.676478,
+    -112.098376,
+    33.676478
+],
   "geometry": {"coordinates":[-112.098376,33.676478],"type":"Point"}
 }

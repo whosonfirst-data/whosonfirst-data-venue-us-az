@@ -2,13 +2,14 @@
   "id": 169324143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948063,32.221393,-110.948063,32.221393",
     "geom:latitude":32.221393,
     "geom:longitude":-110.948063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.geminibkp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169324143,
-    "wof:lastmodified":1449034616,
+    "wof:lastmodified":1466333167,
     "wof:name":"Gemini Bath & Kitchen Products",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948063,32.221393,-110.948063,32.221393],
+  "bbox": [
+    -110.948063,
+    32.221393,
+    -110.948063,
+    32.221393
+],
   "geometry": {"coordinates":[-110.948063,32.221393],"type":"Point"}
 }

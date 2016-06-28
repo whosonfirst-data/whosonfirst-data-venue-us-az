@@ -2,13 +2,14 @@
   "id": 169031885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.791486,33.430553,-111.791486,33.430553",
     "geom:latitude":33.430553,
     "geom:longitude":-111.791486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 E Enrose St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169031885,
-    "wof:lastmodified":1449033915,
+    "wof:lastmodified":1466327034,
     "wof:name":"Artistic Brick and Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.791486,33.430553,-111.791486,33.430553],
-  "geometry": {"coordinates":[-111.791486,33.430553],"type":"Point"}
+  "bbox": [
+    -111.791486,
+    33.430553,
+    -111.791486,
+    33.430553
+],
+  "geometry": {"coordinates":[-111.79148600000001,33.430553],"type":"Point"}
 }

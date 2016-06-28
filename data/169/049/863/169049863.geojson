@@ -2,13 +2,14 @@
   "id": 169049863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.321791,34.609721,-112.321791,34.609721",
     "geom:latitude":34.609721,
     "geom:longitude":-112.321791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8164 E Spouse Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169049863,
-    "wof:lastmodified":1449034321,
+    "wof:lastmodified":1466328540,
     "wof:name":"Arturo's Mexican Restaurant",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.321791,34.609721,-112.321791,34.609721],
+  "bbox": [
+    -112.321791,
+    34.609721,
+    -112.321791,
+    34.609721
+],
   "geometry": {"coordinates":[-112.321791,34.609721],"type":"Point"}
 }

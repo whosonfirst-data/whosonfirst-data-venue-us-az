@@ -2,13 +2,14 @@
   "id": 320831781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013077,33.581348,-112.013077,33.581348",
     "geom:latitude":33.581348,
     "geom:longitude":-112.013077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10436 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320831781,
-    "wof:lastmodified":1449013449,
+    "wof:lastmodified":1466330254,
     "wof:name":"Ozzie Ice",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rinks-ice"
     ]
 },
-  "bbox": [-112.013077,33.581348,-112.013077,33.581348],
+  "bbox": [
+    -112.013077,
+    33.581348,
+    -112.013077,
+    33.581348
+],
   "geometry": {"coordinates":[-112.013077,33.581348],"type":"Point"}
 }

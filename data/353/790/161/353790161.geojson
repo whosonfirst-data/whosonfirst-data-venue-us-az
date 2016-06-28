@@ -2,13 +2,14 @@
   "id": 353790161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.935374,31.35203,-110.935374,31.35203",
     "geom:latitude":31.35203,
     "geom:longitude":-110.935374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 W 1st St",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353790161,
-    "wof:lastmodified":1449020225,
+    "wof:lastmodified":1466330171,
     "wof:name":"Durango Apartments",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-110.935374,31.35203,-110.935374,31.35203],
+  "bbox": [
+    -110.935374,
+    31.35203,
+    -110.935374,
+    31.35203
+],
   "geometry": {"coordinates":[-110.935374,31.35203],"type":"Point"}
 }

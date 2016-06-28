@@ -2,13 +2,14 @@
   "id": 320836855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.988707,33.592139,-111.988707,33.592139",
     "geom:latitude":33.592139,
     "geom:longitude":-111.988707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4243 E Cortez St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320836855,
-    "wof:lastmodified":1449013741,
+    "wof:lastmodified":1466330353,
     "wof:name":"Robert Constas Dr",
     "wof:parent_id":85853825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "occupational"
     ]
 },
-  "bbox": [-111.988707,33.592139,-111.988707,33.592139],
-  "geometry": {"coordinates":[-111.988707,33.592139],"type":"Point"}
+  "bbox": [
+    -111.988707,
+    33.592139,
+    -111.988707,
+    33.592139
+],
+  "geometry": {"coordinates":[-111.98870700000001,33.592139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169281499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.206707,33.652823,-112.206707,33.652823",
     "geom:latitude":33.652823,
     "geom:longitude":-112.206707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 W Union Hills Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169281499,
-    "wof:lastmodified":1449035461,
+    "wof:lastmodified":1466332812,
     "wof:name":"Arrowhead Ranch Dentistry",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.206707,33.652823,-112.206707,33.652823],
-  "geometry": {"coordinates":[-112.206707,33.652823],"type":"Point"}
+  "bbox": [
+    -112.206707,
+    33.652823,
+    -112.206707,
+    33.652823
+],
+  "geometry": {"coordinates":[-112.20670699999999,33.652823],"type":"Point"}
 }

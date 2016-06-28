@@ -2,13 +2,14 @@
   "id": 168837367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953122,32.28304,-110.953122,32.28304",
     "geom:latitude":32.28304,
     "geom:longitude":-110.953122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Limberlost Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168837367,
-    "wof:lastmodified":1449027891,
+    "wof:lastmodified":1466326828,
     "wof:name":"Jax Stained Glass",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953122,32.28304,-110.953122,32.28304],
-  "geometry": {"coordinates":[-110.953122,32.28304],"type":"Point"}
+  "bbox": [
+    -110.953122,
+    32.28304,
+    -110.953122,
+    32.28304
+],
+  "geometry": {"coordinates":[-110.95312199999999,32.28304],"type":"Point"}
 }

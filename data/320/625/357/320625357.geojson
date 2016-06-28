@@ -2,13 +2,14 @@
   "id": 320625357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040098,33.47752,-112.040098,33.47752",
     "geom:latitude":33.47752,
     "geom:longitude":-112.040098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 E Cambridge Ave Ste 304",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320625357,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466326402,
     "wof:name":"Phoenix Children's Medical Grp",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-112.040098,33.47752,-112.040098,33.47752],
+  "bbox": [
+    -112.040098,
+    33.47752,
+    -112.040098,
+    33.47752
+],
   "geometry": {"coordinates":[-112.040098,33.47752],"type":"Point"}
 }

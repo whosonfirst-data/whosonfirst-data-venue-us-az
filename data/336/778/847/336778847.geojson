@@ -2,13 +2,14 @@
   "id": 336778847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.868588,33.407611,-111.868588,33.407611",
     "geom:latitude":33.407611,
     "geom:longitude":-111.868588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 W Broadway Rd Ste 101",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336778847,
-    "wof:lastmodified":1448996936,
+    "wof:lastmodified":1466329125,
     "wof:name":"Stardust Building Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.868588,33.407611,-111.868588,33.407611],
+  "bbox": [
+    -111.868588,
+    33.407611,
+    -111.868588,
+    33.407611
+],
   "geometry": {"coordinates":[-111.868588,33.407611],"type":"Point"}
 }

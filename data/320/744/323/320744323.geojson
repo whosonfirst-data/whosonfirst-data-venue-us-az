@@ -2,13 +2,14 @@
   "id": 320744323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.129053,33.483585,-112.129053,33.483585",
     "geom:latitude":33.483585,
     "geom:longitude":-112.129053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 N 33rd Ave Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320744323,
-    "wof:lastmodified":1449012620,
+    "wof:lastmodified":1466328965,
     "wof:name":"Closets For Less",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "maker"
     ]
 },
-  "bbox": [-112.129053,33.483585,-112.129053,33.483585],
+  "bbox": [
+    -112.129053,
+    33.483585,
+    -112.129053,
+    33.483585
+],
   "geometry": {"coordinates":[-112.129053,33.483585],"type":"Point"}
 }

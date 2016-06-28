@@ -2,13 +2,14 @@
   "id": 169167353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.955547,32.199695,-110.955547,32.199695",
     "geom:latitude":32.199695,
     "geom:longitude":-110.955547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1069 E Silverlake Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169167353,
-    "wof:lastmodified":1449034398,
+    "wof:lastmodified":1466331860,
     "wof:name":"Arizona Federal Credit Union",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.955547,32.199695,-110.955547,32.199695],
+  "bbox": [
+    -110.955547,
+    32.199695,
+    -110.955547,
+    32.199695
+],
   "geometry": {"coordinates":[-110.955547,32.199695],"type":"Point"}
 }

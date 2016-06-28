@@ -2,13 +2,14 @@
   "id": 169363535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.900411,32.169178,-110.900411,32.169178",
     "geom:latitude":32.169178,
     "geom:longitude":-110.900411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 E Illinois St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169363535,
-    "wof:lastmodified":1449035554,
+    "wof:lastmodified":1466333633,
     "wof:name":"Azteca Trucking LLC",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.900411,32.169178,-110.900411,32.169178],
-  "geometry": {"coordinates":[-110.900411,32.169178],"type":"Point"}
+  "bbox": [
+    -110.900411,
+    32.169178,
+    -110.900411,
+    32.169178
+],
+  "geometry": {"coordinates":[-110.90041100000001,32.169178],"type":"Point"}
 }

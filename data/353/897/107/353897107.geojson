@@ -2,13 +2,14 @@
   "id": 353897107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058678,34.771118,-112.058678,34.771118",
     "geom:latitude":34.771118,
     "geom:longitude":-112.058678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Main St",
     "sg:city":"Clarkdale",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353897107,
-    "wof:lastmodified":1449020408,
+    "wof:lastmodified":1466330929,
     "wof:name":"Su Casa",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.058678,34.771118,-112.058678,34.771118],
+  "bbox": [
+    -112.058678,
+    34.771118,
+    -112.058678,
+    34.771118
+],
   "geometry": {"coordinates":[-112.058678,34.771118],"type":"Point"}
 }

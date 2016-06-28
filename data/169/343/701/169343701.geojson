@@ -2,13 +2,14 @@
   "id": 169343701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.622494,32.719096,-114.622494,32.719096",
     "geom:latitude":32.719096,
     "geom:longitude":-114.622494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 S Orange Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169343701,
-    "wof:lastmodified":1449035026,
+    "wof:lastmodified":1466333420,
     "wof:name":"Sheriffs Office Warehouse",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.622494,32.719096,-114.622494,32.719096],
+  "bbox": [
+    -114.622494,
+    32.719096,
+    -114.622494,
+    32.719096
+],
   "geometry": {"coordinates":[-114.622494,32.719096],"type":"Point"}
 }

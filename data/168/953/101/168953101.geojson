@@ -2,13 +2,14 @@
   "id": 168953101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.046107,34.25325,-110.046107,34.25325",
     "geom:latitude":34.25325,
     "geom:longitude":-110.046107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Cooley St",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.ci.show-low.az.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168953101,
-    "wof:lastmodified":1449028298,
+    "wof:lastmodified":1466330979,
     "wof:name":"Show Low City Public Works",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.046107,34.25325,-110.046107,34.25325],
-  "geometry": {"coordinates":[-110.046107,34.25325],"type":"Point"}
+  "bbox": [
+    -110.046107,
+    34.25325,
+    -110.046107,
+    34.25325
+],
+  "geometry": {"coordinates":[-110.04610700000001,34.25325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169100807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.98207,33.319756,-111.98207,33.319756",
     "geom:latitude":33.319756,
     "geom:longitude":-111.98207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4703 E Ray Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876697,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169100807,
-    "wof:lastmodified":1449035121,
+    "wof:lastmodified":1466330812,
     "wof:name":"Cricket Communications",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.98207,33.319756,-111.98207,33.319756],
-  "geometry": {"coordinates":[-111.98207,33.319756],"type":"Point"}
+  "bbox": [
+    -111.98207,
+    33.319756,
+    -111.98207,
+    33.319756
+],
+  "geometry": {"coordinates":[-111.98206999999999,33.319756],"type":"Point"}
 }

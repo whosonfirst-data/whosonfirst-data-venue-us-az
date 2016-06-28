@@ -2,13 +2,14 @@
   "id": 320818615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098649,33.659095,-112.098649,33.659095",
     "geom:latitude":33.659095,
     "geom:longitude":-112.098649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 W Taro Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320818615,
-    "wof:lastmodified":1449013075,
+    "wof:lastmodified":1466329955,
     "wof:name":"Ionic Air",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-112.098649,33.659095,-112.098649,33.659095],
-  "geometry": {"coordinates":[-112.098649,33.659095],"type":"Point"}
+  "bbox": [
+    -112.098649,
+    33.659095,
+    -112.098649,
+    33.659095
+],
+  "geometry": {"coordinates":[-112.09864899999999,33.659095],"type":"Point"}
 }

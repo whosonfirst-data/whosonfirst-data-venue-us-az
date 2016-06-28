@@ -2,13 +2,14 @@
   "id": 168889899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.156638,33.630614,-112.156638,33.630614",
     "geom:latitude":33.630614,
     "geom:longitude":-112.156638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4642 W Monte Cristo Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840735,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168889899,
-    "wof:lastmodified":1449027772,
+    "wof:lastmodified":1466329124,
     "wof:name":"Evans Dock & Door Inc",
     "wof:parent_id":85840735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.156638,33.630614,-112.156638,33.630614],
+  "bbox": [
+    -112.156638,
+    33.630614,
+    -112.156638,
+    33.630614
+],
   "geometry": {"coordinates":[-112.156638,33.630614],"type":"Point"}
 }

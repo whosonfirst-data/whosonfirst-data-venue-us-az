@@ -2,13 +2,14 @@
   "id": 169216565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817361,33.350359,-111.817361,33.350359",
     "geom:latitude":33.350359,
     "geom:longitude":-111.817361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 W Washington Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818853,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85818853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169216565,
-    "wof:lastmodified":1449035579,
+    "wof:lastmodified":1466332229,
     "wof:name":"Team Holdings LLC",
     "wof:parent_id":85818853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.817361,33.350359,-111.817361,33.350359],
-  "geometry": {"coordinates":[-111.817361,33.350359],"type":"Point"}
+  "bbox": [
+    -111.817361,
+    33.350359,
+    -111.817361,
+    33.350359
+],
+  "geometry": {"coordinates":[-111.81736100000001,33.350359],"type":"Point"}
 }

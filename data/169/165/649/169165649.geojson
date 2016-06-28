@@ -2,13 +2,14 @@
   "id": 169165649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.430409,31.973239,-110.430409,31.973239",
     "geom:latitude":31.973239,
     "geom:longitude":-110.430409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 Citrus Rd",
     "sg:city":"Benson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169165649,
-    "wof:lastmodified":1449035974,
+    "wof:lastmodified":1466331890,
     "wof:name":"Whetstone Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.430409,31.973239,-110.430409,31.973239],
+  "bbox": [
+    -110.430409,
+    31.973239,
+    -110.430409,
+    31.973239
+],
   "geometry": {"coordinates":[-110.430409,31.973239],"type":"Point"}
 }

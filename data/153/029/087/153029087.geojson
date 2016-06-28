@@ -2,13 +2,14 @@
   "id": 153029087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.023937,34.197779,-110.023937,34.197779",
     "geom:latitude":34.197779,
     "geom:longitude":-110.023937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6378 Crimson Oak Dr",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153029087,
-    "wof:lastmodified":1449040526,
+    "wof:lastmodified":1466325705,
     "wof:name":"Henry E & Katherine L Sutter",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.023937,34.197779,-110.023937,34.197779],
+  "bbox": [
+    -110.023937,
+    34.197779,
+    -110.023937,
+    34.197779
+],
   "geometry": {"coordinates":[-110.023937,34.197779],"type":"Point"}
 }

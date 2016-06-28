@@ -2,13 +2,14 @@
   "id": 153021833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.133646,33.489581,-112.133646,33.489581",
     "geom:latitude":33.489581,
     "geom:longitude":-112.133646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3435 W Whitton Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.dunbararmored.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153021833,
-    "wof:lastmodified":1449040659,
+    "wof:lastmodified":1466327227,
     "wof:name":"Dunbar Armored Car",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.133646,33.489581,-112.133646,33.489581],
+  "bbox": [
+    -112.133646,
+    33.489581,
+    -112.133646,
+    33.489581
+],
   "geometry": {"coordinates":[-112.133646,33.489581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320628237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033773,33.473049,-112.033773,33.473049",
     "geom:latitude":33.473049,
     "geom:longitude":-112.033773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 E Oak St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320628237,
-    "wof:lastmodified":1449014258,
+    "wof:lastmodified":1466326479,
     "wof:name":"Freebyrd Transportation Ll",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-112.033773,33.473049,-112.033773,33.473049],
+  "bbox": [
+    -112.033773,
+    33.473049,
+    -112.033773,
+    33.473049
+],
   "geometry": {"coordinates":[-112.033773,33.473049],"type":"Point"}
 }

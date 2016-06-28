@@ -2,13 +2,14 @@
   "id": 152940127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.963532,32.271991,-110.963532,32.271991",
     "geom:latitude":32.271991,
     "geom:longitude":-110.963532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 E Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152940127,
-    "wof:lastmodified":1449045427,
+    "wof:lastmodified":1466326696,
     "wof:name":"Barry Frank's Motors",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.963532,32.271991,-110.963532,32.271991],
+  "bbox": [
+    -110.963532,
+    32.271991,
+    -110.963532,
+    32.271991
+],
   "geometry": {"coordinates":[-110.963532,32.271991],"type":"Point"}
 }

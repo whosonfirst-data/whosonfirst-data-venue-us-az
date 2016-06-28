@@ -2,13 +2,14 @@
   "id": 169224889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978517,32.355738,-110.978517,32.355738",
     "geom:latitude":32.355738,
     "geom:longitude":-110.978517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8252 N Northern Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169224889,
-    "wof:lastmodified":1449035088,
+    "wof:lastmodified":1466332372,
     "wof:name":"Road A Colin Week Night Church",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978517,32.355738,-110.978517,32.355738],
+  "bbox": [
+    -110.978517,
+    32.355738,
+    -110.978517,
+    32.355738
+],
   "geometry": {"coordinates":[-110.978517,32.355738],"type":"Point"}
 }

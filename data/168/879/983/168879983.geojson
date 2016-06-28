@@ -2,13 +2,14 @@
   "id": 168879983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.883984,32.249097,-110.883984,32.249097",
     "geom:latitude":32.249097,
     "geom:longitude":-110.883984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 N Rosemont Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168879983,
-    "wof:lastmodified":1449027788,
+    "wof:lastmodified":1466328237,
     "wof:name":"Copper Sky Foot & Ankle Ctr",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.883984,32.249097,-110.883984,32.249097],
+  "bbox": [
+    -110.883984,
+    32.249097,
+    -110.883984,
+    32.249097
+],
   "geometry": {"coordinates":[-110.883984,32.249097],"type":"Point"}
 }

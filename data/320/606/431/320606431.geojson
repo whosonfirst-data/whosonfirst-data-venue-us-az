@@ -2,13 +2,14 @@
   "id": 320606431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.081398,33.445011,-112.081398,33.445011",
     "geom:latitude":33.445011,
     "geom:longitude":-112.081398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 W Jackson St Ste 3098",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320606431,
-    "wof:lastmodified":1449011828,
+    "wof:lastmodified":1466325915,
     "wof:name":"Maricopa Cty Adult Prob Dept",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government-county"
     ]
 },
-  "bbox": [-112.081398,33.445011,-112.081398,33.445011],
-  "geometry": {"coordinates":[-112.081398,33.445011],"type":"Point"}
+  "bbox": [
+    -112.081398,
+    33.445011,
+    -112.081398,
+    33.445011
+],
+  "geometry": {"coordinates":[-112.08139799999999,33.445011],"type":"Point"}
 }

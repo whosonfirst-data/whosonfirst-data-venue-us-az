@@ -2,13 +2,14 @@
   "id": 168831753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.909609,32.21249,-110.909609,32.21249",
     "geom:latitude":32.21249,
     "geom:longitude":-110.909609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871749,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168831753,
-    "wof:lastmodified":1449028226,
+    "wof:lastmodified":1466326114,
     "wof:name":"El Rio Golf Course",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.909609,32.21249,-110.909609,32.21249],
+  "bbox": [
+    -110.909609,
+    32.21249,
+    -110.909609,
+    32.21249
+],
   "geometry": {"coordinates":[-110.909609,32.21249],"type":"Point"}
 }

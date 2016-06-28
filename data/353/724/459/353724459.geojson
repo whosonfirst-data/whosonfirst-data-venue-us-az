@@ -2,13 +2,14 @@
   "id": 353724459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.396879,33.624081,-112.396879,33.624081",
     "geom:latitude":33.624081,
     "geom:longitude":-112.396879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15610 W Greenway Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353724459,
-    "wof:lastmodified":1449020720,
+    "wof:lastmodified":1466329929,
     "wof:name":"Greenway Road Properties",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.396879,33.624081,-112.396879,33.624081],
+  "bbox": [
+    -112.396879,
+    33.624081,
+    -112.396879,
+    33.624081
+],
   "geometry": {"coordinates":[-112.396879,33.624081],"type":"Point"}
 }

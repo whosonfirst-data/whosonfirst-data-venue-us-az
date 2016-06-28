@@ -2,13 +2,14 @@
   "id": 169378627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054082,33.30041,-112.054082,33.30041",
     "geom:latitude":33.30041,
     "geom:longitude":-112.054082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 E Amberwood Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169378627,
-    "wof:lastmodified":1449034921,
+    "wof:lastmodified":1466334090,
     "wof:name":"Best of British Music LLC",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054082,33.30041,-112.054082,33.30041],
-  "geometry": {"coordinates":[-112.054082,33.30041],"type":"Point"}
+  "bbox": [
+    -112.054082,
+    33.30041,
+    -112.054082,
+    33.30041
+],
+  "geometry": {"coordinates":[-112.05408199999999,33.30041],"type":"Point"}
 }

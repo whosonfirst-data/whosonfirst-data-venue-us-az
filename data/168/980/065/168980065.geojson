@@ -2,13 +2,14 @@
   "id": 168980065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.942415,31.333544,-110.942415,31.333544",
     "geom:latitude":31.333544,
     "geom:longitude":-110.942415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Terrace Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168980065,
-    "wof:lastmodified":1449027827,
+    "wof:lastmodified":1466331412,
     "wof:name":"USA Duty Free",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.942415,31.333544,-110.942415,31.333544],
+  "bbox": [
+    -110.942415,
+    31.333544,
+    -110.942415,
+    31.333544
+],
   "geometry": {"coordinates":[-110.942415,31.333544],"type":"Point"}
 }

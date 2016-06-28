@@ -2,13 +2,14 @@
   "id": 169363403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.734878,33.415427,-111.734878,33.415427",
     "geom:latitude":33.415427,
     "geom:longitude":-111.734878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4433 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853593,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85853593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169363403,
-    "wof:lastmodified":1449035555,
+    "wof:lastmodified":1466333618,
     "wof:name":"99 Cents Only Stores",
     "wof:parent_id":85853593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.734878,33.415427,-111.734878,33.415427],
-  "geometry": {"coordinates":[-111.734878,33.415427],"type":"Point"}
+  "bbox": [
+    -111.734878,
+    33.415427,
+    -111.734878,
+    33.415427
+],
+  "geometry": {"coordinates":[-111.73487799999999,33.415427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336662135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.993623,33.413177,-111.993623,33.413177",
     "geom:latitude":33.413177,
     "geom:longitude":-111.993623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 E Raymond St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336662135,
-    "wof:lastmodified":1448997653,
+    "wof:lastmodified":1466327232,
     "wof:name":"McCreary's Tees",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-111.993623,33.413177,-111.993623,33.413177],
+  "bbox": [
+    -111.993623,
+    33.413177,
+    -111.993623,
+    33.413177
+],
   "geometry": {"coordinates":[-111.993623,33.413177],"type":"Point"}
 }

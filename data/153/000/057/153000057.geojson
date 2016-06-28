@@ -2,13 +2,14 @@
   "id": 153000057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.833892,32.221067,-110.833892,32.221067",
     "geom:latitude":32.221067,
     "geom:longitude":-110.833892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7477 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153000057,
-    "wof:lastmodified":1449040408,
+    "wof:lastmodified":1466325982,
     "wof:name":"Summit Financial Group",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.833892,32.221067,-110.833892,32.221067],
-  "geometry": {"coordinates":[-110.833892,32.221067],"type":"Point"}
+  "bbox": [
+    -110.833892,
+    32.221067,
+    -110.833892,
+    32.221067
+],
+  "geometry": {"coordinates":[-110.83389200000001,32.221067],"type":"Point"}
 }

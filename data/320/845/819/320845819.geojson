@@ -2,13 +2,14 @@
   "id": 320845819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111184,33.581989,-112.111184,33.581989",
     "geom:latitude":33.581989,
     "geom:longitude":-112.111184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 W Peoria Ave Ste 1182",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320845819,
-    "wof:lastmodified":1449011867,
+    "wof:lastmodified":1466330392,
     "wof:name":"Bazzill Engraving",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "etched"
     ]
 },
-  "bbox": [-112.111184,33.581989,-112.111184,33.581989],
-  "geometry": {"coordinates":[-112.111184,33.581989],"type":"Point"}
+  "bbox": [
+    -112.111184,
+    33.581989,
+    -112.111184,
+    33.581989
+],
+  "geometry": {"coordinates":[-112.11118399999999,33.581989],"type":"Point"}
 }

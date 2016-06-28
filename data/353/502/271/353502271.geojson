@@ -2,13 +2,14 @@
   "id": 353502271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919164,33.374924,-111.919164,33.374924",
     "geom:latitude":33.374924,
     "geom:longitude":-111.919164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5450 S Lakeshore Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353502271,
-    "wof:lastmodified":1449019431,
+    "wof:lastmodified":1466327224,
     "wof:name":"School Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-111.919164,33.374924,-111.919164,33.374924],
-  "geometry": {"coordinates":[-111.919164,33.374924],"type":"Point"}
+  "bbox": [
+    -111.919164,
+    33.374924,
+    -111.919164,
+    33.374924
+],
+  "geometry": {"coordinates":[-111.91916399999999,33.374924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153032523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995463,32.249826,-110.995463,32.249826",
     "geom:latitude":32.249826,
     "geom:longitude":-110.995463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 N Forbes Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153032523,
-    "wof:lastmodified":1449040563,
+    "wof:lastmodified":1466325950,
     "wof:name":"Policy Electronics",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995463,32.249826,-110.995463,32.249826],
+  "bbox": [
+    -110.995463,
+    32.249826,
+    -110.995463,
+    32.249826
+],
   "geometry": {"coordinates":[-110.995463,32.249826],"type":"Point"}
 }

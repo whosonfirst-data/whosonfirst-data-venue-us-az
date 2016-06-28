@@ -2,13 +2,14 @@
   "id": 169240297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.470126,34.552605,-112.470126,34.552605",
     "geom:latitude":34.552605,
     "geom:longitude":-112.470126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 W Navajo Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169240297,
-    "wof:lastmodified":1449033017,
+    "wof:lastmodified":1466332428,
     "wof:name":"Alpine Family Dental",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.470126,34.552605,-112.470126,34.552605],
-  "geometry": {"coordinates":[-112.470126,34.552605],"type":"Point"}
+  "bbox": [
+    -112.470126,
+    34.552605,
+    -112.470126,
+    34.552605
+],
+  "geometry": {"coordinates":[-112.47012599999999,34.552605],"type":"Point"}
 }

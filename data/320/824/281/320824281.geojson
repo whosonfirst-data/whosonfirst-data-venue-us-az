@@ -2,13 +2,14 @@
   "id": 320824281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091759,33.693741,-112.091759,33.693741",
     "geom:latitude":33.693741,
     "geom:longitude":-112.091759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Knudsen Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320824281,
-    "wof:lastmodified":1449012607,
+    "wof:lastmodified":1466330048,
     "wof:name":"Em Lab P & K",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "artist"
     ]
 },
-  "bbox": [-112.091759,33.693741,-112.091759,33.693741],
+  "bbox": [
+    -112.091759,
+    33.693741,
+    -112.091759,
+    33.693741
+],
   "geometry": {"coordinates":[-112.091759,33.693741],"type":"Point"}
 }

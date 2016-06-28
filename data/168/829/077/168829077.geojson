@@ -2,13 +2,14 @@
   "id": 168829077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.063623,33.538348,-112.063623,33.538348",
     "geom:latitude":33.538348,
     "geom:longitude":-112.063623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 E Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848897,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85848897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168829077,
-    "wof:lastmodified":1449028541,
+    "wof:lastmodified":1466325964,
     "wof:name":"Carvel Ice Cream & Bakery",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.063623,33.538348,-112.063623,33.538348],
-  "geometry": {"coordinates":[-112.063623,33.538348],"type":"Point"}
+  "bbox": [
+    -112.063623,
+    33.538348,
+    -112.063623,
+    33.538348
+],
+  "geometry": {"coordinates":[-112.06362300000001,33.538348],"type":"Point"}
 }

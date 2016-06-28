@@ -2,13 +2,14 @@
   "id": 153003153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974848,32.323329,-110.974848,32.323329",
     "geom:latitude":32.323329,
     "geom:longitude":-110.974848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6468 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153003153,
-    "wof:lastmodified":1449040791,
+    "wof:lastmodified":1466325707,
     "wof:name":"Inglis Florist Inc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.974848,32.323329,-110.974848,32.323329],
-  "geometry": {"coordinates":[-110.974848,32.323329],"type":"Point"}
+  "bbox": [
+    -110.974848,
+    32.323329,
+    -110.974848,
+    32.323329
+],
+  "geometry": {"coordinates":[-110.97484799999999,32.323329],"type":"Point"}
 }

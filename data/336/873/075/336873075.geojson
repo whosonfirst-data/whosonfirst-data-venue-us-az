@@ -2,13 +2,14 @@
   "id": 336873075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.822927,33.291773,-111.822927,33.291773",
     "geom:latitude":33.291773,
     "geom:longitude":-111.822927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 E Pecos Road",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336873075,
-    "wof:lastmodified":1448997171,
+    "wof:lastmodified":1466330170,
     "wof:name":"East Valley Family Healthcare",
     "wof:parent_id":85852033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.822927,33.291773,-111.822927,33.291773],
-  "geometry": {"coordinates":[-111.822927,33.291773],"type":"Point"}
+  "bbox": [
+    -111.822927,
+    33.291773,
+    -111.822927,
+    33.291773
+],
+  "geometry": {"coordinates":[-111.82292700000001,33.291773],"type":"Point"}
 }

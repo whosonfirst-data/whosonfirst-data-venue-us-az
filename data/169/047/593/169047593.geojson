@@ -2,13 +2,14 @@
   "id": 169047593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204059,33.413114,-112.204059,33.413114",
     "geom:latitude":33.413114,
     "geom:longitude":-112.204059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3839 S 67th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169047593,
-    "wof:lastmodified":1449034814,
+    "wof:lastmodified":1466328167,
     "wof:name":"Irri Scape Construction",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.204059,33.413114,-112.204059,33.413114],
+  "bbox": [
+    -112.204059,
+    33.413114,
+    -112.204059,
+    33.413114
+],
   "geometry": {"coordinates":[-112.204059,33.413114],"type":"Point"}
 }

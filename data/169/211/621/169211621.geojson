@@ -2,13 +2,14 @@
   "id": 169211621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047773,33.550856,-112.047773,33.550856",
     "geom:latitude":33.550856,
     "geom:longitude":-112.047773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7887 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852109,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169211621,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466332235,
     "wof:name":"Canyon Gate Condominium Assn",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047773,33.550856,-112.047773,33.550856],
-  "geometry": {"coordinates":[-112.047773,33.550856],"type":"Point"}
+  "bbox": [
+    -112.047773,
+    33.550856,
+    -112.047773,
+    33.550856
+],
+  "geometry": {"coordinates":[-112.04777300000001,33.550856],"type":"Point"}
 }

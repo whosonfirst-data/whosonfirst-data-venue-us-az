@@ -2,13 +2,14 @@
   "id": 169388993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.432556,33.349493,-112.432556,33.349493",
     "geom:latitude":33.349493,
     "geom:longitude":-112.432556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17836 W Cactus Flower Dr",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169388993,
-    "wof:lastmodified":1449032814,
+    "wof:lastmodified":1466333930,
     "wof:name":"Go Space Maker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.432556,33.349493,-112.432556,33.349493],
-  "geometry": {"coordinates":[-112.432556,33.349493],"type":"Point"}
+  "bbox": [
+    -112.432556,
+    33.349493,
+    -112.432556,
+    33.349493
+],
+  "geometry": {"coordinates":[-112.43255600000001,33.349493],"type":"Point"}
 }

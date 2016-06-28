@@ -2,13 +2,14 @@
   "id": 169160035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060972,33.574166,-112.060972,33.574166",
     "geom:latitude":33.574166,
     "geom:longitude":-112.060972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 E Purdue Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169160035,
-    "wof:lastmodified":1449035438,
+    "wof:lastmodified":1466331743,
     "wof:name":"Veterans Foreign War",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.060972,33.574166,-112.060972,33.574166],
-  "geometry": {"coordinates":[-112.060972,33.574166],"type":"Point"}
+  "bbox": [
+    -112.060972,
+    33.574166,
+    -112.060972,
+    33.574166
+],
+  "geometry": {"coordinates":[-112.06097200000001,33.574166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169292919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.95368,31.405845,-110.95368,31.405845",
     "geom:latitude":31.405845,
     "geom:longitude":-110.95368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Old Tucson Rd",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169292919,
-    "wof:lastmodified":1449032955,
+    "wof:lastmodified":1466332990,
     "wof:name":"Stevco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.95368,31.405845,-110.95368,31.405845],
-  "geometry": {"coordinates":[-110.95368,31.405845],"type":"Point"}
+  "bbox": [
+    -110.95368,
+    31.405845,
+    -110.95368,
+    31.405845
+],
+  "geometry": {"coordinates":[-110.95368000000001,31.405845],"type":"Point"}
 }

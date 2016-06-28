@@ -2,13 +2,14 @@
   "id": 169171085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97378,33.394114,-111.97378,33.394114",
     "geom:latitude":33.394114,
     "geom:longitude":-111.97378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 W Huntington Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812107,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85812107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169171085,
-    "wof:lastmodified":1449035980,
+    "wof:lastmodified":1466331841,
     "wof:name":"Pathway Drug Abuse Program",
     "wof:parent_id":85812107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.97378,33.394114,-111.97378,33.394114],
+  "bbox": [
+    -111.97378,
+    33.394114,
+    -111.97378,
+    33.394114
+],
   "geometry": {"coordinates":[-111.97378,33.394114],"type":"Point"}
 }

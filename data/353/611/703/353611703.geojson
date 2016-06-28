@@ -2,13 +2,14 @@
   "id": 353611703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.188242,33.638599,-112.188242,33.638599",
     "geom:latitude":33.638599,
     "geom:longitude":-112.188242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5951 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353611703,
-    "wof:lastmodified":1449020276,
+    "wof:lastmodified":1466328671,
     "wof:name":"Furniture Stop",
     "wof:parent_id":85846577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-112.188242,33.638599,-112.188242,33.638599],
+  "bbox": [
+    -112.188242,
+    33.638599,
+    -112.188242,
+    33.638599
+],
   "geometry": {"coordinates":[-112.188242,33.638599],"type":"Point"}
 }

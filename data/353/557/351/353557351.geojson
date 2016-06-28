@@ -2,13 +2,14 @@
   "id": 353557351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.169515,33.509472,-112.169515,33.509472",
     "geom:latitude":33.509472,
     "geom:longitude":-112.169515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5114 W Camelback Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353557351,
-    "wof:lastmodified":1449020069,
+    "wof:lastmodified":1466328084,
     "wof:name":"Westside Cocktail Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-112.169515,33.509472,-112.169515,33.509472],
+  "bbox": [
+    -112.169515,
+    33.509472,
+    -112.169515,
+    33.509472
+],
   "geometry": {"coordinates":[-112.169515,33.509472],"type":"Point"}
 }

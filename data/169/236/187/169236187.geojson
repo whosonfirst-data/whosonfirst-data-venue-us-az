@@ -2,13 +2,14 @@
   "id": 169236187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892896,33.611512,-111.892896,33.611512",
     "geom:latitude":33.611512,
     "geom:longitude":-111.892896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13845 N Northsight Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.gaylordsports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880929,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169236187,
-    "wof:lastmodified":1449033022,
+    "wof:lastmodified":1466332437,
     "wof:name":"Gaylord Sports Management",
     "wof:parent_id":85880929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892896,33.611512,-111.892896,33.611512],
-  "geometry": {"coordinates":[-111.892896,33.611512],"type":"Point"}
+  "bbox": [
+    -111.892896,
+    33.611512,
+    -111.892896,
+    33.611512
+],
+  "geometry": {"coordinates":[-111.89289599999999,33.611512],"type":"Point"}
 }

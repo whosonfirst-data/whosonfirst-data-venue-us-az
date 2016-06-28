@@ -2,13 +2,14 @@
   "id": 320788231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.090058,33.545295,-112.090058,33.545295",
     "geom:latitude":33.545295,
     "geom:longitude":-112.090058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 W Orangewood Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320788231,
-    "wof:lastmodified":1449013185,
+    "wof:lastmodified":1466329680,
     "wof:name":"Demore Properties",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-112.090058,33.545295,-112.090058,33.545295],
+  "bbox": [
+    -112.090058,
+    33.545295,
+    -112.090058,
+    33.545295
+],
   "geometry": {"coordinates":[-112.090058,33.545295],"type":"Point"}
 }

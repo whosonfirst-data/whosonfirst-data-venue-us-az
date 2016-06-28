@@ -2,13 +2,14 @@
   "id": 169298083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017179,33.582494,-112.017179,33.582494",
     "geom:latitude":33.582494,
     "geom:longitude":-112.017179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 E Shea Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169298083,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466332895,
     "wof:name":"Biltmore Drapery Cleaners Inc",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.017179,33.582494,-112.017179,33.582494],
+  "bbox": [
+    -112.017179,
+    33.582494,
+    -112.017179,
+    33.582494
+],
   "geometry": {"coordinates":[-112.017179,33.582494],"type":"Point"}
 }

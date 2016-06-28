@@ -2,13 +2,14 @@
   "id": 168825811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870517,33.611637,-111.870517,33.611637",
     "geom:latitude":33.611637,
     "geom:longitude":-111.870517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9742 E Celtic Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168825811,
-    "wof:lastmodified":1449027790,
+    "wof:lastmodified":1466325852,
     "wof:name":"Medtronic",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.870517,33.611637,-111.870517,33.611637],
-  "geometry": {"coordinates":[-111.870517,33.611637],"type":"Point"}
+  "bbox": [
+    -111.870517,
+    33.611637,
+    -111.870517,
+    33.611637
+],
+  "geometry": {"coordinates":[-111.87051700000001,33.611637],"type":"Point"}
 }

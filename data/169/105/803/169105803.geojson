@@ -2,13 +2,14 @@
   "id": 169105803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972691,33.626435,-111.972691,33.626435",
     "geom:latitude":33.626435,
     "geom:longitude":-111.972691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15426 N 50th Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85823123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169105803,
-    "wof:lastmodified":1449033947,
+    "wof:lastmodified":1466331116,
     "wof:name":"Katie A Hines",
     "wof:parent_id":85823123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.972691,33.626435,-111.972691,33.626435],
+  "bbox": [
+    -111.972691,
+    33.626435,
+    -111.972691,
+    33.626435
+],
   "geometry": {"coordinates":[-111.972691,33.626435],"type":"Point"}
 }

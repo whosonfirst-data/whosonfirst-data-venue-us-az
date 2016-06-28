@@ -2,13 +2,14 @@
   "id": 169005063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.889789,33.326222,-111.889789,33.326222",
     "geom:latitude":33.326222,
     "geom:longitude":-111.889789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2782 W Jasper Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810253,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85810253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169005063,
-    "wof:lastmodified":1449035691,
+    "wof:lastmodified":1466326185,
     "wof:name":"Sand Taco Inc",
     "wof:parent_id":85810253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.889789,33.326222,-111.889789,33.326222],
-  "geometry": {"coordinates":[-111.889789,33.326222],"type":"Point"}
+  "bbox": [
+    -111.889789,
+    33.326222,
+    -111.889789,
+    33.326222
+],
+  "geometry": {"coordinates":[-111.88978899999999,33.326222],"type":"Point"}
 }

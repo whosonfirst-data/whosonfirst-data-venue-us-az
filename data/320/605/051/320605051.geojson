@@ -2,13 +2,14 @@
   "id": 320605051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075218,33.457428,-112.075218,33.457428",
     "geom:latitude":33.457428,
     "geom:longitude":-112.075218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 N 1st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320605051,
-    "wof:lastmodified":1449013080,
+    "wof:lastmodified":1466325876,
     "wof:name":"Eureka Productions Inc",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.075218,33.457428,-112.075218,33.457428],
-  "geometry": {"coordinates":[-112.075218,33.457428],"type":"Point"}
+  "bbox": [
+    -112.075218,
+    33.457428,
+    -112.075218,
+    33.457428
+],
+  "geometry": {"coordinates":[-112.07521800000001,33.457428],"type":"Point"}
 }

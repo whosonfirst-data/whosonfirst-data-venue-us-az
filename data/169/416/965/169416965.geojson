@@ -2,13 +2,14 @@
   "id": 169416965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.94916,33.313306,-111.94916,33.313306",
     "geom:latitude":33.313306,
     "geom:longitude":-111.94916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 N Roosevelt Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169416965,
-    "wof:lastmodified":1449034157,
+    "wof:lastmodified":1466334149,
     "wof:name":"Bavco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.94916,33.313306,-111.94916,33.313306],
-  "geometry": {"coordinates":[-111.94916,33.313306],"type":"Point"}
+  "bbox": [
+    -111.94916,
+    33.313306,
+    -111.94916,
+    33.313306
+],
+  "geometry": {"coordinates":[-111.94916000000001,33.313306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353783371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.925476,31.377505,-109.925476,31.377505",
     "geom:latitude":31.377505,
     "geom:longitude":-109.925476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 S Naco Hwy",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353783371,
-    "wof:lastmodified":1449018326,
+    "wof:lastmodified":1466330322,
     "wof:name":"Tacho's Tacos",
     "wof:parent_id":85804277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-109.925476,31.377505,-109.925476,31.377505],
+  "bbox": [
+    -109.925476,
+    31.377505,
+    -109.925476,
+    31.377505
+],
   "geometry": {"coordinates":[-109.925476,31.377505],"type":"Point"}
 }

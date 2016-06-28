@@ -2,13 +2,14 @@
   "id": 320632973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096309,33.44595,-112.096309,33.44595",
     "geom:latitude":33.44595,
     "geom:longitude":-112.096309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 W Madison St Rm C3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320632973,
-    "wof:lastmodified":1449013648,
+    "wof:lastmodified":1466326601,
     "wof:name":"Data Processing",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "data"
     ]
 },
-  "bbox": [-112.096309,33.44595,-112.096309,33.44595],
-  "geometry": {"coordinates":[-112.096309,33.44595],"type":"Point"}
+  "bbox": [
+    -112.096309,
+    33.44595,
+    -112.096309,
+    33.44595
+],
+  "geometry": {"coordinates":[-112.09630900000001,33.44595],"type":"Point"}
 }

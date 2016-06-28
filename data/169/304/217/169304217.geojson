@@ -2,13 +2,14 @@
   "id": 169304217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019988,33.638461,-112.019988,33.638461",
     "geom:latitude":33.638461,
     "geom:longitude":-112.019988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16601 N 29th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835867,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85835867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169304217,
-    "wof:lastmodified":1449035129,
+    "wof:lastmodified":1466333227,
     "wof:name":"Best Custom Painting",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.019988,33.638461,-112.019988,33.638461],
+  "bbox": [
+    -112.019988,
+    33.638461,
+    -112.019988,
+    33.638461
+],
   "geometry": {"coordinates":[-112.019988,33.638461],"type":"Point"}
 }

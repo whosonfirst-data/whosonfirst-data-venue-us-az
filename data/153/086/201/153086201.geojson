@@ -2,13 +2,14 @@
   "id": 153086201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030108,33.487566,-112.030108,33.487566",
     "geom:latitude":33.487566,
     "geom:longitude":-112.030108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3331 N 24th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153086201,
-    "wof:lastmodified":1449040682,
+    "wof:lastmodified":1466329127,
     "wof:name":"Corporate Courier",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.030108,33.487566,-112.030108,33.487566],
+  "bbox": [
+    -112.030108,
+    33.487566,
+    -112.030108,
+    33.487566
+],
   "geometry": {"coordinates":[-112.030108,33.487566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169291635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.192241,33.655549,-112.192241,33.655549",
     "geom:latitude":33.655549,
     "geom:longitude":-112.192241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 W Julie Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169291635,
-    "wof:lastmodified":1449033705,
+    "wof:lastmodified":1466332895,
     "wof:name":"IOA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.192241,33.655549,-112.192241,33.655549],
+  "bbox": [
+    -112.192241,
+    33.655549,
+    -112.192241,
+    33.655549
+],
   "geometry": {"coordinates":[-112.192241,33.655549],"type":"Point"}
 }

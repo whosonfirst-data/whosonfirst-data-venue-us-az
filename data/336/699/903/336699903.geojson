@@ -2,13 +2,14 @@
   "id": 336699903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976517,33.351483,-111.976517,33.351483",
     "geom:latitude":33.351483,
     "geom:longitude":-111.976517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10422 S 49th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":336699903,
-    "wof:lastmodified":1448997075,
+    "wof:lastmodified":1466328023,
     "wof:name":"Arizona Family Health Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "drug"
     ]
 },
-  "bbox": [-111.976517,33.351483,-111.976517,33.351483],
+  "bbox": [
+    -111.976517,
+    33.351483,
+    -111.976517,
+    33.351483
+],
   "geometry": {"coordinates":[-111.976517,33.351483],"type":"Point"}
 }

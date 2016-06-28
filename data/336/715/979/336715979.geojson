@@ -2,13 +2,14 @@
   "id": 336715979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116928,33.539339,-112.116928,33.539339",
     "geom:latitude":33.539339,
     "geom:longitude":-112.116928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7014 N 27th Ave Ste 3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336715979,
-    "wof:lastmodified":1448997813,
+    "wof:lastmodified":1466328279,
     "wof:name":"Danny's Barber Shop",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.116928,33.539339,-112.116928,33.539339],
+  "bbox": [
+    -112.116928,
+    33.539339,
+    -112.116928,
+    33.539339
+],
   "geometry": {"coordinates":[-112.116928,33.539339],"type":"Point"}
 }

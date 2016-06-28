@@ -2,13 +2,14 @@
   "id": 169315169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.92668,34.123924,-109.92668,34.123924",
     "geom:latitude":34.123924,
     "geom:longitude":-109.92668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Pine Lake Rd",
     "sg:city":"Pinetop",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.pinetopfire.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169315169,
-    "wof:lastmodified":1449035788,
+    "wof:lastmodified":1466333261,
     "wof:name":"Pinetop Fire Dept",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.92668,34.123924,-109.92668,34.123924],
+  "bbox": [
+    -109.92668,
+    34.123924,
+    -109.92668,
+    34.123924
+],
   "geometry": {"coordinates":[-109.92668,34.123924],"type":"Point"}
 }

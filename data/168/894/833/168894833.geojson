@@ -2,13 +2,14 @@
   "id": 168894833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.070353,33.489592,-112.070353,33.489592",
     "geom:latitude":33.489592,
     "geom:longitude":-112.070353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 E Columbus Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168894833,
-    "wof:lastmodified":1449028082,
+    "wof:lastmodified":1466329209,
     "wof:name":"Reinhart & Rock",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.070353,33.489592,-112.070353,33.489592],
+  "bbox": [
+    -112.070353,
+    33.489592,
+    -112.070353,
+    33.489592
+],
   "geometry": {"coordinates":[-112.070353,33.489592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169348659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.022337,32.334559,-111.022337,32.334559",
     "geom:latitude":32.334559,
     "geom:longitude":-111.022337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7047 N Circola Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169348659,
-    "wof:lastmodified":1449032831,
+    "wof:lastmodified":1466333477,
     "wof:name":"Curves Graphic Design",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.022337,32.334559,-111.022337,32.334559],
-  "geometry": {"coordinates":[-111.022337,32.334559],"type":"Point"}
+  "bbox": [
+    -111.022337,
+    32.334559,
+    -111.022337,
+    32.334559
+],
+  "geometry": {"coordinates":[-111.02233699999999,32.334559],"type":"Point"}
 }

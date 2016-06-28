@@ -2,13 +2,14 @@
   "id": 168934867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.643641,32.851881,-109.643641,32.851881",
     "geom:latitude":32.851881,
     "geom:longitude":-109.643641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 E Aviation Way",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168934867,
-    "wof:lastmodified":1449027811,
+    "wof:lastmodified":1466330700,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.643641,32.851881,-109.643641,32.851881],
+  "bbox": [
+    -109.643641,
+    32.851881,
+    -109.643641,
+    32.851881
+],
   "geometry": {"coordinates":[-109.643641,32.851881],"type":"Point"}
 }

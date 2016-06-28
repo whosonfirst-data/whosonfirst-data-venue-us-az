@@ -2,13 +2,14 @@
   "id": 169147821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.120277,34.508613,-110.120277,34.508613",
     "geom:latitude":34.508613,
     "geom:longitude":-110.120277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 W Country Club Dr",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169147821,
-    "wof:lastmodified":1449035596,
+    "wof:lastmodified":1466331820,
     "wof:name":"Golf Course Snowflake Municpl",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.120277,34.508613,-110.120277,34.508613],
+  "bbox": [
+    -110.120277,
+    34.508613,
+    -110.120277,
+    34.508613
+],
   "geometry": {"coordinates":[-110.120277,34.508613],"type":"Point"}
 }

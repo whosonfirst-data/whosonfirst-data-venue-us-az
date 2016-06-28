@@ -2,13 +2,14 @@
   "id": 320781007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115026,33.579934,-112.115026,33.579934",
     "geom:latitude":33.579934,
     "geom:longitude":-112.115026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 W Beryl Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":320781007,
-    "wof:lastmodified":1449011961,
+    "wof:lastmodified":1466329432,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "charity"
     ]
 },
-  "bbox": [-112.115026,33.579934,-112.115026,33.579934],
+  "bbox": [
+    -112.115026,
+    33.579934,
+    -112.115026,
+    33.579934
+],
   "geometry": {"coordinates":[-112.115026,33.579934],"type":"Point"}
 }

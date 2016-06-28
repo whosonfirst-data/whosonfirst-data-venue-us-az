@@ -2,13 +2,14 @@
   "id": 169195183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978244,32.281833,-110.978244,32.281833",
     "geom:latitude":32.281833,
     "geom:longitude":-110.978244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.picurro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169195183,
-    "wof:lastmodified":1449034857,
+    "wof:lastmodified":1466332057,
     "wof:name":"Picurro Pizzeria",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978244,32.281833,-110.978244,32.281833],
+  "bbox": [
+    -110.978244,
+    32.281833,
+    -110.978244,
+    32.281833
+],
   "geometry": {"coordinates":[-110.978244,32.281833],"type":"Point"}
 }

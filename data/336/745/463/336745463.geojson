@@ -2,13 +2,14 @@
   "id": 336745463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.557296,32.976151,-111.557296,32.976151",
     "geom:latitude":32.976151,
     "geom:longitude":-111.557296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2282 W Central Ave",
     "sg:city":"Coolidge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336745463,
-    "wof:lastmodified":1448997956,
+    "wof:lastmodified":1466328700,
     "wof:name":"Mountain View Pool Servic",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-111.557296,32.976151,-111.557296,32.976151],
-  "geometry": {"coordinates":[-111.557296,32.976151],"type":"Point"}
+  "bbox": [
+    -111.557296,
+    32.976151,
+    -111.557296,
+    32.976151
+],
+  "geometry": {"coordinates":[-111.55729599999999,32.976151],"type":"Point"}
 }

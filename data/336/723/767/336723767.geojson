@@ -2,13 +2,14 @@
   "id": 336723767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117798,33.567539,-112.117798,33.567539",
     "geom:latitude":33.567539,
     "geom:longitude":-112.117798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 W Dunlap Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":336723767,
-    "wof:lastmodified":1448997568,
+    "wof:lastmodified":1466328397,
     "wof:name":"U-Haul at Dunlap & I-17",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.117798,33.567539,-112.117798,33.567539],
-  "geometry": {"coordinates":[-112.117798,33.567539],"type":"Point"}
+  "bbox": [
+    -112.117798,
+    33.567539,
+    -112.117798,
+    33.567539
+],
+  "geometry": {"coordinates":[-112.11779799999999,33.567539],"type":"Point"}
 }

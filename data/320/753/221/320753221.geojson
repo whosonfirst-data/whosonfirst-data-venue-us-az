@@ -2,13 +2,14 @@
   "id": 320753221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.978737,33.502451,-111.978737,33.502451",
     "geom:latitude":33.502451,
     "geom:longitude":-111.978737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4481 N Launfal Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320753221,
-    "wof:lastmodified":1449011687,
+    "wof:lastmodified":1466328933,
     "wof:name":"Preferred Billing Solutions",
     "wof:parent_id":85885499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-111.978737,33.502451,-111.978737,33.502451],
+  "bbox": [
+    -111.978737,
+    33.502451,
+    -111.978737,
+    33.502451
+],
   "geometry": {"coordinates":[-111.978737,33.502451],"type":"Point"}
 }

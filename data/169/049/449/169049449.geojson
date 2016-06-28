@@ -2,13 +2,14 @@
   "id": 169049449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.64915,35.202689,-111.64915,35.202689",
     "geom:latitude":35.202689,
     "geom:longitude":-111.64915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N Humphreys St",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169049449,
-    "wof:lastmodified":1449034323,
+    "wof:lastmodified":1466328298,
     "wof:name":"Roger T Bollard CPA",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.64915,35.202689,-111.64915,35.202689],
-  "geometry": {"coordinates":[-111.64915,35.202689],"type":"Point"}
+  "bbox": [
+    -111.64915,
+    35.202689,
+    -111.64915,
+    35.202689
+],
+  "geometry": {"coordinates":[-111.64915000000001,35.202689],"type":"Point"}
 }

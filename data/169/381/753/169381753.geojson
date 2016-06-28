@@ -2,13 +2,14 @@
   "id": 169381753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939418,31.335144,-110.939418,31.335144",
     "geom:latitude":31.335144,
     "geom:longitude":-110.939418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169381753,
-    "wof:lastmodified":1449032945,
+    "wof:lastmodified":1466333871,
     "wof:name":"A B C Silk Flowers & Crafts",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939418,31.335144,-110.939418,31.335144],
+  "bbox": [
+    -110.939418,
+    31.335144,
+    -110.939418,
+    31.335144
+],
   "geometry": {"coordinates":[-110.939418,31.335144],"type":"Point"}
 }

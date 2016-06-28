@@ -2,13 +2,14 @@
   "id": 169177637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034503,33.305762,-112.034503,33.305762",
     "geom:latitude":33.305762,
     "geom:longitude":-112.034503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15435 S 23rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169177637,
-    "wof:lastmodified":1449035965,
+    "wof:lastmodified":1466331993,
     "wof:name":"Win Food Mart",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.034503,33.305762,-112.034503,33.305762],
+  "bbox": [
+    -112.034503,
+    33.305762,
+    -112.034503,
+    33.305762
+],
   "geometry": {"coordinates":[-112.034503,33.305762],"type":"Point"}
 }

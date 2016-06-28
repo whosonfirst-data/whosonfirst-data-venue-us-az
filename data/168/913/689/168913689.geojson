@@ -2,13 +2,14 @@
   "id": 168913689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777076,33.412653,-111.777076,33.412653",
     "geom:latitude":33.412653,
     "geom:longitude":-111.777076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Allred Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820819,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168913689,
-    "wof:lastmodified":1449028065,
+    "wof:lastmodified":1466330132,
     "wof:name":"Coronado Mobile Home Park",
     "wof:parent_id":85820819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.777076,33.412653,-111.777076,33.412653],
-  "geometry": {"coordinates":[-111.777076,33.412653],"type":"Point"}
+  "bbox": [
+    -111.777076,
+    33.412653,
+    -111.777076,
+    33.412653
+],
+  "geometry": {"coordinates":[-111.77707599999999,33.412653],"type":"Point"}
 }

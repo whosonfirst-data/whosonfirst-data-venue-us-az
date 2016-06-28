@@ -2,13 +2,14 @@
   "id": 152924479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.813326,32.180552,-110.813326,32.180552",
     "geom:latitude":32.180552,
     "geom:longitude":-110.813326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3438 S Santee Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152924479,
-    "wof:lastmodified":1449045584,
+    "wof:lastmodified":1466327585,
     "wof:name":"Tucson Golden Gopher Inc",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.813326,32.180552,-110.813326,32.180552],
+  "bbox": [
+    -110.813326,
+    32.180552,
+    -110.813326,
+    32.180552
+],
   "geometry": {"coordinates":[-110.813326,32.180552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152982859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.25323,33.557392,-112.25323,33.557392",
     "geom:latitude":33.557392,
     "geom:longitude":-112.25323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9003 W el Caminito Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85877813
+        85633793,
+        85877813,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152982859,
-    "wof:lastmodified":1449045101,
+    "wof:lastmodified":1466329084,
     "wof:name":"Bruce Beyer",
     "wof:parent_id":85877813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.25323,33.557392,-112.25323,33.557392],
+  "bbox": [
+    -112.25323,
+    33.557392,
+    -112.25323,
+    33.557392
+],
   "geometry": {"coordinates":[-112.25323,33.557392],"type":"Point"}
 }

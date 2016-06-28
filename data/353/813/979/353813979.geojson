@@ -2,13 +2,14 @@
   "id": 353813979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.991521,32.259247,-110.991521,32.259247",
     "geom:latitude":32.259247,
     "geom:longitude":-110.991521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 W Monte Vista St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353813979,
-    "wof:lastmodified":1449018918,
+    "wof:lastmodified":1466330366,
     "wof:name":"Buchanan Electric Inc",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-110.991521,32.259247,-110.991521,32.259247],
-  "geometry": {"coordinates":[-110.991521,32.259247],"type":"Point"}
+  "bbox": [
+    -110.991521,
+    32.259247,
+    -110.991521,
+    32.259247
+],
+  "geometry": {"coordinates":[-110.99152100000001,32.259247],"type":"Point"}
 }

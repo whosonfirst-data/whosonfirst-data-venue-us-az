@@ -2,13 +2,14 @@
   "id": 353826365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965399,32.204438,-110.965399,32.204438",
     "geom:latitude":32.204438,
     "geom:longitude":-110.965399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 S 4th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353826365,
-    "wof:lastmodified":1449020092,
+    "wof:lastmodified":1466330596,
     "wof:name":"Tortilleria Y Panaderia Real",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-110.965399,32.204438,-110.965399,32.204438],
-  "geometry": {"coordinates":[-110.965399,32.204438],"type":"Point"}
+  "bbox": [
+    -110.965399,
+    32.204438,
+    -110.965399,
+    32.204438
+],
+  "geometry": {"coordinates":[-110.96539900000001,32.204438],"type":"Point"}
 }

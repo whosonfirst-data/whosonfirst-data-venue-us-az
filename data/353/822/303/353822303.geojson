@@ -2,13 +2,14 @@
   "id": 353822303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.858069,32.225506,-110.858069,32.225506",
     "geom:latitude":32.225506,
     "geom:longitude":-110.858069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 N Wilmot Rd Ste 505",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353822303,
-    "wof:lastmodified":1449020696,
+    "wof:lastmodified":1466330538,
     "wof:name":"Tucson Realty & Trust Co",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "broker"
     ]
 },
-  "bbox": [-110.858069,32.225506,-110.858069,32.225506],
+  "bbox": [
+    -110.858069,
+    32.225506,
+    -110.858069,
+    32.225506
+],
   "geometry": {"coordinates":[-110.858069,32.225506],"type":"Point"}
 }

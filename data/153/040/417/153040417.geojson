@@ -2,13 +2,14 @@
   "id": 153040417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.756864,32.849112,-109.756864,32.849112",
     "geom:latitude":32.849112,
     "geom:longitude":-109.756864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 N 4th Ave",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153040417,
-    "wof:lastmodified":1449040801,
+    "wof:lastmodified":1466326499,
     "wof:name":"Redlamp Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.756864,32.849112,-109.756864,32.849112],
-  "geometry": {"coordinates":[-109.756864,32.849112],"type":"Point"}
+  "bbox": [
+    -109.756864,
+    32.849112,
+    -109.756864,
+    32.849112
+],
+  "geometry": {"coordinates":[-109.75686399999999,32.849112],"type":"Point"}
 }

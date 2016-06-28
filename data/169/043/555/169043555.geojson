@@ -2,13 +2,14 @@
   "id": 169043555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.454896,34.535654,-112.454896,34.535654",
     "geom:latitude":34.535654,
     "geom:longitude":-112.454896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Hillcrest Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169043555,
-    "wof:lastmodified":1449035135,
+    "wof:lastmodified":1466327930,
     "wof:name":"Shelter Hearth and Homes",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.454896,34.535654,-112.454896,34.535654],
-  "geometry": {"coordinates":[-112.454896,34.535654],"type":"Point"}
+  "bbox": [
+    -112.454896,
+    34.535654,
+    -112.454896,
+    34.535654
+],
+  "geometry": {"coordinates":[-112.45489600000001,34.535654],"type":"Point"}
 }

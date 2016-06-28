@@ -2,13 +2,14 @@
   "id": 169168269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.604087,35.109337,-114.604087,35.109337",
     "geom:latitude":35.109337,
     "geom:longitude":-114.604087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 Trane Rd",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169168269,
-    "wof:lastmodified":1449034407,
+    "wof:lastmodified":1466331972,
     "wof:name":"Happy Trails Educational Care",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.604087,35.109337,-114.604087,35.109337],
-  "geometry": {"coordinates":[-114.604087,35.109337],"type":"Point"}
+  "bbox": [
+    -114.604087,
+    35.109337,
+    -114.604087,
+    35.109337
+],
+  "geometry": {"coordinates":[-114.60408700000001,35.109337],"type":"Point"}
 }

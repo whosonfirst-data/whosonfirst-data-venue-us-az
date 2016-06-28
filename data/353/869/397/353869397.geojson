@@ -2,13 +2,14 @@
   "id": 353869397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.649614,35.191199,-111.649614,35.191199",
     "geom:latitude":35.191199,
     "geom:longitude":-111.649614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 S Agassiz St Apt 3",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353869397,
-    "wof:lastmodified":1449020603,
+    "wof:lastmodified":1466330925,
     "wof:name":"Eric Martin",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-111.649614,35.191199,-111.649614,35.191199],
+  "bbox": [
+    -111.649614,
+    35.191199,
+    -111.649614,
+    35.191199
+],
   "geometry": {"coordinates":[-111.649614,35.191199],"type":"Point"}
 }

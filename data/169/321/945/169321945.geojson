@@ -2,13 +2,14 @@
   "id": 169321945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.96088,32.251474,-110.96088,32.251474",
     "geom:latitude":32.251474,
     "geom:longitude":-110.96088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169321945,
-    "wof:lastmodified":1449032760,
+    "wof:lastmodified":1466333288,
     "wof:name":"European Service & Repair",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.96088,32.251474,-110.96088,32.251474],
+  "bbox": [
+    -110.96088,
+    32.251474,
+    -110.96088,
+    32.251474
+],
   "geometry": {"coordinates":[-110.96088,32.251474],"type":"Point"}
 }

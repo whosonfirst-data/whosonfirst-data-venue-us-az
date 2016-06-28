@@ -2,13 +2,14 @@
   "id": 169335671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.339988,33.641813,-112.339988,33.641813",
     "geom:latitude":33.641813,
     "geom:longitude":-112.339988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17618 N 131st Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169335671,
-    "wof:lastmodified":1449034863,
+    "wof:lastmodified":1466333381,
     "wof:name":"Boehm Pac Net LLC",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.339988,33.641813,-112.339988,33.641813],
-  "geometry": {"coordinates":[-112.339988,33.641813],"type":"Point"}
+  "bbox": [
+    -112.339988,
+    33.641813,
+    -112.339988,
+    33.641813
+],
+  "geometry": {"coordinates":[-112.33998800000001,33.641813],"type":"Point"}
 }

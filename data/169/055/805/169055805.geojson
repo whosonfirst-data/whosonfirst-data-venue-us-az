@@ -2,13 +2,14 @@
   "id": 169055805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.224403,33.411535,-112.224403,33.411535",
     "geom:latitude":33.411535,
     "geom:longitude":-112.224403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 W Southgate Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871005,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169055805,
-    "wof:lastmodified":1449033427,
+    "wof:lastmodified":1466328771,
     "wof:name":"Gabriels Gifts & Gatherings",
     "wof:parent_id":85871005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.224403,33.411535,-112.224403,33.411535],
+  "bbox": [
+    -112.224403,
+    33.411535,
+    -112.224403,
+    33.411535
+],
   "geometry": {"coordinates":[-112.224403,33.411535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169088003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.839076,32.316615,-110.839076,32.316615",
     "geom:latitude":32.316615,
     "geom:longitude":-110.839076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 N Desert Moon Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169088003,
-    "wof:lastmodified":1449035233,
+    "wof:lastmodified":1466330324,
     "wof:name":"R Douglas Zirkle Law Office",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.839076,32.316615,-110.839076,32.316615],
-  "geometry": {"coordinates":[-110.839076,32.316615],"type":"Point"}
+  "bbox": [
+    -110.839076,
+    32.316615,
+    -110.839076,
+    32.316615
+],
+  "geometry": {"coordinates":[-110.83907600000001,32.316615],"type":"Point"}
 }

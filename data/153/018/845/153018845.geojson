@@ -2,13 +2,14 @@
   "id": 153018845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.863925,32.536699,-110.863925,32.536699",
     "geom:latitude":32.536699,
     "geom:longitude":-110.863925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37395 S Ridgeview Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153018845,
-    "wof:lastmodified":1449040579,
+    "wof:lastmodified":1466326869,
     "wof:name":"Graeff Aviation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.863925,32.536699,-110.863925,32.536699],
-  "geometry": {"coordinates":[-110.863925,32.536699],"type":"Point"}
+  "bbox": [
+    -110.863925,
+    32.536699,
+    -110.863925,
+    32.536699
+],
+  "geometry": {"coordinates":[-110.86392499999999,32.536699],"type":"Point"}
 }

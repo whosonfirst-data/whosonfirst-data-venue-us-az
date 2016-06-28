@@ -2,13 +2,14 @@
   "id": 153081929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.464898,34.549966,-112.464898,34.549966",
     "geom:latitude":34.549966,
     "geom:longitude":-112.464898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Henry St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153081929,
-    "wof:lastmodified":1449040477,
+    "wof:lastmodified":1466329425,
     "wof:name":"Deans Automotive Machine Shop",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.464898,34.549966,-112.464898,34.549966],
-  "geometry": {"coordinates":[-112.464898,34.549966],"type":"Point"}
+  "bbox": [
+    -112.464898,
+    34.549966,
+    -112.464898,
+    34.549966
+],
+  "geometry": {"coordinates":[-112.46489800000001,34.549966],"type":"Point"}
 }

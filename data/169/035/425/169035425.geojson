@@ -2,13 +2,14 @@
   "id": 169035425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.86486,32.221633,-110.86486,32.221633",
     "geom:latitude":32.221633,
     "geom:longitude":-110.86486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6147 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169035425,
-    "wof:lastmodified":1449035326,
+    "wof:lastmodified":1466327341,
     "wof:name":"Exquisite Nails",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.86486,32.221633,-110.86486,32.221633],
-  "geometry": {"coordinates":[-110.86486,32.221633],"type":"Point"}
+  "bbox": [
+    -110.86486,
+    32.221633,
+    -110.86486,
+    32.221633
+],
+  "geometry": {"coordinates":[-110.86485999999999,32.221633],"type":"Point"}
 }

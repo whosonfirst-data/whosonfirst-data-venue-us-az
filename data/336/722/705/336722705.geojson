@@ -2,13 +2,14 @@
   "id": 336722705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124579,33.574388,-112.124579,33.574388",
     "geom:latitude":33.574388,
     "geom:longitude":-112.124579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9811 N Metro Pkwy W Ste A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336722705,
-    "wof:lastmodified":1448997306,
+    "wof:lastmodified":1466328379,
     "wof:name":"Anchor Blue",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-112.124579,33.574388,-112.124579,33.574388],
+  "bbox": [
+    -112.124579,
+    33.574388,
+    -112.124579,
+    33.574388
+],
   "geometry": {"coordinates":[-112.124579,33.574388],"type":"Point"}
 }

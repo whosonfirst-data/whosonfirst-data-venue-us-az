@@ -2,13 +2,14 @@
   "id": 353756449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.282891,33.464759,-112.282891,33.464759",
     "geom:latitude":33.464759,
     "geom:longitude":-112.282891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 W McDowell Rd Ste D4011",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353756449,
-    "wof:lastmodified":1449019804,
+    "wof:lastmodified":1466330052,
     "wof:name":"Northern Arizona University",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-112.282891,33.464759,-112.282891,33.464759],
-  "geometry": {"coordinates":[-112.282891,33.464759],"type":"Point"}
+  "bbox": [
+    -112.282891,
+    33.464759,
+    -112.282891,
+    33.464759
+],
+  "geometry": {"coordinates":[-112.28289100000001,33.464759],"type":"Point"}
 }

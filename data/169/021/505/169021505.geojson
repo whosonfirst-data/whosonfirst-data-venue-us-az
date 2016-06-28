@@ -2,13 +2,14 @@
   "id": 169021505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.836962,33.430904,-111.836962,33.430904",
     "geom:latitude":33.430904,
     "geom:longitude":-111.836962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Robson",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872453,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169021505,
-    "wof:lastmodified":1449034766,
+    "wof:lastmodified":1466326100,
     "wof:name":"Hulick Agency",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.836962,33.430904,-111.836962,33.430904],
+  "bbox": [
+    -111.836962,
+    33.430904,
+    -111.836962,
+    33.430904
+],
   "geometry": {"coordinates":[-111.836962,33.430904],"type":"Point"}
 }

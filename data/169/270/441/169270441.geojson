@@ -2,13 +2,14 @@
   "id": 169270441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.030325,34.244791,-110.030325,34.244791",
     "geom:latitude":34.244791,
     "geom:longitude":-110.030325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 S 11th St",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169270441,
-    "wof:lastmodified":1449033277,
+    "wof:lastmodified":1466332701,
     "wof:name":"Mac's Ceramics & Art Supplies",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.030325,34.244791,-110.030325,34.244791],
+  "bbox": [
+    -110.030325,
+    34.244791,
+    -110.030325,
+    34.244791
+],
   "geometry": {"coordinates":[-110.030325,34.244791],"type":"Point"}
 }

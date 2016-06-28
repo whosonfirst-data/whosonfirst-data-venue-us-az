@@ -2,13 +2,14 @@
   "id": 153088363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.799267,32.243786,-110.799267,32.243786",
     "geom:latitude":32.243786,
     "geom:longitude":-110.799267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Wrightstown Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153088363,
-    "wof:lastmodified":1449040708,
+    "wof:lastmodified":1466329218,
     "wof:name":"Rocky Mountain Industrial Corp",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.799267,32.243786,-110.799267,32.243786],
+  "bbox": [
+    -110.799267,
+    32.243786,
+    -110.799267,
+    32.243786
+],
   "geometry": {"coordinates":[-110.799267,32.243786],"type":"Point"}
 }

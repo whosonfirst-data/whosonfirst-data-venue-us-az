@@ -2,13 +2,14 @@
   "id": 168953227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.766273,32.216345,-110.766273,32.216345",
     "geom:latitude":32.216345,
     "geom:longitude":-110.766273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10619 E Pla Los Reyes",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168953227,
-    "wof:lastmodified":1449028293,
+    "wof:lastmodified":1466330988,
     "wof:name":"A Hagenah Bed & Breakfast",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.766273,32.216345,-110.766273,32.216345],
+  "bbox": [
+    -110.766273,
+    32.216345,
+    -110.766273,
+    32.216345
+],
   "geometry": {"coordinates":[-110.766273,32.216345],"type":"Point"}
 }

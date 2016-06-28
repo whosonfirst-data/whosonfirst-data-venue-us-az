@@ -2,13 +2,14 @@
   "id": 169394837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.47586,34.549376,-112.47586,34.549376",
     "geom:latitude":34.549376,
     "geom:longitude":-112.47586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"642 Dameron Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.wygc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169394837,
-    "wof:lastmodified":1449033328,
+    "wof:lastmodified":1466333996,
     "wof:name":"West Yavapai Guidance Clinic",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.47586,34.549376,-112.47586,34.549376],
+  "bbox": [
+    -112.47586,
+    34.549376,
+    -112.47586,
+    34.549376
+],
   "geometry": {"coordinates":[-112.47586,34.549376],"type":"Point"}
 }

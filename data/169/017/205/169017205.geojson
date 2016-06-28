@@ -2,13 +2,14 @@
   "id": 169017205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.934575,32.121886,-110.934575,32.121886",
     "geom:latitude":32.121886,
     "geom:longitude":-110.934575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 S Tucson Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169017205,
-    "wof:lastmodified":1449034441,
+    "wof:lastmodified":1466325717,
     "wof:name":"Aerolitoral",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.934575,32.121886,-110.934575,32.121886],
+  "bbox": [
+    -110.934575,
+    32.121886,
+    -110.934575,
+    32.121886
+],
   "geometry": {"coordinates":[-110.934575,32.121886],"type":"Point"}
 }

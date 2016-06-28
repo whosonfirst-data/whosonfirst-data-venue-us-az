@@ -2,13 +2,14 @@
   "id": 168979829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.227341,33.579431,-112.227341,33.579431",
     "geom:latitude":33.579431,
     "geom:longitude":-112.227341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10332 N 78th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813941,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85813941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168979829,
-    "wof:lastmodified":1449028321,
+    "wof:lastmodified":1466331477,
     "wof:name":"Rods Speed & Track Parts",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.227341,33.579431,-112.227341,33.579431],
+  "bbox": [
+    -112.227341,
+    33.579431,
+    -112.227341,
+    33.579431
+],
   "geometry": {"coordinates":[-112.227341,33.579431],"type":"Point"}
 }

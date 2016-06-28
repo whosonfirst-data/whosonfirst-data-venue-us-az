@@ -2,13 +2,14 @@
   "id": 168937257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.204481,31.46012,-110.204481,31.46012",
     "geom:latitude":31.46012,
     "geom:longitude":-110.204481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6967 E Dakota Rd",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168937257,
-    "wof:lastmodified":1449027918,
+    "wof:lastmodified":1466330570,
     "wof:name":"Groomin Grannies",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.204481,31.46012,-110.204481,31.46012],
+  "bbox": [
+    -110.204481,
+    31.46012,
+    -110.204481,
+    31.46012
+],
   "geometry": {"coordinates":[-110.204481,31.46012],"type":"Point"}
 }

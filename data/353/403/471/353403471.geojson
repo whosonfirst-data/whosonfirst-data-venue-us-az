@@ -2,13 +2,14 @@
   "id": 353403471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.961112,33.419593,-111.961112,33.419593",
     "geom:latitude":33.419593,
     "geom:longitude":-111.961112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 W Elna Rae St # 104",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":353403471,
-    "wof:lastmodified":1449020447,
+    "wof:lastmodified":1466326283,
     "wof:name":"Westemp Air Management, Inc.",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.961112,33.419593,-111.961112,33.419593],
+  "bbox": [
+    -111.961112,
+    33.419593,
+    -111.961112,
+    33.419593
+],
   "geometry": {"coordinates":[-111.961112,33.419593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320820085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.08513,33.682265,-112.08513,33.682265",
     "geom:latitude":33.682265,
     "geom:longitude":-112.08513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21630 N 9th Ave Ste 101",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320820085,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1466330083,
     "wof:name":"Wood Art Products, Inc",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "fabricator"
     ]
 },
-  "bbox": [-112.08513,33.682265,-112.08513,33.682265],
-  "geometry": {"coordinates":[-112.08513,33.682265],"type":"Point"}
+  "bbox": [
+    -112.08513,
+    33.682265,
+    -112.08513,
+    33.682265
+],
+  "geometry": {"coordinates":[-112.08513000000001,33.682265],"type":"Point"}
 }

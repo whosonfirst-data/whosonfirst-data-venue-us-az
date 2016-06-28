@@ -2,13 +2,14 @@
   "id": 169104719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.868743,33.341355,-111.868743,33.341355",
     "geom:latitude":33.341355,
     "geom:longitude":-111.868743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 W Mesquite St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169104719,
-    "wof:lastmodified":1449034039,
+    "wof:lastmodified":1466330919,
     "wof:name":"A PC Problem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.868743,33.341355,-111.868743,33.341355],
-  "geometry": {"coordinates":[-111.868743,33.341355],"type":"Point"}
+  "bbox": [
+    -111.868743,
+    33.341355,
+    -111.868743,
+    33.341355
+],
+  "geometry": {"coordinates":[-111.86874299999999,33.341355],"type":"Point"}
 }

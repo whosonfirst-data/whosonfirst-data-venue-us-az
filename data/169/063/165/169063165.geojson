@@ -2,13 +2,14 @@
   "id": 169063165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.531806,32.989031,-111.531806,32.989031",
     "geom:latitude":32.989031,
     "geom:longitude":-111.531806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 W Hopi Dr",
     "sg:city":"Coolidge",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169063165,
-    "wof:lastmodified":1449032963,
+    "wof:lastmodified":1466329177,
     "wof:name":"Christopher Jay Delbridge",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.531806,32.989031,-111.531806,32.989031],
+  "bbox": [
+    -111.531806,
+    32.989031,
+    -111.531806,
+    32.989031
+],
   "geometry": {"coordinates":[-111.531806,32.989031],"type":"Point"}
 }

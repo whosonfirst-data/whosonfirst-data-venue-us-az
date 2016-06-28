@@ -2,13 +2,14 @@
   "id": 320700103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096611,33.513191,-112.096611,33.513191",
     "geom:latitude":33.513191,
     "geom:longitude":-112.096611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 W Colter St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320700103,
-    "wof:lastmodified":1449014637,
+    "wof:lastmodified":1466328312,
     "wof:name":"Mediforce",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-112.096611,33.513191,-112.096611,33.513191],
+  "bbox": [
+    -112.096611,
+    33.513191,
+    -112.096611,
+    33.513191
+],
   "geometry": {"coordinates":[-112.096611,33.513191],"type":"Point"}
 }

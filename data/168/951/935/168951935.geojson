@@ -2,13 +2,14 @@
   "id": 168951935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.744535,33.472874,-111.744535,33.472874",
     "geom:latitude":33.472874,
     "geom:longitude":-111.744535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3914 E Presidio St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811069,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85811069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168951935,
-    "wof:lastmodified":1449027796,
+    "wof:lastmodified":1466331042,
     "wof:name":"Daves Construction Svc Inc",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.744535,33.472874,-111.744535,33.472874],
+  "bbox": [
+    -111.744535,
+    33.472874,
+    -111.744535,
+    33.472874
+],
   "geometry": {"coordinates":[-111.744535,33.472874],"type":"Point"}
 }

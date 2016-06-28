@@ -2,13 +2,14 @@
   "id": 152912539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.294536,31.542313,-110.294536,31.542313",
     "geom:latitude":31.542313,
     "geom:longitude":-110.294536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Prairie St",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152912539,
-    "wof:lastmodified":1449046584,
+    "wof:lastmodified":1466325892,
     "wof:name":"Kodiak Computers Systems Inc",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.294536,31.542313,-110.294536,31.542313],
-  "geometry": {"coordinates":[-110.294536,31.542313],"type":"Point"}
+  "bbox": [
+    -110.294536,
+    31.542313,
+    -110.294536,
+    31.542313
+],
+  "geometry": {"coordinates":[-110.29453599999999,31.542313],"type":"Point"}
 }

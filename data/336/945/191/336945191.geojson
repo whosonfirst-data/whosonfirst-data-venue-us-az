@@ -2,13 +2,14 @@
   "id": 336945191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.859876,33.261779,-111.859876,33.261779",
     "geom:latitude":33.261779,
     "geom:longitude":-111.859876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1085 W Queen Creek Road",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336945191,
-    "wof:lastmodified":1448997021,
+    "wof:lastmodified":1466330769,
     "wof:name":"Fast Frame",
     "wof:parent_id":85876643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.859876,33.261779,-111.859876,33.261779],
+  "bbox": [
+    -111.859876,
+    33.261779,
+    -111.859876,
+    33.261779
+],
   "geometry": {"coordinates":[-111.859876,33.261779],"type":"Point"}
 }

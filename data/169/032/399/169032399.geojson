@@ -2,13 +2,14 @@
   "id": 169032399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.662884,35.188335,-111.662884,35.188335",
     "geom:latitude":35.188335,
     "geom:longitude":-111.662884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 S Plaza Way",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811639,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85811639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169032399,
-    "wof:lastmodified":1449034301,
+    "wof:lastmodified":1466327077,
     "wof:name":"Allstate",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.662884,35.188335,-111.662884,35.188335],
-  "geometry": {"coordinates":[-111.662884,35.188335],"type":"Point"}
+  "bbox": [
+    -111.662884,
+    35.188335,
+    -111.662884,
+    35.188335
+],
+  "geometry": {"coordinates":[-111.66288400000001,35.188335],"type":"Point"}
 }

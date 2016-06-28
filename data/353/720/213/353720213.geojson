@@ -2,13 +2,14 @@
   "id": 353720213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.347482,33.640462,-112.347482,33.640462",
     "geom:latitude":33.640462,
     "geom:longitude":-112.347482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17125 N 134th Dr Ste 100",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353720213,
-    "wof:lastmodified":1449018861,
+    "wof:lastmodified":1466329745,
     "wof:name":"Central Arizona Supply",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.347482,33.640462,-112.347482,33.640462],
+  "bbox": [
+    -112.347482,
+    33.640462,
+    -112.347482,
+    33.640462
+],
   "geometry": {"coordinates":[-112.347482,33.640462],"type":"Point"}
 }

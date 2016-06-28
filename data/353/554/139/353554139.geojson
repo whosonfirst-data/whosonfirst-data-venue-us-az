@@ -2,13 +2,14 @@
   "id": 353554139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203106,33.532888,-112.203106,33.532888",
     "geom:latitude":33.532888,
     "geom:longitude":-112.203106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 N 67th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353554139,
-    "wof:lastmodified":1449018781,
+    "wof:lastmodified":1466328042,
     "wof:name":"Marina Glendale",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-112.203106,33.532888,-112.203106,33.532888],
-  "geometry": {"coordinates":[-112.203106,33.532888],"type":"Point"}
+  "bbox": [
+    -112.203106,
+    33.532888,
+    -112.203106,
+    33.532888
+],
+  "geometry": {"coordinates":[-112.20310600000001,33.532888],"type":"Point"}
 }

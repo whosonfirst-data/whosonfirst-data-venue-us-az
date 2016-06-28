@@ -2,13 +2,14 @@
   "id": 320632409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.084906,33.451079,-112.084906,33.451079",
     "geom:latitude":33.451079,
     "geom:longitude":-112.084906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 W Woodland Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320632409,
-    "wof:lastmodified":1449013647,
+    "wof:lastmodified":1466326586,
     "wof:name":"Handi-Net",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.084906,33.451079,-112.084906,33.451079],
+  "bbox": [
+    -112.084906,
+    33.451079,
+    -112.084906,
+    33.451079
+],
   "geometry": {"coordinates":[-112.084906,33.451079],"type":"Point"}
 }

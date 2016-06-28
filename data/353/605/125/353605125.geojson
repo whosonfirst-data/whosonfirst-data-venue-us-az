@@ -2,13 +2,14 @@
   "id": 353605125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.200127,33.638457,-112.200127,33.638457",
     "geom:latitude":33.638457,
     "geom:longitude":-112.200127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6544 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -97,10 +98,11 @@
         }
     ],
     "wof:id":353605125,
-    "wof:lastmodified":1449019515,
+    "wof:lastmodified":1466328842,
     "wof:name":"U-Haul Moving & Storage at 67th & Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -123,6 +125,11 @@
         "contractors'"
     ]
 },
-  "bbox": [-112.200127,33.638457,-112.200127,33.638457],
-  "geometry": {"coordinates":[-112.200127,33.638457],"type":"Point"}
+  "bbox": [
+    -112.200127,
+    33.638457,
+    -112.200127,
+    33.638457
+],
+  "geometry": {"coordinates":[-112.20012699999999,33.638457],"type":"Point"}
 }

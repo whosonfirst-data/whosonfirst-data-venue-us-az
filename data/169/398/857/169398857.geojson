@@ -2,13 +2,14 @@
   "id": 169398857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.88373,33.625482,-111.88373,33.625482",
     "geom:latitude":33.625482,
     "geom:longitude":-111.88373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9087 E Caribbean Ln",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880949,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169398857,
-    "wof:lastmodified":1449032943,
+    "wof:lastmodified":1466334012,
     "wof:name":"Evolution Marketing Inc",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.88373,33.625482,-111.88373,33.625482],
+  "bbox": [
+    -111.88373,
+    33.625482,
+    -111.88373,
+    33.625482
+],
   "geometry": {"coordinates":[-111.88373,33.625482],"type":"Point"}
 }

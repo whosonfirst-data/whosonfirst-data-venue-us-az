@@ -2,13 +2,14 @@
   "id": 169398505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89257,33.424245,-111.89257,33.424245",
     "geom:latitude":33.424245,
     "geom:longitude":-111.89257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 E 6th St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851911,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169398505,
-    "wof:lastmodified":1449032944,
+    "wof:lastmodified":1466333970,
     "wof:name":"Precision Endoscopy",
     "wof:parent_id":85851911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.89257,33.424245,-111.89257,33.424245],
-  "geometry": {"coordinates":[-111.89257,33.424245],"type":"Point"}
+  "bbox": [
+    -111.89257,
+    33.424245,
+    -111.89257,
+    33.424245
+],
+  "geometry": {"coordinates":[-111.89257000000001,33.424245],"type":"Point"}
 }

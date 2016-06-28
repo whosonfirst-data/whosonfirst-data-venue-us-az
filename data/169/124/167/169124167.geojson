@@ -2,13 +2,14 @@
   "id": 169124167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.179865,31.375231,-110.179865,31.375231",
     "geom:latitude":31.375231,
     "geom:longitude":-110.179865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8099 E Chukar Valley Dr",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169124167,
-    "wof:lastmodified":1449035708,
+    "wof:lastmodified":1466331327,
     "wof:name":"Lost Canyon Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.179865,31.375231,-110.179865,31.375231],
-  "geometry": {"coordinates":[-110.179865,31.375231],"type":"Point"}
+  "bbox": [
+    -110.179865,
+    31.375231,
+    -110.179865,
+    31.375231
+],
+  "geometry": {"coordinates":[-110.17986500000001,31.375231],"type":"Point"}
 }

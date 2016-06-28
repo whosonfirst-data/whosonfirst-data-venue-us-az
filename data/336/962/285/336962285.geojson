@@ -2,13 +2,14 @@
   "id": 336962285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917524,33.500179,-111.917524,33.500179",
     "geom:latitude":33.500179,
     "geom:longitude":-111.917524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4408 N Miller Rd Ste 104",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":336962285,
-    "wof:lastmodified":1448997573,
+    "wof:lastmodified":1466330788,
     "wof:name":"Curves",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "physical"
     ]
 },
-  "bbox": [-111.917524,33.500179,-111.917524,33.500179],
+  "bbox": [
+    -111.917524,
+    33.500179,
+    -111.917524,
+    33.500179
+],
   "geometry": {"coordinates":[-111.917524,33.500179],"type":"Point"}
 }

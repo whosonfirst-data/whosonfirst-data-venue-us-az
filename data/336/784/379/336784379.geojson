@@ -2,13 +2,14 @@
   "id": 336784379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.822206,33.422373,-111.822206,33.422373",
     "geom:latitude":33.422373,
     "geom:longitude":-111.822206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 E University Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336784379,
-    "wof:lastmodified":1448997651,
+    "wof:lastmodified":1466329413,
     "wof:name":"Sam's 24/7Lock and key service Mesa, AZ",
     "wof:parent_id":85872457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repair"
     ]
 },
-  "bbox": [-111.822206,33.422373,-111.822206,33.422373],
-  "geometry": {"coordinates":[-111.822206,33.422373],"type":"Point"}
+  "bbox": [
+    -111.822206,
+    33.422373,
+    -111.822206,
+    33.422373
+],
+  "geometry": {"coordinates":[-111.82220599999999,33.422373],"type":"Point"}
 }

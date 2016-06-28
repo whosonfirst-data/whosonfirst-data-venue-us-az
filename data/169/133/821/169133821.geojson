@@ -2,13 +2,14 @@
   "id": 169133821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966563,33.354388,-111.966563,33.354388",
     "geom:latitude":33.354388,
     "geom:longitude":-111.966563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7160 S Harl Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,13 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808471,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719,
-        85814393,
-        85917469
+        85808471,
+        85917469,
+        85814393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":169133821,
-    "wof:lastmodified":1449035391,
+    "wof:lastmodified":1466331565,
     "wof:name":"Goodmen Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.966563,33.354388,-111.966563,33.354388],
-  "geometry": {"coordinates":[-111.966563,33.354388],"type":"Point"}
+  "bbox": [
+    -111.966563,
+    33.354388,
+    -111.966563,
+    33.354388
+],
+  "geometry": {"coordinates":[-111.96656299999999,33.354388],"type":"Point"}
 }

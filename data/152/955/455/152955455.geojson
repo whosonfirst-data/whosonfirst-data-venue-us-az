@@ -2,13 +2,14 @@
   "id": 152955455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204871,34.520053,-112.204871,34.520053",
     "geom:latitude":34.520053,
     "geom:longitude":-112.204871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14890 E White Dr",
     "sg:city":"Dewey",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152955455,
-    "wof:lastmodified":1449047506,
+    "wof:lastmodified":1466327923,
     "wof:name":"High Desert Woodworks LLC",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.204871,34.520053,-112.204871,34.520053],
+  "bbox": [
+    -112.204871,
+    34.520053,
+    -112.204871,
+    34.520053
+],
   "geometry": {"coordinates":[-112.204871,34.520053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152911421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.386352,33.616299,-112.386352,33.616299",
     "geom:latitude":33.616299,
     "geom:longitude":-112.386352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15148 W Gelding Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152911421,
-    "wof:lastmodified":1449048161,
+    "wof:lastmodified":1466325867,
     "wof:name":"Canterra Homes At Countryside",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.386352,33.616299,-112.386352,33.616299],
+  "bbox": [
+    -112.386352,
+    33.616299,
+    -112.386352,
+    33.616299
+],
   "geometry": {"coordinates":[-112.386352,33.616299],"type":"Point"}
 }

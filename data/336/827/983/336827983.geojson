@@ -2,13 +2,14 @@
   "id": 336827983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.839886,33.390243,-111.839886,33.390243",
     "geom:latitude":33.390243,
     "geom:longitude":-111.839886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1367 S Country Club Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336827983,
-    "wof:lastmodified":1448997316,
+    "wof:lastmodified":1466329835,
     "wof:name":"Villages At Country Club",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.839886,33.390243,-111.839886,33.390243],
-  "geometry": {"coordinates":[-111.839886,33.390243],"type":"Point"}
+  "bbox": [
+    -111.839886,
+    33.390243,
+    -111.839886,
+    33.390243
+],
+  "geometry": {"coordinates":[-111.83988600000001,33.390243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152921739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.287354,33.545768,-112.287354,33.545768",
     "geom:latitude":33.545768,
     "geom:longitude":-112.287354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 N Glen Harbor Blvd",
     "sg:city":"Luke Afb",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877835,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152921739,
-    "wof:lastmodified":1449047264,
+    "wof:lastmodified":1466327113,
     "wof:name":"Renaissance Companies",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.287354,33.545768,-112.287354,33.545768],
-  "geometry": {"coordinates":[-112.287354,33.545768],"type":"Point"}
+  "bbox": [
+    -112.287354,
+    33.545768,
+    -112.287354,
+    33.545768
+],
+  "geometry": {"coordinates":[-112.28735399999999,33.545768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169367133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.648353,33.415155,-111.648353,33.415155",
     "geom:latitude":33.415155,
     "geom:longitude":-111.648353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8518 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820323,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169367133,
-    "wof:lastmodified":1449034639,
+    "wof:lastmodified":1466333588,
     "wof:name":"Green Valley Building Sup LLC",
     "wof:parent_id":85820323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.648353,33.415155,-111.648353,33.415155],
+  "bbox": [
+    -111.648353,
+    33.415155,
+    -111.648353,
+    33.415155
+],
   "geometry": {"coordinates":[-111.648353,33.415155],"type":"Point"}
 }

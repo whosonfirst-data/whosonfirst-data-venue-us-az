@@ -2,13 +2,14 @@
   "id": 169038265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.92629,31.352304,-110.92629,31.352304",
     "geom:latitude":31.352304,
     "geom:longitude":-110.92629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 N Bankerd Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169038265,
-    "wof:lastmodified":1449034801,
+    "wof:lastmodified":1466327593,
     "wof:name":"K and K Intl Logistics",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.92629,31.352304,-110.92629,31.352304],
-  "geometry": {"coordinates":[-110.92629,31.352304],"type":"Point"}
+  "bbox": [
+    -110.92629,
+    31.352304,
+    -110.92629,
+    31.352304
+],
+  "geometry": {"coordinates":[-110.92628999999999,31.352304],"type":"Point"}
 }

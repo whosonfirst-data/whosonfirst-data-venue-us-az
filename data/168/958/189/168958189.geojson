@@ -2,13 +2,14 @@
   "id": 168958189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.320465,34.254187,-111.320465,34.254187",
     "geom:latitude":34.254187,
     "geom:longitude":-111.320465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Pinnacle Cir",
     "sg:city":"Payson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820149,
+        85688719,
         85633793,
         85917211,
         102081525,
-        85688719
+        85820149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168958189,
-    "wof:lastmodified":1449028412,
+    "wof:lastmodified":1466331106,
     "wof:name":"Discovery Toys",
     "wof:parent_id":85820149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.320465,34.254187,-111.320465,34.254187],
+  "bbox": [
+    -111.320465,
+    34.254187,
+    -111.320465,
+    34.254187
+],
   "geometry": {"coordinates":[-111.320465,34.254187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169134501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.294245,34.489949,-114.294245,34.489949",
     "geom:latitude":34.489949,
     "geom:longitude":-114.294245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3233 Daytona Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169134501,
-    "wof:lastmodified":1449035778,
+    "wof:lastmodified":1466331664,
     "wof:name":"A To Z Equipment Repair",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.294245,34.489949,-114.294245,34.489949],
+  "bbox": [
+    -114.294245,
+    34.489949,
+    -114.294245,
+    34.489949
+],
   "geometry": {"coordinates":[-114.294245,34.489949],"type":"Point"}
 }

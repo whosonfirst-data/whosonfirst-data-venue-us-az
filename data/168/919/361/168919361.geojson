@@ -2,13 +2,14 @@
   "id": 168919361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.91764,32.177568,-110.91764,32.177568",
     "geom:latitude":32.177568,
     "geom:longitude":-110.91764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3933 S Palo Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168919361,
-    "wof:lastmodified":1449028388,
+    "wof:lastmodified":1466330257,
     "wof:name":"Decision One",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.91764,32.177568,-110.91764,32.177568],
-  "geometry": {"coordinates":[-110.91764,32.177568],"type":"Point"}
+  "bbox": [
+    -110.91764,
+    32.177568,
+    -110.91764,
+    32.177568
+],
+  "geometry": {"coordinates":[-110.91764000000001,32.177568],"type":"Point"}
 }

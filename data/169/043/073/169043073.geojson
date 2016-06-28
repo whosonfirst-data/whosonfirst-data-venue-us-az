@@ -2,13 +2,14 @@
   "id": 169043073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.73229,31.364622,-109.73229,31.364622",
     "geom:latitude":31.364622,
     "geom:longitude":-109.73229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4753 W Paul Spur Rd",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169043073,
-    "wof:lastmodified":1449035133,
+    "wof:lastmodified":1466327904,
     "wof:name":"Douglas Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.73229,31.364622,-109.73229,31.364622],
-  "geometry": {"coordinates":[-109.73229,31.364622],"type":"Point"}
+  "bbox": [
+    -109.73229,
+    31.364622,
+    -109.73229,
+    31.364622
+],
+  "geometry": {"coordinates":[-109.73229000000001,31.364622],"type":"Point"}
 }

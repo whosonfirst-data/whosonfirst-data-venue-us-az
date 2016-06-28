@@ -2,13 +2,14 @@
   "id": 320802079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036392,33.607181,-112.036392,33.607181",
     "geom:latitude":33.607181,
     "geom:longitude":-112.036392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13220 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320802079,
-    "wof:lastmodified":1449014271,
+    "wof:lastmodified":1466329696,
     "wof:name":"Cycle Gear",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.036392,33.607181,-112.036392,33.607181],
-  "geometry": {"coordinates":[-112.036392,33.607181],"type":"Point"}
+  "bbox": [
+    -112.036392,
+    33.607181,
+    -112.036392,
+    33.607181
+],
+  "geometry": {"coordinates":[-112.03639200000001,33.607181],"type":"Point"}
 }

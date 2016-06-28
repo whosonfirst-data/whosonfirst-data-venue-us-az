@@ -2,13 +2,14 @@
   "id": 169146807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.431706,34.645084,-112.431706,34.645084",
     "geom:latitude":34.645084,
     "geom:longitude":-112.431706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Mac Cordy Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852851,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85852851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169146807,
-    "wof:lastmodified":1449034042,
+    "wof:lastmodified":1466331754,
     "wof:name":"Civil Air Patrol",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.431706,34.645084,-112.431706,34.645084],
-  "geometry": {"coordinates":[-112.431706,34.645084],"type":"Point"}
+  "bbox": [
+    -112.431706,
+    34.645084,
+    -112.431706,
+    34.645084
+],
+  "geometry": {"coordinates":[-112.43170600000001,34.645084],"type":"Point"}
 }

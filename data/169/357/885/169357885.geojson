@@ -2,13 +2,14 @@
   "id": 169357885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.087902,33.45598,-112.087902,33.45598",
     "geom:latitude":33.45598,
     "geom:longitude":-112.087902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cookieflor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169357885,
-    "wof:lastmodified":1449035552,
+    "wof:lastmodified":1466333674,
     "wof:name":"Cookie Florist",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.087902,33.45598,-112.087902,33.45598],
+  "bbox": [
+    -112.087902,
+    33.45598,
+    -112.087902,
+    33.45598
+],
   "geometry": {"coordinates":[-112.087902,33.45598],"type":"Point"}
 }

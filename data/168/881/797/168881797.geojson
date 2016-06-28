@@ -2,13 +2,14 @@
   "id": 168881797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.60664,32.67522,-114.60664,32.67522",
     "geom:latitude":32.67522,
     "geom:longitude":-114.60664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 E Torrey Pines Cir",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895867,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168881797,
-    "wof:lastmodified":1449028226,
+    "wof:lastmodified":1466328367,
     "wof:name":"Nikkis Place",
     "wof:parent_id":85895867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.60664,32.67522,-114.60664,32.67522],
+  "bbox": [
+    -114.60664,
+    32.67522,
+    -114.60664,
+    32.67522
+],
   "geometry": {"coordinates":[-114.60664,32.67522],"type":"Point"}
 }

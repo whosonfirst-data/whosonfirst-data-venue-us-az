@@ -2,13 +2,14 @@
   "id": 153072215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.039648,31.394437,-110.039648,31.394437",
     "geom:latitude":31.394437,
     "geom:longitude":-110.039648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5085 W Wolf Run",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85826387
+        85633793,
+        85826387,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153072215,
-    "wof:lastmodified":1449040601,
+    "wof:lastmodified":1466328388,
     "wof:name":"Cenac Enterprises Inc",
     "wof:parent_id":85826387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.039648,31.394437,-110.039648,31.394437],
+  "bbox": [
+    -110.039648,
+    31.394437,
+    -110.039648,
+    31.394437
+],
   "geometry": {"coordinates":[-110.039648,31.394437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169072923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.969508,33.83821,-111.969508,33.83821",
     "geom:latitude":33.83821,
     "geom:longitude":-111.969508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39026 N 52nd St",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169072923,
-    "wof:lastmodified":1449034425,
+    "wof:lastmodified":1466329723,
     "wof:name":"Chris Talbott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.969508,33.83821,-111.969508,33.83821],
+  "bbox": [
+    -111.969508,
+    33.83821,
+    -111.969508,
+    33.83821
+],
   "geometry": {"coordinates":[-111.969508,33.83821],"type":"Point"}
 }

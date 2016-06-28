@@ -2,13 +2,14 @@
   "id": 152991435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.467045,34.516418,-112.467045,34.516418",
     "geom:latitude":34.516418,
     "geom:longitude":-112.467045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Kaibab Loop",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152991435,
-    "wof:lastmodified":1449045761,
+    "wof:lastmodified":1466329589,
     "wof:name":"Jeff's Landscaping & Yard Svc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.467045,34.516418,-112.467045,34.516418],
+  "bbox": [
+    -112.467045,
+    34.516418,
+    -112.467045,
+    34.516418
+],
   "geometry": {"coordinates":[-112.467045,34.516418],"type":"Point"}
 }

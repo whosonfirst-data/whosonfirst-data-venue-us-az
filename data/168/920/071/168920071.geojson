@@ -2,13 +2,14 @@
   "id": 168920071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.850873,33.438803,-111.850873,33.438803",
     "geom:latitude":33.438803,
     "geom:longitude":-111.850873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Hillcrest",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872453,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168920071,
-    "wof:lastmodified":1449028397,
+    "wof:lastmodified":1466330304,
     "wof:name":"Real Estate Spclsts C/O Mramax",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.850873,33.438803,-111.850873,33.438803],
-  "geometry": {"coordinates":[-111.850873,33.438803],"type":"Point"}
+  "bbox": [
+    -111.850873,
+    33.438803,
+    -111.850873,
+    33.438803
+],
+  "geometry": {"coordinates":[-111.85087300000001,33.438803],"type":"Point"}
 }

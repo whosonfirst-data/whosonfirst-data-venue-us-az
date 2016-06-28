@@ -2,13 +2,14 @@
   "id": 169325767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022092,33.464948,-112.022092,33.464948",
     "geom:latitude":33.464948,
     "geom:longitude":-112.022092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2726 E Brill St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169325767,
-    "wof:lastmodified":1449033971,
+    "wof:lastmodified":1466333019,
     "wof:name":"Arnold's Truck & Body Works",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022092,33.464948,-112.022092,33.464948],
+  "bbox": [
+    -112.022092,
+    33.464948,
+    -112.022092,
+    33.464948
+],
   "geometry": {"coordinates":[-112.022092,33.464948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169406303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062646,34.753671,-112.062646,34.753671",
     "geom:latitude":34.753671,
     "geom:longitude":-112.062646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Lanny Ln",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169406303,
-    "wof:lastmodified":1449034454,
+    "wof:lastmodified":1466334037,
     "wof:name":"Backus Family Investments LLC",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.062646,34.753671,-112.062646,34.753671],
+  "bbox": [
+    -112.062646,
+    34.753671,
+    -112.062646,
+    34.753671
+],
   "geometry": {"coordinates":[-112.062646,34.753671],"type":"Point"}
 }

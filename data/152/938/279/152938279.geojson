@@ -2,13 +2,14 @@
   "id": 152938279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.458363,34.854099,-112.458363,34.854099",
     "geom:latitude":34.854099,
     "geom:longitude":-112.458363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21225 N Old Hwy 89",
     "sg:city":"Paulden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152938279,
-    "wof:lastmodified":1449047748,
+    "wof:lastmodified":1466326561,
     "wof:name":"A B Disposal",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.458363,34.854099,-112.458363,34.854099],
-  "geometry": {"coordinates":[-112.458363,34.854099],"type":"Point"}
+  "bbox": [
+    -112.458363,
+    34.854099,
+    -112.458363,
+    34.854099
+],
+  "geometry": {"coordinates":[-112.45836300000001,34.854099],"type":"Point"}
 }

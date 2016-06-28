@@ -2,13 +2,14 @@
   "id": 169417147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.830302,32.242841,-110.830302,32.242841",
     "geom:latitude":32.242841,
     "geom:longitude":-110.830302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 E Pima St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169417147,
-    "wof:lastmodified":1449034033,
+    "wof:lastmodified":1466334171,
     "wof:name":"Van Horne Elementary School",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.830302,32.242841,-110.830302,32.242841],
+  "bbox": [
+    -110.830302,
+    32.242841,
+    -110.830302,
+    32.242841
+],
   "geometry": {"coordinates":[-110.830302,32.242841],"type":"Point"}
 }

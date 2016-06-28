@@ -2,13 +2,14 @@
   "id": 320607735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.233984,33.465529,-112.233984,33.465529",
     "geom:latitude":33.465529,
     "geom:longitude":-112.233984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8030 W McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320607735,
-    "wof:lastmodified":1449011749,
+    "wof:lastmodified":1466325949,
     "wof:name":"Clinica Real",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.233984,33.465529,-112.233984,33.465529],
-  "geometry": {"coordinates":[-112.233984,33.465529],"type":"Point"}
+  "bbox": [
+    -112.233984,
+    33.465529,
+    -112.233984,
+    33.465529
+],
+  "geometry": {"coordinates":[-112.23398400000001,33.465529],"type":"Point"}
 }

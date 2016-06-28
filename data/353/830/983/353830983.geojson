@@ -2,13 +2,14 @@
   "id": 353830983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.824753,32.255661,-110.824753,32.255661",
     "geom:latitude":32.255661,
     "geom:longitude":-110.824753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7826 E Camino Bavispe",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353830983,
-    "wof:lastmodified":1449018808,
+    "wof:lastmodified":1466330784,
     "wof:name":"Perfect Planner",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "facility"
     ]
 },
-  "bbox": [-110.824753,32.255661,-110.824753,32.255661],
+  "bbox": [
+    -110.824753,
+    32.255661,
+    -110.824753,
+    32.255661
+],
   "geometry": {"coordinates":[-110.824753,32.255661],"type":"Point"}
 }

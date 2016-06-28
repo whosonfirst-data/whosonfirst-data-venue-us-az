@@ -2,13 +2,14 @@
   "id": 320706263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104082,33.514478,-112.104082,33.514478",
     "geom:latitude":33.514478,
     "geom:longitude":-112.104082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5232 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320706263,
-    "wof:lastmodified":1449011512,
+    "wof:lastmodified":1466328381,
     "wof:name":"Grupex Corporation",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.104082,33.514478,-112.104082,33.514478],
-  "geometry": {"coordinates":[-112.104082,33.514478],"type":"Point"}
+  "bbox": [
+    -112.104082,
+    33.514478,
+    -112.104082,
+    33.514478
+],
+  "geometry": {"coordinates":[-112.10408200000001,33.514478],"type":"Point"}
 }

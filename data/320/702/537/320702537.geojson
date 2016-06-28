@@ -2,13 +2,14 @@
   "id": 320702537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.092589,33.513126,-112.092589,33.513126",
     "geom:latitude":33.513126,
     "geom:longitude":-112.092589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 W Colter St Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320702537,
-    "wof:lastmodified":1449013129,
+    "wof:lastmodified":1466328104,
     "wof:name":"Arizona Graphics",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-112.092589,33.513126,-112.092589,33.513126],
+  "bbox": [
+    -112.092589,
+    33.513126,
+    -112.092589,
+    33.513126
+],
   "geometry": {"coordinates":[-112.092589,33.513126],"type":"Point"}
 }

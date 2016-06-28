@@ -2,13 +2,14 @@
   "id": 336675485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037992,33.375919,-112.037992,33.375919",
     "geom:latitude":33.375919,
     "geom:longitude":-112.037992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 E Beautiful Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336675485,
-    "wof:lastmodified":1448997504,
+    "wof:lastmodified":1466327571,
     "wof:name":"Fire Management Concepts",
     "wof:parent_id":85871011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "environmental"
     ]
 },
-  "bbox": [-112.037992,33.375919,-112.037992,33.375919],
+  "bbox": [
+    -112.037992,
+    33.375919,
+    -112.037992,
+    33.375919
+],
   "geometry": {"coordinates":[-112.037992,33.375919],"type":"Point"}
 }

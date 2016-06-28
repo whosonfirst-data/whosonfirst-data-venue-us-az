@@ -2,13 +2,14 @@
   "id": 169386035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.963468,34.141922,-109.963468,34.141922",
     "geom:latitude":34.141922,
     "geom:longitude":-109.963468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Navajo Ln",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169386035,
-    "wof:lastmodified":1449034417,
+    "wof:lastmodified":1466333834,
     "wof:name":"Specialty Audio Video",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.963468,34.141922,-109.963468,34.141922],
-  "geometry": {"coordinates":[-109.963468,34.141922],"type":"Point"}
+  "bbox": [
+    -109.963468,
+    34.141922,
+    -109.963468,
+    34.141922
+],
+  "geometry": {"coordinates":[-109.96346800000001,34.141922],"type":"Point"}
 }

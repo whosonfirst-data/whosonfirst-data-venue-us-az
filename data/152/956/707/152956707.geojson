@@ -2,13 +2,14 @@
   "id": 152956707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.922457,33.41669,-111.922457,33.41669",
     "geom:latitude":33.41669,
     "geom:longitude":-111.922457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 E Lemon St",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881405,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152956707,
-    "wof:lastmodified":1449045094,
+    "wof:lastmodified":1466327991,
     "wof:name":"Speedway Insurance Group",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.922457,33.41669,-111.922457,33.41669],
-  "geometry": {"coordinates":[-111.922457,33.41669],"type":"Point"}
+  "bbox": [
+    -111.922457,
+    33.41669,
+    -111.922457,
+    33.41669
+],
+  "geometry": {"coordinates":[-111.92245699999999,33.41669],"type":"Point"}
 }

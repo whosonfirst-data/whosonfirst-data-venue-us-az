@@ -2,13 +2,14 @@
   "id": 169354349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.2033,33.496053,-112.2033,33.496053",
     "geom:latitude":33.496053,
     "geom:longitude":-112.2033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4134 N 67th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832807,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169354349,
-    "wof:lastmodified":1449035580,
+    "wof:lastmodified":1466333376,
     "wof:name":"Rumors Sports Bar",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.2033,33.496053,-112.2033,33.496053],
+  "bbox": [
+    -112.2033,
+    33.496053,
+    -112.2033,
+    33.496053
+],
   "geometry": {"coordinates":[-112.2033,33.496053],"type":"Point"}
 }

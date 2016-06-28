@@ -2,13 +2,14 @@
   "id": 353657051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.199346,33.386114,-112.199346,33.386114",
     "geom:latitude":33.386114,
     "geom:longitude":-112.199346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6637 S 65th Dr",
     "sg:city":"Laveen",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":353657051,
-    "wof:lastmodified":1449018538,
+    "wof:lastmodified":1466329245,
     "wof:name":"Scott Hightower",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.199346,33.386114,-112.199346,33.386114],
-  "geometry": {"coordinates":[-112.199346,33.386114],"type":"Point"}
+  "bbox": [
+    -112.199346,
+    33.386114,
+    -112.199346,
+    33.386114
+],
+  "geometry": {"coordinates":[-112.19934600000001,33.386114],"type":"Point"}
 }

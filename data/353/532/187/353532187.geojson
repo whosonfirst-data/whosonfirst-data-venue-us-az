@@ -2,13 +2,14 @@
   "id": 353532187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.696511,33.290648,-111.696511,33.290648",
     "geom:latitude":33.290648,
     "geom:longitude":-111.696511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 E Pecos Rd Ste 123",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353532187,
-    "wof:lastmodified":1449019122,
+    "wof:lastmodified":1466327749,
     "wof:name":"Gilbert Pediatrics",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.696511,33.290648,-111.696511,33.290648],
+  "bbox": [
+    -111.696511,
+    33.290648,
+    -111.696511,
+    33.290648
+],
   "geometry": {"coordinates":[-111.696511,33.290648],"type":"Point"}
 }

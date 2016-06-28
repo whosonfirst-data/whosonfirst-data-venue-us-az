@@ -2,13 +2,14 @@
   "id": 320814753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040413,33.68763,-112.040413,33.68763",
     "geom:latitude":33.68763,
     "geom:longitude":-112.040413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 E Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320814753,
-    "wof:lastmodified":1449011941,
+    "wof:lastmodified":1466330029,
     "wof:name":"Arizona Cargo",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.040413,33.68763,-112.040413,33.68763],
+  "bbox": [
+    -112.040413,
+    33.68763,
+    -112.040413,
+    33.68763
+],
   "geometry": {"coordinates":[-112.040413,33.68763],"type":"Point"}
 }

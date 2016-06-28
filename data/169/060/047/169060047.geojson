@@ -2,13 +2,14 @@
   "id": 169060047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026441,33.444521,-112.026441,33.444521",
     "geom:latitude":33.444521,
     "geom:longitude":-112.026441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 E Harrison St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.ratraceproductions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169060047,
-    "wof:lastmodified":1449035656,
+    "wof:lastmodified":1466328926,
     "wof:name":"Rat Race Productions",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.026441,33.444521,-112.026441,33.444521],
-  "geometry": {"coordinates":[-112.026441,33.444521],"type":"Point"}
+  "bbox": [
+    -112.026441,
+    33.444521,
+    -112.026441,
+    33.444521
+],
+  "geometry": {"coordinates":[-112.02644100000001,33.444521],"type":"Point"}
 }

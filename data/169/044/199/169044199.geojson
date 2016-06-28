@@ -2,13 +2,14 @@
   "id": 169044199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.215974,34.880635,-110.215974,34.880635",
     "geom:latitude":34.880635,
     "geom:longitude":-110.215974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 Hunsaker Rd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169044199,
-    "wof:lastmodified":1449034403,
+    "wof:lastmodified":1466327980,
     "wof:name":"Al's Locksmith Shop",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.215974,34.880635,-110.215974,34.880635],
+  "bbox": [
+    -110.215974,
+    34.880635,
+    -110.215974,
+    34.880635
+],
   "geometry": {"coordinates":[-110.215974,34.880635],"type":"Point"}
 }

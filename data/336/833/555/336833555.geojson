@@ -2,13 +2,14 @@
   "id": 336833555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.754494,33.415455,-111.754494,33.415455",
     "geom:latitude":33.415455,
     "geom:longitude":-111.754494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3563 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":336833555,
-    "wof:lastmodified":1448997065,
+    "wof:lastmodified":1466329892,
     "wof:name":"Quik Trip",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.754494,33.415455,-111.754494,33.415455],
-  "geometry": {"coordinates":[-111.754494,33.415455],"type":"Point"}
+  "bbox": [
+    -111.754494,
+    33.415455,
+    -111.754494,
+    33.415455
+],
+  "geometry": {"coordinates":[-111.75449399999999,33.415455],"type":"Point"}
 }

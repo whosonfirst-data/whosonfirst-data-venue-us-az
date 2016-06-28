@@ -2,13 +2,14 @@
   "id": 169402789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.133851,33.645929,-112.133851,33.645929",
     "geom:latitude":33.645929,
     "geom:longitude":-112.133851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17658 N 34th Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169402789,
-    "wof:lastmodified":1449033745,
+    "wof:lastmodified":1466334059,
     "wof:name":"Arizona Health Care Charleston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.133851,33.645929,-112.133851,33.645929],
-  "geometry": {"coordinates":[-112.133851,33.645929],"type":"Point"}
+  "bbox": [
+    -112.133851,
+    33.645929,
+    -112.133851,
+    33.645929
+],
+  "geometry": {"coordinates":[-112.13385100000001,33.645929],"type":"Point"}
 }

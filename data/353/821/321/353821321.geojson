@@ -2,13 +2,14 @@
   "id": 353821321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.884492,32.221758,-110.884492,32.221758",
     "geom:latitude":32.221758,
     "geom:longitude":-110.884492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":353821321,
-    "wof:lastmodified":1449019648,
+    "wof:lastmodified":1466330517,
     "wof:name":"Inteli Staf Healthcare",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-110.884492,32.221758,-110.884492,32.221758],
-  "geometry": {"coordinates":[-110.884492,32.221758],"type":"Point"}
+  "bbox": [
+    -110.884492,
+    32.221758,
+    -110.884492,
+    32.221758
+],
+  "geometry": {"coordinates":[-110.88449199999999,32.221758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353768785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.768509,33.384846,-110.768509,33.384846",
     "geom:latitude":33.384846,
     "geom:longitude":-110.768509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"688 E Cactus Dr",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353768785,
-    "wof:lastmodified":1449019246,
+    "wof:lastmodified":1466330230,
     "wof:name":"Ponderosa Publishing",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [-110.768509,33.384846,-110.768509,33.384846],
-  "geometry": {"coordinates":[-110.768509,33.384846],"type":"Point"}
+  "bbox": [
+    -110.768509,
+    33.384846,
+    -110.768509,
+    33.384846
+],
+  "geometry": {"coordinates":[-110.76850899999999,33.384846],"type":"Point"}
 }

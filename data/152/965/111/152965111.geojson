@@ -2,13 +2,14 @@
   "id": 152965111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.143002,33.500345,-112.143002,33.500345",
     "geom:latitude":33.500345,
     "geom:longitude":-112.143002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 N 39th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152965111,
-    "wof:lastmodified":1449047529,
+    "wof:lastmodified":1466328203,
     "wof:name":"Columbus Chemical Ind Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.143002,33.500345,-112.143002,33.500345],
+  "bbox": [
+    -112.143002,
+    33.500345,
+    -112.143002,
+    33.500345
+],
   "geometry": {"coordinates":[-112.143002,33.500345],"type":"Point"}
 }

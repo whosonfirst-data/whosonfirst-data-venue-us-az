@@ -2,13 +2,14 @@
   "id": 336907011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.823368,33.37073,-111.823368,33.37073",
     "geom:latitude":33.37073,
     "geom:longitude":-111.823368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 W San Pedro St",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336907011,
-    "wof:lastmodified":1448997935,
+    "wof:lastmodified":1466330381,
     "wof:name":"Arizona Fun Bikes",
     "wof:parent_id":85852583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-111.823368,33.37073,-111.823368,33.37073],
+  "bbox": [
+    -111.823368,
+    33.37073,
+    -111.823368,
+    33.37073
+],
   "geometry": {"coordinates":[-111.823368,33.37073],"type":"Point"}
 }

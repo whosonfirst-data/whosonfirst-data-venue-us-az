@@ -2,13 +2,14 @@
   "id": 320614891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073032,33.476634,-112.073032,33.476634",
     "geom:latitude":33.476634,
     "geom:longitude":-112.073032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 E Virginia Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320614891,
-    "wof:lastmodified":1449015063,
+    "wof:lastmodified":1466327814,
     "wof:name":"Williams Telecommunications Co",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-112.073032,33.476634,-112.073032,33.476634],
+  "bbox": [
+    -112.073032,
+    33.476634,
+    -112.073032,
+    33.476634
+],
   "geometry": {"coordinates":[-112.073032,33.476634],"type":"Point"}
 }

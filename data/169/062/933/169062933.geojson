@@ -2,13 +2,14 @@
   "id": 169062933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.0249,34.724164,-112.0249,34.724164",
     "geom:latitude":34.724164,
     "geom:longitude":-112.0249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"842 S 4th St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169062933,
-    "wof:lastmodified":1449035719,
+    "wof:lastmodified":1466329158,
     "wof:name":"Cobra Electric Inc",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.0249,34.724164,-112.0249,34.724164],
+  "bbox": [
+    -112.0249,
+    34.724164,
+    -112.0249,
+    34.724164
+],
   "geometry": {"coordinates":[-112.0249,34.724164],"type":"Point"}
 }

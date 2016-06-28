@@ -2,13 +2,14 @@
   "id": 336630221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064067,33.448399,-112.064067,33.448399",
     "geom:latitude":33.448399,
     "geom:longitude":-112.064067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Washington St # 112",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336630221,
-    "wof:lastmodified":1448997310,
+    "wof:lastmodified":1466326539,
     "wof:name":"Pinnacle Customs House Brokerage",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-112.064067,33.448399,-112.064067,33.448399],
-  "geometry": {"coordinates":[-112.064067,33.448399],"type":"Point"}
+  "bbox": [
+    -112.064067,
+    33.448399,
+    -112.064067,
+    33.448399
+],
+  "geometry": {"coordinates":[-112.06406699999999,33.448399],"type":"Point"}
 }

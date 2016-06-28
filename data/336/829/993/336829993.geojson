@@ -2,13 +2,14 @@
   "id": 336829993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825081,33.382389,-111.825081,33.382389",
     "geom:latitude":33.382389,
     "geom:longitude":-111.825081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 E Coury Ave Ste 130",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336829993,
-    "wof:lastmodified":1448997939,
+    "wof:lastmodified":1466329731,
     "wof:name":"Safe City",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.825081,33.382389,-111.825081,33.382389],
+  "bbox": [
+    -111.825081,
+    33.382389,
+    -111.825081,
+    33.382389
+],
   "geometry": {"coordinates":[-111.825081,33.382389],"type":"Point"}
 }

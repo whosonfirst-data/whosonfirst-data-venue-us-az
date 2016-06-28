@@ -2,13 +2,14 @@
   "id": 169384551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008012,33.325079,-112.008012,33.325079",
     "geom:latitude":33.325079,
     "geom:longitude":-112.008012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13205 S 34th Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858489,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85858489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169384551,
-    "wof:lastmodified":1449033094,
+    "wof:lastmodified":1466333855,
     "wof:name":"Cathedral Development Co",
     "wof:parent_id":85858489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.008012,33.325079,-112.008012,33.325079],
-  "geometry": {"coordinates":[-112.008012,33.325079],"type":"Point"}
+  "bbox": [
+    -112.008012,
+    33.325079,
+    -112.008012,
+    33.325079
+],
+  "geometry": {"coordinates":[-112.00801199999999,33.325079],"type":"Point"}
 }

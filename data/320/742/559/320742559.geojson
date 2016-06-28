@@ -2,13 +2,14 @@
   "id": 320742559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.128116,33.489804,-112.128116,33.489804",
     "geom:latitude":33.489804,
     "geom:longitude":-112.128116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320742559,
-    "wof:lastmodified":1449011492,
+    "wof:lastmodified":1466328724,
     "wof:name":"Phoenix Dream Center",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-christian"
     ]
 },
-  "bbox": [-112.128116,33.489804,-112.128116,33.489804],
-  "geometry": {"coordinates":[-112.128116,33.489804],"type":"Point"}
+  "bbox": [
+    -112.128116,
+    33.489804,
+    -112.128116,
+    33.489804
+],
+  "geometry": {"coordinates":[-112.12811600000001,33.489804],"type":"Point"}
 }

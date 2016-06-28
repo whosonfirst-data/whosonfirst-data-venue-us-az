@@ -2,13 +2,14 @@
   "id": 169173143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.715984,32.836315,-109.715984,32.836315",
     "geom:latitude":32.836315,
     "geom:longitude":-109.715984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S 8th Ave",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169173143,
-    "wof:lastmodified":1449033327,
+    "wof:lastmodified":1466331918,
     "wof:name":"Open Loop Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.715984,32.836315,-109.715984,32.836315],
-  "geometry": {"coordinates":[-109.715984,32.836315],"type":"Point"}
+  "bbox": [
+    -109.715984,
+    32.836315,
+    -109.715984,
+    32.836315
+],
+  "geometry": {"coordinates":[-109.71598400000001,32.836315],"type":"Point"}
 }

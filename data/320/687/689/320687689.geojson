@@ -2,13 +2,14 @@
   "id": 320687689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.06503,33.529835,-112.06503,33.529835",
     "geom:latitude":33.529835,
     "geom:longitude":-112.06503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6327 North 7th Street",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320687689,
-    "wof:lastmodified":1449012306,
+    "wof:lastmodified":1466327850,
     "wof:name":"Christo's Ristorante",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "italian"
     ]
 },
-  "bbox": [-112.06503,33.529835,-112.06503,33.529835],
-  "geometry": {"coordinates":[-112.06503,33.529835],"type":"Point"}
+  "bbox": [
+    -112.06503,
+    33.529835,
+    -112.06503,
+    33.529835
+],
+  "geometry": {"coordinates":[-112.06502999999999,33.529835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169353407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098789,34.308239,-112.098789,34.308239",
     "geom:latitude":34.308239,
     "geom:longitude":-112.098789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20768 E Black Rock Trl",
     "sg:city":"Mayer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844103,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85844103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169353407,
-    "wof:lastmodified":1449033633,
+    "wof:lastmodified":1466333293,
     "wof:name":"Rocky Mountain Patio 2",
     "wof:parent_id":85844103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098789,34.308239,-112.098789,34.308239],
+  "bbox": [
+    -112.098789,
+    34.308239,
+    -112.098789,
+    34.308239
+],
   "geometry": {"coordinates":[-112.098789,34.308239],"type":"Point"}
 }

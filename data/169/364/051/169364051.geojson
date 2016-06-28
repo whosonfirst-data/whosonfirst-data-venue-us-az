@@ -2,13 +2,14 @@
   "id": 169364051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978363,32.300359,-110.978363,32.300359",
     "geom:latitude":32.300359,
     "geom:longitude":-110.978363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5040 N Oracle Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169364051,
-    "wof:lastmodified":1449034544,
+    "wof:lastmodified":1466333578,
     "wof:name":"Spring Chicks",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978363,32.300359,-110.978363,32.300359],
+  "bbox": [
+    -110.978363,
+    32.300359,
+    -110.978363,
+    32.300359
+],
   "geometry": {"coordinates":[-110.978363,32.300359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168933527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.916802,31.441516,-109.916802,31.441516",
     "geom:latitude":31.441516,
     "geom:longitude":-109.916802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Main St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087425,
-        85633793,
         85688719,
-        85820943
+        85633793,
+        85820943,
+        102087425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168933527,
-    "wof:lastmodified":1449027933,
+    "wof:lastmodified":1466330671,
     "wof:name":"KG Potters Shop",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.916802,31.441516,-109.916802,31.441516],
+  "bbox": [
+    -109.916802,
+    31.441516,
+    -109.916802,
+    31.441516
+],
   "geometry": {"coordinates":[-109.916802,31.441516],"type":"Point"}
 }

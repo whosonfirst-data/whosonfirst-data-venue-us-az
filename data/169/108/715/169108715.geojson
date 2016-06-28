@@ -2,13 +2,14 @@
   "id": 169108715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.241925,33.637858,-112.241925,33.637858",
     "geom:latitude":33.637858,
     "geom:longitude":-112.241925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16651 N 84th Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.antigua.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169108715,
-    "wof:lastmodified":1449032741,
+    "wof:lastmodified":1466331131,
     "wof:name":"Antigua Group",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.241925,33.637858,-112.241925,33.637858],
-  "geometry": {"coordinates":[-112.241925,33.637858],"type":"Point"}
+  "bbox": [
+    -112.241925,
+    33.637858,
+    -112.241925,
+    33.637858
+],
+  "geometry": {"coordinates":[-112.24192499999999,33.637858],"type":"Point"}
 }

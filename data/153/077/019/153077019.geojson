@@ -2,13 +2,14 @@
   "id": 153077019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.295947,33.559504,-112.295947,33.559504",
     "geom:latitude":33.559504,
     "geom:longitude":-112.295947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8586 N 110th Dr",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812533,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85812533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153077019,
-    "wof:lastmodified":1449040401,
+    "wof:lastmodified":1466329180,
     "wof:name":"Details Unlimited",
     "wof:parent_id":85812533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.295947,33.559504,-112.295947,33.559504],
+  "bbox": [
+    -112.295947,
+    33.559504,
+    -112.295947,
+    33.559504
+],
   "geometry": {"coordinates":[-112.295947,33.559504],"type":"Point"}
 }

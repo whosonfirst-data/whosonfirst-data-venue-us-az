@@ -2,13 +2,14 @@
   "id": 169256217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.982186,33.650196,-111.982186,33.650196",
     "geom:latitude":33.650196,
     "geom:longitude":-111.982186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 E Michelle Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840463,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169256217,
-    "wof:lastmodified":1449035175,
+    "wof:lastmodified":1466332512,
     "wof:name":"Bentley Solar Svc",
     "wof:parent_id":85840463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.982186,33.650196,-111.982186,33.650196],
+  "bbox": [
+    -111.982186,
+    33.650196,
+    -111.982186,
+    33.650196
+],
   "geometry": {"coordinates":[-111.982186,33.650196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169215139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.971789,32.243785,-110.971789,32.243785",
     "geom:latitude":32.243785,
     "geom:longitude":-110.971789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 N Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871729,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169215139,
-    "wof:lastmodified":1449035386,
+    "wof:lastmodified":1466332192,
     "wof:name":"Custom Topper",
     "wof:parent_id":85871729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.971789,32.243785,-110.971789,32.243785],
+  "bbox": [
+    -110.971789,
+    32.243785,
+    -110.971789,
+    32.243785
+],
   "geometry": {"coordinates":[-110.971789,32.243785],"type":"Point"}
 }

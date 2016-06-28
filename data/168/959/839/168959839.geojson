@@ -2,13 +2,14 @@
   "id": 168959839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01306,33.497105,-112.01306,33.497105",
     "geom:latitude":33.497105,
     "geom:longitude":-112.01306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168959839,
-    "wof:lastmodified":1449028516,
+    "wof:lastmodified":1466331027,
     "wof:name":"Terry J Lee PC",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01306,33.497105,-112.01306,33.497105],
+  "bbox": [
+    -112.01306,
+    33.497105,
+    -112.01306,
+    33.497105
+],
   "geometry": {"coordinates":[-112.01306,33.497105],"type":"Point"}
 }

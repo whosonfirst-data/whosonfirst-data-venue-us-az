@@ -2,13 +2,14 @@
   "id": 320822411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10243,33.676491,-112.10243,33.676491",
     "geom:latitude":33.676491,
     "geom:longitude":-112.10243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 W Rose Garden Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320822411,
-    "wof:lastmodified":1449014844,
+    "wof:lastmodified":1466330111,
     "wof:name":"Grainger 602",
     "wof:parent_id":85845883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "fan"
     ]
 },
-  "bbox": [-112.10243,33.676491,-112.10243,33.676491],
+  "bbox": [
+    -112.10243,
+    33.676491,
+    -112.10243,
+    33.676491
+],
   "geometry": {"coordinates":[-112.10243,33.676491],"type":"Point"}
 }

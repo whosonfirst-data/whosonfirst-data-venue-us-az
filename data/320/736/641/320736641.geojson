@@ -2,13 +2,14 @@
   "id": 320736641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117091,33.509472,-112.117091,33.509472",
     "geom:latitude":33.509472,
     "geom:longitude":-112.117091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 W Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320736641,
-    "wof:lastmodified":1449014925,
+    "wof:lastmodified":1466328600,
     "wof:name":"PLS Check Cashers",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "check"
     ]
 },
-  "bbox": [-112.117091,33.509472,-112.117091,33.509472],
+  "bbox": [
+    -112.117091,
+    33.509472,
+    -112.117091,
+    33.509472
+],
   "geometry": {"coordinates":[-112.117091,33.509472],"type":"Point"}
 }

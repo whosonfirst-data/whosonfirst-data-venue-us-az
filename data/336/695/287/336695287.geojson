@@ -2,13 +2,14 @@
   "id": 336695287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.006348,33.313541,-112.006348,33.313541",
     "geom:latitude":33.313541,
     "geom:longitude":-112.006348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14625 S Mountain Pkwy Apt 2024",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336695287,
-    "wof:lastmodified":1448997346,
+    "wof:lastmodified":1466328211,
     "wof:name":"Blake Fitness",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "physical"
     ]
 },
-  "bbox": [-112.006348,33.313541,-112.006348,33.313541],
+  "bbox": [
+    -112.006348,
+    33.313541,
+    -112.006348,
+    33.313541
+],
   "geometry": {"coordinates":[-112.006348,33.313541],"type":"Point"}
 }

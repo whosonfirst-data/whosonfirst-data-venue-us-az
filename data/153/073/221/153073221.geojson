@@ -2,13 +2,14 @@
   "id": 153073221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.489036,35.232433,-111.489036,35.232433",
     "geom:latitude":35.232433,
     "geom:longitude":-111.489036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6593 N Pinon Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153073221,
-    "wof:lastmodified":1449040387,
+    "wof:lastmodified":1466328462,
     "wof:name":"Bob Wilson Enterprises",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.489036,35.232433,-111.489036,35.232433],
+  "bbox": [
+    -111.489036,
+    35.232433,
+    -111.489036,
+    35.232433
+],
   "geometry": {"coordinates":[-111.489036,35.232433],"type":"Point"}
 }

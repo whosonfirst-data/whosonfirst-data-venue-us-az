@@ -2,13 +2,14 @@
   "id": 152991707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970458,32.177731,-110.970458,32.177731",
     "geom:latitude":32.177731,
     "geom:longitude":-110.970458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 W Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152991707,
-    "wof:lastmodified":1449045760,
+    "wof:lastmodified":1466329603,
     "wof:name":"Anaya Physical Therapy",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970458,32.177731,-110.970458,32.177731],
-  "geometry": {"coordinates":[-110.970458,32.177731],"type":"Point"}
+  "bbox": [
+    -110.970458,
+    32.177731,
+    -110.970458,
+    32.177731
+],
+  "geometry": {"coordinates":[-110.97045799999999,32.177731],"type":"Point"}
 }

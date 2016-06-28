@@ -2,13 +2,14 @@
   "id": 153049691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.409364,34.657139,-112.409364,34.657139",
     "geom:latitude":34.657139,
     "geom:longitude":-112.409364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Melville Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.team-rpm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852851,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85852851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153049691,
-    "wof:lastmodified":1449040577,
+    "wof:lastmodified":1466327147,
     "wof:name":"Redline Performance Machine",
     "wof:parent_id":85852851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.409364,34.657139,-112.409364,34.657139],
+  "bbox": [
+    -112.409364,
+    34.657139,
+    -112.409364,
+    34.657139
+],
   "geometry": {"coordinates":[-112.409364,34.657139],"type":"Point"}
 }

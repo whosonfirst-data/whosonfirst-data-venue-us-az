@@ -2,13 +2,14 @@
   "id": 169272005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922452,32.270502,-110.922452,32.270502",
     "geom:latitude":32.270502,
     "geom:longitude":-110.922452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 E Greenlee Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169272005,
-    "wof:lastmodified":1449035735,
+    "wof:lastmodified":1466332709,
     "wof:name":"Rio Vista Estates",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.922452,32.270502,-110.922452,32.270502],
-  "geometry": {"coordinates":[-110.922452,32.270502],"type":"Point"}
+  "bbox": [
+    -110.922452,
+    32.270502,
+    -110.922452,
+    32.270502
+],
+  "geometry": {"coordinates":[-110.92245200000001,32.270502],"type":"Point"}
 }

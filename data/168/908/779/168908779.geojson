@@ -2,13 +2,14 @@
   "id": 168908779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.782006,34.769893,-111.782006,34.769893",
     "geom:latitude":34.769893,
     "geom:longitude":-111.782006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Eastern Vista Dr S",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.yesterdayschild.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168908779,
-    "wof:lastmodified":1449028205,
+    "wof:lastmodified":1466330061,
     "wof:name":"David L Snow Business Cnsltng",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.782006,34.769893,-111.782006,34.769893],
+  "bbox": [
+    -111.782006,
+    34.769893,
+    -111.782006,
+    34.769893
+],
   "geometry": {"coordinates":[-111.782006,34.769893],"type":"Point"}
 }

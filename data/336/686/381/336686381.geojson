@@ -2,13 +2,14 @@
   "id": 336686381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.180687,33.439941,-112.180687,33.439941",
     "geom:latitude":33.439941,
     "geom:longitude":-112.180687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 S 56th Ave Ste 5",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336686381,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466327967,
     "wof:name":"Charles M Schayer & Co",
     "wof:parent_id":85828957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "custom"
     ]
 },
-  "bbox": [-112.180687,33.439941,-112.180687,33.439941],
-  "geometry": {"coordinates":[-112.180687,33.439941],"type":"Point"}
+  "bbox": [
+    -112.180687,
+    33.439941,
+    -112.180687,
+    33.439941
+],
+  "geometry": {"coordinates":[-112.18068700000001,33.439941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169063753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.512103,34.642048,-112.512103,34.642048",
     "geom:latitude":34.642048,
     "geom:longitude":-112.512103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 Love Ln",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169063753,
-    "wof:lastmodified":1449032963,
+    "wof:lastmodified":1466329226,
     "wof:name":"William J Oleary",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.512103,34.642048,-112.512103,34.642048],
+  "bbox": [
+    -112.512103,
+    34.642048,
+    -112.512103,
+    34.642048
+],
   "geometry": {"coordinates":[-112.512103,34.642048],"type":"Point"}
 }

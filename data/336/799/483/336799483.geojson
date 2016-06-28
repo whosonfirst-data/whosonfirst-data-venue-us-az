@@ -2,13 +2,14 @@
   "id": 336799483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.746273,33.415547,-111.746273,33.415547",
     "geom:latitude":33.415547,
     "geom:longitude":-111.746273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":336799483,
-    "wof:lastmodified":1448998017,
+    "wof:lastmodified":1466329552,
     "wof:name":"Sun Devil Auto",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-111.746273,33.415547,-111.746273,33.415547],
+  "bbox": [
+    -111.746273,
+    33.415547,
+    -111.746273,
+    33.415547
+],
   "geometry": {"coordinates":[-111.746273,33.415547],"type":"Point"}
 }

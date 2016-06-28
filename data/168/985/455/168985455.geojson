@@ -2,13 +2,14 @@
   "id": 168985455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.210496,33.544809,-112.210496,33.544809",
     "geom:latitude":33.544809,
     "geom:longitude":-112.210496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 W Gardenia Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168985455,
-    "wof:lastmodified":1449028152,
+    "wof:lastmodified":1466331483,
     "wof:name":"Chasse's Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.210496,33.544809,-112.210496,33.544809],
-  "geometry": {"coordinates":[-112.210496,33.544809],"type":"Point"}
+  "bbox": [
+    -112.210496,
+    33.544809,
+    -112.210496,
+    33.544809
+],
+  "geometry": {"coordinates":[-112.21049600000001,33.544809],"type":"Point"}
 }

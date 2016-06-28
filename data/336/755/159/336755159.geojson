@@ -2,13 +2,14 @@
   "id": 336755159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.845074,33.427458,-111.845074,33.427458",
     "geom:latitude":33.427458,
     "geom:longitude":-111.845074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 N Hosick Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":336755159,
-    "wof:lastmodified":1448997253,
+    "wof:lastmodified":1466329156,
     "wof:name":"Lipovic Heating & Cooling",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-111.845074,33.427458,-111.845074,33.427458],
+  "bbox": [
+    -111.845074,
+    33.427458,
+    -111.845074,
+    33.427458
+],
   "geometry": {"coordinates":[-111.845074,33.427458],"type":"Point"}
 }

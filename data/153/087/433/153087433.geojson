@@ -2,13 +2,14 @@
   "id": 153087433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.838379,33.353371,-111.838379,33.353371",
     "geom:latitude":33.353371,
     "geom:longitude":-111.838379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3165 N Colorado St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85836675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153087433,
-    "wof:lastmodified":1449040533,
+    "wof:lastmodified":1466329419,
     "wof:name":"Speed Graphics",
     "wof:parent_id":85836675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.838379,33.353371,-111.838379,33.353371],
+  "bbox": [
+    -111.838379,
+    33.353371,
+    -111.838379,
+    33.353371
+],
   "geometry": {"coordinates":[-111.838379,33.353371],"type":"Point"}
 }

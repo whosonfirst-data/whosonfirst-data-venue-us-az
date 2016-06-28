@@ -2,13 +2,14 @@
   "id": 153032041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.754407,32.879533,-111.754407,32.879533",
     "geom:latitude":32.879533,
     "geom:longitude":-111.754407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Sacaton St",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153032041,
-    "wof:lastmodified":1449040561,
+    "wof:lastmodified":1466325918,
     "wof:name":"Adventures In Stained Glass",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.754407,32.879533,-111.754407,32.879533],
+  "bbox": [
+    -111.754407,
+    32.879533,
+    -111.754407,
+    32.879533
+],
   "geometry": {"coordinates":[-111.754407,32.879533],"type":"Point"}
 }

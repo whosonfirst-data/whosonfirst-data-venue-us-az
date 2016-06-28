@@ -2,13 +2,14 @@
   "id": 353612719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.135619,33.707724,-112.135619,33.707724",
     "geom:latitude":33.707724,
     "geom:longitude":-112.135619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24423 N 35th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353612719,
-    "wof:lastmodified":1449019385,
+    "wof:lastmodified":1466328688,
     "wof:name":"Bill Thomas Trucking",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-112.135619,33.707724,-112.135619,33.707724],
-  "geometry": {"coordinates":[-112.135619,33.707724],"type":"Point"}
+  "bbox": [
+    -112.135619,
+    33.707724,
+    -112.135619,
+    33.707724
+],
+  "geometry": {"coordinates":[-112.13561900000001,33.707724],"type":"Point"}
 }

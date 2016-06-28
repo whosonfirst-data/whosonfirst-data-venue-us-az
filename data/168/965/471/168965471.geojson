@@ -2,13 +2,14 @@
   "id": 168965471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949511,32.40433,-110.949511,32.40433",
     "geom:latitude":32.40433,
     "geom:longitude":-110.949511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 E Hanley Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168965471,
-    "wof:lastmodified":1449028309,
+    "wof:lastmodified":1466331335,
     "wof:name":"Kenneth Wertman",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949511,32.40433,-110.949511,32.40433],
+  "bbox": [
+    -110.949511,
+    32.40433,
+    -110.949511,
+    32.40433
+],
   "geometry": {"coordinates":[-110.949511,32.40433],"type":"Point"}
 }

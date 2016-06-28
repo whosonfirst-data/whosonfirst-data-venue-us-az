@@ -2,13 +2,14 @@
   "id": 168823355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.830583,32.235478,-110.830583,32.235478",
     "geom:latitude":32.235478,
     "geom:longitude":-110.830583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7570 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.farhorizonseast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":168823355,
-    "wof:lastmodified":1449028585,
+    "wof:lastmodified":1466325732,
     "wof:name":"Far Horizons East",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.830583,32.235478,-110.830583,32.235478],
+  "bbox": [
+    -110.830583,
+    32.235478,
+    -110.830583,
+    32.235478
+],
   "geometry": {"coordinates":[-110.830583,32.235478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353718303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.444107,32.659918,-114.444107,32.659918",
     "geom:latitude":32.659918,
     "geom:longitude":-114.444107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11692 S Fortuna Rd",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353718303,
-    "wof:lastmodified":1449018814,
+    "wof:lastmodified":1466329734,
     "wof:name":"USPS - United States Post Office - Yuma Foothills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.444107,32.659918,-114.444107,32.659918],
+  "bbox": [
+    -114.444107,
+    32.659918,
+    -114.444107,
+    32.659918
+],
   "geometry": {"coordinates":[-114.444107,32.659918],"type":"Point"}
 }

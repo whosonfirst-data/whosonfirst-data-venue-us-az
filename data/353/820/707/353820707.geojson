@@ -2,13 +2,14 @@
   "id": 353820707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.893721,32.23502,-110.893721,32.23502",
     "geom:latitude":32.23502,
     "geom:longitude":-110.893721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 E 1st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353820707,
-    "wof:lastmodified":1449019586,
+    "wof:lastmodified":1466330517,
     "wof:name":"Professional Plumbing Sewer",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-110.893721,32.23502,-110.893721,32.23502],
+  "bbox": [
+    -110.893721,
+    32.23502,
+    -110.893721,
+    32.23502
+],
   "geometry": {"coordinates":[-110.893721,32.23502],"type":"Point"}
 }

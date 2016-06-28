@@ -2,13 +2,14 @@
   "id": 152918895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.879221,33.63693,-111.879221,33.63693",
     "geom:latitude":33.63693,
     "geom:longitude":-111.879221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9380 E Bahia Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.aquasafeswim.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880969,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152918895,
-    "wof:lastmodified":1449047447,
+    "wof:lastmodified":1466326699,
     "wof:name":"Aquasafe Swim School",
     "wof:parent_id":85880969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.879221,33.63693,-111.879221,33.63693],
+  "bbox": [
+    -111.879221,
+    33.63693,
+    -111.879221,
+    33.63693
+],
   "geometry": {"coordinates":[-111.879221,33.63693],"type":"Point"}
 }

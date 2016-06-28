@@ -2,13 +2,14 @@
   "id": 169045599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.857883,32.144078,-110.857883,32.144078",
     "geom:latitude":32.144078,
     "geom:longitude":-110.857883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5951 S Wilmot Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843803,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85843803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169045599,
-    "wof:lastmodified":1449035566,
+    "wof:lastmodified":1466328090,
     "wof:name":"Western International Aviation",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.857883,32.144078,-110.857883,32.144078],
+  "bbox": [
+    -110.857883,
+    32.144078,
+    -110.857883,
+    32.144078
+],
   "geometry": {"coordinates":[-110.857883,32.144078],"type":"Point"}
 }

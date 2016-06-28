@@ -2,13 +2,14 @@
   "id": 320787661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.115008,33.561474,-112.115008,33.561474",
     "geom:latitude":33.561474,
     "geom:longitude":-112.115008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8611 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320787661,
-    "wof:lastmodified":1449012943,
+    "wof:lastmodified":1466329650,
     "wof:name":"Tonys Transportation",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.115008,33.561474,-112.115008,33.561474],
+  "bbox": [
+    -112.115008,
+    33.561474,
+    -112.115008,
+    33.561474
+],
   "geometry": {"coordinates":[-112.115008,33.561474],"type":"Point"}
 }

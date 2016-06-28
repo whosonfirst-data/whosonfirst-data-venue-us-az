@@ -2,13 +2,14 @@
   "id": 153069493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.5515,35.077341,-114.5515,35.077341",
     "geom:latitude":35.077341,
     "geom:longitude":-114.5515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2943 Desert Sky Dr",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alcco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153069493,
-    "wof:lastmodified":1449040663,
+    "wof:lastmodified":1466328262,
     "wof:name":"Davis House",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.5515,35.077341,-114.5515,35.077341],
+  "bbox": [
+    -114.5515,
+    35.077341,
+    -114.5515,
+    35.077341
+],
   "geometry": {"coordinates":[-114.5515,35.077341],"type":"Point"}
 }

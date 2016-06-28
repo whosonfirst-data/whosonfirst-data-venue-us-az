@@ -2,13 +2,14 @@
   "id": 337528279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921028,33.67025,-111.921028,33.67025",
     "geom:latitude":33.67025,
     "geom:longitude":-111.921028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20201 N Scottsdale Healthcare Dr Ste 150",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":337528279,
-    "wof:lastmodified":1449027151,
+    "wof:lastmodified":1466326494,
     "wof:name":"Barnet Dulaney Perkins Eye Center",
     "wof:parent_id":85880947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "surgery"
     ]
 },
-  "bbox": [-111.921028,33.67025,-111.921028,33.67025],
-  "geometry": {"coordinates":[-111.921028,33.67025],"type":"Point"}
+  "bbox": [
+    -111.921028,
+    33.67025,
+    -111.921028,
+    33.67025
+],
+  "geometry": {"coordinates":[-111.92102800000001,33.67025],"type":"Point"}
 }

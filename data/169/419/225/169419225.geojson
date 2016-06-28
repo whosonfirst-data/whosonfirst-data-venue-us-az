@@ -2,13 +2,14 @@
   "id": 169419225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104651,33.654639,-112.104651,33.654639",
     "geom:latitude":33.654639,
     "geom:longitude":-112.104651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 W Union Hills Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847865,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85847865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169419225,
-    "wof:lastmodified":1449035905,
+    "wof:lastmodified":1466334151,
     "wof:name":"Julie's Nails",
     "wof:parent_id":85847865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.104651,33.654639,-112.104651,33.654639],
+  "bbox": [
+    -112.104651,
+    33.654639,
+    -112.104651,
+    33.654639
+],
   "geometry": {"coordinates":[-112.104651,33.654639],"type":"Point"}
 }

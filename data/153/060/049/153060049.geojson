@@ -2,13 +2,14 @@
   "id": 153060049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16841,33.609033,-112.16841,33.609033",
     "geom:latitude":33.609033,
     "geom:longitude":-112.16841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13704 N 51st Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808757,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153060049,
-    "wof:lastmodified":1449040786,
+    "wof:lastmodified":1466328033,
     "wof:name":"Accelerated Healing Clinic",
     "wof:parent_id":85808757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.16841,33.609033,-112.16841,33.609033],
-  "geometry": {"coordinates":[-112.16841,33.609033],"type":"Point"}
+  "bbox": [
+    -112.16841,
+    33.609033,
+    -112.16841,
+    33.609033
+],
+  "geometry": {"coordinates":[-112.16840999999999,33.609033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353404147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.964821,33.430912,-111.964821,33.430912",
     "geom:latitude":33.430912,
     "geom:longitude":-111.964821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Rio Salado Pkwy",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353404147,
-    "wof:lastmodified":1449019943,
+    "wof:lastmodified":1466326290,
     "wof:name":"SpringHill Suites Phoenix Tempe/Airport",
     "wof:parent_id":85881427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lodging"
     ]
 },
-  "bbox": [-111.964821,33.430912,-111.964821,33.430912],
+  "bbox": [
+    -111.964821,
+    33.430912,
+    -111.964821,
+    33.430912
+],
   "geometry": {"coordinates":[-111.964821,33.430912],"type":"Point"}
 }

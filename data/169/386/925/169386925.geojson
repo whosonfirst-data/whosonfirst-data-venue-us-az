@@ -2,13 +2,14 @@
   "id": 169386925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.017912,32.14863,-111.017912,32.14863",
     "geom:latitude":32.14863,
     "geom:longitude":-111.017912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 S Forrest Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871721,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169386925,
-    "wof:lastmodified":1449034415,
+    "wof:lastmodified":1466333933,
     "wof:name":"J and T Electric Co",
     "wof:parent_id":85871721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.017912,32.14863,-111.017912,32.14863],
+  "bbox": [
+    -111.017912,
+    32.14863,
+    -111.017912,
+    32.14863
+],
   "geometry": {"coordinates":[-111.017912,32.14863],"type":"Point"}
 }

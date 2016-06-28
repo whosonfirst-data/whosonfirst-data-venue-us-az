@@ -2,13 +2,14 @@
   "id": 169205961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.952263,32.270257,-110.952263,32.270257",
     "geom:latitude":32.270257,
     "geom:longitude":-110.952263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3442 N Mountain Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169205961,
-    "wof:lastmodified":1449034680,
+    "wof:lastmodified":1466331975,
     "wof:name":"Merle Smith Trucking Inc",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.952263,32.270257,-110.952263,32.270257],
+  "bbox": [
+    -110.952263,
+    32.270257,
+    -110.952263,
+    32.270257
+],
   "geometry": {"coordinates":[-110.952263,32.270257],"type":"Point"}
 }

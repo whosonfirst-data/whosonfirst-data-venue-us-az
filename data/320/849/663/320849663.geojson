@@ -2,13 +2,14 @@
   "id": 320849663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125397,33.589821,-112.125397,33.589821",
     "geom:latitude":33.589821,
     "geom:longitude":-112.125397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 W Cholla St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320849663,
-    "wof:lastmodified":1449011946,
+    "wof:lastmodified":1466330508,
     "wof:name":"Saint Andrew Lutheran Church Inc",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-112.125397,33.589821,-112.125397,33.589821],
-  "geometry": {"coordinates":[-112.125397,33.589821],"type":"Point"}
+  "bbox": [
+    -112.125397,
+    33.589821,
+    -112.125397,
+    33.589821
+],
+  "geometry": {"coordinates":[-112.12539700000001,33.589821],"type":"Point"}
 }

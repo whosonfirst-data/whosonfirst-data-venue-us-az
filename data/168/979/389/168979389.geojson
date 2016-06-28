@@ -2,13 +2,14 @@
   "id": 168979389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.976685,31.858202,-110.976685,31.858202",
     "geom:latitude":31.858202,
     "geom:longitude":-110.976685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 S Park Centre Ave",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.casacanhelp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168979389,
-    "wof:lastmodified":1449028322,
+    "wof:lastmodified":1466331442,
     "wof:name":"Casa De Esperanza",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.976685,31.858202,-110.976685,31.858202],
+  "bbox": [
+    -110.976685,
+    31.858202,
+    -110.976685,
+    31.858202
+],
   "geometry": {"coordinates":[-110.976685,31.858202],"type":"Point"}
 }

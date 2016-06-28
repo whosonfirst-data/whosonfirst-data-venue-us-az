@@ -2,13 +2,14 @@
   "id": 169038965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.921988,32.134451,-110.921988,32.134451",
     "geom:latitude":32.134451,
     "geom:longitude":-110.921988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3285 E Hemisphere Loop",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169038965,
-    "wof:lastmodified":1449034802,
+    "wof:lastmodified":1466327657,
     "wof:name":"Tucson Resident Office",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.921988,32.134451,-110.921988,32.134451],
+  "bbox": [
+    -110.921988,
+    32.134451,
+    -110.921988,
+    32.134451
+],
   "geometry": {"coordinates":[-110.921988,32.134451],"type":"Point"}
 }

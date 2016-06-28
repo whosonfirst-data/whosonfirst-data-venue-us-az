@@ -2,13 +2,14 @@
   "id": 169139305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.037503,34.252686,-110.037503,34.252686",
     "geom:latitude":34.252686,
     "geom:longitude":-110.037503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169139305,
-    "wof:lastmodified":1449032980,
+    "wof:lastmodified":1466331556,
     "wof:name":"Woody's Food Stores",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.037503,34.252686,-110.037503,34.252686],
+  "bbox": [
+    -110.037503,
+    34.252686,
+    -110.037503,
+    34.252686
+],
   "geometry": {"coordinates":[-110.037503,34.252686],"type":"Point"}
 }

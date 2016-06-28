@@ -2,13 +2,14 @@
   "id": 320624287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.061667,33.465732,-112.061667,33.465732",
     "geom:latitude":33.465732,
     "geom:longitude":-112.061667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 E Mcdowell Rd Ste 134",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320624287,
-    "wof:lastmodified":1449013835,
+    "wof:lastmodified":1466326375,
     "wof:name":"University Med Ctrs Transplant",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.061667,33.465732,-112.061667,33.465732],
+  "bbox": [
+    -112.061667,
+    33.465732,
+    -112.061667,
+    33.465732
+],
   "geometry": {"coordinates":[-112.061667,33.465732],"type":"Point"}
 }

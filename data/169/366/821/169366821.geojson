@@ -2,13 +2,14 @@
   "id": 169366821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.880318,32.226585,-110.880318,32.226585",
     "geom:latitude":32.226585,
     "geom:longitude":-110.880318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5237 E 7th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.opdata.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169366821,
-    "wof:lastmodified":1449035084,
+    "wof:lastmodified":1466333668,
     "wof:name":"Optical Data Assoc",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.880318,32.226585,-110.880318,32.226585],
+  "bbox": [
+    -110.880318,
+    32.226585,
+    -110.880318,
+    32.226585
+],
   "geometry": {"coordinates":[-110.880318,32.226585],"type":"Point"}
 }

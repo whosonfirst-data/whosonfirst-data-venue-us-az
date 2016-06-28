@@ -2,13 +2,14 @@
   "id": 168953797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.392552,33.48345,-112.392552,33.48345",
     "geom:latitude":33.48345,
     "geom:longitude":-112.392552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14716 W Earll Dr",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818257,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85818257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168953797,
-    "wof:lastmodified":1449028298,
+    "wof:lastmodified":1466331121,
     "wof:name":"Pebble Creek HO",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.392552,33.48345,-112.392552,33.48345],
-  "geometry": {"coordinates":[-112.392552,33.48345],"type":"Point"}
+  "bbox": [
+    -112.392552,
+    33.48345,
+    -112.392552,
+    33.48345
+],
+  "geometry": {"coordinates":[-112.39255199999999,33.48345],"type":"Point"}
 }

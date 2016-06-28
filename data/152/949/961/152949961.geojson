@@ -2,13 +2,14 @@
   "id": 152949961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013758,33.532669,-112.013758,33.532669",
     "geom:latitude":33.532669,
     "geom:longitude":-112.013758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3165 E Sierra Vista Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806123,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152949961,
-    "wof:lastmodified":1449047168,
+    "wof:lastmodified":1466327365,
     "wof:name":"Pea-Nots LLC",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013758,33.532669,-112.013758,33.532669],
+  "bbox": [
+    -112.013758,
+    33.532669,
+    -112.013758,
+    33.532669
+],
   "geometry": {"coordinates":[-112.013758,33.532669],"type":"Point"}
 }

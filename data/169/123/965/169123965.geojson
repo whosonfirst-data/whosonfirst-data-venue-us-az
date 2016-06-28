@@ -2,13 +2,14 @@
   "id": 169123965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.833588,32.305329,-110.833588,32.305329",
     "geom:latitude":32.305329,
     "geom:longitude":-110.833588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 N Indian Trl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169123965,
-    "wof:lastmodified":1449033672,
+    "wof:lastmodified":1466331313,
     "wof:name":"Windows By Paul Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.833588,32.305329,-110.833588,32.305329],
-  "geometry": {"coordinates":[-110.833588,32.305329],"type":"Point"}
+  "bbox": [
+    -110.833588,
+    32.305329,
+    -110.833588,
+    32.305329
+],
+  "geometry": {"coordinates":[-110.83358800000001,32.305329],"type":"Point"}
 }

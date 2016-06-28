@@ -2,13 +2,14 @@
   "id": 169392605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777291,33.584023,-111.777291,33.584023",
     "geom:latitude":33.584023,
     "geom:longitude":-111.777291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10726 N 140th Way",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880945,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169392605,
-    "wof:lastmodified":1449035307,
+    "wof:lastmodified":1466333900,
     "wof:name":"Robert G Vonderhaar",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.777291,33.584023,-111.777291,33.584023],
-  "geometry": {"coordinates":[-111.777291,33.584023],"type":"Point"}
+  "bbox": [
+    -111.777291,
+    33.584023,
+    -111.777291,
+    33.584023
+],
+  "geometry": {"coordinates":[-111.77729100000001,33.584023],"type":"Point"}
 }

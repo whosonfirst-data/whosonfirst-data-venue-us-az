@@ -2,13 +2,14 @@
   "id": 168889395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.857249,35.392688,-113.857249,35.392688",
     "geom:latitude":35.392688,
     "geom:longitude":-113.857249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6959 Concho Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168889395,
-    "wof:lastmodified":1449027768,
+    "wof:lastmodified":1466329080,
     "wof:name":"C K Concrete",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.857249,35.392688,-113.857249,35.392688],
+  "bbox": [
+    -113.857249,
+    35.392688,
+    -113.857249,
+    35.392688
+],
   "geometry": {"coordinates":[-113.857249,35.392688],"type":"Point"}
 }

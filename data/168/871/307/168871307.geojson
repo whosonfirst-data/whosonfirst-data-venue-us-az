@@ -2,13 +2,14 @@
   "id": 168871307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.05353,32.351895,-111.05353,32.351895",
     "geom:latitude":32.351895,
     "geom:longitude":-111.05353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8031 N Bounty Pl",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168871307,
-    "wof:lastmodified":1449028000,
+    "wof:lastmodified":1466327569,
     "wof:name":"First Rate Electric LLC",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.05353,32.351895,-111.05353,32.351895],
-  "geometry": {"coordinates":[-111.05353,32.351895],"type":"Point"}
+  "bbox": [
+    -111.05353,
+    32.351895,
+    -111.05353,
+    32.351895
+],
+  "geometry": {"coordinates":[-111.05352999999999,32.351895],"type":"Point"}
 }

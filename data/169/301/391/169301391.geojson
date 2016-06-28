@@ -2,13 +2,14 @@
   "id": 169301391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919942,33.373376,-111.919942,33.373376",
     "geom:latitude":33.373376,
     "geom:longitude":-111.919942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 S Lakeshore Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169301391,
-    "wof:lastmodified":1449033534,
+    "wof:lastmodified":1466333239,
     "wof:name":"Message",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.919942,33.373376,-111.919942,33.373376],
-  "geometry": {"coordinates":[-111.919942,33.373376],"type":"Point"}
+  "bbox": [
+    -111.919942,
+    33.373376,
+    -111.919942,
+    33.373376
+],
+  "geometry": {"coordinates":[-111.91994200000001,33.373376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169352985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.199244,33.536503,-112.199244,33.536503",
     "geom:latitude":33.536503,
     "geom:longitude":-112.199244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 W Lamar Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877805,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169352985,
-    "wof:lastmodified":1449034712,
+    "wof:lastmodified":1466333566,
     "wof:name":"C & J Enterprises",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.199244,33.536503,-112.199244,33.536503],
-  "geometry": {"coordinates":[-112.199244,33.536503],"type":"Point"}
+  "bbox": [
+    -112.199244,
+    33.536503,
+    -112.199244,
+    33.536503
+],
+  "geometry": {"coordinates":[-112.19924399999999,33.536503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169366843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880062,33.246721,-111.880062,33.246721",
     "geom:latitude":33.246721,
     "geom:longitude":-111.880062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 S Sage Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876643,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169366843,
-    "wof:lastmodified":1449035081,
+    "wof:lastmodified":1466333670,
     "wof:name":"A Perfect Solution Executive",
     "wof:parent_id":85876643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.880062,33.246721,-111.880062,33.246721],
+  "bbox": [
+    -111.880062,
+    33.246721,
+    -111.880062,
+    33.246721
+],
   "geometry": {"coordinates":[-111.880062,33.246721],"type":"Point"}
 }

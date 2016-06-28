@@ -2,13 +2,14 @@
   "id": 353498645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.902588,33.357432,-111.902588,33.357432",
     "geom:latitude":33.357432,
     "geom:longitude":-111.902588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E Diamond Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353498645,
-    "wof:lastmodified":1449020194,
+    "wof:lastmodified":1466327152,
     "wof:name":"Kvie",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preserving"
     ]
 },
-  "bbox": [-111.902588,33.357432,-111.902588,33.357432],
-  "geometry": {"coordinates":[-111.902588,33.357432],"type":"Point"}
+  "bbox": [
+    -111.902588,
+    33.357432,
+    -111.902588,
+    33.357432
+],
+  "geometry": {"coordinates":[-111.90258799999999,33.357432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353844109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.924323,32.489223,-110.924323,32.489223",
     "geom:latitude":32.489223,
     "geom:longitude":-110.924323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15601 N Oracle Rd Ste A",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353844109,
-    "wof:lastmodified":1449019334,
+    "wof:lastmodified":1466330736,
     "wof:name":"Catalina Dental",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.924323,32.489223,-110.924323,32.489223],
+  "bbox": [
+    -110.924323,
+    32.489223,
+    -110.924323,
+    32.489223
+],
   "geometry": {"coordinates":[-110.924323,32.489223],"type":"Point"}
 }

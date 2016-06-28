@@ -2,13 +2,14 @@
   "id": 353771103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.105056,32.706585,-109.105056,32.706585",
     "geom:latitude":32.706585,
     "geom:longitude":-109.105056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 4th St Apt 208A",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353771103,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1466330240,
     "wof:name":"Duncan Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.105056,32.706585,-109.105056,32.706585],
+  "bbox": [
+    -109.105056,
+    32.706585,
+    -109.105056,
+    32.706585
+],
   "geometry": {"coordinates":[-109.105056,32.706585],"type":"Point"}
 }

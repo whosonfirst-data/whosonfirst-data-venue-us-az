@@ -2,13 +2,14 @@
   "id": 168898645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.012034,35.192109,-114.012034,35.192109",
     "geom:latitude":35.192109,
     "geom:longitude":-114.012034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Karen Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168898645,
-    "wof:lastmodified":1449027761,
+    "wof:lastmodified":1466329561,
     "wof:name":"Shear Timing",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.012034,35.192109,-114.012034,35.192109],
+  "bbox": [
+    -114.012034,
+    35.192109,
+    -114.012034,
+    35.192109
+],
   "geometry": {"coordinates":[-114.012034,35.192109],"type":"Point"}
 }

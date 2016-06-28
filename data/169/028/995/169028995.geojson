@@ -2,13 +2,14 @@
   "id": 169028995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.856282,32.221155,-110.856282,32.221155",
     "geom:latitude":32.221155,
     "geom:longitude":-110.856282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6315 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169028995,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466326775,
     "wof:name":"Popular Outdoor Outfitters",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.856282,32.221155,-110.856282,32.221155],
-  "geometry": {"coordinates":[-110.856282,32.221155],"type":"Point"}
+  "bbox": [
+    -110.856282,
+    32.221155,
+    -110.856282,
+    32.221155
+],
+  "geometry": {"coordinates":[-110.85628199999999,32.221155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169313245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.161044,33.52745,-112.161044,33.52745",
     "geom:latitude":33.52745,
     "geom:longitude":-112.161044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 N 47th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169313245,
-    "wof:lastmodified":1449032788,
+    "wof:lastmodified":1466333250,
     "wof:name":"Compute Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.161044,33.52745,-112.161044,33.52745],
+  "bbox": [
+    -112.161044,
+    33.52745,
+    -112.161044,
+    33.52745
+],
   "geometry": {"coordinates":[-112.161044,33.52745],"type":"Point"}
 }

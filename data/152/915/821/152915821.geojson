@@ -2,13 +2,14 @@
   "id": 152915821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.875381,32.229219,-110.875381,32.229219",
     "geom:latitude":32.229219,
     "geom:longitude":-110.875381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 N Craycroft Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152915821,
-    "wof:lastmodified":1449048861,
+    "wof:lastmodified":1466326285,
     "wof:name":"American Appraisals Real Estat",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.875381,32.229219,-110.875381,32.229219],
+  "bbox": [
+    -110.875381,
+    32.229219,
+    -110.875381,
+    32.229219
+],
   "geometry": {"coordinates":[-110.875381,32.229219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353778801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.631278,32.814296,-109.631278,32.814296",
     "geom:latitude":32.814296,
     "geom:longitude":-109.631278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 W Court St S #2",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":353778801,
-    "wof:lastmodified":1449018302,
+    "wof:lastmodified":1466330421,
     "wof:name":"COUNTRY FINANCIAL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.631278,32.814296,-109.631278,32.814296],
-  "geometry": {"coordinates":[-109.631278,32.814296],"type":"Point"}
+  "bbox": [
+    -109.631278,
+    32.814296,
+    -109.631278,
+    32.814296
+],
+  "geometry": {"coordinates":[-109.63127799999999,32.814296],"type":"Point"}
 }

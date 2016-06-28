@@ -2,13 +2,14 @@
   "id": 169135689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064799,33.654926,-112.064799,33.654926",
     "geom:latitude":33.654926,
     "geom:longitude":-112.064799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 E Union Hills Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843333,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169135689,
-    "wof:lastmodified":1449033952,
+    "wof:lastmodified":1466331586,
     "wof:name":"Margaret Livengood CPA Plc",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.064799,33.654926,-112.064799,33.654926],
-  "geometry": {"coordinates":[-112.064799,33.654926],"type":"Point"}
+  "bbox": [
+    -112.064799,
+    33.654926,
+    -112.064799,
+    33.654926
+],
+  "geometry": {"coordinates":[-112.06479899999999,33.654926],"type":"Point"}
 }

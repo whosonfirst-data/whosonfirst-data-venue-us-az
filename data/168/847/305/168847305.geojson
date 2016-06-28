@@ -2,13 +2,14 @@
   "id": 168847305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.827126,32.886485,-109.827126,32.886485",
     "geom:latitude":32.886485,
     "geom:longitude":-109.827126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S Main St",
     "sg:city":"Pima",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168847305,
-    "wof:lastmodified":1449028032,
+    "wof:lastmodified":1466327618,
     "wof:name":"Draper Custom Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.827126,32.886485,-109.827126,32.886485],
-  "geometry": {"coordinates":[-109.827126,32.886485],"type":"Point"}
+  "bbox": [
+    -109.827126,
+    32.886485,
+    -109.827126,
+    32.886485
+],
+  "geometry": {"coordinates":[-109.82712600000001,32.886485],"type":"Point"}
 }

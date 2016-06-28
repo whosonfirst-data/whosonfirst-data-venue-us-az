@@ -2,13 +2,14 @@
   "id": 168825919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.297931,31.554718,-110.297931,31.554718",
     "geom:latitude":31.554718,
     "geom:longitude":-110.297931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 E Fry Blvd",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168825919,
-    "wof:lastmodified":1449027792,
+    "wof:lastmodified":1466325861,
     "wof:name":"Fred's Barber Shop",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.297931,31.554718,-110.297931,31.554718],
-  "geometry": {"coordinates":[-110.297931,31.554718],"type":"Point"}
+  "bbox": [
+    -110.297931,
+    31.554718,
+    -110.297931,
+    31.554718
+],
+  "geometry": {"coordinates":[-110.29793100000001,31.554718],"type":"Point"}
 }

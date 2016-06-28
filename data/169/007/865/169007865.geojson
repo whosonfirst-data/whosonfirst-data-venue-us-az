@@ -2,13 +2,14 @@
   "id": 169007865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.965887,32.259528,-110.965887,32.259528",
     "geom:latitude":32.259528,
     "geom:longitude":-110.965887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 E Laguna St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871767,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169007865,
-    "wof:lastmodified":1449035394,
+    "wof:lastmodified":1466326653,
     "wof:name":"Master Roofing",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.965887,32.259528,-110.965887,32.259528],
+  "bbox": [
+    -110.965887,
+    32.259528,
+    -110.965887,
+    32.259528
+],
   "geometry": {"coordinates":[-110.965887,32.259528],"type":"Point"}
 }

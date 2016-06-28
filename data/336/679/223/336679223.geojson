@@ -2,13 +2,14 @@
   "id": 336679223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064636,33.38018,-112.064636,33.38018",
     "geom:latitude":33.38018,
     "geom:longitude":-112.064636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7235 S 7th St Ofc",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":336679223,
-    "wof:lastmodified":1448997622,
+    "wof:lastmodified":1466327663,
     "wof:name":"C P L C Villas",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-112.064636,33.38018,-112.064636,33.38018],
-  "geometry": {"coordinates":[-112.064636,33.38018],"type":"Point"}
+  "bbox": [
+    -112.064636,
+    33.38018,
+    -112.064636,
+    33.38018
+],
+  "geometry": {"coordinates":[-112.06463599999999,33.38018],"type":"Point"}
 }

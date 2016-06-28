@@ -2,13 +2,14 @@
   "id": 169402993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220002,33.39145,-112.220002,33.39145",
     "geom:latitude":33.39145,
     "geom:longitude":-112.220002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6212 S 75th Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871005,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169402993,
-    "wof:lastmodified":1449033744,
+    "wof:lastmodified":1466334084,
     "wof:name":"Make It Go Inc",
     "wof:parent_id":85871005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220002,33.39145,-112.220002,33.39145],
-  "geometry": {"coordinates":[-112.220002,33.39145],"type":"Point"}
+  "bbox": [
+    -112.220002,
+    33.39145,
+    -112.220002,
+    33.39145
+],
+  "geometry": {"coordinates":[-112.22000199999999,33.39145],"type":"Point"}
 }

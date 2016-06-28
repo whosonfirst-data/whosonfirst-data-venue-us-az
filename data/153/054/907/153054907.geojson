@@ -2,13 +2,14 @@
   "id": 153054907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.795332,33.413034,-111.795332,33.413034",
     "geom:latitude":33.413034,
     "geom:longitude":-111.795332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1657 E 1st Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820819,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85820819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153054907,
-    "wof:lastmodified":1449040545,
+    "wof:lastmodified":1466327515,
     "wof:name":"Rainmaker Landscaping Inc",
     "wof:parent_id":85820819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.795332,33.413034,-111.795332,33.413034],
+  "bbox": [
+    -111.795332,
+    33.413034,
+    -111.795332,
+    33.413034
+],
   "geometry": {"coordinates":[-111.795332,33.413034],"type":"Point"}
 }

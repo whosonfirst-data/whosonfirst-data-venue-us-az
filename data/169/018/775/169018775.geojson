@@ -2,13 +2,14 @@
   "id": 169018775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973359,33.813579,-111.973359,33.813579",
     "geom:latitude":33.813579,
     "geom:longitude":-111.973359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5039 E Cloud Rd",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169018775,
-    "wof:lastmodified":1449034330,
+    "wof:lastmodified":1466325857,
     "wof:name":"Black Mountain Brewing Co",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973359,33.813579,-111.973359,33.813579],
+  "bbox": [
+    -111.973359,
+    33.813579,
+    -111.973359,
+    33.813579
+],
   "geometry": {"coordinates":[-111.973359,33.813579],"type":"Point"}
 }

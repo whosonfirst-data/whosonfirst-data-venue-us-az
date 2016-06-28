@@ -2,13 +2,14 @@
   "id": 168888991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003923,33.40444,-112.003923,33.40444",
     "geom:latitude":33.40444,
     "geom:longitude":-112.003923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 S 36th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.methodswest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":168888991,
-    "wof:lastmodified":1449028260,
+    "wof:lastmodified":1466328845,
     "wof:name":"Methods Machine Tools West",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003923,33.40444,-112.003923,33.40444],
+  "bbox": [
+    -112.003923,
+    33.40444,
+    -112.003923,
+    33.40444
+],
   "geometry": {"coordinates":[-112.003923,33.40444],"type":"Point"}
 }

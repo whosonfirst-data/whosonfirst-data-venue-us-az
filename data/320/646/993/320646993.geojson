@@ -2,13 +2,14 @@
   "id": 320646993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973182,33.465682,-111.973182,33.465682",
     "geom:latitude":33.465682,
     "geom:longitude":-111.973182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 E Mcdowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320646993,
-    "wof:lastmodified":1449011174,
+    "wof:lastmodified":1466326936,
     "wof:name":"The Barber Shop",
     "wof:parent_id":85834573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.973182,33.465682,-111.973182,33.465682],
-  "geometry": {"coordinates":[-111.973182,33.465682],"type":"Point"}
+  "bbox": [
+    -111.973182,
+    33.465682,
+    -111.973182,
+    33.465682
+],
+  "geometry": {"coordinates":[-111.97318199999999,33.465682],"type":"Point"}
 }

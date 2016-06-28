@@ -2,13 +2,14 @@
   "id": 169288141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.887077,32.219579,-110.887077,32.219579",
     "geom:latitude":32.219579,
     "geom:longitude":-110.887077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 E Cooper St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169288141,
-    "wof:lastmodified":1449033018,
+    "wof:lastmodified":1466332836,
     "wof:name":"Thomas Slemp",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.887077,32.219579,-110.887077,32.219579],
-  "geometry": {"coordinates":[-110.887077,32.219579],"type":"Point"}
+  "bbox": [
+    -110.887077,
+    32.219579,
+    -110.887077,
+    32.219579
+],
+  "geometry": {"coordinates":[-110.88707700000001,32.219579],"type":"Point"}
 }

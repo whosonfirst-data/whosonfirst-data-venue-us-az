@@ -2,13 +2,14 @@
   "id": 336717065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118482,33.577725,-112.118482,33.577725",
     "geom:latitude":33.577725,
     "geom:longitude":-112.118482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10047 N Metro Pkwy E",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":336717065,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466328300,
     "wof:name":"El Torito",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.118482,33.577725,-112.118482,33.577725],
+  "bbox": [
+    -112.118482,
+    33.577725,
+    -112.118482,
+    33.577725
+],
   "geometry": {"coordinates":[-112.118482,33.577725],"type":"Point"}
 }

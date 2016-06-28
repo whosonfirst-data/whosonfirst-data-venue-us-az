@@ -2,13 +2,14 @@
   "id": 169358057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.186822,35.251484,-112.186822,35.251484",
     "geom:latitude":35.251484,
     "geom:longitude":-112.186822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Railroad Ave",
     "sg:city":"Williams",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857825,
+        85688719,
         85633793,
         85917435,
         102086831,
-        85688719
+        85857825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169358057,
-    "wof:lastmodified":1449034059,
+    "wof:lastmodified":1466333578,
     "wof:name":"John's Auto-Truck Repair",
     "wof:parent_id":85857825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.186822,35.251484,-112.186822,35.251484],
-  "geometry": {"coordinates":[-112.186822,35.251484],"type":"Point"}
+  "bbox": [
+    -112.186822,
+    35.251484,
+    -112.186822,
+    35.251484
+],
+  "geometry": {"coordinates":[-112.18682200000001,35.251484],"type":"Point"}
 }

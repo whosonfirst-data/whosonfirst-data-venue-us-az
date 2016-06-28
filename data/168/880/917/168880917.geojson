@@ -2,13 +2,14 @@
   "id": 168880917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105686,33.59469,-112.105686,33.59469",
     "geom:latitude":33.59469,
     "geom:longitude":-112.105686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 W Laurel Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168880917,
-    "wof:lastmodified":1449028594,
+    "wof:lastmodified":1466328302,
     "wof:name":"Colonial Glass Inc",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.105686,33.59469,-112.105686,33.59469],
-  "geometry": {"coordinates":[-112.105686,33.59469],"type":"Point"}
+  "bbox": [
+    -112.105686,
+    33.59469,
+    -112.105686,
+    33.59469
+],
+  "geometry": {"coordinates":[-112.10568600000001,33.59469],"type":"Point"}
 }

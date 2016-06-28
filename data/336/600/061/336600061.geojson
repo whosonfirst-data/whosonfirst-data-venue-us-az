@@ -2,13 +2,14 @@
   "id": 336600061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.977958,33.619789,-111.977958,33.619789",
     "geom:latitude":33.619789,
     "geom:longitude":-111.977958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14640 N Tatum Blvd Ste 5",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336600061,
-    "wof:lastmodified":1448997032,
+    "wof:lastmodified":1466325969,
     "wof:name":"Straight Line Orthodontics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-111.977958,33.619789,-111.977958,33.619789],
+  "bbox": [
+    -111.977958,
+    33.619789,
+    -111.977958,
+    33.619789
+],
   "geometry": {"coordinates":[-111.977958,33.619789],"type":"Point"}
 }

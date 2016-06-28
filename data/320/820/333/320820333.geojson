@@ -2,13 +2,14 @@
   "id": 320820333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07779,33.682251,-112.07779,33.682251",
     "geom:latitude":33.682251,
     "geom:longitude":-112.07779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Melinda Ln # 6",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320820333,
-    "wof:lastmodified":1449013189,
+    "wof:lastmodified":1466329985,
     "wof:name":"Arizona Copier Outlet",
     "wof:parent_id":85857713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copy"
     ]
 },
-  "bbox": [-112.07779,33.682251,-112.07779,33.682251],
-  "geometry": {"coordinates":[-112.07779,33.682251],"type":"Point"}
+  "bbox": [
+    -112.07779,
+    33.682251,
+    -112.07779,
+    33.682251
+],
+  "geometry": {"coordinates":[-112.07778999999999,33.682251],"type":"Point"}
 }

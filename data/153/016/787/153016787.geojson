@@ -2,13 +2,14 @@
   "id": 153016787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.797709,33.353045,-111.797709,33.353045",
     "geom:latitude":33.353045,
     "geom:longitude":-111.797709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 W Cullumber Ave",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807177,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85807177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153016787,
-    "wof:lastmodified":1449040410,
+    "wof:lastmodified":1466326619,
     "wof:name":"Advancedcoating Material Inc",
     "wof:parent_id":85807177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.797709,33.353045,-111.797709,33.353045],
+  "bbox": [
+    -111.797709,
+    33.353045,
+    -111.797709,
+    33.353045
+],
   "geometry": {"coordinates":[-111.797709,33.353045],"type":"Point"}
 }

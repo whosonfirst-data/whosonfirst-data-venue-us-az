@@ -2,13 +2,14 @@
   "id": 169343227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07409,33.82815,-112.07409,33.82815",
     "geom:latitude":33.82815,
     "geom:longitude":-112.07409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38029 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169343227,
-    "wof:lastmodified":1449035023,
+    "wof:lastmodified":1466333399,
     "wof:name":"R Watmore Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.07409,33.82815,-112.07409,33.82815],
+  "bbox": [
+    -112.07409,
+    33.82815,
+    -112.07409,
+    33.82815
+],
   "geometry": {"coordinates":[-112.07409,33.82815],"type":"Point"}
 }

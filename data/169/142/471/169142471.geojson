@@ -2,13 +2,14 @@
   "id": 169142471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.772585,33.262987,-111.772585,33.262987",
     "geom:latitude":33.262987,
     "geom:longitude":-111.772585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14801 E Queen Creek Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876647,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169142471,
-    "wof:lastmodified":1449035301,
+    "wof:lastmodified":1466331747,
     "wof:name":"S&T Dairy LLC",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.772585,33.262987,-111.772585,33.262987],
-  "geometry": {"coordinates":[-111.772585,33.262987],"type":"Point"}
+  "bbox": [
+    -111.772585,
+    33.262987,
+    -111.772585,
+    33.262987
+],
+  "geometry": {"coordinates":[-111.77258500000001,33.262987],"type":"Point"}
 }

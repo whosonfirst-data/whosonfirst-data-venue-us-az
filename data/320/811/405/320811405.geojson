@@ -2,13 +2,14 @@
   "id": 320811405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031079,33.678443,-112.031079,33.678443",
     "geom:latitude":33.678443,
     "geom:longitude":-112.031079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21035 N Cave Creek Rd Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320811405,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466329845,
     "wof:name":"Tax Center Singer",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "public"
     ]
 },
-  "bbox": [-112.031079,33.678443,-112.031079,33.678443],
-  "geometry": {"coordinates":[-112.031079,33.678443],"type":"Point"}
+  "bbox": [
+    -112.031079,
+    33.678443,
+    -112.031079,
+    33.678443
+],
+  "geometry": {"coordinates":[-112.03107900000001,33.678443],"type":"Point"}
 }

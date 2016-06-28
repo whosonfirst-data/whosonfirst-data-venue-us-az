@@ -2,13 +2,14 @@
   "id": 336949023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.765273,33.227424,-111.765273,33.227424",
     "geom:latitude":33.227424,
     "geom:longitude":-111.765273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14729 E Birchwood Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336949023,
-    "wof:lastmodified":1448997603,
+    "wof:lastmodified":1466330692,
     "wof:name":"Absolute Paving Maintenence",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sealcoating"
     ]
 },
-  "bbox": [-111.765273,33.227424,-111.765273,33.227424],
-  "geometry": {"coordinates":[-111.765273,33.227424],"type":"Point"}
+  "bbox": [
+    -111.765273,
+    33.227424,
+    -111.765273,
+    33.227424
+],
+  "geometry": {"coordinates":[-111.76527299999999,33.227424],"type":"Point"}
 }

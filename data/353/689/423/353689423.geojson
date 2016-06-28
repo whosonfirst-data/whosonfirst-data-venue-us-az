@@ -2,13 +2,14 @@
   "id": 353689423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.149031,32.663565,-114.149031,32.663565",
     "geom:latitude":32.663565,
     "geom:longitude":-114.149031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28595 E County 11th St # 111",
     "sg:city":"Wellton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353689423,
-    "wof:lastmodified":1449020394,
+    "wof:lastmodified":1466329536,
     "wof:name":"Park Pioneer Rv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-114.149031,32.663565,-114.149031,32.663565],
-  "geometry": {"coordinates":[-114.149031,32.663565],"type":"Point"}
+  "bbox": [
+    -114.149031,
+    32.663565,
+    -114.149031,
+    32.663565
+],
+  "geometry": {"coordinates":[-114.14903099999999,32.663565],"type":"Point"}
 }

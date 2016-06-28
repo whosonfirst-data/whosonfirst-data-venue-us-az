@@ -2,13 +2,14 @@
   "id": 152970627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.344035,33.470552,-112.344035,33.470552",
     "geom:latitude":33.470552,
     "geom:longitude":-112.344035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 N 132nd Dr",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812557,
+        85688719,
         85633793,
         85917553,
         102087421,
-        85688719
+        85812557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152970627,
-    "wof:lastmodified":1449048831,
+    "wof:lastmodified":1466328468,
     "wof:name":"Nada Androus",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.344035,33.470552,-112.344035,33.470552],
-  "geometry": {"coordinates":[-112.344035,33.470552],"type":"Point"}
+  "bbox": [
+    -112.344035,
+    33.470552,
+    -112.344035,
+    33.470552
+],
+  "geometry": {"coordinates":[-112.34403500000001,33.470552],"type":"Point"}
 }

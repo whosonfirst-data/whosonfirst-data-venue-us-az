@@ -2,13 +2,14 @@
   "id": 320696525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050722,33.529834,-112.050722,33.529834",
     "geom:latitude":33.529834,
     "geom:longitude":-112.050722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6326 N 14th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320696525,
-    "wof:lastmodified":1449011525,
+    "wof:lastmodified":1466328010,
     "wof:name":"Kiss The Camera",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-112.050722,33.529834,-112.050722,33.529834],
-  "geometry": {"coordinates":[-112.050722,33.529834],"type":"Point"}
+  "bbox": [
+    -112.050722,
+    33.529834,
+    -112.050722,
+    33.529834
+],
+  "geometry": {"coordinates":[-112.05072199999999,33.529834],"type":"Point"}
 }

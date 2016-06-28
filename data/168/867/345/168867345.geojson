@@ -2,13 +2,14 @@
   "id": 168867345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834469,33.373875,-111.834469,33.373875",
     "geom:latitude":33.373875,
     "geom:longitude":-111.834469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 N Tech Blvd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.taymac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833339,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85833339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168867345,
-    "wof:lastmodified":1449028116,
+    "wof:lastmodified":1466327228,
     "wof:name":"Taymac Corp",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.834469,33.373875,-111.834469,33.373875],
+  "bbox": [
+    -111.834469,
+    33.373875,
+    -111.834469,
+    33.373875
+],
   "geometry": {"coordinates":[-111.834469,33.373875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336689381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.152966,33.45134,-112.152966,33.45134",
     "geom:latitude":33.45134,
     "geom:longitude":-112.152966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4303 W Van Buren St Ste 3",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336689381,
-    "wof:lastmodified":1448997852,
+    "wof:lastmodified":1466327842,
     "wof:name":"Pro-Active Building Services",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.152966,33.45134,-112.152966,33.45134],
-  "geometry": {"coordinates":[-112.152966,33.45134],"type":"Point"}
+  "bbox": [
+    -112.152966,
+    33.45134,
+    -112.152966,
+    33.45134
+],
+  "geometry": {"coordinates":[-112.15296600000001,33.45134],"type":"Point"}
 }

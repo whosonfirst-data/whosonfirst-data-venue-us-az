@@ -2,13 +2,14 @@
   "id": 168959063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.869357,33.396507,-110.869357,33.396507",
     "geom:latitude":33.396507,
     "geom:longitude":-110.869357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Adonis Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168959063,
-    "wof:lastmodified":1449028510,
+    "wof:lastmodified":1466331103,
     "wof:name":"Fuddy-Duddy's Antiques",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.869357,33.396507,-110.869357,33.396507],
-  "geometry": {"coordinates":[-110.869357,33.396507],"type":"Point"}
+  "bbox": [
+    -110.869357,
+    33.396507,
+    -110.869357,
+    33.396507
+],
+  "geometry": {"coordinates":[-110.86935699999999,33.396507],"type":"Point"}
 }

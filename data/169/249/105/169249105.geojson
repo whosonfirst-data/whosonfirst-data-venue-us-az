@@ -2,13 +2,14 @@
   "id": 169249105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.587905,33.370397,-112.587905,33.370397",
     "geom:latitude":33.370397,
     "geom:longitude":-112.587905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Monroe Ave",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169249105,
-    "wof:lastmodified":1449032852,
+    "wof:lastmodified":1466332473,
     "wof:name":"Bullseye Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.587905,33.370397,-112.587905,33.370397],
-  "geometry": {"coordinates":[-112.587905,33.370397],"type":"Point"}
+  "bbox": [
+    -112.587905,
+    33.370397,
+    -112.587905,
+    33.370397
+],
+  "geometry": {"coordinates":[-112.58790500000001,33.370397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353827249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.97954,32.17783,-110.97954,32.17783",
     "geom:latitude":32.17783,
     "geom:longitude":-110.97954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 W Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353827249,
-    "wof:lastmodified":1449019167,
+    "wof:lastmodified":1466330596,
     "wof:name":"San Xavier Medical Associates",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-110.97954,32.17783,-110.97954,32.17783],
+  "bbox": [
+    -110.97954,
+    32.17783,
+    -110.97954,
+    32.17783
+],
   "geometry": {"coordinates":[-110.97954,32.17783],"type":"Point"}
 }

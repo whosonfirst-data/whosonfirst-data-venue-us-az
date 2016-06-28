@@ -2,13 +2,14 @@
   "id": 169155055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.179031,33.70722,-112.179031,33.70722",
     "geom:latitude":33.70722,
     "geom:longitude":-112.179031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5532 W Saguaro Park Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169155055,
-    "wof:lastmodified":1449035381,
+    "wof:lastmodified":1466331915,
     "wof:name":"Temp Pro Air Conditioning Htg",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.179031,33.70722,-112.179031,33.70722],
-  "geometry": {"coordinates":[-112.179031,33.70722],"type":"Point"}
+  "bbox": [
+    -112.179031,
+    33.70722,
+    -112.179031,
+    33.70722
+],
+  "geometry": {"coordinates":[-112.17903099999999,33.70722],"type":"Point"}
 }

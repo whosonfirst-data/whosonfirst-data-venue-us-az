@@ -2,13 +2,14 @@
   "id": 168854465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.1164,33.683866,-112.1164,33.683866",
     "geom:latitude":33.683866,
     "geom:longitude":-112.1164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 W Deer Valley Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168854465,
-    "wof:lastmodified":1449028558,
+    "wof:lastmodified":1466326095,
     "wof:name":"Stone Crafters Of Arizona",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.1164,33.683866,-112.1164,33.683866],
+  "bbox": [
+    -112.1164,
+    33.683866,
+    -112.1164,
+    33.683866
+],
   "geometry": {"coordinates":[-112.1164,33.683866],"type":"Point"}
 }

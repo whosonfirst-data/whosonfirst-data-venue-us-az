@@ -2,13 +2,14 @@
   "id": 353521109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.958779,33.345299,-111.958779,33.345299",
     "geom:latitude":33.345299,
     "geom:longitude":-111.958779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 W Drivers Way",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353521109,
-    "wof:lastmodified":1449020658,
+    "wof:lastmodified":1466327535,
     "wof:name":"Kes Systems, Inc.",
     "wof:parent_id":85814393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "engineer"
     ]
 },
-  "bbox": [-111.958779,33.345299,-111.958779,33.345299],
-  "geometry": {"coordinates":[-111.958779,33.345299],"type":"Point"}
+  "bbox": [
+    -111.958779,
+    33.345299,
+    -111.958779,
+    33.345299
+],
+  "geometry": {"coordinates":[-111.95877900000001,33.345299],"type":"Point"}
 }

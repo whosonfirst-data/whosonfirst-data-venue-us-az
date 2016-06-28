@@ -2,13 +2,14 @@
   "id": 168966129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.937067,31.337952,-110.937067,31.337952",
     "geom:latitude":31.337952,
     "geom:longitude":-110.937067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N Morley Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168966129,
-    "wof:lastmodified":1449027779,
+    "wof:lastmodified":1466331323,
     "wof:name":"Diamond House",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.937067,31.337952,-110.937067,31.337952],
+  "bbox": [
+    -110.937067,
+    31.337952,
+    -110.937067,
+    31.337952
+],
   "geometry": {"coordinates":[-110.937067,31.337952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153011765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.71474,33.596789,-111.71474,33.596789",
     "geom:latitude":33.596789,
     "geom:longitude":-111.71474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17007 E Colony Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153011765,
-    "wof:lastmodified":1449040733,
+    "wof:lastmodified":1466326150,
     "wof:name":"At The Fountain Sherry's Skin",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.71474,33.596789,-111.71474,33.596789],
-  "geometry": {"coordinates":[-111.71474,33.596789],"type":"Point"}
+  "bbox": [
+    -111.71474,
+    33.596789,
+    -111.71474,
+    33.596789
+],
+  "geometry": {"coordinates":[-111.71474000000001,33.596789],"type":"Point"}
 }

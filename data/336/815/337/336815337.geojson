@@ -2,13 +2,14 @@
   "id": 336815337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.86058,33.3892,-111.86058,33.3892",
     "geom:latitude":33.3892,
     "geom:longitude":-111.86058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 W Southern Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336815337,
-    "wof:lastmodified":1448997477,
+    "wof:lastmodified":1466329700,
     "wof:name":"Arizona Diamond Center",
     "wof:parent_id":85858581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.86058,33.3892,-111.86058,33.3892],
+  "bbox": [
+    -111.86058,
+    33.3892,
+    -111.86058,
+    33.3892
+],
   "geometry": {"coordinates":[-111.86058,33.3892],"type":"Point"}
 }

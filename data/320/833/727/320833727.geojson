@@ -2,13 +2,14 @@
   "id": 320833727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001862,33.588322,-112.001862,33.588322",
     "geom:latitude":33.588322,
     "geom:longitude":-112.001862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 E Garden Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320833727,
-    "wof:lastmodified":1449011727,
+    "wof:lastmodified":1466330281,
     "wof:name":"We're Lovin Life",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-112.001862,33.588322,-112.001862,33.588322],
+  "bbox": [
+    -112.001862,
+    33.588322,
+    -112.001862,
+    33.588322
+],
   "geometry": {"coordinates":[-112.001862,33.588322],"type":"Point"}
 }

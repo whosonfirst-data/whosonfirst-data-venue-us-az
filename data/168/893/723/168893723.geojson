@@ -2,13 +2,14 @@
   "id": 168893723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.220937,33.659951,-112.220937,33.659951",
     "geom:latitude":33.659951,
     "geom:longitude":-112.220937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19311 N 75th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877777,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168893723,
-    "wof:lastmodified":1449028436,
+    "wof:lastmodified":1466329125,
     "wof:name":"Endless Concepts",
     "wof:parent_id":85877777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.220937,33.659951,-112.220937,33.659951],
-  "geometry": {"coordinates":[-112.220937,33.659951],"type":"Point"}
+  "bbox": [
+    -112.220937,
+    33.659951,
+    -112.220937,
+    33.659951
+],
+  "geometry": {"coordinates":[-112.22093700000001,33.659951],"type":"Point"}
 }

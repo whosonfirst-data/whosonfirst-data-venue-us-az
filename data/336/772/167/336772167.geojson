@@ -2,13 +2,14 @@
   "id": 336772167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890313,33.365877,-111.890313,33.365877",
     "geom:latitude":33.365877,
     "geom:longitude":-111.890313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2733 S Las Flores",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336772167,
-    "wof:lastmodified":1448997435,
+    "wof:lastmodified":1466329343,
     "wof:name":"Barkshire Laser Leveling Arizona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lasers-manufacturers"
     ]
 },
-  "bbox": [-111.890313,33.365877,-111.890313,33.365877],
-  "geometry": {"coordinates":[-111.890313,33.365877],"type":"Point"}
+  "bbox": [
+    -111.890313,
+    33.365877,
+    -111.890313,
+    33.365877
+],
+  "geometry": {"coordinates":[-111.89031300000001,33.365877],"type":"Point"}
 }

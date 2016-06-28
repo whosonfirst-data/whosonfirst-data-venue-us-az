@@ -2,13 +2,14 @@
   "id": 336724171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120323,33.626064,-112.120323,33.626064",
     "geom:latitude":33.626064,
     "geom:longitude":-112.120323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15414 N 29th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336724171,
-    "wof:lastmodified":1448997978,
+    "wof:lastmodified":1466328403,
     "wof:name":"Palm House",
     "wof:parent_id":85843759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.120323,33.626064,-112.120323,33.626064],
+  "bbox": [
+    -112.120323,
+    33.626064,
+    -112.120323,
+    33.626064
+],
   "geometry": {"coordinates":[-112.120323,33.626064],"type":"Point"}
 }

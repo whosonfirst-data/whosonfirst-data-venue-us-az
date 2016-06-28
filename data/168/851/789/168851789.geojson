@@ -2,13 +2,14 @@
   "id": 168851789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.334896,33.61034,-112.334896,33.61034",
     "geom:latitude":33.61034,
     "geom:longitude":-112.334896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13802 N 127th Ln",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168851789,
-    "wof:lastmodified":1449028276,
+    "wof:lastmodified":1466325855,
     "wof:name":"Mesopotamia LLC",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.334896,33.61034,-112.334896,33.61034],
+  "bbox": [
+    -112.334896,
+    33.61034,
+    -112.334896,
+    33.61034
+],
   "geometry": {"coordinates":[-112.334896,33.61034],"type":"Point"}
 }

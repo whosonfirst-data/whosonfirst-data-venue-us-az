@@ -2,13 +2,14 @@
   "id": 152928449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.874972,33.396916,-110.874972,33.396916",
     "geom:latitude":33.396916,
     "geom:longitude":-110.874972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Sullivan St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.olbsc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152928449,
-    "wof:lastmodified":1449048274,
+    "wof:lastmodified":1466325871,
     "wof:name":"Our Lady Of The Blessed Scrmnt",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.874972,33.396916,-110.874972,33.396916],
+  "bbox": [
+    -110.874972,
+    33.396916,
+    -110.874972,
+    33.396916
+],
   "geometry": {"coordinates":[-110.874972,33.396916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168946757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.0536,32.389985,-111.0536,32.389985",
     "geom:latitude":32.389985,
     "geom:longitude":-111.0536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 N Orange Ranch Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168946757,
-    "wof:lastmodified":1449028501,
+    "wof:lastmodified":1466330960,
     "wof:name":"SW &M Concrete Consultant",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.0536,32.389985,-111.0536,32.389985],
+  "bbox": [
+    -111.0536,
+    32.389985,
+    -111.0536,
+    32.389985
+],
   "geometry": {"coordinates":[-111.0536,32.389985],"type":"Point"}
 }

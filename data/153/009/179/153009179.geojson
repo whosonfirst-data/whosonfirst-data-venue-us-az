@@ -2,13 +2,14 @@
   "id": 153009179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.466607,34.541779,-112.466607,34.541779",
     "geom:latitude":34.541779,
     "geom:longitude":-112.466607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 E Gurley St",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153009179,
-    "wof:lastmodified":1449040815,
+    "wof:lastmodified":1466326034,
     "wof:name":"Yavapai County Jail",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.466607,34.541779,-112.466607,34.541779],
+  "bbox": [
+    -112.466607,
+    34.541779,
+    -112.466607,
+    34.541779
+],
   "geometry": {"coordinates":[-112.466607,34.541779],"type":"Point"}
 }

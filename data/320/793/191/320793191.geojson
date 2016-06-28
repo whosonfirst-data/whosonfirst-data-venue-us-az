@@ -2,13 +2,14 @@
   "id": 320793191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03257,33.596806,-112.03257,33.596806",
     "geom:latitude":33.596806,
     "geom:longitude":-112.03257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17150 N 23rd St Unit 12",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320793191,
-    "wof:lastmodified":1449013317,
+    "wof:lastmodified":1466329586,
     "wof:name":"Travis Marting",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-112.03257,33.596806,-112.03257,33.596806],
-  "geometry": {"coordinates":[-112.03257,33.596806],"type":"Point"}
+  "bbox": [
+    -112.03257,
+    33.596806,
+    -112.03257,
+    33.596806
+],
+  "geometry": {"coordinates":[-112.03257000000001,33.596806],"type":"Point"}
 }

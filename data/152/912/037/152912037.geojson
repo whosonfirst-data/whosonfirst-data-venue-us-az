@@ -2,13 +2,14 @@
   "id": 152912037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017703,33.603107,-112.017703,33.603107",
     "geom:latitude":33.603107,
     "geom:longitude":-112.017703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 E Dahlia Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152912037,
-    "wof:lastmodified":1449046584,
+    "wof:lastmodified":1466325861,
     "wof:name":"BJ Parent",
     "wof:parent_id":85843779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.017703,33.603107,-112.017703,33.603107],
+  "bbox": [
+    -112.017703,
+    33.603107,
+    -112.017703,
+    33.603107
+],
   "geometry": {"coordinates":[-112.017703,33.603107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169040359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.580729,33.404164,-111.580729,33.404164",
     "geom:latitude":33.404164,
     "geom:longitude":-111.580729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 S Meridian Rd",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169040359,
-    "wof:lastmodified":1449035869,
+    "wof:lastmodified":1466327781,
     "wof:name":"Tree Top Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.580729,33.404164,-111.580729,33.404164],
-  "geometry": {"coordinates":[-111.580729,33.404164],"type":"Point"}
+  "bbox": [
+    -111.580729,
+    33.404164,
+    -111.580729,
+    33.404164
+],
+  "geometry": {"coordinates":[-111.58072900000001,33.404164],"type":"Point"}
 }

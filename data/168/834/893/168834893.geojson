@@ -2,13 +2,14 @@
   "id": 168834893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021168,33.405135,-112.021168,33.405135",
     "geom:latitude":33.405135,
     "geom:longitude":-112.021168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4415 S 28th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168834893,
-    "wof:lastmodified":1449027853,
+    "wof:lastmodified":1466326383,
     "wof:name":"Sunrise Vista Apartments LLC",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.021168,33.405135,-112.021168,33.405135],
+  "bbox": [
+    -112.021168,
+    33.405135,
+    -112.021168,
+    33.405135
+],
   "geometry": {"coordinates":[-112.021168,33.405135],"type":"Point"}
 }

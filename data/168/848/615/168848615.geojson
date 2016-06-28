@@ -2,13 +2,14 @@
   "id": 168848615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.617539,32.669556,-114.617539,32.669556",
     "geom:latitude":32.669556,
     "geom:longitude":-114.617539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 32nd St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":168848615,
-    "wof:lastmodified":1449027878,
+    "wof:lastmodified":1466327681,
     "wof:name":"Frankly Speaking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.617539,32.669556,-114.617539,32.669556],
-  "geometry": {"coordinates":[-114.617539,32.669556],"type":"Point"}
+  "bbox": [
+    -114.617539,
+    32.669556,
+    -114.617539,
+    32.669556
+],
+  "geometry": {"coordinates":[-114.61753899999999,32.669556],"type":"Point"}
 }

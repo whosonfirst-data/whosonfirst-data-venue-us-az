@@ -2,13 +2,14 @@
   "id": 168852139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909807,33.509327,-111.909807,33.509327",
     "geom:latitude":33.509327,
     "geom:longitude":-111.909807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7955 E Chaparral Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880951,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168852139,
-    "wof:lastmodified":1449028449,
+    "wof:lastmodified":1466325884,
     "wof:name":"Gary Lawrence",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.909807,33.509327,-111.909807,33.509327],
+  "bbox": [
+    -111.909807,
+    33.509327,
+    -111.909807,
+    33.509327
+],
   "geometry": {"coordinates":[-111.909807,33.509327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353861021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.021972,32.438467,-111.021972,32.438467",
     "geom:latitude":32.438467,
     "geom:longitude":-111.021972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 W Moore Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353861021,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1466330724,
     "wof:name":"0 Locksmith",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-111.021972,32.438467,-111.021972,32.438467],
-  "geometry": {"coordinates":[-111.021972,32.438467],"type":"Point"}
+  "bbox": [
+    -111.021972,
+    32.438467,
+    -111.021972,
+    32.438467
+],
+  "geometry": {"coordinates":[-111.02197200000001,32.438467],"type":"Point"}
 }

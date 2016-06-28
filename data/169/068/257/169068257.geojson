@@ -2,13 +2,14 @@
   "id": 169068257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011564,33.588681,-112.011564,33.588681",
     "geom:latitude":33.588681,
     "geom:longitude":-112.011564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 E Yucca St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169068257,
-    "wof:lastmodified":1449034379,
+    "wof:lastmodified":1466329402,
     "wof:name":"Keiths Landscaping & Maint",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.011564,33.588681,-112.011564,33.588681],
-  "geometry": {"coordinates":[-112.011564,33.588681],"type":"Point"}
+  "bbox": [
+    -112.011564,
+    33.588681,
+    -112.011564,
+    33.588681
+],
+  "geometry": {"coordinates":[-112.01156400000001,33.588681],"type":"Point"}
 }

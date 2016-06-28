@@ -2,13 +2,14 @@
   "id": 169415165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.771699,32.075508,-110.771699,32.075508",
     "geom:latitude":32.075508,
     "geom:longitude":-110.771699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10657 E Old Vail Connection Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818225,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85818225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169415165,
-    "wof:lastmodified":1449035056,
+    "wof:lastmodified":1466334160,
     "wof:name":"Jones Outdoor Advertising",
     "wof:parent_id":85818225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.771699,32.075508,-110.771699,32.075508],
+  "bbox": [
+    -110.771699,
+    32.075508,
+    -110.771699,
+    32.075508
+],
   "geometry": {"coordinates":[-110.771699,32.075508],"type":"Point"}
 }

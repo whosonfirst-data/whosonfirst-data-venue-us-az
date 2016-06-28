@@ -2,13 +2,14 @@
   "id": 168850177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.172148,33.672355,-112.172148,33.672355",
     "geom:latitude":33.672355,
     "geom:longitude":-112.172148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5242 W Tonopah Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168850177,
-    "wof:lastmodified":1449028222,
+    "wof:lastmodified":1466325714,
     "wof:name":"Coolant Pro",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.172148,33.672355,-112.172148,33.672355],
-  "geometry": {"coordinates":[-112.172148,33.672355],"type":"Point"}
+  "bbox": [
+    -112.172148,
+    33.672355,
+    -112.172148,
+    33.672355
+],
+  "geometry": {"coordinates":[-112.17214800000001,33.672355],"type":"Point"}
 }

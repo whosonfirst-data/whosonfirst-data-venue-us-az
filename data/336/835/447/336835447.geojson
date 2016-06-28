@@ -2,13 +2,14 @@
   "id": 336835447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.735951,33.45184,-111.735951,33.45184",
     "geom:latitude":33.45184,
     "geom:longitude":-111.735951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 E Mckellips Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336835447,
-    "wof:lastmodified":1448997090,
+    "wof:lastmodified":1466329757,
     "wof:name":"CHASE Bank",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-111.735951,33.45184,-111.735951,33.45184],
+  "bbox": [
+    -111.735951,
+    33.45184,
+    -111.735951,
+    33.45184
+],
   "geometry": {"coordinates":[-111.735951,33.45184],"type":"Point"}
 }

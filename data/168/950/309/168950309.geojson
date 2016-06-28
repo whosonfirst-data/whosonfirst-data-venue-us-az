@@ -2,13 +2,14 @@
   "id": 168950309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.773429,32.211048,-110.773429,32.211048",
     "geom:latitude":32.211048,
     "geom:longitude":-110.773429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Granite Falls Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168950309,
-    "wof:lastmodified":1449028067,
+    "wof:lastmodified":1466330994,
     "wof:name":"Presidio Electric Svc Corp",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.773429,32.211048,-110.773429,32.211048],
-  "geometry": {"coordinates":[-110.773429,32.211048],"type":"Point"}
+  "bbox": [
+    -110.773429,
+    32.211048,
+    -110.773429,
+    32.211048
+],
+  "geometry": {"coordinates":[-110.77342899999999,32.211048],"type":"Point"}
 }

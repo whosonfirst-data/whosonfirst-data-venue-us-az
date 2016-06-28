@@ -2,13 +2,14 @@
   "id": 169281777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.522399,34.409241,-111.522399,34.409241",
     "geom:latitude":34.409241,
     "geom:longitude":-111.522399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9350 Coyote Dr",
     "sg:city":"Pine",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169281777,
-    "wof:lastmodified":1449035461,
+    "wof:lastmodified":1466332846,
     "wof:name":"Pacwest Printing Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.522399,34.409241,-111.522399,34.409241],
-  "geometry": {"coordinates":[-111.522399,34.409241],"type":"Point"}
+  "bbox": [
+    -111.522399,
+    34.409241,
+    -111.522399,
+    34.409241
+],
+  "geometry": {"coordinates":[-111.52239899999999,34.409241],"type":"Point"}
 }

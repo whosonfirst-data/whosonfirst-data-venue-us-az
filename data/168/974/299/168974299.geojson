@@ -2,13 +2,14 @@
   "id": 168974299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.308147,34.627396,-112.308147,34.627396",
     "geom:latitude":34.627396,
     "geom:longitude":-112.308147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8933 E Laredo Dr",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168974299,
-    "wof:lastmodified":1449028485,
+    "wof:lastmodified":1466331358,
     "wof:name":"Clare Green",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.308147,34.627396,-112.308147,34.627396],
-  "geometry": {"coordinates":[-112.308147,34.627396],"type":"Point"}
+  "bbox": [
+    -112.308147,
+    34.627396,
+    -112.308147,
+    34.627396
+],
+  "geometry": {"coordinates":[-112.30814700000001,34.627396],"type":"Point"}
 }

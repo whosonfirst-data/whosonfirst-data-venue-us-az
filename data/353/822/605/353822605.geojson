@@ -2,13 +2,14 @@
   "id": 353822605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.880451,32.209628,-110.880451,32.209628",
     "geom:latitude":32.209628,
     "geom:longitude":-110.880451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5267 E 20th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":353822605,
-    "wof:lastmodified":1449020698,
+    "wof:lastmodified":1466330544,
     "wof:name":"Pima Counseling / Lova G. Njuguna LPC",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "counselor"
     ]
 },
-  "bbox": [-110.880451,32.209628,-110.880451,32.209628],
-  "geometry": {"coordinates":[-110.880451,32.209628],"type":"Point"}
+  "bbox": [
+    -110.880451,
+    32.209628,
+    -110.880451,
+    32.209628
+],
+  "geometry": {"coordinates":[-110.88045099999999,32.209628],"type":"Point"}
 }

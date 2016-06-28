@@ -2,13 +2,14 @@
   "id": 169180643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.916865,33.632499,-111.916865,33.632499",
     "geom:latitude":33.632499,
     "geom:longitude":-111.916865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16050 N 76th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812553,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85812553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169180643,
-    "wof:lastmodified":1449032821,
+    "wof:lastmodified":1466331995,
     "wof:name":"Arizona Gas Products",
     "wof:parent_id":85812553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.916865,33.632499,-111.916865,33.632499],
+  "bbox": [
+    -111.916865,
+    33.632499,
+    -111.916865,
+    33.632499
+],
   "geometry": {"coordinates":[-111.916865,33.632499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169309451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.666188,33.478418,-111.666188,33.478418",
     "geom:latitude":33.478418,
     "geom:longitude":-111.666188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3441 N Tuscany Cir",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872435,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169309451,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1466333092,
     "wof:name":"Kokopelli Vending",
     "wof:parent_id":85872435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.666188,33.478418,-111.666188,33.478418],
-  "geometry": {"coordinates":[-111.666188,33.478418],"type":"Point"}
+  "bbox": [
+    -111.666188,
+    33.478418,
+    -111.666188,
+    33.478418
+],
+  "geometry": {"coordinates":[-111.66618800000001,33.478418],"type":"Point"}
 }

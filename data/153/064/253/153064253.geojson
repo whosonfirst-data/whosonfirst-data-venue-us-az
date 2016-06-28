@@ -2,13 +2,14 @@
   "id": 153064253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.560347,32.669912,-114.560347,32.669912",
     "geom:latitude":32.669912,
     "geom:longitude":-114.560347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4236 Old US Hwy 80",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153064253,
-    "wof:lastmodified":1449040501,
+    "wof:lastmodified":1466327950,
     "wof:name":"Rv Master",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.560347,32.669912,-114.560347,32.669912],
-  "geometry": {"coordinates":[-114.560347,32.669912],"type":"Point"}
+  "bbox": [
+    -114.560347,
+    32.669912,
+    -114.560347,
+    32.669912
+],
+  "geometry": {"coordinates":[-114.56034699999999,32.669912],"type":"Point"}
 }

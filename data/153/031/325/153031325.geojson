@@ -2,13 +2,14 @@
   "id": 153031325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.575302,32.923277,-111.575302,32.923277",
     "geom:latitude":32.923277,
     "geom:longitude":-111.575302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 W Randolph Rd",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153031325,
-    "wof:lastmodified":1449040517,
+    "wof:lastmodified":1466325866,
     "wof:name":"Enchanted Acres",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.575302,32.923277,-111.575302,32.923277],
-  "geometry": {"coordinates":[-111.575302,32.923277],"type":"Point"}
+  "bbox": [
+    -111.575302,
+    32.923277,
+    -111.575302,
+    32.923277
+],
+  "geometry": {"coordinates":[-111.57530199999999,32.923277],"type":"Point"}
 }

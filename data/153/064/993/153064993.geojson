@@ -2,13 +2,14 @@
   "id": 153064993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.453161,33.359425,-111.453161,33.359425",
     "geom:latitude":33.359425,
     "geom:longitude":-111.453161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8181 E Canyon Estates Cir",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840303,
+        85688719,
         85633793,
         85917253,
         102081547,
-        85688719
+        85840303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153064993,
-    "wof:lastmodified":1449040501,
+    "wof:lastmodified":1466328258,
     "wof:name":"Edkins Construction Inc",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.453161,33.359425,-111.453161,33.359425],
-  "geometry": {"coordinates":[-111.453161,33.359425],"type":"Point"}
+  "bbox": [
+    -111.453161,
+    33.359425,
+    -111.453161,
+    33.359425
+],
+  "geometry": {"coordinates":[-111.45316099999999,33.359425],"type":"Point"}
 }

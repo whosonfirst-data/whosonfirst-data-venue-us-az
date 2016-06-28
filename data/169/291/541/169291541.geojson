@@ -2,13 +2,14 @@
   "id": 169291541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885594,33.538355,-111.885594,33.538355",
     "geom:latitude":33.538355,
     "geom:longitude":-111.885594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9175 E Indian Bend Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85858179
+        85633793,
+        85858179,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169291541,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466332891,
     "wof:name":"CAP Landscapes",
     "wof:parent_id":85858179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885594,33.538355,-111.885594,33.538355],
+  "bbox": [
+    -111.885594,
+    33.538355,
+    -111.885594,
+    33.538355
+],
   "geometry": {"coordinates":[-111.885594,33.538355],"type":"Point"}
 }

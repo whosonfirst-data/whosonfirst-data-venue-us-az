@@ -2,13 +2,14 @@
   "id": 336627431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021589,33.445432,-112.021589,33.445432",
     "geom:latitude":33.445432,
     "geom:longitude":-112.021589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 28th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":336627431,
-    "wof:lastmodified":1448998038,
+    "wof:lastmodified":1466326469,
     "wof:name":"Arizona Center For The Blind & Visually Impaired Recycling Center Inc",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "destruction"
     ]
 },
-  "bbox": [-112.021589,33.445432,-112.021589,33.445432],
-  "geometry": {"coordinates":[-112.021589,33.445432],"type":"Point"}
+  "bbox": [
+    -112.021589,
+    33.445432,
+    -112.021589,
+    33.445432
+],
+  "geometry": {"coordinates":[-112.02158900000001,33.445432],"type":"Point"}
 }

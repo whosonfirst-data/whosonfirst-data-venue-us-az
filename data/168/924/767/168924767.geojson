@@ -2,13 +2,14 @@
   "id": 168924767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062626,33.56973,-112.062626,33.56973",
     "geom:latitude":33.56973,
     "geom:longitude":-112.062626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9109 N Cave Creek Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168924767,
-    "wof:lastmodified":1449027976,
+    "wof:lastmodified":1466330447,
     "wof:name":"Badger Tree Svc",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.062626,33.56973,-112.062626,33.56973],
-  "geometry": {"coordinates":[-112.062626,33.56973],"type":"Point"}
+  "bbox": [
+    -112.062626,
+    33.56973,
+    -112.062626,
+    33.56973
+],
+  "geometry": {"coordinates":[-112.06262599999999,33.56973],"type":"Point"}
 }

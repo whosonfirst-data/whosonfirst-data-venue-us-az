@@ -2,13 +2,14 @@
   "id": 168864391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.99312,33.38431,-111.99312,33.38431",
     "geom:latitude":33.38431,
     "geom:longitude":-111.99312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 E Maldonado Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168864391,
-    "wof:lastmodified":1449028600,
+    "wof:lastmodified":1466326974,
     "wof:name":"Linda Rae Designs",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.99312,33.38431,-111.99312,33.38431],
+  "bbox": [
+    -111.99312,
+    33.38431,
+    -111.99312,
+    33.38431
+],
   "geometry": {"coordinates":[-111.99312,33.38431],"type":"Point"}
 }

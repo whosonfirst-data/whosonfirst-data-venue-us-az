@@ -2,13 +2,14 @@
   "id": 336655669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012695,33.398617,-112.012695,33.398617",
     "geom:latitude":33.398617,
     "geom:longitude":-112.012695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 S 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336655669,
-    "wof:lastmodified":1448997552,
+    "wof:lastmodified":1466327070,
     "wof:name":"Parks And Recreation Dept",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"
     ]
 },
-  "bbox": [-112.012695,33.398617,-112.012695,33.398617],
-  "geometry": {"coordinates":[-112.012695,33.398617],"type":"Point"}
+  "bbox": [
+    -112.012695,
+    33.398617,
+    -112.012695,
+    33.398617
+],
+  "geometry": {"coordinates":[-112.01269499999999,33.398617],"type":"Point"}
 }

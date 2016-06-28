@@ -2,13 +2,14 @@
   "id": 353819593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.851573,32.206607,-110.851573,32.206607",
     "geom:latitude":32.206607,
     "geom:longitude":-110.851573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 E 22nd St 100",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353819593,
-    "wof:lastmodified":1449018860,
+    "wof:lastmodified":1466330507,
     "wof:name":"D&C Business Svcs",
     "wof:parent_id":85812787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-110.851573,32.206607,-110.851573,32.206607],
+  "bbox": [
+    -110.851573,
+    32.206607,
+    -110.851573,
+    32.206607
+],
   "geometry": {"coordinates":[-110.851573,32.206607],"type":"Point"}
 }

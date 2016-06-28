@@ -2,13 +2,14 @@
   "id": 168840347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.25917,34.477515,-114.25917,34.477515",
     "geom:latitude":34.477515,
     "geom:longitude":-114.25917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4033 Gold Springs Rd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":168840347,
-    "wof:lastmodified":1449028400,
+    "wof:lastmodified":1466327139,
     "wof:name":"John Smith Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.25917,34.477515,-114.25917,34.477515],
+  "bbox": [
+    -114.25917,
+    34.477515,
+    -114.25917,
+    34.477515
+],
   "geometry": {"coordinates":[-114.25917,34.477515],"type":"Point"}
 }

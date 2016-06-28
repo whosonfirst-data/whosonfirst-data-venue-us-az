@@ -2,13 +2,14 @@
   "id": 169170311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.820895,32.21947,-110.820895,32.21947",
     "geom:latitude":32.21947,
     "geom:longitude":-110.820895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S Sherwood Village Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.reliasoft.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169170311,
-    "wof:lastmodified":1449032977,
+    "wof:lastmodified":1466331857,
     "wof:name":"Relia Soft",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.820895,32.21947,-110.820895,32.21947],
-  "geometry": {"coordinates":[-110.820895,32.21947],"type":"Point"}
+  "bbox": [
+    -110.820895,
+    32.21947,
+    -110.820895,
+    32.21947
+],
+  "geometry": {"coordinates":[-110.82089499999999,32.21947],"type":"Point"}
 }

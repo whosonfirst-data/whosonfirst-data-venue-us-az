@@ -2,13 +2,14 @@
   "id": 320627795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047729,33.45142,-112.047729,33.45142",
     "geom:latitude":33.45142,
     "geom:longitude":-112.047729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320627795,
-    "wof:lastmodified":1449015045,
+    "wof:lastmodified":1466326468,
     "wof:name":"Jack in the Box",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dog"
     ]
 },
-  "bbox": [-112.047729,33.45142,-112.047729,33.45142],
+  "bbox": [
+    -112.047729,
+    33.45142,
+    -112.047729,
+    33.45142
+],
   "geometry": {"coordinates":[-112.047729,33.45142],"type":"Point"}
 }

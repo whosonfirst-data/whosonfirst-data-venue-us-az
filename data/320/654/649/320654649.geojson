@@ -2,13 +2,14 @@
   "id": 320654649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104462,33.451229,-112.104462,33.451229",
     "geom:latitude":33.451229,
     "geom:longitude":-112.104462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 W Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320654649,
-    "wof:lastmodified":1449012525,
+    "wof:lastmodified":1466327124,
     "wof:name":"La Raza Auto Sales",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.104462,33.451229,-112.104462,33.451229],
+  "bbox": [
+    -112.104462,
+    33.451229,
+    -112.104462,
+    33.451229
+],
   "geometry": {"coordinates":[-112.104462,33.451229],"type":"Point"}
 }

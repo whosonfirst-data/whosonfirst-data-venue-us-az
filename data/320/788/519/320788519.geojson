@@ -2,13 +2,14 @@
   "id": 320788519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.110237,33.567539,-112.110237,33.567539",
     "geom:latitude":33.567539,
     "geom:longitude":-112.110237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 W Dunlap Ave Ste 320",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320788519,
-    "wof:lastmodified":1449013186,
+    "wof:lastmodified":1466329511,
     "wof:name":"B.W.S.I.",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-112.110237,33.567539,-112.110237,33.567539],
+  "bbox": [
+    -112.110237,
+    33.567539,
+    -112.110237,
+    33.567539
+],
   "geometry": {"coordinates":[-112.110237,33.567539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353807839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.999907,32.306295,-110.999907,32.306295",
     "geom:latitude":32.306295,
     "geom:longitude":-110.999907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5435 N Kennebec Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353807839,
-    "wof:lastmodified":1449018914,
+    "wof:lastmodified":1466330441,
     "wof:name":"Pantera Unique",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-110.999907,32.306295,-110.999907,32.306295],
-  "geometry": {"coordinates":[-110.999907,32.306295],"type":"Point"}
+  "bbox": [
+    -110.999907,
+    32.306295,
+    -110.999907,
+    32.306295
+],
+  "geometry": {"coordinates":[-110.99990699999999,32.306295],"type":"Point"}
 }

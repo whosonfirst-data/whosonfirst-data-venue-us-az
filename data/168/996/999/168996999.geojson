@@ -2,13 +2,14 @@
   "id": 168996999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.993503,32.246872,-110.993503,32.246872",
     "geom:latitude":32.246872,
     "geom:longitude":-110.993503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 N Forbes Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.litecycles.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871725,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168996999,
-    "wof:lastmodified":1449027976,
+    "wof:lastmodified":1466331702,
     "wof:name":"Lite Cycles Inc",
     "wof:parent_id":85871725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.993503,32.246872,-110.993503,32.246872],
+  "bbox": [
+    -110.993503,
+    32.246872,
+    -110.993503,
+    32.246872
+],
   "geometry": {"coordinates":[-110.993503,32.246872],"type":"Point"}
 }

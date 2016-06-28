@@ -2,13 +2,14 @@
   "id": 336943319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841398,33.285207,-111.841398,33.285207",
     "geom:latitude":33.285207,
     "geom:longitude":-111.841398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 S Arizona Avenue",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336943319,
-    "wof:lastmodified":1448997236,
+    "wof:lastmodified":1466330768,
     "wof:name":"M & I Bank",
     "wof:parent_id":85876685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.841398,33.285207,-111.841398,33.285207],
+  "bbox": [
+    -111.841398,
+    33.285207,
+    -111.841398,
+    33.285207
+],
   "geometry": {"coordinates":[-111.841398,33.285207],"type":"Point"}
 }

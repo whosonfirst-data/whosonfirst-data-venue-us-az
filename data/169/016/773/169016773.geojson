@@ -2,13 +2,14 @@
   "id": 169016773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.921035,33.819336,-111.921035,33.819336",
     "geom:latitude":33.819336,
     "geom:longitude":-111.921035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36602 N Lazy Ln",
     "sg:city":"Carefree",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880931,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169016773,
-    "wof:lastmodified":1449033265,
+    "wof:lastmodified":1466327727,
     "wof:name":"Allen F Tafoya Assoc Archs",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.921035,33.819336,-111.921035,33.819336],
+  "bbox": [
+    -111.921035,
+    33.819336,
+    -111.921035,
+    33.819336
+],
   "geometry": {"coordinates":[-111.921035,33.819336],"type":"Point"}
 }

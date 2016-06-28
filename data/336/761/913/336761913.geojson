@@ -2,13 +2,14 @@
   "id": 336761913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870013,33.413105,-111.870013,33.413105",
     "geom:latitude":33.413105,
     "geom:longitude":-111.870013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 S Sycamore Ste 2",
     "sg:city":"Mesa",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":336761913,
-    "wof:lastmodified":1448997773,
+    "wof:lastmodified":1466328964,
     "wof:name":"Storage Solutions",
     "wof:parent_id":85881435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.870013,33.413105,-111.870013,33.413105],
+  "bbox": [
+    -111.870013,
+    33.413105,
+    -111.870013,
+    33.413105
+],
   "geometry": {"coordinates":[-111.870013,33.413105],"type":"Point"}
 }

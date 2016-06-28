@@ -2,13 +2,14 @@
   "id": 169342901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.949424,32.291338,-110.949424,32.291338",
     "geom:latitude":32.291338,
     "geom:longitude":-110.949424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.tierra-row.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169342901,
-    "wof:lastmodified":1449035724,
+    "wof:lastmodified":1466333444,
     "wof:name":"Tierra Right Of Way Svc",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.949424,32.291338,-110.949424,32.291338],
-  "geometry": {"coordinates":[-110.949424,32.291338],"type":"Point"}
+  "bbox": [
+    -110.949424,
+    32.291338,
+    -110.949424,
+    32.291338
+],
+  "geometry": {"coordinates":[-110.94942399999999,32.291338],"type":"Point"}
 }

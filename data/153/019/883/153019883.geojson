@@ -2,13 +2,14 @@
   "id": 153019883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.884701,32.122001,-110.884701,32.122001",
     "geom:latitude":32.122001,
     "geom:longitude":-110.884701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7291 S Frances Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081135,
-        85633793,
         85688719,
-        85831051
+        85633793,
+        85831051,
+        102081135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153019883,
-    "wof:lastmodified":1449040636,
+    "wof:lastmodified":1466326976,
     "wof:name":"APC Equipment & Manufacturing",
     "wof:parent_id":85831051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.884701,32.122001,-110.884701,32.122001],
-  "geometry": {"coordinates":[-110.884701,32.122001],"type":"Point"}
+  "bbox": [
+    -110.884701,
+    32.122001,
+    -110.884701,
+    32.122001
+],
+  "geometry": {"coordinates":[-110.88470100000001,32.122001],"type":"Point"}
 }

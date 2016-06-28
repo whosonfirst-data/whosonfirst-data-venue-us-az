@@ -2,13 +2,14 @@
   "id": 336740495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123645,33.860125,-112.123645,33.860125",
     "geom:latitude":33.860125,
     "geom:longitude":-112.123645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 W Plum Hollow Dr",
     "sg:city":"Anthem",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336740495,
-    "wof:lastmodified":1448997442,
+    "wof:lastmodified":1466329157,
     "wof:name":"Air Control Home Services LLC",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-112.123645,33.860125,-112.123645,33.860125],
+  "bbox": [
+    -112.123645,
+    33.860125,
+    -112.123645,
+    33.860125
+],
   "geometry": {"coordinates":[-112.123645,33.860125],"type":"Point"}
 }

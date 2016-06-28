@@ -2,13 +2,14 @@
   "id": 320650951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137317,33.441414,-112.137317,33.441414",
     "geom:latitude":33.441414,
     "geom:longitude":-112.137317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3627 W Grant St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320650951,
-    "wof:lastmodified":1449013531,
+    "wof:lastmodified":1466327029,
     "wof:name":"Complete Auto",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "exchange"
     ]
 },
-  "bbox": [-112.137317,33.441414,-112.137317,33.441414],
+  "bbox": [
+    -112.137317,
+    33.441414,
+    -112.137317,
+    33.441414
+],
   "geometry": {"coordinates":[-112.137317,33.441414],"type":"Point"}
 }

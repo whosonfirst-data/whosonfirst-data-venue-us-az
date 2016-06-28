@@ -2,13 +2,14 @@
   "id": 336803961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.701304,33.408537,-111.701304,33.408537",
     "geom:latitude":33.408537,
     "geom:longitude":-111.701304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 E Broadway Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":336803961,
-    "wof:lastmodified":1448998027,
+    "wof:lastmodified":1466329590,
     "wof:name":"Springs of East Mesa",
     "wof:parent_id":85808263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-111.701304,33.408537,-111.701304,33.408537],
-  "geometry": {"coordinates":[-111.701304,33.408537],"type":"Point"}
+  "bbox": [
+    -111.701304,
+    33.408537,
+    -111.701304,
+    33.408537
+],
+  "geometry": {"coordinates":[-111.70130399999999,33.408537],"type":"Point"}
 }

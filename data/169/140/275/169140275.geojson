@@ -2,13 +2,14 @@
   "id": 169140275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.913236,33.302843,-111.913236,33.302843",
     "geom:latitude":33.302843,
     "geom:longitude":-111.913236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4147 W Venus Way",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169140275,
-    "wof:lastmodified":1449033168,
+    "wof:lastmodified":1466331742,
     "wof:name":"The Thing Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.913236,33.302843,-111.913236,33.302843],
+  "bbox": [
+    -111.913236,
+    33.302843,
+    -111.913236,
+    33.302843
+],
   "geometry": {"coordinates":[-111.913236,33.302843],"type":"Point"}
 }

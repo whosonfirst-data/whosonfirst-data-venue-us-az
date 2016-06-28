@@ -2,13 +2,14 @@
   "id": 169245093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.066883,33.414675,-112.066883,33.414675",
     "geom:latitude":33.414675,
     "geom:longitude":-112.066883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S 5th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169245093,
-    "wof:lastmodified":1449035853,
+    "wof:lastmodified":1466332626,
     "wof:name":"Smiths",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.066883,33.414675,-112.066883,33.414675],
+  "bbox": [
+    -112.066883,
+    33.414675,
+    -112.066883,
+    33.414675
+],
   "geometry": {"coordinates":[-112.066883,33.414675],"type":"Point"}
 }

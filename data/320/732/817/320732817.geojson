@@ -2,13 +2,14 @@
   "id": 320732817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023142,33.509722,-112.023142,33.509722",
     "geom:latitude":33.509722,
     "geom:longitude":-112.023142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 E Camelback Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320732817,
-    "wof:lastmodified":1449015078,
+    "wof:lastmodified":1466328542,
     "wof:name":"Camelback Retirement Planners",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homes-information"
     ]
 },
-  "bbox": [-112.023142,33.509722,-112.023142,33.509722],
-  "geometry": {"coordinates":[-112.023142,33.509722],"type":"Point"}
+  "bbox": [
+    -112.023142,
+    33.509722,
+    -112.023142,
+    33.509722
+],
+  "geometry": {"coordinates":[-112.02314200000001,33.509722],"type":"Point"}
 }

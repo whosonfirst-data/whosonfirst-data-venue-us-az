@@ -2,13 +2,14 @@
   "id": 169284773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112602,33.646277,-112.112602,33.646277",
     "geom:latitude":33.646277,
     "geom:longitude":-112.112602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17621 N 25th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.fsec.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169284773,
-    "wof:lastmodified":1449034733,
+    "wof:lastmodified":1466332894,
     "wof:name":"Fire Security Electronics Inc",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.112602,33.646277,-112.112602,33.646277],
+  "bbox": [
+    -112.112602,
+    33.646277,
+    -112.112602,
+    33.646277
+],
   "geometry": {"coordinates":[-112.112602,33.646277],"type":"Point"}
 }

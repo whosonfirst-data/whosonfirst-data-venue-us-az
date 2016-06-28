@@ -2,13 +2,14 @@
   "id": 353599305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.312793,33.536471,-112.312793,33.536471",
     "geom:latitude":33.536471,
     "geom:longitude":-112.312793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11748 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353599305,
-    "wof:lastmodified":1449019441,
+    "wof:lastmodified":1466328509,
     "wof:name":"Dirt 101",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.312793,33.536471,-112.312793,33.536471],
+  "bbox": [
+    -112.312793,
+    33.536471,
+    -112.312793,
+    33.536471
+],
   "geometry": {"coordinates":[-112.312793,33.536471],"type":"Point"}
 }

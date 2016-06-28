@@ -2,13 +2,14 @@
   "id": 320666251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.113017,33.461464,-112.113017,33.461464",
     "geom:latitude":33.461464,
     "geom:longitude":-112.113017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N 25th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320666251,
-    "wof:lastmodified":1449012646,
+    "wof:lastmodified":1466327425,
     "wof:name":"Arizona Dept Of Transportation",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-112.113017,33.461464,-112.113017,33.461464],
+  "bbox": [
+    -112.113017,
+    33.461464,
+    -112.113017,
+    33.461464
+],
   "geometry": {"coordinates":[-112.113017,33.461464],"type":"Point"}
 }

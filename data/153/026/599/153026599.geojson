@@ -2,13 +2,14 @@
   "id": 153026599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882044,33.291275,-111.882044,33.291275",
     "geom:latitude":33.291275,
     "geom:longitude":-111.882044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 W Pecos Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876691,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153026599,
-    "wof:lastmodified":1449040639,
+    "wof:lastmodified":1466327630,
     "wof:name":"Informa Tic MTZ",
     "wof:parent_id":85876691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.882044,33.291275,-111.882044,33.291275],
-  "geometry": {"coordinates":[-111.882044,33.291275],"type":"Point"}
+  "bbox": [
+    -111.882044,
+    33.291275,
+    -111.882044,
+    33.291275
+],
+  "geometry": {"coordinates":[-111.88204399999999,33.291275],"type":"Point"}
 }

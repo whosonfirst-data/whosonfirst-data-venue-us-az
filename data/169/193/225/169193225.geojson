@@ -2,13 +2,14 @@
   "id": 169193225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.978791,31.922119,-110.978791,31.922119",
     "geom:latitude":31.922119,
     "geom:longitude":-110.978791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17940 S Ave de Augusto",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169193225,
-    "wof:lastmodified":1449033229,
+    "wof:lastmodified":1466332062,
     "wof:name":"Copper Quail Rest & Lounge LLC",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.978791,31.922119,-110.978791,31.922119],
+  "bbox": [
+    -110.978791,
+    31.922119,
+    -110.978791,
+    31.922119
+],
   "geometry": {"coordinates":[-110.978791,31.922119],"type":"Point"}
 }

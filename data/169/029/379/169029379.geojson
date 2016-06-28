@@ -2,13 +2,14 @@
   "id": 169029379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.95472,33.396548,-111.95472,33.396548",
     "geom:latitude":33.396548,
     "geom:longitude":-111.95472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1198 W Fairmont Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881401,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169029379,
-    "wof:lastmodified":1449034067,
+    "wof:lastmodified":1466326811,
     "wof:name":"Sun Orchard Inc",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.95472,33.396548,-111.95472,33.396548],
-  "geometry": {"coordinates":[-111.95472,33.396548],"type":"Point"}
+  "bbox": [
+    -111.95472,
+    33.396548,
+    -111.95472,
+    33.396548
+],
+  "geometry": {"coordinates":[-111.95471999999999,33.396548],"type":"Point"}
 }

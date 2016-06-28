@@ -2,13 +2,14 @@
   "id": 320746305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9831,33.480253,-111.9831,33.480253",
     "geom:latitude":33.480253,
     "geom:longitude":-111.9831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320746305,
-    "wof:lastmodified":1449011228,
+    "wof:lastmodified":1466329001,
     "wof:name":"Western Dental Centers",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-111.9831,33.480253,-111.9831,33.480253],
-  "geometry": {"coordinates":[-111.9831,33.480253],"type":"Point"}
+  "bbox": [
+    -111.9831,
+    33.480253,
+    -111.9831,
+    33.480253
+],
+  "geometry": {"coordinates":[-111.98309999999999,33.480253],"type":"Point"}
 }

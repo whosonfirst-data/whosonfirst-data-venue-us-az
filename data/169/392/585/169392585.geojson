@@ -2,13 +2,14 @@
   "id": 169392585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073862,33.4933,-112.073862,33.4933",
     "geom:latitude":33.4933,
     "geom:longitude":-112.073862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169392585,
-    "wof:lastmodified":1449035307,
+    "wof:lastmodified":1466333899,
     "wof:name":"Lexington Hotel",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073862,33.4933,-112.073862,33.4933],
-  "geometry": {"coordinates":[-112.073862,33.4933],"type":"Point"}
+  "bbox": [
+    -112.073862,
+    33.4933,
+    -112.073862,
+    33.4933
+],
+  "geometry": {"coordinates":[-112.07386200000001,33.4933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168843823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154583,33.646193,-112.154583,33.646193",
     "geom:latitude":33.646193,
     "geom:longitude":-112.154583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 W Cathy Cir",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168843823,
-    "wof:lastmodified":1449027840,
+    "wof:lastmodified":1466327408,
     "wof:name":"Fix-It Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154583,33.646193,-112.154583,33.646193],
+  "bbox": [
+    -112.154583,
+    33.646193,
+    -112.154583,
+    33.646193
+],
   "geometry": {"coordinates":[-112.154583,33.646193],"type":"Point"}
 }

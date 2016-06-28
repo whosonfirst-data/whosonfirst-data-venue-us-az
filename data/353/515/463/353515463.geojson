@@ -2,13 +2,14 @@
   "id": 353515463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945005,33.338684,-111.945005,33.338684",
     "geom:latitude":33.338684,
     "geom:longitude":-111.945005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8432 S Stephanie Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353515463,
-    "wof:lastmodified":1449018843,
+    "wof:lastmodified":1466327442,
     "wof:name":"Spillman Entities",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "concierge"
     ]
 },
-  "bbox": [-111.945005,33.338684,-111.945005,33.338684],
-  "geometry": {"coordinates":[-111.945005,33.338684],"type":"Point"}
+  "bbox": [
+    -111.945005,
+    33.338684,
+    -111.945005,
+    33.338684
+],
+  "geometry": {"coordinates":[-111.94500499999999,33.338684],"type":"Point"}
 }

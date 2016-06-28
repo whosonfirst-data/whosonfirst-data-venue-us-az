@@ -2,13 +2,14 @@
   "id": 169242693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.142701,33.605388,-112.142701,33.605388",
     "geom:latitude":33.605388,
     "geom:longitude":-112.142701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 W Surrey Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169242693,
-    "wof:lastmodified":1449035561,
+    "wof:lastmodified":1466332612,
     "wof:name":"First Insurance Funding Corp",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.142701,33.605388,-112.142701,33.605388],
+  "bbox": [
+    -112.142701,
+    33.605388,
+    -112.142701,
+    33.605388
+],
   "geometry": {"coordinates":[-112.142701,33.605388],"type":"Point"}
 }

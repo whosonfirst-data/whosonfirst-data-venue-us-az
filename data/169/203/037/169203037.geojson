@@ -2,13 +2,14 @@
   "id": 169203037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.998586,31.897403,-110.998586,31.897403",
     "geom:latitude":31.897403,
     "geom:longitude":-110.998586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 W Rio Flojo",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169203037,
-    "wof:lastmodified":1449034137,
+    "wof:lastmodified":1466332143,
     "wof:name":"William H Leroy",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.998586,31.897403,-110.998586,31.897403],
+  "bbox": [
+    -110.998586,
+    31.897403,
+    -110.998586,
+    31.897403
+],
   "geometry": {"coordinates":[-110.998586,31.897403],"type":"Point"}
 }

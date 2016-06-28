@@ -2,13 +2,14 @@
   "id": 168990439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.152127,33.067816,-112.152127,33.067816",
     "geom:latitude":33.067816,
     "geom:longitude":-112.152127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21046 N Rio Bravo Rd",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168990439,
-    "wof:lastmodified":1449028286,
+    "wof:lastmodified":1466331610,
     "wof:name":"Hidden Valley Foreign Car Yard",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.152127,33.067816,-112.152127,33.067816],
-  "geometry": {"coordinates":[-112.152127,33.067816],"type":"Point"}
+  "bbox": [
+    -112.152127,
+    33.067816,
+    -112.152127,
+    33.067816
+],
+  "geometry": {"coordinates":[-112.15212699999999,33.067816],"type":"Point"}
 }

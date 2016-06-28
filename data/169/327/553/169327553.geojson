@@ -2,13 +2,14 @@
   "id": 169327553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.954772,32.070064,-110.954772,32.070064",
     "geom:latitude":32.070064,
     "geom:longitude":-110.954772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9945 S Old Nogales Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169327553,
-    "wof:lastmodified":1449032925,
+    "wof:lastmodified":1466333445,
     "wof:name":"Lin Dav Development",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.954772,32.070064,-110.954772,32.070064],
-  "geometry": {"coordinates":[-110.954772,32.070064],"type":"Point"}
+  "bbox": [
+    -110.954772,
+    32.070064,
+    -110.954772,
+    32.070064
+],
+  "geometry": {"coordinates":[-110.95477200000001,32.070064],"type":"Point"}
 }

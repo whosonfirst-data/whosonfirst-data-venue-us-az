@@ -2,13 +2,14 @@
   "id": 169353177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.08026,34.506609,-110.08026,34.506609",
     "geom:latitude":34.506609,
     "geom:longitude":-110.08026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 W 2nd St S",
     "sg:city":"Snowflake",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169353177,
-    "wof:lastmodified":1449033635,
+    "wof:lastmodified":1466333468,
     "wof:name":"Farr Plumbing Htg & Coolg LLC",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.08026,34.506609,-110.08026,34.506609],
+  "bbox": [
+    -110.08026,
+    34.506609,
+    -110.08026,
+    34.506609
+],
   "geometry": {"coordinates":[-110.08026,34.506609],"type":"Point"}
 }

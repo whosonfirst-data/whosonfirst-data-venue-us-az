@@ -2,13 +2,14 @@
   "id": 152914891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919703,33.565578,-111.919703,33.565578",
     "geom:latitude":33.565578,
     "geom:longitude":-111.919703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 E Doubletree Ranch Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833181,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85833181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152914891,
-    "wof:lastmodified":1449046072,
+    "wof:lastmodified":1466326226,
     "wof:name":"Hopi Shop",
     "wof:parent_id":85833181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.919703,33.565578,-111.919703,33.565578],
+  "bbox": [
+    -111.919703,
+    33.565578,
+    -111.919703,
+    33.565578
+],
   "geometry": {"coordinates":[-111.919703,33.565578],"type":"Point"}
 }

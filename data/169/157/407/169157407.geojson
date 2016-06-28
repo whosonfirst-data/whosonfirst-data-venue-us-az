@@ -2,13 +2,14 @@
   "id": 169157407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.923664,32.174684,-110.923664,32.174684",
     "geom:latitude":32.174684,
     "geom:longitude":-110.923664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 E District St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169157407,
-    "wof:lastmodified":1449035497,
+    "wof:lastmodified":1466331788,
     "wof:name":"Clarissa's Embroidery",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.923664,32.174684,-110.923664,32.174684],
+  "bbox": [
+    -110.923664,
+    32.174684,
+    -110.923664,
+    32.174684
+],
   "geometry": {"coordinates":[-110.923664,32.174684],"type":"Point"}
 }

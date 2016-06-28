@@ -2,13 +2,14 @@
   "id": 169297967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.812905,34.859975,-111.812905,34.859975",
     "geom:latitude":34.859975,
     "geom:longitude":-111.812905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 el Camino Rd",
     "sg:city":"Sedona",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856333,
+        85688719,
         85633793,
         85917431,
         102081535,
-        85688719
+        85856333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169297967,
-    "wof:lastmodified":1449034790,
+    "wof:lastmodified":1466333109,
     "wof:name":"Life Resources",
     "wof:parent_id":85856333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.812905,34.859975,-111.812905,34.859975],
+  "bbox": [
+    -111.812905,
+    34.859975,
+    -111.812905,
+    34.859975
+],
   "geometry": {"coordinates":[-111.812905,34.859975],"type":"Point"}
 }

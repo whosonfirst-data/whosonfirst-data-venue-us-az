@@ -2,13 +2,14 @@
   "id": 353541255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.758374,33.335699,-111.758374,33.335699",
     "geom:latitude":33.335699,
     "geom:longitude":-111.758374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 E Warner Road",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353541255,
-    "wof:lastmodified":1449018535,
+    "wof:lastmodified":1466327880,
     "wof:name":"Ross Stores",
     "wof:parent_id":85849315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.758374,33.335699,-111.758374,33.335699],
+  "bbox": [
+    -111.758374,
+    33.335699,
+    -111.758374,
+    33.335699
+],
   "geometry": {"coordinates":[-111.758374,33.335699],"type":"Point"}
 }

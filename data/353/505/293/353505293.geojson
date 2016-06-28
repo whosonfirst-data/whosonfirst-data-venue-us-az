@@ -2,13 +2,14 @@
   "id": 353505293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.945705,33.340711,-111.945705,33.340711",
     "geom:latitude":33.340711,
     "geom:longitude":-111.945705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8240 S Kyrene Rd Ste 113",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353505293,
-    "wof:lastmodified":1449020403,
+    "wof:lastmodified":1466327282,
     "wof:name":"Assessor's Office",
     "wof:parent_id":85828883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "government-county"
     ]
 },
-  "bbox": [-111.945705,33.340711,-111.945705,33.340711],
+  "bbox": [
+    -111.945705,
+    33.340711,
+    -111.945705,
+    33.340711
+],
   "geometry": {"coordinates":[-111.945705,33.340711],"type":"Point"}
 }

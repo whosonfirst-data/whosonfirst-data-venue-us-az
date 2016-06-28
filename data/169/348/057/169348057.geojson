@@ -2,13 +2,14 @@
   "id": 169348057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.838084,32.262671,-110.838084,32.262671",
     "geom:latitude":32.262671,
     "geom:longitude":-110.838084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7333 E Shoreline Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169348057,
-    "wof:lastmodified":1449032833,
+    "wof:lastmodified":1466333426,
     "wof:name":"Roland Morgan",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.838084,32.262671,-110.838084,32.262671],
-  "geometry": {"coordinates":[-110.838084,32.262671],"type":"Point"}
+  "bbox": [
+    -110.838084,
+    32.262671,
+    -110.838084,
+    32.262671
+],
+  "geometry": {"coordinates":[-110.83808399999999,32.262671],"type":"Point"}
 }

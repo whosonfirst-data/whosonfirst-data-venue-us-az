@@ -2,13 +2,14 @@
   "id": 153080165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.287928,34.148202,-114.287928,34.148202",
     "geom:latitude":34.148202,
     "geom:longitude":-114.287928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 S California Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153080165,
-    "wof:lastmodified":1449040812,
+    "wof:lastmodified":1466328818,
     "wof:name":"Red Pony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.287928,34.148202,-114.287928,34.148202],
-  "geometry": {"coordinates":[-114.287928,34.148202],"type":"Point"}
+  "bbox": [
+    -114.287928,
+    34.148202,
+    -114.287928,
+    34.148202
+],
+  "geometry": {"coordinates":[-114.28792799999999,34.148202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169055105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.733807,33.602841,-111.733807,33.602841",
     "geom:latitude":33.602841,
     "geom:longitude":-111.733807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16125 Andrew Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820335,
+        85688719,
         85633793,
         85917523,
         102087421,
-        85688719
+        85820335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169055105,
-    "wof:lastmodified":1449033427,
+    "wof:lastmodified":1466328715,
     "wof:name":"Williams Keller Realty",
     "wof:parent_id":85820335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.733807,33.602841,-111.733807,33.602841],
+  "bbox": [
+    -111.733807,
+    33.602841,
+    -111.733807,
+    33.602841
+],
   "geometry": {"coordinates":[-111.733807,33.602841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168909523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181024,33.538475,-112.181024,33.538475",
     "geom:latitude":33.538475,
     "geom:longitude":-112.181024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5617 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877819,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168909523,
-    "wof:lastmodified":1449028373,
+    "wof:lastmodified":1466329795,
     "wof:name":"Salon 417",
     "wof:parent_id":85877819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181024,33.538475,-112.181024,33.538475],
-  "geometry": {"coordinates":[-112.181024,33.538475],"type":"Point"}
+  "bbox": [
+    -112.181024,
+    33.538475,
+    -112.181024,
+    33.538475
+],
+  "geometry": {"coordinates":[-112.18102399999999,33.538475],"type":"Point"}
 }

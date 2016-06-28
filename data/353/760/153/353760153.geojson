@@ -2,13 +2,14 @@
   "id": 353760153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.364503,33.485724,-112.364503,33.485724",
     "geom:latitude":33.485724,
     "geom:longitude":-112.364503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14260 W. Indian School Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353760153,
-    "wof:lastmodified":1449020685,
+    "wof:lastmodified":1466330146,
     "wof:name":"Primrose School",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.364503,33.485724,-112.364503,33.485724],
+  "bbox": [
+    -112.364503,
+    33.485724,
+    -112.364503,
+    33.485724
+],
   "geometry": {"coordinates":[-112.364503,33.485724],"type":"Point"}
 }

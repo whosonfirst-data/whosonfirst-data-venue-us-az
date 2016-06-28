@@ -2,13 +2,14 @@
   "id": 169267619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.98037,33.409388,-111.98037,33.409388",
     "geom:latitude":33.409388,
     "geom:longitude":-111.98037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 S 47th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811035,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169267619,
-    "wof:lastmodified":1449035660,
+    "wof:lastmodified":1466332685,
     "wof:name":"J & J Diversified Svc",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.98037,33.409388,-111.98037,33.409388],
-  "geometry": {"coordinates":[-111.98037,33.409388],"type":"Point"}
+  "bbox": [
+    -111.98037,
+    33.409388,
+    -111.98037,
+    33.409388
+],
+  "geometry": {"coordinates":[-111.98036999999999,33.409388],"type":"Point"}
 }

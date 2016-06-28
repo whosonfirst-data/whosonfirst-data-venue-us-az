@@ -2,13 +2,14 @@
   "id": 169310959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.083683,33.571321,-112.083683,33.571321",
     "geom:latitude":33.571321,
     "geom:longitude":-112.083683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 W Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.multibusiness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851493,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169310959,
-    "wof:lastmodified":1449034719,
+    "wof:lastmodified":1466333259,
     "wof:name":"Multi Business Systems Inc",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.083683,33.571321,-112.083683,33.571321],
-  "geometry": {"coordinates":[-112.083683,33.571321],"type":"Point"}
+  "bbox": [
+    -112.083683,
+    33.571321,
+    -112.083683,
+    33.571321
+],
+  "geometry": {"coordinates":[-112.08368299999999,33.571321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168968479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.297413,31.556233,-110.297413,31.556233",
     "geom:latitude":31.556233,
     "geom:longitude":-110.297413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 1st St",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168968479,
-    "wof:lastmodified":1449027821,
+    "wof:lastmodified":1466331263,
     "wof:name":"Cochise Aging Programs",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.297413,31.556233,-110.297413,31.556233],
-  "geometry": {"coordinates":[-110.297413,31.556233],"type":"Point"}
+  "bbox": [
+    -110.297413,
+    31.556233,
+    -110.297413,
+    31.556233
+],
+  "geometry": {"coordinates":[-110.29741300000001,31.556233],"type":"Point"}
 }

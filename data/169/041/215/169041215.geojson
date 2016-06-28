@@ -2,13 +2,14 @@
   "id": 169041215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.823557,33.6014,-111.823557,33.6014",
     "geom:latitude":33.6014,
     "geom:longitude":-111.823557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11809 E Desert Trail Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880933,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85880933,
         85880945
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169041215,
-    "wof:lastmodified":1449033883,
+    "wof:lastmodified":1466327848,
     "wof:name":"Tallaksen Custom Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.823557,33.6014,-111.823557,33.6014],
-  "geometry": {"coordinates":[-111.823557,33.6014],"type":"Point"}
+  "bbox": [
+    -111.823557,
+    33.6014,
+    -111.823557,
+    33.6014
+],
+  "geometry": {"coordinates":[-111.82355699999999,33.6014],"type":"Point"}
 }

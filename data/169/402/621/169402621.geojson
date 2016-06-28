@@ -2,13 +2,14 @@
   "id": 169402621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103851,33.542661,-112.103851,33.542661",
     "geom:latitude":33.542661,
     "geom:longitude":-112.103851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7321 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169402621,
-    "wof:lastmodified":1449033744,
+    "wof:lastmodified":1466334126,
     "wof:name":"T T B Electric",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103851,33.542661,-112.103851,33.542661],
-  "geometry": {"coordinates":[-112.103851,33.542661],"type":"Point"}
+  "bbox": [
+    -112.103851,
+    33.542661,
+    -112.103851,
+    33.542661
+],
+  "geometry": {"coordinates":[-112.10385100000001,33.542661],"type":"Point"}
 }

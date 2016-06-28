@@ -2,13 +2,14 @@
   "id": 169118551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.045163,32.239041,-111.045163,32.239041",
     "geom:latitude":32.239041,
     "geom:longitude":-111.045163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 N Coral Bells Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169118551,
-    "wof:lastmodified":1449035329,
+    "wof:lastmodified":1466331394,
     "wof:name":"MBI Enterprises Inc",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.045163,32.239041,-111.045163,32.239041],
+  "bbox": [
+    -111.045163,
+    32.239041,
+    -111.045163,
+    32.239041
+],
   "geometry": {"coordinates":[-111.045163,32.239041],"type":"Point"}
 }

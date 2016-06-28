@@ -2,13 +2,14 @@
   "id": 153001685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919494,33.322182,-111.919494,33.322182",
     "geom:latitude":33.322182,
     "geom:longitude":-111.919494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 W Gail Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831471,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85831471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153001685,
-    "wof:lastmodified":1449040447,
+    "wof:lastmodified":1466326965,
     "wof:name":"Perfect Expression Gifts",
     "wof:parent_id":85831471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.919494,33.322182,-111.919494,33.322182],
+  "bbox": [
+    -111.919494,
+    33.322182,
+    -111.919494,
+    33.322182
+],
   "geometry": {"coordinates":[-111.919494,33.322182],"type":"Point"}
 }

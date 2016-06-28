@@ -2,13 +2,14 @@
   "id": 168846997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.344393,33.659046,-112.344393,33.659046",
     "geom:latitude":33.659046,
     "geom:longitude":-112.344393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13439 W Shadow Hills Dr",
     "sg:city":"Sun City West",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168846997,
-    "wof:lastmodified":1449028407,
+    "wof:lastmodified":1466327586,
     "wof:name":"Bill Booky",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.344393,33.659046,-112.344393,33.659046],
+  "bbox": [
+    -112.344393,
+    33.659046,
+    -112.344393,
+    33.659046
+],
   "geometry": {"coordinates":[-112.344393,33.659046],"type":"Point"}
 }

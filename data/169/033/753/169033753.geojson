@@ -2,13 +2,14 @@
   "id": 169033753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068103,33.465792,-112.068103,33.465792",
     "geom:latitude":33.465792,
     "geom:longitude":-112.068103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885509,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169033753,
-    "wof:lastmodified":1449033364,
+    "wof:lastmodified":1466327199,
     "wof:name":"Get Smart Process Svc",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.068103,33.465792,-112.068103,33.465792],
-  "geometry": {"coordinates":[-112.068103,33.465792],"type":"Point"}
+  "bbox": [
+    -112.068103,
+    33.465792,
+    -112.068103,
+    33.465792
+],
+  "geometry": {"coordinates":[-112.06810299999999,33.465792],"type":"Point"}
 }

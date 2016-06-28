@@ -2,13 +2,14 @@
   "id": 169258961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.755683,32.879285,-111.755683,32.879285",
     "geom:latitude":32.879285,
     "geom:longitude":-111.755683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W 3rd St",
     "sg:city":"Casa Grande",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806735,
+        85688719,
         85633793,
         85917273,
         102081547,
-        85688719
+        85806735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169258961,
-    "wof:lastmodified":1449035284,
+    "wof:lastmodified":1466332660,
     "wof:name":"C G Times Newspaper",
     "wof:parent_id":85806735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.755683,32.879285,-111.755683,32.879285],
+  "bbox": [
+    -111.755683,
+    32.879285,
+    -111.755683,
+    32.879285
+],
   "geometry": {"coordinates":[-111.755683,32.879285],"type":"Point"}
 }

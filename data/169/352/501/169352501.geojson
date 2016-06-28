@@ -2,13 +2,14 @@
   "id": 169352501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.441748,34.481713,-112.441748,34.481713",
     "geom:latitude":34.481713,
     "geom:longitude":-112.441748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1186 E Walton Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834349,
+        85688719,
         85633793,
         85917377,
         102081535,
-        85688719
+        85834349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169352501,
-    "wof:lastmodified":1449034715,
+    "wof:lastmodified":1466333503,
     "wof:name":"Coss Carpet Cleaning Inc",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.441748,34.481713,-112.441748,34.481713],
+  "bbox": [
+    -112.441748,
+    34.481713,
+    -112.441748,
+    34.481713
+],
   "geometry": {"coordinates":[-112.441748,34.481713],"type":"Point"}
 }

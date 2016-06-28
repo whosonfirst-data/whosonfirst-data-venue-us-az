@@ -2,13 +2,14 @@
   "id": 153076391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050085,33.607817,-112.050085,33.607817",
     "geom:latitude":33.607817,
     "geom:longitude":-112.050085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 E Voltaire Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844515,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85844515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":153076391,
-    "wof:lastmodified":1449040712,
+    "wof:lastmodified":1466328620,
     "wof:name":"TAMP Corp",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.050085,33.607817,-112.050085,33.607817],
+  "bbox": [
+    -112.050085,
+    33.607817,
+    -112.050085,
+    33.607817
+],
   "geometry": {"coordinates":[-112.050085,33.607817],"type":"Point"}
 }

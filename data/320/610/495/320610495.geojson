@@ -2,13 +2,14 @@
   "id": 320610495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.072453,33.464393,-112.072453,33.464393",
     "geom:latitude":33.464393,
     "geom:longitude":-112.072453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 N 1st St Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320610495,
-    "wof:lastmodified":1449014901,
+    "wof:lastmodified":1466326025,
     "wof:name":"Norris Design",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "landscape"
     ]
 },
-  "bbox": [-112.072453,33.464393,-112.072453,33.464393],
+  "bbox": [
+    -112.072453,
+    33.464393,
+    -112.072453,
+    33.464393
+],
   "geometry": {"coordinates":[-112.072453,33.464393],"type":"Point"}
 }

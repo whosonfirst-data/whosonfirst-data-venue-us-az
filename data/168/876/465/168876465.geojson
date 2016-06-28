@@ -2,13 +2,14 @@
   "id": 168876465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.873292,32.250603,-110.873292,32.250603",
     "geom:latitude":32.250603,
     "geom:longitude":-110.873292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.washingtonfederal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168876465,
-    "wof:lastmodified":1449027926,
+    "wof:lastmodified":1466327966,
     "wof:name":"Washington Federal Savings",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.873292,32.250603,-110.873292,32.250603],
-  "geometry": {"coordinates":[-110.873292,32.250603],"type":"Point"}
+  "bbox": [
+    -110.873292,
+    32.250603,
+    -110.873292,
+    32.250603
+],
+  "geometry": {"coordinates":[-110.87329200000001,32.250603],"type":"Point"}
 }

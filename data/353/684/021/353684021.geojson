@@ -2,13 +2,14 @@
   "id": 353684021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.267469,33.438083,-112.267469,33.438083",
     "geom:latitude":33.438083,
     "geom:longitude":-112.267469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9702 W Tonto St",
     "sg:city":"Tolleson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":353684021,
-    "wof:lastmodified":1449018898,
+    "wof:lastmodified":1466329656,
     "wof:name":"Sigler",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.267469,33.438083,-112.267469,33.438083],
-  "geometry": {"coordinates":[-112.267469,33.438083],"type":"Point"}
+  "bbox": [
+    -112.267469,
+    33.438083,
+    -112.267469,
+    33.438083
+],
+  "geometry": {"coordinates":[-112.26746900000001,33.438083],"type":"Point"}
 }

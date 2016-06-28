@@ -2,13 +2,14 @@
   "id": 153018777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203997,33.658632,-112.203997,33.658632",
     "geom:latitude":33.658632,
     "geom:longitude":-112.203997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6738 W Kerry Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877787,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153018777,
-    "wof:lastmodified":1449040582,
+    "wof:lastmodified":1466326865,
     "wof:name":"Calvin C Chen DDS",
     "wof:parent_id":85877787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.203997,33.658632,-112.203997,33.658632],
+  "bbox": [
+    -112.203997,
+    33.658632,
+    -112.203997,
+    33.658632
+],
   "geometry": {"coordinates":[-112.203997,33.658632],"type":"Point"}
 }

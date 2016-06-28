@@ -2,13 +2,14 @@
   "id": 320786647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.087163,33.567539,-112.087163,33.567539",
     "geom:latitude":33.567539,
     "geom:longitude":-112.087163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Dunlap Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320786647,
-    "wof:lastmodified":1449011738,
+    "wof:lastmodified":1466329656,
     "wof:name":"Helium Hoopla",
     "wof:parent_id":85840323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "helium"
     ]
 },
-  "bbox": [-112.087163,33.567539,-112.087163,33.567539],
+  "bbox": [
+    -112.087163,
+    33.567539,
+    -112.087163,
+    33.567539
+],
   "geometry": {"coordinates":[-112.087163,33.567539],"type":"Point"}
 }

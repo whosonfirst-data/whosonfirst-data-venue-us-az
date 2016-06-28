@@ -2,13 +2,14 @@
   "id": 336732443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.168641,33.718625,-112.168641,33.718625",
     "geom:latitude":33.718625,
     "geom:longitude":-112.168641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5029 W Hobby Horse Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336732443,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466328524,
     "wof:name":"Virtual Landscape Of Arizona",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.168641,33.718625,-112.168641,33.718625],
-  "geometry": {"coordinates":[-112.168641,33.718625],"type":"Point"}
+  "bbox": [
+    -112.168641,
+    33.718625,
+    -112.168641,
+    33.718625
+],
+  "geometry": {"coordinates":[-112.16864099999999,33.718625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169251299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.138274,33.853812,-112.138274,33.853812",
     "geom:latitude":33.853812,
     "geom:longitude":-112.138274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40404 N Gavilan Peak Pkwy",
     "sg:city":"Anthem",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169251299,
-    "wof:lastmodified":1449032744,
+    "wof:lastmodified":1466332522,
     "wof:name":"Boulder Creek High School",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.138274,33.853812,-112.138274,33.853812],
+  "bbox": [
+    -112.138274,
+    33.853812,
+    -112.138274,
+    33.853812
+],
   "geometry": {"coordinates":[-112.138274,33.853812],"type":"Point"}
 }

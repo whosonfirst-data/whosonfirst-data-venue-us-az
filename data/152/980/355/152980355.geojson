@@ -2,13 +2,14 @@
   "id": 152980355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.973859,35.200818,-113.973859,35.200818",
     "geom:latitude":35.200818,
     "geom:longitude":-113.973859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Mustang Springs Cir",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152980355,
-    "wof:lastmodified":1449044610,
+    "wof:lastmodified":1466328936,
     "wof:name":"Craigs Operated Equipment",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.973859,35.200818,-113.973859,35.200818],
+  "bbox": [
+    -113.973859,
+    35.200818,
+    -113.973859,
+    35.200818
+],
   "geometry": {"coordinates":[-113.973859,35.200818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169008481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.723119,32.116219,-110.723119,32.116219",
     "geom:latitude":32.116219,
     "geom:longitude":-110.723119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7441 S Ave de Belleza",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169008481,
-    "wof:lastmodified":1449033726,
+    "wof:lastmodified":1466326658,
     "wof:name":"Park 'N' Bark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.723119,32.116219,-110.723119,32.116219],
+  "bbox": [
+    -110.723119,
+    32.116219,
+    -110.723119,
+    32.116219
+],
   "geometry": {"coordinates":[-110.723119,32.116219],"type":"Point"}
 }

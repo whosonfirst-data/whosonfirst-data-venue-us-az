@@ -2,13 +2,14 @@
   "id": 168940741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.878139,32.235601,-110.878139,32.235601",
     "geom:latitude":32.235601,
     "geom:longitude":-110.878139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 E 1st St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168940741,
-    "wof:lastmodified":1449027955,
+    "wof:lastmodified":1466330801,
     "wof:name":"Catalina Village",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.878139,32.235601,-110.878139,32.235601],
+  "bbox": [
+    -110.878139,
+    32.235601,
+    -110.878139,
+    32.235601
+],
   "geometry": {"coordinates":[-110.878139,32.235601],"type":"Point"}
 }

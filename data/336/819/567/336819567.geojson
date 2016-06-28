@@ -2,13 +2,14 @@
   "id": 336819567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.858438,33.380962,-111.858438,33.380962",
     "geom:latitude":33.380962,
     "geom:longitude":-111.858438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 S Alma School Rd Ste 230",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336819567,
-    "wof:lastmodified":1448997206,
+    "wof:lastmodified":1466329740,
     "wof:name":"Medliance",
     "wof:parent_id":85858581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"
     ]
 },
-  "bbox": [-111.858438,33.380962,-111.858438,33.380962],
-  "geometry": {"coordinates":[-111.858438,33.380962],"type":"Point"}
+  "bbox": [
+    -111.858438,
+    33.380962,
+    -111.858438,
+    33.380962
+],
+  "geometry": {"coordinates":[-111.85843800000001,33.380962],"type":"Point"}
 }

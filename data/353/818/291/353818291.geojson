@@ -2,13 +2,14 @@
   "id": 353818291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.800545,32.235481,-110.800545,32.235481",
     "geom:latitude":32.235481,
     "geom:longitude":-110.800545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 E Speedway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353818291,
-    "wof:lastmodified":1449019511,
+    "wof:lastmodified":1466330410,
     "wof:name":"Brittany Court - HSL",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-110.800545,32.235481,-110.800545,32.235481],
+  "bbox": [
+    -110.800545,
+    32.235481,
+    -110.800545,
+    32.235481
+],
   "geometry": {"coordinates":[-110.800545,32.235481],"type":"Point"}
 }

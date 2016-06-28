@@ -2,13 +2,14 @@
   "id": 219991207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.61781,35.14145,-114.61781,35.14145",
     "geom:latitude":35.14145,
     "geom:longitude":-114.61781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 Leandro",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219991207,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466327847,
     "wof:name":"Harvey Plastering",
     "wof:parent_id":85813655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drywall"
     ]
 },
-  "bbox": [-114.61781,35.14145,-114.61781,35.14145],
-  "geometry": {"coordinates":[-114.61781,35.14145],"type":"Point"}
+  "bbox": [
+    -114.61781,
+    35.14145,
+    -114.61781,
+    35.14145
+],
+  "geometry": {"coordinates":[-114.61781000000001,35.14145],"type":"Point"}
 }

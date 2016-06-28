@@ -2,13 +2,14 @@
   "id": 169189599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.939241,31.37725,-110.939241,31.37725",
     "geom:latitude":31.37725,
     "geom:longitude":-110.939241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2585 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169189599,
-    "wof:lastmodified":1449035011,
+    "wof:lastmodified":1466332068,
     "wof:name":"Margen Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.939241,31.37725,-110.939241,31.37725],
+  "bbox": [
+    -110.939241,
+    31.37725,
+    -110.939241,
+    31.37725
+],
   "geometry": {"coordinates":[-110.939241,31.37725],"type":"Point"}
 }

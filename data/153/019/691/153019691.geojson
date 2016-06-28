@@ -2,13 +2,14 @@
   "id": 153019691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.512994,34.403534,-111.512994,34.403534",
     "geom:latitude":34.403534,
     "geom:longitude":-111.512994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4936 Old Spruce Dr",
     "sg:city":"Pine",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153019691,
-    "wof:lastmodified":1449040631,
+    "wof:lastmodified":1466326964,
     "wof:name":"E & E Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.512994,34.403534,-111.512994,34.403534],
-  "geometry": {"coordinates":[-111.512994,34.403534],"type":"Point"}
+  "bbox": [
+    -111.512994,
+    34.403534,
+    -111.512994,
+    34.403534
+],
+  "geometry": {"coordinates":[-111.51299400000001,34.403534],"type":"Point"}
 }

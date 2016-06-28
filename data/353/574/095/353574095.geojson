@@ -2,13 +2,14 @@
   "id": 353574095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.16582,33.559799,-112.16582,33.559799",
     "geom:latitude":33.559799,
     "geom:longitude":-112.16582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 W Echo Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":353574095,
-    "wof:lastmodified":1449018240,
+    "wof:lastmodified":1466328247,
     "wof:name":"Andy's Plumbing, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "sewer"
     ]
 },
-  "bbox": [-112.16582,33.559799,-112.16582,33.559799],
+  "bbox": [
+    -112.16582,
+    33.559799,
+    -112.16582,
+    33.559799
+],
   "geometry": {"coordinates":[-112.16582,33.559799],"type":"Point"}
 }

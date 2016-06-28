@@ -2,13 +2,14 @@
   "id": 320792335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047084,33.640325,-112.047084,33.640325",
     "geom:latitude":33.640325,
     "geom:longitude":-112.047084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1643 E Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320792335,
-    "wof:lastmodified":1449012057,
+    "wof:lastmodified":1466329727,
     "wof:name":"Wizard Of Odz-Lamp Hospital",
     "wof:parent_id":85866819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047084,33.640325,-112.047084,33.640325],
+  "bbox": [
+    -112.047084,
+    33.640325,
+    -112.047084,
+    33.640325
+],
   "geometry": {"coordinates":[-112.047084,33.640325],"type":"Point"}
 }

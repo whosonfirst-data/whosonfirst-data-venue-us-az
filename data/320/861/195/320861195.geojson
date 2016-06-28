@@ -2,13 +2,14 @@
   "id": 320861195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01326,33.609291,-112.01326,33.609291",
     "geom:latitude":33.609291,
     "geom:longitude":-112.01326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13444 N 32nd St Ste 12",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320861195,
-    "wof:lastmodified":1449014939,
+    "wof:lastmodified":1466330490,
     "wof:name":"Chamberchoice",
     "wof:parent_id":85847869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "resume"
     ]
 },
-  "bbox": [-112.01326,33.609291,-112.01326,33.609291],
+  "bbox": [
+    -112.01326,
+    33.609291,
+    -112.01326,
+    33.609291
+],
   "geometry": {"coordinates":[-112.01326,33.609291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169175413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884629,33.424874,-111.884629,33.424874",
     "geom:latitude":33.424874,
     "geom:longitude":-111.884629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 S Allred Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851911,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85851911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169175413,
-    "wof:lastmodified":1449034978,
+    "wof:lastmodified":1466331977,
     "wof:name":"Gary M Clark",
     "wof:parent_id":85851911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.884629,33.424874,-111.884629,33.424874],
+  "bbox": [
+    -111.884629,
+    33.424874,
+    -111.884629,
+    33.424874
+],
   "geometry": {"coordinates":[-111.884629,33.424874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353725069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.384923,33.638602,-112.384923,33.638602",
     "geom:latitude":33.638602,
     "geom:longitude":-112.384923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15021 W Bell Rd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353725069,
-    "wof:lastmodified":1449018883,
+    "wof:lastmodified":1466329933,
     "wof:name":"Internal Medicine Of Surprise",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-112.384923,33.638602,-112.384923,33.638602],
+  "bbox": [
+    -112.384923,
+    33.638602,
+    -112.384923,
+    33.638602
+],
   "geometry": {"coordinates":[-112.384923,33.638602],"type":"Point"}
 }

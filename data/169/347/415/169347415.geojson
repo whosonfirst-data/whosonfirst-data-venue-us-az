@@ -2,13 +2,14 @@
   "id": 169347415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.709456,33.415661,-111.709456,33.415661",
     "geom:latitude":33.415661,
     "geom:longitude":-111.709456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5646 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840599,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85840599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169347415,
-    "wof:lastmodified":1449034278,
+    "wof:lastmodified":1466333539,
     "wof:name":"Studio 56",
     "wof:parent_id":85840599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.709456,33.415661,-111.709456,33.415661],
+  "bbox": [
+    -111.709456,
+    33.415661,
+    -111.709456,
+    33.415661
+],
   "geometry": {"coordinates":[-111.709456,33.415661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320603653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.206028,33.386595,-112.206028,33.386595",
     "geom:latitude":33.386595,
     "geom:longitude":-112.206028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6823 W St Anne Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320603653,
-    "wof:lastmodified":1449014395,
+    "wof:lastmodified":1466325840,
     "wof:name":"Defend Patch Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.206028,33.386595,-112.206028,33.386595],
+  "bbox": [
+    -112.206028,
+    33.386595,
+    -112.206028,
+    33.386595
+],
   "geometry": {"coordinates":[-112.206028,33.386595],"type":"Point"}
 }

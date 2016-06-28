@@ -2,13 +2,14 @@
   "id": 353828739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.974792,32.183691,-110.974792,32.183691",
     "geom:latitude":32.183691,
     "geom:longitude":-110.974792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3474 S Lundy Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353828739,
-    "wof:lastmodified":1449019563,
+    "wof:lastmodified":1466330603,
     "wof:name":"United Building Maintenance",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-110.974792,32.183691,-110.974792,32.183691],
-  "geometry": {"coordinates":[-110.974792,32.183691],"type":"Point"}
+  "bbox": [
+    -110.974792,
+    32.183691,
+    -110.974792,
+    32.183691
+],
+  "geometry": {"coordinates":[-110.97479199999999,32.183691],"type":"Point"}
 }

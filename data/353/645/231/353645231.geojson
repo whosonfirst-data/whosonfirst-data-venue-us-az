@@ -2,13 +2,14 @@
   "id": 353645231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.392563,33.459576,-112.392563,33.459576",
     "geom:latitude":33.459576,
     "geom:longitude":-112.392563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Estrella Parkway Suite B2",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353645231,
-    "wof:lastmodified":1449018514,
+    "wof:lastmodified":1466329065,
     "wof:name":"Club Tan",
     "wof:parent_id":85818257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.392563,33.459576,-112.392563,33.459576],
+  "bbox": [
+    -112.392563,
+    33.459576,
+    -112.392563,
+    33.459576
+],
   "geometry": {"coordinates":[-112.392563,33.459576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320729871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040517,33.517453,-112.040517,33.517453",
     "geom:latitude":33.517453,
     "geom:longitude":-112.040517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1952 E Marshall Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320729871,
-    "wof:lastmodified":1449013137,
+    "wof:lastmodified":1466328505,
     "wof:name":"Stephanie Sperling Interior Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "decorator"
     ]
 },
-  "bbox": [-112.040517,33.517453,-112.040517,33.517453],
-  "geometry": {"coordinates":[-112.040517,33.517453],"type":"Point"}
+  "bbox": [
+    -112.040517,
+    33.517453,
+    -112.040517,
+    33.517453
+],
+  "geometry": {"coordinates":[-112.04051699999999,33.517453],"type":"Point"}
 }

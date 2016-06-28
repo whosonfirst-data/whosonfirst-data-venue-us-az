@@ -2,13 +2,14 @@
   "id": 320748547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012978,33.505632,-112.012978,33.505632",
     "geom:latitude":33.505632,
     "geom:longitude":-112.012978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4647 N 32nd St Ste 240",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320748547,
-    "wof:lastmodified":1449014047,
+    "wof:lastmodified":1466329050,
     "wof:name":"Alpha Scrip",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-112.012978,33.505632,-112.012978,33.505632],
+  "bbox": [
+    -112.012978,
+    33.505632,
+    -112.012978,
+    33.505632
+],
   "geometry": {"coordinates":[-112.012978,33.505632],"type":"Point"}
 }

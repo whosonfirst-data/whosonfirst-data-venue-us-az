@@ -2,13 +2,14 @@
   "id": 336732989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.150837,33.714469,-112.150837,33.714469",
     "geom:latitude":33.714469,
     "geom:longitude":-112.150837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25215 N 42nd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336732989,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466328534,
     "wof:name":"The Stonewall Group",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-112.150837,33.714469,-112.150837,33.714469],
+  "bbox": [
+    -112.150837,
+    33.714469,
+    -112.150837,
+    33.714469
+],
   "geometry": {"coordinates":[-112.150837,33.714469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169309407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995039,32.279136,-110.995039,32.279136",
     "geom:latitude":32.279136,
     "geom:longitude":-110.995039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3913 N Flowing Wells Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169309407,
-    "wof:lastmodified":1449033417,
+    "wof:lastmodified":1466333086,
     "wof:name":"99 Cent Discount Store",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995039,32.279136,-110.995039,32.279136],
-  "geometry": {"coordinates":[-110.995039,32.279136],"type":"Point"}
+  "bbox": [
+    -110.995039,
+    32.279136,
+    -110.995039,
+    32.279136
+],
+  "geometry": {"coordinates":[-110.99503900000001,32.279136],"type":"Point"}
 }

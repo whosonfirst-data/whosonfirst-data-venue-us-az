@@ -2,13 +2,14 @@
   "id": 320675275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068652,33.481113,-112.068652,33.481113",
     "geom:latitude":33.481113,
     "geom:longitude":-112.068652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 E Verde Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320675275,
-    "wof:lastmodified":1449013151,
+    "wof:lastmodified":1466327659,
     "wof:name":"Phoenician Interiors",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "decorator"
     ]
 },
-  "bbox": [-112.068652,33.481113,-112.068652,33.481113],
+  "bbox": [
+    -112.068652,
+    33.481113,
+    -112.068652,
+    33.481113
+],
   "geometry": {"coordinates":[-112.068652,33.481113],"type":"Point"}
 }

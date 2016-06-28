@@ -2,13 +2,14 @@
   "id": 320841517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.151541,33.582021,-112.151541,33.582021",
     "geom:latitude":33.582021,
     "geom:longitude":-112.151541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10609 N 43rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320841517,
-    "wof:lastmodified":1449012040,
+    "wof:lastmodified":1466330372,
     "wof:name":"Trx2 Multimedia Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.151541,33.582021,-112.151541,33.582021],
-  "geometry": {"coordinates":[-112.151541,33.582021],"type":"Point"}
+  "bbox": [
+    -112.151541,
+    33.582021,
+    -112.151541,
+    33.582021
+],
+  "geometry": {"coordinates":[-112.15154099999999,33.582021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168957573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929811,33.398581,-111.929811,33.398581",
     "geom:latitude":33.398581,
     "geom:longitude":-111.929811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 E Loyola Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881431,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168957573,
-    "wof:lastmodified":1449028464,
+    "wof:lastmodified":1466330935,
     "wof:name":"Timberline Plumbing",
     "wof:parent_id":85881431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.929811,33.398581,-111.929811,33.398581],
+  "bbox": [
+    -111.929811,
+    33.398581,
+    -111.929811,
+    33.398581
+],
   "geometry": {"coordinates":[-111.929811,33.398581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320701983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103905,33.537486,-112.103905,33.537486",
     "geom:latitude":33.537486,
     "geom:longitude":-112.103905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6819 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320701983,
-    "wof:lastmodified":1449014186,
+    "wof:lastmodified":1466328092,
     "wof:name":"Canyon Copiers",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.103905,33.537486,-112.103905,33.537486],
+  "bbox": [
+    -112.103905,
+    33.537486,
+    -112.103905,
+    33.537486
+],
   "geometry": {"coordinates":[-112.103905,33.537486],"type":"Point"}
 }

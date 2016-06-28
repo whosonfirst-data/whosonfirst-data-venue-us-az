@@ -2,13 +2,14 @@
   "id": 353562295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.191144,33.517336,-112.191144,33.517336",
     "geom:latitude":33.517336,
     "geom:longitude":-112.191144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5541 N 61st Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353562295,
-    "wof:lastmodified":1449019609,
+    "wof:lastmodified":1466328116,
     "wof:name":"Service Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-112.191144,33.517336,-112.191144,33.517336],
-  "geometry": {"coordinates":[-112.191144,33.517336],"type":"Point"}
+  "bbox": [
+    -112.191144,
+    33.517336,
+    -112.191144,
+    33.517336
+],
+  "geometry": {"coordinates":[-112.19114399999999,33.517336],"type":"Point"}
 }

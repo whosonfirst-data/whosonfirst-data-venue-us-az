@@ -2,13 +2,14 @@
   "id": 169226059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.897925,32.215507,-110.897925,32.215507",
     "geom:latitude":32.215507,
     "geom:longitude":-110.897925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4364 E 15th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169226059,
-    "wof:lastmodified":1449035068,
+    "wof:lastmodified":1466332144,
     "wof:name":"Wright Drywall",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.897925,32.215507,-110.897925,32.215507],
+  "bbox": [
+    -110.897925,
+    32.215507,
+    -110.897925,
+    32.215507
+],
   "geometry": {"coordinates":[-110.897925,32.215507],"type":"Point"}
 }

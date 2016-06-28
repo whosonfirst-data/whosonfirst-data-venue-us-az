@@ -2,13 +2,14 @@
   "id": 336698963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003672,33.315979,-112.003672,33.315979",
     "geom:latitude":33.315979,
     "geom:longitude":-112.003672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3646 E Ray Rd Ste 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336698963,
-    "wof:lastmodified":1448997945,
+    "wof:lastmodified":1466328004,
     "wof:name":"Dry Clean Us",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-112.003672,33.315979,-112.003672,33.315979],
-  "geometry": {"coordinates":[-112.003672,33.315979],"type":"Point"}
+  "bbox": [
+    -112.003672,
+    33.315979,
+    -112.003672,
+    33.315979
+],
+  "geometry": {"coordinates":[-112.00367199999999,33.315979],"type":"Point"}
 }

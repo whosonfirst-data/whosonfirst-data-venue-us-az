@@ -2,13 +2,14 @@
   "id": 168979891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.987264,32.163206,-110.987264,32.163206",
     "geom:latitude":32.163206,
     "geom:longitude":-110.987264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 W Irvington Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871723,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168979891,
-    "wof:lastmodified":1449028321,
+    "wof:lastmodified":1466331483,
     "wof:name":"Target Optical",
     "wof:parent_id":85871723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.987264,32.163206,-110.987264,32.163206],
+  "bbox": [
+    -110.987264,
+    32.163206,
+    -110.987264,
+    32.163206
+],
   "geometry": {"coordinates":[-110.987264,32.163206],"type":"Point"}
 }

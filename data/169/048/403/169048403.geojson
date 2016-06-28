@@ -2,13 +2,14 @@
   "id": 169048403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.339918,34.478636,-114.339918,34.478636",
     "geom:latitude":34.478636,
     "geom:longitude":-114.339918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Mesquite Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169048403,
-    "wof:lastmodified":1449033838,
+    "wof:lastmodified":1466328232,
     "wof:name":"Family Practice Specialists",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.339918,34.478636,-114.339918,34.478636],
+  "bbox": [
+    -114.339918,
+    34.478636,
+    -114.339918,
+    34.478636
+],
   "geometry": {"coordinates":[-114.339918,34.478636],"type":"Point"}
 }

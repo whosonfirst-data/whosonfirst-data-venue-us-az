@@ -2,13 +2,14 @@
   "id": 353863151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.291547,34.113295,-109.291547,34.113295",
     "geom:latitude":34.113295,
     "geom:longitude":-109.291547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N Main St",
     "sg:city":"Eagar",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353863151,
-    "wof:lastmodified":1449019999,
+    "wof:lastmodified":1466330877,
     "wof:name":"Church Alds Employment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-109.291547,34.113295,-109.291547,34.113295],
-  "geometry": {"coordinates":[-109.291547,34.113295],"type":"Point"}
+  "bbox": [
+    -109.291547,
+    34.113295,
+    -109.291547,
+    34.113295
+],
+  "geometry": {"coordinates":[-109.29154699999999,34.113295],"type":"Point"}
 }

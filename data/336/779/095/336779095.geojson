@@ -2,13 +2,14 @@
   "id": 336779095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.875293,33.378649,-111.875293,33.378649",
     "geom:latitude":33.378649,
     "geom:longitude":-111.875293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 W Baseline Rd Ste 16",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336779095,
-    "wof:lastmodified":1448997104,
+    "wof:lastmodified":1466329129,
     "wof:name":"USPS - United States Post Office - CPU Chrissys General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-111.875293,33.378649,-111.875293,33.378649],
+  "bbox": [
+    -111.875293,
+    33.378649,
+    -111.875293,
+    33.378649
+],
   "geometry": {"coordinates":[-111.875293,33.378649],"type":"Point"}
 }

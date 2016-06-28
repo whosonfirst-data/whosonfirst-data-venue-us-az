@@ -2,13 +2,14 @@
   "id": 336816953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.853114,33.376949,-111.853114,33.376949",
     "geom:latitude":33.376949,
     "geom:longitude":-111.853114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 W Lindner Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336816953,
-    "wof:lastmodified":1448997566,
+    "wof:lastmodified":1466329550,
     "wof:name":"Justine Miller Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-111.853114,33.376949,-111.853114,33.376949],
-  "geometry": {"coordinates":[-111.853114,33.376949],"type":"Point"}
+  "bbox": [
+    -111.853114,
+    33.376949,
+    -111.853114,
+    33.376949
+],
+  "geometry": {"coordinates":[-111.85311400000001,33.376949],"type":"Point"}
 }

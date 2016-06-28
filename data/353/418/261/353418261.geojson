@@ -2,13 +2,14 @@
   "id": 353418261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909243,33.379183,-111.909243,33.379183",
     "geom:latitude":33.379183,
     "geom:longitude":-111.909243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 S McClintock Drive",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":353418261,
-    "wof:lastmodified":1449020272,
+    "wof:lastmodified":1466326404,
     "wof:name":"Bank of America",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "internet"
     ]
 },
-  "bbox": [-111.909243,33.379183,-111.909243,33.379183],
+  "bbox": [
+    -111.909243,
+    33.379183,
+    -111.909243,
+    33.379183
+],
   "geometry": {"coordinates":[-111.909243,33.379183],"type":"Point"}
 }

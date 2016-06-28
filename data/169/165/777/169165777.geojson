@@ -2,13 +2,14 @@
   "id": 169165777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.742381,33.96177,-112.742381,33.96177",
     "geom:latitude":33.96177,
     "geom:longitude":-112.742381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Sunny Cove Heights Rd",
     "sg:city":"Wickenburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169165777,
-    "wof:lastmodified":1449035974,
+    "wof:lastmodified":1466331901,
     "wof:name":"Dondel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.742381,33.96177,-112.742381,33.96177],
-  "geometry": {"coordinates":[-112.742381,33.96177],"type":"Point"}
+  "bbox": [
+    -112.742381,
+    33.96177,
+    -112.742381,
+    33.96177
+],
+  "geometry": {"coordinates":[-112.74238099999999,33.96177],"type":"Point"}
 }

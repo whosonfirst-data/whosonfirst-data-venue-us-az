@@ -2,13 +2,14 @@
   "id": 168926469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.600281,35.110832,-114.600281,35.110832",
     "geom:latitude":35.110832,
     "geom:longitude":-114.600281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1371 Quartz Ave",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168926469,
-    "wof:lastmodified":1449028022,
+    "wof:lastmodified":1466330499,
     "wof:name":"Bert's Carpet & Upholstery",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.600281,35.110832,-114.600281,35.110832],
+  "bbox": [
+    -114.600281,
+    35.110832,
+    -114.600281,
+    35.110832
+],
   "geometry": {"coordinates":[-114.600281,35.110832],"type":"Point"}
 }

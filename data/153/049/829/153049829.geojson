@@ -2,13 +2,14 @@
   "id": 153049829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.218202,33.689454,-112.218202,33.689454",
     "geom:latitude":33.689454,
     "geom:longitude":-112.218202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7410 W Candelaria Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877795,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":153049829,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1466327156,
     "wof:name":"Long Fan Shun Dragon Ents",
     "wof:parent_id":85877795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.218202,33.689454,-112.218202,33.689454],
-  "geometry": {"coordinates":[-112.218202,33.689454],"type":"Point"}
+  "bbox": [
+    -112.218202,
+    33.689454,
+    -112.218202,
+    33.689454
+],
+  "geometry": {"coordinates":[-112.21820200000001,33.689454],"type":"Point"}
 }

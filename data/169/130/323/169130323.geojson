@@ -2,13 +2,14 @@
   "id": 169130323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.171887,33.636851,-112.171887,33.636851",
     "geom:latitude":33.636851,
     "geom:longitude":-112.171887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5175 W Phelps Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810387,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85810387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169130323,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466331515,
     "wof:name":"Alliance/Carlson Cnstr Sup",
     "wof:parent_id":85810387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.171887,33.636851,-112.171887,33.636851],
+  "bbox": [
+    -112.171887,
+    33.636851,
+    -112.171887,
+    33.636851
+],
   "geometry": {"coordinates":[-112.171887,33.636851],"type":"Point"}
 }

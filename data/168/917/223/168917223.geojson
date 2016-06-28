@@ -2,13 +2,14 @@
   "id": 168917223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.01235,32.279173,-111.01235,32.279173",
     "geom:latitude":32.279173,
     "geom:longitude":-111.01235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 N Runway Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.allstatetransportation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":168917223,
-    "wof:lastmodified":1449028476,
+    "wof:lastmodified":1466330204,
     "wof:name":"Allstate Transportation Svcs",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.01235,32.279173,-111.01235,32.279173],
+  "bbox": [
+    -111.01235,
+    32.279173,
+    -111.01235,
+    32.279173
+],
   "geometry": {"coordinates":[-111.01235,32.279173],"type":"Point"}
 }

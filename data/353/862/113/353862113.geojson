@@ -2,13 +2,14 @@
   "id": 353862113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.980954,32.124419,-110.980954,32.124419",
     "geom:latitude":32.124419,
     "geom:longitude":-110.980954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 W Harlan St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353862113,
-    "wof:lastmodified":1449020881,
+    "wof:lastmodified":1466330877,
     "wof:name":"Nicolas Delatorre",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-110.980954,32.124419,-110.980954,32.124419],
+  "bbox": [
+    -110.980954,
+    32.124419,
+    -110.980954,
+    32.124419
+],
   "geometry": {"coordinates":[-110.980954,32.124419],"type":"Point"}
 }

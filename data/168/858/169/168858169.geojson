@@ -2,13 +2,14 @@
   "id": 168858169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.617532,35.100627,-114.617532,35.100627",
     "geom:latitude":35.100627,
     "geom:longitude":-114.617532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Marina Blvd",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168858169,
-    "wof:lastmodified":1449027864,
+    "wof:lastmodified":1466326415,
     "wof:name":"Hilltop Automotive",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.617532,35.100627,-114.617532,35.100627],
+  "bbox": [
+    -114.617532,
+    35.100627,
+    -114.617532,
+    35.100627
+],
   "geometry": {"coordinates":[-114.617532,35.100627],"type":"Point"}
 }

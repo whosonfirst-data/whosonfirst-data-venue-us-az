@@ -2,13 +2,14 @@
   "id": 169075455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.298587,33.610058,-112.298587,33.610058",
     "geom:latitude":33.610058,
     "geom:longitude":-112.298587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13818 N Thunderbird Blvd",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hearthstoneofsuncity.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802501,
+        85688719,
         85633793,
         85917527,
         102087421,
-        85688719
+        85802501
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169075455,
-    "wof:lastmodified":1449034483,
+    "wof:lastmodified":1466329878,
     "wof:name":"Hearthstone Of Sun City",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.298587,33.610058,-112.298587,33.610058],
+  "bbox": [
+    -112.298587,
+    33.610058,
+    -112.298587,
+    33.610058
+],
   "geometry": {"coordinates":[-112.298587,33.610058],"type":"Point"}
 }

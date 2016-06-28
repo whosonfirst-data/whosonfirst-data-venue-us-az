@@ -2,13 +2,14 @@
   "id": 169087139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.969993,32.220141,-110.969993,32.220141",
     "geom:latitude":32.220141,
     "geom:longitude":-110.969993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E Ochoa St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169087139,
-    "wof:lastmodified":1449034199,
+    "wof:lastmodified":1466330269,
     "wof:name":"Stephen Sadler",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.969993,32.220141,-110.969993,32.220141],
+  "bbox": [
+    -110.969993,
+    32.220141,
+    -110.969993,
+    32.220141
+],
   "geometry": {"coordinates":[-110.969993,32.220141],"type":"Point"}
 }

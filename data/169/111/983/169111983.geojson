@@ -2,13 +2,14 @@
   "id": 169111983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.266065,33.696995,-112.266065,33.696995",
     "geom:latitude":33.696995,
     "geom:longitude":-112.266065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 W Electra Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877807,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169111983,
-    "wof:lastmodified":1449036077,
+    "wof:lastmodified":1466331249,
     "wof:name":"B C S Investments LLC",
     "wof:parent_id":85877807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.266065,33.696995,-112.266065,33.696995],
+  "bbox": [
+    -112.266065,
+    33.696995,
+    -112.266065,
+    33.696995
+],
   "geometry": {"coordinates":[-112.266065,33.696995],"type":"Point"}
 }

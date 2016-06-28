@@ -2,13 +2,14 @@
   "id": 152996995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.029652,32.409636,-111.029652,32.409636",
     "geom:latitude":32.409636,
     "geom:longitude":-111.029652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11450 N Shannon Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152996995,
-    "wof:lastmodified":1449045536,
+    "wof:lastmodified":1466329810,
     "wof:name":"Tortolita Flats Warmbloods",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.029652,32.409636,-111.029652,32.409636],
+  "bbox": [
+    -111.029652,
+    32.409636,
+    -111.029652,
+    32.409636
+],
   "geometry": {"coordinates":[-111.029652,32.409636],"type":"Point"}
 }

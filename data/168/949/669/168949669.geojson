@@ -2,13 +2,14 @@
   "id": 168949669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.939542,33.386071,-111.939542,33.386071",
     "geom:latitude":33.386071,
     "geom:longitude":-111.939542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 S Mill Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881407,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168949669,
-    "wof:lastmodified":1449028257,
+    "wof:lastmodified":1466331028,
     "wof:name":"Piano Glen",
     "wof:parent_id":85881407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.939542,33.386071,-111.939542,33.386071],
+  "bbox": [
+    -111.939542,
+    33.386071,
+    -111.939542,
+    33.386071
+],
   "geometry": {"coordinates":[-111.939542,33.386071],"type":"Point"}
 }

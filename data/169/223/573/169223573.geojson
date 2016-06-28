@@ -2,13 +2,14 @@
   "id": 169223573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.82584,32.249327,-109.82584,32.249327",
     "geom:latitude":32.249327,
     "geom:longitude":-109.82584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Maley St",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169223573,
-    "wof:lastmodified":1449032906,
+    "wof:lastmodified":1466332116,
     "wof:name":"Farwest Pump Co",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.82584,32.249327,-109.82584,32.249327],
+  "bbox": [
+    -109.82584,
+    32.249327,
+    -109.82584,
+    32.249327
+],
   "geometry": {"coordinates":[-109.82584,32.249327],"type":"Point"}
 }

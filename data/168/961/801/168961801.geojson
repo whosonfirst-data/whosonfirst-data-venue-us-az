@@ -2,13 +2,14 @@
   "id": 168961801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.988288,32.217189,-110.988288,32.217189",
     "geom:latitude":32.217189,
     "geom:longitude":-110.988288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Grande Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871759,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168961801,
-    "wof:lastmodified":1449028570,
+    "wof:lastmodified":1466331182,
     "wof:name":"Iglesia Bautista Del Redentor",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.988288,32.217189,-110.988288,32.217189],
+  "bbox": [
+    -110.988288,
+    32.217189,
+    -110.988288,
+    32.217189
+],
   "geometry": {"coordinates":[-110.988288,32.217189],"type":"Point"}
 }

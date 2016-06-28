@@ -2,13 +2,14 @@
   "id": 336717195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116959,33.544813,-112.116959,33.544813",
     "geom:latitude":33.544813,
     "geom:longitude":-112.116959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7328 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336717195,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466328303,
     "wof:name":"Posada Bonita",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.116959,33.544813,-112.116959,33.544813],
-  "geometry": {"coordinates":[-112.116959,33.544813],"type":"Point"}
+  "bbox": [
+    -112.116959,
+    33.544813,
+    -112.116959,
+    33.544813
+],
+  "geometry": {"coordinates":[-112.11695899999999,33.544813],"type":"Point"}
 }

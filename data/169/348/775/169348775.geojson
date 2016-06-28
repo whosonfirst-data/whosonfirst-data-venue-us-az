@@ -2,13 +2,14 @@
   "id": 169348775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.006056,32.239242,-111.006056,32.239242",
     "geom:latitude":32.239242,
     "geom:longitude":-111.006056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 N Silverbell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169348775,
-    "wof:lastmodified":1449032834,
+    "wof:lastmodified":1466333485,
     "wof:name":"Albertsons 972",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.006056,32.239242,-111.006056,32.239242],
+  "bbox": [
+    -111.006056,
+    32.239242,
+    -111.006056,
+    32.239242
+],
   "geometry": {"coordinates":[-111.006056,32.239242],"type":"Point"}
 }

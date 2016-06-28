@@ -2,13 +2,14 @@
   "id": 168828353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.964844,32.231654,-110.964844,32.231654",
     "geom:latitude":32.231654,
     "geom:longitude":-110.964844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E University Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871761,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168828353,
-    "wof:lastmodified":1449028170,
+    "wof:lastmodified":1466325966,
     "wof:name":"Trinity Presbyterian Church",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.964844,32.231654,-110.964844,32.231654],
+  "bbox": [
+    -110.964844,
+    32.231654,
+    -110.964844,
+    32.231654
+],
   "geometry": {"coordinates":[-110.964844,32.231654],"type":"Point"}
 }

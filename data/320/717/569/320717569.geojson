@@ -2,13 +2,14 @@
   "id": 320717569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.034058,33.505684,-112.034058,33.505684",
     "geom:latitude":33.505684,
     "geom:longitude":-112.034058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E Highland Ave # 120",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320717569,
-    "wof:lastmodified":1449011359,
+    "wof:lastmodified":1466328349,
     "wof:name":"Clinical Diagnostic Radiology",
     "wof:parent_id":85811943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.034058,33.505684,-112.034058,33.505684],
+  "bbox": [
+    -112.034058,
+    33.505684,
+    -112.034058,
+    33.505684
+],
   "geometry": {"coordinates":[-112.034058,33.505684],"type":"Point"}
 }

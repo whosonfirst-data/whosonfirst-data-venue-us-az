@@ -2,13 +2,14 @@
   "id": 353486001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.91127,33.365559,-111.91127,33.365559",
     "geom:latitude":33.365559,
     "geom:longitude":-111.91127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 S Mcclintock Dr Suite #106",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":353486001,
-    "wof:lastmodified":1449019675,
+    "wof:lastmodified":1466326935,
     "wof:name":"BrightStar - Tempe",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-111.91127,33.365559,-111.91127,33.365559],
+  "bbox": [
+    -111.91127,
+    33.365559,
+    -111.91127,
+    33.365559
+],
   "geometry": {"coordinates":[-111.91127,33.365559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336753433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.854683,33.414982,-111.854683,33.414982",
     "geom:latitude":33.414982,
     "geom:longitude":-111.854683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 W Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336753433,
-    "wof:lastmodified":1448997054,
+    "wof:lastmodified":1466328843,
     "wof:name":"Big Two Toyota Mitsubishi",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-111.854683,33.414982,-111.854683,33.414982],
-  "geometry": {"coordinates":[-111.854683,33.414982],"type":"Point"}
+  "bbox": [
+    -111.854683,
+    33.414982,
+    -111.854683,
+    33.414982
+],
+  "geometry": {"coordinates":[-111.85468299999999,33.414982],"type":"Point"}
 }

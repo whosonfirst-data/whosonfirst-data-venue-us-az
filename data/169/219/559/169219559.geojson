@@ -2,13 +2,14 @@
   "id": 169219559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.565329,34.894674,-114.565329,34.894674",
     "geom:latitude":34.894674,
     "geom:longitude":-114.565329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2468 Palo Verde Dr",
     "sg:city":"Mohave Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169219559,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466332345,
     "wof:name":"Rancho Palo Verde",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.565329,34.894674,-114.565329,34.894674],
-  "geometry": {"coordinates":[-114.565329,34.894674],"type":"Point"}
+  "bbox": [
+    -114.565329,
+    34.894674,
+    -114.565329,
+    34.894674
+],
+  "geometry": {"coordinates":[-114.56532900000001,34.894674],"type":"Point"}
 }

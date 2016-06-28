@@ -2,13 +2,14 @@
   "id": 169091023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.957228,32.129198,-110.957228,32.129198",
     "geom:latitude":32.129198,
     "geom:longitude":-110.957228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6961 S Apron Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.2-eagle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169091023,
-    "wof:lastmodified":1449033001,
+    "wof:lastmodified":1466330425,
     "wof:name":"Double Eagle Aviation",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.957228,32.129198,-110.957228,32.129198],
+  "bbox": [
+    -110.957228,
+    32.129198,
+    -110.957228,
+    32.129198
+],
   "geometry": {"coordinates":[-110.957228,32.129198],"type":"Point"}
 }

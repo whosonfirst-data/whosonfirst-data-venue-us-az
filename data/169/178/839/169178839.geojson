@@ -2,13 +2,14 @@
   "id": 169178839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.774278,33.424673,-111.774278,33.424673",
     "geom:latitude":33.424673,
     "geom:longitude":-111.774278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2657 E Contessa St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169178839,
-    "wof:lastmodified":1449035053,
+    "wof:lastmodified":1466332010,
     "wof:name":"Avanti Computers",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.774278,33.424673,-111.774278,33.424673],
+  "bbox": [
+    -111.774278,
+    33.424673,
+    -111.774278,
+    33.424673
+],
   "geometry": {"coordinates":[-111.774278,33.424673],"type":"Point"}
 }

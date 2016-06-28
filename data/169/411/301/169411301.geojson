@@ -2,13 +2,14 @@
   "id": 169411301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943992,31.878138,-110.943992,31.878138",
     "geom:latitude":31.878138,
     "geom:longitude":-110.943992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2175 E Quail Crossing Blvd",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.robison.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169411301,
-    "wof:lastmodified":1449032842,
+    "wof:lastmodified":1466333722,
     "wof:name":"Quail Creek Construction",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943992,31.878138,-110.943992,31.878138],
-  "geometry": {"coordinates":[-110.943992,31.878138],"type":"Point"}
+  "bbox": [
+    -110.943992,
+    31.878138,
+    -110.943992,
+    31.878138
+],
+  "geometry": {"coordinates":[-110.94399199999999,31.878138],"type":"Point"}
 }

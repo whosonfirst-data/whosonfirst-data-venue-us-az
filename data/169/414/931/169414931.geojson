@@ -2,13 +2,14 @@
   "id": 169414931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103873,33.598528,-112.103873,33.598528",
     "geom:latitude":33.598528,
     "geom:longitude":-112.103873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12202 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871009,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169414931,
-    "wof:lastmodified":1449034222,
+    "wof:lastmodified":1466334092,
     "wof:name":"Shawbutte Little League",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103873,33.598528,-112.103873,33.598528],
-  "geometry": {"coordinates":[-112.103873,33.598528],"type":"Point"}
+  "bbox": [
+    -112.103873,
+    33.598528,
+    -112.103873,
+    33.598528
+],
+  "geometry": {"coordinates":[-112.10387299999999,33.598528],"type":"Point"}
 }

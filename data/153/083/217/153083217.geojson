@@ -2,13 +2,14 @@
   "id": 153083217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.154,33.552245,-112.154,33.552245",
     "geom:latitude":33.552245,
     "geom:longitude":-112.154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 N 44th Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153083217,
-    "wof:lastmodified":1449040548,
+    "wof:lastmodified":1466329176,
     "wof:name":"Canyon State Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.154,33.552245,-112.154,33.552245],
+  "bbox": [
+    -112.154,
+    33.552245,
+    -112.154,
+    33.552245
+],
   "geometry": {"coordinates":[-112.154,33.552245],"type":"Point"}
 }

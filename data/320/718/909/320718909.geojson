@@ -2,13 +2,14 @@
   "id": 320718909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036122,33.489336,-112.036122,33.489336",
     "geom:latitude":33.489336,
     "geom:longitude":-112.036122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 E Whitton Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320718909,
-    "wof:lastmodified":1449012059,
+    "wof:lastmodified":1466328370,
     "wof:name":"Mc Lemore Gardening Svce",
     "wof:parent_id":85807777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-112.036122,33.489336,-112.036122,33.489336],
-  "geometry": {"coordinates":[-112.036122,33.489336],"type":"Point"}
+  "bbox": [
+    -112.036122,
+    33.489336,
+    -112.036122,
+    33.489336
+],
+  "geometry": {"coordinates":[-112.03612200000001,33.489336],"type":"Point"}
 }

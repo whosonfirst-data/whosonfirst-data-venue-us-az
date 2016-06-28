@@ -2,13 +2,14 @@
   "id": 153048619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.985124,32.215703,-110.985124,32.215703",
     "geom:latitude":32.215703,
     "geom:longitude":-110.985124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 S Brickyard Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871759,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153048619,
-    "wof:lastmodified":1449040492,
+    "wof:lastmodified":1466327072,
     "wof:name":"M & D Terminals Inc",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.985124,32.215703,-110.985124,32.215703],
+  "bbox": [
+    -110.985124,
+    32.215703,
+    -110.985124,
+    32.215703
+],
   "geometry": {"coordinates":[-110.985124,32.215703],"type":"Point"}
 }

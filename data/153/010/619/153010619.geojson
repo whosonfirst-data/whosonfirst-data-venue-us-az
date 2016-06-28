@@ -2,13 +2,14 @@
   "id": 153010619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906522,33.472392,-111.906522,33.472392",
     "geom:latitude":33.472392,
     "geom:longitude":-111.906522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8126 E Cypress St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880951,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153010619,
-    "wof:lastmodified":1449040650,
+    "wof:lastmodified":1466326089,
     "wof:name":"Arizona Society Of Practicing",
     "wof:parent_id":85880951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906522,33.472392,-111.906522,33.472392],
+  "bbox": [
+    -111.906522,
+    33.472392,
+    -111.906522,
+    33.472392
+],
   "geometry": {"coordinates":[-111.906522,33.472392],"type":"Point"}
 }

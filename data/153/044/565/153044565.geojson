@@ -2,13 +2,14 @@
   "id": 153044565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.894787,32.241644,-110.894787,32.241644",
     "geom:latitude":32.241644,
     "geom:longitude":-110.894787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Venice Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":153044565,
-    "wof:lastmodified":1449040596,
+    "wof:lastmodified":1466326791,
     "wof:name":"Village Mobile Home Park",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.894787,32.241644,-110.894787,32.241644],
-  "geometry": {"coordinates":[-110.894787,32.241644],"type":"Point"}
+  "bbox": [
+    -110.894787,
+    32.241644,
+    -110.894787,
+    32.241644
+],
+  "geometry": {"coordinates":[-110.89478699999999,32.241644],"type":"Point"}
 }

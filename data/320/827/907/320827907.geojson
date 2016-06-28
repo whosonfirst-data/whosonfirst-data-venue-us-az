@@ -2,13 +2,14 @@
   "id": 320827907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.101334,33.68121,-112.101334,33.68121",
     "geom:latitude":33.68121,
     "geom:longitude":-112.101334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Melinda Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320827907,
-    "wof:lastmodified":1449012616,
+    "wof:lastmodified":1466330372,
     "wof:name":"Smc Pneumatics",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "valve"
     ]
 },
-  "bbox": [-112.101334,33.68121,-112.101334,33.68121],
-  "geometry": {"coordinates":[-112.101334,33.68121],"type":"Point"}
+  "bbox": [
+    -112.101334,
+    33.68121,
+    -112.101334,
+    33.68121
+],
+  "geometry": {"coordinates":[-112.10133399999999,33.68121],"type":"Point"}
 }

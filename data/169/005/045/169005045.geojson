@@ -2,13 +2,14 @@
   "id": 169005045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.81613,32.202451,-110.81613,32.202451",
     "geom:latitude":32.202451,
     "geom:longitude":-110.81613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 S Perlman Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169005045,
-    "wof:lastmodified":1449035696,
+    "wof:lastmodified":1466326183,
     "wof:name":"Devotion Adult Care Home Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.81613,32.202451,-110.81613,32.202451],
+  "bbox": [
+    -110.81613,
+    32.202451,
+    -110.81613,
+    32.202451
+],
   "geometry": {"coordinates":[-110.81613,32.202451],"type":"Point"}
 }

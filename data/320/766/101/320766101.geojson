@@ -2,13 +2,14 @@
   "id": 320766101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.139499,33.499407,-112.139499,33.499407",
     "geom:latitude":33.499407,
     "geom:longitude":-112.139499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3744 Grand Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320766101,
-    "wof:lastmodified":1449011211,
+    "wof:lastmodified":1466329172,
     "wof:name":"Juan Used Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliances-major-used"
     ]
 },
-  "bbox": [-112.139499,33.499407,-112.139499,33.499407],
+  "bbox": [
+    -112.139499,
+    33.499407,
+    -112.139499,
+    33.499407
+],
   "geometry": {"coordinates":[-112.139499,33.499407],"type":"Point"}
 }

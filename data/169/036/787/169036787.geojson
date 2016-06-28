@@ -2,13 +2,14 @@
   "id": 169036787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.201201,33.63484,-112.201201,33.63484",
     "geom:latitude":33.63484,
     "geom:longitude":-112.201201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6609 W Aire Libre Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830395,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85830395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169036787,
-    "wof:lastmodified":1449033424,
+    "wof:lastmodified":1466327463,
     "wof:name":"Emmett's Fix-It Shop",
     "wof:parent_id":85830395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.201201,33.63484,-112.201201,33.63484],
+  "bbox": [
+    -112.201201,
+    33.63484,
+    -112.201201,
+    33.63484
+],
   "geometry": {"coordinates":[-112.201201,33.63484],"type":"Point"}
 }

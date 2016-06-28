@@ -2,13 +2,14 @@
   "id": 353869215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.649036,35.195166,-111.649036,35.195166",
     "geom:latitude":35.195166,
     "geom:longitude":-111.649036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S San Francisco St # 2",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353869215,
-    "wof:lastmodified":1449020603,
+    "wof:lastmodified":1466330802,
     "wof:name":"Daily, David Nd Lac",
     "wof:parent_id":85811639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-111.649036,35.195166,-111.649036,35.195166],
+  "bbox": [
+    -111.649036,
+    35.195166,
+    -111.649036,
+    35.195166
+],
   "geometry": {"coordinates":[-111.649036,35.195166],"type":"Point"}
 }

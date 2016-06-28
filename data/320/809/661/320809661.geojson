@@ -2,13 +2,14 @@
   "id": 320809661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.064056,33.65485,-112.064056,33.65485",
     "geom:latitude":33.65485,
     "geom:longitude":-112.064056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E Union Hills Dr Ste 14A",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320809661,
-    "wof:lastmodified":1449014303,
+    "wof:lastmodified":1466329809,
     "wof:name":"Water Well",
     "wof:parent_id":85843333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "companies-bottled"
     ]
 },
-  "bbox": [-112.064056,33.65485,-112.064056,33.65485],
-  "geometry": {"coordinates":[-112.064056,33.65485],"type":"Point"}
+  "bbox": [
+    -112.064056,
+    33.65485,
+    -112.064056,
+    33.65485
+],
+  "geometry": {"coordinates":[-112.06405599999999,33.65485],"type":"Point"}
 }

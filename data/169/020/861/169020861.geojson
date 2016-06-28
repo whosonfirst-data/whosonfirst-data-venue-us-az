@@ -2,13 +2,14 @@
   "id": 169020861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.041334,35.217626,-114.041334,35.217626",
     "geom:latitude":35.217626,
     "geom:longitude":-114.041334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Beverly Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169020861,
-    "wof:lastmodified":1449034218,
+    "wof:lastmodified":1466326041,
     "wof:name":"Cimarron Apartments",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.041334,35.217626,-114.041334,35.217626],
-  "geometry": {"coordinates":[-114.041334,35.217626],"type":"Point"}
+  "bbox": [
+    -114.041334,
+    35.217626,
+    -114.041334,
+    35.217626
+],
+  "geometry": {"coordinates":[-114.04133400000001,35.217626],"type":"Point"}
 }

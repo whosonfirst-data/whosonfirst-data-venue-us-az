@@ -2,13 +2,14 @@
   "id": 169348053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918468,33.513447,-111.918468,33.513447",
     "geom:latitude":33.513447,
     "geom:longitude":-111.918468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 N Woodmere Fairway",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880959,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169348053,
-    "wof:lastmodified":1449032832,
+    "wof:lastmodified":1466333425,
     "wof:name":"McNeal Realty",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.918468,33.513447,-111.918468,33.513447],
+  "bbox": [
+    -111.918468,
+    33.513447,
+    -111.918468,
+    33.513447
+],
   "geometry": {"coordinates":[-111.918468,33.513447],"type":"Point"}
 }

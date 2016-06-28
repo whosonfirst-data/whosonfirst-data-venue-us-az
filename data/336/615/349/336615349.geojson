@@ -2,13 +2,14 @@
   "id": 336615349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.213868,33.497015,-112.213868,33.497015",
     "geom:latitude":33.497015,
     "geom:longitude":-112.213868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 W Mackenzie Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336615349,
-    "wof:lastmodified":1448997281,
+    "wof:lastmodified":1466326243,
     "wof:name":"Chart Room Graphics",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphic"
     ]
 },
-  "bbox": [-112.213868,33.497015,-112.213868,33.497015],
-  "geometry": {"coordinates":[-112.213868,33.497015],"type":"Point"}
+  "bbox": [
+    -112.213868,
+    33.497015,
+    -112.213868,
+    33.497015
+],
+  "geometry": {"coordinates":[-112.21386800000001,33.497015],"type":"Point"}
 }

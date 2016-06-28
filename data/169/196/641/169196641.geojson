@@ -2,13 +2,14 @@
   "id": 169196641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.20859,33.646056,-112.20859,33.646056",
     "geom:latitude":33.646056,
     "geom:longitude":-112.20859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6938 W Josac St",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877799,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169196641,
-    "wof:lastmodified":1449033432,
+    "wof:lastmodified":1466332098,
     "wof:name":"Quality Welding & Fabricating",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.20859,33.646056,-112.20859,33.646056],
+  "bbox": [
+    -112.20859,
+    33.646056,
+    -112.20859,
+    33.646056
+],
   "geometry": {"coordinates":[-112.20859,33.646056],"type":"Point"}
 }

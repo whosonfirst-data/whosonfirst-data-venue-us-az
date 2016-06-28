@@ -2,13 +2,14 @@
   "id": 169188217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.947965,33.421901,-111.947965,33.421901",
     "geom:latitude":33.421901,
     "geom:longitude":-111.947965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W University Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881421,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169188217,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1466332282,
     "wof:name":"Rezurrection Gallery",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.947965,33.421901,-111.947965,33.421901],
+  "bbox": [
+    -111.947965,
+    33.421901,
+    -111.947965,
+    33.421901
+],
   "geometry": {"coordinates":[-111.947965,33.421901],"type":"Point"}
 }

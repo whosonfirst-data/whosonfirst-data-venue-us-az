@@ -2,13 +2,14 @@
   "id": 169279851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.992148,34.714699,-111.992148,34.714699",
     "geom:latitude":34.714699,
     "geom:longitude":-111.992148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Bates Rd",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811285,
+        85688719,
         85633793,
         85917365,
         102081535,
-        85688719
+        85811285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169279851,
-    "wof:lastmodified":1449034188,
+    "wof:lastmodified":1466332853,
     "wof:name":"C & B Construction",
     "wof:parent_id":85811285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.992148,34.714699,-111.992148,34.714699],
+  "bbox": [
+    -111.992148,
+    34.714699,
+    -111.992148,
+    34.714699
+],
   "geometry": {"coordinates":[-111.992148,34.714699],"type":"Point"}
 }

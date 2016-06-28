@@ -2,13 +2,14 @@
   "id": 168932121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.181069,33.677744,-112.181069,33.677744",
     "geom:latitude":33.677744,
     "geom:longitude":-112.181069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5663 W Abraham Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168932121,
-    "wof:lastmodified":1449028043,
+    "wof:lastmodified":1466330642,
     "wof:name":"HI Heaven Enterprises Inc",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.181069,33.677744,-112.181069,33.677744],
-  "geometry": {"coordinates":[-112.181069,33.677744],"type":"Point"}
+  "bbox": [
+    -112.181069,
+    33.677744,
+    -112.181069,
+    33.677744
+],
+  "geometry": {"coordinates":[-112.18106899999999,33.677744],"type":"Point"}
 }

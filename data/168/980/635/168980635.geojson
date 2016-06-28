@@ -2,13 +2,14 @@
   "id": 168980635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.197193,33.383149,-112.197193,33.383149",
     "geom:latitude":33.383149,
     "geom:longitude":-112.197193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6407 W Fremont Rd",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168980635,
-    "wof:lastmodified":1449027823,
+    "wof:lastmodified":1466331460,
     "wof:name":"Cobblersweb",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.197193,33.383149,-112.197193,33.383149],
+  "bbox": [
+    -112.197193,
+    33.383149,
+    -112.197193,
+    33.383149
+],
   "geometry": {"coordinates":[-112.197193,33.383149],"type":"Point"}
 }

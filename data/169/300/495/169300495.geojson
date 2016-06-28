@@ -2,13 +2,14 @@
   "id": 169300495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.718976,32.834941,-109.718976,32.834941",
     "geom:latitude":32.834941,
     "geom:longitude":-109.718976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 US Hwy 70",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169300495,
-    "wof:lastmodified":1449034548,
+    "wof:lastmodified":1466333038,
     "wof:name":"Phoenix Fuel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.718976,32.834941,-109.718976,32.834941],
+  "bbox": [
+    -109.718976,
+    32.834941,
+    -109.718976,
+    32.834941
+],
   "geometry": {"coordinates":[-109.718976,32.834941],"type":"Point"}
 }

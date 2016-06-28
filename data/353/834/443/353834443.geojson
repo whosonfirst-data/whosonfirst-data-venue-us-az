@@ -2,13 +2,14 @@
   "id": 353834443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.913529,32.316332,-110.913529,32.316332",
     "geom:latitude":32.316332,
     "geom:longitude":-110.913529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3770 E Sunrise Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":353834443,
-    "wof:lastmodified":1449018499,
+    "wof:lastmodified":1466330668,
     "wof:name":"J Bar",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.913529,32.316332,-110.913529,32.316332],
+  "bbox": [
+    -110.913529,
+    32.316332,
+    -110.913529,
+    32.316332
+],
   "geometry": {"coordinates":[-110.913529,32.316332],"type":"Point"}
 }

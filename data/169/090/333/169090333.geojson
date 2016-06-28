@@ -2,13 +2,14 @@
   "id": 169090333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.818104,32.304735,-110.818104,32.304735",
     "geom:latitude":32.304735,
     "geom:longitude":-110.818104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5345 N Buckhorn Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169090333,
-    "wof:lastmodified":1449035292,
+    "wof:lastmodified":1466330718,
     "wof:name":"Oracle Environmental",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.818104,32.304735,-110.818104,32.304735],
-  "geometry": {"coordinates":[-110.818104,32.304735],"type":"Point"}
+  "bbox": [
+    -110.818104,
+    32.304735,
+    -110.818104,
+    32.304735
+],
+  "geometry": {"coordinates":[-110.81810400000001,32.304735],"type":"Point"}
 }

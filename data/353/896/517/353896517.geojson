@@ -2,13 +2,14 @@
   "id": 353896517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.483433,34.553431,-112.483433,34.553431",
     "geom:latitude":34.553431,
     "geom:longitude":-112.483433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Fair St Rm 228",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353896517,
-    "wof:lastmodified":1449019188,
+    "wof:lastmodified":1466330921,
     "wof:name":"Voter Registration",
     "wof:parent_id":85834349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "government-county"
     ]
 },
-  "bbox": [-112.483433,34.553431,-112.483433,34.553431],
-  "geometry": {"coordinates":[-112.483433,34.553431],"type":"Point"}
+  "bbox": [
+    -112.483433,
+    34.553431,
+    -112.483433,
+    34.553431
+],
+  "geometry": {"coordinates":[-112.48343300000001,34.553431],"type":"Point"}
 }

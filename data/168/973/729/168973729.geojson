@@ -2,13 +2,14 @@
   "id": 168973729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004476,33.582533,-112.004476,33.582533",
     "geom:latitude":33.582533,
     "geom:longitude":-112.004476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 E Shea Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168973729,
-    "wof:lastmodified":1449028243,
+    "wof:lastmodified":1466331235,
     "wof:name":"World Wide Credit Corporation",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004476,33.582533,-112.004476,33.582533],
+  "bbox": [
+    -112.004476,
+    33.582533,
+    -112.004476,
+    33.582533
+],
   "geometry": {"coordinates":[-112.004476,33.582533],"type":"Point"}
 }

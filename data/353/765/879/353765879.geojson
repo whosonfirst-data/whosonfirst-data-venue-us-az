@@ -2,13 +2,14 @@
   "id": 353765879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.382054,33.475917,-112.382054,33.475917",
     "geom:latitude":33.475917,
     "geom:longitude":-112.382054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15025 W Windsor Ave",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353765879,
-    "wof:lastmodified":1449019738,
+    "wof:lastmodified":1466330098,
     "wof:name":"Network Integrators Inc",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "network"
     ]
 },
-  "bbox": [-112.382054,33.475917,-112.382054,33.475917],
+  "bbox": [
+    -112.382054,
+    33.475917,
+    -112.382054,
+    33.475917
+],
   "geometry": {"coordinates":[-112.382054,33.475917],"type":"Point"}
 }

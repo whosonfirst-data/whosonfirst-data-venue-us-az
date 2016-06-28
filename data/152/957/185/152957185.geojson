@@ -2,13 +2,14 @@
   "id": 152957185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.951422,32.22507,-110.951422,32.22507",
     "geom:latitude":32.22507,
     "geom:longitude":-110.951422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 E 8th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871769,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152957185,
-    "wof:lastmodified":1449048227,
+    "wof:lastmodified":1466327802,
     "wof:name":"Imaginative Sculptures",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.951422,32.22507,-110.951422,32.22507],
-  "geometry": {"coordinates":[-110.951422,32.22507],"type":"Point"}
+  "bbox": [
+    -110.951422,
+    32.22507,
+    -110.951422,
+    32.22507
+],
+  "geometry": {"coordinates":[-110.95142199999999,32.22507],"type":"Point"}
 }

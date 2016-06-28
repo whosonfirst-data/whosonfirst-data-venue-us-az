@@ -2,13 +2,14 @@
   "id": 320680633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.089043,33.510512,-112.089043,33.510512",
     "geom:latitude":33.510512,
     "geom:longitude":-112.089043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5029 N 13th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320680633,
-    "wof:lastmodified":1449013885,
+    "wof:lastmodified":1466327945,
     "wof:name":"Hunter Grafix Inc",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphic"
     ]
 },
-  "bbox": [-112.089043,33.510512,-112.089043,33.510512],
+  "bbox": [
+    -112.089043,
+    33.510512,
+    -112.089043,
+    33.510512
+],
   "geometry": {"coordinates":[-112.089043,33.510512],"type":"Point"}
 }

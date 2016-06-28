@@ -2,13 +2,14 @@
   "id": 320769929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049668,33.559224,-112.049668,33.559224",
     "geom:latitude":33.559224,
     "geom:longitude":-112.049668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 E Las Palmaritas Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320769929,
-    "wof:lastmodified":1449012515,
+    "wof:lastmodified":1466329239,
     "wof:name":"Rc Product Development",
     "wof:parent_id":85852109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "buffing"
     ]
 },
-  "bbox": [-112.049668,33.559224,-112.049668,33.559224],
+  "bbox": [
+    -112.049668,
+    33.559224,
+    -112.049668,
+    33.559224
+],
   "geometry": {"coordinates":[-112.049668,33.559224],"type":"Point"}
 }

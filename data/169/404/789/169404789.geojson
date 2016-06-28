@@ -2,13 +2,14 @@
   "id": 169404789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.483519,34.772927,-112.483519,34.772927",
     "geom:latitude":34.772927,
     "geom:longitude":-112.483519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 N Esperanza Rd",
     "sg:city":"Chino Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169404789,
-    "wof:lastmodified":1449034881,
+    "wof:lastmodified":1466334064,
     "wof:name":"Key Appraisal Svc",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.483519,34.772927,-112.483519,34.772927],
+  "bbox": [
+    -112.483519,
+    34.772927,
+    -112.483519,
+    34.772927
+],
   "geometry": {"coordinates":[-112.483519,34.772927],"type":"Point"}
 }

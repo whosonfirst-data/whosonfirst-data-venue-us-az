@@ -2,13 +2,14 @@
   "id": 169204103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.898582,33.327971,-111.898582,33.327971",
     "geom:latitude":33.327971,
     "geom:longitude":-111.898582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 E Knox Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853371,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85853371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169204103,
-    "wof:lastmodified":1449036063,
+    "wof:lastmodified":1466332302,
     "wof:name":"Pulice Construction",
     "wof:parent_id":85853371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.898582,33.327971,-111.898582,33.327971],
+  "bbox": [
+    -111.898582,
+    33.327971,
+    -111.898582,
+    33.327971
+],
   "geometry": {"coordinates":[-111.898582,33.327971],"type":"Point"}
 }

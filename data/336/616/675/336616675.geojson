@@ -2,13 +2,14 @@
   "id": 336616675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.216912,33.494703,-112.216912,33.494703",
     "geom:latitude":33.494703,
     "geom:longitude":-112.216912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7333 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336616675,
-    "wof:lastmodified":1448997719,
+    "wof:lastmodified":1466326272,
     "wof:name":"75th Avenue Coin Laundry",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "coin"
     ]
 },
-  "bbox": [-112.216912,33.494703,-112.216912,33.494703],
-  "geometry": {"coordinates":[-112.216912,33.494703],"type":"Point"}
+  "bbox": [
+    -112.216912,
+    33.494703,
+    -112.216912,
+    33.494703
+],
+  "geometry": {"coordinates":[-112.21691199999999,33.494703],"type":"Point"}
 }

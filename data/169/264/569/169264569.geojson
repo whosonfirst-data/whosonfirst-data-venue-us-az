@@ -2,13 +2,14 @@
   "id": 169264569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.941606,33.505758,-111.941606,33.505758",
     "geom:latitude":33.505758,
     "geom:longitude":-111.941606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 N 65th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880959,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169264569,
-    "wof:lastmodified":1449034829,
+    "wof:lastmodified":1466332628,
     "wof:name":"Cave Cybernation",
     "wof:parent_id":85880959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.941606,33.505758,-111.941606,33.505758],
-  "geometry": {"coordinates":[-111.941606,33.505758],"type":"Point"}
+  "bbox": [
+    -111.941606,
+    33.505758,
+    -111.941606,
+    33.505758
+],
+  "geometry": {"coordinates":[-111.94160599999999,33.505758],"type":"Point"}
 }

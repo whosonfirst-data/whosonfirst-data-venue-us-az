@@ -2,13 +2,14 @@
   "id": 153005969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.793486,32.114729,-110.793486,32.114729",
     "geom:latitude":32.114729,
     "geom:longitude":-110.793486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9356 E Rita Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871741,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153005969,
-    "wof:lastmodified":1449040787,
+    "wof:lastmodified":1466325835,
     "wof:name":"Cottonwood Pediatrics",
     "wof:parent_id":85871741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.793486,32.114729,-110.793486,32.114729],
+  "bbox": [
+    -110.793486,
+    32.114729,
+    -110.793486,
+    32.114729
+],
   "geometry": {"coordinates":[-110.793486,32.114729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336595215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012659,33.605023,-112.012659,33.605023",
     "geom:latitude":33.605023,
     "geom:longitude":-112.012659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3237 E Captain Dreyfus Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336595215,
-    "wof:lastmodified":1448997917,
+    "wof:lastmodified":1466325877,
     "wof:name":"Cornerstone Epoxy Floor Coatings",
     "wof:parent_id":85847869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coatings-protective"
     ]
 },
-  "bbox": [-112.012659,33.605023,-112.012659,33.605023],
+  "bbox": [
+    -112.012659,
+    33.605023,
+    -112.012659,
+    33.605023
+],
   "geometry": {"coordinates":[-112.012659,33.605023],"type":"Point"}
 }

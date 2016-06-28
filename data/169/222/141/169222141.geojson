@@ -2,13 +2,14 @@
   "id": 169222141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.21707,32.460312,-111.21707,32.460312",
     "geom:latitude":32.460312,
     "geom:longitude":-111.21707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13915 N Sandario Rd",
     "sg:city":"Marana",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169222141,
-    "wof:lastmodified":1449034898,
+    "wof:lastmodified":1466332270,
     "wof:name":"LA Tumbleweed Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.21707,32.460312,-111.21707,32.460312],
-  "geometry": {"coordinates":[-111.21707,32.460312],"type":"Point"}
+  "bbox": [
+    -111.21707,
+    32.460312,
+    -111.21707,
+    32.460312
+],
+  "geometry": {"coordinates":[-111.21707000000001,32.460312],"type":"Point"}
 }

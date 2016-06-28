@@ -2,13 +2,14 @@
   "id": 169186285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.131499,33.596317,-112.131499,33.596317",
     "geom:latitude":33.596317,
     "geom:longitude":-112.131499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3437 W Cactus Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851507,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169186285,
-    "wof:lastmodified":1449035242,
+    "wof:lastmodified":1466332285,
     "wof:name":"Cuts 4U",
     "wof:parent_id":85851507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.131499,33.596317,-112.131499,33.596317],
-  "geometry": {"coordinates":[-112.131499,33.596317],"type":"Point"}
+  "bbox": [
+    -112.131499,
+    33.596317,
+    -112.131499,
+    33.596317
+],
+  "geometry": {"coordinates":[-112.13149900000001,33.596317],"type":"Point"}
 }

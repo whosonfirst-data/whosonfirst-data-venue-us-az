@@ -2,13 +2,14 @@
   "id": 353812957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970352,32.245972,-110.970352,32.245972",
     "geom:latitude":32.245972,
     "geom:longitude":-110.970352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Ventura St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353812957,
-    "wof:lastmodified":1449018317,
+    "wof:lastmodified":1466330463,
     "wof:name":"Larry's Paint & Body",
     "wof:parent_id":85871767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-110.970352,32.245972,-110.970352,32.245972],
-  "geometry": {"coordinates":[-110.970352,32.245972],"type":"Point"}
+  "bbox": [
+    -110.970352,
+    32.245972,
+    -110.970352,
+    32.245972
+],
+  "geometry": {"coordinates":[-110.97035200000001,32.245972],"type":"Point"}
 }

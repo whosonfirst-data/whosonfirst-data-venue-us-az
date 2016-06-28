@@ -2,13 +2,14 @@
   "id": 353597183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.174214,33.610741,-112.174214,33.610741",
     "geom:latitude":33.610741,
     "geom:longitude":-112.174214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 W Thunderbird Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353597183,
-    "wof:lastmodified":1449020743,
+    "wof:lastmodified":1466328477,
     "wof:name":"American Laser Center",
     "wof:parent_id":85852223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic"
     ]
 },
-  "bbox": [-112.174214,33.610741,-112.174214,33.610741],
-  "geometry": {"coordinates":[-112.174214,33.610741],"type":"Point"}
+  "bbox": [
+    -112.174214,
+    33.610741,
+    -112.174214,
+    33.610741
+],
+  "geometry": {"coordinates":[-112.17421400000001,33.610741],"type":"Point"}
 }

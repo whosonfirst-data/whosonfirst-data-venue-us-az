@@ -2,13 +2,14 @@
   "id": 169114157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.948784,32.156055,-110.948784,32.156055",
     "geom:latitude":32.156055,
     "geom:longitude":-110.948784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Bantam Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169114157,
-    "wof:lastmodified":1449034051,
+    "wof:lastmodified":1466331252,
     "wof:name":"Brentwood Mobile Home Park",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.948784,32.156055,-110.948784,32.156055],
+  "bbox": [
+    -110.948784,
+    32.156055,
+    -110.948784,
+    32.156055
+],
   "geometry": {"coordinates":[-110.948784,32.156055],"type":"Point"}
 }

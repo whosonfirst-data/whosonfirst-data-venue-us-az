@@ -2,13 +2,14 @@
   "id": 336632619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032411,33.446066,-112.032411,33.446066",
     "geom:latitude":33.446066,
     "geom:longitude":-112.032411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S 23rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336632619,
-    "wof:lastmodified":1448997613,
+    "wof:lastmodified":1466326597,
     "wof:name":"Western Fence Co, Inc.",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-112.032411,33.446066,-112.032411,33.446066],
+  "bbox": [
+    -112.032411,
+    33.446066,
+    -112.032411,
+    33.446066
+],
   "geometry": {"coordinates":[-112.032411,33.446066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168952597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173587,33.671991,-112.173587,33.671991",
     "geom:latitude":33.671991,
     "geom:longitude":-112.173587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 W Tonopah Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168952597,
-    "wof:lastmodified":1449028335,
+    "wof:lastmodified":1466331117,
     "wof:name":"Sun Zip Enterprises",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173587,33.671991,-112.173587,33.671991],
+  "bbox": [
+    -112.173587,
+    33.671991,
+    -112.173587,
+    33.671991
+],
   "geometry": {"coordinates":[-112.173587,33.671991],"type":"Point"}
 }

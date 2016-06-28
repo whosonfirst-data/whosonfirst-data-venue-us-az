@@ -2,13 +2,14 @@
   "id": 168911383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.106195,32.989263,-112.106195,32.989263",
     "geom:latitude":32.989263,
     "geom:longitude":-112.106195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50134 W Gail Ln",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802541,
+        85688719,
         85633793,
         85917295,
         102081547,
-        85688719
+        85802541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168911383,
-    "wof:lastmodified":1449028454,
+    "wof:lastmodified":1466330037,
     "wof:name":"Daily Bread",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.106195,32.989263,-112.106195,32.989263],
+  "bbox": [
+    -112.106195,
+    32.989263,
+    -112.106195,
+    32.989263
+],
   "geometry": {"coordinates":[-112.106195,32.989263],"type":"Point"}
 }

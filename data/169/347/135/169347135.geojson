@@ -2,13 +2,14 @@
   "id": 169347135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.005186,32.226735,-111.005186,32.226735",
     "geom:latitude":32.226735,
     "geom:longitude":-111.005186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1773 W Saint Marys Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169347135,
-    "wof:lastmodified":1449034275,
+    "wof:lastmodified":1466333436,
     "wof:name":"Tucson Associates-Nephrology",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.005186,32.226735,-111.005186,32.226735],
-  "geometry": {"coordinates":[-111.005186,32.226735],"type":"Point"}
+  "bbox": [
+    -111.005186,
+    32.226735,
+    -111.005186,
+    32.226735
+],
+  "geometry": {"coordinates":[-111.00518599999999,32.226735],"type":"Point"}
 }

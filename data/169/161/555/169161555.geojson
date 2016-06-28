@@ -2,13 +2,14 @@
   "id": 169161555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.749477,32.277372,-110.749477,32.277372",
     "geom:latitude":32.277372,
     "geom:longitude":-110.749477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11240 E Cll Vaqueros",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169161555,
-    "wof:lastmodified":1449033984,
+    "wof:lastmodified":1466331878,
     "wof:name":"Solinsky Financial Group Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.749477,32.277372,-110.749477,32.277372],
+  "bbox": [
+    -110.749477,
+    32.277372,
+    -110.749477,
+    32.277372
+],
   "geometry": {"coordinates":[-110.749477,32.277372],"type":"Point"}
 }

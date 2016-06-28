@@ -2,13 +2,14 @@
   "id": 168851219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953514,32.171713,-110.953514,32.171713",
     "geom:latitude":32.171713,
     "geom:longitude":-110.953514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 E Pennsylvania St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168851219,
-    "wof:lastmodified":1449028278,
+    "wof:lastmodified":1466325806,
     "wof:name":"Roy Al Labs",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953514,32.171713,-110.953514,32.171713],
+  "bbox": [
+    -110.953514,
+    32.171713,
+    -110.953514,
+    32.171713
+],
   "geometry": {"coordinates":[-110.953514,32.171713],"type":"Point"}
 }

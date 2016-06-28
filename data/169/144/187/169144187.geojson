@@ -2,13 +2,14 @@
   "id": 169144187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943854,32.268163,-110.943854,32.268163",
     "geom:latitude":32.268163,
     "geom:longitude":-110.943854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3323 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.goadams.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871755,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169144187,
-    "wof:lastmodified":1449035091,
+    "wof:lastmodified":1466331694,
     "wof:name":"Adams Pool Care",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943854,32.268163,-110.943854,32.268163],
+  "bbox": [
+    -110.943854,
+    32.268163,
+    -110.943854,
+    32.268163
+],
   "geometry": {"coordinates":[-110.943854,32.268163],"type":"Point"}
 }

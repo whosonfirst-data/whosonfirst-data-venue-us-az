@@ -2,13 +2,14 @@
   "id": 169326393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.75506,33.963824,-112.75506,33.963824",
     "geom:latitude":33.963824,
     "geom:longitude":-112.75506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1237 W Wickenburg Way",
     "sg:city":"Wickenburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169326393,
-    "wof:lastmodified":1449034073,
+    "wof:lastmodified":1466333081,
     "wof:name":"Site Environment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.75506,33.963824,-112.75506,33.963824],
+  "bbox": [
+    -112.75506,
+    33.963824,
+    -112.75506,
+    33.963824
+],
   "geometry": {"coordinates":[-112.75506,33.963824],"type":"Point"}
 }

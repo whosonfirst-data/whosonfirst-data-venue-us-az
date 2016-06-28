@@ -2,13 +2,14 @@
   "id": 336652485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073477,33.410536,-112.073477,33.410536",
     "geom:latitude":33.410536,
     "geom:longitude":-112.073477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 S Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336652485,
-    "wof:lastmodified":1448997626,
+    "wof:lastmodified":1466327876,
     "wof:name":"Backyard Group",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-112.073477,33.410536,-112.073477,33.410536],
+  "bbox": [
+    -112.073477,
+    33.410536,
+    -112.073477,
+    33.410536
+],
   "geometry": {"coordinates":[-112.073477,33.410536],"type":"Point"}
 }

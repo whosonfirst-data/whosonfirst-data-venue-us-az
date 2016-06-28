@@ -2,13 +2,14 @@
   "id": 320703765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.091631,33.480494,-112.091631,33.480494",
     "geom:latitude":33.480494,
     "geom:longitude":-112.091631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 W Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":320703765,
-    "wof:lastmodified":1449012400,
+    "wof:lastmodified":1466328128,
     "wof:name":"Crisis Pregnancy Centers",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -98,6 +100,11 @@
         "counselor"
     ]
 },
-  "bbox": [-112.091631,33.480494,-112.091631,33.480494],
-  "geometry": {"coordinates":[-112.091631,33.480494],"type":"Point"}
+  "bbox": [
+    -112.091631,
+    33.480494,
+    -112.091631,
+    33.480494
+],
+  "geometry": {"coordinates":[-112.09163100000001,33.480494],"type":"Point"}
 }

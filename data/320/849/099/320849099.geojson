@@ -2,13 +2,14 @@
   "id": 320849099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109881,33.588088,-112.109881,33.588088",
     "geom:latitude":33.588088,
     "geom:longitude":-112.109881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11035 N 23rd Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320849099,
-    "wof:lastmodified":1449011948,
+    "wof:lastmodified":1466330423,
     "wof:name":"Kerco Inc",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "systems-maintenance"
     ]
 },
-  "bbox": [-112.109881,33.588088,-112.109881,33.588088],
+  "bbox": [
+    -112.109881,
+    33.588088,
+    -112.109881,
+    33.588088
+],
   "geometry": {"coordinates":[-112.109881,33.588088],"type":"Point"}
 }

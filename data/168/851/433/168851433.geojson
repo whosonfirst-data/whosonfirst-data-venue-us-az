@@ -2,13 +2,14 @@
   "id": 168851433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.350384,31.685067,-110.350384,31.685067",
     "geom:latitude":31.685067,
     "geom:longitude":-110.350384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2094 State Hwy 90",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168851433,
-    "wof:lastmodified":1449028275,
+    "wof:lastmodified":1466325826,
     "wof:name":"B & D Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.350384,31.685067,-110.350384,31.685067],
-  "geometry": {"coordinates":[-110.350384,31.685067],"type":"Point"}
+  "bbox": [
+    -110.350384,
+    31.685067,
+    -110.350384,
+    31.685067
+],
+  "geometry": {"coordinates":[-110.35038400000001,31.685067],"type":"Point"}
 }

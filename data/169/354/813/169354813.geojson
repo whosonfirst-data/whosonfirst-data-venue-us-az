@@ -2,13 +2,14 @@
   "id": 169354813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047521,33.408515,-112.047521,33.408515",
     "geom:latitude":33.408515,
     "geom:longitude":-112.047521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 E Wood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853813,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85853813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169354813,
-    "wof:lastmodified":1449035581,
+    "wof:lastmodified":1466333520,
     "wof:name":"Greater Love Deliverance Chr",
     "wof:parent_id":85853813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047521,33.408515,-112.047521,33.408515],
+  "bbox": [
+    -112.047521,
+    33.408515,
+    -112.047521,
+    33.408515
+],
   "geometry": {"coordinates":[-112.047521,33.408515],"type":"Point"}
 }

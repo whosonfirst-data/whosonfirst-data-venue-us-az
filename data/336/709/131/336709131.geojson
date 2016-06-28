@@ -2,13 +2,14 @@
   "id": 336709131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020524,33.655833,-112.020524,33.655833",
     "geom:latitude":33.655833,
     "geom:longitude":-112.020524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18617 N 28th Way",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336709131,
-    "wof:lastmodified":1448997162,
+    "wof:lastmodified":1466328187,
     "wof:name":"Hardy Boyz Entertainment",
     "wof:parent_id":85835867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "label"
     ]
 },
-  "bbox": [-112.020524,33.655833,-112.020524,33.655833],
-  "geometry": {"coordinates":[-112.020524,33.655833],"type":"Point"}
+  "bbox": [
+    -112.020524,
+    33.655833,
+    -112.020524,
+    33.655833
+],
+  "geometry": {"coordinates":[-112.02052399999999,33.655833],"type":"Point"}
 }

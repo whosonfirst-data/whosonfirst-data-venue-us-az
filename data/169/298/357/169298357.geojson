@@ -2,13 +2,14 @@
   "id": 169298357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.575246,35.225247,-111.575246,35.225247",
     "geom:latitude":35.225247,
     "geom:longitude":-111.575246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 E Railhead Ave",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169298357,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1466332970,
     "wof:name":"Flagstaff Public Schools",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.575246,35.225247,-111.575246,35.225247],
-  "geometry": {"coordinates":[-111.575246,35.225247],"type":"Point"}
+  "bbox": [
+    -111.575246,
+    35.225247,
+    -111.575246,
+    35.225247
+],
+  "geometry": {"coordinates":[-111.57524600000001,35.225247],"type":"Point"}
 }

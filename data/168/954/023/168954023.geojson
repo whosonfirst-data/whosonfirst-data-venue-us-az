@@ -2,13 +2,14 @@
   "id": 168954023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.816005,32.20633,-110.816005,32.20633",
     "geom:latitude":32.20633,
     "geom:longitude":-110.816005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8230 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168954023,
-    "wof:lastmodified":1449028494,
+    "wof:lastmodified":1466330851,
     "wof:name":"Ppep Tec",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.816005,32.20633,-110.816005,32.20633],
+  "bbox": [
+    -110.816005,
+    32.20633,
+    -110.816005,
+    32.20633
+],
   "geometry": {"coordinates":[-110.816005,32.20633],"type":"Point"}
 }

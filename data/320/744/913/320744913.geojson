@@ -2,13 +2,14 @@
   "id": 320744913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.116962,33.515405,-112.116962,33.515405",
     "geom:latitude":33.515405,
     "geom:longitude":-112.116962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 N 27th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320744913,
-    "wof:lastmodified":1449012621,
+    "wof:lastmodified":1466328777,
     "wof:name":"Express Tires & Wheels",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-112.116962,33.515405,-112.116962,33.515405],
+  "bbox": [
+    -112.116962,
+    33.515405,
+    -112.116962,
+    33.515405
+],
   "geometry": {"coordinates":[-112.116962,33.515405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320634715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.096945,33.451301,-112.096945,33.451301",
     "geom:latitude":33.451301,
     "geom:longitude":-112.096945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 W Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320634715,
-    "wof:lastmodified":1449013039,
+    "wof:lastmodified":1466326646,
     "wof:name":"La Canasta Capitolio",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.096945,33.451301,-112.096945,33.451301],
-  "geometry": {"coordinates":[-112.096945,33.451301],"type":"Point"}
+  "bbox": [
+    -112.096945,
+    33.451301,
+    -112.096945,
+    33.451301
+],
+  "geometry": {"coordinates":[-112.09694500000001,33.451301],"type":"Point"}
 }

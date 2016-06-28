@@ -2,13 +2,14 @@
   "id": 168882841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.796894,32.251297,-110.796894,32.251297",
     "geom:latitude":32.251297,
     "geom:longitude":-110.796894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9141 E Cottonwood Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168882841,
-    "wof:lastmodified":1449027911,
+    "wof:lastmodified":1466328446,
     "wof:name":"Timothy E Weil",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.796894,32.251297,-110.796894,32.251297],
-  "geometry": {"coordinates":[-110.796894,32.251297],"type":"Point"}
+  "bbox": [
+    -110.796894,
+    32.251297,
+    -110.796894,
+    32.251297
+],
+  "geometry": {"coordinates":[-110.79689399999999,32.251297],"type":"Point"}
 }

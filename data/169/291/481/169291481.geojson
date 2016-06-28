@@ -2,13 +2,14 @@
   "id": 169291481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.183797,33.630835,-112.183797,33.630835",
     "geom:latitude":33.630835,
     "geom:longitude":-112.183797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 W Monte Cristo Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877831,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169291481,
-    "wof:lastmodified":1449033707,
+    "wof:lastmodified":1466332889,
     "wof:name":"John Underwood",
     "wof:parent_id":85877831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.183797,33.630835,-112.183797,33.630835],
+  "bbox": [
+    -112.183797,
+    33.630835,
+    -112.183797,
+    33.630835
+],
   "geometry": {"coordinates":[-112.183797,33.630835],"type":"Point"}
 }

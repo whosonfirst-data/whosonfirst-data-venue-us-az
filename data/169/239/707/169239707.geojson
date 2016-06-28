@@ -2,13 +2,14 @@
   "id": 169239707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.970365,32.281414,-110.970365,32.281414",
     "geom:latitude":32.281414,
     "geom:longitude":-110.970365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 N Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169239707,
-    "wof:lastmodified":1449032986,
+    "wof:lastmodified":1466332419,
     "wof:name":"Stone Curves",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.970365,32.281414,-110.970365,32.281414],
+  "bbox": [
+    -110.970365,
+    32.281414,
+    -110.970365,
+    32.281414
+],
   "geometry": {"coordinates":[-110.970365,32.281414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152979439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.958843,32.299789,-110.958843,32.299789",
     "geom:latitude":32.299789,
     "geom:longitude":-110.958843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 E Foothills Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803047,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85803047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152979439,
-    "wof:lastmodified":1449047555,
+    "wof:lastmodified":1466328880,
     "wof:name":"Odyssey Inpatient Hospice Home",
     "wof:parent_id":85803047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.958843,32.299789,-110.958843,32.299789],
+  "bbox": [
+    -110.958843,
+    32.299789,
+    -110.958843,
+    32.299789
+],
   "geometry": {"coordinates":[-110.958843,32.299789],"type":"Point"}
 }

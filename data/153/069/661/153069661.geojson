@@ -2,13 +2,14 @@
   "id": 153069661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976333,33.319947,-111.976333,33.319947",
     "geom:latitude":33.319947,
     "geom:longitude":-111.976333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 E Ray Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876697,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":153069661,
-    "wof:lastmodified":1449040666,
+    "wof:lastmodified":1466328491,
     "wof:name":"Eye Priority",
     "wof:parent_id":85876697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.976333,33.319947,-111.976333,33.319947],
+  "bbox": [
+    -111.976333,
+    33.319947,
+    -111.976333,
+    33.319947
+],
   "geometry": {"coordinates":[-111.976333,33.319947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320701317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111904,33.537785,-112.111904,33.537785",
     "geom:latitude":33.537785,
     "geom:longitude":-112.111904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6845 N Black Canyon Hwy",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320701317,
-    "wof:lastmodified":1449014183,
+    "wof:lastmodified":1466328073,
     "wof:name":"Starving Students",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "household"
     ]
 },
-  "bbox": [-112.111904,33.537785,-112.111904,33.537785],
+  "bbox": [
+    -112.111904,
+    33.537785,
+    -112.111904,
+    33.537785
+],
   "geometry": {"coordinates":[-112.111904,33.537785],"type":"Point"}
 }

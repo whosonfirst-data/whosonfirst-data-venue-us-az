@@ -2,13 +2,14 @@
   "id": 169143797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.86296,32.250728,-110.86296,32.250728",
     "geom:latitude":32.250728,
     "geom:longitude":-110.86296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6039 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hospitalist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169143797,
-    "wof:lastmodified":1449035407,
+    "wof:lastmodified":1466331675,
     "wof:name":"Ipc The Hospitalist Co",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.86296,32.250728,-110.86296,32.250728],
+  "bbox": [
+    -110.86296,
+    32.250728,
+    -110.86296,
+    32.250728
+],
   "geometry": {"coordinates":[-110.86296,32.250728],"type":"Point"}
 }

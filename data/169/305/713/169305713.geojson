@@ -2,13 +2,14 @@
   "id": 169305713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.281462,31.491865,-110.281462,31.491865",
     "geom:latitude":31.491865,
     "geom:longitude":-110.281462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 E Gills Pl",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169305713,
-    "wof:lastmodified":1449033193,
+    "wof:lastmodified":1466333065,
     "wof:name":"Dawson's Video Productions",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.281462,31.491865,-110.281462,31.491865],
+  "bbox": [
+    -110.281462,
+    31.491865,
+    -110.281462,
+    31.491865
+],
   "geometry": {"coordinates":[-110.281462,31.491865],"type":"Point"}
 }

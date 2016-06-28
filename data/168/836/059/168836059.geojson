@@ -2,13 +2,14 @@
   "id": 168836059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861125,33.666311,-111.861125,33.666311",
     "geom:latitude":33.666311,
     "geom:longitude":-111.861125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19936 N 101st Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880935,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168836059,
-    "wof:lastmodified":1449028280,
+    "wof:lastmodified":1466326670,
     "wof:name":"Camelot Homes Verandahs",
     "wof:parent_id":85880935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.861125,33.666311,-111.861125,33.666311],
+  "bbox": [
+    -111.861125,
+    33.666311,
+    -111.861125,
+    33.666311
+],
   "geometry": {"coordinates":[-111.861125,33.666311],"type":"Point"}
 }

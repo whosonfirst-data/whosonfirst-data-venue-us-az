@@ -2,13 +2,14 @@
   "id": 169342303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.771097,33.415528,-111.771097,33.415528",
     "geom:latitude":33.415528,
     "geom:longitude":-111.771097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169342303,
-    "wof:lastmodified":1449035720,
+    "wof:lastmodified":1466333406,
     "wof:name":"Global Freight Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.771097,33.415528,-111.771097,33.415528],
+  "bbox": [
+    -111.771097,
+    33.415528,
+    -111.771097,
+    33.415528
+],
   "geometry": {"coordinates":[-111.771097,33.415528],"type":"Point"}
 }

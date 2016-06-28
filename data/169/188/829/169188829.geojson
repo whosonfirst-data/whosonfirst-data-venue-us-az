@@ -2,13 +2,14 @@
   "id": 169188829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.868949,32.228979,-110.868949,32.228979",
     "geom:latitude":32.228979,
     "geom:longitude":-110.868949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 E 5th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871737,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169188829,
-    "wof:lastmodified":1449034327,
+    "wof:lastmodified":1466332085,
     "wof:name":"Leonard L Brewster DDS",
     "wof:parent_id":85871737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.868949,32.228979,-110.868949,32.228979],
+  "bbox": [
+    -110.868949,
+    32.228979,
+    -110.868949,
+    32.228979
+],
   "geometry": {"coordinates":[-110.868949,32.228979],"type":"Point"}
 }

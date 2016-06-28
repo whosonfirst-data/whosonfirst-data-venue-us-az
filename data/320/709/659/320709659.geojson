@@ -2,13 +2,14 @@
   "id": 320709659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.024349,33.509514,-112.024349,33.509514",
     "geom:latitude":33.509514,
     "geom:longitude":-112.024349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 E Camelback Rd Suite 150",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320709659,
-    "wof:lastmodified":1449012006,
+    "wof:lastmodified":1466328240,
     "wof:name":"American Laser Center",
     "wof:parent_id":85806131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stylist"
     ]
 },
-  "bbox": [-112.024349,33.509514,-112.024349,33.509514],
+  "bbox": [
+    -112.024349,
+    33.509514,
+    -112.024349,
+    33.509514
+],
   "geometry": {"coordinates":[-112.024349,33.509514],"type":"Point"}
 }

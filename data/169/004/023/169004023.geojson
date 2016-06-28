@@ -2,13 +2,14 @@
   "id": 169004023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.13358,33.850895,-112.13358,33.850895",
     "geom:latitude":33.850895,
     "geom:longitude":-112.13358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40308 N Exploration Trl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871003,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169004023,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1466326090,
     "wof:name":"Bella Vita Investments LLC",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.13358,33.850895,-112.13358,33.850895],
-  "geometry": {"coordinates":[-112.13358,33.850895],"type":"Point"}
+  "bbox": [
+    -112.13358,
+    33.850895,
+    -112.13358,
+    33.850895
+],
+  "geometry": {"coordinates":[-112.13357999999999,33.850895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169293923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.967433,33.421881,-111.967433,33.421881",
     "geom:latitude":33.421881,
     "geom:longitude":-111.967433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1797 W University Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881399,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169293923,
-    "wof:lastmodified":1449033340,
+    "wof:lastmodified":1466332994,
     "wof:name":"Above All Floors",
     "wof:parent_id":85881399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.967433,33.421881,-111.967433,33.421881],
+  "bbox": [
+    -111.967433,
+    33.421881,
+    -111.967433,
+    33.421881
+],
   "geometry": {"coordinates":[-111.967433,33.421881],"type":"Point"}
 }

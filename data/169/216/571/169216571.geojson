@@ -2,13 +2,14 @@
   "id": 169216571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.915408,32.150775,-110.915408,32.150775",
     "geom:latitude":32.150775,
     "geom:longitude":-110.915408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 E Benson Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169216571,
-    "wof:lastmodified":1449035578,
+    "wof:lastmodified":1466332230,
     "wof:name":"Choice Market",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.915408,32.150775,-110.915408,32.150775],
+  "bbox": [
+    -110.915408,
+    32.150775,
+    -110.915408,
+    32.150775
+],
   "geometry": {"coordinates":[-110.915408,32.150775],"type":"Point"}
 }

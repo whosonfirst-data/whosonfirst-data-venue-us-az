@@ -2,13 +2,14 @@
   "id": 336653733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00827,33.407101,-112.00827,33.407101",
     "geom:latitude":33.407101,
     "geom:longitude":-112.00827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 E Broadway Rd Ste 4",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336653733,
-    "wof:lastmodified":1448997004,
+    "wof:lastmodified":1466327022,
     "wof:name":"E Merchant Direct",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-112.00827,33.407101,-112.00827,33.407101],
+  "bbox": [
+    -112.00827,
+    33.407101,
+    -112.00827,
+    33.407101
+],
   "geometry": {"coordinates":[-112.00827,33.407101],"type":"Point"}
 }

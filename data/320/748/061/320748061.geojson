@@ -2,13 +2,14 @@
   "id": 320748061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.992105,33.50415,-111.992105,33.50415",
     "geom:latitude":33.50415,
     "geom:longitude":-111.992105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 E Hazelwood St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320748061,
-    "wof:lastmodified":1449014048,
+    "wof:lastmodified":1466329039,
     "wof:name":"Warning Transport, Inc.",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-111.992105,33.50415,-111.992105,33.50415],
+  "bbox": [
+    -111.992105,
+    33.50415,
+    -111.992105,
+    33.50415
+],
   "geometry": {"coordinates":[-111.992105,33.50415],"type":"Point"}
 }

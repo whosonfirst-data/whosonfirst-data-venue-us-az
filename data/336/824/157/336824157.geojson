@@ -2,13 +2,14 @@
   "id": 336824157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.857002,33.3643,-111.857002,33.3643",
     "geom:latitude":33.3643,
     "geom:longitude":-111.857002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 W Guadalupe Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336824157,
-    "wof:lastmodified":1448997309,
+    "wof:lastmodified":1466329798,
     "wof:name":"Orient Video",
     "wof:parent_id":85832561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-111.857002,33.3643,-111.857002,33.3643],
-  "geometry": {"coordinates":[-111.857002,33.3643],"type":"Point"}
+  "bbox": [
+    -111.857002,
+    33.3643,
+    -111.857002,
+    33.3643
+],
+  "geometry": {"coordinates":[-111.85700199999999,33.3643],"type":"Point"}
 }

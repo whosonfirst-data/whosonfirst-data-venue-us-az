@@ -2,13 +2,14 @@
   "id": 153001337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.943346,33.546997,-111.943346,33.546997",
     "geom:latitude":33.546997,
     "geom:longitude":-111.943346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7502 N Invergordon Rd",
     "sg:city":"Paradise Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811043,
+        85688719,
         85633793,
         85917487,
         102087421,
-        85688719
+        85811043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153001337,
-    "wof:lastmodified":1449040445,
+    "wof:lastmodified":1466326719,
     "wof:name":"Fourn Corners Paper Co",
     "wof:parent_id":85811043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.943346,33.546997,-111.943346,33.546997],
-  "geometry": {"coordinates":[-111.943346,33.546997],"type":"Point"}
+  "bbox": [
+    -111.943346,
+    33.546997,
+    -111.943346,
+    33.546997
+],
+  "geometry": {"coordinates":[-111.94334600000001,33.546997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353765051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358238,33.468527,-112.358238,33.468527",
     "geom:latitude":33.468527,
     "geom:longitude":-112.358238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N. Litchfield Rd.",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353765051,
-    "wof:lastmodified":1449019738,
+    "wof:lastmodified":1466330174,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.358238,33.468527,-112.358238,33.468527],
+  "bbox": [
+    -112.358238,
+    33.468527,
+    -112.358238,
+    33.468527
+],
   "geometry": {"coordinates":[-112.358238,33.468527],"type":"Point"}
 }

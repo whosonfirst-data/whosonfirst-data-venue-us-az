@@ -2,13 +2,14 @@
   "id": 168843607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.038346,34.252343,-110.038346,34.252343",
     "geom:latitude":34.252343,
     "geom:longitude":-110.038346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168843607,
-    "wof:lastmodified":1449027838,
+    "wof:lastmodified":1466327387,
     "wof:name":"Show Low Truck Center",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.038346,34.252343,-110.038346,34.252343],
+  "bbox": [
+    -110.038346,
+    34.252343,
+    -110.038346,
+    34.252343
+],
   "geometry": {"coordinates":[-110.038346,34.252343],"type":"Point"}
 }

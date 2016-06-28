@@ -2,13 +2,14 @@
   "id": 168973801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.200939,32.380762,-111.200939,32.380762",
     "geom:latitude":32.380762,
     "geom:longitude":-111.200939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 W Twin Peaks Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cap-az.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168973801,
-    "wof:lastmodified":1449028245,
+    "wof:lastmodified":1466331344,
     "wof:name":"Central Arizona Project",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.200939,32.380762,-111.200939,32.380762],
-  "geometry": {"coordinates":[-111.200939,32.380762],"type":"Point"}
+  "bbox": [
+    -111.200939,
+    32.380762,
+    -111.200939,
+    32.380762
+],
+  "geometry": {"coordinates":[-111.20093900000001,32.380762],"type":"Point"}
 }

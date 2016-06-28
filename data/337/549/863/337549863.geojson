@@ -2,13 +2,14 @@
   "id": 337549863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880947,33.578549,-111.880947,33.578549",
     "geom:latitude":33.578549,
     "geom:longitude":-111.880947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10210 N 92nd St Ste 202",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337549863,
-    "wof:lastmodified":1449027161,
+    "wof:lastmodified":1466326698,
     "wof:name":"Scottsdale Rheumatology Research Ltd",
     "wof:parent_id":85812523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.880947,33.578549,-111.880947,33.578549],
-  "geometry": {"coordinates":[-111.880947,33.578549],"type":"Point"}
+  "bbox": [
+    -111.880947,
+    33.578549,
+    -111.880947,
+    33.578549
+],
+  "geometry": {"coordinates":[-111.88094700000001,33.578549],"type":"Point"}
 }

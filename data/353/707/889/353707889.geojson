@@ -2,13 +2,14 @@
   "id": 353707889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.567343,32.662558,-114.567343,32.662558",
     "geom:latitude":32.662558,
     "geom:longitude":-114.567343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 W 36th St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353707889,
-    "wof:lastmodified":1449020418,
+    "wof:lastmodified":1466329664,
     "wof:name":"Semco South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-114.567343,32.662558,-114.567343,32.662558],
-  "geometry": {"coordinates":[-114.567343,32.662558],"type":"Point"}
+  "bbox": [
+    -114.567343,
+    32.662558,
+    -114.567343,
+    32.662558
+],
+  "geometry": {"coordinates":[-114.56734299999999,32.662558],"type":"Point"}
 }

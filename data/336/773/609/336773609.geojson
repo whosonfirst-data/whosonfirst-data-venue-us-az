@@ -2,13 +2,14 @@
   "id": 336773609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.874295,33.382733,-111.874295,33.382733",
     "geom:latitude":33.382733,
     "geom:longitude":-111.874295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 W Isabella Avenue",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336773609,
-    "wof:lastmodified":1448997060,
+    "wof:lastmodified":1466329352,
     "wof:name":"Extended Stay Hotels",
     "wof:parent_id":85858581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.874295,33.382733,-111.874295,33.382733],
+  "bbox": [
+    -111.874295,
+    33.382733,
+    -111.874295,
+    33.382733
+],
   "geometry": {"coordinates":[-111.874295,33.382733],"type":"Point"}
 }

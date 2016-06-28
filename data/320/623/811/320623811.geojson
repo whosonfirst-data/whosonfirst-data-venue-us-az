@@ -2,13 +2,14 @@
   "id": 320623811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031134,33.469391,-112.031134,33.469391",
     "geom:latitude":33.469391,
     "geom:longitude":-112.031134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2338 E Palm Ln",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320623811,
-    "wof:lastmodified":1449013886,
+    "wof:lastmodified":1466326363,
     "wof:name":"D P Persistence Inc",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-112.031134,33.469391,-112.031134,33.469391],
-  "geometry": {"coordinates":[-112.031134,33.469391],"type":"Point"}
+  "bbox": [
+    -112.031134,
+    33.469391,
+    -112.031134,
+    33.469391
+],
+  "geometry": {"coordinates":[-112.03113399999999,33.469391],"type":"Point"}
 }

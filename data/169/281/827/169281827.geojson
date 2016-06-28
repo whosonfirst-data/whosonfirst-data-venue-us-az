@@ -2,13 +2,14 @@
   "id": 169281827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016708,33.451242,-112.016708,33.451242",
     "geom:latitude":33.451242,
     "geom:longitude":-112.016708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 E Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843765,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85843765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169281827,
-    "wof:lastmodified":1449035461,
+    "wof:lastmodified":1466332853,
     "wof:name":"Alpine Towing",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.016708,33.451242,-112.016708,33.451242],
-  "geometry": {"coordinates":[-112.016708,33.451242],"type":"Point"}
+  "bbox": [
+    -112.016708,
+    33.451242,
+    -112.016708,
+    33.451242
+],
+  "geometry": {"coordinates":[-112.01670799999999,33.451242],"type":"Point"}
 }

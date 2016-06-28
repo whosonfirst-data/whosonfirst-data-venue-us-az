@@ -2,13 +2,14 @@
   "id": 353759689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.300036,33.469928,-112.300036,33.469928",
     "geom:latitude":33.469928,
     "geom:longitude":-112.300036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11187 W Monte Vista Rd",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353759689,
-    "wof:lastmodified":1449020841,
+    "wof:lastmodified":1466330142,
     "wof:name":"Mira Ale Inc",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-112.300036,33.469928,-112.300036,33.469928],
-  "geometry": {"coordinates":[-112.300036,33.469928],"type":"Point"}
+  "bbox": [
+    -112.300036,
+    33.469928,
+    -112.300036,
+    33.469928
+],
+  "geometry": {"coordinates":[-112.30003600000001,33.469928],"type":"Point"}
 }

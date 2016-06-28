@@ -2,13 +2,14 @@
   "id": 320666479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073742,33.510329,-112.073742,33.510329",
     "geom:latitude":33.510329,
     "geom:longitude":-112.073742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5042 N Central Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320666479,
-    "wof:lastmodified":1449012648,
+    "wof:lastmodified":1466327431,
     "wof:name":"Cheese & Stuff",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-112.073742,33.510329,-112.073742,33.510329],
+  "bbox": [
+    -112.073742,
+    33.510329,
+    -112.073742,
+    33.510329
+],
   "geometry": {"coordinates":[-112.073742,33.510329],"type":"Point"}
 }

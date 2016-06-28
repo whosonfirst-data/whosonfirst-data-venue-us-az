@@ -2,13 +2,14 @@
   "id": 169209893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041195,33.465838,-112.041195,33.465838",
     "geom:latitude":33.465838,
     "geom:longitude":-112.041195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867301,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85867301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169209893,
-    "wof:lastmodified":1449035604,
+    "wof:lastmodified":1466332258,
     "wof:name":"Allagada",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.041195,33.465838,-112.041195,33.465838],
+  "bbox": [
+    -112.041195,
+    33.465838,
+    -112.041195,
+    33.465838
+],
   "geometry": {"coordinates":[-112.041195,33.465838],"type":"Point"}
 }

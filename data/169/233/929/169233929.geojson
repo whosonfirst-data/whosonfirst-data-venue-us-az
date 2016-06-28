@@ -2,13 +2,14 @@
   "id": 169233929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.617678,32.721484,-114.617678,32.721484",
     "geom:latitude":32.721484,
     "geom:longitude":-114.617678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Main St",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895871,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169233929,
-    "wof:lastmodified":1449036027,
+    "wof:lastmodified":1466332372,
     "wof:name":"Tour West Travel",
     "wof:parent_id":85895871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.617678,32.721484,-114.617678,32.721484],
+  "bbox": [
+    -114.617678,
+    32.721484,
+    -114.617678,
+    32.721484
+],
   "geometry": {"coordinates":[-114.617678,32.721484],"type":"Point"}
 }

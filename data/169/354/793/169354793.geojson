@@ -2,13 +2,14 @@
   "id": 169354793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.26146,31.68181,-110.26146,31.68181",
     "geom:latitude":31.68181,
     "geom:longitude":-110.26146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2077 N Willcox Rd",
     "sg:city":"Huachuca City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169354793,
-    "wof:lastmodified":1449035581,
+    "wof:lastmodified":1466333519,
     "wof:name":"Dessert Creek Auto Access",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.26146,31.68181,-110.26146,31.68181],
+  "bbox": [
+    -110.26146,
+    31.68181,
+    -110.26146,
+    31.68181
+],
   "geometry": {"coordinates":[-110.26146,31.68181],"type":"Point"}
 }

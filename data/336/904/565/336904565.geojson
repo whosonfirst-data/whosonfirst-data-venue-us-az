@@ -2,13 +2,14 @@
   "id": 336904565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895519,33.325912,-111.895519,33.325912",
     "geom:latitude":33.325912,
     "geom:longitude":-111.895519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 W Ironwood Cir",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336904565,
-    "wof:lastmodified":1448998045,
+    "wof:lastmodified":1466330610,
     "wof:name":"Falcon Fabrics",
     "wof:parent_id":85853371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "textiles-manufacturers"
     ]
 },
-  "bbox": [-111.895519,33.325912,-111.895519,33.325912],
-  "geometry": {"coordinates":[-111.895519,33.325912],"type":"Point"}
+  "bbox": [
+    -111.895519,
+    33.325912,
+    -111.895519,
+    33.325912
+],
+  "geometry": {"coordinates":[-111.89551899999999,33.325912],"type":"Point"}
 }

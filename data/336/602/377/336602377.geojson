@@ -2,13 +2,14 @@
   "id": 336602377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.978806,33.626026,-111.978806,33.626026",
     "geom:latitude":33.626026,
     "geom:longitude":-111.978806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4757 E Greenway Rd Ste 103",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":336602377,
-    "wof:lastmodified":1448997454,
+    "wof:lastmodified":1466326011,
     "wof:name":"PostNet - Printing & Copy Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "receiving"
     ]
 },
-  "bbox": [-111.978806,33.626026,-111.978806,33.626026],
-  "geometry": {"coordinates":[-111.978806,33.626026],"type":"Point"}
+  "bbox": [
+    -111.978806,
+    33.626026,
+    -111.978806,
+    33.626026
+],
+  "geometry": {"coordinates":[-111.97880600000001,33.626026],"type":"Point"}
 }

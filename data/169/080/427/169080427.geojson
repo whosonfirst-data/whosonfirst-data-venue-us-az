@@ -2,13 +2,14 @@
   "id": 169080427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.024529,34.244893,-110.024529,34.244893",
     "geom:latitude":34.244893,
     "geom:longitude":-110.024529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S White Mountain Rd",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169080427,
-    "wof:lastmodified":1449035873,
+    "wof:lastmodified":1466329934,
     "wof:name":"Tack Shop",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.024529,34.244893,-110.024529,34.244893],
+  "bbox": [
+    -110.024529,
+    34.244893,
+    -110.024529,
+    34.244893
+],
   "geometry": {"coordinates":[-110.024529,34.244893],"type":"Point"}
 }

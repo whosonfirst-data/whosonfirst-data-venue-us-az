@@ -2,13 +2,14 @@
   "id": 169111613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.604845,35.107965,-114.604845,35.107965",
     "geom:latitude":35.107965,
     "geom:longitude":-114.604845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Hancock Rd",
     "sg:city":"Bullhead City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169111613,
-    "wof:lastmodified":1449036074,
+    "wof:lastmodified":1466331227,
     "wof:name":"O 2 Science",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.604845,35.107965,-114.604845,35.107965],
+  "bbox": [
+    -114.604845,
+    35.107965,
+    -114.604845,
+    35.107965
+],
   "geometry": {"coordinates":[-114.604845,35.107965],"type":"Point"}
 }

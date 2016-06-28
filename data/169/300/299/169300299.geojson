@@ -2,13 +2,14 @@
   "id": 169300299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.993166,32.417581,-110.993166,32.417581",
     "geom:latitude":32.417581,
     "geom:longitude":-110.993166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1257 W Crystalline Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169300299,
-    "wof:lastmodified":1449034546,
+    "wof:lastmodified":1466333237,
     "wof:name":"Cedar Products",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.993166,32.417581,-110.993166,32.417581],
+  "bbox": [
+    -110.993166,
+    32.417581,
+    -110.993166,
+    32.417581
+],
   "geometry": {"coordinates":[-110.993166,32.417581],"type":"Point"}
 }

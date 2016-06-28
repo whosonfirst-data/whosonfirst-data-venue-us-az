@@ -2,13 +2,14 @@
   "id": 320680861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082474,33.513882,-112.082474,33.513882",
     "geom:latitude":33.513882,
     "geom:longitude":-112.082474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5229 N 7th Ave #108",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320680861,
-    "wof:lastmodified":1449013885,
+    "wof:lastmodified":1466327951,
     "wof:name":"76 Mortgage",
     "wof:parent_id":85866821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-112.082474,33.513882,-112.082474,33.513882],
+  "bbox": [
+    -112.082474,
+    33.513882,
+    -112.082474,
+    33.513882
+],
   "geometry": {"coordinates":[-112.082474,33.513882],"type":"Point"}
 }

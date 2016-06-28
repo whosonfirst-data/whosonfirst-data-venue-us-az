@@ -2,13 +2,14 @@
   "id": 353721539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.408965,33.627384,-112.408965,33.627384",
     "geom:latitude":33.627384,
     "geom:longitude":-112.408965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15768 N 162nd Ln",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353721539,
-    "wof:lastmodified":1449020789,
+    "wof:lastmodified":1466329760,
     "wof:name":"Michael Kirkham & Associates Inc",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [-112.408965,33.627384,-112.408965,33.627384],
-  "geometry": {"coordinates":[-112.408965,33.627384],"type":"Point"}
+  "bbox": [
+    -112.408965,
+    33.627384,
+    -112.408965,
+    33.627384
+],
+  "geometry": {"coordinates":[-112.40896499999999,33.627384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169145067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.938148,32.286721,-110.938148,32.286721",
     "geom:latitude":32.286721,
     "geom:longitude":-110.938148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 E River Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169145067,
-    "wof:lastmodified":1449033690,
+    "wof:lastmodified":1466331687,
     "wof:name":"River Elks LLC",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.938148,32.286721,-110.938148,32.286721],
+  "bbox": [
+    -110.938148,
+    32.286721,
+    -110.938148,
+    32.286721
+],
   "geometry": {"coordinates":[-110.938148,32.286721],"type":"Point"}
 }

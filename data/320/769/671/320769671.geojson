@@ -2,13 +2,14 @@
   "id": 320769671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.067368,33.56958,-112.067368,33.56958",
     "geom:latitude":33.56958,
     "geom:longitude":-112.067368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 N 5th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":320769671,
-    "wof:lastmodified":1449012515,
+    "wof:lastmodified":1466329233,
     "wof:name":"John C Lincoln Health Network",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-112.067368,33.56958,-112.067368,33.56958],
+  "bbox": [
+    -112.067368,
+    33.56958,
+    -112.067368,
+    33.56958
+],
   "geometry": {"coordinates":[-112.067368,33.56958],"type":"Point"}
 }

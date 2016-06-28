@@ -2,13 +2,14 @@
   "id": 336881155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.825803,33.335287,-111.825803,33.335287",
     "geom:latitude":33.335287,
     "geom:longitude":-111.825803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E Warner Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336881155,
-    "wof:lastmodified":1448997563,
+    "wof:lastmodified":1466330129,
     "wof:name":"Aloure Studio",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "listing"
     ]
 },
-  "bbox": [-111.825803,33.335287,-111.825803,33.335287],
-  "geometry": {"coordinates":[-111.825803,33.335287],"type":"Point"}
+  "bbox": [
+    -111.825803,
+    33.335287,
+    -111.825803,
+    33.335287
+],
+  "geometry": {"coordinates":[-111.82580299999999,33.335287],"type":"Point"}
 }

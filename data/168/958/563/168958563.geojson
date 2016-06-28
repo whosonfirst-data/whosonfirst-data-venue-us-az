@@ -2,13 +2,14 @@
   "id": 168958563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.168999,33.362568,-112.168999,33.362568",
     "geom:latitude":33.362568,
     "geom:longitude":-112.168999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 S 51st Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829975,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85829975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168958563,
-    "wof:lastmodified":1449028411,
+    "wof:lastmodified":1466331119,
     "wof:name":"Laveen Elementary School",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.168999,33.362568,-112.168999,33.362568],
+  "bbox": [
+    -112.168999,
+    33.362568,
+    -112.168999,
+    33.362568
+],
   "geometry": {"coordinates":[-112.168999,33.362568],"type":"Point"}
 }

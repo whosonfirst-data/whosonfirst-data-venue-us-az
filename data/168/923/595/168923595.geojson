@@ -2,13 +2,14 @@
   "id": 168923595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.137756,33.49499,-112.137756,33.49499",
     "geom:latitude":33.49499,
     "geom:longitude":-112.137756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 W Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.shastapools.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802699,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":168923595,
-    "wof:lastmodified":1449028563,
+    "wof:lastmodified":1466330246,
     "wof:name":"Master Pools By Shasta",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.137756,33.49499,-112.137756,33.49499],
+  "bbox": [
+    -112.137756,
+    33.49499,
+    -112.137756,
+    33.49499
+],
   "geometry": {"coordinates":[-112.137756,33.49499],"type":"Point"}
 }

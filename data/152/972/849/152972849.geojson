@@ -2,13 +2,14 @@
   "id": 152972849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.938027,32.221545,-110.938027,32.221545",
     "geom:latitude":32.221545,
     "geom:longitude":-110.938027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152972849,
-    "wof:lastmodified":1449046622,
+    "wof:lastmodified":1466328540,
     "wof:name":"Epic Lending Svc LLC",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.938027,32.221545,-110.938027,32.221545],
-  "geometry": {"coordinates":[-110.938027,32.221545],"type":"Point"}
+  "bbox": [
+    -110.938027,
+    32.221545,
+    -110.938027,
+    32.221545
+],
+  "geometry": {"coordinates":[-110.93802700000001,32.221545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152989297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341793,33.592808,-112.341793,33.592808",
     "geom:latitude":33.592808,
     "geom:longitude":-112.341793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11405 N Dysart Rd",
     "sg:city":"El Mirage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822123,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85822123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152989297,
-    "wof:lastmodified":1449047692,
+    "wof:lastmodified":1466329633,
     "wof:name":"Dysart Unified School Dist 89",
     "wof:parent_id":85822123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.341793,33.592808,-112.341793,33.592808],
+  "bbox": [
+    -112.341793,
+    33.592808,
+    -112.341793,
+    33.592808
+],
   "geometry": {"coordinates":[-112.341793,33.592808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168845591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.358387,33.437792,-112.358387,33.437792",
     "geom:latitude":33.437792,
     "geom:longitude":-112.358387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 N Litchfield Rd",
     "sg:city":"Goodyear",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830853,
+        85688719,
         85633793,
         85917505,
         102087421,
-        85688719
+        85830853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168845591,
-    "wof:lastmodified":1449027899,
+    "wof:lastmodified":1466327549,
     "wof:name":"Frys Pharmacies",
     "wof:parent_id":85830853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.358387,33.437792,-112.358387,33.437792],
-  "geometry": {"coordinates":[-112.358387,33.437792],"type":"Point"}
+  "bbox": [
+    -112.358387,
+    33.437792,
+    -112.358387,
+    33.437792
+],
+  "geometry": {"coordinates":[-112.35838699999999,33.437792],"type":"Point"}
 }

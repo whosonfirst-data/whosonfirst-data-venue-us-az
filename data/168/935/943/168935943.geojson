@@ -2,13 +2,14 @@
   "id": 168935943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.755982,33.6373,-111.755982,33.6373",
     "geom:latitude":33.6373,
     "geom:longitude":-111.755982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15041 Marathon Dr",
     "sg:city":"Fountain Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880955,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168935943,
-    "wof:lastmodified":1449028439,
+    "wof:lastmodified":1466330704,
     "wof:name":"Cornerstone Sub Contracti",
     "wof:parent_id":85880955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.755982,33.6373,-111.755982,33.6373],
+  "bbox": [
+    -111.755982,
+    33.6373,
+    -111.755982,
+    33.6373
+],
   "geometry": {"coordinates":[-111.755982,33.6373],"type":"Point"}
 }

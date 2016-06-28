@@ -2,13 +2,14 @@
   "id": 169201907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995284,32.301149,-110.995284,32.301149",
     "geom:latitude":32.301149,
     "geom:longitude":-110.995284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 W Roller Coaster Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169201907,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466332306,
     "wof:name":"Scandaliato Design Group",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995284,32.301149,-110.995284,32.301149],
+  "bbox": [
+    -110.995284,
+    32.301149,
+    -110.995284,
+    32.301149
+],
   "geometry": {"coordinates":[-110.995284,32.301149],"type":"Point"}
 }

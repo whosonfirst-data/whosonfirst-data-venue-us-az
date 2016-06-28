@@ -2,13 +2,14 @@
   "id": 336839741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.873001,33.301998,-111.873001,33.301998",
     "geom:latitude":33.301998,
     "geom:longitude":-111.873001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 W Boston St Ofc",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336839741,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466329822,
     "wof:name":"Boston Square Apartments",
     "wof:parent_id":85876639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-111.873001,33.301998,-111.873001,33.301998],
+  "bbox": [
+    -111.873001,
+    33.301998,
+    -111.873001,
+    33.301998
+],
   "geometry": {"coordinates":[-111.873001,33.301998],"type":"Point"}
 }

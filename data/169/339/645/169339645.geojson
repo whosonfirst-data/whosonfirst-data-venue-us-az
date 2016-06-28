@@ -2,13 +2,14 @@
   "id": 169339645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.055484,32.395184,-111.055484,32.395184",
     "geom:latitude":32.395184,
     "geom:longitude":-111.055484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 N Oldfather Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169339645,
-    "wof:lastmodified":1449034141,
+    "wof:lastmodified":1466333378,
     "wof:name":"Foster Enterprises",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.055484,32.395184,-111.055484,32.395184],
-  "geometry": {"coordinates":[-111.055484,32.395184],"type":"Point"}
+  "bbox": [
+    -111.055484,
+    32.395184,
+    -111.055484,
+    32.395184
+],
+  "geometry": {"coordinates":[-111.05548400000001,32.395184],"type":"Point"}
 }

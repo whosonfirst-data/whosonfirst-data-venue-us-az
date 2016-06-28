@@ -2,13 +2,14 @@
   "id": 152931937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.995555,31.870472,-110.995555,31.870472",
     "geom:latitude":31.870472,
     "geom:longitude":-110.995555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Esperanza Blvd",
     "sg:city":"Green Valley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gvccumc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871753,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152931937,
-    "wof:lastmodified":1449048505,
+    "wof:lastmodified":1466326112,
     "wof:name":"Green Valley Community Church",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.995555,31.870472,-110.995555,31.870472],
+  "bbox": [
+    -110.995555,
+    31.870472,
+    -110.995555,
+    31.870472
+],
   "geometry": {"coordinates":[-110.995555,31.870472],"type":"Point"}
 }

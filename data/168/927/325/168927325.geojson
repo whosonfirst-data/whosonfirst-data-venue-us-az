@@ -2,13 +2,14 @@
   "id": 168927325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.290205,34.474244,-114.290205,34.474244",
     "geom:latitude":34.474244,
     "geom:longitude":-114.290205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3133 Chemehuevi Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168927325,
-    "wof:lastmodified":1449028509,
+    "wof:lastmodified":1466330544,
     "wof:name":"Carpet Genie",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.290205,34.474244,-114.290205,34.474244],
+  "bbox": [
+    -114.290205,
+    34.474244,
+    -114.290205,
+    34.474244
+],
   "geometry": {"coordinates":[-114.290205,34.474244],"type":"Point"}
 }

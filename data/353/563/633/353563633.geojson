@@ -2,13 +2,14 @@
   "id": 353563633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203043,33.547965,-112.203043,33.547965",
     "geom:latitude":33.547965,
     "geom:longitude":-112.203043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7637 N 67th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353563633,
-    "wof:lastmodified":1449018297,
+    "wof:lastmodified":1466328134,
     "wof:name":"Schwan's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-112.203043,33.547965,-112.203043,33.547965],
-  "geometry": {"coordinates":[-112.203043,33.547965],"type":"Point"}
+  "bbox": [
+    -112.203043,
+    33.547965,
+    -112.203043,
+    33.547965
+],
+  "geometry": {"coordinates":[-112.20304299999999,33.547965],"type":"Point"}
 }

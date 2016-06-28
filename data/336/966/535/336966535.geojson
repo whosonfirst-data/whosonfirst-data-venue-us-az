@@ -2,13 +2,14 @@
   "id": 336966535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.917523,33.500758,-111.917523,33.500758",
     "geom:latitude":33.500758,
     "geom:longitude":-111.917523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4436 N Miller Rd Ste 104",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336966535,
-    "wof:lastmodified":1448996926,
+    "wof:lastmodified":1466330819,
     "wof:name":"Secret's Consignment Boutique",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hand"
     ]
 },
-  "bbox": [-111.917523,33.500758,-111.917523,33.500758],
+  "bbox": [
+    -111.917523,
+    33.500758,
+    -111.917523,
+    33.500758
+],
   "geometry": {"coordinates":[-111.917523,33.500758],"type":"Point"}
 }

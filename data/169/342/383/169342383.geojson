@@ -2,13 +2,14 @@
   "id": 169342383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.957902,32.177809,-110.957902,32.177809",
     "geom:latitude":32.177809,
     "geom:longitude":-110.957902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 E Ajo Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.handlingsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169342383,
-    "wof:lastmodified":1449035725,
+    "wof:lastmodified":1466333415,
     "wof:name":"Handling Systems Inc",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.957902,32.177809,-110.957902,32.177809],
+  "bbox": [
+    -110.957902,
+    32.177809,
+    -110.957902,
+    32.177809
+],
   "geometry": {"coordinates":[-110.957902,32.177809],"type":"Point"}
 }

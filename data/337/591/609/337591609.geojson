@@ -2,13 +2,14 @@
   "id": 337591609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.889416,33.629799,-111.889416,33.629799",
     "geom:latitude":33.629799,
     "geom:longitude":-111.889416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14500 N Frank Lloyd Wright Blvd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":337591609,
-    "wof:lastmodified":1449027378,
+    "wof:lastmodified":1466327040,
     "wof:name":"Sierra Pointe Retirement Community",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "homes-elderly"
     ]
 },
-  "bbox": [-111.889416,33.629799,-111.889416,33.629799],
+  "bbox": [
+    -111.889416,
+    33.629799,
+    -111.889416,
+    33.629799
+],
   "geometry": {"coordinates":[-111.889416,33.629799],"type":"Point"}
 }

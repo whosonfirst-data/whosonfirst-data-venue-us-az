@@ -2,13 +2,14 @@
   "id": 353838835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.849436,32.183026,-110.849436,32.183026",
     "geom:latitude":32.183026,
     "geom:longitude":-110.849436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 S Mann Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353838835,
-    "wof:lastmodified":1449018558,
+    "wof:lastmodified":1466330716,
     "wof:name":"Erickson Head Start",
     "wof:parent_id":85843803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-110.849436,32.183026,-110.849436,32.183026],
+  "bbox": [
+    -110.849436,
+    32.183026,
+    -110.849436,
+    32.183026
+],
   "geometry": {"coordinates":[-110.849436,32.183026],"type":"Point"}
 }

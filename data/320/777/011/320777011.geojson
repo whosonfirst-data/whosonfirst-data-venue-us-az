@@ -2,13 +2,14 @@
   "id": 320777011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056684,33.566013,-112.056684,33.566013",
     "geom:latitude":33.566013,
     "geom:longitude":-112.056684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8925 N 12th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320777011,
-    "wof:lastmodified":1449013235,
+    "wof:lastmodified":1466329369,
     "wof:name":"Sunset Bowl",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.056684,33.566013,-112.056684,33.566013],
+  "bbox": [
+    -112.056684,
+    33.566013,
+    -112.056684,
+    33.566013
+],
   "geometry": {"coordinates":[-112.056684,33.566013],"type":"Point"}
 }

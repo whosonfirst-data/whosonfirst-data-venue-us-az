@@ -2,13 +2,14 @@
   "id": 353439113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.924223,33.381479,-111.924223,33.381479",
     "geom:latitude":33.381479,
     "geom:longitude":-111.924223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 S Lakeshore Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353439113,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466326568,
     "wof:name":"The Fairchild Company Inc",
     "wof:parent_id":85881387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-111.924223,33.381479,-111.924223,33.381479],
+  "bbox": [
+    -111.924223,
+    33.381479,
+    -111.924223,
+    33.381479
+],
   "geometry": {"coordinates":[-111.924223,33.381479],"type":"Point"}
 }

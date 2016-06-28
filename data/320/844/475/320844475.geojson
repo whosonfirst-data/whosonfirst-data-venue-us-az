@@ -2,13 +2,14 @@
   "id": 320844475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124203,33.581829,-112.124203,33.581829",
     "geom:latitude":33.581829,
     "geom:longitude":-112.124203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3029 W Peoria Ave Ce",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320844475,
-    "wof:lastmodified":1449012850,
+    "wof:lastmodified":1466330210,
     "wof:name":"Camera Co",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.124203,33.581829,-112.124203,33.581829],
-  "geometry": {"coordinates":[-112.124203,33.581829],"type":"Point"}
+  "bbox": [
+    -112.124203,
+    33.581829,
+    -112.124203,
+    33.581829
+],
+  "geometry": {"coordinates":[-112.12420299999999,33.581829],"type":"Point"}
 }

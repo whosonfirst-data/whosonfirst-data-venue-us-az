@@ -2,13 +2,14 @@
   "id": 353636877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.953797,33.827589,-111.953797,33.827589",
     "geom:latitude":33.827589,
     "geom:longitude":-111.953797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37645 N Cave Creek Rd",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353636877,
-    "wof:lastmodified":1449019279,
+    "wof:lastmodified":1466328945,
     "wof:name":"Los Mesquites Taqueria",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-111.953797,33.827589,-111.953797,33.827589],
-  "geometry": {"coordinates":[-111.953797,33.827589],"type":"Point"}
+  "bbox": [
+    -111.953797,
+    33.827589,
+    -111.953797,
+    33.827589
+],
+  "geometry": {"coordinates":[-111.95379699999999,33.827589],"type":"Point"}
 }

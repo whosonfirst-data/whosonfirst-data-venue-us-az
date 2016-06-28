@@ -2,13 +2,14 @@
   "id": 353690495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.300071,33.595888,-112.300071,33.595888",
     "geom:latitude":33.595888,
     "geom:longitude":-112.300071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11116 W California Ave",
     "sg:city":"Youngtown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353690495,
-    "wof:lastmodified":1449019606,
+    "wof:lastmodified":1466329549,
     "wof:name":"Load Training",
     "wof:parent_id":85802501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-112.300071,33.595888,-112.300071,33.595888],
+  "bbox": [
+    -112.300071,
+    33.595888,
+    -112.300071,
+    33.595888
+],
   "geometry": {"coordinates":[-112.300071,33.595888],"type":"Point"}
 }

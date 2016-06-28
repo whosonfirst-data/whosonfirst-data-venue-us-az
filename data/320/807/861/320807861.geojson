@@ -2,13 +2,14 @@
   "id": 320807861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.104012,33.64016,-112.104012,33.64016",
     "geom:latitude":33.64016,
     "geom:longitude":-112.104012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 W Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320807861,
-    "wof:lastmodified":1449012222,
+    "wof:lastmodified":1466329774,
     "wof:name":"Bell Road Scion",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "car"
     ]
 },
-  "bbox": [-112.104012,33.64016,-112.104012,33.64016],
+  "bbox": [
+    -112.104012,
+    33.64016,
+    -112.104012,
+    33.64016
+],
   "geometry": {"coordinates":[-112.104012,33.64016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353784117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.879888,31.428394,-109.879888,31.428394",
     "geom:latitude":31.428394,
     "geom:longitude":-109.879888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 F St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353784117,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1466330329,
     "wof:name":"Rancho De Las Fincas",
     "wof:parent_id":85846611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.879888,31.428394,-109.879888,31.428394],
-  "geometry": {"coordinates":[-109.879888,31.428394],"type":"Point"}
+  "bbox": [
+    -109.879888,
+    31.428394,
+    -109.879888,
+    31.428394
+],
+  "geometry": {"coordinates":[-109.87988799999999,31.428394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168937833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.041977,32.211504,-111.041977,32.211504",
     "geom:latitude":32.211504,
     "geom:longitude":-111.041977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3587 W Deer Crossing Ct",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817711,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85817711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168937833,
-    "wof:lastmodified":1449027919,
+    "wof:lastmodified":1466330738,
     "wof:name":"JMJ Auto Sales LLC",
     "wof:parent_id":85817711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.041977,32.211504,-111.041977,32.211504],
+  "bbox": [
+    -111.041977,
+    32.211504,
+    -111.041977,
+    32.211504
+],
   "geometry": {"coordinates":[-111.041977,32.211504],"type":"Point"}
 }

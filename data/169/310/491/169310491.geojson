@@ -2,13 +2,14 @@
   "id": 169310491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.124167,33.648741,-112.124167,33.648741",
     "geom:latitude":33.648741,
     "geom:longitude":-112.124167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 W Charleston Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169310491,
-    "wof:lastmodified":1449034715,
+    "wof:lastmodified":1466333096,
     "wof:name":"Dahl's Painting Inc",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.124167,33.648741,-112.124167,33.648741],
+  "bbox": [
+    -112.124167,
+    33.648741,
+    -112.124167,
+    33.648741
+],
   "geometry": {"coordinates":[-112.124167,33.648741],"type":"Point"}
 }

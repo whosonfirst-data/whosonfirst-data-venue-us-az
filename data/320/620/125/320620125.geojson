@@ -2,13 +2,14 @@
   "id": 320620125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068483,33.467519,-112.068483,33.467519",
     "geom:latitude":33.467519,
     "geom:longitude":-112.068483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 E Coronado Rd Ste 200",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320620125,
-    "wof:lastmodified":1449014642,
+    "wof:lastmodified":1466326263,
     "wof:name":"Jim West & Company",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobbyist"
     ]
 },
-  "bbox": [-112.068483,33.467519,-112.068483,33.467519],
+  "bbox": [
+    -112.068483,
+    33.467519,
+    -112.068483,
+    33.467519
+],
   "geometry": {"coordinates":[-112.068483,33.467519],"type":"Point"}
 }

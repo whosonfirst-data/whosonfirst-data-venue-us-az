@@ -2,13 +2,14 @@
   "id": 320729335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.037084,33.48027,-112.037084,33.48027",
     "geom:latitude":33.48027,
     "geom:longitude":-112.037084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2044 E Thomas Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320729335,
-    "wof:lastmodified":1449013140,
+    "wof:lastmodified":1466328495,
     "wof:name":"Mundo Cellular",
     "wof:parent_id":85867301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "cellular"
     ]
 },
-  "bbox": [-112.037084,33.48027,-112.037084,33.48027],
-  "geometry": {"coordinates":[-112.037084,33.48027],"type":"Point"}
+  "bbox": [
+    -112.037084,
+    33.48027,
+    -112.037084,
+    33.48027
+],
+  "geometry": {"coordinates":[-112.03708399999999,33.48027],"type":"Point"}
 }

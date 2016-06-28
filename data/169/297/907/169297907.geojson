@@ -2,13 +2,14 @@
   "id": 169297907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938882,33.592746,-111.938882,33.592746",
     "geom:latitude":33.592746,
     "geom:longitude":-111.938882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12015 N 66th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880973,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169297907,
-    "wof:lastmodified":1449034790,
+    "wof:lastmodified":1466333104,
     "wof:name":"Ken Berger Restorations",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.938882,33.592746,-111.938882,33.592746],
-  "geometry": {"coordinates":[-111.938882,33.592746],"type":"Point"}
+  "bbox": [
+    -111.938882,
+    33.592746,
+    -111.938882,
+    33.592746
+],
+  "geometry": {"coordinates":[-111.93888200000001,33.592746],"type":"Point"}
 }

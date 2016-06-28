@@ -2,13 +2,14 @@
   "id": 336761905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890615,33.378687,-111.890615,33.378687",
     "geom:latitude":33.378687,
     "geom:longitude":-111.890615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 W Baseline Rd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336761905,
-    "wof:lastmodified":1448997774,
+    "wof:lastmodified":1466329259,
     "wof:name":"Asian Acupressure and Massage",
     "wof:parent_id":85828681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-111.890615,33.378687,-111.890615,33.378687],
+  "bbox": [
+    -111.890615,
+    33.378687,
+    -111.890615,
+    33.378687
+],
   "geometry": {"coordinates":[-111.890615,33.378687],"type":"Point"}
 }

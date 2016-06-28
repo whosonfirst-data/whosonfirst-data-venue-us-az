@@ -2,13 +2,14 @@
   "id": 169110737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.000993,32.266654,-111.000993,32.266654",
     "geom:latitude":32.266654,
     "geom:longitude":-111.000993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3245 N Gypsy Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851087,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85851087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169110737,
-    "wof:lastmodified":1449033771,
+    "wof:lastmodified":1466331193,
     "wof:name":"Maureen's Pro Housecleaning",
     "wof:parent_id":85851087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.000993,32.266654,-111.000993,32.266654],
-  "geometry": {"coordinates":[-111.000993,32.266654],"type":"Point"}
+  "bbox": [
+    -111.000993,
+    32.266654,
+    -111.000993,
+    32.266654
+],
+  "geometry": {"coordinates":[-111.00099299999999,32.266654],"type":"Point"}
 }

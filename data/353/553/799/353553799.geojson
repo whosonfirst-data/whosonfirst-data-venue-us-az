@@ -2,13 +2,14 @@
   "id": 353553799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.200601,33.538368,-112.200601,33.538368",
     "geom:latitude":33.538368,
     "geom:longitude":-112.200601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 W. Glendale Ave #6",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353553799,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1466328292,
     "wof:name":"The Tattoo Spot & Piercing",
     "wof:parent_id":85877805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "make-up"
     ]
 },
-  "bbox": [-112.200601,33.538368,-112.200601,33.538368],
-  "geometry": {"coordinates":[-112.200601,33.538368],"type":"Point"}
+  "bbox": [
+    -112.200601,
+    33.538368,
+    -112.200601,
+    33.538368
+],
+  "geometry": {"coordinates":[-112.20060100000001,33.538368],"type":"Point"}
 }

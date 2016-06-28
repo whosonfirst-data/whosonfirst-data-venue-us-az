@@ -2,13 +2,14 @@
   "id": 336747643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016989,33.056687,-112.016989,33.056687",
     "geom:latitude":33.056687,
     "geom:longitude":-112.016989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41895 W Avella Dr",
     "sg:city":"Maricopa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336747643,
-    "wof:lastmodified":1448997142,
+    "wof:lastmodified":1466328754,
     "wof:name":"Gomez Painting",
     "wof:parent_id":85802541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.016989,33.056687,-112.016989,33.056687],
+  "bbox": [
+    -112.016989,
+    33.056687,
+    -112.016989,
+    33.056687
+],
   "geometry": {"coordinates":[-112.016989,33.056687],"type":"Point"}
 }

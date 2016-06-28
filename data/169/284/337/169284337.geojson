@@ -2,13 +2,14 @@
   "id": 169284337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.615926,32.695242,-114.615926,32.695242",
     "geom:latitude":32.695242,
     "geom:longitude":-114.615926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1749 S Arizona Ave",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895861,
+        85688719,
         85633793,
         85917319,
         102081527,
-        85688719
+        85895861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169284337,
-    "wof:lastmodified":1449034734,
+    "wof:lastmodified":1466332852,
     "wof:name":"Sunset Mobile Homes Company",
     "wof:parent_id":85895861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.615926,32.695242,-114.615926,32.695242],
+  "bbox": [
+    -114.615926,
+    32.695242,
+    -114.615926,
+    32.695242
+],
   "geometry": {"coordinates":[-114.615926,32.695242],"type":"Point"}
 }

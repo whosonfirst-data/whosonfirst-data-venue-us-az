@@ -2,13 +2,14 @@
   "id": 168881159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.591802,35.185083,-111.591802,35.185083",
     "geom:latitude":35.185083,
     "geom:longitude":-111.591802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 E Lake Country Rd",
     "sg:city":"Flagstaff",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816303,
+        85688719,
         85633793,
         85917421,
         102086831,
-        85688719
+        85816303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168881159,
-    "wof:lastmodified":1449028225,
+    "wof:lastmodified":1466328322,
     "wof:name":"Star Technology Windshield",
     "wof:parent_id":85816303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.591802,35.185083,-111.591802,35.185083],
+  "bbox": [
+    -111.591802,
+    35.185083,
+    -111.591802,
+    35.185083
+],
   "geometry": {"coordinates":[-111.591802,35.185083],"type":"Point"}
 }

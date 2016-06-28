@@ -2,13 +2,14 @@
   "id": 168898243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.173419,33.587686,-112.173419,33.587686",
     "geom:latitude":33.587686,
     "geom:longitude":-112.173419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5316 W Yucca St",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832555,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85832555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168898243,
-    "wof:lastmodified":1449027762,
+    "wof:lastmodified":1466329534,
     "wof:name":"Dynamic Air Conditioning & Htg",
     "wof:parent_id":85832555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.173419,33.587686,-112.173419,33.587686],
+  "bbox": [
+    -112.173419,
+    33.587686,
+    -112.173419,
+    33.587686
+],
   "geometry": {"coordinates":[-112.173419,33.587686],"type":"Point"}
 }

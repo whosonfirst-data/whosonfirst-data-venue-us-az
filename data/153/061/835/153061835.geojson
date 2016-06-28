@@ -2,13 +2,14 @@
   "id": 153061835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943824,32.213427,-110.943824,32.213427",
     "geom:latitude":32.213427,
     "geom:longitude":-110.943824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 E 17th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.irlabs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":153061835,
-    "wof:lastmodified":1449040688,
+    "wof:lastmodified":1466328086,
     "wof:name":"Infrared Laboratories Inc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943824,32.213427,-110.943824,32.213427],
-  "geometry": {"coordinates":[-110.943824,32.213427],"type":"Point"}
+  "bbox": [
+    -110.943824,
+    32.213427,
+    -110.943824,
+    32.213427
+],
+  "geometry": {"coordinates":[-110.94382400000001,32.213427],"type":"Point"}
 }

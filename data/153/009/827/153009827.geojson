@@ -2,13 +2,14 @@
   "id": 153009827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.830562,33.415168,-111.830562,33.415168",
     "geom:latitude":33.415168,
     "geom:longitude":-111.830562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872459,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153009827,
-    "wof:lastmodified":1449040813,
+    "wof:lastmodified":1466326081,
     "wof:name":"Mesa City Manager",
     "wof:parent_id":85872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.830562,33.415168,-111.830562,33.415168],
+  "bbox": [
+    -111.830562,
+    33.415168,
+    -111.830562,
+    33.415168
+],
   "geometry": {"coordinates":[-111.830562,33.415168],"type":"Point"}
 }

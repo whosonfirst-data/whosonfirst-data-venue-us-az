@@ -2,13 +2,14 @@
   "id": 320602753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.30097,33.500492,-112.30097,33.500492",
     "geom:latitude":33.500492,
     "geom:longitude":-112.30097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19098 W Campbell Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320602753,
-    "wof:lastmodified":1449013010,
+    "wof:lastmodified":1466325816,
     "wof:name":"007 Locksmith",
     "wof:parent_id":85812515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-112.30097,33.500492,-112.30097,33.500492],
-  "geometry": {"coordinates":[-112.30097,33.500492],"type":"Point"}
+  "bbox": [
+    -112.30097,
+    33.500492,
+    -112.30097,
+    33.500492
+],
+  "geometry": {"coordinates":[-112.30097000000001,33.500492],"type":"Point"}
 }

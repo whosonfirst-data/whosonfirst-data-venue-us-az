@@ -2,13 +2,14 @@
   "id": 320803737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111649,33.653229,-112.111649,33.653229",
     "geom:latitude":33.653229,
     "geom:longitude":-112.111649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18401 N 25th Ave Ste 120",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320803737,
-    "wof:lastmodified":1449015010,
+    "wof:lastmodified":1466329974,
     "wof:name":"Arizona Lockbox Fulfillment Co",
     "wof:parent_id":85847865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-112.111649,33.653229,-112.111649,33.653229],
+  "bbox": [
+    -112.111649,
+    33.653229,
+    -112.111649,
+    33.653229
+],
   "geometry": {"coordinates":[-112.111649,33.653229],"type":"Point"}
 }

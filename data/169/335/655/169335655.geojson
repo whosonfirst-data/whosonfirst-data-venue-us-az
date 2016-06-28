@@ -2,13 +2,14 @@
   "id": 169335655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.702409,32.833531,-109.702409,32.833531",
     "geom:latitude":32.833531,
     "geom:longitude":-109.702409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 US Hwy 70",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169335655,
-    "wof:lastmodified":1449034865,
+    "wof:lastmodified":1466333380,
     "wof:name":"Eastern Arizona Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.702409,32.833531,-109.702409,32.833531],
+  "bbox": [
+    -109.702409,
+    32.833531,
+    -109.702409,
+    32.833531
+],
   "geometry": {"coordinates":[-109.702409,32.833531],"type":"Point"}
 }

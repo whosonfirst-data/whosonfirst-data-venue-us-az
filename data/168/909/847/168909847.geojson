@@ -2,13 +2,14 @@
   "id": 168909847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.842244,35.396549,-113.842244,35.396549",
     "geom:latitude":35.396549,
     "geom:longitude":-113.842244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9430 Cowbell Ave",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168909847,
-    "wof:lastmodified":1449028371,
+    "wof:lastmodified":1466329821,
     "wof:name":"Fountain",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.842244,35.396549,-113.842244,35.396549],
-  "geometry": {"coordinates":[-113.842244,35.396549],"type":"Point"}
+  "bbox": [
+    -113.842244,
+    35.396549,
+    -113.842244,
+    35.396549
+],
+  "geometry": {"coordinates":[-113.84224399999999,35.396549],"type":"Point"}
 }

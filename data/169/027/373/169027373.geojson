@@ -2,13 +2,14 @@
   "id": 169027373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119306,33.465944,-112.119306,33.465944",
     "geom:latitude":33.465944,
     "geom:longitude":-112.119306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 W McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.1stsigns.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871013,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169027373,
-    "wof:lastmodified":1449033306,
+    "wof:lastmodified":1466326628,
     "wof:name":"First Signs",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.119306,33.465944,-112.119306,33.465944],
-  "geometry": {"coordinates":[-112.119306,33.465944],"type":"Point"}
+  "bbox": [
+    -112.119306,
+    33.465944,
+    -112.119306,
+    33.465944
+],
+  "geometry": {"coordinates":[-112.11930599999999,33.465944],"type":"Point"}
 }

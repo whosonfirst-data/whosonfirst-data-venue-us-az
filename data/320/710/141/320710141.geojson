@@ -2,13 +2,14 @@
   "id": 320710141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046507,33.516469,-112.046507,33.516469",
     "geom:latitude":33.516469,
     "geom:longitude":-112.046507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 E Missouri Ave Ste 340",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320710141,
-    "wof:lastmodified":1449011476,
+    "wof:lastmodified":1466328245,
     "wof:name":"Convergent Systems Group",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-112.046507,33.516469,-112.046507,33.516469],
-  "geometry": {"coordinates":[-112.046507,33.516469],"type":"Point"}
+  "bbox": [
+    -112.046507,
+    33.516469,
+    -112.046507,
+    33.516469
+],
+  "geometry": {"coordinates":[-112.04650700000001,33.516469],"type":"Point"}
 }

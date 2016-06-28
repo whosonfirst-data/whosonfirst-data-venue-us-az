@@ -2,13 +2,14 @@
   "id": 169345551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.264432,33.50616,-112.264432,33.50616",
     "geom:latitude":33.50616,
     "geom:longitude":-112.264432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 N 95th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856669,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85856669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169345551,
-    "wof:lastmodified":1449035698,
+    "wof:lastmodified":1466333542,
     "wof:name":"Forecast Homes",
     "wof:parent_id":85856669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.264432,33.50616,-112.264432,33.50616],
+  "bbox": [
+    -112.264432,
+    33.50616,
+    -112.264432,
+    33.50616
+],
   "geometry": {"coordinates":[-112.264432,33.50616],"type":"Point"}
 }

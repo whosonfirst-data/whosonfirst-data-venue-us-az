@@ -2,13 +2,14 @@
   "id": 169017251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.350988,34.493524,-114.350988,34.493524",
     "geom:latitude":34.493524,
     "geom:longitude":-114.350988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Industrial Blvd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.bradleyford.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169017251,
-    "wof:lastmodified":1449034439,
+    "wof:lastmodified":1466325722,
     "wof:name":"Bradley Ford Lincoln Mercury",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.350988,34.493524,-114.350988,34.493524],
+  "bbox": [
+    -114.350988,
+    34.493524,
+    -114.350988,
+    34.493524
+],
   "geometry": {"coordinates":[-114.350988,34.493524],"type":"Point"}
 }

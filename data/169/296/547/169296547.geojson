@@ -2,13 +2,14 @@
   "id": 169296547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.33426,34.478929,-114.33426,34.478929",
     "geom:latitude":34.478929,
     "geom:longitude":-114.33426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Mesquite Ave",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169296547,
-    "wof:lastmodified":1449035345,
+    "wof:lastmodified":1466332843,
     "wof:name":"Lake Havasu Community Food",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.33426,34.478929,-114.33426,34.478929],
+  "bbox": [
+    -114.33426,
+    34.478929,
+    -114.33426,
+    34.478929
+],
   "geometry": {"coordinates":[-114.33426,34.478929],"type":"Point"}
 }

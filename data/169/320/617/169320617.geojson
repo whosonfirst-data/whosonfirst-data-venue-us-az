@@ -2,13 +2,14 @@
   "id": 169320617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050999,33.538299,-112.050999,33.538299",
     "geom:latitude":33.538299,
     "geom:longitude":-112.050999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 E Glendale Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848897,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85848897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169320617,
-    "wof:lastmodified":1449033524,
+    "wof:lastmodified":1466333218,
     "wof:name":"Denzil F Marley",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.050999,33.538299,-112.050999,33.538299],
+  "bbox": [
+    -112.050999,
+    33.538299,
+    -112.050999,
+    33.538299
+],
   "geometry": {"coordinates":[-112.050999,33.538299],"type":"Point"}
 }

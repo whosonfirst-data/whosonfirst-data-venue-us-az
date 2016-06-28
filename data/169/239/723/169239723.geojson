@@ -2,13 +2,14 @@
   "id": 169239723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.10434,33.684023,-112.10434,33.684023",
     "geom:latitude":33.684023,
     "geom:longitude":-112.10434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21826 N 21st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169239723,
-    "wof:lastmodified":1449032986,
+    "wof:lastmodified":1466332419,
     "wof:name":"Mc Cleary Marble & Granite Inc",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.10434,33.684023,-112.10434,33.684023],
-  "geometry": {"coordinates":[-112.10434,33.684023],"type":"Point"}
+  "bbox": [
+    -112.10434,
+    33.684023,
+    -112.10434,
+    33.684023
+],
+  "geometry": {"coordinates":[-112.10433999999999,33.684023],"type":"Point"}
 }

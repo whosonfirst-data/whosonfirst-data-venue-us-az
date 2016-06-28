@@ -2,13 +2,14 @@
   "id": 353800313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.87283,32.260711,-109.87283,32.260711",
     "geom:latitude":32.260711,
     "geom:longitude":-109.87283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 W Willow Tree Ln",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353800313,
-    "wof:lastmodified":1449018460,
+    "wof:lastmodified":1466330253,
     "wof:name":"Nieto's Carpet & Upholstery",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "carpet"
     ]
 },
-  "bbox": [-109.87283,32.260711,-109.87283,32.260711],
-  "geometry": {"coordinates":[-109.87283,32.260711],"type":"Point"}
+  "bbox": [
+    -109.87283,
+    32.260711,
+    -109.87283,
+    32.260711
+],
+  "geometry": {"coordinates":[-109.87282999999999,32.260711],"type":"Point"}
 }

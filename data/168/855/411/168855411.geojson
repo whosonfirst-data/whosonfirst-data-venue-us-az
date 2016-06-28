@@ -2,13 +2,14 @@
   "id": 168855411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.942966,31.37999,-110.942966,31.37999",
     "geom:latitude":31.37999,
     "geom:longitude":-110.942966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 N Grand Ave",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":168855411,
-    "wof:lastmodified":1449028351,
+    "wof:lastmodified":1466326178,
     "wof:name":"Payless Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.942966,31.37999,-110.942966,31.37999],
+  "bbox": [
+    -110.942966,
+    31.37999,
+    -110.942966,
+    31.37999
+],
   "geometry": {"coordinates":[-110.942966,31.37999],"type":"Point"}
 }

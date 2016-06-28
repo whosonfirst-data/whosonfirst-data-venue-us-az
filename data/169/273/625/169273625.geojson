@@ -2,13 +2,14 @@
   "id": 169273625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060622,34.770942,-112.060622,34.770942",
     "geom:latitude":34.770942,
     "geom:longitude":-112.060622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Main St",
     "sg:city":"Clarkdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810165,
+        85688719,
         85633793,
         85917361,
         102081535,
-        85688719
+        85810165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169273625,
-    "wof:lastmodified":1449034398,
+    "wof:lastmodified":1466332771,
     "wof:name":"Town of Clarkdale",
     "wof:parent_id":85810165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.060622,34.770942,-112.060622,34.770942],
+  "bbox": [
+    -112.060622,
+    34.770942,
+    -112.060622,
+    34.770942
+],
   "geometry": {"coordinates":[-112.060622,34.770942],"type":"Point"}
 }

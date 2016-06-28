@@ -2,13 +2,14 @@
   "id": 153042415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.966255,32.158654,-110.966255,32.158654",
     "geom:latitude":32.158654,
     "geom:longitude":-110.966255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5231 S Nogales Hwy",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871747,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153042415,
-    "wof:lastmodified":1449040700,
+    "wof:lastmodified":1466326642,
     "wof:name":"Elmer Electrical & Auto Repair",
     "wof:parent_id":85871747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.966255,32.158654,-110.966255,32.158654],
+  "bbox": [
+    -110.966255,
+    32.158654,
+    -110.966255,
+    32.158654
+],
   "geometry": {"coordinates":[-110.966255,32.158654],"type":"Point"}
 }

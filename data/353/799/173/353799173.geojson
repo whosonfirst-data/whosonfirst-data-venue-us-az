@@ -2,13 +2,14 @@
   "id": 353799173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.85414,32.297034,-109.85414,32.297034",
     "geom:latitude":32.297034,
     "geom:longitude":-109.85414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 W Packing Plant Rd",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":353799173,
-    "wof:lastmodified":1449020804,
+    "wof:lastmodified":1466330235,
     "wof:name":"Ellis Wrecking Yard",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "towing"
     ]
 },
-  "bbox": [-109.85414,32.297034,-109.85414,32.297034],
+  "bbox": [
+    -109.85414,
+    32.297034,
+    -109.85414,
+    32.297034
+],
   "geometry": {"coordinates":[-109.85414,32.297034],"type":"Point"}
 }

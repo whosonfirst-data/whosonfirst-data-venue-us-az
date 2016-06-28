@@ -2,13 +2,14 @@
   "id": 320620691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069427,33.477982,-112.069427,33.477982",
     "geom:latitude":33.477982,
     "geom:longitude":-112.069427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 N 3rd St Ste 3040",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320620691,
-    "wof:lastmodified":1449014638,
+    "wof:lastmodified":1466326277,
     "wof:name":"Acaa",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.069427,33.477982,-112.069427,33.477982],
+  "bbox": [
+    -112.069427,
+    33.477982,
+    -112.069427,
+    33.477982
+],
   "geometry": {"coordinates":[-112.069427,33.477982],"type":"Point"}
 }

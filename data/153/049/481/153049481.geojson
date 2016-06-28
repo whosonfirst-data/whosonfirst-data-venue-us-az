@@ -2,13 +2,14 @@
   "id": 153049481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.284358,33.674492,-112.284358,33.674492",
     "geom:latitude":33.674492,
     "geom:longitude":-112.284358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 W Rose Garden Ln",
     "sg:city":"Sun City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877779,
+        85688719,
         85633793,
         85917343,
         102087421,
-        85688719
+        85877779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153049481,
-    "wof:lastmodified":1449040580,
+    "wof:lastmodified":1466327132,
     "wof:name":"Maricopa Ready Mix LLC",
     "wof:parent_id":85877779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.284358,33.674492,-112.284358,33.674492],
+  "bbox": [
+    -112.284358,
+    33.674492,
+    -112.284358,
+    33.674492
+],
   "geometry": {"coordinates":[-112.284358,33.674492],"type":"Point"}
 }

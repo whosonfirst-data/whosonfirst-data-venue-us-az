@@ -2,13 +2,14 @@
   "id": 320661823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.145815,33.435826,-112.145815,33.435826",
     "geom:latitude":33.435826,
     "geom:longitude":-112.145815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 S 40th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320661823,
-    "wof:lastmodified":1449014562,
+    "wof:lastmodified":1466327312,
     "wof:name":"Sullivan Moving and Storage Phoenix",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "storage"
     ]
 },
-  "bbox": [-112.145815,33.435826,-112.145815,33.435826],
+  "bbox": [
+    -112.145815,
+    33.435826,
+    -112.145815,
+    33.435826
+],
   "geometry": {"coordinates":[-112.145815,33.435826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169155749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.984023,32.352924,-110.984023,32.352924",
     "geom:latitude":32.352924,
     "geom:longitude":-110.984023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 W Cll Casquilla",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169155749,
-    "wof:lastmodified":1449035380,
+    "wof:lastmodified":1466331814,
     "wof:name":"Forms Unlimited",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.984023,32.352924,-110.984023,32.352924],
-  "geometry": {"coordinates":[-110.984023,32.352924],"type":"Point"}
+  "bbox": [
+    -110.984023,
+    32.352924,
+    -110.984023,
+    32.352924
+],
+  "geometry": {"coordinates":[-110.98402299999999,32.352924],"type":"Point"}
 }

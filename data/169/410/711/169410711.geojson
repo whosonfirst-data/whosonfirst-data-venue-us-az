@@ -2,13 +2,14 @@
   "id": 169410711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.602386,33.408342,-111.602386,33.408342",
     "geom:latitude":33.408342,
     "geom:longitude":-111.602386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10565 E Bogart Ave",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169410711,
-    "wof:lastmodified":1449032729,
+    "wof:lastmodified":1466334133,
     "wof:name":"Landstar SIQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.602386,33.408342,-111.602386,33.408342],
+  "bbox": [
+    -111.602386,
+    33.408342,
+    -111.602386,
+    33.408342
+],
   "geometry": {"coordinates":[-111.602386,33.408342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169152275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.388291,33.604352,-112.388291,33.604352",
     "geom:latitude":33.604352,
     "geom:longitude":-112.388291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13118 N Founders Park Blvd",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169152275,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466331691,
     "wof:name":"Marley Park",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.388291,33.604352,-112.388291,33.604352],
+  "bbox": [
+    -112.388291,
+    33.604352,
+    -112.388291,
+    33.604352
+],
   "geometry": {"coordinates":[-112.388291,33.604352],"type":"Point"}
 }

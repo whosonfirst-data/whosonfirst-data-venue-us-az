@@ -2,13 +2,14 @@
   "id": 320627809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062317,33.47969,-112.062317,33.47969",
     "geom:latitude":33.47969,
     "geom:longitude":-112.062317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 E Edgemont Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320627809,
-    "wof:lastmodified":1449015046,
+    "wof:lastmodified":1466326468,
     "wof:name":"Arizona Solar Laundry",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-112.062317,33.47969,-112.062317,33.47969],
-  "geometry": {"coordinates":[-112.062317,33.47969],"type":"Point"}
+  "bbox": [
+    -112.062317,
+    33.47969,
+    -112.062317,
+    33.47969
+],
+  "geometry": {"coordinates":[-112.06231699999999,33.47969],"type":"Point"}
 }

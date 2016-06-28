@@ -2,13 +2,14 @@
   "id": 353835265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.943968,32.252167,-110.943968,32.252167",
     "geom:latitude":32.252167,
     "geom:longitude":-110.943968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 N Campbell Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353835265,
-    "wof:lastmodified":1449018619,
+    "wof:lastmodified":1466330666,
     "wof:name":"USPS - United States Post Office - Cpu The Letter Box",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.943968,32.252167,-110.943968,32.252167],
+  "bbox": [
+    -110.943968,
+    32.252167,
+    -110.943968,
+    32.252167
+],
   "geometry": {"coordinates":[-110.943968,32.252167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169302331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.240857,33.537787,-112.240857,33.537787",
     "geom:latitude":33.537787,
     "geom:longitude":-112.240857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8302 W Glendale Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169302331,
-    "wof:lastmodified":1449033801,
+    "wof:lastmodified":1466333231,
     "wof:name":"Glendale Country Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.240857,33.537787,-112.240857,33.537787],
-  "geometry": {"coordinates":[-112.240857,33.537787],"type":"Point"}
+  "bbox": [
+    -112.240857,
+    33.537787,
+    -112.240857,
+    33.537787
+],
+  "geometry": {"coordinates":[-112.24085700000001,33.537787],"type":"Point"}
 }

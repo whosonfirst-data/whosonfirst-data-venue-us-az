@@ -2,13 +2,14 @@
   "id": 169217229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.134269,33.483131,-112.134269,33.483131",
     "geom:latitude":33.483131,
     "geom:longitude":-112.134269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 N 35th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840779,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85840779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169217229,
-    "wof:lastmodified":1449035760,
+    "wof:lastmodified":1466332200,
     "wof:name":"Kaplan Manufacturing",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.134269,33.483131,-112.134269,33.483131],
+  "bbox": [
+    -112.134269,
+    33.483131,
+    -112.134269,
+    33.483131
+],
   "geometry": {"coordinates":[-112.134269,33.483131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169005091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.223095,33.649277,-112.223095,33.649277",
     "geom:latitude":33.649277,
     "geom:longitude":-112.223095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7624 W Michigan Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877791,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169005091,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1466326187,
     "wof:name":"Value Time Errand Service",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.223095,33.649277,-112.223095,33.649277],
+  "bbox": [
+    -112.223095,
+    33.649277,
+    -112.223095,
+    33.649277
+],
   "geometry": {"coordinates":[-112.223095,33.649277],"type":"Point"}
 }

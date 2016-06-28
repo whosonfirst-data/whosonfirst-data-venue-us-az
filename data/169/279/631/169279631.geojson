@@ -2,13 +2,14 @@
   "id": 169279631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.922692,32.171709,-110.922692,32.171709",
     "geom:latitude":32.171709,
     "geom:longitude":-110.922692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 E Pennsylvania St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169279631,
-    "wof:lastmodified":1449034187,
+    "wof:lastmodified":1466332826,
     "wof:name":"Complete Bug & Rail",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.922692,32.171709,-110.922692,32.171709],
+  "bbox": [
+    -110.922692,
+    32.171709,
+    -110.922692,
+    32.171709
+],
   "geometry": {"coordinates":[-110.922692,32.171709],"type":"Point"}
 }

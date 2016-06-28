@@ -2,13 +2,14 @@
   "id": 168927497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.082929,33.301655,-112.082929,33.301655",
     "geom:latitude":33.301655,
     "geom:longitude":-112.082929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 W Mountain Vista Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168927497,
-    "wof:lastmodified":1449028510,
+    "wof:lastmodified":1466330722,
     "wof:name":"Paragon Landscaping",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.082929,33.301655,-112.082929,33.301655],
-  "geometry": {"coordinates":[-112.082929,33.301655],"type":"Point"}
+  "bbox": [
+    -112.082929,
+    33.301655,
+    -112.082929,
+    33.301655
+],
+  "geometry": {"coordinates":[-112.08292899999999,33.301655],"type":"Point"}
 }

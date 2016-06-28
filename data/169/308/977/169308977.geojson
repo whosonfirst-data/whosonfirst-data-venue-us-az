@@ -2,13 +2,14 @@
   "id": 169308977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125227,33.674103,-112.125227,33.674103",
     "geom:latitude":33.674103,
     "geom:longitude":-112.125227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20640 N 30th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813953,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85813953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169308977,
-    "wof:lastmodified":1449036055,
+    "wof:lastmodified":1466333137,
     "wof:name":"Universal Trip U Trip Pro",
     "wof:parent_id":85813953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.125227,33.674103,-112.125227,33.674103],
+  "bbox": [
+    -112.125227,
+    33.674103,
+    -112.125227,
+    33.674103
+],
   "geometry": {"coordinates":[-112.125227,33.674103],"type":"Point"}
 }

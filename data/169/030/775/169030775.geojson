@@ -2,13 +2,14 @@
   "id": 169030775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.84207,33.3023,-111.84207,33.3023",
     "geom:latitude":33.3023,
     "geom:longitude":-111.84207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S San Marcos Pl",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.sanmarcosresort.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876651,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169030775,
-    "wof:lastmodified":1449033904,
+    "wof:lastmodified":1466326937,
     "wof:name":"San Marcos Golf & Conference",
     "wof:parent_id":85876651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.84207,33.3023,-111.84207,33.3023],
-  "geometry": {"coordinates":[-111.84207,33.3023],"type":"Point"}
+  "bbox": [
+    -111.84207,
+    33.3023,
+    -111.84207,
+    33.3023
+],
+  "geometry": {"coordinates":[-111.84207000000001,33.3023],"type":"Point"}
 }

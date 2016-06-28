@@ -2,13 +2,14 @@
   "id": 169056561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.745648,33.42687,-111.745648,33.42687",
     "geom:latitude":33.42687,
     "geom:longitude":-111.745648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3934 E Decatur St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872425,
+        85688719,
         85633793,
         85917491,
         102087421,
-        85688719
+        85872425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169056561,
-    "wof:lastmodified":1449033631,
+    "wof:lastmodified":1466328826,
     "wof:name":"Probity Cycle Inc",
     "wof:parent_id":85872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.745648,33.42687,-111.745648,33.42687],
+  "bbox": [
+    -111.745648,
+    33.42687,
+    -111.745648,
+    33.42687
+],
   "geometry": {"coordinates":[-111.745648,33.42687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320810237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030554,33.668431,-112.030554,33.668431",
     "geom:latitude":33.668431,
     "geom:longitude":-112.030554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20021 N Cave Creek Rd # 9",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320810237,
-    "wof:lastmodified":1449012345,
+    "wof:lastmodified":1466329822,
     "wof:name":"Arizona Air Cooled Engine",
     "wof:parent_id":85840459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-112.030554,33.668431,-112.030554,33.668431],
+  "bbox": [
+    -112.030554,
+    33.668431,
+    -112.030554,
+    33.668431
+],
   "geometry": {"coordinates":[-112.030554,33.668431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353771115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.095818,32.744549,-109.095818,32.744549",
     "geom:latitude":32.744549,
     "geom:longitude":-109.095818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Daniels Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353771115,
-    "wof:lastmodified":1449019642,
+    "wof:lastmodified":1466330109,
     "wof:name":"Waters Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-109.095818,32.744549,-109.095818,32.744549],
-  "geometry": {"coordinates":[-109.095818,32.744549],"type":"Point"}
+  "bbox": [
+    -109.095818,
+    32.744549,
+    -109.095818,
+    32.744549
+],
+  "geometry": {"coordinates":[-109.09581799999999,32.744549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169180257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.12332,33.639701,-112.12332,33.639701",
     "geom:latitude":33.639701,
     "geom:longitude":-112.12332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 W Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850993,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169180257,
-    "wof:lastmodified":1449032821,
+    "wof:lastmodified":1466331966,
     "wof:name":"J D Birds Etc",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.12332,33.639701,-112.12332,33.639701],
-  "geometry": {"coordinates":[-112.12332,33.639701],"type":"Point"}
+  "bbox": [
+    -112.12332,
+    33.639701,
+    -112.12332,
+    33.639701
+],
+  "geometry": {"coordinates":[-112.12332000000001,33.639701],"type":"Point"}
 }

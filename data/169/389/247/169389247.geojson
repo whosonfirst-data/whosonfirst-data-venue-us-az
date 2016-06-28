@@ -2,13 +2,14 @@
   "id": 169389247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.225361,33.514433,-112.225361,33.514433",
     "geom:latitude":33.514433,
     "geom:longitude":-112.225361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5345 N 77th Ln",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169389247,
-    "wof:lastmodified":1449035286,
+    "wof:lastmodified":1466333857,
     "wof:name":"Williams Plumbing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.225361,33.514433,-112.225361,33.514433],
-  "geometry": {"coordinates":[-112.225361,33.514433],"type":"Point"}
+  "bbox": [
+    -112.225361,
+    33.514433,
+    -112.225361,
+    33.514433
+],
+  "geometry": {"coordinates":[-112.22536100000001,33.514433],"type":"Point"}
 }

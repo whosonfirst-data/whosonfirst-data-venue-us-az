@@ -2,13 +2,14 @@
   "id": 169073877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.078268,33.302329,-112.078268,33.302329",
     "geom:latitude":33.302329,
     "geom:longitude":-112.078268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15849 S 1st Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169073877,
-    "wof:lastmodified":1449033145,
+    "wof:lastmodified":1466329904,
     "wof:name":"Performance Leadership Intl",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.078268,33.302329,-112.078268,33.302329],
-  "geometry": {"coordinates":[-112.078268,33.302329],"type":"Point"}
+  "bbox": [
+    -112.078268,
+    33.302329,
+    -112.078268,
+    33.302329
+],
+  "geometry": {"coordinates":[-112.07826799999999,33.302329],"type":"Point"}
 }

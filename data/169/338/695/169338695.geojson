@@ -2,13 +2,14 @@
   "id": 169338695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.069179,33.38779,-112.069179,33.38779",
     "geom:latitude":33.38779,
     "geom:longitude":-112.069179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Saint Catherine Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849949,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85849949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169338695,
-    "wof:lastmodified":1449033829,
+    "wof:lastmodified":1466333384,
     "wof:name":"Freddie Steady Screen Printing",
     "wof:parent_id":85849949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.069179,33.38779,-112.069179,33.38779],
-  "geometry": {"coordinates":[-112.069179,33.38779],"type":"Point"}
+  "bbox": [
+    -112.069179,
+    33.38779,
+    -112.069179,
+    33.38779
+],
+  "geometry": {"coordinates":[-112.06917900000001,33.38779],"type":"Point"}
 }

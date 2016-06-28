@@ -2,13 +2,14 @@
   "id": 353799877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.827926,32.259233,-109.827926,32.259233",
     "geom:latitude":32.259233,
     "geom:longitude":-109.827926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 N Haskell Ave",
     "sg:city":"Willcox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353799877,
-    "wof:lastmodified":1449020804,
+    "wof:lastmodified":1466330246,
     "wof:name":"Tacos El Sonorense",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-109.827926,32.259233,-109.827926,32.259233],
-  "geometry": {"coordinates":[-109.827926,32.259233],"type":"Point"}
+  "bbox": [
+    -109.827926,
+    32.259233,
+    -109.827926,
+    32.259233
+],
+  "geometry": {"coordinates":[-109.82792600000001,32.259233],"type":"Point"}
 }

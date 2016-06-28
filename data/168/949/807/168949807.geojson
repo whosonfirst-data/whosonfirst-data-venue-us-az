@@ -2,13 +2,14 @@
   "id": 168949807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.998012,32.27212,-110.998012,32.27212",
     "geom:latitude":32.27212,
     "geom:longitude":-110.998012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 W Prince Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871751,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":168949807,
-    "wof:lastmodified":1449028257,
+    "wof:lastmodified":1466331037,
     "wof:name":"Sharron's Grooming & Dog Supls",
     "wof:parent_id":85871751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.998012,32.27212,-110.998012,32.27212],
+  "bbox": [
+    -110.998012,
+    32.27212,
+    -110.998012,
+    32.27212
+],
   "geometry": {"coordinates":[-110.998012,32.27212],"type":"Point"}
 }

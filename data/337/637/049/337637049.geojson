@@ -2,13 +2,14 @@
   "id": 337637049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923676,33.408144,-111.923676,33.408144",
     "geom:latitude":33.408144,
     "geom:longitude":-111.923676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 S Jentilly Ln B10",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":337637049,
-    "wof:lastmodified":1449026934,
+    "wof:lastmodified":1466327907,
     "wof:name":"Celebrity Homecare Inc",
     "wof:parent_id":85881405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-111.923676,33.408144,-111.923676,33.408144],
+  "bbox": [
+    -111.923676,
+    33.408144,
+    -111.923676,
+    33.408144
+],
   "geometry": {"coordinates":[-111.923676,33.408144],"type":"Point"}
 }

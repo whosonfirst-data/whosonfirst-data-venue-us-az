@@ -2,13 +2,14 @@
   "id": 169032829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098364,33.445073,-112.098364,33.445073",
     "geom:latitude":33.445073,
     "geom:longitude":-112.098364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 W Jackson St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169032829,
-    "wof:lastmodified":1449034302,
+    "wof:lastmodified":1466327114,
     "wof:name":"State of Arizona Print Shop",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098364,33.445073,-112.098364,33.445073],
+  "bbox": [
+    -112.098364,
+    33.445073,
+    -112.098364,
+    33.445073
+],
   "geometry": {"coordinates":[-112.098364,33.445073],"type":"Point"}
 }

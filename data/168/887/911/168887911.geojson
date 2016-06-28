@@ -2,13 +2,14 @@
   "id": 168887911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047449,33.516652,-112.047449,33.516652",
     "geom:latitude":33.516652,
     "geom:longitude":-112.047449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5627 N 16th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811141,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85811141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":168887911,
-    "wof:lastmodified":1449028423,
+    "wof:lastmodified":1466329029,
     "wof:name":"Internet Ready Computers",
     "wof:parent_id":85811141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.047449,33.516652,-112.047449,33.516652],
+  "bbox": [
+    -112.047449,
+    33.516652,
+    -112.047449,
+    33.516652
+],
   "geometry": {"coordinates":[-112.047449,33.516652],"type":"Point"}
 }

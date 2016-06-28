@@ -2,13 +2,14 @@
   "id": 169172567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97806,33.766857,-111.97806,33.766857",
     "geom:latitude":33.766857,
     "geom:longitude":-111.97806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31005 N 48th St",
     "sg:city":"Cave Creek",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871017,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169172567,
-    "wof:lastmodified":1449034008,
+    "wof:lastmodified":1466332026,
     "wof:name":"Precious Memories Productions",
     "wof:parent_id":85871017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.97806,33.766857,-111.97806,33.766857],
+  "bbox": [
+    -111.97806,
+    33.766857,
+    -111.97806,
+    33.766857
+],
   "geometry": {"coordinates":[-111.97806,33.766857],"type":"Point"}
 }

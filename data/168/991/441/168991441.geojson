@@ -2,13 +2,14 @@
   "id": 168991441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.874038,33.397528,-110.874038,33.397528",
     "geom:latitude":33.397528,
     "geom:longitude":-110.874038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Sullivan St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168991441,
-    "wof:lastmodified":1449027988,
+    "wof:lastmodified":1466331691,
     "wof:name":"Crime Stop",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.874038,33.397528,-110.874038,33.397528],
+  "bbox": [
+    -110.874038,
+    33.397528,
+    -110.874038,
+    33.397528
+],
   "geometry": {"coordinates":[-110.874038,33.397528],"type":"Point"}
 }

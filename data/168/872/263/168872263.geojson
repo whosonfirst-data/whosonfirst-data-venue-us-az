@@ -2,13 +2,14 @@
   "id": 168872263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.972782,33.465657,-111.972782,33.465657",
     "geom:latitude":33.465657,
     "geom:longitude":-111.972782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 E McDowell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834573,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85834573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168872263,
-    "wof:lastmodified":1449027845,
+    "wof:lastmodified":1466327651,
     "wof:name":"Juba Restaurant",
     "wof:parent_id":85834573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.972782,33.465657,-111.972782,33.465657],
+  "bbox": [
+    -111.972782,
+    33.465657,
+    -111.972782,
+    33.465657
+],
   "geometry": {"coordinates":[-111.972782,33.465657],"type":"Point"}
 }

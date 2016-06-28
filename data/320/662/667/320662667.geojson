@@ -2,13 +2,14 @@
   "id": 320662667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121732,33.457119,-112.121732,33.457119",
     "geom:latitude":33.457119,
     "geom:longitude":-112.121732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 W Mckinley St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320662667,
-    "wof:lastmodified":1449013801,
+    "wof:lastmodified":1466327333,
     "wof:name":"Lawn & Garden Service",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-112.121732,33.457119,-112.121732,33.457119],
-  "geometry": {"coordinates":[-112.121732,33.457119],"type":"Point"}
+  "bbox": [
+    -112.121732,
+    33.457119,
+    -112.121732,
+    33.457119
+],
+  "geometry": {"coordinates":[-112.12173199999999,33.457119],"type":"Point"}
 }

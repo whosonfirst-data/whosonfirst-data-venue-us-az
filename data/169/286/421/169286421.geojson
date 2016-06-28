@@ -2,13 +2,14 @@
   "id": 169286421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.347931,34.48375,-114.347931,34.48375",
     "geom:latitude":34.48375,
     "geom:longitude":-114.347931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Lake Havasu Ave N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169286421,
-    "wof:lastmodified":1449033557,
+    "wof:lastmodified":1466332866,
     "wof:name":"Imperial Beauty Supply & Salon",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.347931,34.48375,-114.347931,34.48375],
+  "bbox": [
+    -114.347931,
+    34.48375,
+    -114.347931,
+    34.48375
+],
   "geometry": {"coordinates":[-114.347931,34.48375],"type":"Point"}
 }

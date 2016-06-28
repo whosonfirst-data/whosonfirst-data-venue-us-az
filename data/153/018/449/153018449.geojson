@@ -2,13 +2,14 @@
   "id": 153018449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.980256,33.302284,-111.980256,33.302284",
     "geom:latitude":33.302284,
     "geom:longitude":-111.980256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15801 S 48th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.snk.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802503,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85802503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153018449,
-    "wof:lastmodified":1449040584,
+    "wof:lastmodified":1466326842,
     "wof:name":"Andante Apartments",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.980256,33.302284,-111.980256,33.302284],
+  "bbox": [
+    -111.980256,
+    33.302284,
+    -111.980256,
+    33.302284
+],
   "geometry": {"coordinates":[-111.980256,33.302284],"type":"Point"}
 }

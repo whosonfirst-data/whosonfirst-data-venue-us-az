@@ -2,13 +2,14 @@
   "id": 353837175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.945878,32.272202,-110.945878,32.272202",
     "geom:latitude":32.272202,
     "geom:longitude":-110.945878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E Prince Rd Ste 130",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353837175,
-    "wof:lastmodified":1449018655,
+    "wof:lastmodified":1466330703,
     "wof:name":"Saguaro Clinic Of Oriental Medicine",
     "wof:parent_id":85871755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-110.945878,32.272202,-110.945878,32.272202],
-  "geometry": {"coordinates":[-110.945878,32.272202],"type":"Point"}
+  "bbox": [
+    -110.945878,
+    32.272202,
+    -110.945878,
+    32.272202
+],
+  "geometry": {"coordinates":[-110.94587799999999,32.272202],"type":"Point"}
 }

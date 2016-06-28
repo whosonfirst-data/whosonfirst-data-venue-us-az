@@ -2,13 +2,14 @@
   "id": 169374667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885676,33.590149,-111.885676,33.590149",
     "geom:latitude":33.590149,
     "geom:longitude":-111.885676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9055 E Lupine Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812523,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719,
+        85812523,
         85880933
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169374667,
-    "wof:lastmodified":1449034107,
+    "wof:lastmodified":1466333763,
     "wof:name":"J M Rohe & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.885676,33.590149,-111.885676,33.590149],
+  "bbox": [
+    -111.885676,
+    33.590149,
+    -111.885676,
+    33.590149
+],
   "geometry": {"coordinates":[-111.885676,33.590149],"type":"Point"}
 }

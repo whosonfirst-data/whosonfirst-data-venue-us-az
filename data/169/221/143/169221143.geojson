@@ -2,13 +2,14 @@
   "id": 169221143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.847333,32.249498,-110.847333,32.249498",
     "geom:latitude":32.249498,
     "geom:longitude":-110.847333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N Cam Principal",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828449,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85828449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169221143,
-    "wof:lastmodified":1449034124,
+    "wof:lastmodified":1466332334,
     "wof:name":"Broadband Group The",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.847333,32.249498,-110.847333,32.249498],
-  "geometry": {"coordinates":[-110.847333,32.249498],"type":"Point"}
+  "bbox": [
+    -110.847333,
+    32.249498,
+    -110.847333,
+    32.249498
+],
+  "geometry": {"coordinates":[-110.84733300000001,32.249498],"type":"Point"}
 }

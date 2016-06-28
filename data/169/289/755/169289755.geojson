@@ -2,13 +2,14 @@
   "id": 169289755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.926324,32.181093,-110.926324,32.181093",
     "geom:latitude":32.181093,
     "geom:longitude":-110.926324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 S Country Club Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169289755,
-    "wof:lastmodified":1449035416,
+    "wof:lastmodified":1466332903,
     "wof:name":"Boyd Equipment Center Inc",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.926324,32.181093,-110.926324,32.181093],
-  "geometry": {"coordinates":[-110.926324,32.181093],"type":"Point"}
+  "bbox": [
+    -110.926324,
+    32.181093,
+    -110.926324,
+    32.181093
+],
+  "geometry": {"coordinates":[-110.92632399999999,32.181093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320657717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.138968,33.475534,-112.138968,33.475534",
     "geom:latitude":33.475534,
     "geom:longitude":-112.138968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 N 37th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320657717,
-    "wof:lastmodified":1449011665,
+    "wof:lastmodified":1466327205,
     "wof:name":"Consult Source Associates, Inc.",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.138968,33.475534,-112.138968,33.475534],
-  "geometry": {"coordinates":[-112.138968,33.475534],"type":"Point"}
+  "bbox": [
+    -112.138968,
+    33.475534,
+    -112.138968,
+    33.475534
+],
+  "geometry": {"coordinates":[-112.13896800000001,33.475534],"type":"Point"}
 }

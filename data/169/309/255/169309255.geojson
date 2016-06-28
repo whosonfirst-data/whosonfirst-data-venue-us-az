@@ -2,13 +2,14 @@
   "id": 169309255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.820102,32.207548,-110.820102,32.207548",
     "geom:latitude":32.207548,
     "geom:longitude":-110.820102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 S Sherwood Village Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169309255,
-    "wof:lastmodified":1449033416,
+    "wof:lastmodified":1466333068,
     "wof:name":"Drivers License",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.820102,32.207548,-110.820102,32.207548],
-  "geometry": {"coordinates":[-110.820102,32.207548],"type":"Point"}
+  "bbox": [
+    -110.820102,
+    32.207548,
+    -110.820102,
+    32.207548
+],
+  "geometry": {"coordinates":[-110.82010200000001,32.207548],"type":"Point"}
 }

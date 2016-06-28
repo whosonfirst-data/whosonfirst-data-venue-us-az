@@ -2,13 +2,14 @@
   "id": 353783675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.916682,31.441595,-109.916682,31.441595",
     "geom:latitude":31.441595,
     "geom:longitude":-109.916682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Main St",
     "sg:city":"Bisbee",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":353783675,
-    "wof:lastmodified":1449018323,
+    "wof:lastmodified":1466330326,
     "wof:name":"Mexico Insurance",
     "wof:parent_id":85820943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "resume"
     ]
 },
-  "bbox": [-109.916682,31.441595,-109.916682,31.441595],
-  "geometry": {"coordinates":[-109.916682,31.441595],"type":"Point"}
+  "bbox": [
+    -109.916682,
+    31.441595,
+    -109.916682,
+    31.441595
+],
+  "geometry": {"coordinates":[-109.91668199999999,31.441595],"type":"Point"}
 }

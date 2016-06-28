@@ -2,13 +2,14 @@
   "id": 320778375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047653,33.547451,-112.047653,33.547451",
     "geom:latitude":33.547451,
     "geom:longitude":-112.047653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 N 16th St Ste 218",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320778375,
-    "wof:lastmodified":1449011330,
+    "wof:lastmodified":1466329394,
     "wof:name":"Gentry Pediatric Behavioral Services, P",
     "wof:parent_id":85848897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.047653,33.547451,-112.047653,33.547451],
+  "bbox": [
+    -112.047653,
+    33.547451,
+    -112.047653,
+    33.547451
+],
   "geometry": {"coordinates":[-112.047653,33.547451],"type":"Point"}
 }

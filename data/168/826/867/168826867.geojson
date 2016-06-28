@@ -2,13 +2,14 @@
   "id": 168826867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.263235,35.224357,-114.263235,35.224357",
     "geom:latitude":35.224357,
     "geom:longitude":-114.263235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Glen Canyon Rd",
     "sg:city":"Golden Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168826867,
-    "wof:lastmodified":1449028342,
+    "wof:lastmodified":1466325946,
     "wof:name":"Minges Land Co Inc(hq)",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.263235,35.224357,-114.263235,35.224357],
-  "geometry": {"coordinates":[-114.263235,35.224357],"type":"Point"}
+  "bbox": [
+    -114.263235,
+    35.224357,
+    -114.263235,
+    35.224357
+],
+  "geometry": {"coordinates":[-114.26323499999999,35.224357],"type":"Point"}
 }

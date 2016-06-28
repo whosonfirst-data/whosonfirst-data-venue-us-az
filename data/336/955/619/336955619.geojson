@@ -2,13 +2,14 @@
   "id": 336955619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.91022,33.520765,-111.91022,33.520765",
     "geom:latitude":33.520765,
     "geom:longitude":-111.91022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7973 E Solano Dr",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336955619,
-    "wof:lastmodified":1448997675,
+    "wof:lastmodified":1466330837,
     "wof:name":"Achey Group",
     "wof:parent_id":85858851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-111.91022,33.520765,-111.91022,33.520765],
+  "bbox": [
+    -111.91022,
+    33.520765,
+    -111.91022,
+    33.520765
+],
   "geometry": {"coordinates":[-111.91022,33.520765],"type":"Point"}
 }

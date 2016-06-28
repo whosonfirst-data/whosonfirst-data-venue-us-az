@@ -2,13 +2,14 @@
   "id": 320833511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010588,33.576089,-112.010588,33.576089",
     "geom:latitude":33.576089,
     "geom:longitude":-112.010588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3341 E Turquoise Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320833511,
-    "wof:lastmodified":1449011728,
+    "wof:lastmodified":1466330120,
     "wof:name":"Karas, Steve & Assoc",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "software"
     ]
 },
-  "bbox": [-112.010588,33.576089,-112.010588,33.576089],
+  "bbox": [
+    -112.010588,
+    33.576089,
+    -112.010588,
+    33.576089
+],
   "geometry": {"coordinates":[-112.010588,33.576089],"type":"Point"}
 }

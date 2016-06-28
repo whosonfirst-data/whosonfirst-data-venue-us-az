@@ -2,13 +2,14 @@
   "id": 168839611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.741158,32.241183,-110.741158,32.241183",
     "geom:latitude":32.241183,
     "geom:longitude":-110.741158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 N Smokey Springs Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168839611,
-    "wof:lastmodified":1449028246,
+    "wof:lastmodified":1466327054,
     "wof:name":"Casitas At Smokey Spring Rnch",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.741158,32.241183,-110.741158,32.241183],
+  "bbox": [
+    -110.741158,
+    32.241183,
+    -110.741158,
+    32.241183
+],
   "geometry": {"coordinates":[-110.741158,32.241183],"type":"Point"}
 }

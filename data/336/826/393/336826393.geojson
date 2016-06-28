@@ -2,13 +2,14 @@
   "id": 336826393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.836013,33.388941,-111.836013,33.388941",
     "geom:latitude":33.388941,
     "geom:longitude":-111.836013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Hoover Ave Ste 104",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":336826393,
-    "wof:lastmodified":1448997716,
+    "wof:lastmodified":1466329817,
     "wof:name":"Phones Plus Of Arizona",
     "wof:parent_id":85846607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "equipment"
     ]
 },
-  "bbox": [-111.836013,33.388941,-111.836013,33.388941],
-  "geometry": {"coordinates":[-111.836013,33.388941],"type":"Point"}
+  "bbox": [
+    -111.836013,
+    33.388941,
+    -111.836013,
+    33.388941
+],
+  "geometry": {"coordinates":[-111.83601299999999,33.388941],"type":"Point"}
 }

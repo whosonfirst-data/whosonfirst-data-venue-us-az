@@ -2,13 +2,14 @@
   "id": 336800957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.692295,33.384413,-111.692295,33.384413",
     "geom:latitude":33.384413,
     "geom:longitude":-111.692295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6530 E Superstition Springs Blvd",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336800957,
-    "wof:lastmodified":1448997014,
+    "wof:lastmodified":1466329564,
     "wof:name":"La Quinta Inn & Suites Phoenix - Mesa East",
     "wof:parent_id":85872439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-111.692295,33.384413,-111.692295,33.384413],
+  "bbox": [
+    -111.692295,
+    33.384413,
+    -111.692295,
+    33.384413
+],
   "geometry": {"coordinates":[-111.692295,33.384413],"type":"Point"}
 }

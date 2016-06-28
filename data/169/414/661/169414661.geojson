@@ -2,13 +2,14 @@
   "id": 169414661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.919166,32.250558,-110.919166,32.250558",
     "geom:latitude":32.250558,
     "geom:longitude":-110.919166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 E Grant Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871731,
+        85688719,
         85633793,
         85918125,
         102081135,
-        85688719
+        85871731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169414661,
-    "wof:lastmodified":1449034221,
+    "wof:lastmodified":1466334076,
     "wof:name":"Spa One",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.919166,32.250558,-110.919166,32.250558],
+  "bbox": [
+    -110.919166,
+    32.250558,
+    -110.919166,
+    32.250558
+],
   "geometry": {"coordinates":[-110.919166,32.250558],"type":"Point"}
 }

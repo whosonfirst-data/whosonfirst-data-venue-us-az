@@ -2,13 +2,14 @@
   "id": 169184729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930703,33.602747,-111.930703,33.602747",
     "geom:latitude":33.602747,
     "geom:longitude":-111.930703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12631 N 70th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814399,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85814399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169184729,
-    "wof:lastmodified":1449033253,
+    "wof:lastmodified":1466331871,
     "wof:name":"Village Peddler",
     "wof:parent_id":85814399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.930703,33.602747,-111.930703,33.602747],
-  "geometry": {"coordinates":[-111.930703,33.602747],"type":"Point"}
+  "bbox": [
+    -111.930703,
+    33.602747,
+    -111.930703,
+    33.602747
+],
+  "geometry": {"coordinates":[-111.93070299999999,33.602747],"type":"Point"}
 }

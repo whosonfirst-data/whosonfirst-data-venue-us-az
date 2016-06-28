@@ -2,13 +2,14 @@
   "id": 152984021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177455,33.527673,-112.177455,33.527673",
     "geom:latitude":33.527673,
     "geom:longitude":-112.177455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 N 55th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152984021,
-    "wof:lastmodified":1449046918,
+    "wof:lastmodified":1466329161,
     "wof:name":"Arizona Auto Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177455,33.527673,-112.177455,33.527673],
-  "geometry": {"coordinates":[-112.177455,33.527673],"type":"Point"}
+  "bbox": [
+    -112.177455,
+    33.527673,
+    -112.177455,
+    33.527673
+],
+  "geometry": {"coordinates":[-112.17745499999999,33.527673],"type":"Point"}
 }

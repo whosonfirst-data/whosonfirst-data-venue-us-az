@@ -2,13 +2,14 @@
   "id": 320686091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.083369,33.49275,-112.083369,33.49275",
     "geom:latitude":33.49275,
     "geom:longitude":-112.083369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 N 7th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320686091,
-    "wof:lastmodified":1449014055,
+    "wof:lastmodified":1466328003,
     "wof:name":"USPS - United States Post Office - Osborn Station",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-112.083369,33.49275,-112.083369,33.49275],
+  "bbox": [
+    -112.083369,
+    33.49275,
+    -112.083369,
+    33.49275
+],
   "geometry": {"coordinates":[-112.083369,33.49275],"type":"Point"}
 }

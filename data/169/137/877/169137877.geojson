@@ -2,13 +2,14 @@
   "id": 169137877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.902947,32.199858,-110.902947,32.199858",
     "geom:latitude":32.199858,
     "geom:longitude":-110.902947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4129 E 29th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842593,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85842593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169137877,
-    "wof:lastmodified":1449035508,
+    "wof:lastmodified":1466331455,
     "wof:name":"Monterey Market",
     "wof:parent_id":85842593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.902947,32.199858,-110.902947,32.199858],
+  "bbox": [
+    -110.902947,
+    32.199858,
+    -110.902947,
+    32.199858
+],
   "geometry": {"coordinates":[-110.902947,32.199858],"type":"Point"}
 }

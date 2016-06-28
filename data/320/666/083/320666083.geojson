@@ -2,13 +2,14 @@
   "id": 320666083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.143236,33.432962,-112.143236,33.432962",
     "geom:latitude":33.432962,
     "geom:longitude":-112.143236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 S 39th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320666083,
-    "wof:lastmodified":1449012645,
+    "wof:lastmodified":1466327423,
     "wof:name":"Southwest Roadmaster",
     "wof:parent_id":85840779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-112.143236,33.432962,-112.143236,33.432962],
+  "bbox": [
+    -112.143236,
+    33.432962,
+    -112.143236,
+    33.432962
+],
   "geometry": {"coordinates":[-112.143236,33.432962],"type":"Point"}
 }

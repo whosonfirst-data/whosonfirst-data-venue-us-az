@@ -2,13 +2,14 @@
   "id": 169285213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.337033,34.653671,-112.337033,34.653671",
     "geom:latitude":34.653671,
     "geom:longitude":-112.337033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7715 N Sage Vis",
     "sg:city":"Prescott Valley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809759,
+        85688719,
         85633793,
         85917381,
         102081535,
-        85688719
+        85809759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169285213,
-    "wof:lastmodified":1449032781,
+    "wof:lastmodified":1466332836,
     "wof:name":"Jmac Builders Inc",
     "wof:parent_id":85809759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.337033,34.653671,-112.337033,34.653671],
-  "geometry": {"coordinates":[-112.337033,34.653671],"type":"Point"}
+  "bbox": [
+    -112.337033,
+    34.653671,
+    -112.337033,
+    34.653671
+],
+  "geometry": {"coordinates":[-112.33703300000001,34.653671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353712011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.581211,32.651309,-114.581211,32.651309",
     "geom:latitude":32.651309,
     "geom:longitude":-114.581211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 S Avenue 3 E 3 E Ste A",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":353712011,
-    "wof:lastmodified":1449019345,
+    "wof:lastmodified":1466329949,
     "wof:name":"Legacy Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-114.581211,32.651309,-114.581211,32.651309],
+  "bbox": [
+    -114.581211,
+    32.651309,
+    -114.581211,
+    32.651309
+],
   "geometry": {"coordinates":[-114.581211,32.651309],"type":"Point"}
 }

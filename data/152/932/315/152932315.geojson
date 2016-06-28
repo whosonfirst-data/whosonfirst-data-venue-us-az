@@ -2,13 +2,14 @@
   "id": 152932315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.876308,33.571549,-111.876308,33.571549",
     "geom:latitude":33.571549,
     "geom:longitude":-111.876308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9390 N 95th St",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85803087
+        85633793,
+        85803087,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152932315,
-    "wof:lastmodified":1449046025,
+    "wof:lastmodified":1466326138,
     "wof:name":"Sunglass Designs",
     "wof:parent_id":85803087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.876308,33.571549,-111.876308,33.571549],
-  "geometry": {"coordinates":[-111.876308,33.571549],"type":"Point"}
+  "bbox": [
+    -111.876308,
+    33.571549,
+    -111.876308,
+    33.571549
+],
+  "geometry": {"coordinates":[-111.87630799999999,33.571549],"type":"Point"}
 }

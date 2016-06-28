@@ -2,13 +2,14 @@
   "id": 169418399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.905922,33.418953,-111.905922,33.418953",
     "geom:latitude":33.418953,
     "geom:longitude":-111.905922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 E Hayden Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881381,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169418399,
-    "wof:lastmodified":1449035246,
+    "wof:lastmodified":1466334184,
     "wof:name":"Hayden Terrace Apartments",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.905922,33.418953,-111.905922,33.418953],
+  "bbox": [
+    -111.905922,
+    33.418953,
+    -111.905922,
+    33.418953
+],
   "geometry": {"coordinates":[-111.905922,33.418953],"type":"Point"}
 }

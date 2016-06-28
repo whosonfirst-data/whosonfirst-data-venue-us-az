@@ -2,13 +2,14 @@
   "id": 169308029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.573535,33.379579,-112.573535,33.379579",
     "geom:latitude":33.379579,
     "geom:longitude":-112.573535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 N Apache Rd",
     "sg:city":"Buckeye",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169308029,
-    "wof:lastmodified":1449036054,
+    "wof:lastmodified":1466333041,
     "wof:name":"Beckner Honey Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.573535,33.379579,-112.573535,33.379579],
-  "geometry": {"coordinates":[-112.573535,33.379579],"type":"Point"}
+  "bbox": [
+    -112.573535,
+    33.379579,
+    -112.573535,
+    33.379579
+],
+  "geometry": {"coordinates":[-112.57353500000001,33.379579],"type":"Point"}
 }

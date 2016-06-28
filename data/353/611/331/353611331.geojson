@@ -2,13 +2,14 @@
   "id": 353611331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.234467,33.65271,-112.234467,33.65271",
     "geom:latitude":33.65271,
     "geom:longitude":-112.234467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8251 W Union Hills Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":353611331,
-    "wof:lastmodified":1449020280,
+    "wof:lastmodified":1466328664,
     "wof:name":"Nowcare",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "care"
     ]
 },
-  "bbox": [-112.234467,33.65271,-112.234467,33.65271],
+  "bbox": [
+    -112.234467,
+    33.65271,
+    -112.234467,
+    33.65271
+],
   "geometry": {"coordinates":[-112.234467,33.65271],"type":"Point"}
 }

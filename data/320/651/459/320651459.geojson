@@ -2,13 +2,14 @@
   "id": 320651459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.105957,33.461924,-112.105957,33.461924",
     "geom:latitude":33.461924,
     "geom:longitude":-112.105957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 N 22nd Ave # 2",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320651459,
-    "wof:lastmodified":1449012003,
+    "wof:lastmodified":1466327042,
     "wof:name":"American Bar & Restaurant Supl",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-112.105957,33.461924,-112.105957,33.461924],
+  "bbox": [
+    -112.105957,
+    33.461924,
+    -112.105957,
+    33.461924
+],
   "geometry": {"coordinates":[-112.105957,33.461924],"type":"Point"}
 }

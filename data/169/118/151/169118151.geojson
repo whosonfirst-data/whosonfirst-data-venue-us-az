@@ -2,13 +2,14 @@
   "id": 169118151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.782413,34.637059,-111.782413,34.637059",
     "geom:latitude":34.637059,
     "geom:longitude":-111.782413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3840 E Sycamore Ln",
     "sg:city":"Rimrock",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853611,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85853611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169118151,
-    "wof:lastmodified":1449035329,
+    "wof:lastmodified":1466331317,
     "wof:name":"Rick Windes Wood Floors",
     "wof:parent_id":85853611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.782413,34.637059,-111.782413,34.637059],
-  "geometry": {"coordinates":[-111.782413,34.637059],"type":"Point"}
+  "bbox": [
+    -111.782413,
+    34.637059,
+    -111.782413,
+    34.637059
+],
+  "geometry": {"coordinates":[-111.78241300000001,34.637059],"type":"Point"}
 }

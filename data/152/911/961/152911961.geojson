@@ -2,13 +2,14 @@
   "id": 152911961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.365901,34.5418,-114.365901,34.5418",
     "geom:latitude":34.5418,
     "geom:longitude":-114.365901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Perlite Ln",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152911961,
-    "wof:lastmodified":1449048162,
+    "wof:lastmodified":1466325903,
     "wof:name":"Austin's Painting & Repainting",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.365901,34.5418,-114.365901,34.5418],
-  "geometry": {"coordinates":[-114.365901,34.5418],"type":"Point"}
+  "bbox": [
+    -114.365901,
+    34.5418,
+    -114.365901,
+    34.5418
+],
+  "geometry": {"coordinates":[-114.36590099999999,34.5418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353861503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.972369,32.130379,-110.972369,32.130379",
     "geom:latitude":32.130379,
     "geom:longitude":-110.972369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Medina Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353861503,
-    "wof:lastmodified":1449020771,
+    "wof:lastmodified":1466330873,
     "wof:name":"Saint Monica Church",
     "wof:parent_id":85871753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-110.972369,32.130379,-110.972369,32.130379],
+  "bbox": [
+    -110.972369,
+    32.130379,
+    -110.972369,
+    32.130379
+],
   "geometry": {"coordinates":[-110.972369,32.130379],"type":"Point"}
 }

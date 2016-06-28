@@ -2,13 +2,14 @@
   "id": 169398535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.100119,33.602392,-112.100119,33.602392",
     "geom:latitude":33.602392,
     "geom:longitude":-112.100119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1932 W Aster Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852225,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169398535,
-    "wof:lastmodified":1449032942,
+    "wof:lastmodified":1466333974,
     "wof:name":"Rage N Glory Fight Gear",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.100119,33.602392,-112.100119,33.602392],
-  "geometry": {"coordinates":[-112.100119,33.602392],"type":"Point"}
+  "bbox": [
+    -112.100119,
+    33.602392,
+    -112.100119,
+    33.602392
+],
+  "geometry": {"coordinates":[-112.10011900000001,33.602392],"type":"Point"}
 }

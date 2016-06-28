@@ -2,13 +2,14 @@
   "id": 336751323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.842911,33.435139,-111.842911,33.435139",
     "geom:latitude":33.435139,
     "geom:longitude":-111.842911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 W Brown Rd Suite 1017",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336751323,
-    "wof:lastmodified":1448996976,
+    "wof:lastmodified":1466328825,
     "wof:name":"STD Test Express Mesa",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-111.842911,33.435139,-111.842911,33.435139],
+  "bbox": [
+    -111.842911,
+    33.435139,
+    -111.842911,
+    33.435139
+],
   "geometry": {"coordinates":[-111.842911,33.435139],"type":"Point"}
 }

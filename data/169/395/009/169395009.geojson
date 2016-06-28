@@ -2,13 +2,14 @@
   "id": 169395009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.815144,32.263175,-110.815144,32.263175",
     "geom:latitude":32.263175,
     "geom:longitude":-110.815144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 N Elena Maria",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169395009,
-    "wof:lastmodified":1449035480,
+    "wof:lastmodified":1466333909,
     "wof:name":"Valley Plastering Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.815144,32.263175,-110.815144,32.263175],
+  "bbox": [
+    -110.815144,
+    32.263175,
+    -110.815144,
+    32.263175
+],
   "geometry": {"coordinates":[-110.815144,32.263175],"type":"Point"}
 }

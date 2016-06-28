@@ -2,13 +2,14 @@
   "id": 168923599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.838337,33.353301,-111.838337,33.353301",
     "geom:latitude":33.353301,
     "geom:longitude":-111.838337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3175 N Colorado St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836675,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85836675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168923599,
-    "wof:lastmodified":1449028560,
+    "wof:lastmodified":1466330396,
     "wof:name":"T H T Sales Co",
     "wof:parent_id":85836675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.838337,33.353301,-111.838337,33.353301],
+  "bbox": [
+    -111.838337,
+    33.353301,
+    -111.838337,
+    33.353301
+],
   "geometry": {"coordinates":[-111.838337,33.353301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320735645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023136,33.494978,-112.023136,33.494978",
     "geom:latitude":33.494978,
     "geom:longitude":-112.023136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 E Indian School Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320735645,
-    "wof:lastmodified":1449014880,
+    "wof:lastmodified":1466328579,
     "wof:name":"Greenberg Traurig",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-112.023136,33.494978,-112.023136,33.494978],
-  "geometry": {"coordinates":[-112.023136,33.494978],"type":"Point"}
+  "bbox": [
+    -112.023136,
+    33.494978,
+    -112.023136,
+    33.494978
+],
+  "geometry": {"coordinates":[-112.02313599999999,33.494978],"type":"Point"}
 }

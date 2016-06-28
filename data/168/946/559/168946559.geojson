@@ -2,13 +2,14 @@
   "id": 168946559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.18626,33.638791,-112.18626,33.638791",
     "geom:latitude":33.638791,
     "geom:longitude":-112.18626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 W Bell Rd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846577,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85846577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168946559,
-    "wof:lastmodified":1449028499,
+    "wof:lastmodified":1466330946,
     "wof:name":"Acrylic Spas International",
     "wof:parent_id":85846577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.18626,33.638791,-112.18626,33.638791],
+  "bbox": [
+    -112.18626,
+    33.638791,
+    -112.18626,
+    33.638791
+],
   "geometry": {"coordinates":[-112.18626,33.638791],"type":"Point"}
 }

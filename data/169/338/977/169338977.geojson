@@ -2,13 +2,14 @@
   "id": 169338977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.953968,35.266453,-113.953968,35.266453",
     "geom:latitude":35.266453,
     "geom:longitude":-113.953968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 Mohave Airport Dr",
     "sg:city":"Kingman",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821441,
+        85688719,
         85633793,
         85917409,
         102087427,
-        85688719
+        85821441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169338977,
-    "wof:lastmodified":1449033831,
+    "wof:lastmodified":1466333416,
     "wof:name":"American Woodmark Corporation",
     "wof:parent_id":85821441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.953968,35.266453,-113.953968,35.266453],
+  "bbox": [
+    -113.953968,
+    35.266453,
+    -113.953968,
+    35.266453
+],
   "geometry": {"coordinates":[-113.953968,35.266453],"type":"Point"}
 }

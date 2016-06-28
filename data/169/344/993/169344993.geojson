@@ -2,13 +2,14 @@
   "id": 169344993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.979848,32.197041,-110.979848,32.197041",
     "geom:latitude":32.197041,
     "geom:longitude":-110.979848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 W el Puente Ln",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169344993,
-    "wof:lastmodified":1449032851,
+    "wof:lastmodified":1466333551,
     "wof:name":"Los Changuitos Feos",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.979848,32.197041,-110.979848,32.197041],
+  "bbox": [
+    -110.979848,
+    32.197041,
+    -110.979848,
+    32.197041
+],
   "geometry": {"coordinates":[-110.979848,32.197041],"type":"Point"}
 }

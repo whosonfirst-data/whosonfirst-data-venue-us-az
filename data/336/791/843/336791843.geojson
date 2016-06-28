@@ -2,13 +2,14 @@
   "id": 336791843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.806,33.389,-111.806,33.389",
     "geom:latitude":33.389,
     "geom:longitude":-111.806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 S Stapley Dr Ste 11",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336791843,
-    "wof:lastmodified":1448997784,
+    "wof:lastmodified":1466329317,
     "wof:name":"Stratum Laser Tag",
     "wof:parent_id":85858553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.806,33.389,-111.806,33.389],
+  "bbox": [
+    -111.806,
+    33.389,
+    -111.806,
+    33.389
+],
   "geometry": {"coordinates":[-111.806,33.389],"type":"Point"}
 }

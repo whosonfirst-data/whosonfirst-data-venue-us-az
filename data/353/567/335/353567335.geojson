@@ -2,13 +2,14 @@
   "id": 353567335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.197184,33.511244,-112.197184,33.511244",
     "geom:latitude":33.511244,
     "geom:longitude":-112.197184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6417 W Windsor Blvd",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353567335,
-    "wof:lastmodified":1449020816,
+    "wof:lastmodified":1466328183,
     "wof:name":"Carlos Lopez Tapia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.197184,33.511244,-112.197184,33.511244],
-  "geometry": {"coordinates":[-112.197184,33.511244],"type":"Point"}
+  "bbox": [
+    -112.197184,
+    33.511244,
+    -112.197184,
+    33.511244
+],
+  "geometry": {"coordinates":[-112.19718399999999,33.511244],"type":"Point"}
 }

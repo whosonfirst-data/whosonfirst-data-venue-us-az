@@ -2,13 +2,14 @@
   "id": 337466365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.887303,33.298469,-111.887303,33.298469",
     "geom:latitude":33.298469,
     "geom:longitude":-111.887303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 W Frye Rd Ste 5",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337466365,
-    "wof:lastmodified":1449027186,
+    "wof:lastmodified":1466326004,
     "wof:name":"Drs Goodman and Partrdige Obgyn",
     "wof:parent_id":85876691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-111.887303,33.298469,-111.887303,33.298469],
+  "bbox": [
+    -111.887303,
+    33.298469,
+    -111.887303,
+    33.298469
+],
   "geometry": {"coordinates":[-111.887303,33.298469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336686637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.203981,33.42086,-112.203981,33.42086",
     "geom:latitude":33.42086,
     "geom:longitude":-112.203981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3022 S 67th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336686637,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466327809,
     "wof:name":"Septic Systems",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [-112.203981,33.42086,-112.203981,33.42086],
+  "bbox": [
+    -112.203981,
+    33.42086,
+    -112.203981,
+    33.42086
+],
   "geometry": {"coordinates":[-112.203981,33.42086],"type":"Point"}
 }

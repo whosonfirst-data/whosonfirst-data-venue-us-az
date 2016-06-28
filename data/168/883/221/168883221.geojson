@@ -2,13 +2,14 @@
   "id": 168883221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.927388,32.170506,-110.927388,32.170506",
     "geom:latitude":32.170506,
     "geom:longitude":-110.927388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 E Michigan St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168883221,
-    "wof:lastmodified":1449028390,
+    "wof:lastmodified":1466328475,
     "wof:name":"A R K Wall Systems",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.927388,32.170506,-110.927388,32.170506],
-  "geometry": {"coordinates":[-110.927388,32.170506],"type":"Point"}
+  "bbox": [
+    -110.927388,
+    32.170506,
+    -110.927388,
+    32.170506
+],
+  "geometry": {"coordinates":[-110.92738799999999,32.170506],"type":"Point"}
 }

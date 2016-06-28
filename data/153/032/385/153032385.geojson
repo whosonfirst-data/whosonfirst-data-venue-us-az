@@ -2,13 +2,14 @@
   "id": 153032385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021633,33.482365,-112.021633,33.482365",
     "geom:latitude":33.482365,
     "geom:longitude":-112.021633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3026 N 28th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850845,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85850845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153032385,
-    "wof:lastmodified":1449040562,
+    "wof:lastmodified":1466325940,
     "wof:name":"R D H Environmental Svcs L L C",
     "wof:parent_id":85850845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.021633,33.482365,-112.021633,33.482365],
-  "geometry": {"coordinates":[-112.021633,33.482365],"type":"Point"}
+  "bbox": [
+    -112.021633,
+    33.482365,
+    -112.021633,
+    33.482365
+],
+  "geometry": {"coordinates":[-112.02163299999999,33.482365],"type":"Point"}
 }

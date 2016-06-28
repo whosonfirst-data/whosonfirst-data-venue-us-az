@@ -2,13 +2,14 @@
   "id": 169095775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.285989,31.56201,-110.285989,31.56201",
     "geom:latitude":31.56201,
     "geom:longitude":-110.285989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1347 Acacia Dr",
     "sg:city":"Sierra Vista",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853855,
+        85688719,
         85633793,
         85917181,
         102087425,
-        85688719
+        85853855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169095775,
-    "wof:lastmodified":1449034358,
+    "wof:lastmodified":1466330814,
     "wof:name":"Fleet Wash Of Az",
     "wof:parent_id":85853855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.285989,31.56201,-110.285989,31.56201],
+  "bbox": [
+    -110.285989,
+    31.56201,
+    -110.285989,
+    31.56201
+],
   "geometry": {"coordinates":[-110.285989,31.56201],"type":"Point"}
 }

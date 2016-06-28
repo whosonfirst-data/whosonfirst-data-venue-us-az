@@ -2,13 +2,14 @@
   "id": 336665287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001931,33.407542,-112.001931,33.407542",
     "geom:latitude":33.407542,
     "geom:longitude":-112.001931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4231 S 37th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336665287,
-    "wof:lastmodified":1448997276,
+    "wof:lastmodified":1466327311,
     "wof:name":"Exterior Designs Of Arizona",
     "wof:parent_id":85811035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.001931,33.407542,-112.001931,33.407542],
+  "bbox": [
+    -112.001931,
+    33.407542,
+    -112.001931,
+    33.407542
+],
   "geometry": {"coordinates":[-112.001931,33.407542],"type":"Point"}
 }

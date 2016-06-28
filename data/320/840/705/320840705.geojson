@@ -2,13 +2,14 @@
   "id": 320840705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098259,33.609775,-112.098259,33.609775",
     "geom:latitude":33.609775,
     "geom:longitude":-112.098259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13609 N 18TH DR",
     "sg:city":"PHOENIX",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":320840705,
-    "wof:lastmodified":1449014125,
+    "wof:lastmodified":1466330161,
     "wof:name":"Paul's Taxi",
     "wof:parent_id":85852225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098259,33.609775,-112.098259,33.609775],
+  "bbox": [
+    -112.098259,
+    33.609775,
+    -112.098259,
+    33.609775
+],
   "geometry": {"coordinates":[-112.098259,33.609775],"type":"Point"}
 }

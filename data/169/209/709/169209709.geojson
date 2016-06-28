@@ -2,13 +2,14 @@
   "id": 169209709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.489244,33.510879,-112.489244,33.510879",
     "geom:latitude":33.510879,
     "geom:longitude":-112.489244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20151 W Pasadena Ave",
     "sg:city":"Litchfield Park",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169209709,
-    "wof:lastmodified":1449035604,
+    "wof:lastmodified":1466332243,
     "wof:name":"Face To Face Panels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.489244,33.510879,-112.489244,33.510879],
+  "bbox": [
+    -112.489244,
+    33.510879,
+    -112.489244,
+    33.510879
+],
   "geometry": {"coordinates":[-112.489244,33.510879],"type":"Point"}
 }

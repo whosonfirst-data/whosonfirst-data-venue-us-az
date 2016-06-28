@@ -2,13 +2,14 @@
   "id": 169367389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.385584,33.635539,-112.385584,33.635539",
     "geom:latitude":33.635539,
     "geom:longitude":-112.385584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15060 W Post Dr",
     "sg:city":"Surprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831069,
+        85688719,
         85633793,
         85917473,
         102087421,
-        85688719
+        85831069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169367389,
-    "wof:lastmodified":1449034639,
+    "wof:lastmodified":1466333620,
     "wof:name":"F K Maintenance Svc",
     "wof:parent_id":85831069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.385584,33.635539,-112.385584,33.635539],
-  "geometry": {"coordinates":[-112.385584,33.635539],"type":"Point"}
+  "bbox": [
+    -112.385584,
+    33.635539,
+    -112.385584,
+    33.635539
+],
+  "geometry": {"coordinates":[-112.38558399999999,33.635539],"type":"Point"}
 }

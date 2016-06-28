@@ -2,13 +2,14 @@
   "id": 169398479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.015729,34.192063,-110.015729,34.192063",
     "geom:latitude":34.192063,
     "geom:longitude":-110.015729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5658 State Hwy 260",
     "sg:city":"Lakeside",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.westerntrust.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845979,
+        85688719,
         85633793,
         85917581,
         102081137,
-        85688719
+        85845979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169398479,
-    "wof:lastmodified":1449032943,
+    "wof:lastmodified":1466334122,
     "wof:name":"Western Truss & Components",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.015729,34.192063,-110.015729,34.192063],
-  "geometry": {"coordinates":[-110.015729,34.192063],"type":"Point"}
+  "bbox": [
+    -110.015729,
+    34.192063,
+    -110.015729,
+    34.192063
+],
+  "geometry": {"coordinates":[-110.01572899999999,34.192063],"type":"Point"}
 }

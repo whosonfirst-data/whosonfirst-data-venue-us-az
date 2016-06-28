@@ -2,13 +2,14 @@
   "id": 336784187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.807127,33.437982,-111.807127,33.437982",
     "geom:latitude":33.437982,
     "geom:longitude":-111.807127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 E Greenway St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336784187,
-    "wof:lastmodified":1448997650,
+    "wof:lastmodified":1466329410,
     "wof:name":"McKindles Law Firm PLLC",
     "wof:parent_id":85858913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "law"
     ]
 },
-  "bbox": [-111.807127,33.437982,-111.807127,33.437982],
-  "geometry": {"coordinates":[-111.807127,33.437982],"type":"Point"}
+  "bbox": [
+    -111.807127,
+    33.437982,
+    -111.807127,
+    33.437982
+],
+  "geometry": {"coordinates":[-111.80712699999999,33.437982],"type":"Point"}
 }

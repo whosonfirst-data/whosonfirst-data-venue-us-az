@@ -2,13 +2,14 @@
   "id": 168872011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.027716,33.626382,-112.027716,33.626382",
     "geom:latitude":33.626382,
     "geom:longitude":-112.027716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2534 E Greenway Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851569,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85851569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168872011,
-    "wof:lastmodified":1449027845,
+    "wof:lastmodified":1466327626,
     "wof:name":"Super Carniceria Parral",
     "wof:parent_id":85851569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.027716,33.626382,-112.027716,33.626382],
+  "bbox": [
+    -112.027716,
+    33.626382,
+    -112.027716,
+    33.626382
+],
   "geometry": {"coordinates":[-112.027716,33.626382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336756535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.857887,33.414951,-111.857887,33.414951",
     "geom:latitude":33.414951,
     "geom:longitude":-111.857887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 W Main St",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336756535,
-    "wof:lastmodified":1448997584,
+    "wof:lastmodified":1466328908,
     "wof:name":"Speedy Cash",
     "wof:parent_id":85872453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "check"
     ]
 },
-  "bbox": [-111.857887,33.414951,-111.857887,33.414951],
-  "geometry": {"coordinates":[-111.857887,33.414951],"type":"Point"}
+  "bbox": [
+    -111.857887,
+    33.414951,
+    -111.857887,
+    33.414951
+],
+  "geometry": {"coordinates":[-111.85788700000001,33.414951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153031189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.168548,33.598095,-112.168548,33.598095",
     "geom:latitude":33.598095,
     "geom:longitude":-112.168548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12236 N 51st Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808757,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153031189,
-    "wof:lastmodified":1449040518,
+    "wof:lastmodified":1466325856,
     "wof:name":"Custom-Fit Denture Lab",
     "wof:parent_id":85808757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.168548,33.598095,-112.168548,33.598095],
+  "bbox": [
+    -112.168548,
+    33.598095,
+    -112.168548,
+    33.598095
+],
   "geometry": {"coordinates":[-112.168548,33.598095],"type":"Point"}
 }

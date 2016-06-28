@@ -2,13 +2,14 @@
   "id": 336781047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.813578,33.457931,-111.813578,33.457931",
     "geom:latitude":33.457931,
     "geom:longitude":-111.813578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 N Horne",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336781047,
-    "wof:lastmodified":1448997154,
+    "wof:lastmodified":1466329379,
     "wof:name":"Mesa Historical Museum",
     "wof:parent_id":85830207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attraction"
     ]
 },
-  "bbox": [-111.813578,33.457931,-111.813578,33.457931],
-  "geometry": {"coordinates":[-111.813578,33.457931],"type":"Point"}
+  "bbox": [
+    -111.813578,
+    33.457931,
+    -111.813578,
+    33.457931
+],
+  "geometry": {"coordinates":[-111.81357800000001,33.457931],"type":"Point"}
 }

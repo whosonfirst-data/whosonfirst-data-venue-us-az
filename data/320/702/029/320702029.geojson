@@ -2,13 +2,14 @@
   "id": 320702029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.098602,33.502281,-112.098602,33.502281",
     "geom:latitude":33.502281,
     "geom:longitude":-112.098602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 N 18th Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320702029,
-    "wof:lastmodified":1449013130,
+    "wof:lastmodified":1466328093,
     "wof:name":"Tran International",
     "wof:parent_id":85802699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.098602,33.502281,-112.098602,33.502281],
+  "bbox": [
+    -112.098602,
+    33.502281,
+    -112.098602,
+    33.502281
+],
   "geometry": {"coordinates":[-112.098602,33.502281],"type":"Point"}
 }

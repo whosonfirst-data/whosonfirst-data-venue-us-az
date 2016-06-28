@@ -2,13 +2,14 @@
   "id": 336786945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.786092,33.379094,-111.786092,33.379094",
     "geom:latitude":33.379094,
     "geom:longitude":-111.786092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2136 E Baseline Road",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336786945,
-    "wof:lastmodified":1448997069,
+    "wof:lastmodified":1466329242,
     "wof:name":"Room 4 Baby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-111.786092,33.379094,-111.786092,33.379094],
+  "bbox": [
+    -111.786092,
+    33.379094,
+    -111.786092,
+    33.379094
+],
   "geometry": {"coordinates":[-111.786092,33.379094],"type":"Point"}
 }

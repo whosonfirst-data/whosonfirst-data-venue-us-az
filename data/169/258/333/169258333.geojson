@@ -2,13 +2,14 @@
   "id": 169258333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.0199,33.599994,-112.0199,33.599994",
     "geom:latitude":33.599994,
     "geom:longitude":-112.0199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2827 E Corrine Dr",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808751,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85808751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169258333,
-    "wof:lastmodified":1449035283,
+    "wof:lastmodified":1466332548,
     "wof:name":"Computerized Management System",
     "wof:parent_id":85808751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.0199,33.599994,-112.0199,33.599994],
-  "geometry": {"coordinates":[-112.0199,33.599994],"type":"Point"}
+  "bbox": [
+    -112.0199,
+    33.599994,
+    -112.0199,
+    33.599994
+],
+  "geometry": {"coordinates":[-112.01990000000001,33.599994],"type":"Point"}
 }

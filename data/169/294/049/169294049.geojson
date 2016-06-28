@@ -2,13 +2,14 @@
   "id": 169294049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.90903,33.404686,-111.90903,33.404686",
     "geom:latitude":33.404686,
     "geom:longitude":-111.90903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 S McClintock Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     "sg:website":"www.cdmarksman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881403,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":169294049,
-    "wof:lastmodified":1449035032,
+    "wof:lastmodified":1466332914,
     "wof:name":"C D Marksman",
     "wof:parent_id":85881403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.90903,33.404686,-111.90903,33.404686],
+  "bbox": [
+    -111.90903,
+    33.404686,
+    -111.90903,
+    33.404686
+],
   "geometry": {"coordinates":[-111.90903,33.404686],"type":"Point"}
 }

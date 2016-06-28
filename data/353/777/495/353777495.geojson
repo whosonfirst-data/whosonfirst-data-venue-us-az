@@ -2,13 +2,14 @@
   "id": 353777495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.717002,32.777276,-109.717002,32.777276",
     "geom:latitude":32.777276,
     "geom:longitude":-109.717002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 W Substation Ln",
     "sg:city":"Safford",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353777495,
-    "wof:lastmodified":1449019599,
+    "wof:lastmodified":1466330130,
     "wof:name":"Coronado Fabricators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.717002,32.777276,-109.717002,32.777276],
-  "geometry": {"coordinates":[-109.717002,32.777276],"type":"Point"}
+  "bbox": [
+    -109.717002,
+    32.777276,
+    -109.717002,
+    32.777276
+],
+  "geometry": {"coordinates":[-109.71700199999999,32.777276],"type":"Point"}
 }

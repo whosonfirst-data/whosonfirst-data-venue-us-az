@@ -2,13 +2,14 @@
   "id": 169376699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.942013,33.405276,-111.942013,33.405276",
     "geom:latitude":33.405276,
     "geom:longitude":-111.942013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 W Cottage Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881389,
+        85688719,
         85633793,
         85917469,
         102087421,
-        85688719
+        85881389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169376699,
-    "wof:lastmodified":1449033816,
+    "wof:lastmodified":1466333765,
     "wof:name":"Burgis Technical LLC",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.942013,33.405276,-111.942013,33.405276],
+  "bbox": [
+    -111.942013,
+    33.405276,
+    -111.942013,
+    33.405276
+],
   "geometry": {"coordinates":[-111.942013,33.405276],"type":"Point"}
 }

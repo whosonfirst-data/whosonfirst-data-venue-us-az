@@ -2,13 +2,14 @@
   "id": 320646433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.992363,33.465803,-111.992363,33.465803",
     "geom:latitude":33.465803,
     "geom:longitude":-111.992363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 N 41st Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320646433,
-    "wof:lastmodified":1449011170,
+    "wof:lastmodified":1466326922,
     "wof:name":"Elzo Trade Printing",
     "wof:parent_id":85843765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-111.992363,33.465803,-111.992363,33.465803],
+  "bbox": [
+    -111.992363,
+    33.465803,
+    -111.992363,
+    33.465803
+],
   "geometry": {"coordinates":[-111.992363,33.465803],"type":"Point"}
 }

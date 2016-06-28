@@ -2,13 +2,14 @@
   "id": 169319983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.328853,34.475612,-114.328853,34.475612",
     "geom:latitude":34.475612,
     "geom:longitude":-114.328853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 McCulloch Blvd N",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alltechcomp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845185,
+        85688719,
         85633793,
         85917401,
         102087427,
-        85688719
+        85845185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169319983,
-    "wof:lastmodified":1449034031,
+    "wof:lastmodified":1466333240,
     "wof:name":"All-Tech",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.328853,34.475612,-114.328853,34.475612],
+  "bbox": [
+    -114.328853,
+    34.475612,
+    -114.328853,
+    34.475612
+],
   "geometry": {"coordinates":[-114.328853,34.475612],"type":"Point"}
 }

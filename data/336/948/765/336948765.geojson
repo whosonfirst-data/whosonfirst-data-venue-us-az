@@ -2,13 +2,14 @@
   "id": 336948765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.819273,33.229284,-111.819273,33.229284",
     "geom:latitude":33.229284,
     "geom:longitude":-111.819273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12215 E Teakwood Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336948765,
-    "wof:lastmodified":1448997811,
+    "wof:lastmodified":1466330688,
     "wof:name":"B&G Electric",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-111.819273,33.229284,-111.819273,33.229284],
+  "bbox": [
+    -111.819273,
+    33.229284,
+    -111.819273,
+    33.229284
+],
   "geometry": {"coordinates":[-111.819273,33.229284],"type":"Point"}
 }

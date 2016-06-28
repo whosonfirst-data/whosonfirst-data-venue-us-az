@@ -2,13 +2,14 @@
   "id": 336891625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.987278,33.270135,-111.987278,33.270135",
     "geom:latitude":33.270135,
     "geom:longitude":-111.987278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5718 W North Loop Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336891625,
-    "wof:lastmodified":1448997592,
+    "wof:lastmodified":1466330213,
     "wof:name":"Gila River Indian Community",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-111.987278,33.270135,-111.987278,33.270135],
+  "bbox": [
+    -111.987278,
+    33.270135,
+    -111.987278,
+    33.270135
+],
   "geometry": {"coordinates":[-111.987278,33.270135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169194039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.888406,33.35031,-111.888406,33.35031",
     "geom:latitude":33.35031,
     "geom:longitude":-111.888406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 W Bentrup St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85851913
+        85633793,
+        85851913,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169194039,
-    "wof:lastmodified":1449035487,
+    "wof:lastmodified":1466332045,
     "wof:name":"American National Technologies",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.888406,33.35031,-111.888406,33.35031],
+  "bbox": [
+    -111.888406,
+    33.35031,
+    -111.888406,
+    33.35031
+],
   "geometry": {"coordinates":[-111.888406,33.35031],"type":"Point"}
 }

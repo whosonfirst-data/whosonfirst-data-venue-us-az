@@ -2,13 +2,14 @@
   "id": 169005615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.953569,32.214825,-110.953569,32.214825",
     "geom:latitude":32.214825,
     "geom:longitude":-110.953569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 E 16th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169005615,
-    "wof:lastmodified":1449035692,
+    "wof:lastmodified":1466326234,
     "wof:name":"Achilles Air Conditioning",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.953569,32.214825,-110.953569,32.214825],
+  "bbox": [
+    -110.953569,
+    32.214825,
+    -110.953569,
+    32.214825
+],
   "geometry": {"coordinates":[-110.953569,32.214825],"type":"Point"}
 }

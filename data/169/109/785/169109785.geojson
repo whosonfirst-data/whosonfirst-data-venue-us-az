@@ -2,13 +2,14 @@
   "id": 169109785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.697036,33.266675,-111.697036,33.266675",
     "geom:latitude":33.266675,
     "geom:longitude":-111.697036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4322 E Branded Rd",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876667,
+        85688719,
         85633793,
         85917513,
         102087421,
-        85688719
+        85876667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169109785,
-    "wof:lastmodified":1449033832,
+    "wof:lastmodified":1466331167,
     "wof:name":"Interior Ideas By Kristine",
     "wof:parent_id":85876667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.697036,33.266675,-111.697036,33.266675],
+  "bbox": [
+    -111.697036,
+    33.266675,
+    -111.697036,
+    33.266675
+],
   "geometry": {"coordinates":[-111.697036,33.266675],"type":"Point"}
 }

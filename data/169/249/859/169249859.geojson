@@ -2,13 +2,14 @@
   "id": 169249859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.255191,33.592563,-112.255191,33.592563",
     "geom:latitude":33.592563,
     "geom:longitude":-112.255191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11782 N 91st Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853821,
+        85688719,
         85633793,
         85919047,
         102087421,
-        85688719
+        85853821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169249859,
-    "wof:lastmodified":1449032855,
+    "wof:lastmodified":1466332484,
     "wof:name":"Maximum Velocity",
     "wof:parent_id":85853821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.255191,33.592563,-112.255191,33.592563],
+  "bbox": [
+    -112.255191,
+    33.592563,
+    -112.255191,
+    33.592563
+],
   "geometry": {"coordinates":[-112.255191,33.592563],"type":"Point"}
 }

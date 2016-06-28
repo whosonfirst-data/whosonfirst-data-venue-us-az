@@ -2,13 +2,14 @@
   "id": 169304005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.973403,32.22168,-110.973403,32.22168",
     "geom:latitude":32.22168,
     "geom:longitude":-110.973403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W Congress St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.pima.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871765,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169304005,
-    "wof:lastmodified":1449035130,
+    "wof:lastmodified":1466333002,
     "wof:name":"Pima County Finance Dept",
     "wof:parent_id":85871765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.973403,32.22168,-110.973403,32.22168],
+  "bbox": [
+    -110.973403,
+    32.22168,
+    -110.973403,
+    32.22168
+],
   "geometry": {"coordinates":[-110.973403,32.22168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320836819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.978589,33.582779,-111.978589,33.582779",
     "geom:latitude":33.582779,
     "geom:longitude":-111.978589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4740 E Shea Blvd # 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":320836819,
-    "wof:lastmodified":1449013738,
+    "wof:lastmodified":1466330352,
     "wof:name":"Regency MedSpa",
     "wof:parent_id":85853825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.978589,33.582779,-111.978589,33.582779],
+  "bbox": [
+    -111.978589,
+    33.582779,
+    -111.978589,
+    33.582779
+],
   "geometry": {"coordinates":[-111.978589,33.582779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169364247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.725155,32.231403,-110.725155,32.231403",
     "geom:latitude":32.231403,
     "geom:longitude":-110.725155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 N Cam del Codorniz",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.skbuilders.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851817,
+        85688719,
         85633793,
         85918039,
         102081135,
-        85688719
+        85851817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169364247,
-    "wof:lastmodified":1449034544,
+    "wof:lastmodified":1466333602,
     "wof:name":"S K Builders Inc",
     "wof:parent_id":85851817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.725155,32.231403,-110.725155,32.231403],
+  "bbox": [
+    -110.725155,
+    32.231403,
+    -110.725155,
+    32.231403
+],
   "geometry": {"coordinates":[-110.725155,32.231403],"type":"Point"}
 }

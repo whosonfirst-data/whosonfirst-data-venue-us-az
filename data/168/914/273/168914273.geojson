@@ -2,13 +2,14 @@
   "id": 168914273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.774189,32.206408,-110.774189,32.206408",
     "geom:latitude":32.206408,
     "geom:longitude":-110.774189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10275 E 22nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871739,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168914273,
-    "wof:lastmodified":1449028052,
+    "wof:lastmodified":1466330151,
     "wof:name":"Quik Mart",
     "wof:parent_id":85871739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.774189,32.206408,-110.774189,32.206408],
-  "geometry": {"coordinates":[-110.774189,32.206408],"type":"Point"}
+  "bbox": [
+    -110.774189,
+    32.206408,
+    -110.774189,
+    32.206408
+],
+  "geometry": {"coordinates":[-110.77418900000001,32.206408],"type":"Point"}
 }

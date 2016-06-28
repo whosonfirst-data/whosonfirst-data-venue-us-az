@@ -2,13 +2,14 @@
   "id": 353604661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.20295,33.641651,-112.20295,33.641651",
     "geom:latitude":33.641651,
     "geom:longitude":-112.20295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17500 N 67th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353604661,
-    "wof:lastmodified":1449020507,
+    "wof:lastmodified":1466328576,
     "wof:name":"Sierra Canyon",
     "wof:parent_id":85877799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "finder"
     ]
 },
-  "bbox": [-112.20295,33.641651,-112.20295,33.641651],
+  "bbox": [
+    -112.20295,
+    33.641651,
+    -112.20295,
+    33.641651
+],
   "geometry": {"coordinates":[-112.20295,33.641651],"type":"Point"}
 }

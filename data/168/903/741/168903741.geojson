@@ -2,13 +2,14 @@
   "id": 168903741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.179994,33.682132,-112.179994,33.682132",
     "geom:latitude":33.682132,
     "geom:longitude":-112.179994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21675 N 56th Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877773,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85877773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168903741,
-    "wof:lastmodified":1449027814,
+    "wof:lastmodified":1466329538,
     "wof:name":"Dive In Deep LLC",
     "wof:parent_id":85877773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.179994,33.682132,-112.179994,33.682132],
-  "geometry": {"coordinates":[-112.179994,33.682132],"type":"Point"}
+  "bbox": [
+    -112.179994,
+    33.682132,
+    -112.179994,
+    33.682132
+],
+  "geometry": {"coordinates":[-112.17999399999999,33.682132],"type":"Point"}
 }

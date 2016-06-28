@@ -2,13 +2,14 @@
   "id": 169086295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.907698,34.714703,-111.907698,34.714703",
     "geom:latitude":34.714703,
     "geom:longitude":-111.907698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10845 Stingray Ln",
     "sg:city":"Cornville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803967,
+        85688719,
         85633793,
         85917351,
         102081535,
-        85688719
+        85803967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169086295,
-    "wof:lastmodified":1449034900,
+    "wof:lastmodified":1466330201,
     "wof:name":"Retreat Support Svc",
     "wof:parent_id":85803967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.907698,34.714703,-111.907698,34.714703],
+  "bbox": [
+    -111.907698,
+    34.714703,
+    -111.907698,
+    34.714703
+],
   "geometry": {"coordinates":[-111.907698,34.714703],"type":"Point"}
 }

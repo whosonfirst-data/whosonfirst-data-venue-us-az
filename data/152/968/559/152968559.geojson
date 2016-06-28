@@ -2,13 +2,14 @@
   "id": 152968559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.960497,32.210699,-110.960497,32.210699",
     "geom:latitude":32.210699,
     "geom:longitude":-110.960497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 E 19th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.wangsnessoptics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152968559,
-    "wof:lastmodified":1449044594,
+    "wof:lastmodified":1466328616,
     "wof:name":"Wangsness Optics",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.960497,32.210699,-110.960497,32.210699],
+  "bbox": [
+    -110.960497,
+    32.210699,
+    -110.960497,
+    32.210699
+],
   "geometry": {"coordinates":[-110.960497,32.210699],"type":"Point"}
 }

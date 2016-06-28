@@ -2,13 +2,14 @@
   "id": 353834521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.913157,32.315497,-110.913157,32.315497",
     "geom:latitude":32.315497,
     "geom:longitude":-110.913157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 E Sunrise Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":353834521,
-    "wof:lastmodified":1449018502,
+    "wof:lastmodified":1466330669,
     "wof:name":"The Westin La Paloma",
     "wof:parent_id":85871731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "lodging"
     ]
 },
-  "bbox": [-110.913157,32.315497,-110.913157,32.315497],
+  "bbox": [
+    -110.913157,
+    32.315497,
+    -110.913157,
+    32.315497
+],
   "geometry": {"coordinates":[-110.913157,32.315497],"type":"Point"}
 }

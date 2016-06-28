@@ -2,13 +2,14 @@
   "id": 169172647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.171082,33.655463,-112.171082,33.655463",
     "geom:latitude":33.655463,
     "geom:longitude":-112.171082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18644 N 52nd Ave",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.creativeplants.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858917,
+        85688719,
         85633793,
         85917509,
         102087421,
-        85688719
+        85858917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169172647,
-    "wof:lastmodified":1449034006,
+    "wof:lastmodified":1466332027,
     "wof:name":"Creative Plants Interior",
     "wof:parent_id":85858917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.171082,33.655463,-112.171082,33.655463],
+  "bbox": [
+    -112.171082,
+    33.655463,
+    -112.171082,
+    33.655463
+],
   "geometry": {"coordinates":[-112.171082,33.655463],"type":"Point"}
 }

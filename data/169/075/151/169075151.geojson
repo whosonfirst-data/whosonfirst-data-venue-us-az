@@ -2,13 +2,14 @@
   "id": 169075151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.819427,33.706238,-111.819427,33.706238",
     "geom:latitude":33.706238,
     "geom:longitude":-111.819427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24503 N 121st Pl",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169075151,
-    "wof:lastmodified":1449034478,
+    "wof:lastmodified":1466329859,
     "wof:name":"SGH Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.819427,33.706238,-111.819427,33.706238],
+  "bbox": [
+    -111.819427,
+    33.706238,
+    -111.819427,
+    33.706238
+],
   "geometry": {"coordinates":[-111.819427,33.706238],"type":"Point"}
 }

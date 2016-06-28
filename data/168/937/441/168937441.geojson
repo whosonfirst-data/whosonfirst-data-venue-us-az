@@ -2,13 +2,14 @@
   "id": 168937441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.796878,33.216514,-111.796878,33.216514",
     "geom:latitude":33.216514,
     "geom:longitude":-111.796878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 E Bellerive Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876647,
+        85688719,
         85633793,
         85917533,
         102087421,
-        85688719
+        85876647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":168937441,
-    "wof:lastmodified":1449027918,
+    "wof:lastmodified":1466330585,
     "wof:name":"Duncan's Treasures",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.796878,33.216514,-111.796878,33.216514],
-  "geometry": {"coordinates":[-111.796878,33.216514],"type":"Point"}
+  "bbox": [
+    -111.796878,
+    33.216514,
+    -111.796878,
+    33.216514
+],
+  "geometry": {"coordinates":[-111.79687800000001,33.216514],"type":"Point"}
 }

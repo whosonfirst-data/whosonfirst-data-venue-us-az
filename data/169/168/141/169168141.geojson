@@ -2,13 +2,14 @@
   "id": 169168141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.099945,32.34861,-111.099945,32.34861",
     "geom:latitude":32.34861,
     "geom:longitude":-111.099945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 N Silverbell Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     "sg:website":"www.contech-cpi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169168141,
-    "wof:lastmodified":1449034407,
+    "wof:lastmodified":1466331844,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.099945,32.34861,-111.099945,32.34861],
-  "geometry": {"coordinates":[-111.099945,32.34861],"type":"Point"}
+  "bbox": [
+    -111.099945,
+    32.34861,
+    -111.099945,
+    32.34861
+],
+  "geometry": {"coordinates":[-111.09994500000001,32.34861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169002357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918816,33.493522,-111.918816,33.493522",
     "geom:latitude":33.493522,
     "geom:longitude":-111.918816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7531 E McKnight Ave",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169002357,
-    "wof:lastmodified":1449035362,
+    "wof:lastmodified":1466325902,
     "wof:name":"Sara Payne",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.918816,33.493522,-111.918816,33.493522],
-  "geometry": {"coordinates":[-111.918816,33.493522],"type":"Point"}
+  "bbox": [
+    -111.918816,
+    33.493522,
+    -111.918816,
+    33.493522
+],
+  "geometry": {"coordinates":[-111.91881600000001,33.493522],"type":"Point"}
 }

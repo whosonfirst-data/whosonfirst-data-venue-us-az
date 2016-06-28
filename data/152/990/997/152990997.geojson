@@ -2,13 +2,14 @@
   "id": 152990997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.778803,33.393798,-110.778803,33.393798",
     "geom:latitude":33.393798,
     "geom:longitude":-110.778803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 E Ash St",
     "sg:city":"Globe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834045,
+        85688719,
         85633793,
         85917203,
         102081525,
-        85688719
+        85834045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152990997,
-    "wof:lastmodified":1449047393,
+    "wof:lastmodified":1466329723,
     "wof:name":"Comprehensive Microsystems Inc",
     "wof:parent_id":85834045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.778803,33.393798,-110.778803,33.393798],
+  "bbox": [
+    -110.778803,
+    33.393798,
+    -110.778803,
+    33.393798
+],
   "geometry": {"coordinates":[-110.778803,33.393798],"type":"Point"}
 }

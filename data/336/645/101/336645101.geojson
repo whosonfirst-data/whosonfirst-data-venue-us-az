@@ -2,13 +2,14 @@
   "id": 336645101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.246517,33.473191,-112.246517,33.473191",
     "geom:latitude":33.473191,
     "geom:longitude":-112.246517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2318 N 87th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336645101,
-    "wof:lastmodified":1448997044,
+    "wof:lastmodified":1466326878,
     "wof:name":"American First Security",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-112.246517,33.473191,-112.246517,33.473191],
+  "bbox": [
+    -112.246517,
+    33.473191,
+    -112.246517,
+    33.473191
+],
   "geometry": {"coordinates":[-112.246517,33.473191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168992189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013189,33.586013,-112.013189,33.586013",
     "geom:latitude":33.586013,
     "geom:longitude":-112.013189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10608 N 32nd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852113,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85852113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":168992189,
-    "wof:lastmodified":1449028136,
+    "wof:lastmodified":1466331594,
     "wof:name":"Little Peking",
     "wof:parent_id":85852113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.013189,33.586013,-112.013189,33.586013],
+  "bbox": [
+    -112.013189,
+    33.586013,
+    -112.013189,
+    33.586013
+],
   "geometry": {"coordinates":[-112.013189,33.586013],"type":"Point"}
 }

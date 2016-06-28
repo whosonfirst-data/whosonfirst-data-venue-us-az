@@ -2,13 +2,14 @@
   "id": 353670963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.221345,33.581388,-112.221345,33.581388",
     "geom:latitude":33.581388,
     "geom:longitude":-112.221345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7530 W Peoria Ave Ste A",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353670963,
-    "wof:lastmodified":1449018634,
+    "wof:lastmodified":1466329538,
     "wof:name":"Arrowhead Pawn",
     "wof:parent_id":85813941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-112.221345,33.581388,-112.221345,33.581388],
+  "bbox": [
+    -112.221345,
+    33.581388,
+    -112.221345,
+    33.581388
+],
   "geometry": {"coordinates":[-112.221345,33.581388],"type":"Point"}
 }

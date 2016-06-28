@@ -2,13 +2,14 @@
   "id": 169341031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.62504,32.673257,-114.62504,32.673257",
     "geom:latitude":32.673257,
     "geom:longitude":-114.62504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Catalina Dr",
     "sg:city":"Yuma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169341031,
-    "wof:lastmodified":1449035815,
+    "wof:lastmodified":1466333348,
     "wof:name":"US Air Force",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.62504,32.673257,-114.62504,32.673257],
+  "bbox": [
+    -114.62504,
+    32.673257,
+    -114.62504,
+    32.673257
+],
   "geometry": {"coordinates":[-114.62504,32.673257],"type":"Point"}
 }

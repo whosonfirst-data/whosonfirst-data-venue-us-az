@@ -2,13 +2,14 @@
   "id": 320784607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.108231,33.564741,-112.108231,33.564741",
     "geom:latitude":33.564741,
     "geom:longitude":-112.108231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8825 N 23rd Ave Ste 100",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320784607,
-    "wof:lastmodified":1449013761,
+    "wof:lastmodified":1466329771,
     "wof:name":"Community Bridges Matrix",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant"
     ]
 },
-  "bbox": [-112.108231,33.564741,-112.108231,33.564741],
+  "bbox": [
+    -112.108231,
+    33.564741,
+    -112.108231,
+    33.564741
+],
   "geometry": {"coordinates":[-112.108231,33.564741],"type":"Point"}
 }

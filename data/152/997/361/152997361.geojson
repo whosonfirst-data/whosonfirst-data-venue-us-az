@@ -2,13 +2,14 @@
   "id": 152997361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025612,33.52725,-112.025612,33.52725",
     "geom:latitude":33.52725,
     "geom:longitude":-112.025612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6131 N 28th Pl",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806119,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85806119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152997361,
-    "wof:lastmodified":1449048093,
+    "wof:lastmodified":1466329955,
     "wof:name":"Discovery Learning Intl",
     "wof:parent_id":85806119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.025612,33.52725,-112.025612,33.52725],
+  "bbox": [
+    -112.025612,
+    33.52725,
+    -112.025612,
+    33.52725
+],
   "geometry": {"coordinates":[-112.025612,33.52725],"type":"Point"}
 }

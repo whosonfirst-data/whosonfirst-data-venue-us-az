@@ -2,13 +2,14 @@
   "id": 168840047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.959218,32.218986,-110.959218,32.218986",
     "geom:latitude":32.218986,
     "geom:longitude":-110.959218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 S Euclid Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871757,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168840047,
-    "wof:lastmodified":1449028401,
+    "wof:lastmodified":1466327114,
     "wof:name":"Univ Press",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.959218,32.218986,-110.959218,32.218986],
-  "geometry": {"coordinates":[-110.959218,32.218986],"type":"Point"}
+  "bbox": [
+    -110.959218,
+    32.218986,
+    -110.959218,
+    32.218986
+],
+  "geometry": {"coordinates":[-110.95921800000001,32.218986],"type":"Point"}
 }

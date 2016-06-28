@@ -2,13 +2,14 @@
   "id": 169350991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.064388,32.370109,-111.064388,32.370109",
     "geom:latitude":32.370109,
     "geom:longitude":-111.064388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9009 N Twain St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169350991,
-    "wof:lastmodified":1449034360,
+    "wof:lastmodified":1466333523,
     "wof:name":"Cactus Broadcasting",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.064388,32.370109,-111.064388,32.370109],
-  "geometry": {"coordinates":[-111.064388,32.370109],"type":"Point"}
+  "bbox": [
+    -111.064388,
+    32.370109,
+    -111.064388,
+    32.370109
+],
+  "geometry": {"coordinates":[-111.06438799999999,32.370109],"type":"Point"}
 }

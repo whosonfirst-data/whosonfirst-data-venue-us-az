@@ -2,13 +2,14 @@
   "id": 152989199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.074899,33.446142,-112.074899,33.446142",
     "geom:latitude":33.446142,
     "geom:longitude":-112.074899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 W Madison St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885505,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85885505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152989199,
-    "wof:lastmodified":1449047689,
+    "wof:lastmodified":1466329465,
     "wof:name":"Commerce Station",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.074899,33.446142,-112.074899,33.446142],
+  "bbox": [
+    -112.074899,
+    33.446142,
+    -112.074899,
+    33.446142
+],
   "geometry": {"coordinates":[-112.074899,33.446142],"type":"Point"}
 }

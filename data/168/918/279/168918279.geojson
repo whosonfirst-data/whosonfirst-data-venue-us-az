@@ -2,13 +2,14 @@
   "id": 168918279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906259,33.351515,-111.906259,33.351515",
     "geom:latitude":33.351515,
     "geom:longitude":-111.906259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7427 S Hazelton Ln",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087421,
-        85633793,
         85688719,
-        85851913
+        85633793,
+        85851913,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":168918279,
-    "wof:lastmodified":1449028292,
+    "wof:lastmodified":1466330208,
     "wof:name":"Valley Under Sun Mailing Co",
     "wof:parent_id":85851913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906259,33.351515,-111.906259,33.351515],
-  "geometry": {"coordinates":[-111.906259,33.351515],"type":"Point"}
+  "bbox": [
+    -111.906259,
+    33.351515,
+    -111.906259,
+    33.351515
+],
+  "geometry": {"coordinates":[-111.90625900000001,33.351515],"type":"Point"}
 }

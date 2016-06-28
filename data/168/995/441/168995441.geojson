@@ -2,13 +2,14 @@
   "id": 168995441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.946052,32.403239,-110.946052,32.403239",
     "geom:latitude":32.403239,
     "geom:longitude":-110.946052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 N Mavinee Dr",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865141,
+        85688719,
         85633793,
         85917221,
         102081135,
-        85688719
+        85865141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168995441,
-    "wof:lastmodified":1449028504,
+    "wof:lastmodified":1466331658,
     "wof:name":"Securaplane",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.946052,32.403239,-110.946052,32.403239],
-  "geometry": {"coordinates":[-110.946052,32.403239],"type":"Point"}
+  "bbox": [
+    -110.946052,
+    32.403239,
+    -110.946052,
+    32.403239
+],
+  "geometry": {"coordinates":[-110.94605199999999,32.403239],"type":"Point"}
 }

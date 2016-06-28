@@ -2,13 +2,14 @@
   "id": 169400563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036655,33.451485,-112.036655,33.451485",
     "geom:latitude":33.451485,
     "geom:longitude":-112.036655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 E Van Buren St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871015,
+        85688719,
         85633793,
         85917479,
         102087421,
-        85688719
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169400563,
-    "wof:lastmodified":1449032990,
+    "wof:lastmodified":1466333609,
     "wof:name":"Wilkey Motor Company",
     "wof:parent_id":85871015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.036655,33.451485,-112.036655,33.451485],
+  "bbox": [
+    -112.036655,
+    33.451485,
+    -112.036655,
+    33.451485
+],
   "geometry": {"coordinates":[-112.036655,33.451485],"type":"Point"}
 }

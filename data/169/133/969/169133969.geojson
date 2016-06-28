@@ -2,13 +2,14 @@
   "id": 169133969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.756983,32.851929,-109.756983,32.851929",
     "geom:latitude":32.851929,
     "geom:longitude":-109.756983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N 4th Ave",
     "sg:city":"Thatcher",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169133969,
-    "wof:lastmodified":1449035390,
+    "wof:lastmodified":1466331571,
     "wof:name":"Thatcher Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.756983,32.851929,-109.756983,32.851929],
-  "geometry": {"coordinates":[-109.756983,32.851929],"type":"Point"}
+  "bbox": [
+    -109.756983,
+    32.851929,
+    -109.756983,
+    32.851929
+],
+  "geometry": {"coordinates":[-109.75698300000001,32.851929],"type":"Point"}
 }

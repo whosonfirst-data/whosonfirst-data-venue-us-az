@@ -2,13 +2,14 @@
   "id": 169251679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.940326,31.337233,-110.940326,31.337233",
     "geom:latitude":31.337233,
     "geom:longitude":-110.940326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Arroyo Blvd",
     "sg:city":"Nogales",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885049,
+        85688719,
         85633793,
         85917325,
         102086827,
-        85688719
+        85885049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169251679,
-    "wof:lastmodified":1449032746,
+    "wof:lastmodified":1466332566,
     "wof:name":"Nogales Automotive Supply Co",
     "wof:parent_id":85885049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.940326,31.337233,-110.940326,31.337233],
+  "bbox": [
+    -110.940326,
+    31.337233,
+    -110.940326,
+    31.337233
+],
   "geometry": {"coordinates":[-110.940326,31.337233],"type":"Point"}
 }

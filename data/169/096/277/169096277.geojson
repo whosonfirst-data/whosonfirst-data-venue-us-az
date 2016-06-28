@@ -2,13 +2,14 @@
   "id": 169096277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882929,33.639969,-111.882929,33.639969",
     "geom:latitude":33.639969,
     "geom:longitude":-111.882929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9153 E Bell Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880969,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169096277,
-    "wof:lastmodified":1449033757,
+    "wof:lastmodified":1466330850,
     "wof:name":"Plumb Dance Studio",
     "wof:parent_id":85880969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.882929,33.639969,-111.882929,33.639969],
+  "bbox": [
+    -111.882929,
+    33.639969,
+    -111.882929,
+    33.639969
+],
   "geometry": {"coordinates":[-111.882929,33.639969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169041201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.920491,33.487566,-111.920491,33.487566",
     "geom:latitude":33.487566,
     "geom:longitude":-111.920491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7449 E Osborn Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880941,
+        85688719,
         85633793,
         85917475,
         102087421,
-        85688719
+        85880941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169041201,
-    "wof:lastmodified":1449033884,
+    "wof:lastmodified":1466327847,
     "wof:name":"Dentistry Of Downtown",
     "wof:parent_id":85880941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.920491,33.487566,-111.920491,33.487566],
+  "bbox": [
+    -111.920491,
+    33.487566,
+    -111.920491,
+    33.487566
+],
   "geometry": {"coordinates":[-111.920491,33.487566],"type":"Point"}
 }

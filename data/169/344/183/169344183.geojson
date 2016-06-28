@@ -2,13 +2,14 @@
   "id": 169344183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.946957,32.212221,-110.946957,32.212221",
     "geom:latitude":32.212221,
     "geom:longitude":-110.946957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 E 18th St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850157,
+        85688719,
         85633793,
         85917229,
         102081135,
-        85688719
+        85850157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169344183,
-    "wof:lastmodified":1449032851,
+    "wof:lastmodified":1466333438,
     "wof:name":"Imarx Therapeutics Inc",
     "wof:parent_id":85850157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.946957,32.212221,-110.946957,32.212221],
+  "bbox": [
+    -110.946957,
+    32.212221,
+    -110.946957,
+    32.212221
+],
   "geometry": {"coordinates":[-110.946957,32.212221],"type":"Point"}
 }

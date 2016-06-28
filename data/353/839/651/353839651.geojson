@@ -2,13 +2,14 @@
   "id": 353839651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.961424,32.42306,-110.961424,32.42306",
     "geom:latitude":32.42306,
     "geom:longitude":-110.961424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11941 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353839651,
-    "wof:lastmodified":1449019812,
+    "wof:lastmodified":1466330529,
     "wof:name":"Catalina Cleaners",
     "wof:parent_id":85865141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.961424,32.42306,-110.961424,32.42306],
-  "geometry": {"coordinates":[-110.961424,32.42306],"type":"Point"}
+  "bbox": [
+    -110.961424,
+    32.42306,
+    -110.961424,
+    32.42306
+],
+  "geometry": {"coordinates":[-110.96142399999999,32.42306],"type":"Point"}
 }

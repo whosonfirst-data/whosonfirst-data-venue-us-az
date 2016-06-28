@@ -2,13 +2,14 @@
   "id": 168960633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.941343,32.221377,-110.941343,32.221377",
     "geom:latitude":32.221377,
     "geom:longitude":-110.941343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 E Broadway Blvd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871735,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168960633,
-    "wof:lastmodified":1449028332,
+    "wof:lastmodified":1466331075,
     "wof:name":"William Self Assoc Inc",
     "wof:parent_id":85871735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.941343,32.221377,-110.941343,32.221377],
+  "bbox": [
+    -110.941343,
+    32.221377,
+    -110.941343,
+    32.221377
+],
   "geometry": {"coordinates":[-110.941343,32.221377],"type":"Point"}
 }

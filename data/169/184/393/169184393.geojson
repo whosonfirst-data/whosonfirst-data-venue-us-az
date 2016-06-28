@@ -2,13 +2,14 @@
   "id": 169184393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.459865,34.602928,-112.459865,34.602928",
     "geom:latitude":34.602928,
     "geom:longitude":-112.459865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Sandretto Dr",
     "sg:city":"Prescott",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081535,
-        85633793,
         85688719,
-        85820257
+        85633793,
+        85820257,
+        102081535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169184393,
-    "wof:lastmodified":1449033253,
+    "wof:lastmodified":1466331841,
     "wof:name":"Galpin Country Rv",
     "wof:parent_id":85820257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.459865,34.602928,-112.459865,34.602928],
-  "geometry": {"coordinates":[-112.459865,34.602928],"type":"Point"}
+  "bbox": [
+    -112.459865,
+    34.602928,
+    -112.459865,
+    34.602928
+],
+  "geometry": {"coordinates":[-112.45986499999999,34.602928],"type":"Point"}
 }

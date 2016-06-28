@@ -2,13 +2,14 @@
   "id": 169004913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.928324,32.152914,-110.928324,32.152914",
     "geom:latitude":32.152914,
     "geom:longitude":-110.928324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2967 E Cll Rabida",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871743,
+        85688719,
         85633793,
         85917235,
         102081135,
-        85688719
+        85871743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169004913,
-    "wof:lastmodified":1449033894,
+    "wof:lastmodified":1466326170,
     "wof:name":"Shine On",
     "wof:parent_id":85871743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.928324,32.152914,-110.928324,32.152914],
+  "bbox": [
+    -110.928324,
+    32.152914,
+    -110.928324,
+    32.152914
+],
   "geometry": {"coordinates":[-110.928324,32.152914],"type":"Point"}
 }
