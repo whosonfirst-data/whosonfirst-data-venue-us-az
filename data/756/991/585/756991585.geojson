@@ -30,13 +30,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85686549,
-        102191575,
-        85633293,
-        101994027,
-        102074497,
-        85882731,
+        "756991585",
         85688719,
+        102191575,
         85633793,
         85917307,
         102081527,
@@ -52,27 +48,19 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85633293,
-            "county_id":102074497,
-            "locality_id":101994027,
-            "neighbourhood_id":85882731,
-            "region_id":85686549,
-            "venue_id":756991585
-        },
-        {
-            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081527,
+            "empire_id":85633793,
             "locality_id":85917307,
             "neighbourhood_id":420559293,
             "region_id":85688719,
-            "venue_id":756991585
+            "venue_id":"756991585"
         }
     ],
     "wof:id":756991585,
-    "wof:lastmodified":1466328796,
+    "wof:lastmodified":1469136346,
     "wof:name":"Jack in the Box",
-    "wof:parent_id":-1,
+    "wof:parent_id":85917307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],
