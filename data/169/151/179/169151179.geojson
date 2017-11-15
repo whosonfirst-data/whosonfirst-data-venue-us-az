@@ -2,9 +2,14 @@
   "id": 169151179,
   "type": "Feature",
   "properties": {
+    "addr:full":"4722 S Fairfield Dr Tempe AZ 85282",
+    "addr:housenumber":"4722",
+    "addr:postcode":"85282",
+    "addr:street":"S Fairfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.898554,33.382708,-111.898554,33.382708",
     "geom:latitude":33.382708,
     "geom:longitude":-111.898554,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ffbe401f398dbf75629b6ebe6d267f88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169151179,
-    "wof:lastmodified":1466331642,
+    "wof:lastmodified":1491938083,
     "wof:name":"Thomas E Milne",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

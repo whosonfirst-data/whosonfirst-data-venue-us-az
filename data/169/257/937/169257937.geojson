@@ -2,9 +2,14 @@
   "id": 169257937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 W 12th Pl Tempe AZ 85281",
+    "addr:housenumber":"1605",
+    "addr:postcode":"85281",
+    "addr:street":"W 12Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.963417,33.415496,-111.963417,33.415496",
     "geom:latitude":33.415496,
     "geom:longitude":-111.963417,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -48,6 +54,7 @@
     "wof:geomhash":"b75831ee2cb06c916a6ec4f63ca681d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":169257937,
-    "wof:lastmodified":1466332591,
+    "wof:lastmodified":1491909669,
     "wof:name":"Heartwood Domestic & Exotic Lu",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

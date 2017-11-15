@@ -2,9 +2,14 @@
   "id": 168993525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 E Squaw Peak Cir Phoenix AZ 85016",
+    "addr:housenumber":"3120",
+    "addr:postcode":"85016",
+    "addr:street":"E Squaw Peak Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.017052,33.530752,-112.017052,33.530752",
     "geom:latitude":33.530752,
     "geom:longitude":-112.017052,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d94d5f53dcb080a7b07953f5c5f76ebc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168993525,
-    "wof:lastmodified":1466331492,
+    "wof:lastmodified":1491935653,
     "wof:name":"Williams G L & J J",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",

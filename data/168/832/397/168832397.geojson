@@ -2,9 +2,14 @@
   "id": 168832397,
   "type": "Feature",
   "properties": {
+    "addr:full":"3247 E Pinchot Ave Phoenix AZ 85018",
+    "addr:housenumber":"3247",
+    "addr:postcode":"85018",
+    "addr:street":"E Pinchot Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.011448,33.482266,-112.011448,33.482266",
     "geom:latitude":33.482266,
     "geom:longitude":-112.011448,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"57e5315c60f4868c3bf638984c15cf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168832397,
-    "wof:lastmodified":1466326175,
+    "wof:lastmodified":1491890118,
     "wof:name":"Phoenix Casa Mia LLC",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

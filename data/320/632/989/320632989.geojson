@@ -2,9 +2,14 @@
   "id": 320632989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 W Madison St Phoenix AZ 85007",
+    "addr:housenumber":"1501",
+    "addr:postcode":"85007",
+    "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.0914,33.44598,-112.0914,33.44598",
     "geom:latitude":33.44598,
     "geom:longitude":-112.0914,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2cf10846b76e2e70c61e014ce2e92b3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320632989,
-    "wof:lastmodified":1466326602,
+    "wof:lastmodified":1491917246,
     "wof:name":"Fleet Management Center",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320748061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4135 E Hazelwood St Phoenix AZ 85018",
+    "addr:housenumber":"4135",
+    "addr:postcode":"85018",
+    "addr:street":"E Hazelwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.992105,33.50415,-111.992105,33.50415",
     "geom:latitude":33.50415,
     "geom:longitude":-111.992105,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f72e5d46fc7ebdf968e0b34af864c2a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320748061,
-    "wof:lastmodified":1466329039,
+    "wof:lastmodified":1491890286,
     "wof:name":"Warning Transport, Inc.",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

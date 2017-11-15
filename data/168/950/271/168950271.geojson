@@ -2,9 +2,14 @@
   "id": 168950271,
   "type": "Feature",
   "properties": {
+    "addr:full":"16623 E Laser Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16623",
+    "addr:postcode":"85268",
+    "addr:street":"E Laser Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.724331,33.573186,-111.724331,33.573186",
     "geom:latitude":33.573186,
     "geom:longitude":-111.724331,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d76122b10efe988686a9ed5cedabc198",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168950271,
-    "wof:lastmodified":1466331111,
+    "wof:lastmodified":1491939300,
     "wof:name":"Commercial Machine Works",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

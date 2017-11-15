@@ -2,9 +2,14 @@
   "id": 336733567,
   "type": "Feature",
   "properties": {
+    "addr:full":"6511 W Gambit Trl Phoenix AZ 85083",
+    "addr:housenumber":"6511",
+    "addr:postcode":"85083",
+    "addr:street":"W Gambit Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.199356,33.735383,-112.199356,33.735383",
     "geom:latitude":33.735383,
     "geom:longitude":-112.199356,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"538858cd2df4934dc0f1532b32a02601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336733567,
-    "wof:lastmodified":1466328550,
+    "wof:lastmodified":1491934280,
     "wof:name":"Janet A Boberg",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

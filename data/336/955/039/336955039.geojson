@@ -2,9 +2,14 @@
   "id": 336955039,
   "type": "Feature",
   "properties": {
+    "addr:full":"8919 E Indian Bend Rd Scottsdale AZ 85250",
+    "addr:housenumber":"8919",
+    "addr:postcode":"85250",
+    "addr:street":"E Indian Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.888674,33.538426,-111.888674,33.538426",
     "geom:latitude":33.538426,
     "geom:longitude":-111.888674,
@@ -51,31 +56,16 @@
     ],
     "sg:website":"http://store-locator.barnesandnoble.com/store/1829",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688719,
-        85633793,
-        102087421,
-        85858179
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V6vRQ2E2zaDyAch8IRx86_33.538426_-111.888674@1303263115"
     },
     "wof:country":"US",
     "wof:geomhash":"52dc0ae1a7692f5600fe292ed9ade555",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":-1,
-            "neighbourhood_id":85858179,
-            "region_id":85688719,
-            "venue_id":336955039
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":336955039,
-    "wof:lastmodified":1466330824,
+    "wof:lastmodified":1491894262,
     "wof:name":"Barnes & Noble Booksellers - Bookstar",
     "wof:parent_id":85858179,
     "wof:placetype":"venue",

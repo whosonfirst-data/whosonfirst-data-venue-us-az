@@ -2,9 +2,14 @@
   "id": 353753223,
   "type": "Feature",
   "properties": {
+    "addr:full":"10815 W Mcdowell Rd # 10 Avondale AZ 85392",
+    "addr:housenumber":"10815;10",
+    "addr:postcode":"85392",
+    "addr:street":"W Mcdowell Rd #",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.292404,33.464448,-112.292404,33.464448",
     "geom:latitude":33.464448,
     "geom:longitude":-112.292404,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"3842223b7117365d2b97e198c773d8e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353753223
         }
     ],
     "wof:id":353753223,
-    "wof:lastmodified":1466330116,
+    "wof:lastmodified":1491934749,
     "wof:name":"Surgicalelite",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

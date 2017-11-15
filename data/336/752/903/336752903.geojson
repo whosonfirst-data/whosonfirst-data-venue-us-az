@@ -2,9 +2,14 @@
   "id": 336752903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1345 W University Dr Mesa AZ 85201",
+    "addr:housenumber":"1345",
+    "addr:postcode":"85201",
+    "addr:street":"W University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.859712,33.422159,-111.859712,33.422159",
     "geom:latitude":33.422159,
     "geom:longitude":-111.859712,
@@ -36,8 +41,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +52,15 @@
     "wof:geomhash":"ea39e5819f39e0cb8c043b3e8d7aa882",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336752903
         }
     ],
     "wof:id":336752903,
-    "wof:lastmodified":1466329054,
+    "wof:lastmodified":1491898461,
     "wof:name":"Mesa Lazona Ward",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

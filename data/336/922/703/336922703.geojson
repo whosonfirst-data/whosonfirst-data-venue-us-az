@@ -2,9 +2,14 @@
   "id": 336922703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 W San Pedro St Gilbert AZ 85233",
+    "addr:housenumber":"1240",
+    "addr:postcode":"85233",
+    "addr:street":"W San Pedro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.816308,33.368254,-111.816308,33.368254",
     "geom:latitude":33.368254,
     "geom:longitude":-111.816308,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"c81d6e0d5a87a0bc008d95eabfce98ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336922703
         }
     ],
     "wof:id":336922703,
-    "wof:lastmodified":1466330627,
+    "wof:lastmodified":1491892000,
     "wof:name":"Sos Home Warranty",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

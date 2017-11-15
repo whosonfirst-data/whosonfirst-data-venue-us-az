@@ -2,9 +2,14 @@
   "id": 169370931,
   "type": "Feature",
   "properties": {
+    "addr:full":"13554 E Sorrel Ln Scottsdale AZ 85259",
+    "addr:housenumber":"13554",
+    "addr:postcode":"85259",
+    "addr:street":"E Sorrel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.791807,33.572996,-111.791807,33.572996",
     "geom:latitude":33.572996,
     "geom:longitude":-111.791807,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d67f52b8a45ef0c40281a6196da1b9e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169370931,
-    "wof:lastmodified":1466333797,
+    "wof:lastmodified":1491939327,
     "wof:name":"KFC",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

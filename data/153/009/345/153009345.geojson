@@ -2,9 +2,14 @@
   "id": 153009345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2506 W Jackson St Phoenix AZ 85009",
+    "addr:housenumber":"2506",
+    "addr:postcode":"85009",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.115292,33.445522,-112.115292,33.445522",
     "geom:latitude":33.445522,
     "geom:longitude":-112.115292,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"54a58e836d699920725ac78171074ace",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":153009345,
-    "wof:lastmodified":1466326047,
+    "wof:lastmodified":1491917050,
     "wof:name":"S Diamond Steel Co",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

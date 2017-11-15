@@ -2,9 +2,14 @@
   "id": 337510357,
   "type": "Feature",
   "properties": {
+    "addr:full":"7127 E Sahuaro Dr Scottsdale AZ 85254",
+    "addr:housenumber":"7127",
+    "addr:postcode":"85254",
+    "addr:street":"E Sahuaro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.927523,33.583691,-111.927523,33.583691",
     "geom:latitude":33.583691,
     "geom:longitude":-111.927523,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"1acf22932ed95143e93ce20569abba2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":337510357,
-    "wof:lastmodified":1466326337,
+    "wof:lastmodified":1491912729,
     "wof:name":"Abeyta",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

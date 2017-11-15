@@ -2,9 +2,14 @@
   "id": 336647759,
   "type": "Feature",
   "properties": {
+    "addr:full":"8606 West. McDowell Road. Phoenix AZ 85037",
+    "addr:housenumber":"8606",
+    "addr:postcode":"85037",
+    "addr:street":"West. Mcdowell Road.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.245511,33.466081,-112.245511,33.466081",
     "geom:latitude":33.466081,
     "geom:longitude":-112.245511,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"2bbd1d7554337b2b2074db622b341399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336647759
         }
     ],
     "wof:id":336647759,
-    "wof:lastmodified":1466326929,
+    "wof:lastmodified":1491934673,
     "wof:name":"Elgin Nursery & Tree Farm",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

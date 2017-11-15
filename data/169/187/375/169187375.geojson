@@ -2,9 +2,14 @@
   "id": 169187375,
   "type": "Feature",
   "properties": {
+    "addr:full":"11250 N Pinto Dr Fountain Hills AZ 85269",
+    "addr:housenumber":"11250",
+    "addr:postcode":"85269",
+    "addr:street":"N Pinto Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.745682,33.590235,-111.745682,33.590235",
     "geom:latitude":33.590235,
     "geom:longitude":-111.745682,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d63314a91fb9b8bee08bf7f0da3f846e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169187375,
-    "wof:lastmodified":1466332286,
+    "wof:lastmodified":1491939281,
     "wof:name":"Alberti & Alberti",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152980051,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 E Thomas Rd Phoenix AZ 85018",
+    "addr:housenumber":"3620",
+    "addr:postcode":"85018",
+    "addr:street":"E Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.002369,33.480525,-112.002369,33.480525",
     "geom:latitude":33.480525,
     "geom:longitude":-112.002369,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"8b6ff7072c31c23f681c0ce3543734c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152980051,
-    "wof:lastmodified":1466328918,
+    "wof:lastmodified":1491890273,
     "wof:name":"Dream With Color",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

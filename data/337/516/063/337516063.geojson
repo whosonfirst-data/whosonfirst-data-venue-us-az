@@ -2,9 +2,14 @@
   "id": 337516063,
   "type": "Feature",
   "properties": {
+    "addr:full":"7101 E Gary Rd Scottsdale AZ 85254",
+    "addr:housenumber":"7101",
+    "addr:postcode":"85254",
+    "addr:street":"E Gary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.927422,33.588242,-111.927422,33.588242",
     "geom:latitude":33.588242,
     "geom:longitude":-111.927422,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"44b536760918a377dc0848c63f29b9a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337516063,
-    "wof:lastmodified":1466326383,
+    "wof:lastmodified":1491912699,
     "wof:name":"Eti",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

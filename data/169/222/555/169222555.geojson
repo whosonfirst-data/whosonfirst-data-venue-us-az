@@ -2,9 +2,14 @@
   "id": 169222555,
   "type": "Feature",
   "properties": {
+    "addr:full":"20830 N 39th Ave Glendale AZ 85308",
+    "addr:housenumber":"20830",
+    "addr:postcode":"85308",
+    "addr:street":"N 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.143408,33.67601,-112.143408,33.67601",
     "geom:latitude":33.67601,
     "geom:longitude":-112.143408,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"711a5cea2a9eeba6d6d1d78f5444273b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169222555,
-    "wof:lastmodified":1466332278,
+    "wof:lastmodified":1491902674,
     "wof:name":"Olde Tyme Kettle Korn",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

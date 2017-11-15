@@ -2,9 +2,14 @@
   "id": 169214505,
   "type": "Feature",
   "properties": {
+    "addr:full":"7158 N 48th Ave Glendale AZ 85301",
+    "addr:housenumber":"7158",
+    "addr:postcode":"85301",
+    "addr:street":"N 48Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.162376,33.541751,-112.162376,33.541751",
     "geom:latitude":33.541751,
     "geom:longitude":-112.162376,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"3450c8215587b683f7774c14f4e67b0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169214505,
-    "wof:lastmodified":1466332226,
+    "wof:lastmodified":1491912751,
     "wof:name":"Executive Pressure Wash & Dtl",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

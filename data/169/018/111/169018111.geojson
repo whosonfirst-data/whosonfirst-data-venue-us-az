@@ -2,9 +2,14 @@
   "id": 169018111,
   "type": "Feature",
   "properties": {
+    "addr:full":"39608 N Maidstone Ct Anthem AZ 85086",
+    "addr:housenumber":"39608",
+    "addr:postcode":"85086",
+    "addr:street":"N Maidstone Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.109538,33.843955,-112.109538,33.843955",
     "geom:latitude":33.843955,
     "geom:longitude":-112.109538,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2dfd9da4b73d34a2cddf9de7214d7b05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169018111,
-    "wof:lastmodified":1466325799,
+    "wof:lastmodified":1491934226,
     "wof:name":"Interbank Exchange",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

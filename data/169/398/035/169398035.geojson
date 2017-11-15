@@ -2,9 +2,14 @@
   "id": 169398035,
   "type": "Feature",
   "properties": {
+    "addr:full":"15558 E Tacony Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15558",
+    "addr:postcode":"85268",
+    "addr:street":"E Tacony Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.742023,33.595927,-111.742023,33.595927",
     "geom:latitude":33.595927,
     "geom:longitude":-111.742023,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"6af9e52f93a03efc49f5d15f3f8ef235",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169398035,
-    "wof:lastmodified":1466333930,
+    "wof:lastmodified":1491939339,
     "wof:name":"Advanced Ballistic Tech",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

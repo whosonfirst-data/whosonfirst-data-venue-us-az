@@ -2,14 +2,20 @@
   "id": 336911441,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 W Warner Rd Ste A101 Gilbert AZ 85233",
+    "addr:housenumber":"1422",
+    "addr:postcode":"85233",
+    "addr:street":"W Warner Rd Ste A101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.820534,33.335862,-111.820534,33.335862",
     "geom:latitude":33.335862,
     "geom:longitude":-111.820534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1422 W Warner Rd Ste A101",
     "sg:city":"Gilbert",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
         85876671
     ],
+    "wof:brand_id":1125156867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z8HQ98d7p4dVX9AKrLOgN_33.335862_-111.820534@1303263114"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d1aedbd634b668cb17455b36485950e",
+    "wof:geomhash":"b5634c0b1ef918d74a6074b1758024b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":336911441,
-    "wof:lastmodified":1466330516,
+    "wof:lastmodified":1510613350,
     "wof:name":"Tutoring Club",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

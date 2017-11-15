@@ -2,9 +2,14 @@
   "id": 353529781,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 S Villas Ct Chandler AZ 85286",
+    "addr:housenumber":"1500",
+    "addr:postcode":"85286",
+    "addr:street":"S Villas Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.871252,33.284829,-111.871252,33.284829",
     "geom:latitude":33.284829,
     "geom:longitude":-111.871252,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8aff118a3afbefe08fe085a09f2e620e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353529781,
-    "wof:lastmodified":1466327697,
+    "wof:lastmodified":1491915515,
     "wof:name":"24 Pop Locks Locksmith",
     "wof:parent_id":85876689,
     "wof:placetype":"venue",

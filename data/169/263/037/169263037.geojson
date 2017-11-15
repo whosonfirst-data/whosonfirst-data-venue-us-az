@@ -2,9 +2,14 @@
   "id": 169263037,
   "type": "Feature",
   "properties": {
+    "addr:full":"11285 N 118th Way Scottsdale AZ 85259",
+    "addr:housenumber":"11285",
+    "addr:postcode":"85259",
+    "addr:street":"N 118Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.82415,33.589179,-111.82415,33.589179",
     "geom:latitude":33.589179,
     "geom:longitude":-111.82415,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"36f78d0439df4ea5b9d60fd1e1795719",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169263037,
-    "wof:lastmodified":1466332668,
+    "wof:lastmodified":1491939294,
     "wof:name":"B J Tatro Consulting",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

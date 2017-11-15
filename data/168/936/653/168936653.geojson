@@ -2,9 +2,14 @@
   "id": 168936653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 S 105th Ave Tolleson AZ 85353",
+    "addr:housenumber":"2315",
+    "addr:postcode":"85353",
+    "addr:street":"S 105Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.282492,33.42179,-112.282492,33.42179",
     "geom:latitude":33.42179,
     "geom:longitude":-112.282492,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"e24318869c0e5958e95bfdbe1ea5bbe1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":168936653
         }
     ],
     "wof:id":168936653,
-    "wof:lastmodified":1466330521,
+    "wof:lastmodified":1491934669,
     "wof:name":"Elgin Tree Farm Inc",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169163407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2141 S Industrial Park Ave Tempe AZ 85282",
+    "addr:housenumber":"2141",
+    "addr:postcode":"85282",
+    "addr:street":"S Industrial Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.955166,33.405472,-111.955166,33.405472",
     "geom:latitude":33.405472,
     "geom:longitude":-111.955166,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"df889607c104c684bf2b0f62269aa4d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169163407,
-    "wof:lastmodified":1466331977,
+    "wof:lastmodified":1491909693,
     "wof:name":"Cox Arizona Publications",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

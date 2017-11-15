@@ -2,9 +2,14 @@
   "id": 337510011,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 E Mescal St Scottsdale AZ 85254",
+    "addr:housenumber":"6501",
+    "addr:postcode":"85254",
+    "addr:street":"E Mescal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.940536,33.586651,-111.940536,33.586651",
     "geom:latitude":33.586651,
     "geom:longitude":-111.940536,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"ccd5e0c1d9a154e865535137936a28cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":337510011,
-    "wof:lastmodified":1466326334,
+    "wof:lastmodified":1491912703,
     "wof:name":"Pyrrhus Software",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

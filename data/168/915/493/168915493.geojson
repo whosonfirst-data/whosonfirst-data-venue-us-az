@@ -2,9 +2,14 @@
   "id": 168915493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3532 N 36th St Phoenix AZ 85018",
+    "addr:housenumber":"3532",
+    "addr:postcode":"85018",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.004269,33.489845,-112.004269,33.489845",
     "geom:latitude":33.489845,
     "geom:longitude":-112.004269,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7568de6faeb4350603f3b2f77762ecb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168915493,
-    "wof:lastmodified":1466330227,
+    "wof:lastmodified":1491890162,
     "wof:name":"Balloon Art",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

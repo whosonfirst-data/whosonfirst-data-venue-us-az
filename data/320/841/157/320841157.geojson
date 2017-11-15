@@ -2,9 +2,14 @@
   "id": 320841157,
   "type": "Feature",
   "properties": {
+    "addr:full":"11052 N 24th Ave Phoenix AZ 85029",
+    "addr:housenumber":"11052",
+    "addr:postcode":"85029",
+    "addr:street":"N 24Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.111589,33.586432,-112.111589,33.586432",
     "geom:latitude":33.586432,
     "geom:longitude":-112.111589,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f7314fd22981a163b53e0aeb69058f89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320841157,
-    "wof:lastmodified":1466330366,
+    "wof:lastmodified":1491895211,
     "wof:name":"Northern Arizona Food Bank",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

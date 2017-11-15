@@ -2,9 +2,14 @@
   "id": 169384919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 S 21st Dr Phoenix AZ 85009",
+    "addr:housenumber":"1422",
+    "addr:postcode":"85009",
+    "addr:street":"S 21St Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.105572,33.434475,-112.105572,33.434475",
     "geom:latitude":33.434475,
     "geom:longitude":-112.105572,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1819fbd190d237297dd679b37d626645",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169384919,
-    "wof:lastmodified":1466333890,
+    "wof:lastmodified":1491917107,
     "wof:name":"D & L Fabricating",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

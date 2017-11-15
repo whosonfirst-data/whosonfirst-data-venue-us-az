@@ -2,9 +2,14 @@
   "id": 353384989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1830 E Randall Dr Tempe AZ 85281",
+    "addr:housenumber":"1830",
+    "addr:postcode":"85281",
+    "addr:street":"E Randall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.9086,33.418186,-111.9086,33.418186",
     "geom:latitude":33.418186,
     "geom:longitude":-111.9086,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"154aab8b6337ea44b2dfe0370fa91814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353384989,
-    "wof:lastmodified":1466326139,
+    "wof:lastmodified":1491935598,
     "wof:name":"Pci Service",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

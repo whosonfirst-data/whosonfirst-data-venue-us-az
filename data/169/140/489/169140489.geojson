@@ -2,9 +2,14 @@
   "id": 169140489,
   "type": "Feature",
   "properties": {
+    "addr:full":"8545 N 53rd Dr Glendale AZ 85302",
+    "addr:housenumber":"8545",
+    "addr:postcode":"85302",
+    "addr:street":"N 53Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.174034,33.561717,-112.174034,33.561717",
     "geom:latitude":33.561717,
     "geom:longitude":-112.174034,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"80f55e03aafc8fcd8ccc727a632d52c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169140489,
-    "wof:lastmodified":1466331673,
+    "wof:lastmodified":1491901762,
     "wof:name":"3-D Drywall",
     "wof:parent_id":85858249,
     "wof:placetype":"venue",

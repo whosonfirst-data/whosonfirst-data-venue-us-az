@@ -2,9 +2,14 @@
   "id": 353424869,
   "type": "Feature",
   "properties": {
+    "addr:full":"3122 S Mcclintock Dr Tempe AZ 85282",
+    "addr:housenumber":"3122",
+    "addr:postcode":"85282",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909121,33.395095,-111.909121,33.395095",
     "geom:latitude":33.395095,
     "geom:longitude":-111.909121,
@@ -58,6 +63,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -71,7 +77,7 @@
     "wof:geomhash":"6413cf2677d0c6b45bd5b293e1f3ebb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":353424869,
-    "wof:lastmodified":1466326459,
+    "wof:lastmodified":1491915533,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

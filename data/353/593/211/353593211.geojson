@@ -2,9 +2,14 @@
   "id": 353593211,
   "type": "Feature",
   "properties": {
+    "addr:full":"5122 N 95th Ave Glendale AZ 85305",
+    "addr:housenumber":"5122",
+    "addr:postcode":"85305",
+    "addr:street":"N 95Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.263832,33.509483,-112.263832,33.509483",
     "geom:latitude":33.509483,
     "geom:longitude":-112.263832,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -56,7 +62,7 @@
     "wof:geomhash":"3c515fe2c5e59c218834dee0ef29e271",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -65,7 +71,7 @@
             "venue_id":353593211
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -75,9 +81,9 @@
         }
     ],
     "wof:id":353593211,
-    "wof:lastmodified":1466328422,
+    "wof:lastmodified":1491936202,
     "wof:name":"Dollar Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

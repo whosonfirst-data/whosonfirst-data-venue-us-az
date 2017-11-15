@@ -2,9 +2,14 @@
   "id": 169302837,
   "type": "Feature",
   "properties": {
+    "addr:full":"6418 E Carolina Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6418",
+    "addr:postcode":"85254",
+    "addr:street":"E Carolina Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.940996,33.629218,-111.940996,33.629218",
     "geom:latitude":33.629218,
     "geom:longitude":-111.940996,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"3cbcc28824af00369b6fedf2f1f12aac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169302837,
-    "wof:lastmodified":1466333069,
+    "wof:lastmodified":1491901224,
     "wof:name":"ARIZONADISCOUNTS.COM",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

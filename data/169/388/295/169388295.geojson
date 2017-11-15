@@ -2,9 +2,14 @@
   "id": 169388295,
   "type": "Feature",
   "properties": {
+    "addr:full":"6420 E Waltann Ln Scottsdale AZ 85254",
+    "addr:housenumber":"6420",
+    "addr:postcode":"85254",
+    "addr:street":"E Waltann Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.941601,33.628462,-111.941601,33.628462",
     "geom:latitude":33.628462,
     "geom:longitude":-111.941601,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b8dfc46363b3b881b241298dd2926ba5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169388295,
-    "wof:lastmodified":1466333862,
+    "wof:lastmodified":1491901224,
     "wof:name":"Aachen Inc",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

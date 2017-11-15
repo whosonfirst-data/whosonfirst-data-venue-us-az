@@ -2,9 +2,14 @@
   "id": 168963511,
   "type": "Feature",
   "properties": {
+    "addr:full":"13849 N 62nd St Scottsdale AZ 85254",
+    "addr:housenumber":"13849",
+    "addr:postcode":"85254",
+    "addr:street":"N 62Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.94654,33.611825,-111.94654,33.611825",
     "geom:latitude":33.611825,
     "geom:longitude":-111.94654,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c220ee3fa01d7f5b1232f1e399b81d5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168963511,
-    "wof:lastmodified":1466331334,
+    "wof:lastmodified":1491901235,
     "wof:name":"Bullseye Wireless",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

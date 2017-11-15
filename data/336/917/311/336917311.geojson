@@ -2,9 +2,14 @@
   "id": 336917311,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 N Mondel Drive Gilbert AZ 85233",
+    "addr:housenumber":"1325",
+    "addr:postcode":"85233",
+    "addr:street":"N Mondel Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.816826,33.374272,-111.816826,33.374272",
     "geom:latitude":33.374272,
     "geom:longitude":-111.816826,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"127a7ec174c888a70db6a0b8112c3a68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336917311
         }
     ],
     "wof:id":336917311,
-    "wof:lastmodified":1466330460,
+    "wof:lastmodified":1491892018,
     "wof:name":"Ryan Mechanical Company",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

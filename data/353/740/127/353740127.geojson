@@ -2,14 +2,20 @@
   "id": 353740127,
   "type": "Feature",
   "properties": {
+    "addr:full":"7525 W Bell Rd Peoria AZ 85382",
+    "addr:housenumber":"7525",
+    "addr:postcode":"85382",
+    "addr:street":"W Bell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.22096,33.638103,-112.22096,33.638103",
     "geom:latitude":33.638103,
     "geom:longitude":-112.22096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7525 W Bell Rd",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -38,30 +44,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
+    "wof:brand_id":1125156803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18RDdZugi21qi0Jz6fzmzb_33.638103_-112.220960@1303263124"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea93d41779dcea199bea04939d31ecb8",
+    "wof:geomhash":"1fdbceb207d8ad031fc73e41bc6b00a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":353740127
         }
     ],
     "wof:id":353740127,
-    "wof:lastmodified":1466329929,
+    "wof:lastmodified":1510698910,
     "wof:name":"Peter Piper Pizza",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

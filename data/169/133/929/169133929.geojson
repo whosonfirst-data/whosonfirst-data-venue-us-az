@@ -2,9 +2,14 @@
   "id": 169133929,
   "type": "Feature",
   "properties": {
+    "addr:full":"13411 N 59th Pl Scottsdale AZ 85254",
+    "addr:housenumber":"13411",
+    "addr:postcode":"85254",
+    "addr:street":"N 59Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.952296,33.608004,-111.952296,33.608004",
     "geom:latitude":33.608004,
     "geom:longitude":-111.952296,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"04c4c2e0b8adec6144f22a49b088849a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169133929,
-    "wof:lastmodified":1466331385,
+    "wof:lastmodified":1491901218,
     "wof:name":"Redhawk Land Dev & Engineering",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

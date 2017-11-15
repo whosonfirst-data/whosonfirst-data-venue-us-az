@@ -2,9 +2,14 @@
   "id": 336738639,
   "type": "Feature",
   "properties": {
+    "addr:full":"34000 N 27th Dr Unit 2138 Phoenix AZ 85085",
+    "addr:housenumber":"34000;2138",
+    "addr:postcode":"85085",
+    "addr:street":"N 27Th Dr Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117074,33.794993,-112.117074,33.794993",
     "geom:latitude":33.794993,
     "geom:longitude":-112.117074,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"3ab5fffd5fb33a657e540e1743e741cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":336738639,
-    "wof:lastmodified":1466328599,
+    "wof:lastmodified":1491934318,
     "wof:name":"Lee Cookie",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152973253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1331 W Houston Ave Gilbert AZ 85233",
+    "addr:housenumber":"1331",
+    "addr:postcode":"85233",
+    "addr:street":"W Houston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.819126,33.372337,-111.819126,33.372337",
     "geom:latitude":33.372337,
     "geom:longitude":-111.819126,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"b262c23971c610624fcd18d1b3fbb161",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":152973253
         }
     ],
     "wof:id":152973253,
-    "wof:lastmodified":1466328566,
+    "wof:lastmodified":1491892029,
     "wof:name":"Aviza Technology Inc",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

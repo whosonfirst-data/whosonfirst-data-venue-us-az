@@ -2,9 +2,14 @@
   "id": 169288921,
   "type": "Feature",
   "properties": {
+    "addr:full":"5031 W Glenn Dr Glendale AZ 85301",
+    "addr:housenumber":"5031",
+    "addr:postcode":"85301",
+    "addr:street":"W Glenn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.168052,33.539302,-112.168052,33.539302",
     "geom:latitude":33.539302,
     "geom:longitude":-112.168052,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"376daf5afa78e838d68a98346eefbd72",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169288921,
-    "wof:lastmodified":1466332916,
+    "wof:lastmodified":1491912741,
     "wof:name":"G & J Auto Repair",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

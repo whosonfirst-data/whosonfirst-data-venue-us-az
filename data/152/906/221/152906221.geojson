@@ -2,9 +2,14 @@
   "id": 152906221,
   "type": "Feature",
   "properties": {
+    "addr:full":"6832 E Paradise Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6832",
+    "addr:postcode":"85254",
+    "addr:street":"E Paradise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.934144,33.594055,-111.934144,33.594055",
     "geom:latitude":33.594055,
     "geom:longitude":-111.934144,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"f7716ac0d020b4239f49808e7eb82028",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152906221,
-    "wof:lastmodified":1466327229,
+    "wof:lastmodified":1491912682,
     "wof:name":"Mission Flyers",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

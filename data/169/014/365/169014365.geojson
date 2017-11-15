@@ -2,9 +2,14 @@
   "id": 169014365,
   "type": "Feature",
   "properties": {
+    "addr:full":"14409 N 5th Pl Phoenix AZ 85022",
+    "addr:housenumber":"14409",
+    "addr:postcode":"85022",
+    "addr:street":"N 5Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.068124,33.617987,-112.068124,33.617987",
     "geom:latitude":33.617987,
     "geom:longitude":-112.068124,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"0921a03d3a7d3134248e262879fdab6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169014365,
-    "wof:lastmodified":1466327486,
+    "wof:lastmodified":1491897070,
     "wof:name":"Hinson Dave & Mary",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

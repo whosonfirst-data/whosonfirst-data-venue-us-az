@@ -2,9 +2,14 @@
   "id": 169341495,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 W University Dr Tempe AZ 85281",
+    "addr:housenumber":"711",
+    "addr:postcode":"85281",
+    "addr:street":"W University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.948423,33.421837,-111.948423,33.421837",
     "geom:latitude":33.421837,
     "geom:longitude":-111.948423,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5159a25b6ef4f6aa67e6d3cfdf2215bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169341495,
-    "wof:lastmodified":1466333403,
+    "wof:lastmodified":1491905612,
     "wof:name":"City Of The Lord",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320782029,
   "type": "Feature",
   "properties": {
+    "addr:full":"9801 N 21st Ave Phoenix AZ 85021",
+    "addr:housenumber":"9801",
+    "addr:postcode":"85021",
+    "addr:street":"N 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.103912,33.574829,-112.103912,33.574829",
     "geom:latitude":33.574829,
     "geom:longitude":-112.103912,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4d4a96aa68304bb920b85fd04896de37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320782029,
-    "wof:lastmodified":1466329753,
+    "wof:lastmodified":1491888165,
     "wof:name":"National Paint & Drywall Contr",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

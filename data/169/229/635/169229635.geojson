@@ -2,14 +2,20 @@
   "id": 169229635,
   "type": "Feature",
   "properties": {
+    "addr:full":"4233 N 40th St Phoenix AZ 85018",
+    "addr:housenumber":"4233",
+    "addr:postcode":"85018",
+    "addr:street":"N 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.995362,33.495199,-111.995362,33.495199",
     "geom:latitude":33.495199,
     "geom:longitude":-111.995362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4233 N 40th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
         85871019
     ],
+    "wof:brand_id":1125158359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18jn33Iko7qc1Gozn47C0I_33.495199_-111.995362@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f75f806804fcdf5a2fdc83b2cad7da3",
+    "wof:geomhash":"6830880faa09b8620b6f3bea36066d84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":169229635,
-    "wof:lastmodified":1466332223,
+    "wof:lastmodified":1510694186,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

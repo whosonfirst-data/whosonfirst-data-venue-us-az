@@ -2,9 +2,14 @@
   "id": 153025039,
   "type": "Feature",
   "properties": {
+    "addr:full":"15704 E Mustang Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15704",
+    "addr:postcode":"85268",
+    "addr:street":"E Mustang Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.740905,33.588771,-111.740905,33.588771",
     "geom:latitude":33.588771,
     "geom:longitude":-111.740905,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4cd813c467a4378c1dee474e1bef130c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":153025039,
-    "wof:lastmodified":1466327479,
+    "wof:lastmodified":1491939251,
     "wof:name":"Desert Hills Paralegal Svc Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

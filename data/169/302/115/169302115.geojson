@@ -2,9 +2,14 @@
   "id": 169302115,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 E Thomas Rd Phoenix AZ 85018",
+    "addr:housenumber":"3401",
+    "addr:postcode":"85018",
+    "addr:street":"E Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.007463,33.480469,-112.007463,33.480469",
     "geom:latitude":33.480469,
     "geom:longitude":-112.007463,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"57aeb188e660d1a6a54df833655ffcb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169302115,
-    "wof:lastmodified":1466333213,
+    "wof:lastmodified":1491890265,
     "wof:name":"Blue Tek Printing Co",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

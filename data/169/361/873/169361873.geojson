@@ -2,9 +2,14 @@
   "id": 169361873,
   "type": "Feature",
   "properties": {
+    "addr:full":"5410 W Puget Ave Glendale AZ 85302",
+    "addr:housenumber":"5410",
+    "addr:postcode":"85302",
+    "addr:street":"W Puget Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.176908,33.567101,-112.176908,33.567101",
     "geom:latitude":33.567101,
     "geom:longitude":-112.176908,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d3244d916551a1dfee1e3497d3fd2a5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169361873,
-    "wof:lastmodified":1466333675,
+    "wof:lastmodified":1491901764,
     "wof:name":"L & Lm SMALL Business Co",
     "wof:parent_id":85858249,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153047675,
   "type": "Feature",
   "properties": {
+    "addr:full":"7620 W Indian School Rd Phoenix AZ 85033",
+    "addr:housenumber":"7620",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.224316,33.49468,-112.224316,33.49468",
     "geom:latitude":33.49468,
     "geom:longitude":-112.224316,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"cc2271496d40202c6d33db8c7ff9b249",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":153047675
         }
     ],
     "wof:id":153047675,
-    "wof:lastmodified":1466327006,
+    "wof:lastmodified":1491934642,
     "wof:name":"NAPA Auto Parts",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

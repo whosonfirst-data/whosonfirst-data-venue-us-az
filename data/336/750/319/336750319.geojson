@@ -2,9 +2,14 @@
   "id": 336750319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 N Dobson Rd Mesa AZ 85201",
+    "addr:housenumber":"1025",
+    "addr:postcode":"85201",
+    "addr:street":"N Dobson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.869935,33.434132,-111.869935,33.434132",
     "geom:latitude":33.434132,
     "geom:longitude":-111.869935,
@@ -48,8 +53,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:brand_id":420575029,
     "wof:breaches":[],
@@ -60,17 +65,15 @@
     "wof:geomhash":"d88644228e5343f3a4aa69caad385200",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336750319
         }
     ],
     "wof:id":336750319,
-    "wof:lastmodified":1466328805,
+    "wof:lastmodified":1491898462,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

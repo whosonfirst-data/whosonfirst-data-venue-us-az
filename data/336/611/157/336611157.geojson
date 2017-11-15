@@ -2,9 +2,14 @@
   "id": 336611157,
   "type": "Feature",
   "properties": {
+    "addr:full":"7141 W Thomas Rd Ste 101 Phoenix AZ 85033",
+    "addr:housenumber":"7141",
+    "addr:postcode":"85033",
+    "addr:street":"W Thomas Rd Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.213627,33.480228,-112.213627,33.480228",
     "geom:latitude":33.480228,
     "geom:longitude":-112.213627,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"d972edc95df1e0addd2261d57f252fe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336611157
         }
     ],
     "wof:id":336611157,
-    "wof:lastmodified":1466326170,
+    "wof:lastmodified":1491934614,
     "wof:name":"Maryvale Chiropractic",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

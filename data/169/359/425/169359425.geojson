@@ -2,9 +2,14 @@
   "id": 169359425,
   "type": "Feature",
   "properties": {
+    "addr:full":"11001 N Black Canyon Hwy Phoenix AZ 85029",
+    "addr:housenumber":"11001",
+    "addr:postcode":"85029",
+    "addr:street":"N Black Canyon Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.116487,33.586348,-112.116487,33.586348",
     "geom:latitude":33.586348,
     "geom:longitude":-112.116487,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"f3ba0fb812ef6d5e91685b7d509dbaa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169359425,
-    "wof:lastmodified":1466333621,
+    "wof:lastmodified":1491888179,
     "wof:name":"Simmers Capital Mgt Corp",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

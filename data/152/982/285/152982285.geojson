@@ -2,9 +2,14 @@
   "id": 152982285,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 E Gable Ave Mesa AZ 85206",
+    "addr:housenumber":"3939",
+    "addr:postcode":"85206",
+    "addr:street":"E Gable Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.747157,33.393114,-111.747157,33.393114",
     "geom:latitude":33.393114,
     "geom:longitude":-111.747157,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7fb452aee53bfc25aaafa1177ac2515b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152982285,
-    "wof:lastmodified":1466329045,
+    "wof:lastmodified":1491913654,
     "wof:name":"Adco Wire & Cable Company",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

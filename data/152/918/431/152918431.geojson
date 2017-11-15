@@ -2,9 +2,14 @@
   "id": 152918431,
   "type": "Feature",
   "properties": {
+    "addr:full":"9925 E Cactus Rd Scottsdale AZ 85260",
+    "addr:housenumber":"9925",
+    "addr:postcode":"85260",
+    "addr:street":"E Cactus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.865717,33.59698,-111.865717,33.59698",
     "geom:latitude":33.59698,
     "geom:longitude":-111.865717,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
-        85880971,
-        85880933
+        85880933,
+        85880971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"cd082e6165c9deab5306b478629d4175",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917475,
-            "neighbourhood_id":85880971,
-            "region_id":85688719,
-            "venue_id":152918431
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
             "neighbourhood_id":85880933,
             "region_id":85688719,
             "venue_id":152918431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85880971,
+            "region_id":85688719,
+            "venue_id":152918431
         }
     ],
     "wof:id":152918431,
-    "wof:lastmodified":1466326667,
+    "wof:lastmodified":1491931843,
     "wof:name":"Pinacle Cooling & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

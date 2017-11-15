@@ -2,9 +2,14 @@
   "id": 336638555,
   "type": "Feature",
   "properties": {
+    "addr:full":"7777 W McDowell Rd Phoenix AZ 85035",
+    "addr:housenumber":"7777",
+    "addr:postcode":"85035",
+    "addr:street":"W Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.226846,33.465388,-112.226846,33.465388",
     "geom:latitude":33.465388,
     "geom:longitude":-112.226846,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"b7a9013dc0a4e913cef89395b763de02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336638555
         }
     ],
     "wof:id":336638555,
-    "wof:lastmodified":1466326743,
+    "wof:lastmodified":1491934671,
     "wof:name":"Barossa At the Park",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

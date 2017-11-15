@@ -2,9 +2,14 @@
   "id": 169392605,
   "type": "Feature",
   "properties": {
+    "addr:full":"10726 N 140th Way Scottsdale AZ 85259",
+    "addr:housenumber":"10726",
+    "addr:postcode":"85259",
+    "addr:street":"N 140Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.777291,33.584023,-111.777291,33.584023",
     "geom:latitude":33.584023,
     "geom:longitude":-111.777291,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"607f5c0a82830c4a604ea60f1e4258bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169392605,
-    "wof:lastmodified":1466333900,
+    "wof:lastmodified":1491939277,
     "wof:name":"Robert G Vonderhaar",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

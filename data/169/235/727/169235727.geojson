@@ -2,9 +2,14 @@
   "id": 169235727,
   "type": "Feature",
   "properties": {
+    "addr:full":"10243 N 17th Dr Phoenix AZ 85021",
+    "addr:housenumber":"10243",
+    "addr:postcode":"85021",
+    "addr:street":"N 17Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.096371,33.579992,-112.096371,33.579992",
     "geom:latitude":33.579992,
     "geom:longitude":-112.096371,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b2b815a3c6e989d02fdea51929dd5d10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169235727,
-    "wof:lastmodified":1466332401,
+    "wof:lastmodified":1491895210,
     "wof:name":"Gil Francisco",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

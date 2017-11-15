@@ -2,9 +2,14 @@
   "id": 168989687,
   "type": "Feature",
   "properties": {
+    "addr:full":"10195 E Wood Dr Scottsdale AZ 85260",
+    "addr:housenumber":"10195",
+    "addr:postcode":"85260",
+    "addr:street":"E Wood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.863651,33.605391,-111.863651,33.605391",
     "geom:latitude":33.605391,
     "geom:longitude":-111.863651,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"79cae23eb4d917d927b56fc80b555796",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168989687,
-    "wof:lastmodified":1466331581,
+    "wof:lastmodified":1491908468,
     "wof:name":"Valley Discount AC",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

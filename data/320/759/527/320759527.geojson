@@ -2,9 +2,14 @@
   "id": 320759527,
   "type": "Feature",
   "properties": {
+    "addr:full":"4144 N. 44th Street Ste F Phoenix AZ 85018",
+    "addr:housenumber":"4144",
+    "addr:postcode":"85018",
+    "addr:street":"N. 44Th Street Ste F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.9869,33.496287,-111.9869,33.496287",
     "geom:latitude":33.496287,
     "geom:longitude":-111.9869,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3aef280ab5749f81453b3b4ea66a7742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320759527,
-    "wof:lastmodified":1466329051,
+    "wof:lastmodified":1491890281,
     "wof:name":"Peak Performance Coaching Llc",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

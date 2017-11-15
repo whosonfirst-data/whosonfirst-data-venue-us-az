@@ -2,14 +2,20 @@
   "id": 169066187,
   "type": "Feature",
   "properties": {
+    "addr:full":"8251 W Union Hills Dr Glendale AZ 85308",
+    "addr:housenumber":"8251",
+    "addr:postcode":"85308",
+    "addr:street":"W Union Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.234927,33.652654,-112.234927,33.652654",
     "geom:latitude":33.652654,
     "geom:longitude":-112.234927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8251 W Union Hills Dr",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -30,29 +36,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
+    "wof:brand_id":1125159935,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w58kuv80Byey4lEP78MtN_33.652654_-112.234927@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"a83cd2afd523a0e0fbf282e59d3d3013",
+    "wof:geomhash":"5a297973524ac99fa643261e4ffc2054",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":169066187
         }
     ],
     "wof:id":169066187,
-    "wof:lastmodified":1466329562,
+    "wof:lastmodified":1510693800,
     "wof:name":"Max Muscle",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

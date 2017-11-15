@@ -2,9 +2,14 @@
   "id": 152987911,
   "type": "Feature",
   "properties": {
+    "addr:full":"3737 W Brown St Phoenix AZ 85051",
+    "addr:housenumber":"3737",
+    "addr:postcode":"85051",
+    "addr:street":"W Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.140989,33.57767,-112.140989,33.57767",
     "geom:latitude":33.57767,
     "geom:longitude":-112.140989,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0cde7a09cb311591e8c5c34e6dfcc08e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152987911,
-    "wof:lastmodified":1466329388,
+    "wof:lastmodified":1491888227,
     "wof:name":"Bagley Landscape & Constructio",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

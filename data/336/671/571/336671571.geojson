@@ -2,9 +2,14 @@
   "id": 336671571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2029 W Baseline Rd Phoenix AZ 85041",
+    "addr:housenumber":"2029",
+    "addr:postcode":"85041",
+    "addr:street":"W Baseline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.102519,33.377762,-112.102519,33.377762",
     "geom:latitude":33.377762,
     "geom:longitude":-112.102519,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d7631b7954f65f9154b7f60a984fa462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336671571,
-    "wof:lastmodified":1466327909,
+    "wof:lastmodified":1491900170,
     "wof:name":"Crown Vision",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

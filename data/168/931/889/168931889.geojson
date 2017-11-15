@@ -2,9 +2,14 @@
   "id": 168931889,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 N McQueen Rd Chandler AZ 85225",
+    "addr:housenumber":"1320",
+    "addr:postcode":"85225",
+    "addr:street":"N Mcqueen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.824175,33.325243,-111.824175,33.325243",
     "geom:latitude":33.325243,
     "geom:longitude":-111.824175,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"06541efbf2374a02aab1717a4260298a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168931889,
-    "wof:lastmodified":1466330627,
+    "wof:lastmodified":1491920727,
     "wof:name":"E Z Cocktailing",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

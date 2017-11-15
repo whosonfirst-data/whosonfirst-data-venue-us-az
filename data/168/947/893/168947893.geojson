@@ -2,9 +2,14 @@
   "id": 168947893,
   "type": "Feature",
   "properties": {
+    "addr:full":"7725 E Cam del Monte Scottsdale AZ 85255",
+    "addr:housenumber":"7725",
+    "addr:postcode":"85255",
+    "addr:street":"E Cam Del Monte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.913306,33.701859,-111.913306,33.701859",
     "geom:latitude":33.701859,
     "geom:longitude":-111.913306,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e6b1d2e303dcd9c0602d7f0c9e03ec40",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168947893,
-    "wof:lastmodified":1466330969,
+    "wof:lastmodified":1491926455,
     "wof:name":"Charity Recycling",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

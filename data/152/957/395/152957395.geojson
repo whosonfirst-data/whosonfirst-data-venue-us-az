@@ -2,9 +2,14 @@
   "id": 152957395,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 W Arrowhead Towne Center Glendale AZ 85308",
+    "addr:housenumber":"7700",
+    "addr:postcode":"85308",
+    "addr:street":"W Arrowhead Towne Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.229277,33.643778,-112.229277,33.643778",
     "geom:latitude":33.643778,
     "geom:longitude":-112.229277,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"ae750bf18a5d46d3d267653ab56526cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":152957395
         }
     ],
     "wof:id":152957395,
-    "wof:lastmodified":1466327813,
+    "wof:lastmodified":1491896392,
     "wof:name":"Jack Le Duke",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

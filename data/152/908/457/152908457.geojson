@@ -2,9 +2,14 @@
   "id": 152908457,
   "type": "Feature",
   "properties": {
+    "addr:full":"6149 E Pershing Ave Scottsdale AZ 85254",
+    "addr:housenumber":"6149",
+    "addr:postcode":"85254",
+    "addr:street":"E Pershing Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.949603,33.606705,-111.949603,33.606705",
     "geom:latitude":33.606705,
     "geom:longitude":-111.949603,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"f7a650d6b0b38c62f14027a4385b098a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152908457,
-    "wof:lastmodified":1466325730,
+    "wof:lastmodified":1491901250,
     "wof:name":"Petra Landscape Inc",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

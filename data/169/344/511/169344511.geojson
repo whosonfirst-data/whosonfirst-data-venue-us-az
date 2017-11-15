@@ -2,9 +2,14 @@
   "id": 169344511,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S 4th Ave Phoenix AZ 85003",
+    "addr:housenumber":"301",
+    "addr:postcode":"85003",
+    "addr:street":"S 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.078878,33.444471,-112.078878,33.444471",
     "geom:latitude":33.444471,
     "geom:longitude":-112.078878,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"7daa36576c9e6a6f01e465ab3d314c0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169344511,
-    "wof:lastmodified":1466333539,
+    "wof:lastmodified":1491917215,
     "wof:name":"Maricopa Cnty Info Technology",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

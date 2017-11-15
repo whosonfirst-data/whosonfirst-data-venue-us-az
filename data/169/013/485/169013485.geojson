@@ -2,9 +2,14 @@
   "id": 169013485,
   "type": "Feature",
   "properties": {
+    "addr:full":"13307 E del Timbre Dr Scottsdale AZ 85259",
+    "addr:housenumber":"13307",
+    "addr:postcode":"85259",
+    "addr:street":"E Del Timbre Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.793117,33.572228,-111.793117,33.572228",
     "geom:latitude":33.572228,
     "geom:longitude":-111.793117,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4e347341ab28b2e1c7c67885642056c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169013485,
-    "wof:lastmodified":1466327175,
+    "wof:lastmodified":1491939310,
     "wof:name":"Tokyo Express Take Two",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

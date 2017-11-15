@@ -2,9 +2,14 @@
   "id": 353431567,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 E Dunbar Dr Tempe AZ 85282",
+    "addr:housenumber":"2121",
+    "addr:postcode":"85282",
+    "addr:street":"E Dunbar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.89621,33.379703,-111.89621,33.379703",
     "geom:latitude":33.379703,
     "geom:longitude":-111.89621,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0308d03d1048fdfcb7a46d4e4b47f655",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353431567,
-    "wof:lastmodified":1466326510,
+    "wof:lastmodified":1491938051,
     "wof:name":"Locksmith Affective Always Available Emergency",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

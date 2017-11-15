@@ -2,9 +2,14 @@
   "id": 336801155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 E Valley Auto Drive Mesa AZ 85206",
+    "addr:housenumber":"4115",
+    "addr:postcode":"85206",
+    "addr:street":"E Valley Auto Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.743974,33.381379,-111.743974,33.381379",
     "geom:latitude":33.381379,
     "geom:longitude":-111.743974,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"69c65def04b76f8e45952dd38fdc84e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336801155,
-    "wof:lastmodified":1466329543,
+    "wof:lastmodified":1491913673,
     "wof:name":"Christiano Daniel J PHD",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169329309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2122 W Butler Dr Phoenix AZ 85021",
+    "addr:housenumber":"2122",
+    "addr:postcode":"85021",
+    "addr:street":"W Butler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.103597,33.560419,-112.103597,33.560419",
     "geom:latitude":33.560419,
     "geom:longitude":-112.103597,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"3a67565f5af4cd764cba8650275c6d02",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169329309,
-    "wof:lastmodified":1466333289,
+    "wof:lastmodified":1491888138,
     "wof:name":"Cedar Ridge Apartments",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336617007,
   "type": "Feature",
   "properties": {
+    "addr:full":"2921 N 83rd Ave Phoenix AZ 85033",
+    "addr:housenumber":"2921",
+    "addr:postcode":"85033",
+    "addr:street":"N 83Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.236757,33.480796,-112.236757,33.480796",
     "geom:latitude":33.480796,
     "geom:longitude":-112.236757,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -51,17 +57,17 @@
     "wof:geomhash":"231821cfd842d108e5fd88d408925b52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336617007
         }
     ],
     "wof:id":336617007,
-    "wof:lastmodified":1466326278,
+    "wof:lastmodified":1491934671,
     "wof:name":"Walgreens",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353371629,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 S Mcclintock Dr Tempe AZ 85281",
+    "addr:housenumber":"617",
+    "addr:postcode":"85281",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909088,33.4231,-111.909088,33.4231",
     "geom:latitude":33.4231,
     "geom:longitude":-111.909088,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2c901cb166f0d99b5ca5c420d3c57617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353371629,
-    "wof:lastmodified":1466326035,
+    "wof:lastmodified":1491902488,
     "wof:name":"Highland Coffee Roaster",
     "wof:parent_id":85881433,
     "wof:placetype":"venue",

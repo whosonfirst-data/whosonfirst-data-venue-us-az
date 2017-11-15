@@ -2,9 +2,14 @@
   "id": 336733331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5134 W Molly Ln Phoenix AZ 85083",
+    "addr:housenumber":"5134",
+    "addr:postcode":"85083",
+    "addr:street":"W Molly Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.171047,33.728067,-112.171047,33.728067",
     "geom:latitude":33.728067,
     "geom:longitude":-112.171047,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,7 +46,7 @@
     "wof:geomhash":"f016a2256ed4178631078b7e31272ef9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":336733331,
-    "wof:lastmodified":1466328545,
+    "wof:lastmodified":1491934277,
     "wof:name":"Java Jazz",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

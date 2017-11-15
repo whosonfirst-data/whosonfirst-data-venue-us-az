@@ -2,9 +2,14 @@
   "id": 168960943,
   "type": "Feature",
   "properties": {
+    "addr:full":"7520 E Beatrice St Scottsdale AZ 85257",
+    "addr:housenumber":"7520",
+    "addr:postcode":"85257",
+    "addr:street":"E Beatrice St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.917754,33.457841,-111.917754,33.457841",
     "geom:latitude":33.457841,
     "geom:longitude":-111.917754,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"58165a56a1aa48ac7c04e45bdfcf063a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168960943
         }
     ],
     "wof:id":168960943,
-    "wof:lastmodified":1466331154,
+    "wof:lastmodified":1491905220,
     "wof:name":"Mels Masonry",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

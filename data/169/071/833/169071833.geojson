@@ -2,9 +2,14 @@
   "id": 169071833,
   "type": "Feature",
   "properties": {
+    "addr:full":"14231 N 91st Pl Scottsdale AZ 85260",
+    "addr:housenumber":"14231",
+    "addr:postcode":"85260",
+    "addr:street":"N 91St Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.883154,33.615817,-111.883154,33.615817",
     "geom:latitude":33.615817,
     "geom:longitude":-111.883154,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d31041d46cd4ebf29ef9642635a4fb5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169071833,
-    "wof:lastmodified":1466329790,
+    "wof:lastmodified":1491908445,
     "wof:name":"JJW LTD",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

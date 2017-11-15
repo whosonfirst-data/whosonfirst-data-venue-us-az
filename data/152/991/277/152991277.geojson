@@ -2,9 +2,14 @@
   "id": 152991277,
   "type": "Feature",
   "properties": {
+    "addr:full":"4642 N 32nd St Phoenix AZ 85018",
+    "addr:housenumber":"4642",
+    "addr:postcode":"85018",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.013062,33.504918,-112.013062,33.504918",
     "geom:latitude":33.504918,
     "geom:longitude":-112.013062,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"16f97f49a81a75086c11682cc547a474",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152991277,
-    "wof:lastmodified":1466329732,
+    "wof:lastmodified":1491890199,
     "wof:name":"Fit Studio",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

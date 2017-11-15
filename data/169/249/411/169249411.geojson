@@ -2,9 +2,14 @@
   "id": 169249411,
   "type": "Feature",
   "properties": {
+    "addr:full":"1011 S 19th Ave Phoenix AZ 85009",
+    "addr:housenumber":"1011",
+    "addr:postcode":"85009",
+    "addr:street":"S 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.099928,33.437736,-112.099928,33.437736",
     "geom:latitude":33.437736,
     "geom:longitude":-112.099928,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a87d80df914b86ada04949c614fe5ccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169249411,
-    "wof:lastmodified":1466332477,
+    "wof:lastmodified":1491917224,
     "wof:name":"Rojelio's Auto Mechanic",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

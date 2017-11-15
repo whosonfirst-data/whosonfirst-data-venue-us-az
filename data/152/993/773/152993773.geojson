@@ -2,9 +2,14 @@
   "id": 152993773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 W Cactus Rd Phoenix AZ 85029",
+    "addr:housenumber":"2820",
+    "addr:postcode":"85029",
+    "addr:street":"W Cactus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.118303,33.596471,-112.118303,33.596471",
     "geom:latitude":33.596471,
     "geom:longitude":-112.118303,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4ae0e9cbfb11f8744e18b36d0c98c99c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152993773,
-    "wof:lastmodified":1466329787,
+    "wof:lastmodified":1491895197,
     "wof:name":"Centurion Cleaners II",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

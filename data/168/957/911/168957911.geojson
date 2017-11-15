@@ -2,9 +2,14 @@
   "id": 168957911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1027 E Coral Gables Dr Phoenix AZ 85022",
+    "addr:housenumber":"1027",
+    "addr:postcode":"85022",
+    "addr:street":"E Coral;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.05887,33.625727,-112.05887,33.625727",
     "geom:latitude":33.625727,
     "geom:longitude":-112.05887,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"297d29840f11341a2b9c8f6af02dcd11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":168957911,
-    "wof:lastmodified":1466330965,
+    "wof:lastmodified":1491897063,
     "wof:name":"Air Refrigeration",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

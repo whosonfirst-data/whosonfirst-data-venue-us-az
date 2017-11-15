@@ -2,9 +2,14 @@
   "id": 336915093,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 N Acacia Dr Gilbert AZ 85233",
+    "addr:housenumber":"1225",
+    "addr:postcode":"85233",
+    "addr:street":"N Acacia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.818491,33.372625,-111.818491,33.372625",
     "geom:latitude":33.372625,
     "geom:longitude":-111.818491,
@@ -39,8 +44,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -52,17 +58,17 @@
     "wof:geomhash":"b1fbc71d2007b4281eda6fa115fc3329",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336915093
         }
     ],
     "wof:id":336915093,
-    "wof:lastmodified":1466330574,
+    "wof:lastmodified":1491892017,
     "wof:name":"Glass Packs",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

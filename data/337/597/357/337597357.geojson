@@ -2,9 +2,14 @@
   "id": 337597357,
   "type": "Feature",
   "properties": {
+    "addr:full":"8950 E Raintree Dr Scottsdale AZ 85260",
+    "addr:housenumber":"8950",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.887879,33.618751,-111.887879,33.618751",
     "geom:latitude":33.618751,
     "geom:longitude":-111.887879,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"1d535badf25ce17d52d656afcb679a2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":337597357,
-    "wof:lastmodified":1466327877,
+    "wof:lastmodified":1491908440,
     "wof:name":"Headstart Financial Group",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

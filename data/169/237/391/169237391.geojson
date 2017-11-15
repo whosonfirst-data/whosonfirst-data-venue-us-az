@@ -2,9 +2,14 @@
   "id": 169237391,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 S Park Ln Tempe AZ 85281",
+    "addr:housenumber":"1335",
+    "addr:postcode":"85281",
+    "addr:street":"S Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.97453,33.415149,-111.97453,33.415149",
     "geom:latitude":33.415149,
     "geom:longitude":-111.97453,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7888598a1575d3cfd892b0e622feb00c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169237391,
-    "wof:lastmodified":1466332444,
+    "wof:lastmodified":1491909705,
     "wof:name":"Scheidt & Bachmann",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

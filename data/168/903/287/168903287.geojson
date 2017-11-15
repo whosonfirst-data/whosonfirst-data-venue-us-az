@@ -2,9 +2,14 @@
   "id": 168903287,
   "type": "Feature",
   "properties": {
+    "addr:full":"13940 N Frank Lloyd Wright Blvd Scottsdale AZ 85260",
+    "addr:housenumber":"13940",
+    "addr:postcode":"85260",
+    "addr:street":"N Frank Lloyd Wright Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.870956,33.616506,-111.870956,33.616506",
     "geom:latitude":33.616506,
     "geom:longitude":-111.870956,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -46,6 +52,7 @@
     "wof:geomhash":"1cd649b1b92882e9ee61b871a14107df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":168903287,
-    "wof:lastmodified":1466329690,
+    "wof:lastmodified":1491908449,
     "wof:name":"Kinder Care Learning Ctr",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

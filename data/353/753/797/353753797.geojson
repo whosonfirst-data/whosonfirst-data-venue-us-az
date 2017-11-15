@@ -2,9 +2,14 @@
   "id": 353753797,
   "type": "Feature",
   "properties": {
+    "addr:full":"10809 W Encanto Blvd Avondale AZ 85392",
+    "addr:housenumber":"10809",
+    "addr:postcode":"85392",
+    "addr:street":"W Encanto Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.292244,33.472208,-112.292244,33.472208",
     "geom:latitude":33.472208,
     "geom:longitude":-112.292244,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"dc91f9fa9c1e01fe55f86996643254b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353753797
         }
     ],
     "wof:id":353753797,
-    "wof:lastmodified":1466330038,
+    "wof:lastmodified":1491934749,
     "wof:name":"Above & Beyond Roofing",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

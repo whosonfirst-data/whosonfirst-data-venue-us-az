@@ -2,9 +2,14 @@
   "id": 320795197,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 E Rowlands Ln Phoenix AZ 85022",
+    "addr:housenumber":"730",
+    "addr:postcode":"85022",
+    "addr:street":"E Rowlands Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.064709,33.616672,-112.064709,33.616672",
     "geom:latitude":33.616672,
     "geom:longitude":-112.064709,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"7b6e8c3dbe0e6634453a05d5b72192f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":320795197,
-    "wof:lastmodified":1466329602,
+    "wof:lastmodified":1491897080,
     "wof:name":"Crucible",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

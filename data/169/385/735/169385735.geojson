@@ -2,9 +2,14 @@
   "id": 169385735,
   "type": "Feature",
   "properties": {
+    "addr:full":"5130 S McClintock Dr Tempe AZ 85281",
+    "addr:housenumber":"5130",
+    "addr:postcode":"85281",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909314,33.379771,-111.909314,33.379771",
     "geom:latitude":33.379771,
     "geom:longitude":-111.909314,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"152d8cc9f81111c5ba78f0ddf87a1269",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169385735,
-    "wof:lastmodified":1466333823,
+    "wof:lastmodified":1491938053,
     "wof:name":"Mc Clintock Exxon",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

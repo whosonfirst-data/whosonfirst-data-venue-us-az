@@ -2,9 +2,14 @@
   "id": 169352101,
   "type": "Feature",
   "properties": {
+    "addr:full":"10190 E Cactus Rd Scottsdale AZ 85260",
+    "addr:housenumber":"10190",
+    "addr:postcode":"85260",
+    "addr:street":"E Cactus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.861905,33.597046,-111.861905,33.597046",
     "geom:latitude":33.597046,
     "geom:longitude":-111.861905,
@@ -26,10 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
-        85880933
+        85880933,
+        85880949,
+        85880971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +47,37 @@
     "wof:geomhash":"fbba0ef4b78e9237fa384f5aa78289dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
             "neighbourhood_id":85880933,
             "region_id":85688719,
             "venue_id":169352101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85880949,
+            "region_id":85688719,
+            "venue_id":169352101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85880971,
+            "region_id":85688719,
+            "venue_id":169352101
         }
     ],
     "wof:id":169352101,
-    "wof:lastmodified":1466333468,
+    "wof:lastmodified":1491908439,
     "wof:name":"Tubac Overlook LLC",
-    "wof:parent_id":85880933,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

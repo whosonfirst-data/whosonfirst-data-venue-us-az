@@ -2,9 +2,14 @@
   "id": 353600257,
   "type": "Feature",
   "properties": {
+    "addr:full":"10129 W Rose Ln Glendale AZ 85307",
+    "addr:housenumber":"10129",
+    "addr:postcode":"85307",
+    "addr:street":"W Rose Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.276854,33.526343,-112.276854,33.526343",
     "geom:latitude":33.526343,
     "geom:longitude":-112.276854,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"84a6ed346a67584a1e136e2783334b1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":353600257,
-    "wof:lastmodified":1466328779,
+    "wof:lastmodified":1491936196,
     "wof:name":"Asap Concrete Cutting",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

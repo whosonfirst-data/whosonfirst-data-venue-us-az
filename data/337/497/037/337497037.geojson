@@ -2,9 +2,14 @@
   "id": 337497037,
   "type": "Feature",
   "properties": {
+    "addr:full":"15611 N 65th St Scottsdale AZ 85254",
+    "addr:housenumber":"15611",
+    "addr:postcode":"85254",
+    "addr:street":"N 65Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.941264,33.627696,-111.941264,33.627696",
     "geom:latitude":33.627696,
     "geom:longitude":-111.941264,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a42a843b64d62b4c25f87244b7fe1fe4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337497037,
-    "wof:lastmodified":1466326225,
+    "wof:lastmodified":1491901241,
     "wof:name":"Half Birthday Parties",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

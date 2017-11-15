@@ -2,9 +2,14 @@
   "id": 153042385,
   "type": "Feature",
   "properties": {
+    "addr:full":"4371 E Colter St Phoenix AZ 85018",
+    "addr:housenumber":"4371",
+    "addr:postcode":"85018",
+    "addr:street":"E Colter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.988164,33.512367,-111.988164,33.512367",
     "geom:latitude":33.512367,
     "geom:longitude":-111.988164,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"2ce754b82bb96c1993627b44973b9c3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153042385,
-    "wof:lastmodified":1466326639,
+    "wof:lastmodified":1491890123,
     "wof:name":"Frontdoors Lifestyle News",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

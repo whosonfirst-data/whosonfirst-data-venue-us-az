@@ -2,9 +2,14 @@
   "id": 320666275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2348 W Buckeye Rd Phoenix AZ 85009",
+    "addr:housenumber":"2348",
+    "addr:postcode":"85009",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.109678,33.436771,-112.109678,33.436771",
     "geom:latitude":33.436771,
     "geom:longitude":-112.109678,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4d11a776cc297fee1b3a1dbeb061f8b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320666275,
-    "wof:lastmodified":1466327427,
+    "wof:lastmodified":1491917196,
     "wof:name":"Jalisco Auto Glass",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

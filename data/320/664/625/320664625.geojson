@@ -2,9 +2,14 @@
   "id": 320664625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 W Cocopah St Ste 1 Phoenix AZ 85009",
+    "addr:housenumber":"3330",
+    "addr:postcode":"85009",
+    "addr:street":"W Cocopah St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.131624,33.432102,-112.131624,33.432102",
     "geom:latitude":33.432102,
     "geom:longitude":-112.131624,
@@ -60,6 +65,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -73,7 +79,7 @@
     "wof:geomhash":"f237b181ca5411e70f83d3d0e82c1966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":320664625,
-    "wof:lastmodified":1466327384,
+    "wof:lastmodified":1491917099,
     "wof:name":"Preferred Packaging & Contnr",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

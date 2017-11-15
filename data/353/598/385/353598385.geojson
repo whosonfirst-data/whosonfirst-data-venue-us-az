@@ -2,9 +2,14 @@
   "id": 353598385,
   "type": "Feature",
   "properties": {
+    "addr:full":"6106 W Hearn Rd Glendale AZ 85306",
+    "addr:housenumber":"6106",
+    "addr:postcode":"85306",
+    "addr:street":"W Hearn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.189697,33.614311,-112.189697,33.614311",
     "geom:latitude":33.614311,
     "geom:longitude":-112.189697,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e24312efc972d178f911ded5b46bad79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353598385,
-    "wof:lastmodified":1466328495,
+    "wof:lastmodified":1491923094,
     "wof:name":"Richard B. Entertainment",
     "wof:parent_id":85846927,
     "wof:placetype":"venue",

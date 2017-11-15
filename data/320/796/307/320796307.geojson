@@ -2,9 +2,14 @@
   "id": 320796307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 E Thunderbird Rd # 1092 Phoenix AZ 85022",
+    "addr:housenumber":"1550",
+    "addr:postcode":"85022",
+    "addr:street":"E Thunderbird Rd # 1092",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.048462,33.600971,-112.048462,33.600971",
     "geom:latitude":33.600971,
     "geom:longitude":-112.048462,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e7a7546368e5af7f2c8f61b4c9b1d9f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320796307,
-    "wof:lastmodified":1466329619,
+    "wof:lastmodified":1491897071,
     "wof:name":"Forest House Yoga & Healing",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

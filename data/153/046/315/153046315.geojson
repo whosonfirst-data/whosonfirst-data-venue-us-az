@@ -2,9 +2,14 @@
   "id": 153046315,
   "type": "Feature",
   "properties": {
+    "addr:full":"16626 N 41st Pl Phoenix AZ 85032",
+    "addr:housenumber":"16626",
+    "addr:postcode":"85032",
+    "addr:street":"N 41St Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.992044,33.638637,-111.992044,33.638637",
     "geom:latitude":33.638637,
     "geom:longitude":-111.992044,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"0b46ccfc472140a3a8a17e1c1cd85f2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153046315,
-    "wof:lastmodified":1466326909,
+    "wof:lastmodified":1491911688,
     "wof:name":"M J Schneider Plumbing Inc",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337584365,
   "type": "Feature",
   "properties": {
+    "addr:full":"8888 E Raintree Dr # 150 Scottsdale AZ 85260",
+    "addr:housenumber":"8888",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr # 150",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.888504,33.618615,-111.888504,33.618615",
     "geom:latitude":33.618615,
     "geom:longitude":-111.888504,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3eee11a3448643e4136e60a9ba4b8b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337584365,
-    "wof:lastmodified":1466326976,
+    "wof:lastmodified":1491908440,
     "wof:name":"Outback Steakhouse Corp Ofc",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

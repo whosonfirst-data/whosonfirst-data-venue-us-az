@@ -2,9 +2,14 @@
   "id": 320656463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2441 S 22nd Ave Phoenix AZ 85009",
+    "addr:housenumber":"2441",
+    "addr:postcode":"85009",
+    "addr:street":"S 22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.106286,33.425761,-112.106286,33.425761",
     "geom:latitude":33.425761,
     "geom:longitude":-112.106286,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,7 +46,7 @@
     "wof:geomhash":"347cd7e3a9d78d9192934a855cda7148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":320656463,
-    "wof:lastmodified":1466327173,
+    "wof:lastmodified":1491917123,
     "wof:name":"Equipment Mgt / Auto Stores",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

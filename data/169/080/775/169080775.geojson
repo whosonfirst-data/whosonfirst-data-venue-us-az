@@ -2,9 +2,14 @@
   "id": 169080775,
   "type": "Feature",
   "properties": {
+    "addr:full":"14742 Crested Crown Fountain Hills AZ 85268",
+    "addr:housenumber":"",
+    "addr:postcode":"14742;85268",
+    "addr:street":"Crested Crown",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.761956,33.570823,-111.761956,33.570823",
     "geom:latitude":33.570823,
     "geom:longitude":-111.761956,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8c20559ecbdb5d3442b15c8200bb6269",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169080775,
-    "wof:lastmodified":1466329951,
+    "wof:lastmodified":1491939286,
     "wof:name":"Jhenni Builders LLC",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

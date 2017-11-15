@@ -2,9 +2,14 @@
   "id": 353470233,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 S. Roosevelt Tempe AZ 85282",
+    "addr:housenumber":"2625",
+    "addr:postcode":"85282",
+    "addr:street":"S. Roosevelt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.947805,33.400786,-111.947805,33.400786",
     "geom:latitude":33.400786,
     "geom:longitude":-111.947805,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -53,7 +59,7 @@
     "wof:geomhash":"615a76cf9c840c045da01d9eee1d9631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":353470233,
-    "wof:lastmodified":1466326790,
+    "wof:lastmodified":1491927150,
     "wof:name":"Avalon Gourmet",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",

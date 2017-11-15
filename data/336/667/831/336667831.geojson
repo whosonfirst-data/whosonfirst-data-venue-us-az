@@ -2,9 +2,14 @@
   "id": 336667831,
   "type": "Feature",
   "properties": {
+    "addr:full":"6150 S 35th Ave Phoenix AZ 85041",
+    "addr:housenumber":"6150",
+    "addr:postcode":"85041",
+    "addr:street":"S 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.133689,33.389213,-112.133689,33.389213",
     "geom:latitude":33.389213,
     "geom:longitude":-112.133689,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"488deb7fd92529f8aab82c6dbcdac130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336667831,
-    "wof:lastmodified":1466327370,
+    "wof:lastmodified":1491900191,
     "wof:name":"Smartstyle Family Hair Salon",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

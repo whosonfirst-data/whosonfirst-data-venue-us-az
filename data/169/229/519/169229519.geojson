@@ -2,9 +2,14 @@
   "id": 169229519,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 E Runaway Bay Pl Chandler AZ 85249",
+    "addr:housenumber":"2110",
+    "addr:postcode":"85249",
+    "addr:street":"E Runaway Bay Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.804481,33.214709,-111.804481,33.214709",
     "geom:latitude":33.214709,
     "geom:longitude":-111.804481,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f918a0a0689cc0aa172bdc3b31020440",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169229519,
-    "wof:lastmodified":1466332213,
+    "wof:lastmodified":1491886947,
     "wof:name":"Morrison Homes Bel Vista",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

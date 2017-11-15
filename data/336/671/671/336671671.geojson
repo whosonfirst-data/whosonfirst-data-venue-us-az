@@ -2,9 +2,14 @@
   "id": 336671671,
   "type": "Feature",
   "properties": {
+    "addr:full":"3713 W. Dunbar Dr. Phoenix AZ 85041",
+    "addr:housenumber":"3713",
+    "addr:postcode":"85041",
+    "addr:street":"W. Dunbar Dr.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.138713,33.378942,-112.138713,33.378942",
     "geom:latitude":33.378942,
     "geom:longitude":-112.138713,
@@ -47,6 +52,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -60,7 +66,7 @@
     "wof:geomhash":"f6890bc67781d9de0acf9c09225cc4a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":336671671,
-    "wof:lastmodified":1466327471,
+    "wof:lastmodified":1491900218,
     "wof:name":"Javier the Handy Man",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

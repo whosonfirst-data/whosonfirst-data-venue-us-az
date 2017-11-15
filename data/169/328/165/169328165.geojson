@@ -2,9 +2,14 @@
   "id": 169328165,
   "type": "Feature",
   "properties": {
+    "addr:full":"8940 E Indian Bend Rd Scottsdale AZ 85250",
+    "addr:housenumber":"8940",
+    "addr:postcode":"85250",
+    "addr:street":"E Indian Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.889046,33.538346,-111.889046,33.538346",
     "geom:latitude":33.538346,
     "geom:longitude":-111.889046,
@@ -27,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688719,
-        85633793,
-        85858179,
-        102087421
-    ],
+    "wof:belongsto":[],
     "wof:brand_id":420573791,
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +40,9 @@
     },
     "wof:country":"US",
     "wof:geomhash":"eb8f5aa4551d2849e7025cd9ea6f1c4a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087421,
-            "neighbourhood_id":85858179,
-            "region_id":85688719,
-            "venue_id":169328165
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169328165,
-    "wof:lastmodified":1466333148,
+    "wof:lastmodified":1491894269,
     "wof:name":"Subway",
     "wof:parent_id":85858179,
     "wof:placetype":"venue",

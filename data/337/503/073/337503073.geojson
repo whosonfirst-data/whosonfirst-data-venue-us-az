@@ -2,9 +2,14 @@
   "id": 337503073,
   "type": "Feature",
   "properties": {
+    "addr:full":"6418 E Winchcomb Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6418",
+    "addr:postcode":"85254",
+    "addr:street":"E Winchcomb Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.942791,33.616593,-111.942791,33.616593",
     "geom:latitude":33.616593,
     "geom:longitude":-111.942791,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"abc80e132384100bd2314562c22627b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337503073,
-    "wof:lastmodified":1466326278,
+    "wof:lastmodified":1491901223,
     "wof:name":"White Star Printing Inc.",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

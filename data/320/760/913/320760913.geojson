@@ -2,9 +2,14 @@
   "id": 320760913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3609 E Thomas Rd Phoenix AZ 85018",
+    "addr:housenumber":"3609",
+    "addr:postcode":"85018",
+    "addr:street":"E Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.004012,33.480468,-112.004012,33.480468",
     "geom:latitude":33.480468,
     "geom:longitude":-112.004012,
@@ -69,6 +74,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -82,7 +88,7 @@
     "wof:geomhash":"92bd3f5cdf990bfc78dc94ab8ac70bfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":320760913,
-    "wof:lastmodified":1466329086,
+    "wof:lastmodified":1491890277,
     "wof:name":"The Home Depot Tool Rental",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

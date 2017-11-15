@@ -2,9 +2,14 @@
   "id": 168921697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 W San Pedro St Gilbert AZ 85233",
+    "addr:housenumber":"1404",
+    "addr:postcode":"85233",
+    "addr:street":"W San Pedro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.820563,33.370806,-111.820563,33.370806",
     "geom:latitude":33.370806,
     "geom:longitude":-111.820563,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"44dde45e5a0525e4f8e39fcb8626e03d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":168921697
         }
     ],
     "wof:id":168921697,
-    "wof:lastmodified":1466330177,
+    "wof:lastmodified":1491892001,
     "wof:name":"Pioneer Sand Company",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

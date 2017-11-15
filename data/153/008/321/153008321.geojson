@@ -2,9 +2,14 @@
   "id": 153008321,
   "type": "Feature",
   "properties": {
+    "addr:full":"7521 E Onyx Ct Scottsdale AZ 85258",
+    "addr:housenumber":"7521",
+    "addr:postcode":"85258",
+    "addr:street":"E Onyx Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.918217,33.577633,-111.918217,33.577633",
     "geom:latitude":33.577633,
     "geom:longitude":-111.918217,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"98d86217576c3de5edb0cbc19f24b864",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":153008321,
-    "wof:lastmodified":1466325931,
+    "wof:lastmodified":1491912676,
     "wof:name":"Steven M Senseman Co",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

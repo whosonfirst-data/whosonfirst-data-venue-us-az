@@ -2,9 +2,14 @@
   "id": 337596467,
   "type": "Feature",
   "properties": {
+    "addr:full":"14225 N 99th St Scottsdale AZ 85260",
+    "addr:housenumber":"14225",
+    "addr:postcode":"85260",
+    "addr:street":"N 99Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.86599,33.6157,-111.86599,33.6157",
     "geom:latitude":33.6157,
     "geom:longitude":-111.86599,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"8106a8fff595eb1023f431d7e5b4bb05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":337596467,
-    "wof:lastmodified":1466327089,
+    "wof:lastmodified":1491908458,
     "wof:name":"Production Technology, Inc",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

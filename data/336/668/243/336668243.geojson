@@ -2,9 +2,14 @@
   "id": 336668243,
   "type": "Feature",
   "properties": {
+    "addr:full":"3107 W Alta Vista Rd Phoenix AZ 85041",
+    "addr:housenumber":"3107",
+    "addr:postcode":"85041",
+    "addr:street":"W Alta Vista Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125784,33.388641,-112.125784,33.388641",
     "geom:latitude":33.388641,
     "geom:longitude":-112.125784,
@@ -20,6 +25,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -33,7 +39,7 @@
     "wof:geomhash":"ba51499321e768547ebc2cb6272bc498",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":336668243,
-    "wof:lastmodified":1466327382,
+    "wof:lastmodified":1491900167,
     "wof:name":"Presto Casting",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

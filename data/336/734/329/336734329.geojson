@@ -2,9 +2,14 @@
   "id": 336734329,
   "type": "Feature",
   "properties": {
+    "addr:full":"33834 N 12th St Phoenix AZ 85085",
+    "addr:housenumber":"33834",
+    "addr:postcode":"85085",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.056757,33.792895,-112.056757,33.792895",
     "geom:latitude":33.792895,
     "geom:longitude":-112.056757,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"fc15b80ccefb7cbd1b291e4d84a91181",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336734329,
-    "wof:lastmodified":1466328567,
+    "wof:lastmodified":1491934303,
     "wof:name":"R J S Industries Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

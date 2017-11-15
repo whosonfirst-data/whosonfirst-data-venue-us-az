@@ -2,9 +2,14 @@
   "id": 169322181,
   "type": "Feature",
   "properties": {
+    "addr:full":"9635 N 35th Dr Phoenix AZ 85051",
+    "addr:housenumber":"9635",
+    "addr:postcode":"85051",
+    "addr:street":"N 35Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.134712,33.574579,-112.134712,33.574579",
     "geom:latitude":33.574579,
     "geom:longitude":-112.134712,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8af7aa6d80241dd4f6d232647b5070b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169322181,
-    "wof:lastmodified":1466333171,
+    "wof:lastmodified":1491888206,
     "wof:name":"Mountain West Alarm Supply",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

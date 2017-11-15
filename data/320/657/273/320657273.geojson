@@ -2,9 +2,14 @@
   "id": 320657273,
   "type": "Feature",
   "properties": {
+    "addr:full":"3434 W Durango St Phoenix AZ 85009",
+    "addr:housenumber":"3434",
+    "addr:postcode":"85009",
+    "addr:street":"W Durango St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.133881,33.429649,-112.133881,33.429649",
     "geom:latitude":33.429649,
     "geom:longitude":-112.133881,
@@ -78,6 +83,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -92,7 +98,7 @@
     "wof:geomhash":"d0b70fc7a635adf5c7e5c947e3cacebd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":320657273,
-    "wof:lastmodified":1466327194,
+    "wof:lastmodified":1491917218,
     "wof:name":"Airgas",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

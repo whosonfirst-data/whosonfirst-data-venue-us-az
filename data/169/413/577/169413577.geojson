@@ -2,9 +2,14 @@
   "id": 169413577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1524 W Yuma St Phoenix AZ 85007",
+    "addr:housenumber":"1524",
+    "addr:postcode":"85007",
+    "addr:street":"W Yuma St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.092955,33.434991,-112.092955,33.434991",
     "geom:latitude":33.434991,
     "geom:longitude":-112.092955,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"118cf0f7b86c4b965c6c964c4cfd9c99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169413577,
-    "wof:lastmodified":1466334120,
+    "wof:lastmodified":1491917037,
     "wof:name":"New Hope Christian Ctr",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

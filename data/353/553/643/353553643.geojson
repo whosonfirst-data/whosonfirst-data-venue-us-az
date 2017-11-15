@@ -2,9 +2,14 @@
   "id": 353553643,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 W Ocotillo Rd Lot 30 Glendale AZ 85301",
+    "addr:housenumber":"4800;30",
+    "addr:postcode":"85301",
+    "addr:street":"W Ocotillo Rd Lot",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.161898,33.534804,-112.161898,33.534804",
     "geom:latitude":33.534804,
     "geom:longitude":-112.161898,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6a6acc1bec88e0a32e6703709d3dc9c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353553643,
-    "wof:lastmodified":1466328291,
+    "wof:lastmodified":1491912753,
     "wof:name":"Double H Catering",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

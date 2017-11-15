@@ -2,9 +2,14 @@
   "id": 152917925,
   "type": "Feature",
   "properties": {
+    "addr:full":"7425 E Culver St Scottsdale AZ 85257",
+    "addr:housenumber":"7425",
+    "addr:postcode":"85257",
+    "addr:street":"E Culver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920126,33.463186,-111.920126,33.463186",
     "geom:latitude":33.463186,
     "geom:longitude":-111.920126,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -45,16 +51,17 @@
     "wof:geomhash":"e3f6a71869e8119d2be7d2ceab90e327",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":152917925
         }
     ],
     "wof:id":152917925,
-    "wof:lastmodified":1466326454,
+    "wof:lastmodified":1491905190,
     "wof:name":"Scottsdale Horizons School",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

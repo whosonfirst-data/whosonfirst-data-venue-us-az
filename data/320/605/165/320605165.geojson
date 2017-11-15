@@ -2,9 +2,14 @@
   "id": 320605165,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 W Mohave St Phoenix AZ 85003",
+    "addr:housenumber":"350",
+    "addr:postcode":"85003",
+    "addr:street":"W Mohave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.078898,33.431126,-112.078898,33.431126",
     "geom:latitude":33.431126,
     "geom:longitude":-112.078898,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -53,7 +59,7 @@
     "wof:geomhash":"89e5dd974c75284ee85e1ffbaedbf436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":320605165,
-    "wof:lastmodified":1466325879,
+    "wof:lastmodified":1491917074,
     "wof:name":"Greater New Zion Baptist Church",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

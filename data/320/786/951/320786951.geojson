@@ -2,9 +2,14 @@
   "id": 320786951,
   "type": "Feature",
   "properties": {
+    "addr:full":"10048 N 26th Dr Phoenix AZ 85021",
+    "addr:housenumber":"10048",
+    "addr:postcode":"85021",
+    "addr:street":"N 26Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.115702,33.579304,-112.115702,33.579304",
     "geom:latitude":33.579304,
     "geom:longitude":-112.115702,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"fe27da7d56b0b4428f61853b3d976a25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320786951,
-    "wof:lastmodified":1466329665,
+    "wof:lastmodified":1491888174,
     "wof:name":"Souplantation & Sweet Tomatoes",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

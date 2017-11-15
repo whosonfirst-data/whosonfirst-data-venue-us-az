@@ -2,9 +2,14 @@
   "id": 169149333,
   "type": "Feature",
   "properties": {
+    "addr:full":"40716 N Capital Ct Anthem AZ 85086",
+    "addr:housenumber":"40716",
+    "addr:postcode":"85086",
+    "addr:street":"N Capital Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.129488,33.854803,-112.129488,33.854803",
     "geom:latitude":33.854803,
     "geom:longitude":-112.129488,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"3f78e50516c166a9a26ea60062ec051b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169149333,
-    "wof:lastmodified":1466331734,
+    "wof:lastmodified":1491934241,
     "wof:name":"Shirley Foxworthy",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

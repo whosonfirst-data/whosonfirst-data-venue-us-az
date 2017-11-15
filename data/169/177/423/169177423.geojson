@@ -2,9 +2,14 @@
   "id": 169177423,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 N Perry Ln Tempe AZ 85281",
+    "addr:housenumber":"120",
+    "addr:postcode":"85281",
+    "addr:street":"N Perry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.904824,33.430096,-111.904824,33.430096",
     "geom:latitude":33.430096,
     "geom:longitude":-111.904824,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c7eb292d5b691481fcc5fcf0ba377637",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169177423,
-    "wof:lastmodified":1466331980,
+    "wof:lastmodified":1491935576,
     "wof:name":"Mountain Valley Landscaping",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

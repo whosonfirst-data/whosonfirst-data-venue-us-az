@@ -2,9 +2,14 @@
   "id": 353553067,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 N 51st Ave Lot E189 Glendale AZ 85301",
+    "addr:housenumber":"7300",
+    "addr:postcode":"85301",
+    "addr:street":"N 51St Ave Lot E189",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.168579,33.543991,-112.168579,33.543991",
     "geom:latitude":33.543991,
     "geom:longitude":-112.168579,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4f93752e28f7853983a1644d5d157afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353553067,
-    "wof:lastmodified":1466328283,
+    "wof:lastmodified":1491912738,
     "wof:name":"K&J Estimating",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

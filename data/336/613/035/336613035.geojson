@@ -2,14 +2,20 @@
   "id": 336613035,
   "type": "Feature",
   "properties": {
+    "addr:full":"6856 W Indian School Road Phoenix AZ 85033",
+    "addr:housenumber":"6856",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.206241,33.494816,-112.206241,33.494816",
     "geom:latitude":33.494816,
     "geom:longitude":-112.206241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6856 W Indian School Road",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -27,30 +33,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
+    "wof:brand_id":1125153407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xCDFQgL9On8iXHdkOKayo_33.494816_-112.206241@1303263105"
     },
     "wof:country":"US",
-    "wof:geomhash":"658dbe5171539249d9ee6f029b6907ed",
+    "wof:geomhash":"e6702efc48584cad559699b55506a0e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336613035
         }
     ],
     "wof:id":336613035,
-    "wof:lastmodified":1466326202,
+    "wof:lastmodified":1510697099,
     "wof:name":"Midas Auto Service",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

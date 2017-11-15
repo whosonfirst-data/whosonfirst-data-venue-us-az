@@ -2,9 +2,14 @@
   "id": 169226753,
   "type": "Feature",
   "properties": {
+    "addr:full":"7304 E McKinley St Scottsdale AZ 85257",
+    "addr:housenumber":"7304",
+    "addr:postcode":"85257",
+    "addr:street":"E Mckinley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.922767,33.456789,-111.922767,33.456789",
     "geom:latitude":33.456789,
     "geom:longitude":-111.922767,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"629a77e872e4189bef0d6dbac4a8fe88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169226753
         }
     ],
     "wof:id":169226753,
-    "wof:lastmodified":1466332169,
+    "wof:lastmodified":1491905178,
     "wof:name":"401k ASP",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

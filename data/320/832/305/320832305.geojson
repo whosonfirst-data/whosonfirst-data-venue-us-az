@@ -2,9 +2,14 @@
   "id": 320832305,
   "type": "Feature",
   "properties": {
+    "addr:full":"10637 N Tatum Blvd Phoenix AZ 85028",
+    "addr:housenumber":"10637",
+    "addr:postcode":"85028",
+    "addr:street":"N Tatum Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.977816,33.583099,-111.977816,33.583099",
     "geom:latitude":33.583099,
     "geom:longitude":-111.977816,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"34b055b88afdac12cb0aa6b346581cf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":320832305,
-    "wof:lastmodified":1466330403,
+    "wof:lastmodified":1491905352,
     "wof:name":"Panda Express",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

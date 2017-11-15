@@ -2,9 +2,14 @@
   "id": 168874313,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 E Oak St Scottsdale AZ 85257",
+    "addr:housenumber":"7001",
+    "addr:postcode":"85257",
+    "addr:street":"E Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.928101,33.473027,-111.928101,33.473027",
     "geom:latitude":33.473027,
     "geom:longitude":-111.928101,
@@ -25,10 +30,14 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917475,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917475,
+        102087421,
+        85880941,
+        85917469,
+        85881419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +47,28 @@
     "wof:geomhash":"07df369ffb20ddaafb89d1cd58c41a02",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
+            "neighbourhood_id":85880941,
+            "region_id":85688719,
+            "venue_id":168874313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917469,
+            "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168874313
         }
     ],
     "wof:id":168874313,
-    "wof:lastmodified":1466327828,
+    "wof:lastmodified":1491905166,
     "wof:name":"Servicon Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

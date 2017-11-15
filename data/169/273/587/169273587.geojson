@@ -2,9 +2,14 @@
   "id": 169273587,
   "type": "Feature",
   "properties": {
+    "addr:full":"7479 E Sand Hills Rd Scottsdale AZ 85255",
+    "addr:housenumber":"7479",
+    "addr:postcode":"85255",
+    "addr:street":"E Sand Hills Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.919776,33.705595,-111.919776,33.705595",
     "geom:latitude":33.705595,
     "geom:longitude":-111.919776,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"49cfee876c50f1784c26609f5c2421f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169273587,
-    "wof:lastmodified":1466332766,
+    "wof:lastmodified":1491926452,
     "wof:name":"Lauren Brodsky",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337496115,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 E Shea Blvd Ste 1740 Scottsdale AZ 85254",
+    "addr:housenumber":"7000",
+    "addr:postcode":"85254",
+    "addr:street":"E Shea Blvd Ste 1740",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.93029,33.582218,-111.93029,33.582218",
     "geom:latitude":33.582218,
     "geom:longitude":-111.93029,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"2d8d176dc9b18b36046aabcf39b002fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":337496115,
-    "wof:lastmodified":1466326216,
+    "wof:lastmodified":1491912686,
     "wof:name":"Andyfood A Culinary Studio",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

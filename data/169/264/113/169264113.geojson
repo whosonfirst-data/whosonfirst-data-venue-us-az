@@ -2,14 +2,20 @@
   "id": 169264113,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 W Peoria Ave Phoenix AZ 85029",
+    "addr:housenumber":"3501",
+    "addr:postcode":"85029",
+    "addr:street":"W Peoria Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.136756,33.581955,-112.136756,33.581955",
     "geom:latitude":33.581955,
     "geom:longitude":-112.136756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3501 W Peoria Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -25,30 +31,45 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917479,
+        102087421,
+        85885507,
+        420535785
     ],
+    "wof:brand_id":1125157767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ANH5UTyqjIJgzoS51B6Bn_33.581955_-112.136756@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"a817fffdaa593c2b5a688497d596fae0",
+    "wof:geomhash":"d3188598047d475d46a7d0ea18451c8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
+            "neighbourhood_id":85885507,
+            "region_id":85688719,
+            "venue_id":169264113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917479,
+            "neighbourhood_id":420535785,
             "region_id":85688719,
             "venue_id":169264113
         }
     ],
     "wof:id":169264113,
-    "wof:lastmodified":1466332616,
+    "wof:lastmodified":1510698748,
     "wof:name":"Am/PM Mini Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

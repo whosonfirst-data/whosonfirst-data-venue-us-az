@@ -2,9 +2,14 @@
   "id": 168821795,
   "type": "Feature",
   "properties": {
+    "addr:full":"16524 E Laser Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16524",
+    "addr:postcode":"85268",
+    "addr:street":"E Laser Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.722415,33.573243,-111.722415,33.573243",
     "geom:latitude":33.573243,
     "geom:longitude":-111.722415,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"7ead8bc533850a9e8fde917b027549dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168821795,
-    "wof:lastmodified":1466325762,
+    "wof:lastmodified":1491939301,
     "wof:name":"Sunridge Resources",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

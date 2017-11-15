@@ -2,9 +2,14 @@
   "id": 337561719,
   "type": "Feature",
   "properties": {
+    "addr:full":"7711 E Cochise Dr Scottsdale AZ 85258",
+    "addr:housenumber":"7711",
+    "addr:postcode":"85258",
+    "addr:street":"E Cochise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.914518,33.58004,-111.914518,33.58004",
     "geom:latitude":33.58004,
     "geom:longitude":-111.914518,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"baeadbeb945e5207802881dd8f03b4d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":337561719,
-    "wof:lastmodified":1466326800,
+    "wof:lastmodified":1491912685,
     "wof:name":"Bruce Hancock",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

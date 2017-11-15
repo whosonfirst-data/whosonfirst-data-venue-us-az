@@ -2,9 +2,14 @@
   "id": 169341101,
   "type": "Feature",
   "properties": {
+    "addr:full":"15541 E Thistle Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15541",
+    "addr:postcode":"85268",
+    "addr:street":"E Thistle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.744105,33.602808,-111.744105,33.602808",
     "geom:latitude":33.602808,
     "geom:longitude":-111.744105,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"62c22981db3cd66838d8de9b7e343283",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169341101,
-    "wof:lastmodified":1466333356,
+    "wof:lastmodified":1491939306,
     "wof:name":"Kipp Revocable Trust",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

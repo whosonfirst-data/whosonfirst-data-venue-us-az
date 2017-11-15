@@ -2,9 +2,14 @@
   "id": 169406227,
   "type": "Feature",
   "properties": {
+    "addr:full":"2607 N 36th St Phoenix AZ 85008",
+    "addr:housenumber":"2607",
+    "addr:postcode":"85008",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.004117,33.477628,-112.004117,33.477628",
     "geom:latitude":33.477628,
     "geom:longitude":-112.004117,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"59b9bc5aad5fea977be6d8fa831a7f5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169406227,
-    "wof:lastmodified":1466334124,
+    "wof:lastmodified":1491890207,
     "wof:name":"Morrighan Designs",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

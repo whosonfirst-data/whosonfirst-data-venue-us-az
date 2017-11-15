@@ -2,9 +2,14 @@
   "id": 152966533,
   "type": "Feature",
   "properties": {
+    "addr:full":"10440 N Indian Wells Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"10440",
+    "addr:postcode":"85268",
+    "addr:street":"N Indian Wells Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.715324,33.581689,-111.715324,33.581689",
     "geom:latitude":33.581689,
     "geom:longitude":-111.715324,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"b81b0604b070fddeed382c122feaeaf5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152966533,
-    "wof:lastmodified":1466328496,
+    "wof:lastmodified":1491939251,
     "wof:name":"Steak House At Desert Canyon",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

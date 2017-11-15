@@ -2,9 +2,14 @@
   "id": 168870211,
   "type": "Feature",
   "properties": {
+    "addr:full":"2011 E Virgo Pl Chandler AZ 85249",
+    "addr:housenumber":"2011",
+    "addr:postcode":"85249",
+    "addr:street":"E Virgo Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.802916,33.223078,-111.802916,33.223078",
     "geom:latitude":33.223078,
     "geom:longitude":-111.802916,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9c08864db5eb2c82b22433d3b9ad142f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168870211,
-    "wof:lastmodified":1466327472,
+    "wof:lastmodified":1491886953,
     "wof:name":"All-Valley Electric",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

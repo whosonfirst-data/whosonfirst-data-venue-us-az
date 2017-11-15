@@ -2,9 +2,14 @@
   "id": 353656789,
   "type": "Feature",
   "properties": {
+    "addr:full":"7236 S 72nd Ln Laveen AZ 85339",
+    "addr:housenumber":"7236",
+    "addr:postcode":"85339",
+    "addr:street":"S 72Nd Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.215088,33.38024,-112.215088,33.38024",
     "geom:latitude":33.38024,
     "geom:longitude":-112.215088,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d181a287e97da1f7995f5cbefc4bb2f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353656789,
-    "wof:lastmodified":1466329240,
+    "wof:lastmodified":1491900159,
     "wof:name":"Aliria Adult Placement Agency",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

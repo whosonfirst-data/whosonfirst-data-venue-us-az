@@ -2,9 +2,14 @@
   "id": 336613985,
   "type": "Feature",
   "properties": {
+    "addr:full":"7342 W Indian School Rd Phoenix AZ 85033",
+    "addr:housenumber":"7342",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.217789,33.494708,-112.217789,33.494708",
     "geom:latitude":33.494708,
     "geom:longitude":-112.217789,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"abab7f184f2b5080d855adea8c3b45aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336613985
         }
     ],
     "wof:id":336613985,
-    "wof:lastmodified":1466326219,
+    "wof:lastmodified":1491934763,
     "wof:name":"Hair Palace Barber & Styling",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

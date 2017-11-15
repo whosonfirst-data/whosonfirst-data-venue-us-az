@@ -2,9 +2,14 @@
   "id": 169365251,
   "type": "Feature",
   "properties": {
+    "addr:full":"6809 E Acoma Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6809",
+    "addr:postcode":"85254",
+    "addr:street":"E Acoma Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.932721,33.618488,-111.932721,33.618488",
     "geom:latitude":33.618488,
     "geom:longitude":-111.932721,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"6bf1dbf3ef49efb24ed4ccd391df132c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169365251,
-    "wof:lastmodified":1466333602,
+    "wof:lastmodified":1491898194,
     "wof:name":"Grease n Go",
     "wof:parent_id":85814389,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337511267,
   "type": "Feature",
   "properties": {
+    "addr:full":"6624 E Shea Blvd Scottsdale AZ 85254",
+    "addr:housenumber":"6624",
+    "addr:postcode":"85254",
+    "addr:street":"E Shea Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.9396,33.582321,-111.9396,33.582321",
     "geom:latitude":33.582321,
     "geom:longitude":-111.9396,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"8b73ea32d8302284c3afe642f151883c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":337511267,
-    "wof:lastmodified":1466326344,
+    "wof:lastmodified":1491912684,
     "wof:name":"Engineerit Business Solutions",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

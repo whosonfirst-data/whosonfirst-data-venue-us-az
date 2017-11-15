@@ -2,9 +2,14 @@
   "id": 168866725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2723 E Nolan Pl Chandler AZ 85249",
+    "addr:housenumber":"2723",
+    "addr:postcode":"85249",
+    "addr:street":"E Nolan Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.794562,33.231926,-111.794562,33.231926",
     "geom:latitude":33.231926,
     "geom:longitude":-111.794562,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e0e22270c88139bcd8ac77c2bd8dca3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168866725,
-    "wof:lastmodified":1466327173,
+    "wof:lastmodified":1491886925,
     "wof:name":"Keith Poole's Training Zone",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

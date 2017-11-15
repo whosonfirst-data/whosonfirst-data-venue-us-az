@@ -2,9 +2,14 @@
   "id": 169000619,
   "type": "Feature",
   "properties": {
+    "addr:full":"6422 E Voltaire Ave Scottsdale AZ 85254",
+    "addr:housenumber":"6422",
+    "addr:postcode":"85254",
+    "addr:street":"E Voltaire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.941438,33.60996,-111.941438,33.60996",
     "geom:latitude":33.60996,
     "geom:longitude":-111.941438,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"23620dc86eb9562f65d6c9c494d5e95d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169000619,
-    "wof:lastmodified":1466325803,
+    "wof:lastmodified":1491901235,
     "wof:name":"Choice One Mortgage",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

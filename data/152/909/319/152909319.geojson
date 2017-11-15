@@ -2,9 +2,14 @@
   "id": 152909319,
   "type": "Feature",
   "properties": {
+    "addr:full":"2430 S 22nd Ave Phoenix AZ 85009",
+    "addr:housenumber":"2430",
+    "addr:postcode":"85009",
+    "addr:street":"S 22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.106395,33.426807,-112.106395,33.426807",
     "geom:latitude":33.426807,
     "geom:longitude":-112.106395,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"8ad6a3b5497f8b01d887b61df9215d98",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152909319,
-    "wof:lastmodified":1466325760,
+    "wof:lastmodified":1491917217,
     "wof:name":"Phoenix Emergency Svc Inst",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

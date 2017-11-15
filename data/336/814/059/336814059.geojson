@@ -2,9 +2,14 @@
   "id": 336814059,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 W Monte Ave Mesa AZ 85210",
+    "addr:housenumber":"606",
+    "addr:postcode":"85210",
+    "addr:street":"W Monte Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.84681,33.368679,-111.84681,33.368679",
     "geom:latitude":33.368679,
     "geom:longitude":-111.84681,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"d3034e7bf019b05289002d4e18759e71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336814059,
-    "wof:lastmodified":1466329693,
+    "wof:lastmodified":1491910718,
     "wof:name":"Megan D's Beads",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",

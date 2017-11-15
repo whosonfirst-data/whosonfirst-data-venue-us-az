@@ -2,9 +2,14 @@
   "id": 168925181,
   "type": "Feature",
   "properties": {
+    "addr:full":"15430 E Jojoba Ln Fountain Hills AZ 85268",
+    "addr:housenumber":"15430",
+    "addr:postcode":"85268",
+    "addr:street":"E Jojoba Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.747101,33.613887,-111.747101,33.613887",
     "geom:latitude":33.613887,
     "geom:longitude":-111.747101,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"cd45cbd59b81ea025498e7391f0bd7ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168925181,
-    "wof:lastmodified":1466330454,
+    "wof:lastmodified":1491939294,
     "wof:name":"Essential Oils Healthline",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

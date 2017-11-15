@@ -2,9 +2,14 @@
   "id": 320796665,
   "type": "Feature",
   "properties": {
+    "addr:full":"14231 N 7th St # A2 Phoenix AZ 85022",
+    "addr:housenumber":"14231",
+    "addr:postcode":"85022",
+    "addr:street":"N 7Th St # A2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.065399,33.615972,-112.065399,33.615972",
     "geom:latitude":33.615972,
     "geom:longitude":-112.065399,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"3300ffb22f612d031a7ab97526c17d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":320796665,
-    "wof:lastmodified":1466329625,
+    "wof:lastmodified":1491897078,
     "wof:name":"Valley Integrative Physicians",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

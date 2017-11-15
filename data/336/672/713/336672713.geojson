@@ -2,9 +2,14 @@
   "id": 336672713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 W Broadway Rd Phoenix AZ 85041",
+    "addr:housenumber":"2107",
+    "addr:postcode":"85041",
+    "addr:street":"W Broadway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.103075,33.406729,-112.103075,33.406729",
     "geom:latitude":33.406729,
     "geom:longitude":-112.103075,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"894e18aad2cab97289fcc81676e5ce39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336672713,
-    "wof:lastmodified":1466327500,
+    "wof:lastmodified":1491900164,
     "wof:name":"Broadway Village Apartment",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

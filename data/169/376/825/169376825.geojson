@@ -2,9 +2,14 @@
   "id": 169376825,
   "type": "Feature",
   "properties": {
+    "addr:full":"24527 N 74th Pl Scottsdale AZ 85255",
+    "addr:housenumber":"24527",
+    "addr:postcode":"85255",
+    "addr:street":"N 74Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920469,33.708969,-111.920469,33.708969",
     "geom:latitude":33.708969,
     "geom:longitude":-111.920469,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2fc90dad76183c0fda64150a9b35e139",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169376825,
-    "wof:lastmodified":1466333781,
+    "wof:lastmodified":1491926464,
     "wof:name":"J E Adams Industries",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

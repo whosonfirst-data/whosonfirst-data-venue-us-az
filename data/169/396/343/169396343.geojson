@@ -2,9 +2,14 @@
   "id": 169396343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 N 83rd Dr Phoenix AZ 85037",
+    "addr:housenumber":"2201",
+    "addr:postcode":"85037",
+    "addr:street":"N 83Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.239133,33.472121,-112.239133,33.472121",
     "geom:latitude":33.472121,
     "geom:longitude":-112.239133,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -46,16 +52,17 @@
     "wof:geomhash":"8556c94bc6dbd95ae78c3aeacf951eb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169396343
         }
     ],
     "wof:id":169396343,
-    "wof:lastmodified":1466333945,
+    "wof:lastmodified":1491934733,
     "wof:name":"Curves For Women",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

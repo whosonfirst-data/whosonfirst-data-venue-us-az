@@ -2,9 +2,14 @@
   "id": 320783043,
   "type": "Feature",
   "properties": {
+    "addr:full":"9435 N 19th Ave Phoenix AZ 85021",
+    "addr:housenumber":"9435",
+    "addr:postcode":"85021",
+    "addr:street":"N 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.099648,33.572378,-112.099648,33.572378",
     "geom:latitude":33.572378,
     "geom:longitude":-112.099648,
@@ -51,6 +56,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -64,7 +70,7 @@
     "wof:geomhash":"5eef13bce89df8b5f30563e2bcc169da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":320783043,
-    "wof:lastmodified":1466329448,
+    "wof:lastmodified":1491888203,
     "wof:name":"U-Haul at 19th Ave",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168849879,
   "type": "Feature",
   "properties": {
+    "addr:full":"12402 N 65th St Scottsdale AZ 85254",
+    "addr:housenumber":"12402",
+    "addr:postcode":"85254",
+    "addr:street":"N 65Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.941606,33.598744,-111.941606,33.598744",
     "geom:latitude":33.598744,
     "geom:longitude":-111.941606,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"fd7e2118c1da6f1b73eca3219cb3553d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168849879,
-    "wof:lastmodified":1466327721,
+    "wof:lastmodified":1491912663,
     "wof:name":"Old Irish News",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153001407,
   "type": "Feature",
   "properties": {
+    "addr:full":"10825 N Tatum Blvd Phoenix AZ 85028",
+    "addr:housenumber":"10825",
+    "addr:postcode":"85028",
+    "addr:street":"N Tatum Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.977817,33.586055,-111.977817,33.586055",
     "geom:latitude":33.586055,
     "geom:longitude":-111.977817,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"c3d662424b08f849b7cec05d4940d761",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":153001407,
-    "wof:lastmodified":1466326756,
+    "wof:lastmodified":1491905364,
     "wof:name":"Petsmart",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353426093,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 W Alameda Dr Ste 5 Tempe AZ 85282",
+    "addr:housenumber":"1120",
+    "addr:postcode":"85282",
+    "addr:street":"W Alameda Dr Ste 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.955309,33.400131,-111.955309,33.400131",
     "geom:latitude":33.400131,
     "geom:longitude":-111.955309,
@@ -43,6 +48,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -56,7 +62,7 @@
     "wof:geomhash":"befdc4b6118e9a2e9fc185ea7a0c9311",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":353426093,
-    "wof:lastmodified":1466326467,
+    "wof:lastmodified":1491909686,
     "wof:name":"Morgan Tools",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

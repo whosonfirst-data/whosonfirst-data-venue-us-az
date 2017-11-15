@@ -2,9 +2,14 @@
   "id": 337612123,
   "type": "Feature",
   "properties": {
+    "addr:full":"15029 N Thompson Peak Pkwy Suite B-117 Scottsdale AZ 85260",
+    "addr:housenumber":"15029",
+    "addr:postcode":"85260",
+    "addr:street":"N Thompson Peak Pkwy Suite B-117",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.875202,33.621935,-111.875202,33.621935",
     "geom:latitude":33.621935,
     "geom:longitude":-111.875202,
@@ -52,6 +57,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -65,7 +71,7 @@
     "wof:geomhash":"7afac7884cd5e321164492e72d32dc9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":337612123,
-    "wof:lastmodified":1466327225,
+    "wof:lastmodified":1491908448,
     "wof:name":"Edward Jones - PAUL KRIPAL",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

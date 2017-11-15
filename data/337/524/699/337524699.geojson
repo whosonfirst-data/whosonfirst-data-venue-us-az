@@ -2,9 +2,14 @@
   "id": 337524699,
   "type": "Feature",
   "properties": {
+    "addr:full":"5841 E Sharon Dr Scottsdale AZ 85254",
+    "addr:housenumber":"5841",
+    "addr:postcode":"85254",
+    "addr:street":"E Sharon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.952835,33.610428,-111.952835,33.610428",
     "geom:latitude":33.610428,
     "geom:longitude":-111.952835,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9bd12c1a77211690cf282086cd11dfaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337524699,
-    "wof:lastmodified":1466326460,
+    "wof:lastmodified":1491901226,
     "wof:name":"Skye Audio",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

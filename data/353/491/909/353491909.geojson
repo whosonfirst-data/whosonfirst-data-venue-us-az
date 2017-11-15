@@ -2,9 +2,14 @@
   "id": 353491909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 E Baseline Rd Ste 102 Tempe AZ 85283",
+    "addr:housenumber":"1801",
+    "addr:postcode":"85283",
+    "addr:street":"E Baseline Rd Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909241,33.378429,-111.909241,33.378429",
     "geom:latitude":33.378429,
     "geom:longitude":-111.909241,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"e4a348267538c9de2b57739b650ef5ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":353491909,
-    "wof:lastmodified":1466327021,
+    "wof:lastmodified":1491938059,
     "wof:name":"Steve's Espresso",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

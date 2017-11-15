@@ -2,9 +2,14 @@
   "id": 169266387,
   "type": "Feature",
   "properties": {
+    "addr:full":"5038 S Price Rd Tempe AZ 85282",
+    "addr:housenumber":"5038",
+    "addr:postcode":"85282",
+    "addr:street":"S Price Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.892736,33.381598,-111.892736,33.381598",
     "geom:latitude":33.381598,
     "geom:longitude":-111.892736,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"94e2977c2aaf3b6fc3300829c8f88c9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169266387,
-    "wof:lastmodified":1466332663,
+    "wof:lastmodified":1491938056,
     "wof:name":"Maxinus Ariozna Works",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

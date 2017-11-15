@@ -2,9 +2,14 @@
   "id": 320638071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1745 W Linden St Phoenix AZ 85007",
+    "addr:housenumber":"1745",
+    "addr:postcode":"85007",
+    "addr:street":"W Linden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.096616,33.459513,-112.096616,33.459513",
     "geom:latitude":33.459513,
     "geom:longitude":-112.096616,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0ce91e50eb7a7379ca53227c904110e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320638071,
-    "wof:lastmodified":1466326708,
+    "wof:lastmodified":1491917235,
     "wof:name":"United Productions, Inc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

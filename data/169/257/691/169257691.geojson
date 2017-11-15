@@ -2,9 +2,14 @@
   "id": 169257691,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 S Avondale Blvd Avondale AZ 85323",
+    "addr:housenumber":"125",
+    "addr:postcode":"85323",
+    "addr:street":"S Avondale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.306409,33.44205,-112.306409,33.44205",
     "geom:latitude":33.44205,
     "geom:longitude":-112.306409,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"afedffc4fe12663eaf2302680fee1d5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169257691
         }
     ],
     "wof:id":169257691,
-    "wof:lastmodified":1466332566,
+    "wof:lastmodified":1491934695,
     "wof:name":"International Raceway Ticket",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 153044337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1837 S Mesa Dr Mesa AZ 85210",
+    "addr:housenumber":"1837",
+    "addr:postcode":"85210",
+    "addr:street":"S Mesa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.822865,33.383407,-111.822865,33.383407",
     "geom:latitude":33.383407,
     "geom:longitude":-111.822865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1837 S Mesa Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -29,29 +35,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
+    "wof:brand_id":1125156219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72IEn1HqVc1pVRH6kvKjzX_33.383407_-111.822865@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"0b87e5e7b9350b9684de3fe7fe647434",
+    "wof:geomhash":"b7f9283d40d8b9cb7324ca1e8ed81c5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":153044337
         }
     ],
     "wof:id":153044337,
-    "wof:lastmodified":1466326776,
+    "wof:lastmodified":1510699590,
     "wof:name":"Cutco Cutlery",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

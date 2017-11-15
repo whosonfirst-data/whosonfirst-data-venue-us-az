@@ -2,9 +2,14 @@
   "id": 169045151,
   "type": "Feature",
   "properties": {
+    "addr:full":"16239 Ironwood Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16239",
+    "addr:postcode":"85268",
+    "addr:street":"Ironwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.734222,33.599609,-111.734222,33.599609",
     "geom:latitude":33.599609,
     "geom:longitude":-111.734222,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2f682070d29f5cc4c4960fea1773daa6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169045151,
-    "wof:lastmodified":1466328297,
+    "wof:lastmodified":1491939278,
     "wof:name":"Fountain Hills Christian Ctr",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

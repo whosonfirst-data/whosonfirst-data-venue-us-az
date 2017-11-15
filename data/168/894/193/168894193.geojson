@@ -2,9 +2,14 @@
   "id": 168894193,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 E Thunderbird Rd Phoenix AZ 85022",
+    "addr:housenumber":"750",
+    "addr:postcode":"85022",
+    "addr:street":"E Thunderbird Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.063162,33.607717,-112.063162,33.607717",
     "geom:latitude":33.607717,
     "geom:longitude":-112.063162,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"04ea85bb8f033129834b5933504eb9ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168894193,
-    "wof:lastmodified":1466329159,
+    "wof:lastmodified":1491897079,
     "wof:name":"James J Dearing DO",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

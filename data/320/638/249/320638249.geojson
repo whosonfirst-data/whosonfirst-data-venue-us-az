@@ -2,9 +2,14 @@
   "id": 320638249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1860 W Sherman St Phoenix AZ 85007",
+    "addr:housenumber":"1860",
+    "addr:postcode":"85007",
+    "addr:street":"W Sherman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.099245,33.440373,-112.099245,33.440373",
     "geom:latitude":33.440373,
     "geom:longitude":-112.099245,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a7fe025687caf688986c94ef07ca53e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320638249,
-    "wof:lastmodified":1466326714,
+    "wof:lastmodified":1491917244,
     "wof:name":"Expedited Delivery, Inc.",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

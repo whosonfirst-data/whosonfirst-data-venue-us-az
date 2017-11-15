@@ -2,9 +2,14 @@
   "id": 169368639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 E Brook Hollow Dr Phoenix AZ 85022",
+    "addr:housenumber":"1002",
+    "addr:postcode":"85022",
+    "addr:street":"E Brook Hollow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.059154,33.621776,-112.059154,33.621776",
     "geom:latitude":33.621776,
     "geom:longitude":-112.059154,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"18454c8da581efd3e43c8962cd0df659",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169368639,
-    "wof:lastmodified":1466333536,
+    "wof:lastmodified":1491897085,
     "wof:name":"Lasco Plumbing",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

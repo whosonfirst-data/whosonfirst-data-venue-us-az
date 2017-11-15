@@ -2,9 +2,14 @@
   "id": 353596631,
   "type": "Feature",
   "properties": {
+    "addr:full":"14008 N 60th Ave Glendale AZ 85306",
+    "addr:housenumber":"14008",
+    "addr:postcode":"85306",
+    "addr:street":"N 60Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.187363,33.612567,-112.187363,33.612567",
     "geom:latitude":33.612567,
     "geom:longitude":-112.187363,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"da8b163952e6e770e7a6c1fd144f8a57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":353596631,
-    "wof:lastmodified":1466328691,
+    "wof:lastmodified":1491923093,
     "wof:name":"Falcon Maintenance / Restoration",
     "wof:parent_id":85846927,
     "wof:placetype":"venue",

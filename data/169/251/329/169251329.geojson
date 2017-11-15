@@ -2,9 +2,14 @@
   "id": 169251329,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 W Yorkshire Dr Glendale AZ 85308",
+    "addr:housenumber":"4408",
+    "addr:postcode":"85308",
+    "addr:street":"W Yorkshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.156181,33.661913,-112.156181,33.661913",
     "geom:latitude":33.661913,
     "geom:longitude":-112.156181,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,6 +55,7 @@
     "wof:geomhash":"70842ed84d5c08e51d3f850e0b6a469d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":169251329,
-    "wof:lastmodified":1466332525,
+    "wof:lastmodified":1491902683,
     "wof:name":"Contemporary West Fine Arts",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

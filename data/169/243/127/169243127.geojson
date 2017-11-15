@@ -2,9 +2,14 @@
   "id": 169243127,
   "type": "Feature",
   "properties": {
+    "addr:full":"9435 E Pine Valley Rd Scottsdale AZ 85260",
+    "addr:housenumber":"9435",
+    "addr:postcode":"85260",
+    "addr:street":"E Pine Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.876813,33.622499,-111.876813,33.622499",
     "geom:latitude":33.622499,
     "geom:longitude":-111.876813,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"8272f12422b5b686cea2fe7da3ff3781",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169243127,
-    "wof:lastmodified":1466332439,
+    "wof:lastmodified":1491908460,
     "wof:name":"Genx",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

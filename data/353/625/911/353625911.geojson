@@ -2,9 +2,14 @@
   "id": 353625911,
   "type": "Feature",
   "properties": {
+    "addr:full":"10100 W McDowell Road Avondale AZ 85323",
+    "addr:housenumber":"10100",
+    "addr:postcode":"85323",
+    "addr:street":"W Mcdowell Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.278356,33.464691,-112.278356,33.464691",
     "geom:latitude":33.464691,
     "geom:longitude":-112.278356,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"caec0a96e70b8848c0461ab4aa56bf14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353625911
         }
     ],
     "wof:id":353625911,
-    "wof:lastmodified":1466329131,
+    "wof:lastmodified":1491934711,
     "wof:name":"Borders",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

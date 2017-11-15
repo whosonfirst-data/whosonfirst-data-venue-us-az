@@ -2,9 +2,14 @@
   "id": 169197763,
   "type": "Feature",
   "properties": {
+    "addr:full":"11965 N 136th Way Scottsdale AZ 85259",
+    "addr:housenumber":"11965",
+    "addr:postcode":"85259",
+    "addr:street":"N 136Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.786092,33.594167,-111.786092,33.594167",
     "geom:latitude":33.594167,
     "geom:longitude":-111.786092,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"aa1adce6a26f85da5f1bb3c4b16e55a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169197763,
-    "wof:lastmodified":1466332110,
+    "wof:lastmodified":1491939278,
     "wof:name":"Alliant Business Solutions Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

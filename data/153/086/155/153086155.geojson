@@ -2,9 +2,14 @@
   "id": 153086155,
   "type": "Feature",
   "properties": {
+    "addr:full":"1513 W Devon Dr Gilbert AZ 85233",
+    "addr:housenumber":"1513",
+    "addr:postcode":"85233",
+    "addr:street":"W Devon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.823655,33.330959,-111.823655,33.330959",
     "geom:latitude":33.330959,
     "geom:longitude":-111.823655,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0eaecd0818f65baf199e5a6e8e27cf70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":153086155,
-    "wof:lastmodified":1466329123,
+    "wof:lastmodified":1491920743,
     "wof:name":"Desert Life Real Estate Co",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

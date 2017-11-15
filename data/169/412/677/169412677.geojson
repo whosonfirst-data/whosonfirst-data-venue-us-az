@@ -2,9 +2,14 @@
   "id": 169412677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1414 W 14th St Tempe AZ 85281",
+    "addr:housenumber":"1414",
+    "addr:postcode":"85281",
+    "addr:street":"W 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.962832,33.413565,-111.962832,33.413565",
     "geom:latitude":33.413565,
     "geom:longitude":-111.962832,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"342d2cd478818a90294a3857f0fdae09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169412677,
-    "wof:lastmodified":1466333869,
+    "wof:lastmodified":1491909680,
     "wof:name":"Micrographix West",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

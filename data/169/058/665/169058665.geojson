@@ -2,9 +2,14 @@
   "id": 169058665,
   "type": "Feature",
   "properties": {
+    "addr:full":"12713 E Via de Arboles Chandler AZ 85249",
+    "addr:housenumber":"12713",
+    "addr:postcode":"85249",
+    "addr:street":"E Via De Arboles",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.813337,33.227909,-111.813337,33.227909",
     "geom:latitude":33.227909,
     "geom:longitude":-111.813337,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8cb7acd92e6f1d1241752086bf6e72d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169058665,
-    "wof:lastmodified":1466329126,
+    "wof:lastmodified":1491886928,
     "wof:name":"Iba Dairy Supply Inc",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

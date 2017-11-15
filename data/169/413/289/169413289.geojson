@@ -2,9 +2,14 @@
   "id": 169413289,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 W Mission Ln Phoenix AZ 85021",
+    "addr:housenumber":"2330",
+    "addr:postcode":"85021",
+    "addr:street":"W Mission Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.109368,33.56946,-112.109368,33.56946",
     "geom:latitude":33.56946,
     "geom:longitude":-112.109368,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"0e00e82bc2385502f6bd2dca9dc32824",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169413289,
-    "wof:lastmodified":1466333933,
+    "wof:lastmodified":1491888204,
     "wof:name":"Fuel Systems",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

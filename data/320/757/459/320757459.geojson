@@ -2,9 +2,14 @@
   "id": 320757459,
   "type": "Feature",
   "properties": {
+    "addr:full":"3815 E Fairmount Ave Phoenix AZ 85018",
+    "addr:housenumber":"3815",
+    "addr:postcode":"85018",
+    "addr:street":"E Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.999278,33.492651,-111.999278,33.492651",
     "geom:latitude":33.492651,
     "geom:longitude":-111.999278,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"3f72556e570d126f814c0c0d8d0b7369",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320757459,
-    "wof:lastmodified":1466329006,
+    "wof:lastmodified":1491890178,
     "wof:name":"Airwave Wireless Communication",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

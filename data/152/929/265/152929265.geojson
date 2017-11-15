@@ -2,9 +2,14 @@
   "id": 152929265,
   "type": "Feature",
   "properties": {
+    "addr:full":"6748 N 12th Ave Phoenix AZ 85013",
+    "addr:housenumber":"6748",
+    "addr:postcode":"85013",
+    "addr:street":"N 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.088479,33.537874,-112.088479,33.537874",
     "geom:latitude":33.537874,
     "geom:longitude":-112.088479,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"9dd780d96bda858d71f397a21529cd32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152929265,
-    "wof:lastmodified":1466325925,
+    "wof:lastmodified":1491913568,
     "wof:name":"All Across America Complete",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

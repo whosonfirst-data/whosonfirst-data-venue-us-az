@@ -2,9 +2,14 @@
   "id": 169148899,
   "type": "Feature",
   "properties": {
+    "addr:full":"24202 N 86th St Scottsdale AZ 85255",
+    "addr:housenumber":"24202",
+    "addr:postcode":"85255",
+    "addr:street":"N 86Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.894057,33.706515,-111.894057,33.706515",
     "geom:latitude":33.706515,
     "geom:longitude":-111.894057,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
-        85813251,
-        85880963
+        85880963,
+        85813251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"15d7bae013fb34f30a031d48da052b5f",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917475,
-            "neighbourhood_id":85813251,
-            "region_id":85688719,
-            "venue_id":169148899
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
             "neighbourhood_id":85880963,
             "region_id":85688719,
             "venue_id":169148899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85813251,
+            "region_id":85688719,
+            "venue_id":169148899
         }
     ],
     "wof:id":169148899,
-    "wof:lastmodified":1466331752,
+    "wof:lastmodified":1491926458,
     "wof:name":"Thrift Korner Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

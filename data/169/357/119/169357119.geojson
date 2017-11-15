@@ -2,9 +2,14 @@
   "id": 169357119,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 E Grove Ave Mesa AZ 85206",
+    "addr:housenumber":"3909",
+    "addr:postcode":"85206",
+    "addr:street":"E Grove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.747392,33.390757,-111.747392,33.390757",
     "geom:latitude":33.390757,
     "geom:longitude":-111.747392,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"040e497effc49e135fe30f9a13653852",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169357119,
-    "wof:lastmodified":1466333582,
+    "wof:lastmodified":1491913657,
     "wof:name":"Kwal Inc",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

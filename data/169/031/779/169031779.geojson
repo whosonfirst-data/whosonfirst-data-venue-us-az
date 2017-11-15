@@ -2,9 +2,14 @@
   "id": 169031779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3646 W Brown St Phoenix AZ 85051",
+    "addr:housenumber":"3646",
+    "addr:postcode":"85051",
+    "addr:street":"W Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.137566,33.578029,-112.137566,33.578029",
     "geom:latitude":33.578029,
     "geom:longitude":-112.137566,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"5cc9e468a1b48b50025b6e9ddfe7fd7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169031779,
-    "wof:lastmodified":1466327023,
+    "wof:lastmodified":1491888185,
     "wof:name":"Eci Expo Central International",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

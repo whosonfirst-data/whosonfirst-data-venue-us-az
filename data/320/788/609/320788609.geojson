@@ -2,9 +2,14 @@
   "id": 320788609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 W Dunlap Ave Phoenix AZ 85021",
+    "addr:housenumber":"2620",
+    "addr:postcode":"85021",
+    "addr:street":"W Dunlap Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.115559,33.567551,-112.115559,33.567551",
     "geom:latitude":33.567551,
     "geom:longitude":-112.115559,
@@ -41,6 +46,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -54,7 +60,7 @@
     "wof:geomhash":"ba063b27a828a1f50110bdcc19de7ebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":320788609,
-    "wof:lastmodified":1466329516,
+    "wof:lastmodified":1491888164,
     "wof:name":"Sheraton Crescent Hotel",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

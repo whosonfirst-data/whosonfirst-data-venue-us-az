@@ -2,9 +2,14 @@
   "id": 152984225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3530 W Abraham Ln Glendale AZ 85308",
+    "addr:housenumber":"3530",
+    "addr:postcode":"85308",
+    "addr:street":"W Abraham Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.136497,33.681301,-112.136497,33.681301",
     "geom:latitude":33.681301,
     "geom:longitude":-112.136497,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,6 +54,7 @@
     "wof:geomhash":"0e05bef1671398be4ccdf99e524e6e3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":152984225,
-    "wof:lastmodified":1466329173,
+    "wof:lastmodified":1491902684,
     "wof:name":"Black Canyon Sweeping Inc",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

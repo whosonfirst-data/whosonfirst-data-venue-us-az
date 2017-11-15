@@ -2,9 +2,14 @@
   "id": 320757609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 N 44th St Phoenix AZ 85018",
+    "addr:housenumber":"4900",
+    "addr:postcode":"85018",
+    "addr:street":"N 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.986749,33.508426,-111.986749,33.508426",
     "geom:latitude":33.508426,
     "geom:longitude":-111.986749,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cbf814d4eb1e2e0787ee786284056dae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320757609,
-    "wof:lastmodified":1466329009,
+    "wof:lastmodified":1491890255,
     "wof:name":"Liberty Square Apts",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

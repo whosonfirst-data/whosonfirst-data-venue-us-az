@@ -2,9 +2,14 @@
   "id": 353455901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3122 S Mill Ave Tempe AZ 85282",
+    "addr:housenumber":"3122",
+    "addr:postcode":"85282",
+    "addr:street":"S Mill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.939626,33.395193,-111.939626,33.395193",
     "geom:latitude":33.395193,
     "geom:longitude":-111.939626,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -35,7 +41,7 @@
     "wof:geomhash":"5c11ea38a30adb8b990759bb50e749ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":353455901,
-    "wof:lastmodified":1466326695,
+    "wof:lastmodified":1491933765,
     "wof:name":"Great Clips",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

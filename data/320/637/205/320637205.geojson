@@ -2,9 +2,14 @@
   "id": 320637205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 S 7th Ave Phoenix AZ 85007",
+    "addr:housenumber":"1210",
+    "addr:postcode":"85007",
+    "addr:street":"S 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.082526,33.436681,-112.082526,33.436681",
     "geom:latitude":33.436681,
     "geom:longitude":-112.082526,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"80721da9f15b71cb634de12eb24fed75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320637205,
-    "wof:lastmodified":1466327822,
+    "wof:lastmodified":1491917008,
     "wof:name":"AA Locksmith",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

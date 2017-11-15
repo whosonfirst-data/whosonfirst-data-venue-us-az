@@ -2,9 +2,14 @@
   "id": 152914031,
   "type": "Feature",
   "properties": {
+    "addr:full":"10986 E Raintree Dr Scottsdale AZ 85255",
+    "addr:housenumber":"10986",
+    "addr:postcode":"85255",
+    "addr:street":"E Raintree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.844386,33.623032,-111.844386,33.623032",
     "geom:latitude":33.623032,
     "geom:longitude":-111.844386,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"668bd58964de2fcbcc4646a92be8779f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152914031,
-    "wof:lastmodified":1466326169,
+    "wof:lastmodified":1491905975,
     "wof:name":"Breyer Investment Group",
     "wof:parent_id":85880957,
     "wof:placetype":"venue",

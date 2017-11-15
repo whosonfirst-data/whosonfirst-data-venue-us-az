@@ -2,9 +2,14 @@
   "id": 152931041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3859 E Grandview Rd Phoenix AZ 85032",
+    "addr:housenumber":"3859",
+    "addr:postcode":"85032",
+    "addr:street":"E Grandview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.997733,33.635618,-111.997733,33.635618",
     "geom:latitude":33.635618,
     "geom:longitude":-111.997733,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"6d2a4e91271f842f62fd899299ee8202",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152931041,
-    "wof:lastmodified":1466326050,
+    "wof:lastmodified":1491911695,
     "wof:name":"Grandview Satellite",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168985927,
   "type": "Feature",
   "properties": {
+    "addr:full":"10277 N 101st St Scottsdale AZ 85258",
+    "addr:housenumber":"10277",
+    "addr:postcode":"85258",
+    "addr:street":"N 101St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.863518,33.580156,-111.863518,33.580156",
     "geom:latitude":33.580156,
     "geom:longitude":-111.863518,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"1c5bfb1014e6a398f382f47dae9faa90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168985927,
-    "wof:lastmodified":1466331502,
+    "wof:lastmodified":1491931839,
     "wof:name":"Family Care Providers Of Az",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

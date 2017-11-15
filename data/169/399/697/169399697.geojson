@@ -2,9 +2,14 @@
   "id": 169399697,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 E Runaway Bay Dr Chandler AZ 85249",
+    "addr:housenumber":"4625",
+    "addr:postcode":"85249",
+    "addr:street":"E Runaway Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.762628,33.212626,-111.762628,33.212626",
     "geom:latitude":33.212626,
     "geom:longitude":-111.762628,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"db13ae513db56dd4a1a09b7577705772",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169399697,
-    "wof:lastmodified":1466333995,
+    "wof:lastmodified":1491886956,
     "wof:name":"Prizm Tile",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

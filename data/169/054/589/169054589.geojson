@@ -2,9 +2,14 @@
   "id": 169054589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1733 W Van Buren St Phoenix AZ 85007",
+    "addr:housenumber":"1733",
+    "addr:postcode":"85007",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.098104,33.451205,-112.098104,33.451205",
     "geom:latitude":33.451205,
     "geom:longitude":-112.098104,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"afa9f31334457adc30026e7aa70973c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169054589,
-    "wof:lastmodified":1466328921,
+    "wof:lastmodified":1491917007,
     "wof:name":"LA Canasta Capitolio",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

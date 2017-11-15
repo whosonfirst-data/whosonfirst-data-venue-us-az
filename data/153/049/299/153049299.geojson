@@ -2,9 +2,14 @@
   "id": 153049299,
   "type": "Feature",
   "properties": {
+    "addr:full":"15218 E Sage Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15218",
+    "addr:postcode":"85268",
+    "addr:street":"E Sage Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.75402,33.601765,-111.75402,33.601765",
     "geom:latitude":33.601765,
     "geom:longitude":-111.75402,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c1758c74cd20f5c81893dd59ebe05aac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":153049299,
-    "wof:lastmodified":1466327120,
+    "wof:lastmodified":1491939272,
     "wof:name":"Kenai Ventures Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

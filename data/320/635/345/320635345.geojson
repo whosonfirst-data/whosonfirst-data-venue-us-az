@@ -2,9 +2,14 @@
   "id": 320635345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1645 W Jefferson St # 101 Phoenix AZ 85007",
+    "addr:housenumber":"1645",
+    "addr:postcode":"85007",
+    "addr:street":"W Jefferson St # 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.094698,33.447021,-112.094698,33.447021",
     "geom:latitude":33.447021,
     "geom:longitude":-112.094698,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0c952be3b32c42099565e2915cc5adc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320635345,
-    "wof:lastmodified":1466326663,
+    "wof:lastmodified":1491917104,
     "wof:name":"Pardons And Parole",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

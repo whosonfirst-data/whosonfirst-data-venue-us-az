@@ -2,9 +2,14 @@
   "id": 168939525,
   "type": "Feature",
   "properties": {
+    "addr:full":"9611 E Clinton St Scottsdale AZ 85260",
+    "addr:housenumber":"9611",
+    "addr:postcode":"85260",
+    "addr:street":"E Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.873436,33.584638,-111.873436,33.584638",
     "geom:latitude":33.584638,
     "geom:longitude":-111.873436,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d0f6d6b554ef5198b5298b589fef9834",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168939525,
-    "wof:lastmodified":1466330910,
+    "wof:lastmodified":1491931841,
     "wof:name":"East Valley Landscaping",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

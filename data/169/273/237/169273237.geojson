@@ -2,9 +2,14 @@
   "id": 169273237,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 E Buckeye Rd Phoenix AZ 85034",
+    "addr:housenumber":"813",
+    "addr:postcode":"85034",
+    "addr:street":"E Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.061649,33.436739,-112.061649,33.436739",
     "geom:latitude":33.436739,
     "geom:longitude":-112.061649,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"33aa2a9550fd66332ecf53e9169f680a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169273237,
-    "wof:lastmodified":1466332734,
+    "wof:lastmodified":1491917223,
     "wof:name":"City Wide Contracting LLC",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

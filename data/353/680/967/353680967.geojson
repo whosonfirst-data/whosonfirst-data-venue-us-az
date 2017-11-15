@@ -2,9 +2,14 @@
   "id": 353680967,
   "type": "Feature",
   "properties": {
+    "addr:full":"9897 W McDowell Tolleson AZ 85353",
+    "addr:housenumber":"9897",
+    "addr:postcode":"85353",
+    "addr:street":"W Mcdowell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.27236,33.464673,-112.27236,33.464673",
     "geom:latitude":33.464673,
     "geom:longitude":-112.27236,
@@ -27,8 +32,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -40,17 +46,17 @@
     "wof:geomhash":"27015f18f1b4b6a11ff1bb06033d6fb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353680967
         }
     ],
     "wof:id":353680967,
-    "wof:lastmodified":1466329644,
+    "wof:lastmodified":1491934753,
     "wof:name":"Davanzo Salon",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

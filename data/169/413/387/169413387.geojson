@@ -2,9 +2,14 @@
   "id": 169413387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 N Roanoke St Gilbert AZ 85234",
+    "addr:housenumber":"1505",
+    "addr:postcode":"85234",
+    "addr:street":"N Roanoke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.733295,33.377246,-111.733295,33.377246",
     "geom:latitude":33.377246,
     "geom:longitude":-111.733295,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ea78682c5e0bdf5f8455fadeae842ef1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169413387,
-    "wof:lastmodified":1466333942,
+    "wof:lastmodified":1491913645,
     "wof:name":"Stork Finish Carpentry",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336670779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3129 W Sunland Ave Phoenix AZ 85041",
+    "addr:housenumber":"3129",
+    "addr:postcode":"85041",
+    "addr:street":"W Sunland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.126226,33.395799,-112.126226,33.395799",
     "geom:latitude":33.395799,
     "geom:longitude":-112.126226,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6c3c3e72755b0b94115566091819ea76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336670779,
-    "wof:lastmodified":1466327448,
+    "wof:lastmodified":1491900169,
     "wof:name":"Barton Maive Design",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

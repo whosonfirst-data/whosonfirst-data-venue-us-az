@@ -2,9 +2,14 @@
   "id": 169115453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1858 E Geneva Dr Tempe AZ 85282",
+    "addr:housenumber":"1858",
+    "addr:postcode":"85282",
+    "addr:street":"E Geneva Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.906196,33.394784,-111.906196,33.394784",
     "geom:latitude":33.394784,
     "geom:longitude":-111.906196,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"b05491adf8490bd47bf913f98751cba5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169115453,
-    "wof:lastmodified":1466331373,
+    "wof:lastmodified":1491915532,
     "wof:name":"Gunter Video Svc",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

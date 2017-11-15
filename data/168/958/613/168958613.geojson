@@ -2,9 +2,14 @@
   "id": 168958613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 S Alder Dr Tempe AZ 85282",
+    "addr:housenumber":"3505",
+    "addr:postcode":"85282",
+    "addr:street":"S Alder Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909727,33.389973,-111.909727,33.389973",
     "geom:latitude":33.389973,
     "geom:longitude":-111.909727,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"187b77c41d104c38027473a87be057c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168958613,
-    "wof:lastmodified":1466331177,
+    "wof:lastmodified":1491938089,
     "wof:name":"Plastic Para Medic Inc",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

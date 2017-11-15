@@ -2,9 +2,14 @@
   "id": 169414387,
   "type": "Feature",
   "properties": {
+    "addr:full":"11607 N 119th St Scottsdale AZ 85259",
+    "addr:housenumber":"11607",
+    "addr:postcode":"85259",
+    "addr:street":"N 119Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.824254,33.593469,-111.824254,33.593469",
     "geom:latitude":33.593469,
     "geom:longitude":-111.824254,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"2096e665d92a689d5d2bd00136c5e40e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169414387,
-    "wof:lastmodified":1466334049,
+    "wof:lastmodified":1491939282,
     "wof:name":"Goodfella Signature Homes Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168970413,
   "type": "Feature",
   "properties": {
+    "addr:full":"364 N 7th Ave Phoenix AZ 85007",
+    "addr:housenumber":"364",
+    "addr:postcode":"85007",
+    "addr:street":"N 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.082633,33.452093,-112.082633,33.452093",
     "geom:latitude":33.452093,
     "geom:longitude":-112.082633,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"bf80bed0b78b882ddbd53ed4c8008d81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168970413,
-    "wof:lastmodified":1466331256,
+    "wof:lastmodified":1491917145,
     "wof:name":"Frank's Kitchen",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

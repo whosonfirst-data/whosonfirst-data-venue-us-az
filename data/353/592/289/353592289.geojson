@@ -2,9 +2,14 @@
   "id": 353592289,
   "type": "Feature",
   "properties": {
+    "addr:full":"9494 W Northern Ave Ste 114 Glendale AZ 85305",
+    "addr:housenumber":"9494",
+    "addr:postcode":"85305",
+    "addr:street":"W Northern Ave Ste 114",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.264106,33.551591,-112.264106,33.551591",
     "geom:latitude":33.551591,
     "geom:longitude":-112.264106,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"be1e20c0b6d7057671a11e07b167f12f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353592289,
-    "wof:lastmodified":1466328404,
+    "wof:lastmodified":1491936203,
     "wof:name":"Redmart",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

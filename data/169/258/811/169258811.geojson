@@ -2,9 +2,14 @@
   "id": 169258811,
   "type": "Feature",
   "properties": {
+    "addr:full":"16937 E Nicklaus Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16937",
+    "addr:postcode":"85268",
+    "addr:street":"E Nicklaus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.717194,33.580904,-111.717194,33.580904",
     "geom:latitude":33.580904,
     "geom:longitude":-111.717194,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"6da151aa3f915b76f36effeaa9db8fc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169258811,
-    "wof:lastmodified":1466332599,
+    "wof:lastmodified":1491939334,
     "wof:name":"Franklin Associates",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

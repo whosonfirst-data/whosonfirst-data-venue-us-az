@@ -2,9 +2,14 @@
   "id": 152929383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 N 91st Ave Phoenix AZ 85037",
+    "addr:housenumber":"1805",
+    "addr:postcode":"85037",
+    "addr:street":"N 91St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.255156,33.465376,-112.255156,33.465376",
     "geom:latitude":33.465376,
     "geom:longitude":-112.255156,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -45,16 +51,17 @@
     "wof:geomhash":"a867f924df2f58173170631b7b444d69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":152929383
         }
     ],
     "wof:id":152929383,
-    "wof:lastmodified":1466325933,
+    "wof:lastmodified":1491934661,
     "wof:name":"Shape Up Personal Training",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

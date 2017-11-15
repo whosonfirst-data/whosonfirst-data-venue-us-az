@@ -2,9 +2,14 @@
   "id": 169340659,
   "type": "Feature",
   "properties": {
+    "addr:full":"7139 E Shea Blvd Scottsdale AZ 85254",
+    "addr:housenumber":"7139",
+    "addr:postcode":"85254",
+    "addr:street":"E Shea Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.9272,33.582097,-111.9272,33.582097",
     "geom:latitude":33.582097,
     "geom:longitude":-111.9272,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b546da9c32f7753beb3dd0440c1574c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169340659,
-    "wof:lastmodified":1466333378,
+    "wof:lastmodified":1491912694,
     "wof:name":"Bankers Consulting Corp",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

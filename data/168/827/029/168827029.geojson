@@ -2,9 +2,14 @@
   "id": 168827029,
   "type": "Feature",
   "properties": {
+    "addr:full":"9555 E Raintree Dr Scottsdale AZ 85260",
+    "addr:housenumber":"9555",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.874257,33.61915,-111.874257,33.61915",
     "geom:latitude":33.61915,
     "geom:longitude":-111.874257,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"77efb81c76d93bdfaa572a017759445a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168827029,
-    "wof:lastmodified":1466325935,
+    "wof:lastmodified":1491908452,
     "wof:name":"Solar Energy & Misting Solutio",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

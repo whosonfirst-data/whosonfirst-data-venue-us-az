@@ -2,9 +2,14 @@
   "id": 169267521,
   "type": "Feature",
   "properties": {
+    "addr:full":"36507 N 29th Ln Phoenix AZ 85086",
+    "addr:housenumber":"36507",
+    "addr:postcode":"85086",
+    "addr:street":"N 29Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.123197,33.816521,-112.123197,33.816521",
     "geom:latitude":33.816521,
     "geom:longitude":-112.123197,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d68ba68f29846e2f577c4f3f13ed4377",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169267521,
-    "wof:lastmodified":1466332683,
+    "wof:lastmodified":1491934334,
     "wof:name":"Alpha & Omega Roofing Co",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

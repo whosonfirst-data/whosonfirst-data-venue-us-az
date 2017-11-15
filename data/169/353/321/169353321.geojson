@@ -2,9 +2,14 @@
   "id": 169353321,
   "type": "Feature",
   "properties": {
+    "addr:full":"7508 S 37th Ln Phoenix AZ 85041",
+    "addr:housenumber":"7508",
+    "addr:postcode":"85041",
+    "addr:street":"S 37Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.139814,33.378376,-112.139814,33.378376",
     "geom:latitude":33.378376,
     "geom:longitude":-112.139814,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e904f909e5db8ee1dfa31908a408230a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169353321,
-    "wof:lastmodified":1466333289,
+    "wof:lastmodified":1491900157,
     "wof:name":"Ryland Homes",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

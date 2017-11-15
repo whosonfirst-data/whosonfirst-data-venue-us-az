@@ -2,9 +2,14 @@
   "id": 169155917,
   "type": "Feature",
   "properties": {
+    "addr:full":"5923 E Hillery Dr Scottsdale AZ 85254",
+    "addr:housenumber":"5923",
+    "addr:postcode":"85254",
+    "addr:street":"E Hillery Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.953316,33.622071,-111.953316,33.622071",
     "geom:latitude":33.622071,
     "geom:longitude":-111.953316,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e16d4670b6144569e0ab92b983147956",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169155917,
-    "wof:lastmodified":1466331939,
+    "wof:lastmodified":1491901248,
     "wof:name":"Custon Engraving",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320815493,
   "type": "Feature",
   "properties": {
+    "addr:full":"20414 N 27th Ave Phoenix AZ 85027",
+    "addr:housenumber":"20414",
+    "addr:postcode":"85027",
+    "addr:street":"N 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117413,33.672079,-112.117413,33.672079",
     "geom:latitude":33.672079,
     "geom:longitude":-112.117413,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"f7bb3a61275ed95bfd03b433a2a05268",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":320815493,
-    "wof:lastmodified":1466330040,
+    "wof:lastmodified":1491889259,
     "wof:name":"Simonmed Imaging Incorporated",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336744295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 W Maddock Rd Phoenix AZ 85086",
+    "addr:housenumber":"1339",
+    "addr:postcode":"85086",
+    "addr:street":"W Maddock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.089762,33.820882,-112.089762,33.820882",
     "geom:latitude":33.820882,
     "geom:longitude":-112.089762,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"99eae2ed2341af4e37fcdcdee12be112",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336744295,
-    "wof:lastmodified":1466328918,
+    "wof:lastmodified":1491934247,
     "wof:name":"Ron And Joan Souza",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

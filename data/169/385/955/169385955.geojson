@@ -2,9 +2,14 @@
   "id": 169385955,
   "type": "Feature",
   "properties": {
+    "addr:full":"10112 E Paradise Dr Scottsdale AZ 85260",
+    "addr:housenumber":"10112",
+    "addr:postcode":"85260",
+    "addr:street":"E Paradise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.86029,33.595099,-111.86029,33.595099",
     "geom:latitude":33.595099,
     "geom:longitude":-111.86029,
@@ -37,11 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
-        85880971,
-        85880933
+        85880933,
+        85880971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,26 +57,28 @@
     "wof:geomhash":"23b79531b8ffc36fdd481505422d8426",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917475,
-            "neighbourhood_id":85880971,
-            "region_id":85688719,
-            "venue_id":169385955
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
             "neighbourhood_id":85880933,
             "region_id":85688719,
             "venue_id":169385955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85880971,
+            "region_id":85688719,
+            "venue_id":169385955
         }
     ],
     "wof:id":169385955,
-    "wof:lastmodified":1466333829,
+    "wof:lastmodified":1491931820,
     "wof:name":"Orion Recycling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

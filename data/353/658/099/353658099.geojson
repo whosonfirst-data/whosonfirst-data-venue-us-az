@@ -2,9 +2,14 @@
   "id": 353658099,
   "type": "Feature",
   "properties": {
+    "addr:full":"5611 W Coles Rd Laveen AZ 85339",
+    "addr:housenumber":"5611",
+    "addr:postcode":"85339",
+    "addr:street":"W Coles Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.179782,33.36964,-112.179782,33.36964",
     "geom:latitude":33.36964,
     "geom:longitude":-112.179782,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"dbbc6ca990e13dda7321a6dba09415d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353658099,
-    "wof:lastmodified":1466329266,
+    "wof:lastmodified":1491900171,
     "wof:name":"Dynamic Solutions Drug and Alcohol Testing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

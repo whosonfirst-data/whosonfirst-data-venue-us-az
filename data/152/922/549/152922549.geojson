@@ -2,9 +2,14 @@
   "id": 152922549,
   "type": "Feature",
   "properties": {
+    "addr:full":"15850 N Thompson Peak Pkwy Scottsdale AZ 85260",
+    "addr:housenumber":"15850",
+    "addr:postcode":"85260",
+    "addr:street":"N Thompson Peak Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.862944,33.629523,-111.862944,33.629523",
     "geom:latitude":33.629523,
     "geom:longitude":-111.862944,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f66a81b79e4aef541aef2bbdae5cfa5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152922549,
-    "wof:lastmodified":1466327238,
+    "wof:lastmodified":1491905981,
     "wof:name":"Dartmouth Van Lines",
     "wof:parent_id":85880957,
     "wof:placetype":"venue",

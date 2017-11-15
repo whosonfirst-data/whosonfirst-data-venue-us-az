@@ -2,9 +2,14 @@
   "id": 336817605,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 W Baseline Rd Ste 104 Mesa AZ 85210",
+    "addr:housenumber":"535",
+    "addr:postcode":"85210",
+    "addr:street":"W Baseline Rd Ste 104",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.84462,33.378712,-111.84462,33.378712",
     "geom:latitude":33.378712,
     "geom:longitude":-111.84462,
@@ -47,6 +52,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -60,7 +66,7 @@
     "wof:geomhash":"9eb40549e182192b24a31015652f977e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":336817605,
-    "wof:lastmodified":1466329565,
+    "wof:lastmodified":1491910727,
     "wof:name":"AlphaGraphics",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",

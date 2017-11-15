@@ -2,9 +2,14 @@
   "id": 169204601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2822 W Van Buren St Phoenix AZ 85009",
+    "addr:housenumber":"2822",
+    "addr:postcode":"85009",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.121108,33.451271,-112.121108,33.451271",
     "geom:latitude":33.451271,
     "geom:longitude":-112.121108,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6b38a0531db1c1f254bf7be397e89a82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169204601,
-    "wof:lastmodified":1466332316,
+    "wof:lastmodified":1491917187,
     "wof:name":"Mariscos Bahia De Lobos",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

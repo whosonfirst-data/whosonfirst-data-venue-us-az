@@ -2,14 +2,20 @@
   "id": 336797255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1652 S Val Vista Dr Mesa AZ 85204",
+    "addr:housenumber":"1652",
+    "addr:postcode":"85204",
+    "addr:street":"S Val Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.754164,33.384742,-111.754164,33.384742",
     "geom:latitude":33.384742,
     "geom:longitude":-111.754164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1652 S Val Vista Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -31,20 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
         85858711
     ],
+    "wof:brand_id":1125154965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AIlZ1HnoN6xnJOGJCsRQ7_33.384742_-111.754164@1303263111"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe196ea0a31de21cc5008bc8b075bd9a",
+    "wof:geomhash":"d8ab28645a46f3ace35ab40e3149d774",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":336797255,
-    "wof:lastmodified":1466329529,
+    "wof:lastmodified":1510695240,
     "wof:name":"Anthropologie",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

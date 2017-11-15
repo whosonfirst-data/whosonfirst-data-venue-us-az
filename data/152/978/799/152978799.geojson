@@ -2,9 +2,14 @@
   "id": 152978799,
   "type": "Feature",
   "properties": {
+    "addr:full":"10809 N 33rd Ave Phoenix AZ 85029",
+    "addr:housenumber":"10809",
+    "addr:postcode":"85029",
+    "addr:street":"N 33Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.129825,33.58518,-112.129825,33.58518",
     "geom:latitude":33.58518,
     "geom:longitude":-112.129825,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8953baa3c5239237010876aa5c27ef15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152978799,
-    "wof:lastmodified":1466328845,
+    "wof:lastmodified":1491888210,
     "wof:name":"Gulf Check Valve Co",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

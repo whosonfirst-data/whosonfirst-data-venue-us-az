@@ -2,9 +2,14 @@
   "id": 336673079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 W Broadway Rd Phoenix AZ 85041",
+    "addr:housenumber":"2630",
+    "addr:postcode":"85041",
+    "addr:street":"W Broadway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.114907,33.406723,-112.114907,33.406723",
     "geom:latitude":33.406723,
     "geom:longitude":-112.114907,
@@ -44,6 +49,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -57,7 +63,7 @@
     "wof:geomhash":"55fced1ece606762e6a0f2307e50f357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":336673079,
-    "wof:lastmodified":1466327509,
+    "wof:lastmodified":1491900179,
     "wof:name":"Ag Truck Sales, Inc.",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

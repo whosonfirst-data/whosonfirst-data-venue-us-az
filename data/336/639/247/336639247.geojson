@@ -2,9 +2,14 @@
   "id": 336639247,
   "type": "Feature",
   "properties": {
+    "addr:full":"7515 W Encanto Blvd Phoenix AZ 85035",
+    "addr:housenumber":"7515",
+    "addr:postcode":"85035",
+    "addr:street":"W Encanto Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.221042,33.472924,-112.221042,33.472924",
     "geom:latitude":33.472924,
     "geom:longitude":-112.221042,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"36affba4f170646bf7ead2ab77601410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336639247
         }
     ],
     "wof:id":336639247,
-    "wof:lastmodified":1466326757,
+    "wof:lastmodified":1491934637,
     "wof:name":"Pantalones Sinaloa",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

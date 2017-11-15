@@ -2,9 +2,14 @@
   "id": 168958649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 E Apache Blvd Tempe AZ 85281",
+    "addr:housenumber":"1945",
+    "addr:postcode":"85281",
+    "addr:street":"E Apache Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909075,33.414769,-111.909075,33.414769",
     "geom:latitude":33.414769,
     "geom:longitude":-111.909075,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917469,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917469,
+        102087421,
+        85881381,
+        85881403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"596b73a6701809dd7da50523ddeccdd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
+            "neighbourhood_id":85881381,
+            "region_id":85688719,
+            "venue_id":168958649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917469,
+            "neighbourhood_id":85881403,
             "region_id":85688719,
             "venue_id":168958649
         }
     ],
     "wof:id":168958649,
-    "wof:lastmodified":1466331178,
+    "wof:lastmodified":1491935594,
     "wof:name":"Magic Limo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

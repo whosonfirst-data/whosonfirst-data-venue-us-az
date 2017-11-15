@@ -2,9 +2,14 @@
   "id": 169317331,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 N Mesa Dr Mesa AZ 85201",
+    "addr:housenumber":"1107",
+    "addr:postcode":"85201",
+    "addr:street":"N Mesa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.822616,33.433918,-111.822616,33.433918",
     "geom:latitude":33.433918,
     "geom:longitude":-111.822616,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f7381e0c122f00600fbe44f28010a187",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169317331,
-    "wof:lastmodified":1466333139,
+    "wof:lastmodified":1491893360,
     "wof:name":"Marketdekho Quick Cash",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

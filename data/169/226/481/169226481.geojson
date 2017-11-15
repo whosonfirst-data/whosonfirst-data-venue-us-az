@@ -2,9 +2,14 @@
   "id": 169226481,
   "type": "Feature",
   "properties": {
+    "addr:full":"3703 E Indian School Rd Phoenix AZ 85018",
+    "addr:housenumber":"3703",
+    "addr:postcode":"85018",
+    "addr:street":"E Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.001698,33.495092,-112.001698,33.495092",
     "geom:latitude":33.495092,
     "geom:longitude":-112.001698,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ab025cf451753ce9db7942fbcd4066c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169226481,
-    "wof:lastmodified":1466332311,
+    "wof:lastmodified":1491890190,
     "wof:name":"Salon Sandoval",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153081831,
   "type": "Feature",
   "properties": {
+    "addr:full":"16420 N Thompson Peak Pkwy Scottsdale AZ 85260",
+    "addr:housenumber":"16420",
+    "addr:postcode":"85260",
+    "addr:street":"N Thompson Peak Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.86037,33.635314,-111.86037,33.635314",
     "geom:latitude":33.635314,
     "geom:longitude":-111.86037,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b9ea5a7388674eb169c9e3105214fd24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153081831,
-    "wof:lastmodified":1466329226,
+    "wof:lastmodified":1491905989,
     "wof:name":"Educational Support Material",
     "wof:parent_id":85880957,
     "wof:placetype":"venue",

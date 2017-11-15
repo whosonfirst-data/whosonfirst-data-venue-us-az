@@ -2,9 +2,14 @@
   "id": 168950577,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 S 12th Ave Phoenix AZ 85007",
+    "addr:housenumber":"230",
+    "addr:postcode":"85007",
+    "addr:street":"S 12Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.088173,33.444936,-112.088173,33.444936",
     "geom:latitude":33.444936,
     "geom:longitude":-112.088173,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"16a911d34482959bb4fce347649e59e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168950577,
-    "wof:lastmodified":1466331116,
+    "wof:lastmodified":1491917054,
     "wof:name":"Central Arizona Shelter Svc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

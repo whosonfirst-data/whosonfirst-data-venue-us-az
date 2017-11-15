@@ -2,9 +2,14 @@
   "id": 169391585,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 E Thomas Rd Phoenix AZ 85018",
+    "addr:housenumber":"4231",
+    "addr:postcode":"85018",
+    "addr:street":"E Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.98727,33.480185,-111.98727,33.480185",
     "geom:latitude":33.480185,
     "geom:longitude":-111.98727,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"babfc8e4ca98002dbd1eb279a42dc1b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169391585,
-    "wof:lastmodified":1466333903,
+    "wof:lastmodified":1491890172,
     "wof:name":"Asian Garden",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

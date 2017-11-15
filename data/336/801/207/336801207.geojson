@@ -2,9 +2,14 @@
   "id": 336801207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4126 E Valley Auto Dr Mesa AZ 85206",
+    "addr:housenumber":"4126",
+    "addr:postcode":"85206",
+    "addr:street":"E Valley Auto Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.744152,33.380992,-111.744152,33.380992",
     "geom:latitude":33.380992,
     "geom:longitude":-111.744152,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"553353ba228fa9a7b40219ebc30cd816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336801207,
-    "wof:lastmodified":1466329544,
+    "wof:lastmodified":1491913671,
     "wof:name":"Hertz Local Edition",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

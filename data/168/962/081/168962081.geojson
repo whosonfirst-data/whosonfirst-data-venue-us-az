@@ -2,9 +2,14 @@
   "id": 168962081,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 S 2nd St Phoenix AZ 85004",
+    "addr:housenumber":"411",
+    "addr:postcode":"85004",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.071116,33.443309,-112.071116,33.443309",
     "geom:latitude":33.443309,
     "geom:longitude":-112.071116,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4be8a6db6f8ca5cfbf5bc86709a2d942",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168962081,
-    "wof:lastmodified":1466331188,
+    "wof:lastmodified":1491917124,
     "wof:name":"Phoenix Feed & Seed",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

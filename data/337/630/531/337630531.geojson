@@ -2,9 +2,14 @@
   "id": 337630531,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 S Mcclintock Dr Tempe AZ 85281",
+    "addr:housenumber":"221",
+    "addr:postcode":"85281",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909058,33.428108,-111.909058,33.428108",
     "geom:latitude":33.428108,
     "geom:longitude":-111.909058,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"1bc3f29658093f40073b8ccabe6ecd44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":337630531,
-    "wof:lastmodified":1466327376,
+    "wof:lastmodified":1491902486,
     "wof:name":"Quality Transmission",
     "wof:parent_id":85881433,
     "wof:placetype":"venue",

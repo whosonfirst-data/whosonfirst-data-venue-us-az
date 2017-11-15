@@ -2,9 +2,14 @@
   "id": 169277881,
   "type": "Feature",
   "properties": {
+    "addr:full":"6201 E Larkspur Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6201",
+    "addr:postcode":"85254",
+    "addr:street":"E Larkspur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.943313,33.600429,-111.943313,33.600429",
     "geom:latitude":33.600429,
     "geom:longitude":-111.943313,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917475,
+        102087421,
+        85814399,
+        85880973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"78a02098db14145c281243454cde8801",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917475,
+            "neighbourhood_id":85814399,
+            "region_id":85688719,
+            "venue_id":169277881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85880973,
             "region_id":85688719,
             "venue_id":169277881
         }
     ],
     "wof:id":169277881,
-    "wof:lastmodified":1466332808,
+    "wof:lastmodified":1491912720,
     "wof:name":"K P Air Conditioning & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

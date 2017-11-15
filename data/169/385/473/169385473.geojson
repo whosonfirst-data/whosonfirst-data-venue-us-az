@@ -2,9 +2,14 @@
   "id": 169385473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1872 E 3rd St Tempe AZ 85281",
+    "addr:housenumber":"1872",
+    "addr:postcode":"85281",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.905304,33.427512,-111.905304,33.427512",
     "geom:latitude":33.427512,
     "geom:longitude":-111.905304,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c413e9a0450308cf90103974f56ef0f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169385473,
-    "wof:lastmodified":1466333816,
+    "wof:lastmodified":1491935579,
     "wof:name":"Kirch Construction",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

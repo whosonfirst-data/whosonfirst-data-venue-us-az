@@ -2,9 +2,14 @@
   "id": 168997443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 N Scottsdale Rd Tempe AZ 85281",
+    "addr:housenumber":"1420",
+    "addr:postcode":"85281",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926516,33.446385,-111.926516,33.446385",
     "geom:latitude":33.446385,
     "geom:longitude":-111.926516,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"6cf1c2cf6f8993ea267912e6eeda2970",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168997443
         }
     ],
     "wof:id":168997443,
-    "wof:lastmodified":1466331672,
+    "wof:lastmodified":1491905165,
     "wof:name":"Frankies New York Pizza Resta",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

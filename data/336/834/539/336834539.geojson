@@ -2,9 +2,14 @@
   "id": 336834539,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 E Hale St Mesa AZ 85213",
+    "addr:housenumber":"2015",
+    "addr:postcode":"85213",
+    "addr:street":"E Hale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.784389,33.444012,-111.784389,33.444012",
     "geom:latitude":33.444012,
     "geom:longitude":-111.784389,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"00825e6650f0cc38ca163d1894fd9cd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336834539,
-    "wof:lastmodified":1466329890,
+    "wof:lastmodified":1491927313,
     "wof:name":"Sdt Inc",
     "wof:parent_id":85831453,
     "wof:placetype":"venue",

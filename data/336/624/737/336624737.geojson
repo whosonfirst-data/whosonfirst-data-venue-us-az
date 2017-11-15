@@ -2,9 +2,14 @@
   "id": 336624737,
   "type": "Feature",
   "properties": {
+    "addr:full":"7333 W Thomas Rd #88 Phoenix AZ 85033",
+    "addr:housenumber":"7333",
+    "addr:postcode":"85033",
+    "addr:street":"W Thomas Rd # 88",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.219422,33.477353,-112.219422,33.477353",
     "geom:latitude":33.477353,
     "geom:longitude":-112.219422,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"c4fc2f6430ada7230b792ea007b01dce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336624737
         }
     ],
     "wof:id":336624737,
-    "wof:lastmodified":1466326404,
+    "wof:lastmodified":1491934635,
     "wof:name":"Salvadoreno Restaurant #2",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

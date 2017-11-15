@@ -2,14 +2,20 @@
   "id": 353623645,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 W McDowell Road Avondale AZ 85323",
+    "addr:housenumber":"10000",
+    "addr:postcode":"85323",
+    "addr:street":"W Mcdowell Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.275399,33.464736,-112.275399,33.464736",
     "geom:latitude":33.464736,
     "geom:longitude":-112.275399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10000 W McDowell Road",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -26,30 +32,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
+    "wof:brand_id":1125153757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r7jilg0Jg05sEbvjloMIe_33.464736_-112.275399@1303263122"
     },
     "wof:country":"US",
-    "wof:geomhash":"767fb9100ad254603a62ecfd8e4d3051",
+    "wof:geomhash":"0508d869c0c2416913d82aeaccfa5b6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353623645
         }
     ],
     "wof:id":353623645,
-    "wof:lastmodified":1466328852,
+    "wof:lastmodified":1510693810,
     "wof:name":"Costco",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

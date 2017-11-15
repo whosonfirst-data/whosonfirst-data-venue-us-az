@@ -2,9 +2,14 @@
   "id": 169382651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 E University Dr Tempe AZ 85281",
+    "addr:housenumber":"1828",
+    "addr:postcode":"85281",
+    "addr:street":"E University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.906237,33.422027,-111.906237,33.422027",
     "geom:latitude":33.422027,
     "geom:longitude":-111.906237,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"465624c190165e06aaefade6f52b42ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169382651,
-    "wof:lastmodified":1466333858,
+    "wof:lastmodified":1491935584,
     "wof:name":"Mass Music",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

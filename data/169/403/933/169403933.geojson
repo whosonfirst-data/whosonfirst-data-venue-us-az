@@ -2,9 +2,14 @@
   "id": 169403933,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 E Sheena Dr Phoenix AZ 85022",
+    "addr:housenumber":"2114",
+    "addr:postcode":"85022",
+    "addr:street":"E Sheena Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.038748,33.613658,-112.038748,33.613658",
     "geom:latitude":33.613658,
     "geom:longitude":-112.038748,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"284818bb779d63da19b7d4855737847b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169403933,
-    "wof:lastmodified":1466334077,
+    "wof:lastmodified":1491932192,
     "wof:name":"Shaklee",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

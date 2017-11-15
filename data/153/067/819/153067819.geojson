@@ -2,9 +2,14 @@
   "id": 153067819,
   "type": "Feature",
   "properties": {
+    "addr:full":"2043 E Bartlett Pl Chandler AZ 85249",
+    "addr:housenumber":"2043",
+    "addr:postcode":"85249",
+    "addr:street":"E Bartlett Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.804609,33.234225,-111.804609,33.234225",
     "geom:latitude":33.234225,
     "geom:longitude":-111.804609,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ac86d207944ad03826746f75f1fa9385",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":153067819,
-    "wof:lastmodified":1466328220,
+    "wof:lastmodified":1491886926,
     "wof:name":"Mountain Fresh Water Systems",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

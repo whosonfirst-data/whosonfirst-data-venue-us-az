@@ -2,9 +2,14 @@
   "id": 168939745,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 N Black Canyon Hwy Phoenix AZ 85021",
+    "addr:housenumber":"8601",
+    "addr:postcode":"85021",
+    "addr:street":"N Black Canyon Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.116201,33.563933,-112.116201,33.563933",
     "geom:latitude":33.563933,
     "geom:longitude":-112.116201,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"851d0b1da764e30a528f3c403a6b0234",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168939745,
-    "wof:lastmodified":1466330797,
+    "wof:lastmodified":1491888157,
     "wof:name":"Center-Extraordinary Outcomes",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

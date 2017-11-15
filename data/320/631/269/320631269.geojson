@@ -2,9 +2,14 @@
   "id": 320631269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1728 W Mckinley St Phoenix AZ 85007",
+    "addr:housenumber":"1728",
+    "addr:postcode":"85007",
+    "addr:street":"W Mckinley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.096392,33.456788,-112.096392,33.456788",
     "geom:latitude":33.456788,
     "geom:longitude":-112.096392,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"f8852f5ab661a5adb0d76e7797a21d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320631269,
-    "wof:lastmodified":1466326556,
+    "wof:lastmodified":1491917083,
     "wof:name":"Chi N Hing Food Service Incorporated",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

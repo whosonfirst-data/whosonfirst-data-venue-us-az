@@ -2,9 +2,14 @@
   "id": 168952209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 S Hardy Dr Tempe AZ 85281",
+    "addr:housenumber":"1312",
+    "addr:postcode":"85281",
+    "addr:street":"S Hardy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.952257,33.413932,-111.952257,33.413932",
     "geom:latitude":33.413932,
     "geom:longitude":-111.952257,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4d69a4479f01551482c34d25169b1c16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168952209,
-    "wof:lastmodified":1466330987,
+    "wof:lastmodified":1491909668,
     "wof:name":"Corsican Apartments",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

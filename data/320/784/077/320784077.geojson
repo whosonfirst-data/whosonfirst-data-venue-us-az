@@ -2,9 +2,14 @@
   "id": 320784077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1944 W North Ln Ste 7 Phoenix AZ 85021",
+    "addr:housenumber":"1944",
+    "addr:postcode":"85021",
+    "addr:street":"W North Ln Ste 7",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.102518,33.580732,-112.102518,33.580732",
     "geom:latitude":33.580732,
     "geom:longitude":-112.102518,
@@ -46,6 +51,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -59,7 +65,7 @@
     "wof:geomhash":"9c63b6730fe7b86ea6d8916a72a6cffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":320784077,
-    "wof:lastmodified":1466329763,
+    "wof:lastmodified":1491895217,
     "wof:name":"Atlas Grinding & Honing",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

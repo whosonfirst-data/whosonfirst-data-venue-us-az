@@ -2,9 +2,14 @@
   "id": 169160041,
   "type": "Feature",
   "properties": {
+    "addr:full":"6317 E Monte Cristo Ave Scottsdale AZ 85254",
+    "addr:housenumber":"6317",
+    "addr:postcode":"85254",
+    "addr:street":"E Monte Cristo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.94467,33.630756,-111.94467,33.630756",
     "geom:latitude":33.630756,
     "geom:longitude":-111.94467,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a0c6bf8a48ed7a42185d74072db84fbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169160041,
-    "wof:lastmodified":1466331818,
+    "wof:lastmodified":1491901251,
     "wof:name":"Extraction Systems Inc",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

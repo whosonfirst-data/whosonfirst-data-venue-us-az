@@ -2,9 +2,14 @@
   "id": 353387855,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 S Wilson St Apt 202 Tempe AZ 85281",
+    "addr:housenumber":"310;202",
+    "addr:postcode":"85281",
+    "addr:street":"S Wilson St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.945747,33.427182,-111.945747,33.427182",
     "geom:latitude":33.427182,
     "geom:longitude":-111.945747,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"50f989b2de1edb4f722087d0a794c7b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353387855,
-    "wof:lastmodified":1466326164,
+    "wof:lastmodified":1491905618,
     "wof:name":"Highland Avenue Theatre",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",

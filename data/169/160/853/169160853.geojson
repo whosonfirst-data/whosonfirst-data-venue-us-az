@@ -2,9 +2,14 @@
   "id": 169160853,
   "type": "Feature",
   "properties": {
+    "addr:full":"14807 N 100th Way Scottsdale AZ 85260",
+    "addr:housenumber":"14807",
+    "addr:postcode":"85260",
+    "addr:street":"N 100Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.868171,33.622073,-111.868171,33.622073",
     "geom:latitude":33.622073,
     "geom:longitude":-111.868171,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"bcba6b8a6c5873b35be0c6ed48f0261c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169160853,
-    "wof:lastmodified":1466331832,
+    "wof:lastmodified":1491908458,
     "wof:name":"Tetra Holdings",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

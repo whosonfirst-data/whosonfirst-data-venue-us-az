@@ -2,14 +2,20 @@
   "id": 169401669,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 E Southern Ave Tempe AZ 85282",
+    "addr:housenumber":"63",
+    "addr:postcode":"85282",
+    "addr:street":"E Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.935716,33.392833,-111.935716,33.392833",
     "geom:latitude":33.392833,
     "geom:longitude":-111.935716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"63 E Southern Ave",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -32,19 +38,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
         85881409
     ],
+    "wof:brand_id":1125157879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G6Itma2DTOjzfhQqf6U2V_33.392833_-111.935716@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf56457af7cd7dd38709ca50e5f979da",
+    "wof:geomhash":"8c5f30642220587a970e5174248ca516",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":169401669,
-    "wof:lastmodified":1466333964,
+    "wof:lastmodified":1510693949,
     "wof:name":"L A Fitness Sports Club",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

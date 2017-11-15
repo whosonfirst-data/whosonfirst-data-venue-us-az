@@ -2,9 +2,14 @@
   "id": 152927067,
   "type": "Feature",
   "properties": {
+    "addr:full":"10240 N 27th Ave Phoenix AZ 85051",
+    "addr:housenumber":"10240",
+    "addr:postcode":"85051",
+    "addr:street":"N 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.118983,33.57977,-112.118983,33.57977",
     "geom:latitude":33.57977,
     "geom:longitude":-112.118983,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1716705012a19c54ae67fd471201c45d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152927067,
-    "wof:lastmodified":1466325774,
+    "wof:lastmodified":1491888208,
     "wof:name":"Place The",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

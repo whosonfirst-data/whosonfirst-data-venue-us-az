@@ -2,9 +2,14 @@
   "id": 168967123,
   "type": "Feature",
   "properties": {
+    "addr:full":"9783 E Karen Dr Scottsdale AZ 85260",
+    "addr:housenumber":"9783",
+    "addr:postcode":"85260",
+    "addr:street":"E Karen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.871028,33.621022,-111.871028,33.621022",
     "geom:latitude":33.621022,
     "geom:longitude":-111.871028,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -46,6 +52,7 @@
     "wof:geomhash":"75de439bdaff477d6a1600ac8ba708d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":168967123,
-    "wof:lastmodified":1466331210,
+    "wof:lastmodified":1491908480,
     "wof:name":"Rosenblatt Diversified Service",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

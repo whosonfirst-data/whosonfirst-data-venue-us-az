@@ -2,9 +2,14 @@
   "id": 169336547,
   "type": "Feature",
   "properties": {
+    "addr:full":"12690 E Cochise Dr Scottsdale AZ 85259",
+    "addr:housenumber":"12690",
+    "addr:postcode":"85259",
+    "addr:street":"E Cochise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.80594,33.580647,-111.80594,33.580647",
     "geom:latitude":33.580647,
     "geom:longitude":-111.80594,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"40db066adeeb6c074100d76b84187320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169336547,
-    "wof:lastmodified":1466333367,
+    "wof:lastmodified":1491939285,
     "wof:name":"Casa Grande Coml Truck & Eqpt",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169385495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3127 S 19th Ave Phoenix AZ 85041",
+    "addr:housenumber":"3127",
+    "addr:postcode":"85041",
+    "addr:street":"S 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.099608,33.419709,-112.099608,33.419709",
     "geom:latitude":33.419709,
     "geom:longitude":-112.099608,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"85a7b79e23eece158b48e15ca4cdbe3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169385495,
-    "wof:lastmodified":1466333554,
+    "wof:lastmodified":1491917080,
     "wof:name":"Bend-A-Light Neon",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

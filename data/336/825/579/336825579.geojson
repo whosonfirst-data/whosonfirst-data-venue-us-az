@@ -2,9 +2,14 @@
   "id": 336825579,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 W Guadalupe Road Mesa AZ 85210",
+    "addr:housenumber":"737",
+    "addr:postcode":"85210",
+    "addr:street":"W Guadalupe Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.850463,33.364231,-111.850463,33.364231",
     "geom:latitude":33.364231,
     "geom:longitude":-111.850463,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ee13062b7e331e68a04ec63ff3d0792e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336825579,
-    "wof:lastmodified":1466329664,
+    "wof:lastmodified":1491910719,
     "wof:name":"Mesa Public Schools",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",

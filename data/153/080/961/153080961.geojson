@@ -2,9 +2,14 @@
   "id": 153080961,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 E Cavalier Dr Tempe AZ 85281",
+    "addr:housenumber":"727",
+    "addr:postcode":"85281",
+    "addr:street":"E Cavalier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.928748,33.449526,-111.928748,33.449526",
     "geom:latitude":33.449526,
     "geom:longitude":-111.928748,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"1dae3c93e5e2f336e8343e6b4ca19e51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":153080961
         }
     ],
     "wof:id":153080961,
-    "wof:lastmodified":1466328880,
+    "wof:lastmodified":1491905188,
     "wof:name":"AZ Enviro Control LLC",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

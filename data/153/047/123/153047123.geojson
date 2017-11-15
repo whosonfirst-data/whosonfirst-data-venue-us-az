@@ -2,9 +2,14 @@
   "id": 153047123,
   "type": "Feature",
   "properties": {
+    "addr:full":"263 N Danielson Way Chandler AZ 85225",
+    "addr:housenumber":"263",
+    "addr:postcode":"85225",
+    "addr:street":"N Danielson Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.798822,33.308178,-111.798822,33.308178",
     "geom:latitude":33.308178,
     "geom:longitude":-111.798822,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -51,6 +57,7 @@
     "wof:geomhash":"c75a92ebb65708a3b9d6b253840bcdd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":153047123,
-    "wof:lastmodified":1466326967,
+    "wof:lastmodified":1491903016,
     "wof:name":"Fun Stuff Lessons",
     "wof:parent_id":85811905,
     "wof:placetype":"venue",

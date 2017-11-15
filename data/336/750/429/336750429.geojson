@@ -2,9 +2,14 @@
   "id": 336750429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 W 10th St Mesa AZ 85201",
+    "addr:housenumber":"1113",
+    "addr:postcode":"85201",
+    "addr:street":"W 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.854486,33.433061,-111.854486,33.433061",
     "geom:latitude":33.433061,
     "geom:longitude":-111.854486,
@@ -21,8 +26,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +37,15 @@
     "wof:geomhash":"fcee5a869755e2aad0fbfdb2bc5706ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336750429
         }
     ],
     "wof:id":336750429,
-    "wof:lastmodified":1466328808,
+    "wof:lastmodified":1491898462,
     "wof:name":"Rolfing Resources",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

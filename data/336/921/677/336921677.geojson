@@ -2,9 +2,14 @@
   "id": 336921677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 W Guadalupe Rd Ste 1 Gilbert AZ 85233",
+    "addr:housenumber":"2020",
+    "addr:postcode":"85233",
+    "addr:street":"W Guadalupe Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.833416,33.364239,-111.833416,33.364239",
     "geom:latitude":33.364239,
     "geom:longitude":-111.833416,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"de3946f94a089b682c9471c0fbdff2f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336921677
         }
     ],
     "wof:id":336921677,
-    "wof:lastmodified":1466330478,
+    "wof:lastmodified":1491892007,
     "wof:name":"Cupertino Electric, Inc.",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336715291,
   "type": "Feature",
   "properties": {
+    "addr:full":"9700 N Metro Pkwy W Phoenix AZ 85051",
+    "addr:housenumber":"9700",
+    "addr:postcode":"85051",
+    "addr:street":"N Metro Pkwy W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.124786,33.574911,-112.124786,33.574911",
     "geom:latitude":33.574911,
     "geom:longitude":-112.124786,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"48f8aa0c9452e263fdde2b77908a9280",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336715291,
-    "wof:lastmodified":1466328268,
+    "wof:lastmodified":1491888145,
     "wof:name":"Noga Cosmetics",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

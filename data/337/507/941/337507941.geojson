@@ -2,9 +2,14 @@
   "id": 337507941,
   "type": "Feature",
   "properties": {
+    "addr:full":"11470 N 64th St Scottsdale AZ 85254",
+    "addr:housenumber":"11470",
+    "addr:postcode":"85254",
+    "addr:street":"N 64Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.943323,33.590197,-111.943323,33.590197",
     "geom:latitude":33.590197,
     "geom:longitude":-111.943323,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"273df741e613a0978c20fd14fd714080",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337507941,
-    "wof:lastmodified":1466326317,
+    "wof:lastmodified":1491912701,
     "wof:name":"Water Heater Warehouse Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

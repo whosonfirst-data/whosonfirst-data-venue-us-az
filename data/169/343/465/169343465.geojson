@@ -2,9 +2,14 @@
   "id": 169343465,
   "type": "Feature",
   "properties": {
+    "addr:full":"9241 S 55th Ave Laveen AZ 85339",
+    "addr:housenumber":"9241",
+    "addr:postcode":"85339",
+    "addr:street":"S 55Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.177588,33.362907,-112.177588,33.362907",
     "geom:latitude":33.362907,
     "geom:longitude":-112.177588,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2f15253e07b51da22bf953f85bd7dadb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169343465,
-    "wof:lastmodified":1466333416,
+    "wof:lastmodified":1491900211,
     "wof:name":"ORMES",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

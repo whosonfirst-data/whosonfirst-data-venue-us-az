@@ -2,9 +2,14 @@
   "id": 320707249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1734 W Tuckey Ln Phoenix AZ 85015",
+    "addr:housenumber":"1734",
+    "addr:postcode":"85015",
+    "addr:street":"W Tuckey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.095608,33.534298,-112.095608,33.534298",
     "geom:latitude":33.534298,
     "geom:longitude":-112.095608,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0068ade9a20bdf4fe9205961d00e0609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320707249,
-    "wof:lastmodified":1466328212,
+    "wof:lastmodified":1491913559,
     "wof:name":"Arcadia Springs Iii",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

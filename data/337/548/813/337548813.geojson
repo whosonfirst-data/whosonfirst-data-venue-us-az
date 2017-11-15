@@ -2,9 +2,14 @@
   "id": 337548813,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 N 73rd St Scottsdale AZ 85257",
+    "addr:housenumber":"402",
+    "addr:postcode":"85257",
+    "addr:street":"N 73Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.923942,33.452551,-111.923942,33.452551",
     "geom:latitude":33.452551,
     "geom:longitude":-111.923942,
@@ -50,8 +55,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -63,17 +69,17 @@
     "wof:geomhash":"3c15fe3145add5aff9fb5a5eec3d4342",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337548813
         }
     ],
     "wof:id":337548813,
-    "wof:lastmodified":1466326687,
+    "wof:lastmodified":1491905242,
     "wof:name":"Scottsdale BARK - Dog Walking and Pet Sitting Services",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

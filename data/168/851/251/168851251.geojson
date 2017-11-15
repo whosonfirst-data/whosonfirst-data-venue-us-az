@@ -2,9 +2,14 @@
   "id": 168851251,
   "type": "Feature",
   "properties": {
+    "addr:full":"8620 N 22nd Ave Phoenix AZ 85021",
+    "addr:housenumber":"8620",
+    "addr:postcode":"85021",
+    "addr:street":"N 22Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.106043,33.561993,-112.106043,33.561993",
     "geom:latitude":33.561993,
     "geom:longitude":-112.106043,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ee4deb86db1014bf33803ca7ca2a684f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168851251,
-    "wof:lastmodified":1466325808,
+    "wof:lastmodified":1491888246,
     "wof:name":"Stan Chart Mortgage Co",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

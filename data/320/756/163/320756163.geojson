@@ -2,9 +2,14 @@
   "id": 320756163,
   "type": "Feature",
   "properties": {
+    "addr:full":"4031 N 40th St Phoenix AZ 85018",
+    "addr:housenumber":"4031",
+    "addr:postcode":"85018",
+    "addr:street":"N 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.995461,33.493624,-111.995461,33.493624",
     "geom:latitude":33.493624,
     "geom:longitude":-111.995461,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -34,7 +40,7 @@
     "wof:geomhash":"63415c702bda27da0d6ef28d12134099",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":320756163,
-    "wof:lastmodified":1466328979,
+    "wof:lastmodified":1491890107,
     "wof:name":"Over Easy",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

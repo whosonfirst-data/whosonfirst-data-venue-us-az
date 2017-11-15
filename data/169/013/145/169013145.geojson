@@ -2,9 +2,14 @@
   "id": 169013145,
   "type": "Feature",
   "properties": {
+    "addr:full":"9728 W Palmeras Dr Sun City AZ 85373",
+    "addr:housenumber":"9728",
+    "addr:postcode":"85373",
+    "addr:street":"W Palmeras Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.268679,33.643031,-112.268679,33.643031",
     "geom:latitude":33.643031,
     "geom:longitude":-112.268679,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"b5cf4dc004fc6d1dbf47d6092db85d48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":169013145
         }
     ],
     "wof:id":169013145,
-    "wof:lastmodified":1466327144,
+    "wof:lastmodified":1491896365,
     "wof:name":"St Elizabeth Seton Church",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

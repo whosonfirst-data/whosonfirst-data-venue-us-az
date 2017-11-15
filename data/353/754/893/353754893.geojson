@@ -2,9 +2,14 @@
   "id": 353754893,
   "type": "Feature",
   "properties": {
+    "addr:full":"10320 W Mcdowell Rd Avondale AZ 85392",
+    "addr:housenumber":"10320",
+    "addr:postcode":"85392",
+    "addr:street":"W Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.28488,33.464589,-112.28488,33.464589",
     "geom:latitude":33.464589,
     "geom:longitude":-112.28488,
@@ -41,8 +46,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -54,17 +60,17 @@
     "wof:geomhash":"bf06e9a835ba032f3be595ca598ed1c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353754893
         }
     ],
     "wof:id":353754893,
-    "wof:lastmodified":1466330289,
+    "wof:lastmodified":1491934632,
     "wof:name":"American Family Insurance- Arthur Barcelo Ii Agency",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

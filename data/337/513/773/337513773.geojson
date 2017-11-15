@@ -2,9 +2,14 @@
   "id": 337513773,
   "type": "Feature",
   "properties": {
+    "addr:full":"10749 N Scottsdale Rd Ste 101 Scottsdale AZ 85254",
+    "addr:housenumber":"10749",
+    "addr:postcode":"85254",
+    "addr:street":"N Scottsdale Rd Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.925934,33.583537,-111.925934,33.583537",
     "geom:latitude":33.583537,
     "geom:longitude":-111.925934,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"7dc9f76d228ec1873e553007f9437a47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":337513773,
-    "wof:lastmodified":1466326367,
+    "wof:lastmodified":1491912684,
     "wof:name":"Sweet Basil Gourmetware",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

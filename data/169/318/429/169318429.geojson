@@ -2,9 +2,14 @@
   "id": 169318429,
   "type": "Feature",
   "properties": {
+    "addr:full":"10380 N Hayden Rd Scottsdale AZ 85258",
+    "addr:housenumber":"10380",
+    "addr:postcode":"85258",
+    "addr:street":"N Hayden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.908749,33.580809,-111.908749,33.580809",
     "geom:latitude":33.580809,
     "geom:longitude":-111.908749,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0bdcba7c764e4baad86cc97a80ac744a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169318429,
-    "wof:lastmodified":1466333194,
+    "wof:lastmodified":1491912674,
     "wof:name":"Mc Cormick Ranch Animal",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

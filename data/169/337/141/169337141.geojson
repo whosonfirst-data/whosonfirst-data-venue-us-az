@@ -2,9 +2,14 @@
   "id": 169337141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2030 S Dromedary Dr Tempe AZ 85282",
+    "addr:housenumber":"2030",
+    "addr:postcode":"85282",
+    "addr:street":"S Dromedary Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.942932,33.406179,-111.942932,33.406179",
     "geom:latitude":33.406179,
     "geom:longitude":-111.942932,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ebb89be25b0a45ebf8bb7ae8d05b8d9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169337141,
-    "wof:lastmodified":1466333319,
+    "wof:lastmodified":1491927148,
     "wof:name":"Center Of Naturopath Arts",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",

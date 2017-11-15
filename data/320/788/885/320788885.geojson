@@ -2,9 +2,14 @@
   "id": 320788885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2033 W Mountain View Rd Phoenix AZ 85021",
+    "addr:housenumber":"2033",
+    "addr:postcode":"85021",
+    "addr:street":"W Mountain View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.102491,33.574839,-112.102491,33.574839",
     "geom:latitude":33.574839,
     "geom:longitude":-112.102491,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"67f4a9a5afcc1e11165a2b523e9e099e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320788885,
-    "wof:lastmodified":1466329522,
+    "wof:lastmodified":1491888137,
     "wof:name":"Red Hawk Aviation",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

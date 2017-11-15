@@ -2,9 +2,14 @@
   "id": 169138001,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 N College Ave Tempe AZ 85281",
+    "addr:housenumber":"919",
+    "addr:postcode":"85281",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.930565,33.439517,-111.930565,33.439517",
     "geom:latitude":33.439517,
     "geom:longitude":-111.930565,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"0a2bde50cdf477bb7693f1c2ba445a85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169138001
         }
     ],
     "wof:id":169138001,
-    "wof:lastmodified":1466331465,
+    "wof:lastmodified":1491905183,
     "wof:name":"V Underground",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

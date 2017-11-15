@@ -2,9 +2,14 @@
   "id": 152986081,
   "type": "Feature",
   "properties": {
+    "addr:full":"4222 N 34th Pl Phoenix AZ 85018",
+    "addr:housenumber":"4222",
+    "addr:postcode":"85018",
+    "addr:street":"N 34Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.007774,33.497119,-112.007774,33.497119",
     "geom:latitude":33.497119,
     "geom:longitude":-112.007774,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7c23c5255a15fdac79242a006b2336d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152986081,
-    "wof:lastmodified":1466329288,
+    "wof:lastmodified":1491890209,
     "wof:name":"Realmdesign",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

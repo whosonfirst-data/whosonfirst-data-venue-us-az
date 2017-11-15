@@ -2,9 +2,14 @@
   "id": 353592587,
   "type": "Feature",
   "properties": {
+    "addr:full":"8710 W Maryland Ave Glendale AZ 85305",
+    "addr:housenumber":"8710",
+    "addr:postcode":"85305",
+    "addr:street":"W Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.246246,33.528069,-112.246246,33.528069",
     "geom:latitude":33.528069,
     "geom:longitude":-112.246246,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"dad62710c7bb628fa7bf6db74bddad18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353592587,
-    "wof:lastmodified":1466328408,
+    "wof:lastmodified":1491936196,
     "wof:name":"Par Golf",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

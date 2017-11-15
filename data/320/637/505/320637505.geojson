@@ -2,9 +2,14 @@
   "id": 320637505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 W Watkins St Phoenix AZ 85007",
+    "addr:housenumber":"1310",
+    "addr:postcode":"85007",
+    "addr:street":"W Watkins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.089834,33.425796,-112.089834,33.425796",
     "geom:latitude":33.425796,
     "geom:longitude":-112.089834,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"015b45f3be889acfea1987d9979d2bed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320637505,
-    "wof:lastmodified":1466327830,
+    "wof:lastmodified":1491917058,
     "wof:name":"Xeriscapes Unlimited, Inc.",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169075303,
   "type": "Feature",
   "properties": {
+    "addr:full":"3438 E Yale St Phoenix AZ 85008",
+    "addr:housenumber":"3438",
+    "addr:postcode":"85008",
+    "addr:street":"E Yale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.004932,33.475944,-112.004932,33.475944",
     "geom:latitude":33.475944,
     "geom:longitude":-112.004932,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"8c2ef6cd403f26fb476e8c6b1cfc3f5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169075303,
-    "wof:lastmodified":1466329997,
+    "wof:lastmodified":1491890295,
     "wof:name":"Sallys",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

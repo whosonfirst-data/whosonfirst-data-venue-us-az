@@ -2,9 +2,14 @@
   "id": 336750323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1133 N Dobson Rd Mesa AZ 85201",
+    "addr:housenumber":"1133",
+    "addr:postcode":"85201",
+    "addr:street":"N Dobson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.869507,33.435761,-111.869507,33.435761",
     "geom:latitude":33.435761,
     "geom:longitude":-111.869507,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"182482f909be109e9a7fd5a5b2ef4ae1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336750323
         }
     ],
     "wof:id":336750323,
-    "wof:lastmodified":1466328806,
+    "wof:lastmodified":1491898465,
     "wof:name":"Tracker Marine Boat Center",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

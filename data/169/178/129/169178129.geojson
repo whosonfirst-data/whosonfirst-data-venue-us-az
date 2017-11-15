@@ -2,9 +2,14 @@
   "id": 169178129,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 N 32nd St Phoenix AZ 85018",
+    "addr:housenumber":"4515",
+    "addr:postcode":"85018",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.012911,33.503132,-112.012911,33.503132",
     "geom:latitude":33.503132,
     "geom:longitude":-112.012911,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,6 +55,7 @@
     "wof:geomhash":"f984685fac7a374d3f981a2d8b3a5ea7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":169178129,
-    "wof:lastmodified":1466332158,
+    "wof:lastmodified":1491890198,
     "wof:name":"Everlasting Facial Art",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

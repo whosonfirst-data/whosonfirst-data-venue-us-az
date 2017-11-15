@@ -2,9 +2,14 @@
   "id": 169235227,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 W Balboa Dr Tempe AZ 85282",
+    "addr:housenumber":"133",
+    "addr:postcode":"85282",
+    "addr:street":"W Balboa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.942289,33.399229,-111.942289,33.399229",
     "geom:latitude":33.399229,
     "geom:longitude":-111.942289,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"119fcef291398ecffe9363b9d1ae786f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169235227,
-    "wof:lastmodified":1466332438,
+    "wof:lastmodified":1491933766,
     "wof:name":"R S W Enterprises Inc",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

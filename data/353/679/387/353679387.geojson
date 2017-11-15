@@ -2,9 +2,14 @@
   "id": 353679387,
   "type": "Feature",
   "properties": {
+    "addr:full":"8426 W Cocopah St Tolleson AZ 85353",
+    "addr:housenumber":"8426",
+    "addr:postcode":"85353",
+    "addr:street":"W Cocopah St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.241319,33.432313,-112.241319,33.432313",
     "geom:latitude":33.432313,
     "geom:longitude":-112.241319,
@@ -44,8 +49,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -57,17 +63,17 @@
     "wof:geomhash":"4d05be16afcb5aeb917e339a101f6fca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353679387
         }
     ],
     "wof:id":353679387,
-    "wof:lastmodified":1466329460,
+    "wof:lastmodified":1491934736,
     "wof:name":"Angel's House Cleaning Services",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

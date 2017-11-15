@@ -2,9 +2,14 @@
   "id": 153082699,
   "type": "Feature",
   "properties": {
+    "addr:full":"5046 W Orangewood Ave Glendale AZ 85301",
+    "addr:housenumber":"5046",
+    "addr:postcode":"85301",
+    "addr:street":"W Orangewood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.165662,33.545817,-112.165662,33.545817",
     "geom:latitude":33.545817,
     "geom:longitude":-112.165662,
@@ -31,11 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
-        85877783,
-        85845677
+        85845677,
+        85877783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +51,28 @@
     "wof:geomhash":"bd3ef3a83c0b74b971d6fe9b9b9d3677",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917509,
-            "neighbourhood_id":85877783,
-            "region_id":85688719,
-            "venue_id":153082699
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
             "neighbourhood_id":85845677,
             "region_id":85688719,
             "venue_id":153082699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917509,
+            "neighbourhood_id":85877783,
+            "region_id":85688719,
+            "venue_id":153082699
         }
     ],
     "wof:id":153082699,
-    "wof:lastmodified":1466329212,
+    "wof:lastmodified":1491912749,
     "wof:name":"First Class Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

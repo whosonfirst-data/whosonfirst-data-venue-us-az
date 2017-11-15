@@ -2,9 +2,14 @@
   "id": 169090243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 W Ocotillo Rd Phoenix AZ 85013",
+    "addr:housenumber":"1201",
+    "addr:postcode":"85013",
+    "addr:street":"W Ocotillo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.090035,33.534861,-112.090035,33.534861",
     "geom:latitude":33.534861,
     "geom:longitude":-112.090035,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b90ac39b3518ec339b48bb1a9786d703",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169090243,
-    "wof:lastmodified":1466330715,
+    "wof:lastmodified":1491913560,
     "wof:name":"Rockcandles Co",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

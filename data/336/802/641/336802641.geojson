@@ -2,9 +2,14 @@
   "id": 336802641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4858 E Baseline Rd # 105 Mesa AZ 85206",
+    "addr:housenumber":"4858",
+    "addr:postcode":"85206",
+    "addr:street":"E Baseline Rd # 105",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.72911,33.379233,-111.72911,33.379233",
     "geom:latitude":33.379233,
     "geom:longitude":-111.72911,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -52,7 +58,7 @@
     "wof:geomhash":"ade6042bffd99678f9d2b6753dfbb966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":336802641,
-    "wof:lastmodified":1466329392,
+    "wof:lastmodified":1491913657,
     "wof:name":"Palm West Golf",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

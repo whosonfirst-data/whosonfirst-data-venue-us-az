@@ -2,9 +2,14 @@
   "id": 336789403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1758 S Val Vista Drive Mesa AZ 85204",
+    "addr:housenumber":"1758",
+    "addr:postcode":"85204",
+    "addr:street":"S Val Vista Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.754153,33.383132,-111.754153,33.383132",
     "geom:latitude":33.383132,
     "geom:longitude":-111.754153,
@@ -85,6 +90,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -99,7 +105,7 @@
     "wof:geomhash":"cab52658896a61c48a661ce507aacb11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":336789403,
-    "wof:lastmodified":1466329289,
+    "wof:lastmodified":1491913655,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337542787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1184 N 73rd Pl Ste 115 Scottsdale AZ 85257",
+    "addr:housenumber":"1184",
+    "addr:postcode":"85257",
+    "addr:street":"N 73Rd Pl Ste 115",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.922236,33.460484,-111.922236,33.460484",
     "geom:latitude":33.460484,
     "geom:longitude":-111.922236,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"6403405e2a61ac9ff6efeb04e534d6a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337542787
         }
     ],
     "wof:id":337542787,
-    "wof:lastmodified":1466326629,
+    "wof:lastmodified":1491905223,
     "wof:name":"Art Solutions & Installation",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

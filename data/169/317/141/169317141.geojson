@@ -2,9 +2,14 @@
   "id": 169317141,
   "type": "Feature",
   "properties": {
+    "addr:full":"9620 S 27th Ave Laveen AZ 85339",
+    "addr:housenumber":"9620",
+    "addr:postcode":"85339",
+    "addr:street":"S 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117706,33.360733,-112.117706,33.360733",
     "geom:latitude":33.360733,
     "geom:longitude":-112.117706,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ad7f07149adfe6e0732518dcc6aaf4c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169317141,
-    "wof:lastmodified":1466333133,
+    "wof:lastmodified":1491900193,
     "wof:name":"Burning Bush Ministries",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

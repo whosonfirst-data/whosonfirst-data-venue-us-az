@@ -2,9 +2,14 @@
   "id": 168864811,
   "type": "Feature",
   "properties": {
+    "addr:full":"4926 E Thunderbird Dr Chandler AZ 85249",
+    "addr:housenumber":"4926",
+    "addr:postcode":"85249",
+    "addr:street":"E Thunderbird Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.75831,33.216017,-111.75831,33.216017",
     "geom:latitude":33.216017,
     "geom:longitude":-111.75831,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -46,6 +52,7 @@
     "wof:geomhash":"bfe2282b140f65c6d7d1de9ce46ffcbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":168864811,
-    "wof:lastmodified":1466327005,
+    "wof:lastmodified":1491886949,
     "wof:name":"Green 2 Crystal Clear",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

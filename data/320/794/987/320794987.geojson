@@ -2,9 +2,14 @@
   "id": 320794987,
   "type": "Feature",
   "properties": {
+    "addr:full":"2355 E Evans Dr Phoenix AZ 85022",
+    "addr:housenumber":"2355",
+    "addr:postcode":"85022",
+    "addr:street":"E Evans Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.032337,33.618351,-112.032337,33.618351",
     "geom:latitude":33.618351,
     "geom:longitude":-112.032337,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"5807e097c567c4bea721b65a24d7c0d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":320794987,
-    "wof:lastmodified":1466329749,
+    "wof:lastmodified":1491932182,
     "wof:name":"Aaa Wisely Blind Cleaning",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

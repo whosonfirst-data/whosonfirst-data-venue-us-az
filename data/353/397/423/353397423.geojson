@@ -2,9 +2,14 @@
   "id": 353397423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1842 E 3rd St Ste 101 Tempe AZ 85281",
+    "addr:housenumber":"1842",
+    "addr:postcode":"85281",
+    "addr:street":"E 3Rd St Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.906667,33.427407,-111.906667,33.427407",
     "geom:latitude":33.427407,
     "geom:longitude":-111.906667,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"420c5364b0876c8635c5365403362292",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":353397423,
-    "wof:lastmodified":1466326242,
+    "wof:lastmodified":1491935598,
     "wof:name":"Sturman Enterprises",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

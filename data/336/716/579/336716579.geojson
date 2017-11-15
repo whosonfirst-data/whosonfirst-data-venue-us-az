@@ -2,9 +2,14 @@
   "id": 336716579,
   "type": "Feature",
   "properties": {
+    "addr:full":"9018 N 39th Ave Phoenix AZ 85051",
+    "addr:housenumber":"9018",
+    "addr:postcode":"85051",
+    "addr:street":"N 39Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.14291,33.56826,-112.14291,33.56826",
     "geom:latitude":33.56826,
     "geom:longitude":-112.14291,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"17b564450200404c6ec5b91ef5cc849f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336716579,
-    "wof:lastmodified":1466328291,
+    "wof:lastmodified":1491888227,
     "wof:name":"Rns Improvements",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

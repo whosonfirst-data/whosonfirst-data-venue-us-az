@@ -2,9 +2,14 @@
   "id": 353685383,
   "type": "Feature",
   "properties": {
+    "addr:full":"9102 W Taylor Street Tolleson AZ 85353",
+    "addr:housenumber":"9102",
+    "addr:postcode":"85353",
+    "addr:street":"W Taylor Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.25554,33.452406,-112.25554,33.452406",
     "geom:latitude":33.452406,
     "geom:longitude":-112.25554,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"a5e6092f3ca85de4fd4888898d7c6953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353685383
         }
     ],
     "wof:id":353685383,
-    "wof:lastmodified":1466329506,
+    "wof:lastmodified":1491934742,
     "wof:name":"Sunshine Market",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

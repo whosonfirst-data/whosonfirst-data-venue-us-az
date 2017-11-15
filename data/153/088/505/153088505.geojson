@@ -2,9 +2,14 @@
   "id": 153088505,
   "type": "Feature",
   "properties": {
+    "addr:full":"7355 E Ironwood Ct Scottsdale AZ 85258",
+    "addr:housenumber":"7355",
+    "addr:postcode":"85258",
+    "addr:street":"E Ironwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.921713,33.576206,-111.921713,33.576206",
     "geom:latitude":33.576206,
     "geom:longitude":-111.921713,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"fd73b72b2d61d22cce66125d6ab24265",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":153088505,
-    "wof:lastmodified":1466329228,
+    "wof:lastmodified":1491912728,
     "wof:name":"Sally Schaefer Interior Dsgn",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

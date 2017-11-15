@@ -2,9 +2,14 @@
   "id": 169312355,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 W 5th St Tempe AZ 85281",
+    "addr:housenumber":"715",
+    "addr:postcode":"85281",
+    "addr:street":"W 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.948569,33.425419,-111.948569,33.425419",
     "geom:latitude":33.425419,
     "geom:longitude":-111.948569,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e22e4eb3c091de76d3e71b72f35ee0be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169312355,
-    "wof:lastmodified":1466333118,
+    "wof:lastmodified":1491905615,
     "wof:name":"Sun Eagle Corp",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",

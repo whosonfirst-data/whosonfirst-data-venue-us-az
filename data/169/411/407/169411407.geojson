@@ -2,9 +2,14 @@
   "id": 169411407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1375 N Hayden Rd Scottsdale AZ 85257",
+    "addr:housenumber":"1375",
+    "addr:postcode":"85257",
+    "addr:street":"N Hayden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.908825,33.463138,-111.908825,33.463138",
     "geom:latitude":33.463138,
     "geom:longitude":-111.908825,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"d5829a85dda7b1249ddf984f2b004f18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169411407
         }
     ],
     "wof:id":169411407,
-    "wof:lastmodified":1466333732,
+    "wof:lastmodified":1491905184,
     "wof:name":"Fedex",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

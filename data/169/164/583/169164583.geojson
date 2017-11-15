@@ -2,9 +2,14 @@
   "id": 169164583,
   "type": "Feature",
   "properties": {
+    "addr:full":"5416 W Golden Ln Glendale AZ 85302",
+    "addr:housenumber":"5416",
+    "addr:postcode":"85302",
+    "addr:street":"W Golden Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.175675,33.56543,-112.175675,33.56543",
     "geom:latitude":33.56543,
     "geom:longitude":-112.175675,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"aa83f3a5ad3b2b4f3adf355b9fff5116",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169164583,
-    "wof:lastmodified":1466331877,
+    "wof:lastmodified":1491901763,
     "wof:name":"Sun City Maintenance",
     "wof:parent_id":85858249,
     "wof:placetype":"venue",

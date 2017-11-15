@@ -2,9 +2,14 @@
   "id": 337448157,
   "type": "Feature",
   "properties": {
+    "addr:full":"6601 W Indian School Road Phoenix AZ 85033",
+    "addr:housenumber":"6601",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.201117,33.494842,-112.201117,33.494842",
     "geom:latitude":33.494842,
     "geom:longitude":-112.201117,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"fde66189f89e6f54b4a815a7677694db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":337448157
         }
     ],
     "wof:id":337448157,
-    "wof:lastmodified":1466325929,
+    "wof:lastmodified":1491934719,
     "wof:name":"Vina Nails",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

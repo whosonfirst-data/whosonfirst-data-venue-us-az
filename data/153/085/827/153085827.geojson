@@ -2,9 +2,14 @@
   "id": 153085827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2443 W 12th St Tempe AZ 85281",
+    "addr:housenumber":"2443",
+    "addr:postcode":"85281",
+    "addr:street":"W 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.973722,33.415989,-111.973722,33.415989",
     "geom:latitude":33.415989,
     "geom:longitude":-111.973722,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c013a23477a81e816bdc6725af627039",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153085827,
-    "wof:lastmodified":1466329095,
+    "wof:lastmodified":1491909696,
     "wof:name":"Bayer Systems",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

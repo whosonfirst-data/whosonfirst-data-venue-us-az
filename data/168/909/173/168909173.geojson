@@ -2,9 +2,14 @@
   "id": 168909173,
   "type": "Feature",
   "properties": {
+    "addr:full":"7530 W Bell Rd Glendale AZ 85308",
+    "addr:housenumber":"7530",
+    "addr:postcode":"85308",
+    "addr:street":"W Bell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.223902,33.638283,-112.223902,33.638283",
     "geom:latitude":33.638283,
     "geom:longitude":-112.223902,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"a24b054cddca5e7804f10b7e182b30de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":168909173
         }
     ],
     "wof:id":168909173,
-    "wof:lastmodified":1466329917,
+    "wof:lastmodified":1491896388,
     "wof:name":"Space Maker Wall Beds",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

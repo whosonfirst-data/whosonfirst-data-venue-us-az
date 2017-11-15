@@ -2,9 +2,14 @@
   "id": 353453185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2615 S Industrial Park Ave Tempe AZ 85282",
+    "addr:housenumber":"2615",
+    "addr:postcode":"85282",
+    "addr:street":"S Industrial Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.955213,33.400156,-111.955213,33.400156",
     "geom:latitude":33.400156,
     "geom:longitude":-111.955213,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -52,7 +58,7 @@
     "wof:geomhash":"8d23cb8462dfbf7b9755662ab86f37ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353453185,
-    "wof:lastmodified":1466326673,
+    "wof:lastmodified":1491909709,
     "wof:name":"Telgian Corporation",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

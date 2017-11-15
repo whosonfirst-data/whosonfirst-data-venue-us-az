@@ -2,9 +2,14 @@
   "id": 336878033,
   "type": "Feature",
   "properties": {
+    "addr:full":"2006 E Frye Rd Chandler AZ 85225",
+    "addr:housenumber":"2006",
+    "addr:postcode":"85225",
+    "addr:street":"E Frye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.806102,33.299746,-111.806102,33.299746",
     "geom:latitude":33.299746,
     "geom:longitude":-111.806102,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"dc66691ad7aa83e5120bda69bd0d005d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336878033,
-    "wof:lastmodified":1466330265,
+    "wof:lastmodified":1491903016,
     "wof:name":"NR Quality Handyman",
     "wof:parent_id":85811905,
     "wof:placetype":"venue",

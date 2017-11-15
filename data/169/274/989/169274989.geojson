@@ -2,9 +2,14 @@
   "id": 169274989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1863 E 6th St Tempe AZ 85281",
+    "addr:housenumber":"1863",
+    "addr:postcode":"85281",
+    "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.905821,33.42489,-111.905821,33.42489",
     "geom:latitude":33.42489,
     "geom:longitude":-111.905821,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0579eefc2f29f18a4ce947173f612d26",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169274989,
-    "wof:lastmodified":1466332808,
+    "wof:lastmodified":1491935584,
     "wof:name":"Budget Towing",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

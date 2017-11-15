@@ -2,9 +2,14 @@
   "id": 337581253,
   "type": "Feature",
   "properties": {
+    "addr:full":"11228 N 74th St Scottsdale AZ 85260",
+    "addr:housenumber":"11228",
+    "addr:postcode":"85260",
+    "addr:street":"N 74Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.921638,33.588645,-111.921638,33.588645",
     "geom:latitude":33.588645,
     "geom:longitude":-111.921638,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4f7484c7041c977df3b5984c84bd6422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":337581253,
-    "wof:lastmodified":1466326948,
+    "wof:lastmodified":1491912666,
     "wof:name":"Jack Of Clubs",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

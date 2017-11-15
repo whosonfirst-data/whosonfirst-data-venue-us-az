@@ -2,9 +2,14 @@
   "id": 169350761,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 N Wedgewood Dr Mesa AZ 85203",
+    "addr:housenumber":"915",
+    "addr:postcode":"85203",
+    "addr:street":"N Wedgewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.822433,33.431216,-111.822433,33.431216",
     "geom:latitude":33.431216,
     "geom:longitude":-111.822433,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"178823f8dba1f9d000c18a6bc871ee71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169350761,
-    "wof:lastmodified":1466333514,
+    "wof:lastmodified":1491893366,
     "wof:name":"L & L AC Htg & HM Repr",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

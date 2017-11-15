@@ -2,9 +2,14 @@
   "id": 169411085,
   "type": "Feature",
   "properties": {
+    "addr:full":"15310 E Thistle Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15310",
+    "addr:postcode":"85268",
+    "addr:street":"E Thistle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.749421,33.602733,-111.749421,33.602733",
     "geom:latitude":33.602733,
     "geom:longitude":-111.749421,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ee8db4b691dfab5a2470db204805182e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169411085,
-    "wof:lastmodified":1466333700,
+    "wof:lastmodified":1491939281,
     "wof:name":"Amigo Construction Co",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

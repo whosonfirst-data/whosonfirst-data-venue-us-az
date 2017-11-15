@@ -2,9 +2,14 @@
   "id": 353656033,
   "type": "Feature",
   "properties": {
+    "addr:full":"9409 S 37th Ln Laveen AZ 85339",
+    "addr:housenumber":"9409",
+    "addr:postcode":"85339",
+    "addr:street":"S 37Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.140415,33.3613,-112.140415,33.3613",
     "geom:latitude":33.3613,
     "geom:longitude":-112.140415,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,7 +53,7 @@
     "wof:geomhash":"fad59d0fe39154b0675e91c1c92b67bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":353656033,
-    "wof:lastmodified":1466329226,
+    "wof:lastmodified":1491900161,
     "wof:name":"A.O.A. Heating And Cooling",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

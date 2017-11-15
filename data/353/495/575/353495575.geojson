@@ -2,9 +2,14 @@
   "id": 353495575,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 S McClintock Drive Tempe AZ 85283",
+    "addr:housenumber":"6000",
+    "addr:postcode":"85283",
+    "addr:street":"S Mcclintock Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.911236,33.367831,-111.911236,33.367831",
     "geom:latitude":33.367831,
     "geom:longitude":-111.911236,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"bcbb63bc52f310fb3cab0bcd7ac98d04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353495575
         }
     ],
     "wof:id":353495575,
-    "wof:lastmodified":1466327093,
+    "wof:lastmodified":1491918185,
     "wof:name":"Pantzer Barry L Chrprctr",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

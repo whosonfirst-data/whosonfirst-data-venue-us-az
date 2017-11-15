@@ -2,9 +2,14 @@
   "id": 757002349,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 North Racine Avenue #200 Chicago AZ 60607",
+    "addr:housenumber":"30",
+    "addr:postcode":"60607",
+    "addr:street":"North Racine Avenue # 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.656772,41.88191,-87.656772,41.88191",
     "geom:latitude":41.88191,
     "geom:longitude":-87.656772,
@@ -42,6 +47,7 @@
         404496273,
         85633793,
         85940195,
+        957979099,
         102084317,
         85688697
     ],
@@ -54,6 +60,7 @@
     "wof:geomhash":"5bcb6a86609a58c0a732416365b984e9",
     "wof:hierarchy":[
         {
+            "borough_id":957979099,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":757002349,
-    "wof:lastmodified":1466326454,
+    "wof:lastmodified":1491369257,
     "wof:name":"37signals",
     "wof:parent_id":85866927,
     "wof:placetype":"venue",

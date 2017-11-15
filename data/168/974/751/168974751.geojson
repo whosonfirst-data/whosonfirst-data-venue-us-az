@@ -2,9 +2,14 @@
   "id": 168974751,
   "type": "Feature",
   "properties": {
+    "addr:full":"12159 N 120th Way Scottsdale AZ 85259",
+    "addr:housenumber":"12159",
+    "addr:postcode":"85259",
+    "addr:street":"N 120Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.820643,33.596398,-111.820643,33.596398",
     "geom:latitude":33.596398,
     "geom:longitude":-111.820643,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"504400d950ec7f39a6c73eaf297cee12",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168974751,
-    "wof:lastmodified":1466331295,
+    "wof:lastmodified":1491939317,
     "wof:name":"Ascot Partners Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

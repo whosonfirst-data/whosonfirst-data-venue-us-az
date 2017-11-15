@@ -2,9 +2,14 @@
   "id": 169226651,
   "type": "Feature",
   "properties": {
+    "addr:full":"14025 N 7th St Phoenix AZ 85022",
+    "addr:housenumber":"14025",
+    "addr:postcode":"85022",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.065355,33.613158,-112.065355,33.613158",
     "geom:latitude":33.613158,
     "geom:longitude":-112.065355,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"98ce72a40ddc182f33d03c5477cee802",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169226651,
-    "wof:lastmodified":1466332316,
+    "wof:lastmodified":1491897085,
     "wof:name":"Moon Valley Nurseries Inc",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

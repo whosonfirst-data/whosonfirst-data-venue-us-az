@@ -2,9 +2,14 @@
   "id": 337631403,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 W 17th St Tempe AZ 85281",
+    "addr:housenumber":"1501",
+    "addr:postcode":"85281",
+    "addr:street":"W 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.962447,33.409749,-111.962447,33.409749",
     "geom:latitude":33.409749,
     "geom:longitude":-111.962447,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cbb6c0bdc8250a4f354899b91bf639a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337631403,
-    "wof:lastmodified":1466327383,
+    "wof:lastmodified":1491909679,
     "wof:name":"Directv Home Services",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

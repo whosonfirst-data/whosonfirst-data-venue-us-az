@@ -2,9 +2,14 @@
   "id": 353602075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3615 W Firehawk Dr Glendale AZ 85308",
+    "addr:housenumber":"3615",
+    "addr:postcode":"85308",
+    "addr:street":"W Firehawk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.139717,33.683203,-112.139717,33.683203",
     "geom:latitude":33.683203,
     "geom:longitude":-112.139717,
@@ -43,6 +48,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -56,7 +62,7 @@
     "wof:geomhash":"ed9bdfbc449115cfcddf37d023b9c2da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":353602075,
-    "wof:lastmodified":1466328550,
+    "wof:lastmodified":1491902682,
     "wof:name":"A&W Computer Networks",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

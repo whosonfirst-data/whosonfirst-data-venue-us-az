@@ -2,9 +2,14 @@
   "id": 337588351,
   "type": "Feature",
   "properties": {
+    "addr:full":"14000 N 94th St # 351004 Scottsdale AZ 85260",
+    "addr:housenumber":"14000",
+    "addr:postcode":"85260",
+    "addr:street":"N 94Th St # 351004",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.878448,33.613338,-111.878448,33.613338",
     "geom:latitude":33.613338,
     "geom:longitude":-111.878448,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"291762fd8235f6f1808d95e36806de75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":337588351,
-    "wof:lastmodified":1466327010,
+    "wof:lastmodified":1491908448,
     "wof:name":"Alternatives For Life, Inc.",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

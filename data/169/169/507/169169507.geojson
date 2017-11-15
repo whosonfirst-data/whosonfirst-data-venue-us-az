@@ -2,9 +2,14 @@
   "id": 169169507,
   "type": "Feature",
   "properties": {
+    "addr:full":"10197 E Meadow Hill Dr Scottsdale AZ 85260",
+    "addr:housenumber":"10197",
+    "addr:postcode":"85260",
+    "addr:street":"E Meadow Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.861251,33.612527,-111.861251,33.612527",
     "geom:latitude":33.612527,
     "geom:longitude":-111.861251,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4b70874fa659c8c9792e51a8df67152b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169169507,
-    "wof:lastmodified":1466331875,
+    "wof:lastmodified":1491908445,
     "wof:name":"Tetris Development Inc",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

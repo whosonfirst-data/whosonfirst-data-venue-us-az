@@ -2,9 +2,14 @@
   "id": 169417955,
   "type": "Feature",
   "properties": {
+    "addr:full":"12216 N 64th St Scottsdale AZ 85254",
+    "addr:housenumber":"12216",
+    "addr:postcode":"85254",
+    "addr:street":"N 64Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.943388,33.6003,-111.943388,33.6003",
     "geom:latitude":33.6003,
     "geom:longitude":-111.943388,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"81a7f8565a248a2bb5b1853f805c454c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169417955,
-    "wof:lastmodified":1466334179,
+    "wof:lastmodified":1491912710,
     "wof:name":"Fait Enterprises Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

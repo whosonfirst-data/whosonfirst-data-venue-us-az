@@ -2,9 +2,14 @@
   "id": 320609375,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 E Pima St Phoenix AZ 85004",
+    "addr:housenumber":"324",
+    "addr:postcode":"85004",
+    "addr:street":"E Pima St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.069252,33.433153,-112.069252,33.433153",
     "geom:latitude":33.433153,
     "geom:longitude":-112.069252,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"95f1a6efebc0631025637dd4aae75d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320609375,
-    "wof:lastmodified":1466325993,
+    "wof:lastmodified":1491917128,
     "wof:name":"B T C Constr",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

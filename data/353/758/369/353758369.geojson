@@ -2,9 +2,14 @@
   "id": 353758369,
   "type": "Feature",
   "properties": {
+    "addr:full":"10750 W Mcdowell Rd Bldg E Avondale AZ 85392",
+    "addr:housenumber":"10750",
+    "addr:postcode":"85392",
+    "addr:street":"W Mcdowell Rd Bldg E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.291021,33.464477,-112.291021,33.464477",
     "geom:latitude":33.464477,
     "geom:longitude":-112.291021,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"3959e1f37c390c676aeb38bff7e987a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353758369
         }
     ],
     "wof:id":353758369,
-    "wof:lastmodified":1466330299,
+    "wof:lastmodified":1491934659,
     "wof:name":"Fresenius Medical Care - Avondale",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

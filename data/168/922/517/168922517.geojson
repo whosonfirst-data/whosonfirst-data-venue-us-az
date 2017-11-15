@@ -2,9 +2,14 @@
   "id": 168922517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4331 E Baseline Rd Gilbert AZ 85234",
+    "addr:housenumber":"4331",
+    "addr:postcode":"85234",
+    "addr:street":"E Baseline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.742422,33.379109,-111.742422,33.379109",
     "geom:latitude":33.379109,
     "geom:longitude":-111.742422,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"bdbee47af79146c07c42734280f957f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168922517,
-    "wof:lastmodified":1466330419,
+    "wof:lastmodified":1491913655,
     "wof:name":"Arizona Conservative Times",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

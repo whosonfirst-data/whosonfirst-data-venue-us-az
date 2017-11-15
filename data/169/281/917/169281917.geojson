@@ -2,9 +2,14 @@
   "id": 169281917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 W Buckeye Rd Phoenix AZ 85007",
+    "addr:housenumber":"1330",
+    "addr:postcode":"85007",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.089894,33.436827,-112.089894,33.436827",
     "geom:latitude":33.436827,
     "geom:longitude":-112.089894,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"eb1652602957dfa692b929d5f987b303",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169281917,
-    "wof:lastmodified":1466332865,
+    "wof:lastmodified":1491917045,
     "wof:name":"Tempie Wade Memorial Church",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169032107,
   "type": "Feature",
   "properties": {
+    "addr:full":"10291 E Desert Cove Ave Scottsdale AZ 85260",
+    "addr:housenumber":"10291",
+    "addr:postcode":"85260",
+    "addr:street":"E Desert Cove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.857462,33.586017,-111.857462,33.586017",
     "geom:latitude":33.586017,
     "geom:longitude":-111.857462,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0931a235d13287f0045205ad0c4693e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169032107,
-    "wof:lastmodified":1466327053,
+    "wof:lastmodified":1491931826,
     "wof:name":"Advanced Desert Designs Inc",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

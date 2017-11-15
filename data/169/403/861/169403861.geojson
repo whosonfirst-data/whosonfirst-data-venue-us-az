@@ -2,9 +2,14 @@
   "id": 169403861,
   "type": "Feature",
   "properties": {
+    "addr:full":"2046 S 15th Ave Phoenix AZ 85007",
+    "addr:housenumber":"2046",
+    "addr:postcode":"85007",
+    "addr:street":"S 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.091195,33.428595,-112.091195,33.428595",
     "geom:latitude":33.428595,
     "geom:longitude":-112.091195,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a8aaf52ba4c642a75dc3616cb79da112",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169403861,
-    "wof:lastmodified":1466334070,
+    "wof:lastmodified":1491917171,
     "wof:name":"Fx Environmental Products Corp",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

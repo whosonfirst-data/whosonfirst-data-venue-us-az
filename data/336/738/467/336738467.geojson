@@ -2,9 +2,14 @@
   "id": 336738467,
   "type": "Feature",
   "properties": {
+    "addr:full":"28021 N 23rd Dr Phoenix AZ 85085",
+    "addr:housenumber":"28021",
+    "addr:postcode":"85085",
+    "addr:street":"N 23Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.108757,33.738392,-112.108757,33.738392",
     "geom:latitude":33.738392,
     "geom:longitude":-112.108757,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"ae24d4ef9ba1650a6b758ce21b608d8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336738467,
-    "wof:lastmodified":1466328597,
+    "wof:lastmodified":1491934253,
     "wof:name":"Integrated Education Foundation, Inc.",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

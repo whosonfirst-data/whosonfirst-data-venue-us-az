@@ -2,9 +2,14 @@
   "id": 169262861,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 W Geneva Dr Tempe AZ 85282",
+    "addr:housenumber":"1424",
+    "addr:postcode":"85282",
+    "addr:street":"W Geneva Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.962207,33.395095,-111.962207,33.395095",
     "geom:latitude":33.395095,
     "geom:longitude":-111.962207,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"aaef76ed09d739c592e5d021550a99f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169262861,
-    "wof:lastmodified":1466332692,
+    "wof:lastmodified":1491909698,
     "wof:name":"One Source Security LLC",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

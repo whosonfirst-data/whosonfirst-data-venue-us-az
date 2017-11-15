@@ -2,9 +2,14 @@
   "id": 353414823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 N Ventura Ln Tempe AZ 85281",
+    "addr:housenumber":"1717",
+    "addr:postcode":"85281",
+    "addr:street":"N Ventura Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.932964,33.449224,-111.932964,33.449224",
     "geom:latitude":33.449224,
     "geom:longitude":-111.932964,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"e995bcf3d0352c824d68deb9d9e030fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":353414823
         }
     ],
     "wof:id":353414823,
-    "wof:lastmodified":1466326373,
+    "wof:lastmodified":1491905210,
     "wof:name":"Nineteen Productions",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

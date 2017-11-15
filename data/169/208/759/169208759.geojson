@@ -2,9 +2,14 @@
   "id": 169208759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4138 N 78th Ave Phoenix AZ 85033",
+    "addr:housenumber":"4138",
+    "addr:postcode":"85033",
+    "addr:street":"N 78Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.227955,33.49562,-112.227955,33.49562",
     "geom:latitude":33.49562,
     "geom:longitude":-112.227955,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"6d8116e6fedca2cd5504849dc7955b90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169208759
         }
     ],
     "wof:id":169208759,
-    "wof:lastmodified":1466332246,
+    "wof:lastmodified":1491934749,
     "wof:name":"JW Custom Furniture",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

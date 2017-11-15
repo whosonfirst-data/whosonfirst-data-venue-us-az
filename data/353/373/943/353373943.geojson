@@ -2,9 +2,14 @@
   "id": 353373943,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 W University Dr Tempe AZ 85281",
+    "addr:housenumber":"711",
+    "addr:postcode":"85281",
+    "addr:street":"W University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.948156,33.421891,-111.948156,33.421891",
     "geom:latitude":33.421891,
     "geom:longitude":-111.948156,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"33a76762ce7485c0955257fedb20e93f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353373943,
-    "wof:lastmodified":1466326054,
+    "wof:lastmodified":1491905617,
     "wof:name":"Youth Arise North America",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",

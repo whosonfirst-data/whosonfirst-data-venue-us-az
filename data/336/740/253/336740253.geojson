@@ -2,9 +2,14 @@
   "id": 336740253,
   "type": "Feature",
   "properties": {
+    "addr:full":"4044 W Black Canyon Blvd Phoenix AZ 85086",
+    "addr:housenumber":"4044",
+    "addr:postcode":"85086",
+    "addr:street":"W Black Canyon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.146032,33.80417,-112.146032,33.80417",
     "geom:latitude":33.80417,
     "geom:longitude":-112.146032,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"748f57b4c7dbb7d63f85c9550eddfaf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":336740253,
-    "wof:lastmodified":1466328877,
+    "wof:lastmodified":1491934300,
     "wof:name":"Ben Avery Shooting Range",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

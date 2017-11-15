@@ -2,9 +2,14 @@
   "id": 168916961,
   "type": "Feature",
   "properties": {
+    "addr:full":"9040 N 67th St Paradise Valley AZ 85253",
+    "addr:housenumber":"9040",
+    "addr:postcode":"85253",
+    "addr:street":"N 67Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.936946,33.56769,-111.936946,33.56769",
     "geom:latitude":33.56769,
     "geom:longitude":-111.936946,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"472b04882125a568e0e92baedbb6dfe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168916961,
-    "wof:lastmodified":1466330262,
+    "wof:lastmodified":1491912704,
     "wof:name":"Dean Scheck",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

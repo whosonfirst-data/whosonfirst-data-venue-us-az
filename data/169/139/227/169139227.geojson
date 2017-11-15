@@ -2,9 +2,14 @@
   "id": 169139227,
   "type": "Feature",
   "properties": {
+    "addr:full":"3933 S McClintock Dr Tempe AZ 85282",
+    "addr:housenumber":"3933",
+    "addr:postcode":"85282",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.9091,33.386707,-111.9091,33.386707",
     "geom:latitude":33.386707,
     "geom:longitude":-111.9091,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"4a4a2801cbecd6f7b23013e97f2da1e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169139227,
-    "wof:lastmodified":1466331549,
+    "wof:lastmodified":1491938066,
     "wof:name":"Kids Voting USA",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153047237,
   "type": "Feature",
   "properties": {
+    "addr:full":"12350 N 100th Pl Scottsdale AZ 85260",
+    "addr:housenumber":"12350",
+    "addr:postcode":"85260",
+    "addr:street":"N 100Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.864481,33.598466,-111.864481,33.598466",
     "geom:latitude":33.598466,
     "geom:longitude":-111.864481,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"86b0c40184081d780169ae169bba937f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,6 +58,7 @@
             "venue_id":153047237
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -60,9 +68,9 @@
         }
     ],
     "wof:id":153047237,
-    "wof:lastmodified":1466326974,
+    "wof:lastmodified":1491908434,
     "wof:name":"D Kooley",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

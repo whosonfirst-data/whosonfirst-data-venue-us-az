@@ -2,9 +2,14 @@
   "id": 337540637,
   "type": "Feature",
   "properties": {
+    "addr:full":"7707 E Mcdowell Rd Scottsdale AZ 85257",
+    "addr:housenumber":"7707",
+    "addr:postcode":"85257",
+    "addr:street":"E Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.91449,33.465721,-111.91449,33.465721",
     "geom:latitude":33.465721,
     "geom:longitude":-111.91449,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"454aadf643cfa667798a7a669691e7c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337540637
         }
     ],
     "wof:id":337540637,
-    "wof:lastmodified":1466326609,
+    "wof:lastmodified":1491905240,
     "wof:name":"3 Palms Resort Oasis",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336742449,
   "type": "Feature",
   "properties": {
+    "addr:full":"42201 N 41st Dr Ste 1 Anthem AZ 85086",
+    "addr:housenumber":"42201",
+    "addr:postcode":"85086",
+    "addr:street":"N 41St Dr Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.147675,33.866691,-112.147675,33.866691",
     "geom:latitude":33.866691,
     "geom:longitude":-112.147675,
@@ -48,6 +53,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -61,7 +67,7 @@
     "wof:geomhash":"9ca6fda612fef63c70f1230200afe988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":336742449,
-    "wof:lastmodified":1466328897,
+    "wof:lastmodified":1491934267,
     "wof:name":"Gary French - Farmers Insurance",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

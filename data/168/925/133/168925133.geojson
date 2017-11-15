@@ -2,9 +2,14 @@
   "id": 168925133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 N 36th St Phoenix AZ 85008",
+    "addr:housenumber":"2301",
+    "addr:postcode":"85008",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.0042,33.473984,-112.0042,33.473984",
     "geom:latitude":33.473984,
     "geom:longitude":-112.0042,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"342112c71361cc2839c3dc112aa9be99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168925133,
-    "wof:lastmodified":1466330358,
+    "wof:lastmodified":1491890169,
     "wof:name":"Decorte Automotive",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

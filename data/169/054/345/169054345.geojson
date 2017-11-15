@@ -2,9 +2,14 @@
   "id": 169054345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2642 E Bellerive Dr Chandler AZ 85249",
+    "addr:housenumber":"2642",
+    "addr:postcode":"85249",
+    "addr:street":"E Bellerive Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.794386,33.215957,-111.794386,33.215957",
     "geom:latitude":33.215957,
     "geom:longitude":-111.794386,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"7eb85b2e0c81fd96dfc81a3483f06b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169054345,
-    "wof:lastmodified":1466328662,
+    "wof:lastmodified":1491886926,
     "wof:name":"Centex Homes",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

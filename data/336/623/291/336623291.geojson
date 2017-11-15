@@ -2,9 +2,14 @@
   "id": 336623291,
   "type": "Feature",
   "properties": {
+    "addr:full":"7334 W Montecito Ave Phoenix AZ 85033",
+    "addr:housenumber":"7334",
+    "addr:postcode":"85033",
+    "addr:street":"W Montecito Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.217911,33.499889,-112.217911,33.499889",
     "geom:latitude":33.499889,
     "geom:longitude":-112.217911,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"f569fc59b78cd3072f96111b6c3dea80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336623291
         }
     ],
     "wof:id":336623291,
-    "wof:lastmodified":1466326384,
+    "wof:lastmodified":1491934767,
     "wof:name":"Rojo's Shoes",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

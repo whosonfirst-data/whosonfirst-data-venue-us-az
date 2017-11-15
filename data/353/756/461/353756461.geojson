@@ -2,9 +2,14 @@
   "id": 353756461,
   "type": "Feature",
   "properties": {
+    "addr:full":"9950 W McDowell Rd Avondale AZ 85392",
+    "addr:housenumber":"9950",
+    "addr:postcode":"85392",
+    "addr:street":"W Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.273224,33.46482,-112.273224,33.46482",
     "geom:latitude":33.46482,
     "geom:longitude":-112.273224,
@@ -38,8 +43,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -52,17 +58,17 @@
     "wof:geomhash":"7984ca1f6ce4856ee4684574f5695f0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353756461
         }
     ],
     "wof:id":353756461,
-    "wof:lastmodified":1466330132,
+    "wof:lastmodified":1491934753,
     "wof:name":"Discount Tire",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

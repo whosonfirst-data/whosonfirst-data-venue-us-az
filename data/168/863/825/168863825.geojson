@@ -2,9 +2,14 @@
   "id": 168863825,
   "type": "Feature",
   "properties": {
+    "addr:full":"7790 E McDowell Rd Scottsdale AZ 85008",
+    "addr:housenumber":"7790",
+    "addr:postcode":"85008",
+    "addr:street":"E Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.912399,33.465868,-111.912399,33.465868",
     "geom:latitude":33.465868,
     "geom:longitude":-111.912399,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -40,16 +46,17 @@
     "wof:geomhash":"460d9d803c3a113f12ead05250dc6926",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168863825
         }
     ],
     "wof:id":168863825,
-    "wof:lastmodified":1466326925,
+    "wof:lastmodified":1491905165,
     "wof:name":"Supercuts",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

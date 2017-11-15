@@ -2,9 +2,14 @@
   "id": 153040361,
   "type": "Feature",
   "properties": {
+    "addr:full":"16520 E Laser Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16520",
+    "addr:postcode":"85268",
+    "addr:street":"E Laser Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.72235,33.573236,-111.72235,33.573236",
     "geom:latitude":33.573236,
     "geom:longitude":-111.72235,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -49,6 +55,7 @@
     "wof:geomhash":"516c530e7e399cb89c6b5620d4a72739",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":153040361,
-    "wof:lastmodified":1466326495,
+    "wof:lastmodified":1491939333,
     "wof:name":"Fire Rock Industrial Park LLC",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

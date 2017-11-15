@@ -2,9 +2,14 @@
   "id": 168965473,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 E Bonita Way Tempe AZ 85281",
+    "addr:housenumber":"130",
+    "addr:postcode":"85281",
+    "addr:street":"E Bonita Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.936024,33.408666,-111.936024,33.408666",
     "geom:latitude":33.408666,
     "geom:longitude":-111.936024,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"83599729f0f4769f5aca8206bda0fd61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168965473,
-    "wof:lastmodified":1466331226,
+    "wof:lastmodified":1491927162,
     "wof:name":"Tempe Tree Service Inc",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",

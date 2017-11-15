@@ -2,9 +2,14 @@
   "id": 353502813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1972 E Baseline Rd Tempe AZ 85283",
+    "addr:housenumber":"1972",
+    "addr:postcode":"85283",
+    "addr:street":"E Baseline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.901615,33.378455,-111.901615,33.378455",
     "geom:latitude":33.378455,
     "geom:longitude":-111.901615,
@@ -57,6 +62,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -70,7 +76,7 @@
     "wof:geomhash":"52f0a2b88ce8010cfe0d3545eddbee7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":353502813,
-    "wof:lastmodified":1466327234,
+    "wof:lastmodified":1491938080,
     "wof:name":"Joe Schmoker Insurance Ag In Insurance Agency Inc - Farmers Insurance",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

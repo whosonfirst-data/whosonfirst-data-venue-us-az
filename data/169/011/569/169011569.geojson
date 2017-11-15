@@ -2,9 +2,14 @@
   "id": 169011569,
   "type": "Feature",
   "properties": {
+    "addr:full":"15440 N 71st St Scottsdale AZ 85254",
+    "addr:housenumber":"15440",
+    "addr:postcode":"85254",
+    "addr:street":"N 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.927819,33.625808,-111.927819,33.625808",
     "geom:latitude":33.625808,
     "geom:longitude":-111.927819,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917479,
+        102087421,
+        85814389,
+        85917475,
+        85812553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +51,28 @@
     "wof:geomhash":"b78f6f1874e192735f0e86a978d25578",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
+            "neighbourhood_id":85814389,
+            "region_id":85688719,
+            "venue_id":169011569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85812553,
             "region_id":85688719,
             "venue_id":169011569
         }
     ],
     "wof:id":169011569,
-    "wof:lastmodified":1466327020,
+    "wof:lastmodified":1491898197,
     "wof:name":"Coast To Coast Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

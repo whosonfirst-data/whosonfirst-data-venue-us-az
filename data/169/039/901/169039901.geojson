@@ -2,9 +2,14 @@
   "id": 169039901,
   "type": "Feature",
   "properties": {
+    "addr:full":"7525 W Mackenzie Dr Phoenix AZ 85033",
+    "addr:housenumber":"7525",
+    "addr:postcode":"85033",
+    "addr:street":"W Mackenzie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.2212,33.497406,-112.2212,33.497406",
     "geom:latitude":33.497406,
     "geom:longitude":-112.2212,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"db41f3a3d0f3aa69b94109124a489bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169039901
         }
     ],
     "wof:id":169039901,
-    "wof:lastmodified":1466327741,
+    "wof:lastmodified":1491934760,
     "wof:name":"Modular Furniture Installation",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353736509,
   "type": "Feature",
   "properties": {
+    "addr:full":"8719 W Wedgewood Dr Peoria AZ 85382",
+    "addr:housenumber":"8719",
+    "addr:postcode":"85382",
+    "addr:street":"W Wedgewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.247353,33.633369,-112.247353,33.633369",
     "geom:latitude":33.633369,
     "geom:longitude":-112.247353,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"583483e30c40ee25f32e6d0bbe550a89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":353736509
         }
     ],
     "wof:id":353736509,
-    "wof:lastmodified":1466330023,
+    "wof:lastmodified":1491896381,
     "wof:name":"Stacie L Westen Od Pllc",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

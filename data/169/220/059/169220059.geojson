@@ -2,9 +2,14 @@
   "id": 169220059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 E Guadalupe Rd Tempe AZ 85283",
+    "addr:housenumber":"1825",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.907569,33.363697,-111.907569,33.363697",
     "geom:latitude":33.363697,
     "geom:longitude":-111.907569,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"f3f14c673d6931a82e4aa69e3ea41d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":169220059
         }
     ],
     "wof:id":169220059,
-    "wof:lastmodified":1466332269,
+    "wof:lastmodified":1491918185,
     "wof:name":"Hair Artz",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

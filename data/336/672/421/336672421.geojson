@@ -2,9 +2,14 @@
   "id": 336672421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 W Southern Ave # 124 Phoenix AZ 85041",
+    "addr:housenumber":"3535",
+    "addr:postcode":"85041",
+    "addr:street":"W Southern Ave # 124",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.134321,33.392029,-112.134321,33.392029",
     "geom:latitude":33.392029,
     "geom:longitude":-112.134321,
@@ -45,6 +50,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -59,7 +65,7 @@
     "wof:geomhash":"4f9d320f4d7825fed10f0e85bdc85f43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":336672421,
-    "wof:lastmodified":1466327493,
+    "wof:lastmodified":1491900169,
     "wof:name":"Sally Beauty Supply",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

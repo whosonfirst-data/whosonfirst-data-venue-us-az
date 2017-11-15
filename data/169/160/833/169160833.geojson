@@ -2,9 +2,14 @@
   "id": 169160833,
   "type": "Feature",
   "properties": {
+    "addr:full":"7440 E Pinnacle Peak Rd Scottsdale AZ 85255",
+    "addr:housenumber":"7440",
+    "addr:postcode":"85255",
+    "addr:street":"E Pinnacle Peak Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920567,33.698767,-111.920567,33.698767",
     "geom:latitude":33.698767,
     "geom:longitude":-111.920567,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1a446c7939e727ce26a8eb6c1535822f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169160833,
-    "wof:lastmodified":1466331832,
+    "wof:lastmodified":1491926461,
     "wof:name":"Nathan RH & Co LLC",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

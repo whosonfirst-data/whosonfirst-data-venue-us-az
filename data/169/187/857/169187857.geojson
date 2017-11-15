@@ -2,9 +2,14 @@
   "id": 169187857,
   "type": "Feature",
   "properties": {
+    "addr:full":"11818 N 74th Pl Scottsdale AZ 85260",
+    "addr:housenumber":"11818",
+    "addr:postcode":"85260",
+    "addr:street":"N 74Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920838,33.594621,-111.920838,33.594621",
     "geom:latitude":33.594621,
     "geom:longitude":-111.920838,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5621fe0b27fb0d403b3b62e5cc880f81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169187857,
-    "wof:lastmodified":1466332083,
+    "wof:lastmodified":1491912664,
     "wof:name":"Asylum Digitizing",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

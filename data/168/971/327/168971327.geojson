@@ -2,9 +2,14 @@
   "id": 168971327,
   "type": "Feature",
   "properties": {
+    "addr:full":"7923 E McDowell Rd Scottsdale AZ 85257",
+    "addr:housenumber":"7923",
+    "addr:postcode":"85257",
+    "addr:street":"E Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909257,33.46573,-111.909257,33.46573",
     "geom:latitude":33.46573,
     "geom:longitude":-111.909257,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"95ece9a165e5643acaeeaf769b6862ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168971327
         }
     ],
     "wof:id":168971327,
-    "wof:lastmodified":1466331368,
+    "wof:lastmodified":1491905164,
     "wof:name":"Walgreens",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

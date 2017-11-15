@@ -2,9 +2,14 @@
   "id": 169352419,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 W Madison St Phoenix AZ 85003",
+    "addr:housenumber":"102",
+    "addr:postcode":"85003",
+    "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.076355,33.446131,-112.076355,33.446131",
     "geom:latitude":33.446131,
     "geom:longitude":-112.076355,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -46,6 +52,7 @@
     "wof:geomhash":"ffb72fb6555be755c6738cf2e2c90347",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":169352419,
-    "wof:lastmodified":1466333497,
+    "wof:lastmodified":1491917183,
     "wof:name":"Arizona Meth Amphetamine Task",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

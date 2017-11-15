@@ -2,9 +2,14 @@
   "id": 320821085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2949 W Agua Fria Fwy Phoenix AZ 85027",
+    "addr:housenumber":"2949",
+    "addr:postcode":"85027",
+    "addr:street":"W Agua",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.121177,33.668022,-112.121177,33.668022",
     "geom:latitude":33.668022,
     "geom:longitude":-112.121177,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -34,7 +40,7 @@
     "wof:geomhash":"c025a4d07773196972bbe6e0cad98224",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":320821085,
-    "wof:lastmodified":1466330101,
+    "wof:lastmodified":1491889260,
     "wof:name":"Romano's Macaroni Grill",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

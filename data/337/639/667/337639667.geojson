@@ -2,9 +2,14 @@
   "id": 337639667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1455 W 12th Pl Tempe AZ 85281",
+    "addr:housenumber":"1455",
+    "addr:postcode":"85281",
+    "addr:street":"W 12Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.964541,33.415546,-111.964541,33.415546",
     "geom:latitude":33.415546,
     "geom:longitude":-111.964541,
@@ -49,6 +54,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -62,7 +68,7 @@
     "wof:geomhash":"e4466d6b0e08a20ebfe27c23fe70a7b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":337639667,
-    "wof:lastmodified":1466327456,
+    "wof:lastmodified":1491909679,
     "wof:name":"Iec Supply",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

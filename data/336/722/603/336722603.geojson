@@ -2,9 +2,14 @@
   "id": 336722603,
   "type": "Feature",
   "properties": {
+    "addr:full":"10410 N 31st Ave Phoenix AZ 85051",
+    "addr:housenumber":"10410",
+    "addr:postcode":"85051",
+    "addr:street":"N 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125458,33.580643,-112.125458,33.580643",
     "geom:latitude":33.580643,
     "geom:longitude":-112.125458,
@@ -43,6 +48,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -56,7 +62,7 @@
     "wof:geomhash":"2daae68a9e13bbab973197b4ff8f894e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":336722603,
-    "wof:lastmodified":1466328377,
+    "wof:lastmodified":1491888135,
     "wof:name":"Sinmar Realty",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

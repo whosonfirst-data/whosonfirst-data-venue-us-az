@@ -2,9 +2,14 @@
   "id": 168992909,
   "type": "Feature",
   "properties": {
+    "addr:full":"6202 N 83rd Ave Glendale AZ 85303",
+    "addr:housenumber":"6202",
+    "addr:postcode":"85303",
+    "addr:street":"N 83Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.237662,33.525796,-112.237662,33.525796",
     "geom:latitude":33.525796,
     "geom:longitude":-112.237662,
@@ -25,10 +30,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917509,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917509,
+        102087421,
+        85877835,
+        85877789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"1ff4b26dcb0ffef1f92f977ee543fa7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
+            "neighbourhood_id":85877835,
+            "region_id":85688719,
+            "venue_id":168992909
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917509,
+            "neighbourhood_id":85877789,
             "region_id":85688719,
             "venue_id":168992909
         }
     ],
     "wof:id":168992909,
-    "wof:lastmodified":1466331454,
+    "wof:lastmodified":1491936207,
     "wof:name":"Martin O Mata",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353407871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1140 E Orange St Apt 2 Tempe AZ 85281",
+    "addr:housenumber":"1140;2",
+    "addr:postcode":"85281",
+    "addr:street":"E Orange St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920348,33.418692,-111.920348,33.418692",
     "geom:latitude":33.418692,
     "geom:longitude":-111.920348,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"4bd1b5eb7a42a72668db18894a7b06d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":353407871,
-    "wof:lastmodified":1466326319,
+    "wof:lastmodified":1491902481,
     "wof:name":"Getwired Home Automation L L C",
     "wof:parent_id":85881433,
     "wof:placetype":"venue",

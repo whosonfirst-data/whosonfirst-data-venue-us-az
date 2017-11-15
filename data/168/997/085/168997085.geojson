@@ -2,9 +2,14 @@
   "id": 168997085,
   "type": "Feature",
   "properties": {
+    "addr:full":"9502 W Van Buren St Tolleson AZ 85353",
+    "addr:housenumber":"9502",
+    "addr:postcode":"85353",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.265996,33.450364,-112.265996,33.450364",
     "geom:latitude":33.450364,
     "geom:longitude":-112.265996,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"6a87bb3c90d5b55c3f4b0d1f7e4aa194",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":168997085
         }
     ],
     "wof:id":168997085,
-    "wof:lastmodified":1466331729,
+    "wof:lastmodified":1491934646,
     "wof:name":"Bank One",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

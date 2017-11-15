@@ -2,9 +2,14 @@
   "id": 169079713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2268 E Indigo Bay Dr Gilbert AZ 85234",
+    "addr:housenumber":"2268",
+    "addr:postcode":"85234",
+    "addr:street":"E Indigo Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.741623,33.372562,-111.741623,33.372562",
     "geom:latitude":33.372562,
     "geom:longitude":-111.741623,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7da2d4a8a86ccde08d90fc740f91c85a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169079713,
-    "wof:lastmodified":1466329896,
+    "wof:lastmodified":1491913660,
     "wof:name":"Patty Berens",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

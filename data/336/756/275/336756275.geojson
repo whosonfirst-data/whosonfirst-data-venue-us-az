@@ -2,9 +2,14 @@
   "id": 336756275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Pasadena Unit 13 Mesa AZ 85201",
+    "addr:housenumber":"1001;unit 13",
+    "addr:postcode":"85201",
+    "addr:street":"N Pasadena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.827024,33.433477,-111.827024,33.433477",
     "geom:latitude":33.433477,
     "geom:longitude":-111.827024,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -51,7 +57,7 @@
     "wof:geomhash":"ef200a50bbee5304040f2e04a471be86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":336756275,
-    "wof:lastmodified":1466328902,
+    "wof:lastmodified":1491893365,
     "wof:name":"Trw Services",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168980635,
   "type": "Feature",
   "properties": {
+    "addr:full":"6407 W Fremont Rd Laveen AZ 85339",
+    "addr:housenumber":"6407",
+    "addr:postcode":"85339",
+    "addr:street":"W Fremont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.197193,33.383149,-112.197193,33.383149",
     "geom:latitude":33.383149,
     "geom:longitude":-112.197193,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"00f3771d71872a5ddf87190fc8899553",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168980635,
-    "wof:lastmodified":1466331460,
+    "wof:lastmodified":1491900200,
     "wof:name":"Cobblersweb",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

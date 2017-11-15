@@ -2,9 +2,14 @@
   "id": 153071263,
   "type": "Feature",
   "properties": {
+    "addr:full":"13735 E Columbine Dr Scottsdale AZ 85259",
+    "addr:housenumber":"13735",
+    "addr:postcode":"85259",
+    "addr:street":"E Columbine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.784095,33.599217,-111.784095,33.599217",
     "geom:latitude":33.599217,
     "geom:longitude":-111.784095,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"93f833abf8c8b6c789304f9016f21ec0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153071263,
-    "wof:lastmodified":1466328527,
+    "wof:lastmodified":1491939314,
     "wof:name":"D M Data Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

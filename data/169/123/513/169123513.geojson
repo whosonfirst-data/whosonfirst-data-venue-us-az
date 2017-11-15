@@ -2,9 +2,14 @@
   "id": 169123513,
   "type": "Feature",
   "properties": {
+    "addr:full":"7127 E Sahuaro Dr Scottsdale AZ 85254",
+    "addr:housenumber":"7127",
+    "addr:postcode":"85254",
+    "addr:street":"E Sahuaro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.927589,33.583606,-111.927589,33.583606",
     "geom:latitude":33.583606,
     "geom:longitude":-111.927589,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"20ee3a17c277a13ec90f0c517aeceff4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169123513,
-    "wof:lastmodified":1466331292,
+    "wof:lastmodified":1491912697,
     "wof:name":"Access Tailoring",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

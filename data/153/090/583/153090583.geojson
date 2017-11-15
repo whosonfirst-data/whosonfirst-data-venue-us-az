@@ -2,9 +2,14 @@
   "id": 153090583,
   "type": "Feature",
   "properties": {
+    "addr:full":"7316 W Southern Ave Laveen AZ 85339",
+    "addr:housenumber":"7316",
+    "addr:postcode":"85339",
+    "addr:street":"W Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.216371,33.391955,-112.216371,33.391955",
     "geom:latitude":33.391955,
     "geom:longitude":-112.216371,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"114119737969eff509bcb424058d6a18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":153090583,
-    "wof:lastmodified":1466329536,
+    "wof:lastmodified":1491900203,
     "wof:name":"CTI Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

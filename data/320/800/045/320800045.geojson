@@ -2,9 +2,14 @@
   "id": 320800045,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 E Thunderbird Rd Phoenix AZ 85022",
+    "addr:housenumber":"702",
+    "addr:postcode":"85022",
+    "addr:street":"E Thunderbird Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.064943,33.607732,-112.064943,33.607732",
     "geom:latitude":33.607732,
     "geom:longitude":-112.064943,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e600fe6a2298712a9812ddce386d61d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320800045,
-    "wof:lastmodified":1466329811,
+    "wof:lastmodified":1491897085,
     "wof:name":"Midfirst Bank",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168959143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 S 1st Ave Phoenix AZ 85003",
+    "addr:housenumber":"1724",
+    "addr:postcode":"85003",
+    "addr:street":"S 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.075177,33.431385,-112.075177,33.431385",
     "geom:latitude":33.431385,
     "geom:longitude":-112.075177,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"dc4a9d1f0c62143ff3a156d8eef5cf83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168959143,
-    "wof:lastmodified":1466331105,
+    "wof:lastmodified":1491917149,
     "wof:name":"Huat-Son Body Shop",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

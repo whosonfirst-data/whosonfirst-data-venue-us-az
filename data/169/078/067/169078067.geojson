@@ -2,9 +2,14 @@
   "id": 169078067,
   "type": "Feature",
   "properties": {
+    "addr:full":"1904 S 85th Ln Tolleson AZ 85353",
+    "addr:housenumber":"1904",
+    "addr:postcode":"85353",
+    "addr:street":"S 85Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.243987,33.430191,-112.243987,33.430191",
     "geom:latitude":33.430191,
     "geom:longitude":-112.243987,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"502b6294136007a9051fcaecc668086e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169078067
         }
     ],
     "wof:id":169078067,
-    "wof:lastmodified":1466329979,
+    "wof:lastmodified":1491934697,
     "wof:name":"Chinese Dragon Art",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

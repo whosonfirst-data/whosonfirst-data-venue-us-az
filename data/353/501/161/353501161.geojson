@@ -2,9 +2,14 @@
   "id": 353501161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1864 E Auburn Dr Tempe AZ 85283",
+    "addr:housenumber":"1864",
+    "addr:postcode":"85283",
+    "addr:street":"E Auburn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.907807,33.373219,-111.907807,33.373219",
     "geom:latitude":33.373219,
     "geom:longitude":-111.907807,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -44,17 +50,17 @@
     "wof:geomhash":"f938ccbbb7c8fe113e5d847513e04fc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353501161
         }
     ],
     "wof:id":353501161,
-    "wof:lastmodified":1466327202,
+    "wof:lastmodified":1491918192,
     "wof:name":"Jade Express",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

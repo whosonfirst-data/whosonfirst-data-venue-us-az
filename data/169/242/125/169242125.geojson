@@ -2,9 +2,14 @@
   "id": 169242125,
   "type": "Feature",
   "properties": {
+    "addr:full":"3044 E Beck Ln Phoenix AZ 85032",
+    "addr:housenumber":"3044",
+    "addr:postcode":"85032",
+    "addr:street":"E Beck Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.016901,33.627753,-112.016901,33.627753",
     "geom:latitude":33.627753,
     "geom:longitude":-112.016901,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"5dfb7c6acbd061a3e9fbfb330ef668e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169242125,
-    "wof:lastmodified":1466332599,
+    "wof:lastmodified":1491932180,
     "wof:name":"Paradise States Apts",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

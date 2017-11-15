@@ -2,9 +2,14 @@
   "id": 153003549,
   "type": "Feature",
   "properties": {
+    "addr:full":"10603 N Hayden Rd Scottsdale AZ 85260",
+    "addr:housenumber":"10603",
+    "addr:postcode":"85260",
+    "addr:street":"N Hayden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.90864,33.584713,-111.90864,33.584713",
     "geom:latitude":33.584713,
     "geom:longitude":-111.90864,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8a6ad9fc00e593d1776b064d65bb965f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153003549,
-    "wof:lastmodified":1466325736,
+    "wof:lastmodified":1491912709,
     "wof:name":"Home Loan Corp",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152939909,
   "type": "Feature",
   "properties": {
+    "addr:full":"7127 E Becker Ln Scottsdale AZ 85254",
+    "addr:housenumber":"7127",
+    "addr:postcode":"85254",
+    "addr:street":"E Becker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926402,33.582842,-111.926402,33.582842",
     "geom:latitude":33.582842,
     "geom:longitude":-111.926402,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"6659ad10c8911c37f5f07762e277eba0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152939909,
-    "wof:lastmodified":1466326678,
+    "wof:lastmodified":1491912676,
     "wof:name":"Choice Manufactured Homes",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

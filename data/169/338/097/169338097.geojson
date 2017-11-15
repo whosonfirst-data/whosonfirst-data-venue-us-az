@@ -2,9 +2,14 @@
   "id": 169338097,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 E Bunker Hill Dr Tempe AZ 85281",
+    "addr:housenumber":"659",
+    "addr:postcode":"85281",
+    "addr:street":"E Bunker Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.928629,33.455477,-111.928629,33.455477",
     "geom:latitude":33.455477,
     "geom:longitude":-111.928629,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"22b47a76a1bffef985a1f9df65c5deda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169338097
         }
     ],
     "wof:id":169338097,
-    "wof:lastmodified":1466333314,
+    "wof:lastmodified":1491905178,
     "wof:name":"Green Horseshoeing",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

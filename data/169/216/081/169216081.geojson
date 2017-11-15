@@ -2,9 +2,14 @@
   "id": 169216081,
   "type": "Feature",
   "properties": {
+    "addr:full":"11795 N 95th St Scottsdale AZ 85260",
+    "addr:housenumber":"11795",
+    "addr:postcode":"85260",
+    "addr:street":"N 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.875187,33.594795,-111.875187,33.594795",
     "geom:latitude":33.594795,
     "geom:longitude":-111.875187,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"2e41e7008757c2f1406cc9d00aee48b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,6 +55,7 @@
             "venue_id":169216081
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -57,9 +65,9 @@
         }
     ],
     "wof:id":169216081,
-    "wof:lastmodified":1466332188,
+    "wof:lastmodified":1491908474,
     "wof:name":"Haverty Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

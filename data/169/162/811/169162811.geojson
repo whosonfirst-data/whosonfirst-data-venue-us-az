@@ -2,14 +2,20 @@
   "id": 169162811,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 W Arrowhead Towne Center Glendale AZ 85308",
+    "addr:housenumber":"7700",
+    "addr:postcode":"85308",
+    "addr:street":"W Arrowhead Towne Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.229277,33.643778,-112.229277,33.643778",
     "geom:latitude":33.643778,
     "geom:longitude":-112.229277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7700 W Arrowhead Towne Center",
     "sg:city":"Glendale",
     "sg:classifiers":[
@@ -26,29 +32,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
+    "wof:brand_id":1125151541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h77gTXCvjupZebyH4nSXy_33.643778_-112.229277@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae750bf18a5d46d3d267653ab56526cb",
+    "wof:geomhash":"15f3117a9443d00100126a55d75ebe04",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":169162811
         }
     ],
     "wof:id":169162811,
-    "wof:lastmodified":1466331899,
+    "wof:lastmodified":1510695396,
     "wof:name":"Coldwater Creek",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

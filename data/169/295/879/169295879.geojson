@@ -2,9 +2,14 @@
   "id": 169295879,
   "type": "Feature",
   "properties": {
+    "addr:full":"6638 W Miami St Phoenix AZ 85043",
+    "addr:housenumber":"6638",
+    "addr:postcode":"85043",
+    "addr:street":"W Miami St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.202852,33.418899,-112.202852,33.418899",
     "geom:latitude":33.418899,
     "geom:longitude":-112.202852,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e2bd2ac02ba7eec618816adce891bf14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169295879,
-    "wof:lastmodified":1466332761,
+    "wof:lastmodified":1491900195,
     "wof:name":"Morningstar Wall System Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

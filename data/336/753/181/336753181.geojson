@@ -2,9 +2,14 @@
   "id": 336753181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1456 W 5th Pl Mesa AZ 85201",
+    "addr:housenumber":"1456",
+    "addr:postcode":"85201",
+    "addr:street":"W 5Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.863037,33.42521,-111.863037,33.42521",
     "geom:latitude":33.42521,
     "geom:longitude":-111.863037,
@@ -48,8 +53,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +64,15 @@
     "wof:geomhash":"15b72926316a4726796a994b616bebd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336753181
         }
     ],
     "wof:id":336753181,
-    "wof:lastmodified":1466328839,
+    "wof:lastmodified":1491898459,
     "wof:name":"Discount Water Fire & Mold Services",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

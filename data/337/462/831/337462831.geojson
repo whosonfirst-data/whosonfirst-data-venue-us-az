@@ -2,9 +2,14 @@
   "id": 337462831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1944 S Greenfield Rd Mesa AZ 85206",
+    "addr:housenumber":"1944",
+    "addr:postcode":"85206",
+    "addr:street":"S Greenfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.73975,33.380382,-111.73975,33.380382",
     "geom:latitude":33.380382,
     "geom:longitude":-111.73975,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -47,7 +53,7 @@
     "wof:geomhash":"f1d5e948b96180fe128fe2b513b1feed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":337462831,
-    "wof:lastmodified":1466325993,
+    "wof:lastmodified":1491913669,
     "wof:name":"American Furniture Superstore",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

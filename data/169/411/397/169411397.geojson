@@ -2,9 +2,14 @@
   "id": 169411397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4232 E Marino Dr Phoenix AZ 85032",
+    "addr:housenumber":"4232",
+    "addr:postcode":"85032",
+    "addr:street":"E Marino Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.988932,33.650662,-111.988932,33.650662",
     "geom:latitude":33.650662,
     "geom:longitude":-111.988932,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"30efce262093332bb8bce11b25b07702",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169411397,
-    "wof:lastmodified":1466333730,
+    "wof:lastmodified":1491911684,
     "wof:name":"Temple Tile",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

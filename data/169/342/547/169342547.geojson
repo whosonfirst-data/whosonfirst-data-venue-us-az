@@ -2,9 +2,14 @@
   "id": 169342547,
   "type": "Feature",
   "properties": {
+    "addr:full":"15601 N 40th St Phoenix AZ 85032",
+    "addr:housenumber":"15601",
+    "addr:postcode":"85032",
+    "addr:street":"N 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.995976,33.627285,-111.995976,33.627285",
     "geom:latitude":33.627285,
     "geom:longitude":-111.995976,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"45245445dc8db86aaeeb0af5bed5f953",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169342547,
-    "wof:lastmodified":1466333422,
+    "wof:lastmodified":1491911701,
     "wof:name":"Facility Group",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

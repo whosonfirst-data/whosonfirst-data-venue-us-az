@@ -2,9 +2,14 @@
   "id": 353486001,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 S Mcclintock Dr Suite #106 Tempe AZ 85283",
+    "addr:housenumber":"6200",
+    "addr:postcode":"85283",
+    "addr:street":"S Mcclintock Dr Suite # 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.91127,33.365559,-111.91127,33.365559",
     "geom:latitude":33.365559,
     "geom:longitude":-111.91127,
@@ -53,8 +58,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -66,17 +72,17 @@
     "wof:geomhash":"3a596c6496ecd6f89297831c3099b1ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353486001
         }
     ],
     "wof:id":353486001,
-    "wof:lastmodified":1466326935,
+    "wof:lastmodified":1491918168,
     "wof:name":"BrightStar - Tempe",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

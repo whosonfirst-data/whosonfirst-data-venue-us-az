@@ -2,9 +2,14 @@
   "id": 320653385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1918 W Grant St Phoenix AZ 85009",
+    "addr:housenumber":"1918",
+    "addr:postcode":"85009",
+    "addr:street":"W Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.100376,33.441341,-112.100376,33.441341",
     "geom:latitude":33.441341,
     "geom:longitude":-112.100376,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"d14145cd094fd55de6c569086319f711",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":320653385,
-    "wof:lastmodified":1466327874,
+    "wof:lastmodified":1491917155,
     "wof:name":"Blackline American Corporation",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

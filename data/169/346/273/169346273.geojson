@@ -2,9 +2,14 @@
   "id": 169346273,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Scottsdale Rd Scottsdale AZ 85257",
+    "addr:housenumber":"501",
+    "addr:postcode":"85257",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926297,33.461436,-111.926297,33.461436",
     "geom:latitude":33.461436,
     "geom:longitude":-111.926297,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"b5bd422d11f37a8c89c89126e7468494",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169346273
         }
     ],
     "wof:id":169346273,
-    "wof:lastmodified":1466333531,
+    "wof:lastmodified":1491905184,
     "wof:name":"Payless Motorsports",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

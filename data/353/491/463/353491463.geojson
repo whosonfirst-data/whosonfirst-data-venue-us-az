@@ -2,9 +2,14 @@
   "id": 353491463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1835 E Guadalupe Tempe AZ 85283",
+    "addr:housenumber":"1835",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909142,33.362184,-111.909142,33.362184",
     "geom:latitude":33.362184,
     "geom:longitude":-111.909142,
@@ -27,8 +32,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -40,17 +46,17 @@
     "wof:geomhash":"d729e3113d07f29dbc34940df0a6ee3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353491463
         }
     ],
     "wof:id":353491463,
-    "wof:lastmodified":1466327870,
+    "wof:lastmodified":1491918195,
     "wof:name":"Fry's Food and Drug",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

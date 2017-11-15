@@ -2,9 +2,14 @@
   "id": 336955493,
   "type": "Feature",
   "properties": {
+    "addr:full":"8940 E Indian Bend Rd Ste 4 Scottsdale AZ 85250",
+    "addr:housenumber":"8940",
+    "addr:postcode":"85250",
+    "addr:street":"E Indian Bend Rd Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.888164,33.538421,-111.888164,33.538421",
     "geom:latitude":33.538421,
     "geom:longitude":-111.888164,
@@ -35,31 +40,16 @@
     ],
     "sg:website":"http://www.paylessshoesource.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688719,
-        85633793,
-        102087421,
-        85858179
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eDi8FjjrnrDUNPvZrXZog_33.538421_-111.888164@1303263115"
     },
     "wof:country":"US",
     "wof:geomhash":"ecc3633658c50b4e884cf96c1ccdca23",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":-1,
-            "neighbourhood_id":85858179,
-            "region_id":85688719,
-            "venue_id":336955493
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":336955493,
-    "wof:lastmodified":1466330835,
+    "wof:lastmodified":1491894263,
     "wof:name":"Payless ShoeSource",
     "wof:parent_id":85858179,
     "wof:placetype":"venue",

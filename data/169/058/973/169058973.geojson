@@ -2,9 +2,14 @@
   "id": 169058973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 E Palmcroft Dr Tempe AZ 85282",
+    "addr:housenumber":"1708",
+    "addr:postcode":"85282",
+    "addr:street":"E Palmcroft Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.910755,33.404272,-111.910755,33.404272",
     "geom:latitude":33.404272,
     "geom:longitude":-111.910755,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e8ee4a53593f97eb8ff880ebdfba336a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169058973,
-    "wof:lastmodified":1466329149,
+    "wof:lastmodified":1491915529,
     "wof:name":"Beacon Computing Sollutions",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

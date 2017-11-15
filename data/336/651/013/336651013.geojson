@@ -2,9 +2,14 @@
   "id": 336651013,
   "type": "Feature",
   "properties": {
+    "addr:full":"9099 W Holly St Phoenix AZ 85037",
+    "addr:housenumber":"9099",
+    "addr:postcode":"85037",
+    "addr:street":"W Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.254628,33.470143,-112.254628,33.470143",
     "geom:latitude":33.470143,
     "geom:longitude":-112.254628,
@@ -29,11 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
-        85832807,
-        85848139
+        85848139,
+        85917463,
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,28 @@
     "wof:geomhash":"11f87732621beeb104ab15257555c5f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917479,
-            "neighbourhood_id":85832807,
-            "region_id":85688719,
-            "venue_id":336651013
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
             "neighbourhood_id":85848139,
             "region_id":85688719,
             "venue_id":336651013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917463,
+            "neighbourhood_id":85832807,
+            "region_id":85688719,
+            "venue_id":336651013
         }
     ],
     "wof:id":336651013,
-    "wof:lastmodified":1466326991,
+    "wof:lastmodified":1491934672,
     "wof:name":"A Locksmith 0 1 24 Hour",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

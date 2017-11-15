@@ -2,9 +2,14 @@
   "id": 320635267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 W Lincoln St Phoenix AZ 85007",
+    "addr:housenumber":"1101",
+    "addr:postcode":"85007",
+    "addr:street":"W Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.086937,33.44191,-112.086937,33.44191",
     "geom:latitude":33.44191,
     "geom:longitude":-112.086937,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -51,7 +57,7 @@
     "wof:geomhash":"060f05cacbffc6b256d1fc9b1522fc87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":320635267,
-    "wof:lastmodified":1466326660,
+    "wof:lastmodified":1491917073,
     "wof:name":"Elbex Manufacturing Co",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

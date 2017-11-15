@@ -2,9 +2,14 @@
   "id": 169359485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1207 N Scottsdale Rd Tempe AZ 85281",
+    "addr:housenumber":"1207",
+    "addr:postcode":"85281",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926356,33.443929,-111.926356,33.443929",
     "geom:latitude":33.443929,
     "geom:longitude":-111.926356,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"84afb9d7d938f2f8da6e68e89b677c1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169359485
         }
     ],
     "wof:id":169359485,
-    "wof:lastmodified":1466333628,
+    "wof:lastmodified":1491905230,
     "wof:name":"Rosemaries Closet",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

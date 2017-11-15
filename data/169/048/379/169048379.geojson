@@ -2,9 +2,14 @@
   "id": 169048379,
   "type": "Feature",
   "properties": {
+    "addr:full":"11017 N 42nd St Phoenix AZ 85028",
+    "addr:housenumber":"11017",
+    "addr:postcode":"85028",
+    "addr:street":"N 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.990716,33.58852,-111.990716,33.58852",
     "geom:latitude":33.58852,
     "geom:longitude":-111.990716,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9949b2e7b0a21934e52b6858f63be15a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169048379,
-    "wof:lastmodified":1466328229,
+    "wof:lastmodified":1491905366,
     "wof:name":"Put It On Disc",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

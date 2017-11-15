@@ -2,14 +2,20 @@
   "id": 169315495,
   "type": "Feature",
   "properties": {
+    "addr:full":"8473 W Paradise Ln Peoria AZ 85382",
+    "addr:housenumber":"8473",
+    "addr:postcode":"85382",
+    "addr:street":"W Paradise Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.236076,33.635608,-112.236076,33.635608",
     "geom:latitude":33.635608,
     "geom:longitude":-112.236076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8473 W Paradise Ln",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -27,29 +33,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
+    "wof:brand_id":1125150253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2md4WSWlguTldS65ZCkrgc_33.635608_-112.236076@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"91ae8429cdbcaf178992f2f19a8c4baf",
+    "wof:geomhash":"338b46746ef788263fa593a0976d38d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":169315495
         }
     ],
     "wof:id":169315495,
-    "wof:lastmodified":1466333168,
+    "wof:lastmodified":1510697559,
     "wof:name":"Comfort Suites",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

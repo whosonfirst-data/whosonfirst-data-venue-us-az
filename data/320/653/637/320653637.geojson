@@ -2,9 +2,14 @@
   "id": 320653637,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 W Buckeye Rd Phoenix AZ 85009",
+    "addr:housenumber":"2835",
+    "addr:postcode":"85009",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.120215,33.436847,-112.120215,33.436847",
     "geom:latitude":33.436847,
     "geom:longitude":-112.120215,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"92b016272c329824a90a6ce02112018e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320653637,
-    "wof:lastmodified":1466327097,
+    "wof:lastmodified":1491917218,
     "wof:name":"Dollar Store Y Fiestas Delvall",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

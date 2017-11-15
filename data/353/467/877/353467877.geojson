@@ -2,9 +2,14 @@
   "id": 353467877,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 S Hardy Dr Ste 106 Tempe AZ 85282",
+    "addr:housenumber":"2715",
+    "addr:postcode":"85282",
+    "addr:street":"S Hardy Dr Ste 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.95211,33.399936,-111.95211,33.399936",
     "geom:latitude":33.399936,
     "geom:longitude":-111.95211,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b89814ad02d712ce85b5cf006d13949b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353467877,
-    "wof:lastmodified":1466326780,
+    "wof:lastmodified":1491909715,
     "wof:name":"Renewal By Andersen Of Phoenix",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

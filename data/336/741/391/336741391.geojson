@@ -2,9 +2,14 @@
   "id": 336741391,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 W Carefree Hwy Ste. 1-506 Phoenix AZ 85086",
+    "addr:housenumber":"3120",
+    "addr:postcode":"85086",
+    "addr:street":"W Carefree Hwy Ste. 1-506",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.128182,33.798401,-112.128182,33.798401",
     "geom:latitude":33.798401,
     "geom:longitude":-112.128182,
@@ -53,6 +58,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -66,7 +72,7 @@
     "wof:geomhash":"e9954b145601ba300d49740d2f71812f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":336741391,
-    "wof:lastmodified":1466328635,
+    "wof:lastmodified":1491934324,
     "wof:name":"AM Corp",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

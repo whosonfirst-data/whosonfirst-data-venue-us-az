@@ -2,9 +2,14 @@
   "id": 169032907,
   "type": "Feature",
   "properties": {
+    "addr:full":"4030 W Yorkshire Dr Glendale AZ 85308",
+    "addr:housenumber":"4030",
+    "addr:postcode":"85308",
+    "addr:street":"W Yorkshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.144994,33.66198,-112.144994,33.66198",
     "geom:latitude":33.66198,
     "geom:longitude":-112.144994,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f7a594975efcc9492724867384d9c437",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169032907,
-    "wof:lastmodified":1466327122,
+    "wof:lastmodified":1491902680,
     "wof:name":"Arrowhead Christian Academy",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

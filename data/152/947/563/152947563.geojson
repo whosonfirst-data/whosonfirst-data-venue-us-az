@@ -2,9 +2,14 @@
   "id": 152947563,
   "type": "Feature",
   "properties": {
+    "addr:full":"5250 S 43rd Ave Phoenix AZ 85041",
+    "addr:housenumber":"5250",
+    "addr:postcode":"85041",
+    "addr:street":"S 43Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.150961,33.395899,-112.150961,33.395899",
     "geom:latitude":33.395899,
     "geom:longitude":-112.150961,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"2477276c6867b669ef7afa31c9207e08",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152947563,
-    "wof:lastmodified":1466327209,
+    "wof:lastmodified":1491900163,
     "wof:name":"Tatel Inc Heavy Transport",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

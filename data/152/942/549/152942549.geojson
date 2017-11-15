@@ -2,9 +2,14 @@
   "id": 152942549,
   "type": "Feature",
   "properties": {
+    "addr:full":"3327 W Sierra St Phoenix AZ 85029",
+    "addr:housenumber":"3327",
+    "addr:postcode":"85029",
+    "addr:street":"W Sierra St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.133571,33.591278,-112.133571,33.591278",
     "geom:latitude":33.591278,
     "geom:longitude":-112.133571,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d2fcac0c56d3f38dd4f032eba015c640",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152942549,
-    "wof:lastmodified":1466326860,
+    "wof:lastmodified":1491895155,
     "wof:name":"Arizona Advance Lawn Care",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169354039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2530 E Cherrywood Pl Chandler AZ 85249",
+    "addr:housenumber":"2530",
+    "addr:postcode":"85249",
+    "addr:street":"E Cherrywood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.796266,33.23283,-111.796266,33.23283",
     "geom:latitude":33.23283,
     "geom:longitude":-111.796266,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8a227c77581e7adc3ac5be70405c12a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169354039,
-    "wof:lastmodified":1466333338,
+    "wof:lastmodified":1491886957,
     "wof:name":"Ocotillo Home Mortgage",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

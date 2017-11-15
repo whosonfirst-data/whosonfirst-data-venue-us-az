@@ -2,9 +2,14 @@
   "id": 320797807,
   "type": "Feature",
   "properties": {
+    "addr:full":"13428 N 16th Pl Phoenix AZ 85022",
+    "addr:housenumber":"13428",
+    "addr:postcode":"85022",
+    "addr:street":"N 16Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.047218,33.608841,-112.047218,33.608841",
     "geom:latitude":33.608841,
     "geom:longitude":-112.047218,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b6ad8d7deb9c30787bab88b11735fcff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320797807,
-    "wof:lastmodified":1466329639,
+    "wof:lastmodified":1491897067,
     "wof:name":"Parks, Carole T Planning And Development Assistance",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

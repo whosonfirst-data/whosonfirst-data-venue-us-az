@@ -2,9 +2,14 @@
   "id": 337534917,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 E Mcdowell Rd Scottsdale AZ 85257",
+    "addr:housenumber":"7000",
+    "addr:postcode":"85257",
+    "addr:street":"E Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.930519,33.46574,-111.930519,33.46574",
     "geom:latitude":33.46574,
     "geom:longitude":-111.930519,
@@ -21,8 +26,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -34,17 +40,17 @@
     "wof:geomhash":"c8ef786cd5d41d38871c424d2a2ae05a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337534917
         }
     ],
     "wof:id":337534917,
-    "wof:lastmodified":1466326555,
+    "wof:lastmodified":1491905241,
     "wof:name":"Riverview Nissan",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

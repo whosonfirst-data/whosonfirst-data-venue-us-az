@@ -2,9 +2,14 @@
   "id": 337458041,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 W Riverview Auto Dr Mesa AZ 85201",
+    "addr:housenumber":"2020",
+    "addr:postcode":"85201",
+    "addr:street":"W Riverview Auto Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.870161,33.434609,-111.870161,33.434609",
     "geom:latitude":33.434609,
     "geom:longitude":-111.870161,
@@ -31,8 +36,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,15 @@
     "wof:geomhash":"90dbff3a7dcd0181ac3237890dc6012a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":337458041
         }
     ],
     "wof:id":337458041,
-    "wof:lastmodified":1466325969,
+    "wof:lastmodified":1491898459,
     "wof:name":"Riverview Scion",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169036445,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 W Encinas St Gilbert AZ 85233",
+    "addr:housenumber":"825",
+    "addr:postcode":"85233",
+    "addr:street":"W Encinas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.813095,33.368422,-111.813095,33.368422",
     "geom:latitude":33.368422,
     "geom:longitude":-111.813095,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"2e1cfaf68ad38648583d8a53194f2a51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":169036445
         }
     ],
     "wof:id":169036445,
-    "wof:lastmodified":1466327435,
+    "wof:lastmodified":1491892022,
     "wof:name":"Arizona Cedar Care LLC",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

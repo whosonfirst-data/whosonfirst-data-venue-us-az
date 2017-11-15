@@ -2,9 +2,14 @@
   "id": 337610461,
   "type": "Feature",
   "properties": {
+    "addr:full":"14700 N 100th Pl Scottsdale AZ 85260",
+    "addr:housenumber":"14700",
+    "addr:postcode":"85260",
+    "addr:street":"N 100Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.867238,33.619336,-111.867238,33.619336",
     "geom:latitude":33.619336,
     "geom:longitude":-111.867238,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c055d783035a9e7430512a0a11133410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337610461,
-    "wof:lastmodified":1466327210,
+    "wof:lastmodified":1491908452,
     "wof:name":"Financial Federal Incorporated",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

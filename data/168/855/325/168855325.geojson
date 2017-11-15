@@ -2,9 +2,14 @@
   "id": 168855325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1313 S Val Vista Dr Mesa AZ 85204",
+    "addr:housenumber":"1313",
+    "addr:postcode":"85204",
+    "addr:street":"S Val Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.753744,33.391655,-111.753744,33.391655",
     "geom:latitude":33.391655,
     "geom:longitude":-111.753744,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"bf9b429b0b8450805cf4297fc15152a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168855325,
-    "wof:lastmodified":1466326170,
+    "wof:lastmodified":1491913651,
     "wof:name":"A&E Research Unlimited",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

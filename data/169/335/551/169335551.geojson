@@ -2,9 +2,14 @@
   "id": 169335551,
   "type": "Feature",
   "properties": {
+    "addr:full":"5621 S 41st Dr Phoenix AZ 85041",
+    "addr:housenumber":"5621",
+    "addr:postcode":"85041",
+    "addr:street":"S 41St Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.147573,33.394074,-112.147573,33.394074",
     "geom:latitude":33.394074,
     "geom:longitude":-112.147573,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b7be72f23232e25de01fc12eaa22c070",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169335551,
-    "wof:lastmodified":1466333368,
+    "wof:lastmodified":1491900182,
     "wof:name":"BWB Concrete Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

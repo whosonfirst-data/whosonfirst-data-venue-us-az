@@ -2,9 +2,14 @@
   "id": 169087649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 E Clarendon Ave Phoenix AZ 85018",
+    "addr:housenumber":"3420",
+    "addr:postcode":"85018",
+    "addr:street":"E Clarendon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.008234,33.491609,-112.008234,33.491609",
     "geom:latitude":33.491609,
     "geom:longitude":-112.008234,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"c6bb00474c8c83937031b83f8b63b132",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169087649,
-    "wof:lastmodified":1466330297,
+    "wof:lastmodified":1491890219,
     "wof:name":"Robert Christopher Design",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

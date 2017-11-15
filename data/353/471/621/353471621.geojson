@@ -2,9 +2,14 @@
   "id": 353471621,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 E Balboa Dr Tempe AZ 85282",
+    "addr:housenumber":"604",
+    "addr:postcode":"85282",
+    "addr:street":"E Balboa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.930456,33.397788,-111.930456,33.397788",
     "geom:latitude":33.397788,
     "geom:longitude":-111.930456,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"311554fd906bcb7cb98239ad64247032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353471621,
-    "wof:lastmodified":1466326801,
+    "wof:lastmodified":1491933760,
     "wof:name":"Collaborative Research Institute",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

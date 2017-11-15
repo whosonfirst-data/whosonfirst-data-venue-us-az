@@ -2,9 +2,14 @@
   "id": 152977913,
   "type": "Feature",
   "properties": {
+    "addr:full":"875 N McQueen Rd Chandler AZ 85225",
+    "addr:housenumber":"875",
+    "addr:postcode":"85225",
+    "addr:street":"N Mcqueen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.824058,33.317394,-111.824058,33.317394",
     "geom:latitude":33.317394,
     "geom:longitude":-111.824058,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"fb8e18a8a6c0e29316e101b273f987ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152977913,
-    "wof:lastmodified":1466329048,
+    "wof:lastmodified":1491920753,
     "wof:name":"Avis Rent A Car",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

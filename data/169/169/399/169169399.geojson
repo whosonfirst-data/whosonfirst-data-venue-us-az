@@ -2,9 +2,14 @@
   "id": 169169399,
   "type": "Feature",
   "properties": {
+    "addr:full":"3427 W Cinnabar Ave Phoenix AZ 85051",
+    "addr:housenumber":"3427",
+    "addr:postcode":"85051",
+    "addr:street":"W Cinnabar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.132879,33.576859,-112.132879,33.576859",
     "geom:latitude":33.576859,
     "geom:longitude":-112.132879,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f0bd36973969d8295b192d85f1f85ed6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169169399,
-    "wof:lastmodified":1466331866,
+    "wof:lastmodified":1491888192,
     "wof:name":"Ochoa's Business Delivery",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

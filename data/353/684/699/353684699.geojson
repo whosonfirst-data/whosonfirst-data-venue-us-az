@@ -2,9 +2,14 @@
   "id": 353684699,
   "type": "Feature",
   "properties": {
+    "addr:full":"9550 W Van Buren St Tolleson AZ 85353",
+    "addr:housenumber":"9550",
+    "addr:postcode":"85353",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.264938,33.450294,-112.264938,33.450294",
     "geom:latitude":33.450294,
     "geom:longitude":-112.264938,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"ad673c997df8f1a397856301e60f1cde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353684699
         }
     ],
     "wof:id":353684699,
-    "wof:lastmodified":1466329806,
+    "wof:lastmodified":1491934740,
     "wof:name":"You Need Nails Facials",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

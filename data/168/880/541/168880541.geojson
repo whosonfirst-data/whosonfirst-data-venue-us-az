@@ -2,9 +2,14 @@
   "id": 168880541,
   "type": "Feature",
   "properties": {
+    "addr:full":"2215 S 48th St Tempe AZ 85281",
+    "addr:housenumber":"2215",
+    "addr:postcode":"85281",
+    "addr:street":"S 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.977776,33.415606,-111.977776,33.415606",
     "geom:latitude":33.415606,
     "geom:longitude":-111.977776,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"8f5fb74f916a0c0eab095959407dd6c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":168880541,
-    "wof:lastmodified":1466328272,
+    "wof:lastmodified":1491909683,
     "wof:name":"Sentech Precimeter Inc",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

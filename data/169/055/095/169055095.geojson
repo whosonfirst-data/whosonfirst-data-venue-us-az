@@ -2,9 +2,14 @@
   "id": 169055095,
   "type": "Feature",
   "properties": {
+    "addr:full":"15402 N 28th St Phoenix AZ 85032",
+    "addr:housenumber":"15402",
+    "addr:postcode":"85032",
+    "addr:street":"N 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.022179,33.627775,-112.022179,33.627775",
     "geom:latitude":33.627775,
     "geom:longitude":-112.022179,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5849204be2060afff15e212327b36031",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169055095,
-    "wof:lastmodified":1466328714,
+    "wof:lastmodified":1491932180,
     "wof:name":"AZ Discount Computer Service",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336739579,
   "type": "Feature",
   "properties": {
+    "addr:full":"42302 N Vision Way Ste 109 Phoenix AZ 85086",
+    "addr:housenumber":"42302",
+    "addr:postcode":"85086",
+    "addr:street":"N Vision Way Ste 109",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.150889,33.868195,-112.150889,33.868195",
     "geom:latitude":33.868195,
     "geom:longitude":-112.150889,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -52,7 +58,7 @@
     "wof:geomhash":"5b23b1f691234c21c648b9349d2d7c5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":336739579,
-    "wof:lastmodified":1466328616,
+    "wof:lastmodified":1491934315,
     "wof:name":"Excel Water Softening & Prfctn",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169176543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 N 44th St Phoenix AZ 85008",
+    "addr:housenumber":"2800",
+    "addr:postcode":"85008",
+    "addr:street":"N 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.987076,33.479409,-111.987076,33.479409",
     "geom:latitude":33.479409,
     "geom:longitude":-111.987076,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4e4c8317b22d8de5046e5e65eed1811c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169176543,
-    "wof:lastmodified":1466331988,
+    "wof:lastmodified":1491890228,
     "wof:name":"Cashfast Finance",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

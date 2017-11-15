@@ -2,9 +2,14 @@
   "id": 169370293,
   "type": "Feature",
   "properties": {
+    "addr:full":"2455 E Cloud Dr Chandler AZ 85249",
+    "addr:housenumber":"2455",
+    "addr:postcode":"85249",
+    "addr:street":"E Cloud Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.799551,33.226304,-111.799551,33.226304",
     "geom:latitude":33.226304,
     "geom:longitude":-111.799551,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e2b9bfc04eb822bfdca94b07529af8ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169370293,
-    "wof:lastmodified":1466333727,
+    "wof:lastmodified":1491886954,
     "wof:name":"Old Capital Court",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

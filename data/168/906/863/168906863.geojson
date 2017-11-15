@@ -2,9 +2,14 @@
   "id": 168906863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 N Hobson St Gilbert AZ 85233",
+    "addr:housenumber":"1420",
+    "addr:postcode":"85233",
+    "addr:street":"N Hobson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.81957,33.375391,-111.81957,33.375391",
     "geom:latitude":33.375391,
     "geom:longitude":-111.81957,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"da475c83daf58e6ef66622b161f29d00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":168906863
         }
     ],
     "wof:id":168906863,
-    "wof:lastmodified":1466329818,
+    "wof:lastmodified":1491892010,
     "wof:name":"Complete Spray Systems",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353566797,
   "type": "Feature",
   "properties": {
+    "addr:full":"6710 N 47th Ave Suite 3 Glendale AZ 85301",
+    "addr:housenumber":"6710",
+    "addr:postcode":"85301",
+    "addr:street":"N 47Th Ave Suite 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.160025,33.534564,-112.160025,33.534564",
     "geom:latitude":33.534564,
     "geom:longitude":-112.160025,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -52,7 +58,7 @@
     "wof:geomhash":"ec6e98a73a135abf638b689844769ef2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353566797,
-    "wof:lastmodified":1466328176,
+    "wof:lastmodified":1491912741,
     "wof:name":"AABAR INSURANCE SERVICES",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

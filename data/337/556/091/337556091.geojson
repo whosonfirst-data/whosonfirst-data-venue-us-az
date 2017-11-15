@@ -2,9 +2,14 @@
   "id": 337556091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10135 E Via Linda Linda Ste C118 Scottsdale AZ 85258",
+    "addr:housenumber":"10135",
+    "addr:postcode":"85258",
+    "addr:street":"E Via Linda Linda Ste C118",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.863297,33.574479,-111.863297,33.574479",
     "geom:latitude":33.574479,
     "geom:longitude":-111.863297,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -35,7 +41,7 @@
     "wof:geomhash":"6722d35fe8ffe75e6c8810306488c1d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":337556091,
-    "wof:lastmodified":1466326752,
+    "wof:lastmodified":1491931815,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169225257,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 W Buchanan St Phoenix AZ 85003",
+    "addr:housenumber":"319",
+    "addr:postcode":"85003",
+    "addr:street":"W Buchanan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.078836,33.443124,-112.078836,33.443124",
     "geom:latitude":33.443124,
     "geom:longitude":-112.078836,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7c72e18f455143e12abf16e519697c65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169225257,
-    "wof:lastmodified":1466332306,
+    "wof:lastmodified":1491917003,
     "wof:name":"Maricopa Central Stores Div",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

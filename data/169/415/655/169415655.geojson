@@ -2,9 +2,14 @@
   "id": 169415655,
   "type": "Feature",
   "properties": {
+    "addr:full":"365 N 6th Ave Phoenix AZ 85003",
+    "addr:housenumber":"365",
+    "addr:postcode":"85003",
+    "addr:street":"N 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.081244,33.452567,-112.081244,33.452567",
     "geom:latitude":33.452567,
     "geom:longitude":-112.081244,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"dbbd90b4df704ae79d29128f249b9cc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169415655,
-    "wof:lastmodified":1466334166,
+    "wof:lastmodified":1491917059,
     "wof:name":"Bee Line Transportation",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

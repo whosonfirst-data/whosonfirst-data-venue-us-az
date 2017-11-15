@@ -2,9 +2,14 @@
   "id": 337549837,
   "type": "Feature",
   "properties": {
+    "addr:full":"7344 E Via Estrella Ave Scottsdale AZ 85258",
+    "addr:housenumber":"7344",
+    "addr:postcode":"85258",
+    "addr:street":"E Via Estrella Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.922536,33.57703,-111.922536,33.57703",
     "geom:latitude":33.57703,
     "geom:longitude":-111.922536,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"a728a1f072797afaea7f2239ef01b753",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":337549837,
-    "wof:lastmodified":1466326697,
+    "wof:lastmodified":1491912724,
     "wof:name":"Clean Concepts",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

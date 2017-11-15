@@ -2,9 +2,14 @@
   "id": 336613209,
   "type": "Feature",
   "properties": {
+    "addr:full":"7111 W Indian School Road Phoenix AZ 85033",
+    "addr:housenumber":"7111",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.212524,33.494618,-112.212524,33.494618",
     "geom:latitude":33.494618,
     "geom:longitude":-112.212524,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"0ece93f4f7759eaf37c63a2a25fae867",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336613209
         }
     ],
     "wof:id":336613209,
-    "wof:lastmodified":1466326205,
+    "wof:lastmodified":1491934690,
     "wof:name":"Accessible Self-Storage",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153052555,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 S 7th Ave Phoenix AZ 85007",
+    "addr:housenumber":"2001",
+    "addr:postcode":"85007",
+    "addr:street":"S 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.082434,33.426944,-112.082434,33.426944",
     "geom:latitude":33.426944,
     "geom:longitude":-112.082434,
@@ -25,10 +30,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917479,
+        102087421,
+        85885505,
+        85871015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"deec34887bef3f02091bde62f4fc7e8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
+            "neighbourhood_id":85885505,
+            "region_id":85688719,
+            "venue_id":153052555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917479,
+            "neighbourhood_id":85871015,
             "region_id":85688719,
             "venue_id":153052555
         }
     ],
     "wof:id":153052555,
-    "wof:lastmodified":1466327349,
+    "wof:lastmodified":1491917172,
     "wof:name":"Armando's Mexican Food",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

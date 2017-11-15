@@ -2,9 +2,14 @@
   "id": 336947771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 S Dobson Rd. Chandler AZ 85249",
+    "addr:housenumber":"2400",
+    "addr:postcode":"85249",
+    "addr:street":"S Dobson Rd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.876128,33.273247,-111.876128,33.273247",
     "geom:latitude":33.273247,
     "geom:longitude":-111.876128,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"aee743bedc34d2ccbe33959dcdbc7bda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336947771,
-    "wof:lastmodified":1466330670,
+    "wof:lastmodified":1491915516,
     "wof:name":"Chuparosa Park",
     "wof:parent_id":85876689,
     "wof:placetype":"venue",

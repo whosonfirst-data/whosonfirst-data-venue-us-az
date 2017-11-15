@@ -2,9 +2,14 @@
   "id": 168904759,
   "type": "Feature",
   "properties": {
+    "addr:full":"7231 E Roosevelt St Scottsdale AZ 85257",
+    "addr:housenumber":"7231",
+    "addr:postcode":"85257",
+    "addr:street":"E Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.922573,33.458439,-111.922573,33.458439",
     "geom:latitude":33.458439,
     "geom:longitude":-111.922573,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"3c27c563988828e384846a7c7f9104df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":168904759
         }
     ],
     "wof:id":168904759,
-    "wof:lastmodified":1466329613,
+    "wof:lastmodified":1491905241,
     "wof:name":"A Bargain Towing Co",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

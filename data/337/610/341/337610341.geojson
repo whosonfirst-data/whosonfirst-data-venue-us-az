@@ -2,9 +2,14 @@
   "id": 337610341,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 E Shea Blvd Scottsdale AZ 85260",
+    "addr:housenumber":"7601",
+    "addr:postcode":"85260",
+    "addr:street":"E Shea Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.917908,33.582039,-111.917908,33.582039",
     "geom:latitude":33.582039,
     "geom:longitude":-111.917908,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b85bf882ad54e7a3ebf772b0f5475998",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337610341,
-    "wof:lastmodified":1466327208,
+    "wof:lastmodified":1491912719,
     "wof:name":"Walk Worthy Books & Music",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

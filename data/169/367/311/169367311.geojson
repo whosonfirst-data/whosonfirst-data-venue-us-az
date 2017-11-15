@@ -2,9 +2,14 @@
   "id": 169367311,
   "type": "Feature",
   "properties": {
+    "addr:full":"11248 E Carol Ave Scottsdale AZ 85259",
+    "addr:housenumber":"11248",
+    "addr:postcode":"85259",
+    "addr:street":"E Carol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.837852,33.572824,-111.837852,33.572824",
     "geom:latitude":33.572824,
     "geom:longitude":-111.837852,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"27756fa9ebce83fc43613e202ea5bb62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169367311,
-    "wof:lastmodified":1466333610,
+    "wof:lastmodified":1491931814,
     "wof:name":"Alta Concepts LLC",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

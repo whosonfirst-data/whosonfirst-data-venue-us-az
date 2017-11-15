@@ -2,9 +2,14 @@
   "id": 320753515,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 N 37th St Unit 6 Phoenix AZ 85018",
+    "addr:housenumber":"3033;6",
+    "addr:postcode":"85018",
+    "addr:street":"N 37Th St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.002032,33.483099,-112.002032,33.483099",
     "geom:latitude":33.483099,
     "geom:longitude":-112.002032,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dcdef3829746bfc529864f7c0f00fe86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320753515,
-    "wof:lastmodified":1466328940,
+    "wof:lastmodified":1491890276,
     "wof:name":"Vista Square Association, Inc.",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

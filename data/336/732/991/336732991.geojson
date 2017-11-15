@@ -2,9 +2,14 @@
   "id": 336732991,
   "type": "Feature",
   "properties": {
+    "addr:full":"6418 W Tether Trl Phoenix AZ 85083",
+    "addr:housenumber":"6418",
+    "addr:postcode":"85083",
+    "addr:street":"W Tether Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.198647,33.723896,-112.198647,33.723896",
     "geom:latitude":33.723896,
     "geom:longitude":-112.198647,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"18c4242f405839035ed82922bb37974a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336732991,
-    "wof:lastmodified":1466328535,
+    "wof:lastmodified":1491934252,
     "wof:name":"Az Kart Werx",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

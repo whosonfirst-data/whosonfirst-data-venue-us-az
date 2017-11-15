@@ -2,9 +2,14 @@
   "id": 153018175,
   "type": "Feature",
   "properties": {
+    "addr:full":"2139 E Southern Ave Tempe AZ 85282",
+    "addr:housenumber":"2139",
+    "addr:postcode":"85282",
+    "addr:street":"E Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.893381,33.392905,-111.893381,33.392905",
     "geom:latitude":33.392905,
     "geom:longitude":-111.893381,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b55beedde1e8e40edb390b0941da5ccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153018175,
-    "wof:lastmodified":1466326821,
+    "wof:lastmodified":1491938084,
     "wof:name":"Ronald D Cox MD",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

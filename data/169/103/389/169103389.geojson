@@ -2,9 +2,14 @@
   "id": 169103389,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 N Saba St Chandler AZ 85225",
+    "addr:housenumber":"1600",
+    "addr:postcode":"85225",
+    "addr:street":"N Saba St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.826728,33.331525,-111.826728,33.331525",
     "geom:latitude":33.331525,
     "geom:longitude":-111.826728,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"62d7bc3cffdc8f5cebb780203c867cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169103389,
-    "wof:lastmodified":1466331047,
+    "wof:lastmodified":1491920758,
     "wof:name":"Marcos Hernandez Lawn",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

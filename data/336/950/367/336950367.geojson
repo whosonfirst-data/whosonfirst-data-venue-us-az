@@ -2,9 +2,14 @@
   "id": 336950367,
   "type": "Feature",
   "properties": {
+    "addr:full":"4870 S Gilbert Road Chandler AZ 85249",
+    "addr:housenumber":"4870",
+    "addr:postcode":"85249",
+    "addr:street":"S Gilbert Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.800548,33.23364,-111.800548,33.23364",
     "geom:latitude":33.23364,
     "geom:longitude":-111.800548,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ba9abf5ff44f9ddce039a69640dafdd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336950367,
-    "wof:lastmodified":1466330818,
+    "wof:lastmodified":1491886930,
     "wof:name":"Chandler Ace Hardware",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

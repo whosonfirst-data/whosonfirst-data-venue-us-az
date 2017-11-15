@@ -2,9 +2,14 @@
   "id": 169384631,
   "type": "Feature",
   "properties": {
+    "addr:full":"3006 S Priest Dr Tempe AZ 85281",
+    "addr:housenumber":"3006",
+    "addr:postcode":"85281",
+    "addr:street":"S Priest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.960823,33.39506,-111.960823,33.39506",
     "geom:latitude":33.39506,
     "geom:longitude":-111.960823,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"90d86483fefea84a00c48fe9b541ec24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169384631,
-    "wof:lastmodified":1466333863,
+    "wof:lastmodified":1491909685,
     "wof:name":"Beadbox Inc",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320761091,
   "type": "Feature",
   "properties": {
+    "addr:full":"4350 E Camelback Rd Ste 100C Phoenix AZ 85018",
+    "addr:housenumber":"4350",
+    "addr:postcode":"85018",
+    "addr:street":"E Camelback Rd Ste 100C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.987277,33.509628,-111.987277,33.509628",
     "geom:latitude":33.509628,
     "geom:longitude":-111.987277,
@@ -49,6 +54,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -62,7 +68,7 @@
     "wof:geomhash":"ca27c4b629e1de5bd2a8a0db1da9a654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":320761091,
-    "wof:lastmodified":1466329091,
+    "wof:lastmodified":1491890257,
     "wof:name":"Coldwell Banker",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

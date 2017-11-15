@@ -2,9 +2,14 @@
   "id": 336622897,
   "type": "Feature",
   "properties": {
+    "addr:full":"7333 W Indian School Rd Phoenix AZ 85033",
+    "addr:housenumber":"7333",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.216912,33.494703,-112.216912,33.494703",
     "geom:latitude":33.494703,
     "geom:longitude":-112.216912,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"30ca8a8370b4b98928b1e247386ebeb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336622897
         }
     ],
     "wof:id":336622897,
-    "wof:lastmodified":1466326377,
+    "wof:lastmodified":1491934692,
     "wof:name":"Diamondback Laundries",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

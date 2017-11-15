@@ -2,9 +2,14 @@
   "id": 353680453,
   "type": "Feature",
   "properties": {
+    "addr:full":"9897 W. McDowell Rd Ste 600 Avondale AZ 85353",
+    "addr:housenumber":"9897",
+    "addr:postcode":"85353",
+    "addr:street":"W. Mcdowell Rd Ste 600",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.269826,33.464718,-112.269826,33.464718",
     "geom:latitude":33.464718,
     "geom:longitude":-112.269826,
@@ -35,8 +40,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -48,17 +54,17 @@
     "wof:geomhash":"cc3056aa04a99f446bab03bfb30814eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353680453
         }
     ],
     "wof:id":353680453,
-    "wof:lastmodified":1466329479,
+    "wof:lastmodified":1491934687,
     "wof:name":"DNA Cycles",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

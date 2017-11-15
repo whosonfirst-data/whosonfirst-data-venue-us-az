@@ -2,9 +2,14 @@
   "id": 353682179,
   "type": "Feature",
   "properties": {
+    "addr:full":"8303 W McDowell Rd Tolleson AZ 85353",
+    "addr:housenumber":"8303",
+    "addr:postcode":"85353",
+    "addr:street":"W Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.23819,33.465193,-112.23819,33.465193",
     "geom:latitude":33.465193,
     "geom:longitude":-112.23819,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"dee43cc0d74da33dabf7c75fb98e898e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353682179
         }
     ],
     "wof:id":353682179,
-    "wof:lastmodified":1466329659,
+    "wof:lastmodified":1491934752,
     "wof:name":"24 Hour Available Locksmith On N Del Webb Blvd",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

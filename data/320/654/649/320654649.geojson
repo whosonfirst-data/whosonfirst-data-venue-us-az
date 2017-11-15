@@ -2,9 +2,14 @@
   "id": 320654649,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 W Van Buren St Phoenix AZ 85009",
+    "addr:housenumber":"2101",
+    "addr:postcode":"85009",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.104462,33.451229,-112.104462,33.451229",
     "geom:latitude":33.451229,
     "geom:longitude":-112.104462,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -34,7 +40,7 @@
     "wof:geomhash":"c43fd56f8e68a23d8f35802a73d19e6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":320654649,
-    "wof:lastmodified":1466327124,
+    "wof:lastmodified":1491917235,
     "wof:name":"La Raza Auto Sales",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168859925,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 W Brown Rd Mesa AZ 85201",
+    "addr:housenumber":"40",
+    "addr:postcode":"85201",
+    "addr:street":"W Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.833433,33.435023,-111.833433,33.435023",
     "geom:latitude":33.435023,
     "geom:longitude":-111.833433,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"44474f1252cc5437bb23501326dd39a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168859925,
-    "wof:lastmodified":1466326576,
+    "wof:lastmodified":1491893361,
     "wof:name":"Apex",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

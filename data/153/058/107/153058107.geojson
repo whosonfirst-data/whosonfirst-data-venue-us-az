@@ -2,9 +2,14 @@
   "id": 153058107,
   "type": "Feature",
   "properties": {
+    "addr:full":"15134 Ridgeway Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"15134",
+    "addr:postcode":"85268",
+    "addr:street":"Ridgeway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.752864,33.595464,-111.752864,33.595464",
     "geom:latitude":33.595464,
     "geom:longitude":-111.752864,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9025cd883ba251e407a59db838d0823b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153058107,
-    "wof:lastmodified":1466327743,
+    "wof:lastmodified":1491939340,
     "wof:name":"Djp Enterprises LLC",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

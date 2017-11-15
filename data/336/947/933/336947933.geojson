@@ -2,9 +2,14 @@
   "id": 336947933,
   "type": "Feature",
   "properties": {
+    "addr:full":"5070 S Gilbert Rd Ste 400 Chandler AZ 85249",
+    "addr:housenumber":"5070",
+    "addr:postcode":"85249",
+    "addr:street":"S Gilbert Rd Ste 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.789496,33.23389,-111.789496,33.23389",
     "geom:latitude":33.23389,
     "geom:longitude":-111.789496,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"f454259243bd94622058fc38ff2d4962",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336947933,
-    "wof:lastmodified":1466330672,
+    "wof:lastmodified":1491886953,
     "wof:name":"The Boatzhouse",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

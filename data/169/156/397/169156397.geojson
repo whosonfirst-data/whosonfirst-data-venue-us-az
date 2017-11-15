@@ -2,9 +2,14 @@
   "id": 169156397,
   "type": "Feature",
   "properties": {
+    "addr:full":"6327 E Marilyn Rd Scottsdale AZ 85254",
+    "addr:housenumber":"6327",
+    "addr:postcode":"85254",
+    "addr:street":"E Marilyn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.944226,33.621502,-111.944226,33.621502",
     "geom:latitude":33.621502,
     "geom:longitude":-111.944226,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"71d46a5bc729eeffcde451a77088bd1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169156397,
-    "wof:lastmodified":1466331792,
+    "wof:lastmodified":1491901225,
     "wof:name":"Silverleaf Investments LLC",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

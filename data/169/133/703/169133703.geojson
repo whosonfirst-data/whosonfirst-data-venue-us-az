@@ -2,9 +2,14 @@
   "id": 169133703,
   "type": "Feature",
   "properties": {
+    "addr:full":"7054 E Cochise Rd Scottsdale AZ 85253",
+    "addr:housenumber":"7054",
+    "addr:postcode":"85253",
+    "addr:street":"E Cochise Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.928458,33.580411,-111.928458,33.580411",
     "geom:latitude":33.580411,
     "geom:longitude":-111.928458,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"fa24a81325cc7382b69f561b2d464465",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169133703,
-    "wof:lastmodified":1466331555,
+    "wof:lastmodified":1491912675,
     "wof:name":"Tony Kaocharoen DDS",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

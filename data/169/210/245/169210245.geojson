@@ -2,9 +2,14 @@
   "id": 169210245,
   "type": "Feature",
   "properties": {
+    "addr:full":"9260 E Raintree Dr Scottsdale AZ 85260",
+    "addr:housenumber":"9260",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.881187,33.618897,-111.881187,33.618897",
     "geom:latitude":33.618897,
     "geom:longitude":-111.881187,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"bde1f1b4bec421c06f648bd3a9000b1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169210245,
-    "wof:lastmodified":1466332201,
+    "wof:lastmodified":1491908458,
     "wof:name":"Marcor Commercial Real Estate",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

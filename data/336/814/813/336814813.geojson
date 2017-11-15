@@ -2,9 +2,14 @@
   "id": 336814813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2746 S Extension Rd Mesa AZ 85210",
+    "addr:housenumber":"2746",
+    "addr:postcode":"85210",
+    "addr:street":"S Extension Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.851516,33.36482,-111.851516,33.36482",
     "geom:latitude":33.36482,
     "geom:longitude":-111.851516,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"0416e0f9d31e8d288dc5b6a5511ec94e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336814813,
-    "wof:lastmodified":1466329708,
+    "wof:lastmodified":1491910719,
     "wof:name":"Dolls 2u",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",

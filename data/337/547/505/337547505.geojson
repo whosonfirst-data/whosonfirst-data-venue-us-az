@@ -2,14 +2,20 @@
   "id": 337547505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 N Scottsdale Rd Scottsdale AZ 85257",
+    "addr:housenumber":"1005",
+    "addr:postcode":"85257",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926352,33.458488,-111.926352,33.458488",
     "geom:latitude":33.458488,
     "geom:longitude":-111.926352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1005 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -34,30 +40,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EChACDqxmOi7slgntdkXE_33.458488_-111.926352@1303263116"
     },
     "wof:country":"US",
-    "wof:geomhash":"8efec951f7cdf1b42ed7d85de7100357",
+    "wof:geomhash":"fc00a8ce64400ecdfa74640554f75728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337547505
         }
     ],
     "wof:id":337547505,
-    "wof:lastmodified":1466326674,
+    "wof:lastmodified":1510613088,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

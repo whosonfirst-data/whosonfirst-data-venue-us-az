@@ -2,9 +2,14 @@
   "id": 168938803,
   "type": "Feature",
   "properties": {
+    "addr:full":"1932 E University Dr Tempe AZ 85281",
+    "addr:housenumber":"1932",
+    "addr:postcode":"85281",
+    "addr:street":"E University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.902734,33.422158,-111.902734,33.422158",
     "geom:latitude":33.422158,
     "geom:longitude":-111.902734,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"02840e4a2abe1c81393471a218f2f0be",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168938803,
-    "wof:lastmodified":1466330798,
+    "wof:lastmodified":1491935594,
     "wof:name":"Authentic Muay-Thai Kickboxing",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

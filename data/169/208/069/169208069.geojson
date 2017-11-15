@@ -2,9 +2,14 @@
   "id": 169208069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4715 N 32nd St Phoenix AZ 85018",
+    "addr:housenumber":"4715",
+    "addr:postcode":"85018",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.012912,33.505717,-112.012912,33.505717",
     "geom:latitude":33.505717,
     "geom:longitude":-112.012912,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"587d4d456c9dce442dfb4561ef8ab695",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169208069,
-    "wof:lastmodified":1466332185,
+    "wof:lastmodified":1491890113,
     "wof:name":"Washington Mutual Bank",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

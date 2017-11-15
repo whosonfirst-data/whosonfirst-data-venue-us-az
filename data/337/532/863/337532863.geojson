@@ -2,9 +2,14 @@
   "id": 337532863,
   "type": "Feature",
   "properties": {
+    "addr:full":"10255 E Verbena Ln Scottsdale AZ 85255",
+    "addr:housenumber":"10255",
+    "addr:postcode":"85255",
+    "addr:street":"E Verbena Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.860073,33.638617,-111.860073,33.638617",
     "geom:latitude":33.638617,
     "geom:longitude":-111.860073,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"675e32d20207108f752f4f01f53d20be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":337532863,
-    "wof:lastmodified":1466326536,
+    "wof:lastmodified":1491905979,
     "wof:name":"TH Structural",
     "wof:parent_id":85880957,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169301723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3655 W Anthem Way Phoenix AZ 85086",
+    "addr:housenumber":"3655",
+    "addr:postcode":"85086",
+    "addr:street":"W Anthem Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.136904,33.866036,-112.136904,33.866036",
     "geom:latitude":33.866036,
     "geom:longitude":-112.136904,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8a2d3e661cad3677784086362008502b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169301723,
-    "wof:lastmodified":1466333059,
+    "wof:lastmodified":1491934257,
     "wof:name":"Francos Ristorante LLC",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

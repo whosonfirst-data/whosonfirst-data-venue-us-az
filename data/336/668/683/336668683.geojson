@@ -2,9 +2,14 @@
   "id": 336668683,
   "type": "Feature",
   "properties": {
+    "addr:full":"2246 W Wayland Rd Phoenix AZ 85041",
+    "addr:housenumber":"2246",
+    "addr:postcode":"85041",
+    "addr:street":"W Wayland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.105516,33.394901,-112.105516,33.394901",
     "geom:latitude":33.394901,
     "geom:longitude":-112.105516,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,7 +53,7 @@
     "wof:geomhash":"0499daa100018afd9dde2bf24f332024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":336668683,
-    "wof:lastmodified":1466327394,
+    "wof:lastmodified":1491900212,
     "wof:name":"Chill Factor Ac & Heating Electric",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

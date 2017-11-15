@@ -2,9 +2,14 @@
   "id": 336741537,
   "type": "Feature",
   "properties": {
+    "addr:full":"39512 N Daisy Mountain Dr # 174 Phoenix AZ 85086",
+    "addr:housenumber":"39512",
+    "addr:postcode":"85086",
+    "addr:street":"N Daisy Mountain Dr # 174",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.134803,33.843061,-112.134803,33.843061",
     "geom:latitude":33.843061,
     "geom:longitude":-112.134803,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"561f8177b2585dffef2929a1e106e0aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336741537,
-    "wof:lastmodified":1466328639,
+    "wof:lastmodified":1491934309,
     "wof:name":"My Cleaners",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

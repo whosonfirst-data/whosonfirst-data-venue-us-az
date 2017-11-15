@@ -2,9 +2,14 @@
   "id": 320612407,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 S Central Ave Phoenix AZ 85004",
+    "addr:housenumber":"613",
+    "addr:postcode":"85004",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073822,33.442054,-112.073822,33.442054",
     "geom:latitude":33.442054,
     "geom:longitude":-112.073822,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"d864b3faf9ee2d0a1b495a901c9c68d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320612407,
-    "wof:lastmodified":1466326079,
+    "wof:lastmodified":1491917251,
     "wof:name":"Construction Secretaries & General Staffing",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353392253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1990 E 3rd St Tempe AZ 85281",
+    "addr:housenumber":"1990",
+    "addr:postcode":"85281",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.900784,33.427381,-111.900784,33.427381",
     "geom:latitude":33.427381,
     "geom:longitude":-111.900784,
@@ -47,6 +52,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -60,7 +66,7 @@
     "wof:geomhash":"cdfb7abd86f84c751e8f5b4989199d54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":353392253,
-    "wof:lastmodified":1466326197,
+    "wof:lastmodified":1491935591,
     "wof:name":"Fisher's Tools & Handle",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

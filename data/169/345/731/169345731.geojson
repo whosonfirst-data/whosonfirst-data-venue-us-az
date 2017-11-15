@@ -2,9 +2,14 @@
   "id": 169345731,
   "type": "Feature",
   "properties": {
+    "addr:full":"4515 S McClintock Dr Tempe AZ 85282",
+    "addr:housenumber":"4515",
+    "addr:postcode":"85282",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909114,33.384638,-111.909114,33.384638",
     "geom:latitude":33.384638,
     "geom:longitude":-111.909114,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5b244494111889708e1fe52fdca027b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169345731,
-    "wof:lastmodified":1466333483,
+    "wof:lastmodified":1491938079,
     "wof:name":"Jenner & Darling",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

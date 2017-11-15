@@ -2,9 +2,14 @@
   "id": 320790383,
   "type": "Feature",
   "properties": {
+    "addr:full":"9625 N 21st Dr Ste 4 Phoenix AZ 85021",
+    "addr:housenumber":"9625",
+    "addr:postcode":"85021",
+    "addr:street":"N 21St Dr Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.104532,33.573574,-112.104532,33.573574",
     "geom:latitude":33.573574,
     "geom:longitude":-112.104532,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b13112040855d669b7a0548320fb6d34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320790383,
-    "wof:lastmodified":1466329555,
+    "wof:lastmodified":1491888228,
     "wof:name":"Precision Wood Turning",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

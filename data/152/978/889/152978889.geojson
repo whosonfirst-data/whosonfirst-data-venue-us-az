@@ -2,9 +2,14 @@
   "id": 152978889,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 E Brown Rd Mesa AZ 85201",
+    "addr:housenumber":"339",
+    "addr:postcode":"85201",
+    "addr:street":"E Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.823328,33.435471,-111.823328,33.435471",
     "geom:latitude":33.435471,
     "geom:longitude":-111.823328,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"57b3bfac302cc0308c0ba2b227709ffd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152978889,
-    "wof:lastmodified":1466329059,
+    "wof:lastmodified":1491893368,
     "wof:name":"Basha's",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168826819,
   "type": "Feature",
   "properties": {
+    "addr:full":"6602 E Holiday Dr Mesa AZ 85215",
+    "addr:housenumber":"6602",
+    "addr:postcode":"85215",
+    "addr:street":"E Holiday Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.687892,33.457056,-111.687892,33.457056",
     "geom:latitude":33.457056,
     "geom:longitude":-111.687892,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
+        420558923,
         85840319
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"2929d202480f33dc9bc3c7997b49fc2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917491,
+            "neighbourhood_id":420558923,
+            "region_id":85688719,
+            "venue_id":168826819
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":168826819,
-    "wof:lastmodified":1466325942,
+    "wof:lastmodified":1491918141,
     "wof:name":"American Custom Stor Systems",
-    "wof:parent_id":85840319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

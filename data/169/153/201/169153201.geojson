@@ -2,9 +2,14 @@
   "id": 169153201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1795 E Bartlett Pl Chandler AZ 85249",
+    "addr:housenumber":"1795",
+    "addr:postcode":"85249",
+    "addr:street":"E Bartlett Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.808196,33.234097,-111.808196,33.234097",
     "geom:latitude":33.234097,
     "geom:longitude":-111.808196,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"24797aa041117c4746ca9d28f82349ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169153201,
-    "wof:lastmodified":1466331781,
+    "wof:lastmodified":1491886956,
     "wof:name":"Designer Doubles",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

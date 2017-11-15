@@ -2,9 +2,14 @@
   "id": 320748393,
   "type": "Feature",
   "properties": {
+    "addr:full":"4023 E Flower St Phoenix AZ 85018",
+    "addr:housenumber":"4023",
+    "addr:postcode":"85018",
+    "addr:street":"E Flower St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.995035,33.486292,-111.995035,33.486292",
     "geom:latitude":33.486292,
     "geom:longitude":-111.995035,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4e03fa536118983cf665ae18697b1083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320748393,
-    "wof:lastmodified":1466329047,
+    "wof:lastmodified":1491890107,
     "wof:name":"Lasilencia Arts",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169161217,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 N 36th St Phoenix AZ 85008",
+    "addr:housenumber":"2601",
+    "addr:postcode":"85008",
+    "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.004191,33.477686,-112.004191,33.477686",
     "geom:latitude":33.477686,
     "geom:longitude":-112.004191,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"41c50ce59a8dc79c9ea3a4111448d8c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169161217,
-    "wof:lastmodified":1466331848,
+    "wof:lastmodified":1491890266,
     "wof:name":"Arborwood Apartments",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

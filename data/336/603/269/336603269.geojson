@@ -2,9 +2,14 @@
   "id": 336603269,
   "type": "Feature",
   "properties": {
+    "addr:full":"4038 E Saint John Rd Phoenix AZ 85032",
+    "addr:housenumber":"4038",
+    "addr:postcode":"85032",
+    "addr:street":"E Saint John Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.994141,33.647182,-111.994141,33.647182",
     "geom:latitude":33.647182,
     "geom:longitude":-111.994141,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"14d31074a0f133032c733449efc6afe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336603269,
-    "wof:lastmodified":1466326029,
+    "wof:lastmodified":1491911708,
     "wof:name":"Dots Connect Promotions",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

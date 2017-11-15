@@ -2,9 +2,14 @@
   "id": 320631693,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 W Adams St Rm 402 Phoenix AZ 85007",
+    "addr:housenumber":"1740;402",
+    "addr:postcode":"85007",
+    "addr:street":"W Adams St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.0968,33.449211,-112.0968,33.449211",
     "geom:latitude":33.449211,
     "geom:longitude":-112.0968,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"c979b6a9ea41c132e8f7e64ea1ad6b37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":320631693,
-    "wof:lastmodified":1466326568,
+    "wof:lastmodified":1491917254,
     "wof:name":"Children's Information Center",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

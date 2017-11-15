@@ -2,9 +2,14 @@
   "id": 169312447,
   "type": "Feature",
   "properties": {
+    "addr:full":"14231 N 11th St Phoenix AZ 85022",
+    "addr:housenumber":"14231",
+    "addr:postcode":"85022",
+    "addr:street":"N 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.058773,33.616261,-112.058773,33.616261",
     "geom:latitude":33.616261,
     "geom:longitude":-112.058773,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"5d4fbeaa5113dda060b1a9bfadb58af6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169312447,
-    "wof:lastmodified":1466333125,
+    "wof:lastmodified":1491897074,
     "wof:name":"Creatives By Jessica",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

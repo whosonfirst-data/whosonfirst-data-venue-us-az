@@ -2,14 +2,20 @@
   "id": 353502097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 E Guadalupe Rd Tempe AZ 85283",
+    "addr:housenumber":"1817",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.910429,33.363627,-111.910429,33.363627",
     "geom:latitude":33.363627,
     "geom:longitude":-111.910429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1817 E Guadalupe Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -29,30 +35,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
+    "wof:brand_id":1125150653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RMw2GPZO3ikms7M1IHl17_33.363627_-111.910429@1303263119"
     },
     "wof:country":"US",
-    "wof:geomhash":"23859bf341e4b7e86e3e030d927d4caa",
+    "wof:geomhash":"a91dbeb945a261b19f541ed9b71dcd74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353502097
         }
     ],
     "wof:id":353502097,
-    "wof:lastmodified":1466327221,
+    "wof:lastmodified":1510695188,
     "wof:name":"AAA Locksmith",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169007649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 S Priest Dr Tempe AZ 85281",
+    "addr:housenumber":"1910",
+    "addr:postcode":"85281",
+    "addr:street":"S Priest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.960841,33.407492,-111.960841,33.407492",
     "geom:latitude":33.407492,
     "geom:longitude":-111.960841,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"00b2b32af6fac0a4ebfedc20a1a8ec2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169007649,
-    "wof:lastmodified":1466326632,
+    "wof:lastmodified":1491909672,
     "wof:name":"Graphics Of Tempe",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

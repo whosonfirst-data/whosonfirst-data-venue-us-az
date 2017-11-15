@@ -2,9 +2,14 @@
   "id": 336618749,
   "type": "Feature",
   "properties": {
+    "addr:full":"8225 W Indian School Rd Phoenix AZ 85033",
+    "addr:housenumber":"8225",
+    "addr:postcode":"85033",
+    "addr:street":"W Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.236736,33.494151,-112.236736,33.494151",
     "geom:latitude":33.494151,
     "geom:longitude":-112.236736,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"41941e46f7b4a906466d3bf69618cbd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336618749
         }
     ],
     "wof:id":336618749,
-    "wof:lastmodified":1466326306,
+    "wof:lastmodified":1491934743,
     "wof:name":"Locksmith 24 Hours",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

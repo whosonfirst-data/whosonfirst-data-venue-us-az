@@ -2,9 +2,14 @@
   "id": 169346737,
   "type": "Feature",
   "properties": {
+    "addr:full":"20023 N 43rd Dr Glendale AZ 85308",
+    "addr:housenumber":"20023",
+    "addr:postcode":"85308",
+    "addr:street":"N 43Rd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.152559,33.667801,-112.152559,33.667801",
     "geom:latitude":33.667801,
     "geom:longitude":-112.152559,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,6 +53,7 @@
     "wof:geomhash":"366be42ce7ce5258e9080d721a06aaea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":169346737,
-    "wof:lastmodified":1466333475,
+    "wof:lastmodified":1491902681,
     "wof:name":"Eagle Appraisal",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

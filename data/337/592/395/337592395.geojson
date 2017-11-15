@@ -2,9 +2,14 @@
   "id": 337592395,
   "type": "Feature",
   "properties": {
+    "addr:full":"13475 N 95th Way Scottsdale AZ 85260",
+    "addr:housenumber":"13475",
+    "addr:postcode":"85260",
+    "addr:street":"N 95Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.875209,33.608758,-111.875209,33.608758",
     "geom:latitude":33.608758,
     "geom:longitude":-111.875209,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -53,7 +59,7 @@
     "wof:geomhash":"88a39c8a91b465625bfa11a40cb67f42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":337592395,
-    "wof:lastmodified":1466327047,
+    "wof:lastmodified":1491908461,
     "wof:name":"Green Power Developments",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

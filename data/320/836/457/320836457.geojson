@@ -2,9 +2,14 @@
   "id": 320836457,
   "type": "Feature",
   "properties": {
+    "addr:full":"10636 N 41st St Phoenix AZ 85028",
+    "addr:housenumber":"10636",
+    "addr:postcode":"85028",
+    "addr:street":"N 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.993722,33.583618,-111.993722,33.583618",
     "geom:latitude":33.583618,
     "geom:longitude":-111.993722,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"87243945cda0d43ecb9cbd99b2ba8f76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320836457,
-    "wof:lastmodified":1466330343,
+    "wof:lastmodified":1491905374,
     "wof:name":"Leef Designs Inspired By",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

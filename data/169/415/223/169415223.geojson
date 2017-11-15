@@ -2,9 +2,14 @@
   "id": 169415223,
   "type": "Feature",
   "properties": {
+    "addr:full":"8640 W Tierra Buena Ln Peoria AZ 85382",
+    "addr:housenumber":"8640",
+    "addr:postcode":"85382",
+    "addr:street":"W Tierra Buena Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.243944,33.627443,-112.243944,33.627443",
     "geom:latitude":33.627443,
     "geom:longitude":-112.243944,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"609129319b9dafcd649ef190dee58e16",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":169415223
         }
     ],
     "wof:id":169415223,
-    "wof:lastmodified":1466334161,
+    "wof:lastmodified":1491896375,
     "wof:name":"Steven Bates",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

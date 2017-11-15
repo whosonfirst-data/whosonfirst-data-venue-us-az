@@ -2,9 +2,14 @@
   "id": 169286567,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 S McClintock Dr Tempe AZ 85282",
+    "addr:housenumber":"2525",
+    "addr:postcode":"85282",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.90903,33.402683,-111.90903,33.402683",
     "geom:latitude":33.402683,
     "geom:longitude":-111.90903,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a96d16936f1371e125f47ebae4cf9e82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169286567,
-    "wof:lastmodified":1466332959,
+    "wof:lastmodified":1491915537,
     "wof:name":"Pleasant View Apartments",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

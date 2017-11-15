@@ -2,9 +2,14 @@
   "id": 169050281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1064 N April Cir Mesa AZ 85203",
+    "addr:housenumber":"1064",
+    "addr:postcode":"85203",
+    "addr:street":"N April Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.820359,33.435194,-111.820359,33.435194",
     "geom:latitude":33.435194,
     "geom:longitude":-111.820359,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"dad3d43b80d487cf6289122102d1551e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169050281,
-    "wof:lastmodified":1466328357,
+    "wof:lastmodified":1491893362,
     "wof:name":"Sips By Michael Horne",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

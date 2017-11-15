@@ -2,9 +2,14 @@
   "id": 353888593,
   "type": "Feature",
   "properties": {
+    "addr:full":"4111 E Valley Auto Dr Ste 201 Mesa AZ 86206",
+    "addr:housenumber":"4111",
+    "addr:postcode":"86206",
+    "addr:street":"E Valley Auto Dr Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.743488,33.380758,-111.743488,33.380758",
     "geom:latitude":33.380758,
     "geom:longitude":-111.743488,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -52,7 +58,7 @@
     "wof:geomhash":"a725ce1b4d2dd68f6bceb694a66b8511",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":353888593,
-    "wof:lastmodified":1466330889,
+    "wof:lastmodified":1491913655,
     "wof:name":"Desert Sun Skin Care",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168861535,
   "type": "Feature",
   "properties": {
+    "addr:full":"6729 N 10th Ave Phoenix AZ 85013",
+    "addr:housenumber":"6729",
+    "addr:postcode":"85013",
+    "addr:street":"N 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.086156,33.537673,-112.086156,33.537673",
     "geom:latitude":33.537673,
     "geom:longitude":-112.086156,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9c17a4e3e6be1ad4587f4c64b25a0c26",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168861535,
-    "wof:lastmodified":1466326721,
+    "wof:lastmodified":1491913572,
     "wof:name":"DMH Contracting Inc",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

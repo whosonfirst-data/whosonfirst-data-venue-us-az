@@ -2,9 +2,14 @@
   "id": 168976033,
   "type": "Feature",
   "properties": {
+    "addr:full":"10187 E McDowell Mountain Ranch Rd Scottsdale AZ 85255",
+    "addr:housenumber":"10187",
+    "addr:postcode":"85255",
+    "addr:street":"E Mcdowell Mountain Ranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.862329,33.628563,-111.862329,33.628563",
     "geom:latitude":33.628563,
     "geom:longitude":-111.862329,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e6fe2d16b899f4313b4ec14fcfd1610d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168976033,
-    "wof:lastmodified":1466331305,
+    "wof:lastmodified":1491905978,
     "wof:name":"Arabian Branch Public Library",
     "wof:parent_id":85880957,
     "wof:placetype":"venue",

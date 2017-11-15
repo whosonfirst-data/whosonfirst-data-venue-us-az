@@ -2,9 +2,14 @@
   "id": 337511065,
   "type": "Feature",
   "properties": {
+    "addr:full":"6501 E Greenway Pkwy Scottsdale AZ 85254",
+    "addr:housenumber":"6501",
+    "addr:postcode":"85254",
+    "addr:street":"E Greenway Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.940842,33.625641,-111.940842,33.625641",
     "geom:latitude":33.625641,
     "geom:longitude":-111.940842,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"48a269811c1659a576c09a3f66b75f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337511065,
-    "wof:lastmodified":1466326342,
+    "wof:lastmodified":1491901224,
     "wof:name":"Southwest Recruiting Services",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

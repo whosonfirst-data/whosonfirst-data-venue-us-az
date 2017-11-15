@@ -2,9 +2,14 @@
   "id": 353466717,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 S Hardy Dr Ste 16 Tempe AZ 85282",
+    "addr:housenumber":"2105;16",
+    "addr:postcode":"85282",
+    "addr:street":"S Hardy Dr Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.952164,33.405936,-111.952164,33.405936",
     "geom:latitude":33.405936,
     "geom:longitude":-111.952164,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"7f5f45374caf58ff03b5104fec867826",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":353466717,
-    "wof:lastmodified":1466328016,
+    "wof:lastmodified":1491909678,
     "wof:name":"Barkley-Playman Fluid Power",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

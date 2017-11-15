@@ -2,9 +2,14 @@
   "id": 169123913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 S 19th Ave Phoenix AZ 85009",
+    "addr:housenumber":"1002",
+    "addr:postcode":"85009",
+    "addr:street":"S 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.100078,33.437661,-112.100078,33.437661",
     "geom:latitude":33.437661,
     "geom:longitude":-112.100078,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c9139a3a4d32f34ea4dcdb2cea5798ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169123913,
-    "wof:lastmodified":1466331310,
+    "wof:lastmodified":1491917178,
     "wof:name":"Charlen Cafe",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

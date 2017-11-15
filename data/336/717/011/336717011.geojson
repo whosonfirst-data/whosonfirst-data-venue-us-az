@@ -2,9 +2,14 @@
   "id": 336717011,
   "type": "Feature",
   "properties": {
+    "addr:full":"10402 N Black Canyon Hwy Phoenix AZ 85051",
+    "addr:housenumber":"10402",
+    "addr:postcode":"85051",
+    "addr:street":"N Black Canyon Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117447,33.579788,-112.117447,33.579788",
     "geom:latitude":33.579788,
     "geom:longitude":-112.117447,
@@ -20,6 +25,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -33,7 +39,7 @@
     "wof:geomhash":"881ba232a66ed6e28d6f59cd700d442e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":336717011,
-    "wof:lastmodified":1466328299,
+    "wof:lastmodified":1491888167,
     "wof:name":"Metro Sportz Bar",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

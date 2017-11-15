@@ -2,9 +2,14 @@
   "id": 353493065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1855 E Guadalupe Rd Ste 101 Tempe AZ 85283",
+    "addr:housenumber":"1855",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe Rd Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.908555,33.363758,-111.908555,33.363758",
     "geom:latitude":33.363758,
     "geom:longitude":-111.908555,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"72402f33f8d5bf3b952eaa5c428307d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353493065
         }
     ],
     "wof:id":353493065,
-    "wof:lastmodified":1466327046,
+    "wof:lastmodified":1491918178,
     "wof:name":"Pueblo Dry Cleaners & Laundry",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

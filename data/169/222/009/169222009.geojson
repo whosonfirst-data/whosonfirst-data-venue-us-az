@@ -2,9 +2,14 @@
   "id": 169222009,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 S 3rd St Phoenix AZ 85004",
+    "addr:housenumber":"230",
+    "addr:postcode":"85004",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.070008,33.445434,-112.070008,33.445434",
     "geom:latitude":33.445434,
     "geom:longitude":-112.070008,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"22bb33fae5ccb44719face522b0a8e36",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169222009,
-    "wof:lastmodified":1466332268,
+    "wof:lastmodified":1491917045,
     "wof:name":"Phoenix Suns Athletic Club",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

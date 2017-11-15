@@ -2,9 +2,14 @@
   "id": 168939593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3715 E Thomas Rd Phoenix AZ 85018",
+    "addr:housenumber":"3715",
+    "addr:postcode":"85018",
+    "addr:street":"E Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.000014,33.480367,-112.000014,33.480367",
     "geom:latitude":33.480367,
     "geom:longitude":-112.000014,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8ff081510c1f171e0e32258ed53ae6db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168939593,
-    "wof:lastmodified":1466330788,
+    "wof:lastmodified":1491890115,
     "wof:name":"Chess King",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

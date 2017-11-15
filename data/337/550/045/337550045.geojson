@@ -2,9 +2,14 @@
   "id": 337550045,
   "type": "Feature",
   "properties": {
+    "addr:full":"10245 E Via Linda Linda Ste 101 Scottsdale AZ 85258",
+    "addr:housenumber":"10245",
+    "addr:postcode":"85258",
+    "addr:street":"E Via Linda Linda Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.859126,33.574566,-111.859126,33.574566",
     "geom:latitude":33.574566,
     "geom:longitude":-111.859126,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"b82b59070873a9f15c49fb3b881f6f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":337550045,
-    "wof:lastmodified":1466326700,
+    "wof:lastmodified":1491931827,
     "wof:name":"Oldcastle Glass, Inc.",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

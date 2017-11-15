@@ -2,9 +2,14 @@
   "id": 168974083,
   "type": "Feature",
   "properties": {
+    "addr:full":"9240 E Hillery Way Scottsdale AZ 85260",
+    "addr:housenumber":"9240",
+    "addr:postcode":"85260",
+    "addr:street":"E Hillery Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.882439,33.621428,-111.882439,33.621428",
     "geom:latitude":33.621428,
     "geom:longitude":-111.882439,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"43744f2f8f4b1d3efabf3901d4455fb3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168974083,
-    "wof:lastmodified":1466331258,
+    "wof:lastmodified":1491908457,
     "wof:name":"Kramer Consulting",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

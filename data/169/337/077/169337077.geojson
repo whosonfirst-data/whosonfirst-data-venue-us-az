@@ -2,9 +2,14 @@
   "id": 169337077,
   "type": "Feature",
   "properties": {
+    "addr:full":"4932 W Myrtle Ave Glendale AZ 85301",
+    "addr:housenumber":"4932",
+    "addr:postcode":"85301",
+    "addr:street":"W Myrtle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.164944,33.542209,-112.164944,33.542209",
     "geom:latitude":33.542209,
     "geom:longitude":-112.164944,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"0ac14e6b7f8da613f470ea7ea3f686b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169337077,
-    "wof:lastmodified":1466333312,
+    "wof:lastmodified":1491912753,
     "wof:name":"Melvin E Sine School",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

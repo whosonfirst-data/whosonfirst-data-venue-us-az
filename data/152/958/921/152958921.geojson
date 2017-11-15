@@ -2,9 +2,14 @@
   "id": 152958921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4250 E Camelback Rd Phoenix AZ 85018",
+    "addr:housenumber":"4250",
+    "addr:postcode":"85018",
+    "addr:street":"E Camelback Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.991168,33.50977,-111.991168,33.50977",
     "geom:latitude":33.50977,
     "geom:longitude":-111.991168,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c33b8cc7a937ab85a9e597415e98784a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152958921,
-    "wof:lastmodified":1466327895,
+    "wof:lastmodified":1491890191,
     "wof:name":"Magic Healthcare",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

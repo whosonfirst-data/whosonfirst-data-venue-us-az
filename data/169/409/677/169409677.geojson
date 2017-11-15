@@ -2,9 +2,14 @@
   "id": 169409677,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 E Camelback Rd Phoenix AZ 85018",
+    "addr:housenumber":"3200",
+    "addr:postcode":"85018",
+    "addr:street":"E Camelback Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.011422,33.509965,-112.011422,33.509965",
     "geom:latitude":33.509965,
     "geom:longitude":-112.011422,
@@ -25,10 +30,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917479,
+        102087421,
+        85853881,
+        85871019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"0017f854ea004a23140f45db51b284c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
+            "neighbourhood_id":85853881,
+            "region_id":85688719,
+            "venue_id":169409677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917479,
+            "neighbourhood_id":85871019,
             "region_id":85688719,
             "venue_id":169409677
         }
     ],
     "wof:id":169409677,
-    "wof:lastmodified":1466334078,
+    "wof:lastmodified":1491890197,
     "wof:name":"Prudential Arizona Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 353386725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2220 W 14th St Tempe AZ 85281",
+    "addr:housenumber":"2220",
+    "addr:postcode":"85281",
+    "addr:street":"W 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.973154,33.41357,-111.973154,33.41357",
     "geom:latitude":33.41357,
     "geom:longitude":-111.973154,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"626cfdca0e88b23ddb37c32a2ab109b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353386725,
-    "wof:lastmodified":1466326154,
+    "wof:lastmodified":1491909661,
     "wof:name":"Xelia Wizard Systems, Inc.",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

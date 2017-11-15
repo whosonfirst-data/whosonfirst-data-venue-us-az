@@ -2,9 +2,14 @@
   "id": 153019039,
   "type": "Feature",
   "properties": {
+    "addr:full":"9604 N 43rd Pl Phoenix AZ 85028",
+    "addr:housenumber":"9604",
+    "addr:postcode":"85028",
+    "addr:street":"N 43Rd Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.988488,33.573764,-111.988488,33.573764",
     "geom:latitude":33.573764,
     "geom:longitude":-111.988488,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"7fccc5cb969a06ec50f776beaea06a72",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":153019039,
-    "wof:lastmodified":1466326922,
+    "wof:lastmodified":1491905379,
     "wof:name":"Cal Christiansen & Company",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

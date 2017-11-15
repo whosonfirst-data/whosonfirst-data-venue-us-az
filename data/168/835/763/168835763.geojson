@@ -2,9 +2,14 @@
   "id": 168835763,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 W Tuckey Ln Glendale AZ 85303",
+    "addr:housenumber":"8201",
+    "addr:postcode":"85303",
+    "addr:street":"W Tuckey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.236501,33.532881,-112.236501,33.532881",
     "geom:latitude":33.532881,
     "geom:longitude":-112.236501,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6400e2318baefc5e1f0502a47f42a1c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168835763,
-    "wof:lastmodified":1466326526,
+    "wof:lastmodified":1491936199,
     "wof:name":"Don S Home Improvement",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152991321,
   "type": "Feature",
   "properties": {
+    "addr:full":"42201 N 41st Dr Anthem AZ 85086",
+    "addr:housenumber":"42201",
+    "addr:postcode":"85086",
+    "addr:street":"N 41St Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.148289,33.868806,-112.148289,33.868806",
     "geom:latitude":33.868806,
     "geom:longitude":-112.148289,
@@ -25,10 +30,12 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917479,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917479,
+        102087421,
+        85871003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +45,19 @@
     "wof:geomhash":"4729827e58c9c3455bd357377ba45be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
+            "neighbourhood_id":85871003,
             "region_id":85688719,
             "venue_id":152991321
         }
     ],
     "wof:id":152991321,
-    "wof:lastmodified":1466329583,
+    "wof:lastmodified":1491934268,
     "wof:name":"Adonia's Furniture & Art Gllry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

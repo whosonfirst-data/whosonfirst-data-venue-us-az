@@ -2,9 +2,14 @@
   "id": 169129419,
   "type": "Feature",
   "properties": {
+    "addr:full":"14903 Corona Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"14903",
+    "addr:postcode":"85268",
+    "addr:street":"Corona Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.759341,33.626324,-111.759341,33.626324",
     "geom:latitude":33.626324,
     "geom:longitude":-111.759341,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8dd3734c7a9bf77f6cc98acc8f45b40a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169129419,
-    "wof:lastmodified":1466331531,
+    "wof:lastmodified":1491939250,
     "wof:name":"At Daleo Investment",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

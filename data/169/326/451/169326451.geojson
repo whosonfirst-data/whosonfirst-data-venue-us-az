@@ -2,9 +2,14 @@
   "id": 169326451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1537 W Buckeye Rd Phoenix AZ 85007",
+    "addr:housenumber":"1537",
+    "addr:postcode":"85007",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.091926,33.436666,-112.091926,33.436666",
     "geom:latitude":33.436666,
     "geom:longitude":-112.091926,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ae3174e2034afb5345c31434f2723869",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169326451,
-    "wof:lastmodified":1466333088,
+    "wof:lastmodified":1491917057,
     "wof:name":"Emmanuel Church-God In",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

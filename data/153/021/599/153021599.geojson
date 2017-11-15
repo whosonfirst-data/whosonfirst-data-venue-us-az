@@ -2,9 +2,14 @@
   "id": 153021599,
   "type": "Feature",
   "properties": {
+    "addr:full":"3438 W Buckeye Rd Phoenix AZ 85009",
+    "addr:housenumber":"3438",
+    "addr:postcode":"85009",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.130708,33.436975,-112.130708,33.436975",
     "geom:latitude":33.436975,
     "geom:longitude":-112.130708,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"00c38c543ea62f8d29c9c06e6c850320",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":153021599,
-    "wof:lastmodified":1466327212,
+    "wof:lastmodified":1491917036,
     "wof:name":"Used Tire Wheel",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

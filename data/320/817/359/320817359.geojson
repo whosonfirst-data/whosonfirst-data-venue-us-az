@@ -2,9 +2,14 @@
   "id": 320817359,
   "type": "Feature",
   "properties": {
+    "addr:full":"19646 N 27th Ave Ste 205 Phoenix AZ 85027",
+    "addr:housenumber":"19646",
+    "addr:postcode":"85027",
+    "addr:street":"N 27Th Ave Ste 205",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117241,33.665095,-112.117241,33.665095",
     "geom:latitude":33.665095,
     "geom:longitude":-112.117241,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"64508967bdc81d67d7f07e37b1abf848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320817359,
-    "wof:lastmodified":1466330053,
+    "wof:lastmodified":1491889265,
     "wof:name":"John C. Lincoln Breast Health Center",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

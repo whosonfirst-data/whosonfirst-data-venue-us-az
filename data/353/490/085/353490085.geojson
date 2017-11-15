@@ -2,9 +2,14 @@
   "id": 353490085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1827 E Guadalupe Rd Tempe AZ 85283",
+    "addr:housenumber":"1827",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.910013,33.363767,-111.910013,33.363767",
     "geom:latitude":33.363767,
     "geom:longitude":-111.910013,
@@ -62,8 +67,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -76,17 +82,17 @@
     "wof:geomhash":"8b920d0a5f1fac637608287adb8bc755",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353490085
         }
     ],
     "wof:id":353490085,
-    "wof:lastmodified":1466326989,
+    "wof:lastmodified":1491918177,
     "wof:name":"Jamba Juice",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

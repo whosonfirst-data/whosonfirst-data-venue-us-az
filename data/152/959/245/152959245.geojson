@@ -2,9 +2,14 @@
   "id": 152959245,
   "type": "Feature",
   "properties": {
+    "addr:full":"10080 E Mountainview Lake Dr Scottsdale AZ 85258",
+    "addr:housenumber":"10080",
+    "addr:postcode":"85258",
+    "addr:street":"E Mountainview Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.86341,33.57542,-111.86341,33.57542",
     "geom:latitude":33.57542,
     "geom:longitude":-111.86341,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"925d36b2a65b95b91fe8be0fc43f0139",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152959245,
-    "wof:lastmodified":1466327910,
+    "wof:lastmodified":1491931819,
     "wof:name":"Perfect Promo",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

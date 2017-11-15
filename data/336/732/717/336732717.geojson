@@ -2,9 +2,14 @@
   "id": 336732717,
   "type": "Feature",
   "properties": {
+    "addr:full":"6462 W Eagle Talon Trl Phoenix AZ 85083",
+    "addr:housenumber":"6462",
+    "addr:postcode":"85083",
+    "addr:street":"W Eagle Talon Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.199212,33.738266,-112.199212,33.738266",
     "geom:latitude":33.738266,
     "geom:longitude":-112.199212,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"9759f67dc9aaa77a0deaaea29138d331",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336732717,
-    "wof:lastmodified":1466328529,
+    "wof:lastmodified":1491934253,
     "wof:name":"Shades Window Tinting",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

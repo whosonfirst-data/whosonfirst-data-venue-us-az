@@ -2,9 +2,14 @@
   "id": 169120213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 E Camelback Rd Phoenix AZ 85018",
+    "addr:housenumber":"3333",
+    "addr:postcode":"85018",
+    "addr:street":"E Camelback Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.010963,33.50989,-112.010963,33.50989",
     "geom:latitude":33.50989,
     "geom:longitude":-112.010963,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ffed0dba1e24b56d13f4788f2be94dad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169120213,
-    "wof:lastmodified":1466331316,
+    "wof:lastmodified":1491890148,
     "wof:name":"Berlitz Language Ctr",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

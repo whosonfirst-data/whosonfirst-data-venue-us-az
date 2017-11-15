@@ -2,9 +2,14 @@
   "id": 152932737,
   "type": "Feature",
   "properties": {
+    "addr:full":"13735 N 97th Way Scottsdale AZ 85260",
+    "addr:housenumber":"13735",
+    "addr:postcode":"85260",
+    "addr:street":"N 97Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.870053,33.611138,-111.870053,33.611138",
     "geom:latitude":33.611138,
     "geom:longitude":-111.870053,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2a266c56e79b58dc13124235106b97f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152932737,
-    "wof:lastmodified":1466326167,
+    "wof:lastmodified":1491908467,
     "wof:name":"Wealthpro Financial LLC",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320661215,
   "type": "Feature",
   "properties": {
+    "addr:full":"3060 S 27th Ave Phoenix AZ 85009",
+    "addr:housenumber":"3060",
+    "addr:postcode":"85009",
+    "addr:street":"S 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117449,33.419226,-112.117449,33.419226",
     "geom:latitude":33.419226,
     "geom:longitude":-112.117449,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f31953b0ad9643cad1ef8ae0706d6acb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320661215,
-    "wof:lastmodified":1466327296,
+    "wof:lastmodified":1491900171,
     "wof:name":"Excel Staffing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

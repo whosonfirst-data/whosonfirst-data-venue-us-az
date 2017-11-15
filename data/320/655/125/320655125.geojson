@@ -2,9 +2,14 @@
   "id": 320655125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1921 W Madison St Phoenix AZ 85009",
+    "addr:housenumber":"1921",
+    "addr:postcode":"85009",
+    "addr:street":"W Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.10059,33.445946,-112.10059,33.445946",
     "geom:latitude":33.445946,
     "geom:longitude":-112.10059,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5bf3e14402c786beb90c7a36250fecf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320655125,
-    "wof:lastmodified":1466327137,
+    "wof:lastmodified":1491917203,
     "wof:name":"Hamm's Taxi Svc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

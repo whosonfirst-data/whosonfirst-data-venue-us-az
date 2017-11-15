@@ -2,9 +2,14 @@
   "id": 336789175,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 E Auto Center Drive Mesa AZ 85204",
+    "addr:housenumber":"460",
+    "addr:postcode":"85204",
+    "addr:street":"Auto Center Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.821369,33.383346,-111.821369,33.383346",
     "geom:latitude":33.383346,
     "geom:longitude":-111.821369,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"dd821638694cd91322dd0c6482dee979",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336789175
         }
     ],
     "wof:id":336789175,
-    "wof:lastmodified":1466329284,
+    "wof:lastmodified":1491892006,
     "wof:name":"Berge Ford",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

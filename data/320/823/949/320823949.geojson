@@ -2,9 +2,14 @@
   "id": 320823949,
   "type": "Feature",
   "properties": {
+    "addr:full":"3226 W Melinda Ln Phoenix AZ 85027",
+    "addr:housenumber":"3226",
+    "addr:postcode":"85027",
+    "addr:street":"W Melinda Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.127718,33.683108,-112.127718,33.683108",
     "geom:latitude":33.683108,
     "geom:longitude":-112.127718,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7b8e6ff8f17536ab0eec1761bd78767b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320823949,
-    "wof:lastmodified":1466330042,
+    "wof:lastmodified":1491902682,
     "wof:name":"Whisler Racing Services Incorporated",
     "wof:parent_id":85851427,
     "wof:placetype":"venue",

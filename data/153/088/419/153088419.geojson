@@ -2,9 +2,14 @@
   "id": 153088419,
   "type": "Feature",
   "properties": {
+    "addr:full":"24202 N 83rd St Scottsdale AZ 85255",
+    "addr:housenumber":"24202",
+    "addr:postcode":"85255",
+    "addr:street":"N 83Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.901453,33.705997,-111.901453,33.705997",
     "geom:latitude":33.705997,
     "geom:longitude":-111.901453,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"71358a1c9218bc9275cb96b274aeb6dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":153088419,
-    "wof:lastmodified":1466329223,
+    "wof:lastmodified":1491926456,
     "wof:name":"Kilt Rental-Claymore Imports",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

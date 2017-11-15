@@ -2,9 +2,14 @@
   "id": 320746521,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 E Lincoln Dr Unit 34 Phoenix AZ 85018",
+    "addr:housenumber":"3500;34",
+    "addr:postcode":"85018",
+    "addr:street":"E Lincoln Dr Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.006706,33.531929,-112.006706,33.531929",
     "geom:latitude":33.531929,
     "geom:longitude":-112.006706,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"23dc5444e4fe0d87d39f1caf2baf6208",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320746521,
-    "wof:lastmodified":1466329004,
+    "wof:lastmodified":1491935652,
     "wof:name":"Dye Investment Properties",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",

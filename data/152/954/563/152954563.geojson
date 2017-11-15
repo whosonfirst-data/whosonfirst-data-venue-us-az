@@ -2,9 +2,14 @@
   "id": 152954563,
   "type": "Feature",
   "properties": {
+    "addr:full":"431 E Papago Dr Tempe AZ 85281",
+    "addr:housenumber":"431",
+    "addr:postcode":"85281",
+    "addr:street":"E Papago Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.931812,33.45326,-111.931812,33.45326",
     "geom:latitude":33.45326,
     "geom:longitude":-111.931812,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"6a8ea8857e2473dd6bc75e8a5c82bc20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":152954563
         }
     ],
     "wof:id":152954563,
-    "wof:lastmodified":1466327694,
+    "wof:lastmodified":1491905226,
     "wof:name":"Gift Certificates Inc",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

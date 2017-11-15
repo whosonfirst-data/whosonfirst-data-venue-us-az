@@ -2,9 +2,14 @@
   "id": 336739263,
   "type": "Feature",
   "properties": {
+    "addr:full":"41913 N Signal Hill Ct Phoenix AZ 85086",
+    "addr:housenumber":"41913",
+    "addr:postcode":"85086",
+    "addr:street":"N Signal Hill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.09693,33.865387,-112.09693,33.865387",
     "geom:latitude":33.865387,
     "geom:longitude":-112.09693,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"303e0e57ddeff264cb8131c723e086d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336739263,
-    "wof:lastmodified":1466328610,
+    "wof:lastmodified":1491934254,
     "wof:name":"Jenkins, Ferguson Enterprises",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336941953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1911 W Bluebird Drive Chandler AZ 85248",
+    "addr:housenumber":"1911",
+    "addr:postcode":"85248",
+    "addr:street":"W Bluebird Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.875889,33.269307,-111.875889,33.269307",
     "geom:latitude":33.269307,
     "geom:longitude":-111.875889,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2a14a17481e92bd5dfabc3302ea006cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336941953,
-    "wof:lastmodified":1466330751,
+    "wof:lastmodified":1491915516,
     "wof:name":"Cornerstone Financial Planning",
     "wof:parent_id":85876689,
     "wof:placetype":"venue",

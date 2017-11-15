@@ -2,9 +2,14 @@
   "id": 353455143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1727 E Baker Rd Tempe AZ 85282",
+    "addr:housenumber":"1727",
+    "addr:postcode":"85282",
+    "addr:street":"E Baker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909876,33.381251,-111.909876,33.381251",
     "geom:latitude":33.381251,
     "geom:longitude":-111.909876,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -47,7 +53,7 @@
     "wof:geomhash":"21c2d8268bca494c5a20b8357a480639",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":353455143,
-    "wof:lastmodified":1466326689,
+    "wof:lastmodified":1491938089,
     "wof:name":"Stevens Plumbing Heating and Air Conditioning",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153015037,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 W Clinton St Phoenix AZ 85029",
+    "addr:housenumber":"3010",
+    "addr:postcode":"85029",
+    "addr:street":"W Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125258,33.58325,-112.125258,33.58325",
     "geom:latitude":33.58325,
     "geom:longitude":-112.125258,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2267e3994fd5a5c318ee7938c746a104",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":153015037,
-    "wof:lastmodified":1466326548,
+    "wof:lastmodified":1491888167,
     "wof:name":"Aetna Life & Casualty",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

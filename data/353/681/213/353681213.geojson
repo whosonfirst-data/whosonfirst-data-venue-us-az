@@ -2,9 +2,14 @@
   "id": 353681213,
   "type": "Feature",
   "properties": {
+    "addr:full":"8399 West Van Buren, Suite 204 Tolleson AZ 85353",
+    "addr:housenumber":"8399",
+    "addr:postcode":"85353",
+    "addr:street":"West Van;Suite 204",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.240967,33.451591,-112.240967,33.451591",
     "geom:latitude":33.451591,
     "geom:longitude":-112.240967,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -50,17 +56,17 @@
     "wof:geomhash":"8073e2a5fdc05ab9b0e9712fd9b45c39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353681213
         }
     ],
     "wof:id":353681213,
-    "wof:lastmodified":1466329490,
+    "wof:lastmodified":1491934747,
     "wof:name":"Pin Point Gymnastics",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

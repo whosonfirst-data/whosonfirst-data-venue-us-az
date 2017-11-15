@@ -2,9 +2,14 @@
   "id": 168986275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3840 W Mission Ln Phoenix AZ 85051",
+    "addr:housenumber":"3840",
+    "addr:postcode":"85051",
+    "addr:street":"W Mission Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.140099,33.571506,-112.140099,33.571506",
     "geom:latitude":33.571506,
     "geom:longitude":-112.140099,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"1e5bf3386a3f87a75898cb5af8f83f0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":168986275,
-    "wof:lastmodified":1466331530,
+    "wof:lastmodified":1491888227,
     "wof:name":"Jeff & Maria's Gifts",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

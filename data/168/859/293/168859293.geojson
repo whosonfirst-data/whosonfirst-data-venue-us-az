@@ -2,9 +2,14 @@
   "id": 168859293,
   "type": "Feature",
   "properties": {
+    "addr:full":"6604 N 78th St Scottsdale AZ 85250",
+    "addr:housenumber":"6604",
+    "addr:postcode":"85250",
+    "addr:street":"N 78Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.910963,33.533473,-111.910963,33.533473",
     "geom:latitude":33.533473,
     "geom:longitude":-111.910963,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0357a3f3e98ed56ba01b3a6b75f312d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168859293,
-    "wof:lastmodified":1466326515,
+    "wof:lastmodified":1491906816,
     "wof:name":"Bill L Tucker",
     "wof:parent_id":85880967,
     "wof:placetype":"venue",

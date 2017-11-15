@@ -2,9 +2,14 @@
   "id": 336742433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 W Silver Pine Dr Phoenix AZ 85086",
+    "addr:housenumber":"1410",
+    "addr:postcode":"85086",
+    "addr:street":"W Silver Pine Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.091036,33.866115,-112.091036,33.866115",
     "geom:latitude":33.866115,
     "geom:longitude":-112.091036,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cd906b422a7e952f91de67b41cd1a849",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336742433,
-    "wof:lastmodified":1466328896,
+    "wof:lastmodified":1491934298,
     "wof:name":"Valley Capital Services",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169274927,
   "type": "Feature",
   "properties": {
+    "addr:full":"16317 E Inca Ave Fountain Hills AZ 85268",
+    "addr:housenumber":"16317",
+    "addr:postcode":"85268",
+    "addr:street":"E Inca Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.728038,33.591142,-111.728038,33.591142",
     "geom:latitude":33.591142,
     "geom:longitude":-111.728038,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e20f648d14abf91a92eef660e1c74c8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169274927,
-    "wof:lastmodified":1466332800,
+    "wof:lastmodified":1491939331,
     "wof:name":"Country Meadows Park Partners",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

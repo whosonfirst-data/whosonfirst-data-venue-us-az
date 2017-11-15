@@ -2,9 +2,14 @@
   "id": 169311203,
   "type": "Feature",
   "properties": {
+    "addr:full":"15507 E Chaparral Way Fountain Hills AZ 85268",
+    "addr:housenumber":"15507",
+    "addr:postcode":"85268",
+    "addr:street":"E Chaparral Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.745241,33.620283,-111.745241,33.620283",
     "geom:latitude":33.620283,
     "geom:longitude":-111.745241,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"94e0a52d6c93d8ed0d19f4bea29f53da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169311203,
-    "wof:lastmodified":1466333064,
+    "wof:lastmodified":1491939311,
     "wof:name":"Fisher Investments Inc",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

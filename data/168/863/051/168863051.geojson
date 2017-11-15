@@ -2,9 +2,14 @@
   "id": 168863051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4633 E Virginia Ave Phoenix AZ 85008",
+    "addr:housenumber":"4633",
+    "addr:postcode":"85008",
+    "addr:street":"E Virginia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.97905,33.476326,-111.97905,33.476326",
     "geom:latitude":33.476326,
     "geom:longitude":-111.97905,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"6985c736906ff85480760eb3095efbd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168863051,
-    "wof:lastmodified":1466326855,
+    "wof:lastmodified":1491890105,
     "wof:name":"Sierra Cnstr MGT & Dev LLC",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

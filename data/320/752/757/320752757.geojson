@@ -2,9 +2,14 @@
   "id": 320752757,
   "type": "Feature",
   "properties": {
+    "addr:full":"4647 N 32nd St Ste B110 Phoenix AZ 85018",
+    "addr:housenumber":"4647",
+    "addr:postcode":"85018",
+    "addr:street":"N 32Nd St Ste B110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.012978,33.505632,-112.012978,33.505632",
     "geom:latitude":33.505632,
     "geom:longitude":-112.012978,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"2005316b446d9ea12ffcf2090299812b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320752757,
-    "wof:lastmodified":1466328923,
+    "wof:lastmodified":1491890175,
     "wof:name":"National Equity Consultants",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

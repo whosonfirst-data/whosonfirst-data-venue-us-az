@@ -2,9 +2,14 @@
   "id": 169110975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1770 S Dobson Rd Chandler AZ 85286",
+    "addr:housenumber":"1770",
+    "addr:postcode":"85286",
+    "addr:street":"S Dobson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.876223,33.283479,-111.876223,33.283479",
     "geom:latitude":33.283479,
     "geom:longitude":-111.876223,
@@ -25,10 +30,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917533,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917533,
+        102087421,
+        420535739,
+        85876689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"4c3bbd75d1ae5800af4b4a46b3563b05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
+            "neighbourhood_id":420535739,
+            "region_id":85688719,
+            "venue_id":169110975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917533,
+            "neighbourhood_id":85876689,
             "region_id":85688719,
             "venue_id":169110975
         }
     ],
     "wof:id":169110975,
-    "wof:lastmodified":1466331198,
+    "wof:lastmodified":1491915517,
     "wof:name":"Montessori Christian Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

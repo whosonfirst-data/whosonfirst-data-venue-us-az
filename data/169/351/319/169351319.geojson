@@ -2,9 +2,14 @@
   "id": 169351319,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 Aqua Fria Fwy Phoenix AZ 85027",
+    "addr:housenumber":"2902",
+    "addr:postcode":"85027",
+    "addr:street":"Aqua Fria Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125885,33.668952,-112.125885,33.668952",
     "geom:latitude":33.668952,
     "geom:longitude":-112.125885,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"eae76014d2751c448ed5457ba877edd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169351319,
-    "wof:lastmodified":1466333487,
+    "wof:lastmodified":1491889268,
     "wof:name":"Circulation Technicians",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

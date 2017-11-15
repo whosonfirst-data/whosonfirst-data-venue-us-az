@@ -2,9 +2,14 @@
   "id": 337536335,
   "type": "Feature",
   "properties": {
+    "addr:full":"7750 E Mcdowell Rd Scottsdale AZ 85257",
+    "addr:housenumber":"7750",
+    "addr:postcode":"85257",
+    "addr:street":"E Mcdowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.913708,33.465873,-111.913708,33.465873",
     "geom:latitude":33.465873,
     "geom:longitude":-111.913708,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"7a882a105d7dabfaab41eac11b16d436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337536335
         }
     ],
     "wof:id":337536335,
-    "wof:lastmodified":1466326568,
+    "wof:lastmodified":1491905220,
     "wof:name":"USPS - United States Post Office - Scottsdale Papago Retail Store",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169148069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4436 N 66th Ave Phoenix AZ 85033",
+    "addr:housenumber":"4436",
+    "addr:postcode":"85033",
+    "addr:street":"N 66Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.202384,33.500085,-112.202384,33.500085",
     "geom:latitude":33.500085,
     "geom:longitude":-112.202384,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"786dab3201b4204ab00a08af596ac317",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169148069
         }
     ],
     "wof:id":169148069,
-    "wof:lastmodified":1466331716,
+    "wof:lastmodified":1491934654,
     "wof:name":"Instant Party Prints",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

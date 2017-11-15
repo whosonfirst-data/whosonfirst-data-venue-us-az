@@ -2,9 +2,14 @@
   "id": 169089223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2036 N Gilbert Rd Mesa AZ 85203",
+    "addr:housenumber":"2036",
+    "addr:postcode":"85203",
+    "addr:street":"N Gilbert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.787712,33.45257,-111.787712,33.45257",
     "geom:latitude":33.45257,
     "geom:longitude":-111.787712,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"26da10419bd68b58b604f1ae381e1ba7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169089223,
-    "wof:lastmodified":1466330392,
+    "wof:lastmodified":1491927307,
     "wof:name":"Floridinos Pizza & Pasta",
     "wof:parent_id":85831453,
     "wof:placetype":"venue",

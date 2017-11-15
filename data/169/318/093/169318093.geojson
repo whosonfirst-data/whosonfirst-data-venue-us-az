@@ -2,9 +2,14 @@
   "id": 169318093,
   "type": "Feature",
   "properties": {
+    "addr:full":"10007 E Sunnyslope Ln Scottsdale AZ 85258",
+    "addr:housenumber":"10007",
+    "addr:postcode":"85258",
+    "addr:street":"E Sunnyslope Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.86813,33.572981,-111.86813,33.572981",
     "geom:latitude":33.572981,
     "geom:longitude":-111.86813,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"890fad6d316a8e757fd71ae126acf055",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169318093,
-    "wof:lastmodified":1466333160,
+    "wof:lastmodified":1491931844,
     "wof:name":"Profit Power",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

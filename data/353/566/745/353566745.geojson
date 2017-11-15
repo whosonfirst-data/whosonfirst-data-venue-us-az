@@ -2,9 +2,14 @@
   "id": 353566745,
   "type": "Feature",
   "properties": {
+    "addr:full":"6550 N 47th Ave Glendale AZ 85301",
+    "addr:housenumber":"6550",
+    "addr:postcode":"85301",
+    "addr:street":"N 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.160032,33.531883,-112.160032,33.531883",
     "geom:latitude":33.531883,
     "geom:longitude":-112.160032,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"11da6c19c39311fa20890fc875c0f07c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353566745,
-    "wof:lastmodified":1466328175,
+    "wof:lastmodified":1491912741,
     "wof:name":"Rosati's Chef Service",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

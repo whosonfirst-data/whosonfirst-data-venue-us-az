@@ -2,9 +2,14 @@
   "id": 337504637,
   "type": "Feature",
   "properties": {
+    "addr:full":"4912 E Shea Blvd Scottsdale AZ 85254",
+    "addr:housenumber":"4912",
+    "addr:postcode":"85254",
+    "addr:street":"E Shea Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.974373,33.582705,-111.974373,33.582705",
     "geom:latitude":33.582705,
     "geom:longitude":-111.974373,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"b7251d5c834501a20b77c1fce4d7d2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":337504637,
-    "wof:lastmodified":1466326290,
+    "wof:lastmodified":1491905347,
     "wof:name":"Ambassador Fine Cigars",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

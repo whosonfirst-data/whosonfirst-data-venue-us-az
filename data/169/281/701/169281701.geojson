@@ -2,9 +2,14 @@
   "id": 169281701,
   "type": "Feature",
   "properties": {
+    "addr:full":"38815 N 31st Ave Phoenix AZ 85086",
+    "addr:housenumber":"38815",
+    "addr:postcode":"85086",
+    "addr:street":"N 31St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.126108,33.836162,-112.126108,33.836162",
     "geom:latitude":33.836162,
     "geom:longitude":-112.126108,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4a0eb0e864b3d7cb32230370265040d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169281701,
-    "wof:lastmodified":1466332837,
+    "wof:lastmodified":1491934279,
     "wof:name":"B & A Home Inspection",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

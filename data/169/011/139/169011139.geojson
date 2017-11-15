@@ -2,9 +2,14 @@
   "id": 169011139,
   "type": "Feature",
   "properties": {
+    "addr:full":"19848 N 27th Ave Phoenix AZ 85027",
+    "addr:housenumber":"19848",
+    "addr:postcode":"85027",
+    "addr:street":"N 27Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117317,33.665888,-112.117317,33.665888",
     "geom:latitude":33.665888,
     "geom:longitude":-112.117317,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -41,6 +47,7 @@
     "wof:geomhash":"5a20800f0313477f942bee2759b8dd19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":169011139,
-    "wof:lastmodified":1466326981,
+    "wof:lastmodified":1491889258,
     "wof:name":"7-Eleven",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

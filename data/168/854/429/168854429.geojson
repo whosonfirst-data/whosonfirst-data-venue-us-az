@@ -2,14 +2,20 @@
   "id": 168854429,
   "type": "Feature",
   "properties": {
+    "addr:full":"2837 N 75th Ave Phoenix AZ 85035",
+    "addr:housenumber":"2837",
+    "addr:postcode":"85035",
+    "addr:street":"N 75Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.220576,33.479102,-112.220576,33.479102",
     "geom:latitude":33.479102,
     "geom:longitude":-112.220576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2837 N 75th Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,29 +37,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
+    "wof:brand_id":1125156059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XLcPTzqMlj66qATD6GATD_33.479102_-112.220576@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ba54a4b1cee25177624143be4f53aaf",
+    "wof:geomhash":"d02d68b9b16975136d0420e4e84a8a9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":168854429
         }
     ],
     "wof:id":168854429,
-    "wof:lastmodified":1466326092,
+    "wof:lastmodified":1510697113,
     "wof:name":"Cigarettes Cheaper",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

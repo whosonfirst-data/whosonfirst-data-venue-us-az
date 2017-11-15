@@ -2,9 +2,14 @@
   "id": 169221223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2823 E Indian Wells Pl Chandler AZ 85249",
+    "addr:housenumber":"2823",
+    "addr:postcode":"85249",
+    "addr:street":"E Indian Wells Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.792973,33.213239,-111.792973,33.213239",
     "geom:latitude":33.213239,
     "geom:longitude":-111.792973,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e1d19669d4a1cba14be5a7108d430fa3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169221223,
-    "wof:lastmodified":1466332336,
+    "wof:lastmodified":1491886943,
     "wof:name":"Draperies & More",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

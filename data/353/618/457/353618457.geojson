@@ -2,9 +2,14 @@
   "id": 353618457,
   "type": "Feature",
   "properties": {
+    "addr:full":"10601 W Papago Fwy Avondale AZ 85323",
+    "addr:housenumber":"10601",
+    "addr:postcode":"85323",
+    "addr:street":"W Papago Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.288368,33.459465,-112.288368,33.459465",
     "geom:latitude":33.459465,
     "geom:longitude":-112.288368,
@@ -38,8 +43,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -51,17 +57,17 @@
     "wof:geomhash":"e128367e2a85f87c3d83db65cd324a50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353618457
         }
     ],
     "wof:id":353618457,
-    "wof:lastmodified":1466328757,
+    "wof:lastmodified":1491934750,
     "wof:name":"Salazar Subaru",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

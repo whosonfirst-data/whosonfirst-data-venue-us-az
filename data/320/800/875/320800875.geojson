@@ -2,9 +2,14 @@
   "id": 320800875,
   "type": "Feature",
   "properties": {
+    "addr:full":"642 E Winged Foot Rd Phoenix AZ 85022",
+    "addr:housenumber":"642",
+    "addr:postcode":"85022",
+    "addr:street":"E Winged Foot Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.066078,33.616119,-112.066078,33.616119",
     "geom:latitude":33.616119,
     "geom:longitude":-112.066078,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"66e34a26955fe4802b18cb3b9e8a227b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320800875,
-    "wof:lastmodified":1466329824,
+    "wof:lastmodified":1491897063,
     "wof:name":"Gypsy Runner",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

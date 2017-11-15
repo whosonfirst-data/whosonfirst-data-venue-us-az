@@ -2,9 +2,14 @@
   "id": 353562569,
   "type": "Feature",
   "properties": {
+    "addr:full":"6610 N 47th Ave Ste 12 Glendale AZ 85301",
+    "addr:housenumber":"6610",
+    "addr:postcode":"85301",
+    "addr:street":"N 47Th Ave Ste 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.160027,33.533122,-112.160027,33.533122",
     "geom:latitude":33.533122,
     "geom:longitude":-112.160027,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"7ebf87439e34cd5ad680a75b65c00d88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":353562569,
-    "wof:lastmodified":1466328120,
+    "wof:lastmodified":1491912747,
     "wof:name":"Back-To-School Clothing Drive",
     "wof:parent_id":85877783,
     "wof:placetype":"venue",

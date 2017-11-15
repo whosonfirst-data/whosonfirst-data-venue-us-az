@@ -2,9 +2,14 @@
   "id": 336616787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4002 N 67th Ave Phoenix AZ 85033",
+    "addr:housenumber":"4002",
+    "addr:postcode":"85033",
+    "addr:street":"N 67Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.203239,33.493791,-112.203239,33.493791",
     "geom:latitude":33.493791,
     "geom:longitude":-112.203239,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -50,17 +56,17 @@
     "wof:geomhash":"a637ecbb35872e69d28b5b2c886e8cd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336616787
         }
     ],
     "wof:id":336616787,
-    "wof:lastmodified":1466326274,
+    "wof:lastmodified":1491934729,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

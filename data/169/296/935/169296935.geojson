@@ -2,9 +2,14 @@
   "id": 169296935,
   "type": "Feature",
   "properties": {
+    "addr:full":"5639 E Libby St Scottsdale AZ 85254",
+    "addr:housenumber":"5639",
+    "addr:postcode":"85254",
+    "addr:street":"E Libby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.957999,33.649153,-111.957999,33.649153",
     "geom:latitude":33.649153,
     "geom:longitude":-111.957999,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"5f06153373304d9b8f675af5783572a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169296935,
-    "wof:lastmodified":1466332960,
+    "wof:lastmodified":1491901238,
     "wof:name":"FSH Consulting LLC",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

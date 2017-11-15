@@ -2,9 +2,14 @@
   "id": 336755443,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 N Dobson Rd Ste 113 Mesa AZ 85201",
+    "addr:housenumber":"430",
+    "addr:postcode":"85201",
+    "addr:street":"N Dobson Rd Ste 113",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.874364,33.422654,-111.874364,33.422654",
     "geom:latitude":33.422654,
     "geom:longitude":-111.874364,
@@ -21,8 +26,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +37,15 @@
     "wof:geomhash":"86336088cb31d872d48ba1c31e22d328",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336755443
         }
     ],
     "wof:id":336755443,
-    "wof:lastmodified":1466329161,
+    "wof:lastmodified":1491898466,
     "wof:name":"The Woodshed Two",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

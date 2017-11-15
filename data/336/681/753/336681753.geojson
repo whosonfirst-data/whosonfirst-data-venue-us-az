@@ -2,9 +2,14 @@
   "id": 336681753,
   "type": "Feature",
   "properties": {
+    "addr:full":"7014 W Illini St Phoenix AZ 85043",
+    "addr:housenumber":"7014",
+    "addr:postcode":"85043",
+    "addr:street":"W Illini St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.208972,33.413813,-112.208972,33.413813",
     "geom:latitude":33.413813,
     "geom:longitude":-112.208972,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"105df5b5b81c31bbbfc4fa0c605033c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336681753,
-    "wof:lastmodified":1466327724,
+    "wof:lastmodified":1491900153,
     "wof:name":"Fowlie Livestock & Rodeo",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

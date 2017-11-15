@@ -2,9 +2,14 @@
   "id": 169057787,
   "type": "Feature",
   "properties": {
+    "addr:full":"2529 W Cactus Rd Phoenix AZ 85029",
+    "addr:housenumber":"2529",
+    "addr:postcode":"85029",
+    "addr:street":"W Cactus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.113772,33.596422,-112.113772,33.596422",
     "geom:latitude":33.596422,
     "geom:longitude":-112.113772,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"cff2e46f6187571dcbf2c9e9b01b031e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169057787,
-    "wof:lastmodified":1466329365,
+    "wof:lastmodified":1491895149,
     "wof:name":"Om Tat Sat Center For Vedic",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

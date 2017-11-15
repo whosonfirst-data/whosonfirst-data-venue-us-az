@@ -2,9 +2,14 @@
   "id": 169017909,
   "type": "Feature",
   "properties": {
+    "addr:full":"6058 E Waltann Ln Scottsdale AZ 85254",
+    "addr:housenumber":"6058",
+    "addr:postcode":"85254",
+    "addr:street":"E Waltann Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.950236,33.628251,-111.950236,33.628251",
     "geom:latitude":33.628251,
     "geom:longitude":-111.950236,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"099f418d0d3cae1eff087b006f7ce619",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169017909,
-    "wof:lastmodified":1466325781,
+    "wof:lastmodified":1491901217,
     "wof:name":"Movie Bucket",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

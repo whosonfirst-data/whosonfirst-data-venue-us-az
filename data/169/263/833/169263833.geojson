@@ -2,9 +2,14 @@
   "id": 169263833,
   "type": "Feature",
   "properties": {
+    "addr:full":"8998 E Raintree Dr Scottsdale AZ 85260",
+    "addr:housenumber":"8998",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.888744,33.618505,-111.888744,33.618505",
     "geom:latitude":33.618505,
     "geom:longitude":-111.888744,
@@ -29,10 +34,13 @@
     "sg:website":"www.gha-associates.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917475,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917475,
+        102087421,
+        85880949,
+        85851695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +50,28 @@
     "wof:geomhash":"272157dc90792285d79930d55e35b961",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
+            "neighbourhood_id":85880949,
+            "region_id":85688719,
+            "venue_id":169263833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917475,
+            "neighbourhood_id":85851695,
             "region_id":85688719,
             "venue_id":169263833
         }
     ],
     "wof:id":169263833,
-    "wof:lastmodified":1466332697,
+    "wof:lastmodified":1491908479,
     "wof:name":"GHA Technologies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

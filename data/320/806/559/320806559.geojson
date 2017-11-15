@@ -2,9 +2,14 @@
   "id": 320806559,
   "type": "Feature",
   "properties": {
+    "addr:full":"14258 N Canterbury Dr Phoenix AZ 85023",
+    "addr:housenumber":"14258",
+    "addr:postcode":"85023",
+    "addr:street":"N Canterbury Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.072711,33.615266,-112.072711,33.615266",
     "geom:latitude":33.615266,
     "geom:longitude":-112.072711,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"174f6189b65a500b7890dfe34b9d8284",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320806559,
-    "wof:lastmodified":1466329755,
+    "wof:lastmodified":1491897067,
     "wof:name":"Coela Kauffman Fr",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169386285,
   "type": "Feature",
   "properties": {
+    "addr:full":"2531 E Hillery Dr Phoenix AZ 85032",
+    "addr:housenumber":"2531",
+    "addr:postcode":"85032",
+    "addr:street":"E Hillery Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.028317,33.622392,-112.028317,33.622392",
     "geom:latitude":33.622392,
     "geom:longitude":-112.028317,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"f0aee634775e0f957ad46046f531031f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169386285,
-    "wof:lastmodified":1466333863,
+    "wof:lastmodified":1491932183,
     "wof:name":"B-K Electric",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

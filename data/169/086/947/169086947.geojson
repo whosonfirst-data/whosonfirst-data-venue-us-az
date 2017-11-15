@@ -2,9 +2,14 @@
   "id": 169086947,
   "type": "Feature",
   "properties": {
+    "addr:full":"3114 S McClintock Dr Tempe AZ 85281",
+    "addr:housenumber":"3114",
+    "addr:postcode":"85281",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909196,33.39463,-111.909196,33.39463",
     "geom:latitude":33.39463,
     "geom:longitude":-111.909196,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"e3bbf84b7dced2ee118693b94e0f84c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169086947,
-    "wof:lastmodified":1466330253,
+    "wof:lastmodified":1491915534,
     "wof:name":"All About Tennis",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

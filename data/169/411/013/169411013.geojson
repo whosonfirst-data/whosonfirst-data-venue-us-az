@@ -2,9 +2,14 @@
   "id": 169411013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2268 E Beachcomber Dr Gilbert AZ 85234",
+    "addr:housenumber":"2268",
+    "addr:postcode":"85234",
+    "addr:street":"E Beachcomber Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.741901,33.373246,-111.741901,33.373246",
     "geom:latitude":33.373246,
     "geom:longitude":-111.741901,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"df706f447fe060c8c1c7eedc1d82cc04",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169411013,
-    "wof:lastmodified":1466334031,
+    "wof:lastmodified":1491913658,
     "wof:name":"Creative X2 Inc",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

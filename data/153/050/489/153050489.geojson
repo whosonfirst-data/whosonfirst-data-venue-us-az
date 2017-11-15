@@ -2,9 +2,14 @@
   "id": 153050489,
   "type": "Feature",
   "properties": {
+    "addr:full":"10255 E Via Linda Scottsdale AZ 85258",
+    "addr:housenumber":"10255",
+    "addr:postcode":"85258",
+    "addr:street":"E Via Linda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.859946,33.574694,-111.859946,33.574694",
     "geom:latitude":33.574694,
     "geom:longitude":-111.859946,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"80f25167fdc97b6cdf42865769d8ccd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":153050489,
-    "wof:lastmodified":1466327204,
+    "wof:lastmodified":1491931832,
     "wof:name":"La Privada Apartments",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

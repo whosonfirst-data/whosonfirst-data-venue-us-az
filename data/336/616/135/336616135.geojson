@@ -2,9 +2,14 @@
   "id": 336616135,
   "type": "Feature",
   "properties": {
+    "addr:full":"3357 N 75th Dr Phoenix AZ 85033",
+    "addr:housenumber":"3357",
+    "addr:postcode":"85033",
+    "addr:street":"N 75Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.220956,33.485483,-112.220956,33.485483",
     "geom:latitude":33.485483,
     "geom:longitude":-112.220956,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"8ce8802368fb6b021d8e2f210e79e97f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336616135
         }
     ],
     "wof:id":336616135,
-    "wof:lastmodified":1466326258,
+    "wof:lastmodified":1491934698,
     "wof:name":"A24 Hour A Peoria 1 Day Emerg A Locksmi",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320633071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 W Van Buren St Phoenix AZ 85007",
+    "addr:housenumber":"1540",
+    "addr:postcode":"85007",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.092664,33.451352,-112.092664,33.451352",
     "geom:latitude":33.451352,
     "geom:longitude":-112.092664,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f11066abe55ba7d8b558b1c6d4e8577b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320633071,
-    "wof:lastmodified":1466326604,
+    "wof:lastmodified":1491917100,
     "wof:name":"People Of Color Network-Washington Clinic Services",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

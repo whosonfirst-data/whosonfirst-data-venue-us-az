@@ -2,9 +2,14 @@
   "id": 168906515,
   "type": "Feature",
   "properties": {
+    "addr:full":"2413 W Darrel Rd Phoenix AZ 85041",
+    "addr:housenumber":"2413",
+    "addr:postcode":"85041",
+    "addr:street":"W Darrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.110329,33.384382,-112.110329,33.384382",
     "geom:latitude":33.384382,
     "geom:longitude":-112.110329,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b724f2a1002fc8631ce97d178822fb5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168906515,
-    "wof:lastmodified":1466329659,
+    "wof:lastmodified":1491900186,
     "wof:name":"Arizona Health Care Contract",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168918859,
   "type": "Feature",
   "properties": {
+    "addr:full":"9625 N 21st Dr Phoenix AZ 85021",
+    "addr:housenumber":"9625",
+    "addr:postcode":"85021",
+    "addr:street":"N 21St Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.104445,33.573635,-112.104445,33.573635",
     "geom:latitude":33.573635,
     "geom:longitude":-112.104445,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6495eecbe96feda12be3facb40d93a4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168918859,
-    "wof:lastmodified":1466330257,
+    "wof:lastmodified":1491888177,
     "wof:name":"Highway Thunder Customs",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

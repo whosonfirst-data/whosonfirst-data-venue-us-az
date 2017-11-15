@@ -2,9 +2,14 @@
   "id": 153033887,
   "type": "Feature",
   "properties": {
+    "addr:full":"40023 N Panther Creek Ct Anthem AZ 85086",
+    "addr:housenumber":"40023",
+    "addr:postcode":"85086",
+    "addr:street":"N Panther Creek Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.118778,33.847832,-112.118778,33.847832",
     "geom:latitude":33.847832,
     "geom:longitude":-112.118778,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"326c5865ef271982c05a6ae2d796a934",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":153033887,
-    "wof:lastmodified":1466326045,
+    "wof:lastmodified":1491934325,
     "wof:name":"Healthy Clean Carpet & Tile",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

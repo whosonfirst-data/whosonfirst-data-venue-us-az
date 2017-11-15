@@ -2,9 +2,14 @@
   "id": 336908567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 W Boxwood Ave Gilbert AZ 85233",
+    "addr:housenumber":"1330",
+    "addr:postcode":"85233",
+    "addr:street":"W Boxwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.81826,33.37582,-111.81826,33.37582",
     "geom:latitude":33.37582,
     "geom:longitude":-111.81826,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"705499add676a7565c060cf015ed6fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336908567
         }
     ],
     "wof:id":336908567,
-    "wof:lastmodified":1466330489,
+    "wof:lastmodified":1491892009,
     "wof:name":"Aqua Enviromental Products",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

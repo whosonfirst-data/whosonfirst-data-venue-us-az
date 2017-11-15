@@ -2,9 +2,14 @@
   "id": 169356967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4308 N 71st Dr Phoenix AZ 85033",
+    "addr:housenumber":"4308",
+    "addr:postcode":"85033",
+    "addr:street":"N 71St Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.212356,33.498995,-112.212356,33.498995",
     "geom:latitude":33.498995,
     "geom:longitude":-112.212356,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"c4a734744ae8e34e79a9fc81700d1c01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169356967
         }
     ],
     "wof:id":169356967,
-    "wof:lastmodified":1466333572,
+    "wof:lastmodified":1491934625,
     "wof:name":"El Sorrento Ice Cream",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

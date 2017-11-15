@@ -2,9 +2,14 @@
   "id": 320684325,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 W Bethany Home Rd Phoenix AZ 85013",
+    "addr:housenumber":"710",
+    "addr:postcode":"85013",
+    "addr:street":"W Bethany Home Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.082553,33.523881,-112.082553,33.523881",
     "geom:latitude":33.523881,
     "geom:longitude":-112.082553,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"219dcb5faaaeac85b4686ff20cb28ffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320684325,
-    "wof:lastmodified":1466327994,
+    "wof:lastmodified":1491913557,
     "wof:name":"A.L. Moore-Grimshaw Mortuaries Bethany Chapel",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

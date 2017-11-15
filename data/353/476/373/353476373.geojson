@@ -2,9 +2,14 @@
   "id": 353476373,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 S Forest Ave Tempe AZ 85282",
+    "addr:housenumber":"2606",
+    "addr:postcode":"85282",
+    "addr:street":"S Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.937382,33.400931,-111.937382,33.400931",
     "geom:latitude":33.400931,
     "geom:longitude":-111.937382,
@@ -20,6 +25,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -33,7 +39,7 @@
     "wof:geomhash":"c6133a19a982cab1040bb89957032cec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":353476373,
-    "wof:lastmodified":1466326842,
+    "wof:lastmodified":1491933760,
     "wof:name":"Harter Yates",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

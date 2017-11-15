@@ -2,9 +2,14 @@
   "id": 169057919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2618 W Jackson St Phoenix AZ 85009",
+    "addr:housenumber":"2618",
+    "addr:postcode":"85009",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.117191,33.44551,-112.117191,33.44551",
     "geom:latitude":33.44551,
     "geom:longitude":-112.117191,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"7bc8a26a1b5ce39a60f372a448c356e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169057919,
-    "wof:lastmodified":1466329147,
+    "wof:lastmodified":1491917162,
     "wof:name":"Mike's Construction",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336793019,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 E Juanita Ave Ste 9 Mesa AZ 85204",
+    "addr:housenumber":"456",
+    "addr:postcode":"85204",
+    "addr:street":"E Juanita Ave Ste 9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.821999,33.381302,-111.821999,33.381302",
     "geom:latitude":33.381302,
     "geom:longitude":-111.821999,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"47c81998551fecc4672ae9fbc4ee533a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336793019
         }
     ],
     "wof:id":336793019,
-    "wof:lastmodified":1466329321,
+    "wof:lastmodified":1491892009,
     "wof:name":"Modern Flooring Systems",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

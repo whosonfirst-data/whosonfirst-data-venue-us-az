@@ -2,9 +2,14 @@
   "id": 336646101,
   "type": "Feature",
   "properties": {
+    "addr:full":"9330 W Mcdowell Rd # 2075 Phoenix AZ 85037",
+    "addr:housenumber":"9330",
+    "addr:postcode":"85037",
+    "addr:street":"W Mcdowell Rd # 2075",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.260211,33.464973,-112.260211,33.464973",
     "geom:latitude":33.464973,
     "geom:longitude":-112.260211,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"aeb6ae315bc02f0c3c8b80603f8e9929",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336646101
         }
     ],
     "wof:id":336646101,
-    "wof:lastmodified":1466326896,
+    "wof:lastmodified":1491934723,
     "wof:name":"Cash Flow 2 U",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336874557,
   "type": "Feature",
   "properties": {
+    "addr:full":"882 E Monterey St Chandler AZ 85225",
+    "addr:housenumber":"882",
+    "addr:postcode":"85225",
+    "addr:street":"E Monterey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.826754,33.314892,-111.826754,33.314892",
     "geom:latitude":33.314892,
     "geom:longitude":-111.826754,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -40,7 +46,7 @@
     "wof:geomhash":"045bff251e16e4134a00c404c09986dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":336874557,
-    "wof:lastmodified":1466330102,
+    "wof:lastmodified":1491920746,
     "wof:name":"Little Guy Plumbing, Heating and Air Conditioning",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

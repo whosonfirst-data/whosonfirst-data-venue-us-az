@@ -2,9 +2,14 @@
   "id": 336640407,
   "type": "Feature",
   "properties": {
+    "addr:full":"2550 N 79th Ave Phoenix AZ 85035",
+    "addr:housenumber":"2550",
+    "addr:postcode":"85035",
+    "addr:street":"N 79Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.229169,33.475781,-112.229169,33.475781",
     "geom:latitude":33.475781,
     "geom:longitude":-112.229169,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"d086393cea8a70c1eaae94198245c36b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336640407
         }
     ],
     "wof:id":336640407,
-    "wof:lastmodified":1466326782,
+    "wof:lastmodified":1491934635,
     "wof:name":"Manuel Pena Junior Elementary School",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

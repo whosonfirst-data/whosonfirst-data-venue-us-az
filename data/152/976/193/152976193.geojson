@@ -2,9 +2,14 @@
   "id": 152976193,
   "type": "Feature",
   "properties": {
+    "addr:full":"38642 N 12th St Phoenix AZ 85086",
+    "addr:housenumber":"38642",
+    "addr:postcode":"85086",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.056661,33.835394,-112.056661,33.835394",
     "geom:latitude":33.835394,
     "geom:longitude":-112.056661,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"d836b0d2314edfcef44132733fa7d1eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152976193,
-    "wof:lastmodified":1466328751,
+    "wof:lastmodified":1491934269,
     "wof:name":"Raymac Construction Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

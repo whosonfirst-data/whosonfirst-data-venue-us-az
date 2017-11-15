@@ -2,9 +2,14 @@
   "id": 336738727,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 W Irvine Rd Phoenix AZ 85086",
+    "addr:housenumber":"411",
+    "addr:postcode":"85086",
+    "addr:street":"W Irvine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.080433,33.835406,-112.080433,33.835406",
     "geom:latitude":33.835406,
     "geom:longitude":-112.080433,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2f6281388514e89fc26814e72fa3f2e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336738727,
-    "wof:lastmodified":1466328858,
+    "wof:lastmodified":1491934315,
     "wof:name":"Ssinister Choppers",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

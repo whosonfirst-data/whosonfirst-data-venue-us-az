@@ -2,9 +2,14 @@
   "id": 169141803,
   "type": "Feature",
   "properties": {
+    "addr:full":"10661 E San Salvador Dr Scottsdale AZ 85258",
+    "addr:housenumber":"10661",
+    "addr:postcode":"85258",
+    "addr:street":"E San Salvador Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.849273,33.572532,-111.849273,33.572532",
     "geom:latitude":33.572532,
     "geom:longitude":-111.849273,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"6091d855aaa3a5125058bb8f9d5c43ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169141803,
-    "wof:lastmodified":1466331759,
+    "wof:lastmodified":1491931844,
     "wof:name":"Dr John McMichan",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168965301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 N McQueen Rd Gilbert AZ 85233",
+    "addr:housenumber":"1420",
+    "addr:postcode":"85233",
+    "addr:street":"N Mcqueen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.824914,33.378392,-111.824914,33.378392",
     "geom:latitude":33.378392,
     "geom:longitude":-111.824914,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"316d49bd4c30507ea5fe9cc398bbb6ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":168965301
         }
     ],
     "wof:id":168965301,
-    "wof:lastmodified":1466331328,
+    "wof:lastmodified":1491892002,
     "wof:name":"Franklin Lewis Welding & Mach",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337494017,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 N. Scottsdale Road, Suite 159 Scottsdale AZ 85253",
+    "addr:housenumber":"7001",
+    "addr:postcode":"85253",
+    "addr:street":"N. Scottsdale Road Suite 159",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.925652,33.538689,-111.925652,33.538689",
     "geom:latitude":33.538689,
     "geom:longitude":-111.925652,
@@ -42,6 +47,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -55,7 +61,7 @@
     "wof:geomhash":"5f31da9cdb99497e2c3297622ab598f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":337494017,
-    "wof:lastmodified":1466326200,
+    "wof:lastmodified":1491906817,
     "wof:name":"Distinctive Showcase Properties ? Luxury Real Estate",
     "wof:parent_id":85880967,
     "wof:placetype":"venue",

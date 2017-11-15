@@ -2,9 +2,14 @@
   "id": 168933755,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 N 29th Ave Phoenix AZ 85051",
+    "addr:housenumber":"9201",
+    "addr:postcode":"85051",
+    "addr:street":"N 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.120676,33.570026,-112.120676,33.570026",
     "geom:latitude":33.570026,
     "geom:longitude":-112.120676,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"659b116499eb2011924f86c10a2bb06c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168933755,
-    "wof:lastmodified":1466330690,
+    "wof:lastmodified":1491888164,
     "wof:name":"Mail Box Metro",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

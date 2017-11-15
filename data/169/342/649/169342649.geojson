@@ -2,9 +2,14 @@
   "id": 169342649,
   "type": "Feature",
   "properties": {
+    "addr:full":"2102 W Vineyard Rd Phoenix AZ 85041",
+    "addr:housenumber":"2102",
+    "addr:postcode":"85041",
+    "addr:street":"W Vineyard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.105518,33.385108,-112.105518,33.385108",
     "geom:latitude":33.385108,
     "geom:longitude":-112.105518,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2849dd39355e5d7e9c446b53b8dba887",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169342649,
-    "wof:lastmodified":1466333427,
+    "wof:lastmodified":1491900168,
     "wof:name":"Native Touch Clothing",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

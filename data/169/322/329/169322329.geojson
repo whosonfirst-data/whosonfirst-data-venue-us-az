@@ -2,9 +2,14 @@
   "id": 169322329,
   "type": "Feature",
   "properties": {
+    "addr:full":"9815 N 66th Pl Scottsdale AZ 85253",
+    "addr:housenumber":"9815",
+    "addr:postcode":"85253",
+    "addr:street":"N 66Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.937613,33.576843,-111.937613,33.576843",
     "geom:latitude":33.576843,
     "geom:longitude":-111.937613,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"93ef063dc335c3fffd5b54c49739567b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169322329,
-    "wof:lastmodified":1466333187,
+    "wof:lastmodified":1491912721,
     "wof:name":"Nu Look Metal Roof Systems",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

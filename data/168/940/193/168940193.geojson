@@ -2,9 +2,14 @@
   "id": 168940193,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 E Mohave St Phoenix AZ 85034",
+    "addr:housenumber":"710",
+    "addr:postcode":"85034",
+    "addr:street":"E Mohave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.060945,33.431417,-112.060945,33.431417",
     "geom:latitude":33.431417,
     "geom:longitude":-112.060945,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a44f2519962329775a86f1606189cc23",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168940193,
-    "wof:lastmodified":1466330758,
+    "wof:lastmodified":1491917112,
     "wof:name":"Los Arcos Restaurant & Bar",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

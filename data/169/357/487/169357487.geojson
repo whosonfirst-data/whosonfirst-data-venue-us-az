@@ -2,9 +2,14 @@
   "id": 169357487,
   "type": "Feature",
   "properties": {
+    "addr:full":"3123 E Ocotillo Rd Phoenix AZ 85016",
+    "addr:housenumber":"3123",
+    "addr:postcode":"85016",
+    "addr:street":"E Ocotillo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.015997,33.53322,-112.015997,33.53322",
     "geom:latitude":33.53322,
     "geom:longitude":-112.015997,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a40e32e56d70ce9629fe74bb7386858b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169357487,
-    "wof:lastmodified":1466333628,
+    "wof:lastmodified":1491935654,
     "wof:name":"Fishman Family Trust 04 2",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",

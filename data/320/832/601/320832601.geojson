@@ -2,9 +2,14 @@
   "id": 320832601,
   "type": "Feature",
   "properties": {
+    "addr:full":"4545 E Shea Blvd Phoenix AZ 85028",
+    "addr:housenumber":"4545",
+    "addr:postcode":"85028",
+    "addr:street":"E Shea Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.983078,33.582581,-111.983078,33.582581",
     "geom:latitude":33.582581,
     "geom:longitude":-111.983078,
@@ -49,6 +54,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -62,7 +68,7 @@
     "wof:geomhash":"eeb0d731faeb22009066c46dac2c2b33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":320832601,
-    "wof:lastmodified":1466330277,
+    "wof:lastmodified":1491905371,
     "wof:name":"Allstate Insurance Company - Douglas Bell",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

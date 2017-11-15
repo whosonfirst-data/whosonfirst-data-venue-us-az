@@ -2,9 +2,14 @@
   "id": 168855637,
   "type": "Feature",
   "properties": {
+    "addr:full":"10175 E Cholla St Scottsdale AZ 85260",
+    "addr:housenumber":"10175",
+    "addr:postcode":"85260",
+    "addr:street":"E Cholla St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.859783,33.589675,-111.859783,33.589675",
     "geom:latitude":33.589675,
     "geom:longitude":-111.859783,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"dd37b2339adf8b45bb503f0369d0eddf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168855637,
-    "wof:lastmodified":1466326197,
+    "wof:lastmodified":1491931815,
     "wof:name":"Guns For Hire of Arizona Inc",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

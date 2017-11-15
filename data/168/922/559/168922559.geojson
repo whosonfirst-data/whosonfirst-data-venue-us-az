@@ -2,9 +2,14 @@
   "id": 168922559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 E Libra Dr Tempe AZ 85283",
+    "addr:housenumber":"2014",
+    "addr:postcode":"85283",
+    "addr:street":"E Libra Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.898088,33.366043,-111.898088,33.366043",
     "geom:latitude":33.366043,
     "geom:longitude":-111.898088,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"2622e063f840fe15c4bc26e613da4f39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":168922559
         }
     ],
     "wof:id":168922559,
-    "wof:lastmodified":1466330503,
+    "wof:lastmodified":1491918188,
     "wof:name":"DLB Consulting",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

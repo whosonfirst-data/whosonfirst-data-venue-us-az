@@ -2,9 +2,14 @@
   "id": 168874505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2806 W Kowalsky Ln Phoenix AZ 85041",
+    "addr:housenumber":"2806",
+    "addr:postcode":"85041",
+    "addr:street":"W Kowalsky Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.119162,33.392762,-112.119162,33.392762",
     "geom:latitude":33.392762,
     "geom:longitude":-112.119162,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a4a068c5ec44600abb1507721a0bbcde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168874505,
-    "wof:lastmodified":1466328027,
+    "wof:lastmodified":1491900187,
     "wof:name":"Providence Homes",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

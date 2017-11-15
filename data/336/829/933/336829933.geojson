@@ -2,9 +2,14 @@
   "id": 336829933,
   "type": "Feature",
   "properties": {
+    "addr:full":"2152 S Vineyard Ste 129 Mesa AZ 85210",
+    "addr:housenumber":"2152",
+    "addr:postcode":"85210",
+    "addr:street":"S Vineyard Ste 129",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.844571,33.375152,-111.844571,33.375152",
     "geom:latitude":33.375152,
     "geom:longitude":-111.844571,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -40,7 +46,7 @@
     "wof:geomhash":"709f09762b4d20d017f29595bb011179",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":336829933,
-    "wof:lastmodified":1466329728,
+    "wof:lastmodified":1491910723,
     "wof:name":"Pueblo Pediatrics",
     "wof:parent_id":85872449,
     "wof:placetype":"venue",

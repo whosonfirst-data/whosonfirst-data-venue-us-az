@@ -2,9 +2,14 @@
   "id": 168965279,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W 9th Pl Mesa AZ 85201",
+    "addr:housenumber":"101",
+    "addr:postcode":"85201",
+    "addr:street":"W 9Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.833786,33.432273,-111.833786,33.432273",
     "geom:latitude":33.432273,
     "geom:longitude":-111.833786,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"037bb61a708541fedba9ccb3a7176e34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168965279,
-    "wof:lastmodified":1466331218,
+    "wof:lastmodified":1491893358,
     "wof:name":"Curtis Landscaping & Irrgtn",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 153008363,
   "type": "Feature",
   "properties": {
+    "addr:full":"8015 E Roosevelt St Scottsdale AZ 85257",
+    "addr:housenumber":"8015",
+    "addr:postcode":"85257",
+    "addr:street":"E Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.905059,33.458489,-111.905059,33.458489",
     "geom:latitude":33.458489,
     "geom:longitude":-111.905059,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"12ce1e7e844d3403fb3a5363ffa6df6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":153008363
         }
     ],
     "wof:id":153008363,
-    "wof:lastmodified":1466325934,
+    "wof:lastmodified":1491905177,
     "wof:name":"Morther Earth's Cafe",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

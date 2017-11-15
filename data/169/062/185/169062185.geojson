@@ -2,9 +2,14 @@
   "id": 169062185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2028 W Cactus Rd Phoenix AZ 85029",
+    "addr:housenumber":"2028",
+    "addr:postcode":"85029",
+    "addr:street":"W Cactus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.102662,33.596591,-112.102662,33.596591",
     "geom:latitude":33.596591,
     "geom:longitude":-112.102662,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b55fdf5376e8e9e52323ceb0be8d0241",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169062185,
-    "wof:lastmodified":1466329089,
+    "wof:lastmodified":1491895187,
     "wof:name":"Garden Villas",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

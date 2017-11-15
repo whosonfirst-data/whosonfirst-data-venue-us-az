@@ -2,9 +2,14 @@
   "id": 320815997,
   "type": "Feature",
   "properties": {
+    "addr:full":"20446 N 30th Dr Phoenix AZ 85027",
+    "addr:housenumber":"20446",
+    "addr:postcode":"85027",
+    "addr:street":"N 30Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125137,33.672459,-112.125137,33.672459",
     "geom:latitude":33.672459,
     "geom:longitude":-112.125137,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d2b5fe3e0407336c2930769e4d5f2559",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320815997,
-    "wof:lastmodified":1466330045,
+    "wof:lastmodified":1491889269,
     "wof:name":"Projector Discount Store",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

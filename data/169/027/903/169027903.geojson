@@ -2,9 +2,14 @@
   "id": 169027903,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 E Rice Dr Tempe AZ 85283",
+    "addr:housenumber":"2014",
+    "addr:postcode":"85283",
+    "addr:street":"E Rice Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.900503,33.37795,-111.900503,33.37795",
     "geom:latitude":33.37795,
     "geom:longitude":-111.900503,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"cdd352acb268887eb2fefbbbefa16276",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169027903,
-    "wof:lastmodified":1466326673,
+    "wof:lastmodified":1491938097,
     "wof:name":"Reliable Remodelers",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

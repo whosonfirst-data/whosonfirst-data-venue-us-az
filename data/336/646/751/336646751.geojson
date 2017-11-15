@@ -2,9 +2,14 @@
   "id": 336646751,
   "type": "Feature",
   "properties": {
+    "addr:full":"8528 W Windsor Ave Phoenix AZ 85037",
+    "addr:housenumber":"8528",
+    "addr:postcode":"85037",
+    "addr:street":"W Windsor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.244974,33.477875,-112.244974,33.477875",
     "geom:latitude":33.477875,
     "geom:longitude":-112.244974,
@@ -31,11 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
-        85832807,
-        85848139
+        85848139,
+        85917463,
+        85832807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +52,28 @@
     "wof:geomhash":"f0b243288828bfddbcecaf29cb0ea319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087421,
-            "locality_id":85917479,
-            "neighbourhood_id":85832807,
-            "region_id":85688719,
-            "venue_id":336646751
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
             "neighbourhood_id":85848139,
             "region_id":85688719,
             "venue_id":336646751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917463,
+            "neighbourhood_id":85832807,
+            "region_id":85688719,
+            "venue_id":336646751
         }
     ],
     "wof:id":336646751,
-    "wof:lastmodified":1466326912,
+    "wof:lastmodified":1491934662,
     "wof:name":"Doras School Uniforms",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

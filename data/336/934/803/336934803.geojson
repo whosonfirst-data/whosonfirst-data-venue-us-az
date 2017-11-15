@@ -2,9 +2,14 @@
   "id": 336934803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2668 E Santa Rosa Dr Gilbert AZ 85234",
+    "addr:housenumber":"2668",
+    "addr:postcode":"85234",
+    "addr:street":"E Santa Rosa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.733976,33.376143,-111.733976,33.376143",
     "geom:latitude":33.376143,
     "geom:longitude":-111.733976,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"00b53f5c08213d58006de64846703956",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336934803,
-    "wof:lastmodified":1466330715,
+    "wof:lastmodified":1491913675,
     "wof:name":"Welker Ranches",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

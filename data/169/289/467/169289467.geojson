@@ -2,9 +2,14 @@
   "id": 169289467,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 W Altadena Ave Phoenix AZ 85029",
+    "addr:housenumber":"3333",
+    "addr:postcode":"85029",
+    "addr:street":"W Altadena Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.133482,33.591974,-112.133482,33.591974",
     "geom:latitude":33.591974,
     "geom:longitude":-112.133482,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a57e9c10362f1300ff23e276c3f6a405",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169289467,
-    "wof:lastmodified":1466332878,
+    "wof:lastmodified":1491895152,
     "wof:name":"Action Steam Svc",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

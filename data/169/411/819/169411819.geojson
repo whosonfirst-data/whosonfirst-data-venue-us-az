@@ -2,9 +2,14 @@
   "id": 169411819,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N Patricia G Ct Tolleson AZ 85353",
+    "addr:housenumber":"901",
+    "addr:postcode":"85353",
+    "addr:street":"N Patricia G Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.253984,33.455626,-112.253984,33.455626",
     "geom:latitude":33.455626,
     "geom:longitude":-112.253984,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"6b84aab2597f495a283d12cc79536149",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169411819
         }
     ],
     "wof:id":169411819,
-    "wof:lastmodified":1466333780,
+    "wof:lastmodified":1491934647,
     "wof:name":"Messner Rv Rentals",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169145951,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 S Roosevelt St Tempe AZ 85282",
+    "addr:housenumber":"2625",
+    "addr:postcode":"85282",
+    "addr:street":"S Roosevelt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.947749,33.402177,-111.947749,33.402177",
     "geom:latitude":33.402177,
     "geom:longitude":-111.947749,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8ba299b055e3053dcaf176ebb3a15a72",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169145951,
-    "wof:lastmodified":1466331713,
+    "wof:lastmodified":1491927159,
     "wof:name":"Iron Mountain Information MGT",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",

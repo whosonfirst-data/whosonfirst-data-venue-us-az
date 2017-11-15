@@ -2,9 +2,14 @@
   "id": 152915179,
   "type": "Feature",
   "properties": {
+    "addr:full":"3243 N 38th St Phoenix AZ 85018",
+    "addr:housenumber":"3243",
+    "addr:postcode":"85018",
+    "addr:street":"N 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.999774,33.487341,-111.999774,33.487341",
     "geom:latitude":33.487341,
     "geom:longitude":-111.999774,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"89e5745a6d650fa7275b8f5f8dc75cfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152915179,
-    "wof:lastmodified":1466326244,
+    "wof:lastmodified":1491890179,
     "wof:name":"Earlybird Pest Control",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

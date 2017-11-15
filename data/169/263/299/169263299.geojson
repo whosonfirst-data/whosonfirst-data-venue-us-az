@@ -2,9 +2,14 @@
   "id": 169263299,
   "type": "Feature",
   "properties": {
+    "addr:full":"5740 W Baseline Rd Laveen AZ 85339",
+    "addr:housenumber":"5740",
+    "addr:postcode":"85339",
+    "addr:street":"W Baseline Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.182889,33.377547,-112.182889,33.377547",
     "geom:latitude":33.377547,
     "geom:longitude":-112.182889,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,6 +53,7 @@
     "wof:geomhash":"f6388b527f062ddd4be19fa9cf9f6ef3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":169263299,
-    "wof:lastmodified":1466332678,
+    "wof:lastmodified":1491900162,
     "wof:name":"Bougainvillea Golf Club",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

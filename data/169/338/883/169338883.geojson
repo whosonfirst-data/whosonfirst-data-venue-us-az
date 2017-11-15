@@ -2,9 +2,14 @@
   "id": 169338883,
   "type": "Feature",
   "properties": {
+    "addr:full":"9018 E Caribbean Ln Scottsdale AZ 85260",
+    "addr:housenumber":"9018",
+    "addr:postcode":"85260",
+    "addr:street":"E Caribbean Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.885769,33.625788,-111.885769,33.625788",
     "geom:latitude":33.625788,
     "geom:longitude":-111.885769,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"26d3df0986476f2573886fb791937b7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169338883,
-    "wof:lastmodified":1466333405,
+    "wof:lastmodified":1491908466,
     "wof:name":"Mayhem Inc",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169024359,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 S McClintock Dr Tempe AZ 85281",
+    "addr:housenumber":"617",
+    "addr:postcode":"85281",
+    "addr:street":"S Mcclintock Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.908978,33.423687,-111.908978,33.423687",
     "geom:latitude":33.423687,
     "geom:longitude":-111.908978,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"caf106674ddcff8653a738c51ae21561",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169024359,
-    "wof:lastmodified":1466326359,
+    "wof:lastmodified":1491935577,
     "wof:name":"Rhythm Racing Motorsports",
     "wof:parent_id":85881381,
     "wof:placetype":"venue",

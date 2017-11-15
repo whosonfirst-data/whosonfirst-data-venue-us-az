@@ -2,9 +2,14 @@
   "id": 168947123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1109 E Meadow Ln Phoenix AZ 85022",
+    "addr:housenumber":"1109",
+    "addr:postcode":"85022",
+    "addr:street":"E Meadow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.057818,33.617273,-112.057818,33.617273",
     "geom:latitude":33.617273,
     "geom:longitude":-112.057818,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9f23f41ed9f8c4dc80dd518bfc6b4215",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168947123,
-    "wof:lastmodified":1466330919,
+    "wof:lastmodified":1491897079,
     "wof:name":"Tommy Specialties Design",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",

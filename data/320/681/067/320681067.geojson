@@ -2,9 +2,14 @@
   "id": 320681067,
   "type": "Feature",
   "properties": {
+    "addr:full":"5135 N 13th Ave Phoenix AZ 85013",
+    "addr:housenumber":"5135",
+    "addr:postcode":"85013",
+    "addr:street":"N 13Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.089043,33.51222,-112.089043,33.51222",
     "geom:latitude":33.51222,
     "geom:longitude":-112.089043,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"cf89065fc982765cd1f04cf9529ec532",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":320681067,
-    "wof:lastmodified":1466327779,
+    "wof:lastmodified":1491913557,
     "wof:name":"Michael J's. Cleaning Service Inc.",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320828361,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 W Agua Fria Fwy Phoenix AZ 85027",
+    "addr:housenumber":"3033",
+    "addr:postcode":"85027",
+    "addr:street":"W Agua",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.123744,33.668119,-112.123744,33.668119",
     "geom:latitude":33.668119,
     "geom:longitude":-112.123744,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -34,7 +40,7 @@
     "wof:geomhash":"9ad90be2e042f99c4fbc9212d85063c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":320828361,
-    "wof:lastmodified":1466330081,
+    "wof:lastmodified":1491889266,
     "wof:name":"AMC Deer Valley 30",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

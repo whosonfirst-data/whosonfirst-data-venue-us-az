@@ -2,9 +2,14 @@
   "id": 169386393,
   "type": "Feature",
   "properties": {
+    "addr:full":"7351 E McLellan Blvd Scottsdale AZ 85250",
+    "addr:housenumber":"7351",
+    "addr:postcode":"85250",
+    "addr:street":"E Mclellan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.921689,33.532989,-111.921689,33.532989",
     "geom:latitude":33.532989,
     "geom:longitude":-111.921689,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"04bf5908a86a6b1009ed18f48bef907b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169386393,
-    "wof:lastmodified":1466333876,
+    "wof:lastmodified":1491906818,
     "wof:name":"Sweater Counter The",
     "wof:parent_id":85880967,
     "wof:placetype":"venue",

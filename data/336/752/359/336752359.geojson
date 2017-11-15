@@ -2,9 +2,14 @@
   "id": 336752359,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 W Mclellan Rd Unit 6 Mesa AZ 85201",
+    "addr:housenumber":"350;6",
+    "addr:postcode":"85201",
+    "addr:street":"W Mclellan Rd Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.838917,33.444172,-111.838917,33.444172",
     "geom:latitude":33.444172,
     "geom:longitude":-111.838917,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9f546d939c587ef0b1d1fc66509b7b2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336752359,
-    "wof:lastmodified":1466329042,
+    "wof:lastmodified":1491893361,
     "wof:name":"Nepenthe Consulting Company",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

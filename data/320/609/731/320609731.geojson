@@ -2,9 +2,14 @@
   "id": 320609731,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 S Central Ave Phoenix AZ 85004",
+    "addr:housenumber":"1310",
+    "addr:postcode":"85004",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073775,33.43491,-112.073775,33.43491",
     "geom:latitude":33.43491,
     "geom:longitude":-112.073775,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"da818721e7ae720f4706dec7b899996d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320609731,
-    "wof:lastmodified":1466326004,
+    "wof:lastmodified":1491917121,
     "wof:name":"Garcia's & Associates",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

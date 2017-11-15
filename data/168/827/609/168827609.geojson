@@ -2,9 +2,14 @@
   "id": 168827609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 S 55th St Tempe AZ 85282",
+    "addr:housenumber":"2400",
+    "addr:postcode":"85282",
+    "addr:street":"S 55Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.964014,33.401014,-111.964014,33.401014",
     "geom:latitude":33.401014,
     "geom:longitude":-111.964014,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d4070d8c525f0cdea6f0fe91c2a59e78",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168827609,
-    "wof:lastmodified":1466325990,
+    "wof:lastmodified":1491909685,
     "wof:name":"Fountainhead Corporate Park",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

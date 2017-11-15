@@ -2,9 +2,14 @@
   "id": 169042687,
   "type": "Feature",
   "properties": {
+    "addr:full":"6346 E Mountain View Rd Paradise Valley AZ 85253",
+    "addr:housenumber":"6346",
+    "addr:postcode":"85253",
+    "addr:street":"E Mountain View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.945535,33.574991,-111.945535,33.574991",
     "geom:latitude":33.574991,
     "geom:longitude":-111.945535,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ae4d47ec3c0b3e7ab09dee0030244480",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169042687,
-    "wof:lastmodified":1466328190,
+    "wof:lastmodified":1491912673,
     "wof:name":"Iron Hawk Const Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

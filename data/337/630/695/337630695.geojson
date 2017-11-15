@@ -2,9 +2,14 @@
   "id": 337630695,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 E University Dr Ste 1 Tempe AZ 85281",
+    "addr:housenumber":"1130",
+    "addr:postcode":"85281",
+    "addr:street":"E University Dr Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.920978,33.422009,-111.920978,33.422009",
     "geom:latitude":33.422009,
     "geom:longitude":-111.920978,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"48edfc830a8b8e9d538872d9d33c33d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337630695,
-    "wof:lastmodified":1466327378,
+    "wof:lastmodified":1491902481,
     "wof:name":"Abbie Gregg Inc",
     "wof:parent_id":85881433,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336647945,
   "type": "Feature",
   "properties": {
+    "addr:full":"1850 N 95th Ave Ste 194 Phoenix AZ 85037",
+    "addr:housenumber":"1850",
+    "addr:postcode":"85037",
+    "addr:street":"N 95Th Ave Ste 194",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.264333,33.468021,-112.264333,33.468021",
     "geom:latitude":33.468021,
     "geom:longitude":-112.264333,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,17 +49,17 @@
     "wof:geomhash":"cccc6ee7c7e72fe4b8e8bb3eaf863bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":336647945
         }
     ],
     "wof:id":336647945,
-    "wof:lastmodified":1466326932,
+    "wof:lastmodified":1491934685,
     "wof:name":"ADT Security Services, Inc",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

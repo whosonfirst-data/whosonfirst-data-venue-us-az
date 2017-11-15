@@ -2,9 +2,14 @@
   "id": 336732841,
   "type": "Feature",
   "properties": {
+    "addr:full":"6525 W Yellow Bird Ln Phoenix AZ 85083",
+    "addr:housenumber":"6525",
+    "addr:postcode":"85083",
+    "addr:street":"W Yellow Bird Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.199838,33.737459,-112.199838,33.737459",
     "geom:latitude":33.737459,
     "geom:longitude":-112.199838,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d0e391c3dc4b34ca3b5138df3b3e7349",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336732841,
-    "wof:lastmodified":1466328532,
+    "wof:lastmodified":1491934282,
     "wof:name":"Valley Sun Appraisals",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

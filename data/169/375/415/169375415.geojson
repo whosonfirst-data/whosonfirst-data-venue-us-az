@@ -2,9 +2,14 @@
   "id": 169375415,
   "type": "Feature",
   "properties": {
+    "addr:full":"3926 E Indian School Rd Phoenix AZ 85018",
+    "addr:housenumber":"3926",
+    "addr:postcode":"85018",
+    "addr:street":"E Indian School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.995951,33.495203,-111.995951,33.495203",
     "geom:latitude":33.495203,
     "geom:longitude":-111.995951,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"29d2741bad7ffa46c1d819b0f73054c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169375415,
-    "wof:lastmodified":1466333735,
+    "wof:lastmodified":1491890155,
     "wof:name":"Kachina Cleaners & Coin Lndry",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

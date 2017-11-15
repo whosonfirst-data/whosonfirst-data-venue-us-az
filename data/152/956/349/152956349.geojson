@@ -2,9 +2,14 @@
   "id": 152956349,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 W Jefferson St Phoenix AZ 85007",
+    "addr:housenumber":"701",
+    "addr:postcode":"85007",
+    "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.08366,33.447108,-112.08366,33.447108",
     "geom:latitude":33.447108,
     "geom:longitude":-112.08366,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c332e8014e11c2384a60ed0c17aa3d5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152956349,
-    "wof:lastmodified":1466327968,
+    "wof:lastmodified":1491917191,
     "wof:name":"Bel-Aire Mechanical Inc",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

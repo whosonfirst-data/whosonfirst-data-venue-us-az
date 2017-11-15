@@ -2,9 +2,14 @@
   "id": 168912257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1558 W Jackson St Phoenix AZ 85007",
+    "addr:housenumber":"1558",
+    "addr:postcode":"85007",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.092402,33.445088,-112.092402,33.445088",
     "geom:latitude":33.445088,
     "geom:longitude":-112.092402,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -40,6 +46,7 @@
     "wof:geomhash":"1c5f7ee207d006ceeda2601d6fcf4b1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":168912257,
-    "wof:lastmodified":1466329968,
+    "wof:lastmodified":1491917032,
     "wof:name":"Grand Canyon State Emplys CU",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

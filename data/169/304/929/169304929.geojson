@@ -2,9 +2,14 @@
   "id": 169304929,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 W Brown St Tempe AZ 85281",
+    "addr:housenumber":"805",
+    "addr:postcode":"85281",
+    "addr:street":"W Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.952204,33.426213,-111.952204,33.426213",
     "geom:latitude":33.426213,
     "geom:longitude":-111.952204,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7facebc2b3da873a5218f62dbc54f7bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169304929,
-    "wof:lastmodified":1466333089,
+    "wof:lastmodified":1491905617,
     "wof:name":"Arbors Apartments",
     "wof:parent_id":85881421,
     "wof:placetype":"venue",

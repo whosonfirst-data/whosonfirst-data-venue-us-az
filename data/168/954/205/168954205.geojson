@@ -2,9 +2,14 @@
   "id": 168954205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3038 W Buckeye Rd Phoenix AZ 85009",
+    "addr:housenumber":"3038",
+    "addr:postcode":"85009",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.1258,33.436981,-112.1258,33.436981",
     "geom:latitude":33.436981,
     "geom:longitude":-112.1258,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"68ce356f62c41c54d183960c413bede2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168954205,
-    "wof:lastmodified":1466330867,
+    "wof:lastmodified":1491917118,
     "wof:name":"Alonso's Body Shop",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

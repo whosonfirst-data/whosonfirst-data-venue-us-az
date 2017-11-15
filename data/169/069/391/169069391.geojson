@@ -2,9 +2,14 @@
   "id": 169069391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2419 W Van Buren St Phoenix AZ 85009",
+    "addr:housenumber":"2419",
+    "addr:postcode":"85009",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.112821,33.451087,-112.112821,33.451087",
     "geom:latitude":33.451087,
     "geom:longitude":-112.112821,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"31afac38656a38c7ca03f9c7450299a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169069391,
-    "wof:lastmodified":1466329480,
+    "wof:lastmodified":1491917227,
     "wof:name":"Commodity Management Srv",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320748263,
   "type": "Feature",
   "properties": {
+    "addr:full":"4007 E Camelback Rd Phoenix AZ 85018",
+    "addr:housenumber":"4007",
+    "addr:postcode":"85018",
+    "addr:street":"E Camelback Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.994675,33.509776,-111.994675,33.509776",
     "geom:latitude":33.509776,
     "geom:longitude":-111.994675,
@@ -96,6 +101,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -109,7 +115,7 @@
     "wof:geomhash":"6979f6748f23af5d8d00c10fe49d6c5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":320748263,
-    "wof:lastmodified":1466329044,
+    "wof:lastmodified":1491890237,
     "wof:name":"U-Haul at 40th St & Camelback",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

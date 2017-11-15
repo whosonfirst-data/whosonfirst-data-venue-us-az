@@ -2,9 +2,14 @@
   "id": 168944901,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 W Fairmount Ave Phoenix AZ 85033",
+    "addr:housenumber":"7601",
+    "addr:postcode":"85033",
+    "addr:street":"W Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.22443,33.493114,-112.22443,33.493114",
     "geom:latitude":33.493114,
     "geom:longitude":-112.22443,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"65d8a82b9d1e0ddb4405f26d765bf288",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":168944901
         }
     ],
     "wof:id":168944901,
-    "wof:lastmodified":1466331076,
+    "wof:lastmodified":1491934719,
     "wof:name":"Jose Meza Business Account",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

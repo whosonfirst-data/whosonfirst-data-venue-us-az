@@ -2,9 +2,14 @@
   "id": 353393923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1035 E Curry Rd Ste B Tempe AZ 85281",
+    "addr:housenumber":"1035",
+    "addr:postcode":"85281",
+    "addr:street":"E Curry Rd Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.923168,33.440319,-111.923168,33.440319",
     "geom:latitude":33.440319,
     "geom:longitude":-111.923168,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -50,17 +56,17 @@
     "wof:geomhash":"a8bf36cd5a2cf5dbd7d2d01ce5053a66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":353393923
         }
     ],
     "wof:id":353393923,
-    "wof:lastmodified":1466326212,
+    "wof:lastmodified":1491905199,
     "wof:name":"Andy's Metal Art",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

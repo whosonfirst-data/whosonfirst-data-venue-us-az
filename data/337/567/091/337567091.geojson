@@ -2,9 +2,14 @@
   "id": 337567091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10055 E Mountain View Lake Dr Scottsdale AZ 85258",
+    "addr:housenumber":"10055",
+    "addr:postcode":"85258",
+    "addr:street":"E Mountain View Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.862919,33.574646,-111.862919,33.574646",
     "geom:latitude":33.574646,
     "geom:longitude":-111.862919,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5eca80d43e74ef015a7f8e482b0e35f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337567091,
-    "wof:lastmodified":1466326849,
+    "wof:lastmodified":1491931823,
     "wof:name":"Integrative Nutrition Consultants",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

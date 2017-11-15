@@ -2,9 +2,14 @@
   "id": 336686433,
   "type": "Feature",
   "properties": {
+    "addr:full":"3837 S 67th Avenue Phoenix AZ 85043",
+    "addr:housenumber":"3837",
+    "addr:postcode":"85043",
+    "addr:street":"S 67Th Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.203944,33.412851,-112.203944,33.412851",
     "geom:latitude":33.412851,
     "geom:longitude":-112.203944,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3e775718e506fc6cb7a9e70cc40f991c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336686433,
-    "wof:lastmodified":1466327808,
+    "wof:lastmodified":1491900163,
     "wof:name":"Phoenix Tree Svc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

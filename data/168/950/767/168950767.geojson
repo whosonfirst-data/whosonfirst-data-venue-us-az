@@ -2,9 +2,14 @@
   "id": 168950767,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 W Southern Ave Tempe AZ 85282",
+    "addr:housenumber":"234",
+    "addr:postcode":"85282",
+    "addr:street":"W Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.940161,33.392953,-111.940161,33.392953",
     "geom:latitude":33.392953,
     "geom:longitude":-111.940161,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b738d3b20dc0d2493f2c5e226e96748d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168950767,
-    "wof:lastmodified":1466331120,
+    "wof:lastmodified":1491933768,
     "wof:name":"Tempe Loan",
     "wof:parent_id":85881409,
     "wof:placetype":"venue",

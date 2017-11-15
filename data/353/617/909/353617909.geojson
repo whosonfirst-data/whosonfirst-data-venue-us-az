@@ -2,14 +2,20 @@
   "id": 353617909,
   "type": "Feature",
   "properties": {
+    "addr:full":"9920 W McDowell Road Avondale AZ 85323",
+    "addr:housenumber":"9920",
+    "addr:postcode":"85323",
+    "addr:street":"W Mcdowell Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.273444,33.464845,-112.273444,33.464845",
     "geom:latitude":33.464845,
     "geom:longitude":-112.273444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9920 W McDowell Road",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -29,30 +35,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
+    "wof:brand_id":1125158253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37vEFw5MsAqOiVKtAMRHYc_33.464845_-112.273444@1303263121"
     },
     "wof:country":"US",
-    "wof:geomhash":"2928835785d87fe7f9bb2a4564e497de",
+    "wof:geomhash":"5d96a3c6046929d3ef1149086267105f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353617909
         }
     ],
     "wof:id":353617909,
-    "wof:lastmodified":1466328747,
+    "wof:lastmodified":1510698667,
     "wof:name":"Carrabba's Italian Grill",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

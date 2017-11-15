@@ -2,9 +2,14 @@
   "id": 169095813,
   "type": "Feature",
   "properties": {
+    "addr:full":"3624 W Alice Ave Phoenix AZ 85051",
+    "addr:housenumber":"3624",
+    "addr:postcode":"85051",
+    "addr:street":"W Alice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.137274,33.563992,-112.137274,33.563992",
     "geom:latitude":33.563992,
     "geom:longitude":-112.137274,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"bc00f44e119a62191896e399f25e1472",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169095813,
-    "wof:lastmodified":1466330815,
+    "wof:lastmodified":1491888191,
     "wof:name":"Rusty's Rv Transport",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

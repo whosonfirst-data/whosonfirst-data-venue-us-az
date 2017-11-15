@@ -2,9 +2,14 @@
   "id": 353738065,
   "type": "Feature",
   "properties": {
+    "addr:full":"17511 N 85th Dr Peoria AZ 85382",
+    "addr:housenumber":"17511",
+    "addr:postcode":"85382",
+    "addr:street":"N 85Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.242647,33.644207,-112.242647,33.644207",
     "geom:latitude":33.644207,
     "geom:longitude":-112.242647,
@@ -41,8 +46,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917509,
+        85917343,
         102087421,
         85877791
     ],
@@ -54,17 +60,17 @@
     "wof:geomhash":"02f04faeacb0ffbf9802ec2541fd372d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917509,
+            "locality_id":85917343,
             "neighbourhood_id":85877791,
             "region_id":85688719,
             "venue_id":353738065
         }
     ],
     "wof:id":353738065,
-    "wof:lastmodified":1466330015,
+    "wof:lastmodified":1491896387,
     "wof:name":"Kevin's Crane Rental",
     "wof:parent_id":85877791,
     "wof:placetype":"venue",

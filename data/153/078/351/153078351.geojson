@@ -2,9 +2,14 @@
   "id": 153078351,
   "type": "Feature",
   "properties": {
+    "addr:full":"14360 N Frank Lloyd Wright Blvd Scottsdale AZ 85260",
+    "addr:housenumber":"14360",
+    "addr:postcode":"85260",
+    "addr:street":"N Frank Lloyd Wright Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.87125,33.616886,-111.87125,33.616886",
     "geom:latitude":33.616886,
     "geom:longitude":-111.87125,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9d4c97c9bde0a05d0d2229f573ab5da4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":153078351,
-    "wof:lastmodified":1466328683,
+    "wof:lastmodified":1491908448,
     "wof:name":"Bass Trading",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

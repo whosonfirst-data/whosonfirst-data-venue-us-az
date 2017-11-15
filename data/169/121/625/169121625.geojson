@@ -2,9 +2,14 @@
   "id": 169121625,
   "type": "Feature",
   "properties": {
+    "addr:full":"7128 E Sahuaro Dr Scottsdale AZ 85254",
+    "addr:housenumber":"7128",
+    "addr:postcode":"85254",
+    "addr:street":"E Sahuaro Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.927624,33.583756,-111.927624,33.583756",
     "geom:latitude":33.583756,
     "geom:longitude":-111.927624,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0aea6cd1e686a46572fbebcc1609d64f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169121625,
-    "wof:lastmodified":1466331396,
+    "wof:lastmodified":1491912669,
     "wof:name":"Corbryn Communication Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

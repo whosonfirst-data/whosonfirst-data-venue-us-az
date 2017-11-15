@@ -2,9 +2,14 @@
   "id": 169108037,
   "type": "Feature",
   "properties": {
+    "addr:full":"11255 N 131st Pl Scottsdale AZ 85259",
+    "addr:housenumber":"11255",
+    "addr:postcode":"85259",
+    "addr:street":"N 131St Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.797744,33.588953,-111.797744,33.588953",
     "geom:latitude":33.588953,
     "geom:longitude":-111.797744,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"6a24ad78f0cd37e2f14e74efa7282256",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169108037,
-    "wof:lastmodified":1466331009,
+    "wof:lastmodified":1491939264,
     "wof:name":"G E Ind & Utility Sales",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

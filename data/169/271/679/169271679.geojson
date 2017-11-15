@@ -2,9 +2,14 @@
   "id": 169271679,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 S 2nd Ave Phoenix AZ 85003",
+    "addr:housenumber":"715",
+    "addr:postcode":"85003",
+    "addr:street":"S 2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.076116,33.44025,-112.076116,33.44025",
     "geom:latitude":33.44025,
     "geom:longitude":-112.076116,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"87eb70b2253687c143cd99ce2574b5c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169271679,
-    "wof:lastmodified":1466332773,
+    "wof:lastmodified":1491917182,
     "wof:name":"American Legion",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

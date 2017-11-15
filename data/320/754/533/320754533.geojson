@@ -2,9 +2,14 @@
   "id": 320754533,
   "type": "Feature",
   "properties": {
+    "addr:full":"6232 N 32nd St Phoenix AZ 85018",
+    "addr:housenumber":"6232",
+    "addr:postcode":"85018",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.012976,33.530202,-112.012976,33.530202",
     "geom:latitude":33.530202,
     "geom:longitude":-112.012976,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"c911d1406dea15d3b5848ee75a2e028f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320754533,
-    "wof:lastmodified":1466329442,
+    "wof:lastmodified":1491935655,
     "wof:name":"First Fidelity Bank",
     "wof:parent_id":85806123,
     "wof:placetype":"venue",

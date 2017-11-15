@@ -2,9 +2,14 @@
   "id": 336673741,
   "type": "Feature",
   "properties": {
+    "addr:full":"3851 W Wier Ave Phoenix AZ 85041",
+    "addr:housenumber":"3851",
+    "addr:postcode":"85041",
+    "addr:street":"W Wier Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.141238,33.40287,-112.141238,33.40287",
     "geom:latitude":33.40287,
     "geom:longitude":-112.141238,
@@ -41,6 +46,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -54,7 +60,7 @@
     "wof:geomhash":"53244fdb9296ae45f9762da474fdbc6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":336673741,
-    "wof:lastmodified":1466327527,
+    "wof:lastmodified":1491900218,
     "wof:name":"San Martin De Porres Rmn Cthlc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337574811,
   "type": "Feature",
   "properties": {
+    "addr:full":"10310 N 135th Way Scottsdale AZ 85259",
+    "addr:housenumber":"10310",
+    "addr:postcode":"85259",
+    "addr:street":"N 135Th Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.788064,33.579717,-111.788064,33.579717",
     "geom:latitude":33.579717,
     "geom:longitude":-111.788064,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -50,7 +56,7 @@
     "wof:geomhash":"4c07bbb5a9613a77e15b0ef7dec02d04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":337574811,
-    "wof:lastmodified":1466326894,
+    "wof:lastmodified":1491939324,
     "wof:name":"Glacier Pool Coolers",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

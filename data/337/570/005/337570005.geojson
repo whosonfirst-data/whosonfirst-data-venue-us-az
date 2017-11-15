@@ -2,9 +2,14 @@
   "id": 337570005,
   "type": "Feature",
   "properties": {
+    "addr:full":"10380 N Hayden Rd Scottsdale AZ 85258",
+    "addr:housenumber":"10380",
+    "addr:postcode":"85258",
+    "addr:street":"N Hayden Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.908814,33.581052,-111.908814,33.581052",
     "geom:latitude":33.581052,
     "geom:longitude":-111.908814,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -46,7 +52,7 @@
     "wof:geomhash":"4e71d25d564a21917c7788b48904f64c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":337570005,
-    "wof:lastmodified":1466326873,
+    "wof:lastmodified":1491912714,
     "wof:name":"VCA",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

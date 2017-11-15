@@ -2,9 +2,14 @@
   "id": 169402443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 W Fountainhead Pkwy Tempe AZ 85282",
+    "addr:housenumber":"1540",
+    "addr:postcode":"85282",
+    "addr:street":"W Fountainhead Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.963169,33.40377,-111.963169,33.40377",
     "geom:latitude":33.40377,
     "geom:longitude":-111.963169,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5b2d98b75556669a3d0d7b68bcbb3189",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169402443,
-    "wof:lastmodified":1466334022,
+    "wof:lastmodified":1491909708,
     "wof:name":"CIT Equipment Financing",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336720983,
   "type": "Feature",
   "properties": {
+    "addr:full":"9622 N 35th Ln Phoenix AZ 85051",
+    "addr:housenumber":"9622",
+    "addr:postcode":"85051",
+    "addr:street":"N 35Th Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.135679,33.573535,-112.135679,33.573535",
     "geom:latitude":33.573535,
     "geom:longitude":-112.135679,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4e0cfab965b39ea95603f5f52fda4673",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336720983,
-    "wof:lastmodified":1466328839,
+    "wof:lastmodified":1491888130,
     "wof:name":"Brat Racing",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

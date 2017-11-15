@@ -2,9 +2,14 @@
   "id": 336743513,
   "type": "Feature",
   "properties": {
+    "addr:full":"36106 N 30th Ave Phoenix AZ 85086",
+    "addr:housenumber":"36106",
+    "addr:postcode":"85086",
+    "addr:street":"N 30Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.124062,33.812586,-112.124062,33.812586",
     "geom:latitude":33.812586,
     "geom:longitude":-112.124062,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"472b5dddbea158d6217ed0c47585e018",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336743513,
-    "wof:lastmodified":1466328659,
+    "wof:lastmodified":1491934271,
     "wof:name":"Marshall Ranch Community Association",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

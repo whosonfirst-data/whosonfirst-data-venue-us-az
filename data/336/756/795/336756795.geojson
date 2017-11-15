@@ -2,9 +2,14 @@
   "id": 336756795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1531 N Alma School Rd Mesa AZ 85201",
+    "addr:housenumber":"1531",
+    "addr:postcode":"85201",
+    "addr:street":"N Alma School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.8563,33.442181,-111.8563,33.442181",
     "geom:latitude":33.442181,
     "geom:longitude":-111.8563,
@@ -38,8 +43,8 @@
     "wof:belongsto":[
         85688719,
         85633793,
-        102087421,
-        85872455
+        85872455,
+        102087421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +54,15 @@
     "wof:geomhash":"441dd1d08a148f31931159bb53300dd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":-1,
             "neighbourhood_id":85872455,
             "region_id":85688719,
             "venue_id":336756795
         }
     ],
     "wof:id":336756795,
-    "wof:lastmodified":1466328914,
+    "wof:lastmodified":1491898463,
     "wof:name":"Counter Top Rock",
     "wof:parent_id":85872455,
     "wof:placetype":"venue",

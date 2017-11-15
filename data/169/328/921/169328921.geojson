@@ -2,9 +2,14 @@
   "id": 169328921,
   "type": "Feature",
   "properties": {
+    "addr:full":"15300 N 90th St Scottsdale AZ 85260",
+    "addr:housenumber":"15300",
+    "addr:postcode":"85260",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.886269,33.629551,-111.886269,33.629551",
     "geom:latitude":33.629551,
     "geom:longitude":-111.886269,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"a21e15f55bc8e718b88880be6442a5d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169328921,
-    "wof:lastmodified":1466333224,
+    "wof:lastmodified":1491908437,
     "wof:name":"Horowitch Group LLC",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

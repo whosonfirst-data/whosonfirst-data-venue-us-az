@@ -2,9 +2,14 @@
   "id": 169313993,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 S 35th Ave Phoenix AZ 85009",
+    "addr:housenumber":"3640",
+    "addr:postcode":"85009",
+    "addr:street":"S 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.134332,33.413306,-112.134332,33.413306",
     "geom:latitude":33.413306,
     "geom:longitude":-112.134332,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1429e25b2a7604e121ee06a6dfd6596a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169313993,
-    "wof:lastmodified":1466333165,
+    "wof:lastmodified":1491900177,
     "wof:name":"Metal Management Arizona Inc",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

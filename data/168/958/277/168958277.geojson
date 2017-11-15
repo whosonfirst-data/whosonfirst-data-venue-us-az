@@ -2,9 +2,14 @@
   "id": 168958277,
   "type": "Feature",
   "properties": {
+    "addr:full":"6725 E Desert Cove Ave Scottsdale AZ 85254",
+    "addr:housenumber":"6725",
+    "addr:postcode":"85254",
+    "addr:street":"E Desert Cove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.938061,33.584999,-111.938061,33.584999",
     "geom:latitude":33.584999,
     "geom:longitude":-111.938061,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9ea6a585084233edff50be6829d7934a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168958277,
-    "wof:lastmodified":1466331167,
+    "wof:lastmodified":1491912704,
     "wof:name":"Pancho Pollo Enterprises LLC",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

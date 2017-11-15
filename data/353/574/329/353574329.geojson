@@ -2,9 +2,14 @@
   "id": 353574329,
   "type": "Feature",
   "properties": {
+    "addr:full":"5410 W Diana Ave Glendale AZ 85302",
+    "addr:housenumber":"5410",
+    "addr:postcode":"85302",
+    "addr:street":"W Diana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.176384,33.563178,-112.176384,33.563178",
     "geom:latitude":33.563178,
     "geom:longitude":-112.176384,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cb582ed825cb1904cf3aac7bc555b931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353574329,
-    "wof:lastmodified":1466328247,
+    "wof:lastmodified":1491901763,
     "wof:name":"The Institute Of Electrical And Electronics Engineers Inc",
     "wof:parent_id":85858249,
     "wof:placetype":"venue",

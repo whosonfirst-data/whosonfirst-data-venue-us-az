@@ -2,9 +2,14 @@
   "id": 353685695,
   "type": "Feature",
   "properties": {
+    "addr:full":"9050 W Van Buren St Tolleson AZ 85353",
+    "addr:housenumber":"9050",
+    "addr:postcode":"85353",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.253998,33.4506,-112.253998,33.4506",
     "geom:latitude":33.4506,
     "geom:longitude":-112.253998,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -42,17 +48,17 @@
     "wof:geomhash":"fd822de165341694d47e0f2eed6b9b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353685695
         }
     ],
     "wof:id":353685695,
-    "wof:lastmodified":1466329512,
+    "wof:lastmodified":1491934679,
     "wof:name":"Lorts A F & Co",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

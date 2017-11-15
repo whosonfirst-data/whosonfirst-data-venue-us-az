@@ -2,9 +2,14 @@
   "id": 336733737,
   "type": "Feature",
   "properties": {
+    "addr:full":"6104 W Gambit Trl Phoenix AZ 85083",
+    "addr:housenumber":"6104",
+    "addr:postcode":"85083",
+    "addr:street":"W Gambit Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.191153,33.735622,-112.191153,33.735622",
     "geom:latitude":33.735622,
     "geom:longitude":-112.191153,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2879e1a5f366bd0185fbbd89cb87f6ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336733737,
-    "wof:lastmodified":1466328555,
+    "wof:lastmodified":1491934301,
     "wof:name":"Hollidays Carpet Services Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

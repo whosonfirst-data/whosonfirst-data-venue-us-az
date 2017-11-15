@@ -2,9 +2,14 @@
   "id": 168940905,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 W Jackson St Phoenix AZ 85009",
+    "addr:housenumber":"2008",
+    "addr:postcode":"85009",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.104229,33.445022,-112.104229,33.445022",
     "geom:latitude":33.445022,
     "geom:longitude":-112.104229,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,6 +53,7 @@
     "wof:geomhash":"590b32cd0f67b552cb5a60a2282e7721",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":168940905,
-    "wof:lastmodified":1466330929,
+    "wof:lastmodified":1491917117,
     "wof:name":"Louie's Black Oxide",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168969607,
   "type": "Feature",
   "properties": {
+    "addr:full":"5649 S Four Peaks Pl Chandler AZ 85249",
+    "addr:housenumber":"5649",
+    "addr:postcode":"85249",
+    "addr:street":"S Four Peaks Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.786309,33.224039,-111.786309,33.224039",
     "geom:latitude":33.224039,
     "geom:longitude":-111.786309,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f7c44aa71c803b8ac0a480eefaf07dc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168969607,
-    "wof:lastmodified":1466331359,
+    "wof:lastmodified":1491886933,
     "wof:name":"Customer Choice Vending",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

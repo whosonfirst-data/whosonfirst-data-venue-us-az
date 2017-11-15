@@ -2,9 +2,14 @@
   "id": 169374245,
   "type": "Feature",
   "properties": {
+    "addr:full":"9850 N 19th Dr Phoenix AZ 85021",
+    "addr:housenumber":"9850",
+    "addr:postcode":"85021",
+    "addr:street":"N 19Th Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.101795,33.576416,-112.101795,33.576416",
     "geom:latitude":33.576416,
     "geom:longitude":-112.101795,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6da637f7568b84c8d0b8b13b8583785a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169374245,
-    "wof:lastmodified":1466333720,
+    "wof:lastmodified":1491895131,
     "wof:name":"Gopher Courier Express Inc",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

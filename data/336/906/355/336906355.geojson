@@ -2,9 +2,14 @@
   "id": 336906355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1245 N Hobson Street Gilbert AZ 85233",
+    "addr:housenumber":"1245",
+    "addr:postcode":"85233",
+    "addr:street":"N Hobson Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.818691,33.372524,-111.818691,33.372524",
     "geom:latitude":33.372524,
     "geom:longitude":-111.818691,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -39,17 +45,17 @@
     "wof:geomhash":"af4ce903a83890e736f82bd78504c2ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":336906355
         }
     ],
     "wof:id":336906355,
-    "wof:lastmodified":1466330614,
+    "wof:lastmodified":1491892015,
     "wof:name":"Arizona Floral Exchange",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

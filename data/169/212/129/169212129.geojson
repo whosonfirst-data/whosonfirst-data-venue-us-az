@@ -2,9 +2,14 @@
   "id": 169212129,
   "type": "Feature",
   "properties": {
+    "addr:full":"16127 E Ocotillo Dr Fountain Hills AZ 85268",
+    "addr:housenumber":"16127",
+    "addr:postcode":"85268",
+    "addr:street":"E Ocotillo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.733168,33.592454,-111.733168,33.592454",
     "geom:latitude":33.592454,
     "geom:longitude":-111.733168,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7d7810b206fc01a85669e63e13a0f144",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169212129,
-    "wof:lastmodified":1466332191,
+    "wof:lastmodified":1491939312,
     "wof:name":"Bueti Real Estate",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

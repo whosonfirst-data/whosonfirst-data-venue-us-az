@@ -2,9 +2,14 @@
   "id": 336740119,
   "type": "Feature",
   "properties": {
+    "addr:full":"36620 N 15th Ave Phoenix AZ 85086",
+    "addr:housenumber":"36620",
+    "addr:postcode":"85086",
+    "addr:street":"N 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.091531,33.817707,-112.091531,33.817707",
     "geom:latitude":33.817707,
     "geom:longitude":-112.091531,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,7 +54,7 @@
     "wof:geomhash":"df088d034e03014cded93a9eaa2156ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":336740119,
-    "wof:lastmodified":1466329151,
+    "wof:lastmodified":1491934289,
     "wof:name":"Action Office Supply Co",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

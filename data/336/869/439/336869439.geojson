@@ -2,14 +2,20 @@
   "id": 336869439,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 N McQueen Rd Chandler AZ 85225",
+    "addr:housenumber":"950",
+    "addr:postcode":"85225",
+    "addr:street":"N Mcqueen Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.824374,33.319341,-111.824374,33.319341",
     "geom:latitude":33.319341,
     "geom:longitude":-111.824374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"950 N McQueen Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
         85876671
     ],
+    "wof:brand_id":420575083,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64uPcI7mDUxyRaoua05Dgp_33.319341_-111.824374@1303263112"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f0c12837ca1112d41af80736dc54437",
+    "wof:geomhash":"25fdb3e7c1f56efb4dbc90d67dab997b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":336869439,
-    "wof:lastmodified":1466330065,
+    "wof:lastmodified":1510615025,
     "wof:name":"Cvs Pharmacy",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

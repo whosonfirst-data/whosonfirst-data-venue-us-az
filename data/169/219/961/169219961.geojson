@@ -2,9 +2,14 @@
   "id": 169219961,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 W Alameda Dr Tempe AZ 85282",
+    "addr:housenumber":"421",
+    "addr:postcode":"85282",
+    "addr:street":"W Alameda Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.945045,33.400022,-111.945045,33.400022",
     "geom:latitude":33.400022,
     "geom:longitude":-111.945045,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"62ac9d5f519510d6eb6e403c9b06711e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169219961,
-    "wof:lastmodified":1466332306,
+    "wof:lastmodified":1491927160,
     "wof:name":"Micro Age Inc",
     "wof:parent_id":85881389,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168904869,
   "type": "Feature",
   "properties": {
+    "addr:full":"3437 E Minnezona Ave Phoenix AZ 85018",
+    "addr:housenumber":"3437",
+    "addr:postcode":"85018",
+    "addr:street":"E Minnezona Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.007184,33.503221,-112.007184,33.503221",
     "geom:latitude":33.503221,
     "geom:longitude":-112.007184,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"81c9a8438fd343a7446c82b35acc9a32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168904869,
-    "wof:lastmodified":1466329620,
+    "wof:lastmodified":1491890162,
     "wof:name":"Six O'Clock High",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

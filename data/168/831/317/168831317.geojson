@@ -2,9 +2,14 @@
   "id": 168831317,
   "type": "Feature",
   "properties": {
+    "addr:full":"11101 E Bella Vista Dr Scottsdale AZ 85259",
+    "addr:housenumber":"11101",
+    "addr:postcode":"85259",
+    "addr:street":"E Bella Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.839679,33.568605,-111.839679,33.568605",
     "geom:latitude":33.568605,
     "geom:longitude":-111.839679,
@@ -31,11 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
-        85880971,
-        85847455
+        85880971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,25 +50,19 @@
     "wof:geomhash":"4766ef3caa6b04be8f7ccf139cb29eba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
             "neighbourhood_id":85880971,
             "region_id":85688719,
             "venue_id":168831317
-        },
-        {
-            "country_id":85633793,
-            "county_id":102087421,
-            "neighbourhood_id":85847455,
-            "region_id":85688719,
-            "venue_id":168831317
         }
     ],
     "wof:id":168831317,
-    "wof:lastmodified":1466326077,
+    "wof:lastmodified":1491931817,
     "wof:name":"West Construction & Dev Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

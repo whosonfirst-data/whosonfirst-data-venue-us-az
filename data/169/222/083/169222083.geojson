@@ -2,9 +2,14 @@
   "id": 169222083,
   "type": "Feature",
   "properties": {
+    "addr:full":"2034 W Roeser Rd Phoenix AZ 85041",
+    "addr:housenumber":"2034",
+    "addr:postcode":"85041",
+    "addr:street":"W Roeser Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.101568,33.399573,-112.101568,33.399573",
     "geom:latitude":33.399573,
     "geom:longitude":-112.101568,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"54612e833e70fb12491cf0acb16f4091",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169222083,
-    "wof:lastmodified":1466332270,
+    "wof:lastmodified":1491900205,
     "wof:name":"Angels Landscaping",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

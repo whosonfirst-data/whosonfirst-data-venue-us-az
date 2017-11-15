@@ -2,9 +2,14 @@
   "id": 168994821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 W Van Buren St Phoenix AZ 85009",
+    "addr:housenumber":"2130",
+    "addr:postcode":"85009",
+    "addr:street":"W Van Buren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.106006,33.451297,-112.106006,33.451297",
     "geom:latitude":33.451297,
     "geom:longitude":-112.106006,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"fe68abdfcb8fa95cc599737d5a9e7572",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168994821,
-    "wof:lastmodified":1466331643,
+    "wof:lastmodified":1491917042,
     "wof:name":"Arizona Storage Inns",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

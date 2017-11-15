@@ -2,9 +2,14 @@
   "id": 353683551,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 S 93rd Ave Tolleson AZ 85353",
+    "addr:housenumber":"10",
+    "addr:postcode":"85353",
+    "addr:street":"S 93Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.259918,33.447279,-112.259918,33.447279",
     "geom:latitude":33.447279,
     "geom:longitude":-112.259918,
@@ -38,8 +43,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -51,17 +57,17 @@
     "wof:geomhash":"64cda3f6ce6e2c8bea0058dc53a0aa37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353683551
         }
     ],
     "wof:id":353683551,
-    "wof:lastmodified":1466329667,
+    "wof:lastmodified":1491934761,
     "wof:name":"Tolleson Food Bank",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

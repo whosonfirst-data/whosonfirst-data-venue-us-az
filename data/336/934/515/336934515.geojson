@@ -2,9 +2,14 @@
   "id": 336934515,
   "type": "Feature",
   "properties": {
+    "addr:full":"4331 E Baseline Rd B-105 Gilbert AZ 85234",
+    "addr:housenumber":"4331",
+    "addr:postcode":"85234",
+    "addr:street":"E Baseline Rd B-105",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.741168,33.379238,-111.741168,33.379238",
     "geom:latitude":33.379238,
     "geom:longitude":-111.741168,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"6fc7d340b368b2db82c2b9021853066f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336934515,
-    "wof:lastmodified":1466330818,
+    "wof:lastmodified":1491913658,
     "wof:name":"East Valley Dental Anesthesia",
     "wof:parent_id":85858711,
     "wof:placetype":"venue",

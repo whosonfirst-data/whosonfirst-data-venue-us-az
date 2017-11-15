@@ -2,9 +2,14 @@
   "id": 169405295,
   "type": "Feature",
   "properties": {
+    "addr:full":"11449 N Miller Rd Scottsdale AZ 85260",
+    "addr:housenumber":"11449",
+    "addr:postcode":"85260",
+    "addr:street":"N Miller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.918073,33.589699,-111.918073,33.589699",
     "geom:latitude":33.589699,
     "geom:longitude":-111.918073,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"36921dcbf63fc450dce9970fc8be2132",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169405295,
-    "wof:lastmodified":1466334006,
+    "wof:lastmodified":1491912695,
     "wof:name":"Judith Y Bowman",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

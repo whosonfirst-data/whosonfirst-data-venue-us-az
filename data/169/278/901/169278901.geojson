@@ -2,9 +2,14 @@
   "id": 169278901,
   "type": "Feature",
   "properties": {
+    "addr:full":"9926 N 47th Pl Phoenix AZ 85028",
+    "addr:housenumber":"9926",
+    "addr:postcode":"85028",
+    "addr:street":"N 47Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.978878,33.578297,-111.978878,33.578297",
     "geom:latitude":33.578297,
     "geom:longitude":-111.978878,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"056b79ff8bef321a9ac1e3de2982c8ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169278901,
-    "wof:lastmodified":1466332672,
+    "wof:lastmodified":1491905375,
     "wof:name":"Ocis Technology",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

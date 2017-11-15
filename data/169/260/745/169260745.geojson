@@ -2,9 +2,14 @@
   "id": 169260745,
   "type": "Feature",
   "properties": {
+    "addr:full":"10129 N 119th Pl Scottsdale AZ 85259",
+    "addr:housenumber":"10129",
+    "addr:postcode":"85259",
+    "addr:street":"N 119Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.823052,33.577393,-111.823052,33.577393",
     "geom:latitude":33.577393,
     "geom:longitude":-111.823052,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8e2f4d143e209c0a54ee4aad2a90c17e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169260745,
-    "wof:lastmodified":1466332606,
+    "wof:lastmodified":1491939275,
     "wof:name":"Held Group Investments LL",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

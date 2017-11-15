@@ -2,9 +2,14 @@
   "id": 169303343,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 E Via Estrella Phoenix AZ 85028",
+    "addr:housenumber":"4020",
+    "addr:postcode":"85028",
+    "addr:street":"E Via Estrella",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.990999,33.577383,-111.990999,33.577383",
     "geom:latitude":33.577383,
     "geom:longitude":-111.990999,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"a5c0fa967ef2cb9172d06e651c111c8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":169303343,
-    "wof:lastmodified":1466333025,
+    "wof:lastmodified":1491905362,
     "wof:name":"LCF Systems Inc",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

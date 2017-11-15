@@ -2,9 +2,14 @@
   "id": 169062991,
   "type": "Feature",
   "properties": {
+    "addr:full":"6236 S Huachuca Way Chandler AZ 85249",
+    "addr:housenumber":"6236",
+    "addr:postcode":"85249",
+    "addr:street":"S Huachuca Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.778994,33.217465,-111.778994,33.217465",
     "geom:latitude":33.217465,
     "geom:longitude":-111.778994,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"dc959090796f098b668dd01c8065abb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169062991,
-    "wof:lastmodified":1466329163,
+    "wof:lastmodified":1491886951,
     "wof:name":"Peter Harrington Building",
     "wof:parent_id":85876647,
     "wof:placetype":"venue",

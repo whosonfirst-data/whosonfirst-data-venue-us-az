@@ -2,9 +2,14 @@
   "id": 153047503,
   "type": "Feature",
   "properties": {
+    "addr:full":"2834 N 72nd Ave Phoenix AZ 85035",
+    "addr:housenumber":"2834",
+    "addr:postcode":"85035",
+    "addr:street":"N 72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.214912,33.479075,-112.214912,33.479075",
     "geom:latitude":33.479075,
     "geom:longitude":-112.214912,
@@ -37,8 +42,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -50,16 +56,17 @@
     "wof:geomhash":"ee3c51f16acdcec4ea0c4f7127fe9bd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":153047503
         }
     ],
     "wof:id":153047503,
-    "wof:lastmodified":1466326993,
+    "wof:lastmodified":1491934765,
     "wof:name":"It Becomes You",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169356623,
   "type": "Feature",
   "properties": {
+    "addr:full":"6736 E Ludlow Dr Scottsdale AZ 85254",
+    "addr:housenumber":"6736",
+    "addr:postcode":"85254",
+    "addr:street":"E Ludlow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.93745,33.612343,-111.93745,33.612343",
     "geom:latitude":33.612343,
     "geom:longitude":-111.93745,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a2432bc30fa2cc19be96c906b45821ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169356623,
-    "wof:lastmodified":1466333569,
+    "wof:lastmodified":1491901234,
     "wof:name":"Foundations Love Publishing",
     "wof:parent_id":85851581,
     "wof:placetype":"venue",

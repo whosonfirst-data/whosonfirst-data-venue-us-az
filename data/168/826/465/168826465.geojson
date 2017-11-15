@@ -2,9 +2,14 @@
   "id": 168826465,
   "type": "Feature",
   "properties": {
+    "addr:full":"2742 W Darien Way Phoenix AZ 85086",
+    "addr:housenumber":"2742",
+    "addr:postcode":"85086",
+    "addr:street":"W Darien Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.118638,33.803571,-112.118638,33.803571",
     "geom:latitude":33.803571,
     "geom:longitude":-112.118638,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,6 +51,7 @@
     "wof:geomhash":"13b2a22b3ee29eca4b36267755324aa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":168826465,
-    "wof:lastmodified":1466325910,
+    "wof:lastmodified":1491934240,
     "wof:name":"Madzak Interior Design",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

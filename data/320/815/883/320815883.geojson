@@ -2,9 +2,14 @@
   "id": 320815883,
   "type": "Feature",
   "properties": {
+    "addr:full":"20221 N 29th Ave Phoenix AZ 85027",
+    "addr:housenumber":"20221",
+    "addr:postcode":"85027",
+    "addr:street":"N 29Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.12159,33.669431,-112.12159,33.669431",
     "geom:latitude":33.669431,
     "geom:longitude":-112.12159,
@@ -21,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -34,7 +40,7 @@
     "wof:geomhash":"4ee141cda29c818bd55134cd5ce01f3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":320815883,
-    "wof:lastmodified":1466330125,
+    "wof:lastmodified":1491889260,
     "wof:name":"Country Inn & Suites by Carlson Deer Valley",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",

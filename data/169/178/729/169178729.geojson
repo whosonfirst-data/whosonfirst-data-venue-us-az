@@ -2,9 +2,14 @@
   "id": 169178729,
   "type": "Feature",
   "properties": {
+    "addr:full":"12102 E Cortez Dr Scottsdale AZ 85259",
+    "addr:housenumber":"12102",
+    "addr:postcode":"85259",
+    "addr:street":"E Cortez Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.81696,33.594179,-111.81696,33.594179",
     "geom:latitude":33.594179,
     "geom:longitude":-111.81696,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"29475d8113977a2ba29489a47ec1e631",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169178729,
-    "wof:lastmodified":1466332170,
+    "wof:lastmodified":1491939283,
     "wof:name":"Desert Shadows Home Inspection",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

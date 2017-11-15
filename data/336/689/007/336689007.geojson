@@ -2,9 +2,14 @@
   "id": 336689007,
   "type": "Feature",
   "properties": {
+    "addr:full":"6919 W Wood St Phoenix AZ 85043",
+    "addr:housenumber":"6919",
+    "addr:postcode":"85043",
+    "addr:street":"W Wood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.20967,33.41073,-112.20967,33.41073",
     "geom:latitude":33.41073,
     "geom:longitude":-112.20967,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"13199ae22cbd4d834197a3b63d82b01a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336689007,
-    "wof:lastmodified":1466327834,
+    "wof:lastmodified":1491900159,
     "wof:name":"Sierra Desert Trans",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

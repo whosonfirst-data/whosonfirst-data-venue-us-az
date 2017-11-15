@@ -2,9 +2,14 @@
   "id": 169345453,
   "type": "Feature",
   "properties": {
+    "addr:full":"2544 W Broadway Rd Phoenix AZ 85041",
+    "addr:housenumber":"2544",
+    "addr:postcode":"85041",
+    "addr:street":"W Broadway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.115487,33.406803,-112.115487,33.406803",
     "geom:latitude":33.406803,
     "geom:longitude":-112.115487,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1ea166cac9e4b050f4897c3509e69e46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169345453,
-    "wof:lastmodified":1466333539,
+    "wof:lastmodified":1491900161,
     "wof:name":"Nick & Sons Cabinet Shop",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

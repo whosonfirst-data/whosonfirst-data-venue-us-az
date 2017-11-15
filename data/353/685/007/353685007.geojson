@@ -2,9 +2,14 @@
   "id": 353685007,
   "type": "Feature",
   "properties": {
+    "addr:full":"9897 W McDowell Rd Ste 745 Tolleson AZ 85353",
+    "addr:housenumber":"9897",
+    "addr:postcode":"85353",
+    "addr:street":"W Mcdowell Rd Ste 745",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.272281,33.464549,-112.272281,33.464549",
     "geom:latitude":33.464549,
     "geom:longitude":-112.272281,
@@ -36,8 +41,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -49,17 +55,17 @@
     "wof:geomhash":"8e92aa7834946c56fe85f0206dca1ac0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":353685007
         }
     ],
     "wof:id":353685007,
-    "wof:lastmodified":1466329502,
+    "wof:lastmodified":1491934753,
     "wof:name":"Chang Doug DMD",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

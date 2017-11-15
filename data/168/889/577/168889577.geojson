@@ -2,9 +2,14 @@
   "id": 168889577,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 E Coury Ave Mesa AZ 85210",
+    "addr:housenumber":"146",
+    "addr:postcode":"85210",
+    "addr:street":"E Coury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.825735,33.382473,-111.825735,33.382473",
     "geom:latitude":33.382473,
     "geom:longitude":-111.825735,
@@ -27,8 +32,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -40,16 +46,17 @@
     "wof:geomhash":"3bdb802d21520f2e84138e04033cac2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":168889577
         }
     ],
     "wof:id":168889577,
-    "wof:lastmodified":1466329097,
+    "wof:lastmodified":1491892007,
     "wof:name":"Camping World",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

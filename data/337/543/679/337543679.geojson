@@ -2,9 +2,14 @@
   "id": 337543679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1332 N Scottsdale Rd Scottsdale AZ 85257",
+    "addr:housenumber":"1332",
+    "addr:postcode":"85257",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926367,33.462499,-111.926367,33.462499",
     "geom:latitude":33.462499,
     "geom:longitude":-111.926367,
@@ -47,8 +52,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -60,17 +66,17 @@
     "wof:geomhash":"a3d7b2b06741910f721525e6cbab5f7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337543679
         }
     ],
     "wof:id":337543679,
-    "wof:lastmodified":1466326637,
+    "wof:lastmodified":1491905214,
     "wof:name":"Chief Dodge Indian Jewelry Inc",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

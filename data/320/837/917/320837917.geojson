@@ -2,9 +2,14 @@
   "id": 320837917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4622 E Onyx Ave Phoenix AZ 85028",
+    "addr:housenumber":"4622",
+    "addr:postcode":"85028",
+    "addr:street":"E Onyx Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.982036,33.578286,-111.982036,33.578286",
     "geom:latitude":33.578286,
     "geom:longitude":-111.982036,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"444c10ab4f93e3f1c629bed2f2cb657a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320837917,
-    "wof:lastmodified":1466330356,
+    "wof:lastmodified":1491905361,
     "wof:name":"Ace Sales Inc",
     "wof:parent_id":85819319,
     "wof:placetype":"venue",

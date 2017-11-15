@@ -2,9 +2,14 @@
   "id": 353593533,
   "type": "Feature",
   "properties": {
+    "addr:full":"8605 W Maryland Ave Glendale AZ 85305",
+    "addr:housenumber":"8605",
+    "addr:postcode":"85305",
+    "addr:street":"W Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.244654,33.528413,-112.244654,33.528413",
     "geom:latitude":33.528413,
     "geom:longitude":-112.244654,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4addfdfdea84fcaa34e42c74529a917d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353593533,
-    "wof:lastmodified":1466328646,
+    "wof:lastmodified":1491936210,
     "wof:name":"Mattie Lavender-Moore, Speech Therapist",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

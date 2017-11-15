@@ -2,9 +2,14 @@
   "id": 169279557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1727 E Alameda Dr Tempe AZ 85282",
+    "addr:housenumber":"1727",
+    "addr:postcode":"85282",
+    "addr:street":"E Alameda Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.909813,33.400059,-111.909813,33.400059",
     "geom:latitude":33.400059,
     "geom:longitude":-111.909813,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b0d0e6a69f97b2119948c044885974f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169279557,
-    "wof:lastmodified":1466332817,
+    "wof:lastmodified":1491915541,
     "wof:name":"Arizona State Rifle & Pistol",
     "wof:parent_id":85881417,
     "wof:placetype":"venue",

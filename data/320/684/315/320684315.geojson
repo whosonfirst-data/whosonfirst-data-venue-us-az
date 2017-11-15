@@ -2,9 +2,14 @@
   "id": 320684315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 W Rovey Ave Phoenix AZ 85013",
+    "addr:housenumber":"1020",
+    "addr:postcode":"85013",
+    "addr:street":"W Rovey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.086113,33.525055,-112.086113,33.525055",
     "geom:latitude":33.525055,
     "geom:longitude":-112.086113,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,7 +45,7 @@
     "wof:geomhash":"32c12df635331a367167c974a6fda6ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320684315,
-    "wof:lastmodified":1466327994,
+    "wof:lastmodified":1491913561,
     "wof:name":"Lee Y Niles Mrs",
     "wof:parent_id":85853815,
     "wof:placetype":"venue",

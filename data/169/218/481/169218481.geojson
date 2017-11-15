@@ -2,9 +2,14 @@
   "id": 169218481,
   "type": "Feature",
   "properties": {
+    "addr:full":"14421 Prickly Pear Ct Fountain Hills AZ 85268",
+    "addr:housenumber":"14421",
+    "addr:postcode":"85268",
+    "addr:street":"Prickly Pear Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.740963,33.617852,-111.740963,33.617852",
     "geom:latitude":33.617852,
     "geom:longitude":-111.740963,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"42fc6eb9bb607c88c23fb4bc5b9dd0d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169218481,
-    "wof:lastmodified":1466332258,
+    "wof:lastmodified":1491939269,
     "wof:name":"Donald L Laten",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

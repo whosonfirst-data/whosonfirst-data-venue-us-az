@@ -2,9 +2,14 @@
   "id": 337595379,
   "type": "Feature",
   "properties": {
+    "addr:full":"13413 N 101st Way Scottsdale AZ 85260",
+    "addr:housenumber":"13413",
+    "addr:postcode":"85260",
+    "addr:street":"N 101St Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.862513,33.607896,-111.862513,33.607896",
     "geom:latitude":33.607896,
     "geom:longitude":-111.862513,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a4844d6392042c9faef7861c8aa95436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337595379,
-    "wof:lastmodified":1466327076,
+    "wof:lastmodified":1491908448,
     "wof:name":"Krakowski, Ben J Consulting Stuctural Engineer",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

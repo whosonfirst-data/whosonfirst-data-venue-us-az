@@ -2,9 +2,14 @@
   "id": 169120599,
   "type": "Feature",
   "properties": {
+    "addr:full":"3143 E Greenway Rd Phoenix AZ 85032",
+    "addr:housenumber":"3143",
+    "addr:postcode":"85032",
+    "addr:street":"E Greenway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.014497,33.626257,-112.014497,33.626257",
     "geom:latitude":33.626257,
     "geom:longitude":-112.014497,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"2d2d1f366aa855119fc285ab1e3ddae9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169120599,
-    "wof:lastmodified":1466331340,
+    "wof:lastmodified":1491932180,
     "wof:name":"Sardella's Pizza & Wings",
     "wof:parent_id":85831383,
     "wof:placetype":"venue",

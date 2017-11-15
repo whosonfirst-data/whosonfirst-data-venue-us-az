@@ -2,9 +2,14 @@
   "id": 353656579,
   "type": "Feature",
   "properties": {
+    "addr:full":"6405 S 75th Ave Laveen AZ 85339",
+    "addr:housenumber":"6405",
+    "addr:postcode":"85339",
+    "addr:street":"S 75Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.219685,33.386152,-112.219685,33.386152",
     "geom:latitude":33.386152,
     "geom:longitude":-112.219685,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f00722da916e07ec652bcce5a683179f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353656579,
-    "wof:lastmodified":1466329236,
+    "wof:lastmodified":1491900214,
     "wof:name":"Aaall 24 Hr Emergency Locks",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

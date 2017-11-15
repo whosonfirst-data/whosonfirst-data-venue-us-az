@@ -2,9 +2,14 @@
   "id": 169097531,
   "type": "Feature",
   "properties": {
+    "addr:full":"8127 W Sierra Vista Dr Glendale AZ 85303",
+    "addr:housenumber":"8127",
+    "addr:postcode":"85303",
+    "addr:street":"W Sierra Vista Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.233662,33.53127,-112.233662,33.53127",
     "geom:latitude":33.53127,
     "geom:longitude":-112.233662,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917509,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1125f16acdc716eef8fb76c55a9cf2b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169097531,
-    "wof:lastmodified":1466330874,
+    "wof:lastmodified":1491936208,
     "wof:name":"A Discount Manufacture Direct",
     "wof:parent_id":85877835,
     "wof:placetype":"venue",

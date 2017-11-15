@@ -2,9 +2,14 @@
   "id": 336733081,
   "type": "Feature",
   "properties": {
+    "addr:full":"5929 W Bent Tree Dr Phoenix AZ 85083",
+    "addr:housenumber":"5929",
+    "addr:postcode":"85083",
+    "addr:street":"W Bent Tree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.189173,33.733918,-112.189173,33.733918",
     "geom:latitude":33.733918,
     "geom:longitude":-112.189173,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -49,7 +55,7 @@
     "wof:geomhash":"8859fed409a0086ee720faa5bf5976c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336733081,
-    "wof:lastmodified":1466328538,
+    "wof:lastmodified":1491934294,
     "wof:name":"Swift Construction",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

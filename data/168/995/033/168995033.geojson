@@ -2,9 +2,14 @@
   "id": 168995033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 S 52nd St Tempe AZ 85281",
+    "addr:housenumber":"1615",
+    "addr:postcode":"85281",
+    "addr:street":"S 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.969453,33.409666,-111.969453,33.409666",
     "geom:latitude":33.409666,
     "geom:longitude":-111.969453,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -46,6 +52,7 @@
     "wof:geomhash":"d71d6178a7d2cfca391f6ef6c7ef7dbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":168995033,
-    "wof:lastmodified":1466331725,
+    "wof:lastmodified":1491909706,
     "wof:name":"Inter-Tel Incorporated",
     "wof:parent_id":85881401,
     "wof:placetype":"venue",

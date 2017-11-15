@@ -2,9 +2,14 @@
   "id": 169319825,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 S 15th Ave Phoenix AZ 85007",
+    "addr:housenumber":"2001",
+    "addr:postcode":"85007",
+    "addr:street":"S 15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.091112,33.428075,-112.091112,33.428075",
     "geom:latitude":33.428075,
     "geom:longitude":-112.091112,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -48,6 +54,7 @@
     "wof:geomhash":"e642a4ec4f0e71bc4c7a2f76ec8a3150",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":169319825,
-    "wof:lastmodified":1466333227,
+    "wof:lastmodified":1491917152,
     "wof:name":"American Tire Distributors",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

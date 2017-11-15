@@ -2,9 +2,14 @@
   "id": 169095827,
   "type": "Feature",
   "properties": {
+    "addr:full":"10860 E Gold Dust Ave Scottsdale AZ 85259",
+    "addr:housenumber":"10860",
+    "addr:postcode":"85259",
+    "addr:street":"E Gold Dust Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.847165,33.578433,-111.847165,33.578433",
     "geom:latitude":33.578433,
     "geom:longitude":-111.847165,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f7b9f0ce969831b455293483e1fd9689",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169095827,
-    "wof:lastmodified":1466330815,
+    "wof:lastmodified":1491931835,
     "wof:name":"Jon Meiners Div",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

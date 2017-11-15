@@ -2,9 +2,14 @@
   "id": 336907797,
   "type": "Feature",
   "properties": {
+    "addr:full":"855 W Warner Rd Gilbert AZ 85233",
+    "addr:housenumber":"855",
+    "addr:postcode":"85233",
+    "addr:street":"W Warner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.808047,33.335162,-111.808047,33.335162",
     "geom:latitude":33.335162,
     "geom:longitude":-111.808047,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917533,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ce9ecb0381538d6a19d6ccbcc4c2ffdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917533,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336907797,
-    "wof:lastmodified":1466330389,
+    "wof:lastmodified":1491920745,
     "wof:name":"1 24 Hour Emergency Locksmith",
     "wof:parent_id":85876671,
     "wof:placetype":"venue",

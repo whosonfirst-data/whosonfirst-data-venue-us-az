@@ -2,9 +2,14 @@
   "id": 169243689,
   "type": "Feature",
   "properties": {
+    "addr:full":"2406 W Bent Tree Dr Phoenix AZ 85085",
+    "addr:housenumber":"2406",
+    "addr:postcode":"85085",
+    "addr:street":"W Bent Tree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.111268,33.734456,-112.111268,33.734456",
     "geom:latitude":33.734456,
     "geom:longitude":-112.111268,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ef73bfd611b1a1f0df81e302463b6012",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169243689,
-    "wof:lastmodified":1466332399,
+    "wof:lastmodified":1491934236,
     "wof:name":"Pride Travel & Tours Inc",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

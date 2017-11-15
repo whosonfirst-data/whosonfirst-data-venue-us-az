@@ -2,9 +2,14 @@
   "id": 168848143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 W Glendale Ave Glendale AZ 85301",
+    "addr:housenumber":"4600",
+    "addr:postcode":"85301",
+    "addr:street":"W Glendale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.160024,33.538446,-112.160024,33.538446",
     "geom:latitude":33.538446,
     "geom:longitude":-112.160024,
@@ -25,10 +30,13 @@
     "sg:province":"AZ",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85917509,
-        85633793,
         85688719,
-        102087421
+        102191575,
+        85633793,
+        85917509,
+        102087421,
+        420535517,
+        85877783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"82df86a2d4a6b6cc17664ba4f211c763",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917509,
+            "neighbourhood_id":420535517,
+            "region_id":85688719,
+            "venue_id":168848143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917509,
+            "neighbourhood_id":85877783,
             "region_id":85688719,
             "venue_id":168848143
         }
     ],
     "wof:id":168848143,
-    "wof:lastmodified":1466327637,
+    "wof:lastmodified":1491912747,
     "wof:name":"Earnhardt's RV Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

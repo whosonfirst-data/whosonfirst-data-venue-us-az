@@ -2,9 +2,14 @@
   "id": 336598055,
   "type": "Feature",
   "properties": {
+    "addr:full":"17635 N 42nd St Phoenix AZ 85032",
+    "addr:housenumber":"17635",
+    "addr:postcode":"85032",
+    "addr:street":"N 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.991277,33.647028,-111.991277,33.647028",
     "geom:latitude":33.647028,
     "geom:longitude":-111.991277,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"202c24d281ff84c678968b6bdf8c3df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336598055,
-    "wof:lastmodified":1466325932,
+    "wof:lastmodified":1491911690,
     "wof:name":"Irish Rose Painting & More",
     "wof:parent_id":85843785,
     "wof:placetype":"venue",

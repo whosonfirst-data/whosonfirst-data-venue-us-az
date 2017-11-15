@@ -2,9 +2,14 @@
   "id": 337634237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 E Weber Dr Tempe AZ 85281",
+    "addr:housenumber":"1321",
+    "addr:postcode":"85281",
+    "addr:street":"E Weber Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.917755,33.444015,-111.917755,33.444015",
     "geom:latitude":33.444015,
     "geom:longitude":-111.917755,
@@ -45,8 +50,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -58,17 +64,17 @@
     "wof:geomhash":"2ec77669f5c6b372d543298c927f35a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337634237
         }
     ],
     "wof:id":337634237,
-    "wof:lastmodified":1466327411,
+    "wof:lastmodified":1491905163,
     "wof:name":"Accurate Air Cond",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

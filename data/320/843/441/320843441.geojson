@@ -2,9 +2,14 @@
   "id": 320843441,
   "type": "Feature",
   "properties": {
+    "addr:full":"11002 N 23rd Ave # 3 Phoenix AZ 85029",
+    "addr:housenumber":"11002",
+    "addr:postcode":"85029",
+    "addr:street":"N 23Rd Ave # 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.108078,33.586792,-112.108078,33.586792",
     "geom:latitude":33.586792,
     "geom:longitude":-112.108078,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f27e2280eb31fb9461390feff51dcdf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320843441,
-    "wof:lastmodified":1466330483,
+    "wof:lastmodified":1491895200,
     "wof:name":"Avoconsolutions Inc",
     "wof:parent_id":85871009,
     "wof:placetype":"venue",

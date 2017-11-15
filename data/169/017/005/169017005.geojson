@@ -2,9 +2,14 @@
   "id": 169017005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4236 N 72nd Ln Phoenix AZ 85033",
+    "addr:housenumber":"4236",
+    "addr:postcode":"85033",
+    "addr:street":"N 72Nd Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.215488,33.497103,-112.215488,33.497103",
     "geom:latitude":33.497103,
     "geom:longitude":-112.215488,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"c2c1c5d98089859d69e5d6c6d8fb03f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169017005
         }
     ],
     "wof:id":169017005,
-    "wof:lastmodified":1466325699,
+    "wof:lastmodified":1491934641,
     "wof:name":"Movas Records",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 168966835,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 S 7th Ave Phoenix AZ 85007",
+    "addr:housenumber":"723",
+    "addr:postcode":"85007",
+    "addr:street":"S 7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.082454,33.440293,-112.082454,33.440293",
     "geom:latitude":33.440293,
     "geom:longitude":-112.082454,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e3ecc9f07d035d2d46c50aa83f20fbbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":168966835,
-    "wof:lastmodified":1466331354,
+    "wof:lastmodified":1491917242,
     "wof:name":"LA Canasta Mexican Restaurant",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

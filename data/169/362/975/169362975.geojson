@@ -2,9 +2,14 @@
   "id": 169362975,
   "type": "Feature",
   "properties": {
+    "addr:full":"2736 W Buckeye Rd Phoenix AZ 85009",
+    "addr:housenumber":"2736",
+    "addr:postcode":"85009",
+    "addr:street":"W Buckeye Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.118772,33.436902,-112.118772,33.436902",
     "geom:latitude":33.436902,
     "geom:longitude":-112.118772,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1a45cc3bbfad4086fe0e9166f60cc5f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169362975,
-    "wof:lastmodified":1466333951,
+    "wof:lastmodified":1491917174,
     "wof:name":"N & N Autobody",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

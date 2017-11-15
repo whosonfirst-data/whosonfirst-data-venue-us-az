@@ -2,9 +2,14 @@
   "id": 337545345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 N Scottsdale Rd Scottsdale AZ 85257",
+    "addr:housenumber":"1420",
+    "addr:postcode":"85257",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926362,33.46354,-111.926362,33.46354",
     "geom:latitude":33.46354,
     "geom:longitude":-111.926362,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -45,17 +51,17 @@
     "wof:geomhash":"e2242b970fccbcaa6d22ce0a4a02a35f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":337545345
         }
     ],
     "wof:id":337545345,
-    "wof:lastmodified":1466326654,
+    "wof:lastmodified":1491905195,
     "wof:name":"Car Finder",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

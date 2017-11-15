@@ -2,9 +2,14 @@
   "id": 320622501,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 S Central Ave Phoenix AZ 85004",
+    "addr:housenumber":"706",
+    "addr:postcode":"85004",
+    "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073822,33.44082,-112.073822,33.44082",
     "geom:latitude":33.44082,
     "geom:longitude":-112.073822,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"c2b3d622a8f2ed6ac2c38411e9854d21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320622501,
-    "wof:lastmodified":1466326325,
+    "wof:lastmodified":1491917123,
     "wof:name":"Miranda's Customs",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",

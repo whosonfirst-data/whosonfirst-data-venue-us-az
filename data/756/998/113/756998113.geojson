@@ -2,14 +2,20 @@
   "id": 756998113,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 E University Dr Tempe AZ 85281",
+    "addr:housenumber":"960",
+    "addr:postcode":"85281",
+    "addr:street":"E University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.923861,33.422038,-111.923861,33.422038",
     "geom:latitude":33.422038,
     "geom:longitude":-111.923861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"960 E University Dr",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -36,30 +42,31 @@
         85633793,
         85917469,
         102087421,
-        85881405
+        85881433
     ],
+    "wof:brand_id":420575749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kfq8H8RdLrocpR83tvsis_33.422112_-111.924166@1294080769"
     },
     "wof:country":"US",
     "wof:created":1462215268,
-    "wof:geomhash":"f95bf71569875435adb8dc53915867cd",
+    "wof:geomhash":"52560015d268668d5b9e220059aa2e09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
-            "neighbourhood_id":85881405,
+            "neighbourhood_id":85881433,
             "region_id":85688719,
             "venue_id":756998113
         }
     ],
     "wof:id":756998113,
-    "wof:lastmodified":1466329181,
+    "wof:lastmodified":1510601916,
     "wof:name":"Del Taco",
-    "wof:parent_id":85881405,
+    "wof:parent_id":85881433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

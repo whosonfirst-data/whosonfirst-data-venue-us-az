@@ -2,9 +2,14 @@
   "id": 169138577,
   "type": "Feature",
   "properties": {
+    "addr:full":"5018 S Juniper St Tempe AZ 85282",
+    "addr:housenumber":"5018",
+    "addr:postcode":"85282",
+    "addr:street":"S Juniper St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.912745,33.380271,-111.912745,33.380271",
     "geom:latitude":33.380271,
     "geom:longitude":-111.912745,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917469,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"2627deace5ec553115e2f5895b4d35ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917469,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169138577,
-    "wof:lastmodified":1466331501,
+    "wof:lastmodified":1491938068,
     "wof:name":"Arizona Home Audio Video Sltns",
     "wof:parent_id":85833157,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320754113,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 N 38th St Phoenix AZ 85018",
+    "addr:housenumber":"3025",
+    "addr:postcode":"85018",
+    "addr:street":"N 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.999847,33.483264,-111.999847,33.483264",
     "geom:latitude":33.483264,
     "geom:longitude":-111.999847,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e69ef84f9b2c354b5fd6259aa5658ea2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320754113,
-    "wof:lastmodified":1466329246,
+    "wof:lastmodified":1491890248,
     "wof:name":"Bryant Wholesalers",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

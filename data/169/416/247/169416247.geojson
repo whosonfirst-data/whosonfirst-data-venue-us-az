@@ -2,9 +2,14 @@
   "id": 169416247,
   "type": "Feature",
   "properties": {
+    "addr:full":"8803 W Lillian Ln Tolleson AZ 85353",
+    "addr:housenumber":"8803",
+    "addr:postcode":"85353",
+    "addr:street":"W Lillian Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.2488,33.45541,-112.2488,33.45541",
     "geom:latitude":33.45541,
     "geom:longitude":-112.2488,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917479,
+        85917463,
         102087421,
         85832807
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"5703be7e93aa11041786ff5f05d0eea8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917479,
+            "locality_id":85917463,
             "neighbourhood_id":85832807,
             "region_id":85688719,
             "venue_id":169416247
         }
     ],
     "wof:id":169416247,
-    "wof:lastmodified":1466334142,
+    "wof:lastmodified":1491934737,
     "wof:name":"Europa Auto Werkes LLC",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",

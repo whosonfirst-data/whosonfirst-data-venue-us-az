@@ -2,9 +2,14 @@
   "id": 169413427,
   "type": "Feature",
   "properties": {
+    "addr:full":"6917 W Southgate Ave Phoenix AZ 85043",
+    "addr:housenumber":"6917",
+    "addr:postcode":"85043",
+    "addr:street":"W Southgate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.209034,33.411492,-112.209034,33.411492",
     "geom:latitude":33.411492,
     "geom:longitude":-112.209034,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"aaf8df0a19e6005827c78ddd4642b1c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169413427,
-    "wof:lastmodified":1466333947,
+    "wof:lastmodified":1491900164,
     "wof:name":"Sun Valley Concrete",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

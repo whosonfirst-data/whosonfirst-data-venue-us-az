@@ -2,9 +2,14 @@
   "id": 168975995,
   "type": "Feature",
   "properties": {
+    "addr:full":"7500 E Pinnacle Peak Rd Scottsdale AZ 85255",
+    "addr:housenumber":"7500",
+    "addr:postcode":"85255",
+    "addr:street":"E Pinnacle Peak Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.917282,33.698696,-111.917282,33.698696",
     "geom:latitude":33.698696,
     "geom:longitude":-111.917282,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a9119247f8a3075a8671ad81ee4943fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":168975995,
-    "wof:lastmodified":1466331405,
+    "wof:lastmodified":1491926454,
     "wof:name":"Pinnacle Peak Periodontics",
     "wof:parent_id":85813251,
     "wof:placetype":"venue",

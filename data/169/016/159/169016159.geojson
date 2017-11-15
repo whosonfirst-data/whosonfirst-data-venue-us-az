@@ -2,9 +2,14 @@
   "id": 169016159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1853 N Scottsdale Rd Tempe AZ 85281",
+    "addr:housenumber":"1853",
+    "addr:postcode":"85281",
+    "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926384,33.450361,-111.926384,33.450361",
     "geom:latitude":33.450361,
     "geom:longitude":-111.926384,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917475,
+        85917469,
         102087421,
         85881419
     ],
@@ -40,16 +46,17 @@
     "wof:geomhash":"0ae3863397c7fe3f7f9ea8127d4d5d15",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917475,
+            "locality_id":85917469,
             "neighbourhood_id":85881419,
             "region_id":85688719,
             "venue_id":169016159
         }
     ],
     "wof:id":169016159,
-    "wof:lastmodified":1466327673,
+    "wof:lastmodified":1491905206,
     "wof:name":"Big Lots",
     "wof:parent_id":85881419,
     "wof:placetype":"venue",

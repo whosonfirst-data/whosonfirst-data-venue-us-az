@@ -2,9 +2,14 @@
   "id": 320842967,
   "type": "Feature",
   "properties": {
+    "addr:full":"11225 N 28th Dr Ste D209 Phoenix AZ 85029",
+    "addr:housenumber":"11225",
+    "addr:postcode":"85029",
+    "addr:street":"N 28Th Dr Ste D209",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.120932,33.588867,-112.120932,33.588867",
     "geom:latitude":33.588867,
     "geom:longitude":-112.120932,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ad9ee66365fc81d3252d12ad271622b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320842967,
-    "wof:lastmodified":1466330197,
+    "wof:lastmodified":1491888231,
     "wof:name":"Wong",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

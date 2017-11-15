@@ -2,9 +2,14 @@
   "id": 168900519,
   "type": "Feature",
   "properties": {
+    "addr:full":"9571 N 117th St Scottsdale AZ 85259",
+    "addr:housenumber":"9571",
+    "addr:postcode":"85259",
+    "addr:street":"N 117Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.828251,33.573853,-111.828251,33.573853",
     "geom:latitude":33.573853,
     "geom:longitude":-111.828251,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1e21a66d5acf28ec6773f773c6277305",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":168900519,
-    "wof:lastmodified":1466329629,
+    "wof:lastmodified":1491931834,
     "wof:name":"Jfm Logistics Inc",
     "wof:parent_id":85880971,
     "wof:placetype":"venue",

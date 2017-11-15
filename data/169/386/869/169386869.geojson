@@ -2,9 +2,14 @@
   "id": 169386869,
   "type": "Feature",
   "properties": {
+    "addr:full":"15095 N Thompson Peak Pkwy Scottsdale AZ 85260",
+    "addr:housenumber":"15095",
+    "addr:postcode":"85260",
+    "addr:street":"N Thompson Peak Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.873238,33.623124,-111.873238,33.623124",
     "geom:latitude":33.623124,
     "geom:longitude":-111.873238,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,6 +48,7 @@
     "wof:geomhash":"fff69521b9482b69210dc7a5f3c11096",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169386869,
-    "wof:lastmodified":1466333925,
+    "wof:lastmodified":1491908460,
     "wof:name":"Dedicated To Women",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

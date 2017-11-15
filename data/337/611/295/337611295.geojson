@@ -2,9 +2,14 @@
   "id": 337611295,
   "type": "Feature",
   "properties": {
+    "addr:full":"11019 N 75th St Scottsdale AZ 85260",
+    "addr:housenumber":"11019",
+    "addr:postcode":"85260",
+    "addr:street":"N 75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.919861,33.585618,-111.919861,33.585618",
     "geom:latitude":33.585618,
     "geom:longitude":-111.919861,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6b4cbab00ad1f7faa94a9dc3a560d1a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337611295,
-    "wof:lastmodified":1466327218,
+    "wof:lastmodified":1491912678,
     "wof:name":"The Heitzman Group",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 169245777,
   "type": "Feature",
   "properties": {
+    "addr:full":"7463 E North Ln Scottsdale AZ 85258",
+    "addr:housenumber":"7463",
+    "addr:postcode":"85258",
+    "addr:street":"E North Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.919996,33.580403,-111.919996,33.580403",
     "geom:latitude":33.580403,
     "geom:longitude":-111.919996,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"21e3b49872b07830bb908fdfe9b750ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169245777,
-    "wof:lastmodified":1466332480,
+    "wof:lastmodified":1491912676,
     "wof:name":"Vuden Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337523605,
   "type": "Feature",
   "properties": {
+    "addr:full":"12217 N 63rd St Scottsdale AZ 85254",
+    "addr:housenumber":"12217",
+    "addr:postcode":"85254",
+    "addr:street":"N 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.944557,33.597232,-111.944557,33.597232",
     "geom:latitude":33.597232,
     "geom:longitude":-111.944557,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9d957ef6609d0059861962bc0b9f5641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337523605,
-    "wof:lastmodified":1466326449,
+    "wof:lastmodified":1491912662,
     "wof:name":"Level 3 Engineering Inc",
     "wof:parent_id":85880973,
     "wof:placetype":"venue",

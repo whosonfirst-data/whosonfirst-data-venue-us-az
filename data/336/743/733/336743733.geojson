@@ -2,9 +2,14 @@
   "id": 336743733,
   "type": "Feature",
   "properties": {
+    "addr:full":"35819 N 11th Ave Phoenix AZ 85086",
+    "addr:housenumber":"35819",
+    "addr:postcode":"85086",
+    "addr:street":"N 11Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.087169,33.810628,-112.087169,33.810628",
     "geom:latitude":33.810628,
     "geom:longitude":-112.087169,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c212ee9a2ff45bd409645bcacbb89b2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336743733,
-    "wof:lastmodified":1466328664,
+    "wof:lastmodified":1491934282,
     "wof:name":"Lyman H Rollins",
     "wof:parent_id":85871003,
     "wof:placetype":"venue",

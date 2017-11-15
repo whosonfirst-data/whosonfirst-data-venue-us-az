@@ -2,9 +2,14 @@
   "id": 152906869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 N Center St Mesa AZ 85201",
+    "addr:housenumber":"1212",
+    "addr:postcode":"85201",
+    "addr:street":"N Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.831234,33.437582,-111.831234,33.437582",
     "geom:latitude":33.437582,
     "geom:longitude":-111.831234,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
@@ -43,6 +49,7 @@
     "wof:geomhash":"f42e3b0a7aead49a9a344b82e6d3cb36",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152906869,
-    "wof:lastmodified":1466327360,
+    "wof:lastmodified":1491893372,
     "wof:name":"Mesa Cemetery",
     "wof:parent_id":85833889,
     "wof:placetype":"venue",

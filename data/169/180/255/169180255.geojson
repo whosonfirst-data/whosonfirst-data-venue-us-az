@@ -2,14 +2,20 @@
   "id": 169180255,
   "type": "Feature",
   "properties": {
+    "addr:full":"8440 S 35th Ave Laveen AZ 85339",
+    "addr:housenumber":"8440",
+    "addr:postcode":"85339",
+    "addr:street":"S 35Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.134867,33.363548,-112.134867,33.363548",
     "geom:latitude":33.363548,
     "geom:longitude":-112.134867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8440 S 35th Ave",
     "sg:city":"Laveen",
     "sg:classifiers":[
@@ -30,19 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
         85829975
     ],
+    "wof:brand_id":1125154351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AJ6dSSJOLtELjD4jKeTdc_33.363548_-112.134867@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd3553556f433acc5e39e4cda650c3bf",
+    "wof:geomhash":"3afb177961f732d405cec9d3c17c8bc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":169180255,
-    "wof:lastmodified":1466332161,
+    "wof:lastmodified":1510604931,
     "wof:name":"Parks and Recreation Dept",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

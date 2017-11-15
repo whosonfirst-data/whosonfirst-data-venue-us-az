@@ -2,9 +2,14 @@
   "id": 320644407,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 E Cambridge Ave Phoenix AZ 85008",
+    "addr:housenumber":"4115",
+    "addr:postcode":"85008",
+    "addr:street":"E Cambridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.993174,33.477153,-111.993174,33.477153",
     "geom:latitude":33.477153,
     "geom:longitude":-111.993174,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -45,7 +51,7 @@
     "wof:geomhash":"85cf39f76a3f4d85dc03dc09c8350265",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320644407,
-    "wof:lastmodified":1466326873,
+    "wof:lastmodified":1491890168,
     "wof:name":"Rivera Custom Painting",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336835417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 N Power Rd Mesa AZ 85215",
+    "addr:housenumber":"2015",
+    "addr:postcode":"85215",
+    "addr:street":"N Power Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.684035,33.451992,-111.684035,33.451992",
     "geom:latitude":33.451992,
     "geom:longitude":-111.684035,
@@ -50,9 +55,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917491,
         102087421,
+        420558923,
         85840319
     ],
     "wof:brand_id":420574493,
@@ -64,7 +71,16 @@
     "wof:geomhash":"0855af40ad496bcc2d5d9b5652b5967f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087421,
+            "locality_id":85917491,
+            "neighbourhood_id":420558923,
+            "region_id":85688719,
+            "venue_id":336835417
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917491,
@@ -74,9 +90,9 @@
         }
     ],
     "wof:id":336835417,
-    "wof:lastmodified":1466329899,
+    "wof:lastmodified":1491918143,
     "wof:name":"Electronics Boutique",
-    "wof:parent_id":85840319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
     "wof:superseded_by":[],

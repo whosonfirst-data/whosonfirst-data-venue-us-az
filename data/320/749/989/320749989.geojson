@@ -2,9 +2,14 @@
   "id": 320749989,
   "type": "Feature",
   "properties": {
+    "addr:full":"4340 E Indian School Rd # 19 Phoenix AZ 85018",
+    "addr:housenumber":"4340",
+    "addr:postcode":"85018",
+    "addr:street":"E Indian School Rd # 19",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.987777,33.49488,-111.987777,33.49488",
     "geom:latitude":33.49488,
     "geom:longitude":-111.987777,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -47,7 +53,7 @@
     "wof:geomhash":"76ed0437249f1d43d4782801aeb7d071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":320749989,
-    "wof:lastmodified":1466329071,
+    "wof:lastmodified":1491890151,
     "wof:name":"Ray Eyewear",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",

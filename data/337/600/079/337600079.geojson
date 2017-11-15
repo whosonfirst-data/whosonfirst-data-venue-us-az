@@ -2,9 +2,14 @@
   "id": 337600079,
   "type": "Feature",
   "properties": {
+    "addr:full":"8800 E Raintree Dr # 110 Scottsdale AZ 85260",
+    "addr:housenumber":"8800",
+    "addr:postcode":"85260",
+    "addr:street":"E Raintree Dr # 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.889717,33.61842,-111.889717,33.61842",
     "geom:latitude":33.61842,
     "geom:longitude":-111.889717,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -53,7 +59,7 @@
     "wof:geomhash":"9128260480cf17e6b84448f0dbeb1494",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":337600079,
-    "wof:lastmodified":1466327112,
+    "wof:lastmodified":1491908440,
     "wof:name":"Great American Title Agency, Inc.",
     "wof:parent_id":85880949,
     "wof:placetype":"venue",

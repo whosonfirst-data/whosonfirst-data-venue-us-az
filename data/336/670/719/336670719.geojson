@@ -2,9 +2,14 @@
   "id": 336670719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3114 W Wayland Dr Phoenix AZ 85041",
+    "addr:housenumber":"3114",
+    "addr:postcode":"85041",
+    "addr:street":"W Wayland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.125969,33.394275,-112.125969,33.394275",
     "geom:latitude":33.394275,
     "geom:longitude":-112.125969,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,7 +50,7 @@
     "wof:geomhash":"1580ed301c79e116da0e94e00e67fcbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336670719,
-    "wof:lastmodified":1466327447,
+    "wof:lastmodified":1491900155,
     "wof:name":"Twin Pegasus Computers",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

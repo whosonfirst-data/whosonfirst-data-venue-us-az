@@ -2,9 +2,14 @@
   "id": 320786817,
   "type": "Feature",
   "properties": {
+    "addr:full":"9631 N Black Canyon Hwy Phoenix AZ 85021",
+    "addr:housenumber":"9631",
+    "addr:postcode":"85021",
+    "addr:street":"N Black Canyon Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.116719,33.572999,-112.116719,33.572999",
     "geom:latitude":33.572999,
     "geom:longitude":-112.116719,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -43,7 +49,7 @@
     "wof:geomhash":"dc0202e571b604736f76fae38764e0ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320786817,
-    "wof:lastmodified":1466329660,
+    "wof:lastmodified":1491888182,
     "wof:name":"CY PHOENIX NORTH",
     "wof:parent_id":85885507,
     "wof:placetype":"venue",

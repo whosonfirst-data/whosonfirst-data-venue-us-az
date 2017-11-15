@@ -2,9 +2,14 @@
   "id": 353486175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 E Guadalupe Rd Tempe AZ 85283",
+    "addr:housenumber":"1817",
+    "addr:postcode":"85283",
+    "addr:street":"E Guadalupe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.91042,33.363766,-111.91042,33.363766",
     "geom:latitude":33.363766,
     "geom:longitude":-111.91042,
@@ -38,8 +43,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917469,
         102087421,
         85852061
     ],
@@ -51,17 +57,17 @@
     "wof:geomhash":"a495bfb7af002711ec48cc645fd6672b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917469,
             "neighbourhood_id":85852061,
             "region_id":85688719,
             "venue_id":353486175
         }
     ],
     "wof:id":353486175,
-    "wof:lastmodified":1466326938,
+    "wof:lastmodified":1491918181,
     "wof:name":"Tott's Asian Diner",
     "wof:parent_id":85852061,
     "wof:placetype":"venue",

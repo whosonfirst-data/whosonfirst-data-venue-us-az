@@ -2,9 +2,14 @@
   "id": 169149977,
   "type": "Feature",
   "properties": {
+    "addr:full":"1345 N Hobson St Gilbert AZ 85233",
+    "addr:housenumber":"1345",
+    "addr:postcode":"85233",
+    "addr:street":"N Hobson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.819395,33.374434,-111.819395,33.374434",
     "geom:latitude":33.374434,
     "geom:longitude":-111.819395,
@@ -38,8 +43,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
-        85917491,
+        85917513,
         102087421,
         85833339
     ],
@@ -51,16 +57,17 @@
     "wof:geomhash":"bd8f547f46ccd0a71f244ed9603c4fd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
-            "locality_id":85917491,
+            "locality_id":85917513,
             "neighbourhood_id":85833339,
             "region_id":85688719,
             "venue_id":169149977
         }
     ],
     "wof:id":169149977,
-    "wof:lastmodified":1466331829,
+    "wof:lastmodified":1491892005,
     "wof:name":"Independent Gas Tank Co LLC",
     "wof:parent_id":85833339,
     "wof:placetype":"venue",

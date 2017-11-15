@@ -2,9 +2,14 @@
   "id": 169038791,
   "type": "Feature",
   "properties": {
+    "addr:full":"4952 W Southern Ave Laveen AZ 85339",
+    "addr:housenumber":"4952",
+    "addr:postcode":"85339",
+    "addr:street":"W Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.159158,33.391958,-112.159158,33.391958",
     "geom:latitude":33.391958,
     "geom:longitude":-112.159158,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"42a91ddb36385bf2ba2ef604a87d6afb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169038791,
-    "wof:lastmodified":1466327641,
+    "wof:lastmodified":1491900168,
     "wof:name":"Damavand Trading",
     "wof:parent_id":85829975,
     "wof:placetype":"venue",

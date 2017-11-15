@@ -2,9 +2,14 @@
   "id": 168930377,
   "type": "Feature",
   "properties": {
+    "addr:full":"16446 E Tombstone Ave Fountain Hills AZ 85268",
+    "addr:housenumber":"16446",
+    "addr:postcode":"85268",
+    "addr:street":"E Tombstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.729005,33.572917,-111.729005,33.572917",
     "geom:latitude":33.572917,
     "geom:longitude":-111.729005,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917475,
         102087421,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1d57a93d1188e3a7fdfdf9adc03dba68",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":168930377,
-    "wof:lastmodified":1466330546,
+    "wof:lastmodified":1491939342,
     "wof:name":"Sports Marketing",
     "wof:parent_id":85880945,
     "wof:placetype":"venue",

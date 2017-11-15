@@ -2,9 +2,14 @@
   "id": 152987093,
   "type": "Feature",
   "properties": {
+    "addr:full":"13454 N 7th St Phoenix AZ 85022",
+    "addr:housenumber":"13454",
+    "addr:postcode":"85022",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.065361,33.609818,-112.065361,33.609818",
     "geom:latitude":33.609818,
     "geom:longitude":-112.065361,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688719,
+        102191575,
         85633793,
         85917479,
         102087421,
@@ -39,6 +45,7 @@
     "wof:geomhash":"cf8b31bbdbc58afcc065977f4597da7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087421,
             "locality_id":85917479,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152987093,
-    "wof:lastmodified":1466329352,
+    "wof:lastmodified":1491897082,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85844515,
     "wof:placetype":"venue",
