@@ -7,13 +7,16 @@
     "addr:postcode":"85006",
     "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.065207,33.458721,-112.065207,33.458721",
     "geom:latitude":33.458721,
     "geom:longitude":-112.065207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1007 N 7th St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_0c9CMdFXZnjoxQt5v9BgkX_33.458721_-112.065207@1303263097"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f62742b97d0148c0ca81d3ac6f104bf",
+    "wof:geomhash":"551a462dcb314088f7871c2d138a864c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":320625683,
-    "wof:lastmodified":1472598735,
+    "wof:lastmodified":1510942933,
     "wof:name":"Circle K",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169415259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

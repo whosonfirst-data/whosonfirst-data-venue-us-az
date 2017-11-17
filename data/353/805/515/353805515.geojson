@@ -7,13 +7,16 @@
     "addr:postcode":"85701",
     "addr:street":"S Stone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.970606,32.21812,-110.970606,32.21812",
     "geom:latitude":32.21812,
     "geom:longitude":-110.970606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"270 S Stone Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1lEE3SPF0lxy9TlYLxDAJo_32.218120_-110.970606@1303263125"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a68714fc555cb45ca3b5b1680e58b6b",
+    "wof:geomhash":"a852fa8be5fb2700c2bd8148b490393d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":353805515,
-    "wof:lastmodified":1472599164,
+    "wof:lastmodified":1510941918,
     "wof:name":"Police Department",
     "wof:parent_id":85871759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169243987
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "department"

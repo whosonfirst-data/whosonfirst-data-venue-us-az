@@ -7,6 +7,7 @@
     "addr:postcode":"85003",
     "addr:street":"W Washington St Fl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.076426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 W Washington St Fl 11",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_2rHxZhcMtGw91Pd7EaN8tE_33.448261_-112.076426@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"7057c144442910ba44261bf66d804348",
+    "wof:geomhash":"b1740e3df2b8d6f6caae35293fe8c1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":320602937,
-    "wof:lastmodified":1491917010,
+    "wof:lastmodified":1510943840,
     "wof:name":"City Of Phoenix",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169139203
+    ],
+    "wof:supersedes":[
+        169139203
+    ],
     "wof:tags":[
         "government-state"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"85323",
     "addr:street":"W Mcdowell Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.284615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10400 W McDowell Road",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_0nBDPNp6mjW3R3A96oF0rj_33.464703_-112.284615@1303263122"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ad2ca2f6f6a826e3afa7ad2e5742059",
+    "wof:geomhash":"52b68490312cb3f9f4037c59b54cd32b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":353626687,
-    "wof:lastmodified":1491934656,
+    "wof:lastmodified":1510944046,
     "wof:name":"American Mini Storage",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353755889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"

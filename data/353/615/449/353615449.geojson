@@ -7,6 +7,7 @@
     "addr:postcode":"85323",
     "addr:street":"W Mcdowell Rd Suite D400",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.292093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10750 W McDowell Rd Suite D400",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6OnOiKmKul1VljiD4aStiq_33.464438_-112.292093@1303263121"
     },
     "wof:country":"US",
-    "wof:geomhash":"1023dd3f380357558a542b9f49785dac",
+    "wof:geomhash":"830cd11fb09885d59fedccdd45caffb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":353615449,
-    "wof:lastmodified":1491934632,
+    "wof:lastmodified":1510941406,
     "wof:name":"Arrowhead Dermatology",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353759649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

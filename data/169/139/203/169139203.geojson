@@ -7,6 +7,7 @@
     "addr:postcode":"85003",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.077668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 W Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -43,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2470706342,
         "sg:id":"SG_0p5S3xC8oyT7gVQ5p9NLZx_33.448237_-112.077668@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"822245bb4d6dadee13f68a47b3f3a701",
+    "wof:geomhash":"18c010d20ea09002d0d53530931c3fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":169139203,
-    "wof:lastmodified":1491917020,
+    "wof:lastmodified":1510943840,
     "wof:name":"City of Phoenix",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320602937
+    ],
+    "wof:supersedes":[
+        320602937
+    ],
     "wof:tags":[]
 },
   "bbox": [

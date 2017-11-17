@@ -7,13 +7,16 @@
     "addr:postcode":"85004",
     "addr:street":"N Central Ave Ste 230",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073914,33.470589,-112.073914,33.470589",
     "geom:latitude":33.470589,
     "geom:longitude":-112.073914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2020 N Central Ave Ste 230",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1wkF4yTqoSf1A1hDXE2lXd_33.470589_-112.073914@1303263097"
     },
     "wof:country":"US",
-    "wof:geomhash":"4f3780adedc273aa36759582a7152728",
+    "wof:geomhash":"d2fb65695f1e83d3a9dde258f326c762",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":320616051,
-    "wof:lastmodified":1472598697,
+    "wof:lastmodified":1510941310,
     "wof:name":"Arizona Board Of Regents",
     "wof:parent_id":85885509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169123163
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"

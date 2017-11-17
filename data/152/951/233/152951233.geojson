@@ -7,13 +7,16 @@
     "addr:postcode":"85220",
     "addr:street":"W Apache Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.570463,33.414979,-111.570463,33.414979",
     "geom:latitude":33.414979,
     "geom:longitude":-111.570463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2323 W Apache Trl",
     "sg:city":"Apache Junction",
     "sg:classifiers":[
@@ -41,10 +44,11 @@
     "wof:brand_id":420574679,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":165396153,
         "sg:id":"SG_056Ac8wHEkkGMMe3o8mGdh_33.414979_-111.570463@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1eef0e115bf97b261642452da4a2cb4",
+    "wof:geomhash":"6949290de734d76f5f81ddeff81f2ace",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +60,17 @@
         }
     ],
     "wof:id":152951233,
-    "wof:lastmodified":1472599020,
+    "wof:lastmodified":1510943191,
     "wof:name":"Arbys",
     "wof:parent_id":85840303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756986307
+    ],
+    "wof:supersedes":[
+        756986307
+    ],
     "wof:tags":[]
 },
   "bbox": [

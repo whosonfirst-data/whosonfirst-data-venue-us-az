@@ -7,6 +7,7 @@
     "addr:postcode":"85027",
     "addr:street":"N 27Th Ave Ste 106",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.117241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19636 N 27th Ave Ste 106",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
         "sg:id":"SG_5ydNZXYLKaint7B0GXHaNE_33.665013_-112.117241@1303263103"
     },
     "wof:country":"US",
-    "wof:geomhash":"338f3e55d091373ba65361639ba8dda2",
+    "wof:geomhash":"1c0c2a0680a6992342f76572daf44c12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":320819381,
-    "wof:lastmodified":1491889264,
+    "wof:lastmodified":1510943449,
     "wof:name":"Pain Center Of Arizona",
     "wof:parent_id":85853891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169376021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

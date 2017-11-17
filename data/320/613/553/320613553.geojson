@@ -7,13 +7,16 @@
     "addr:postcode":"85004",
     "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.069427,33.477998,-112.069427,33.477998",
     "geom:latitude":33.477998,
     "geom:longitude":-112.069427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2702 N 3rd St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_0Bol2362PvrSLqPctlsTax_33.477998_-112.069427@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"b707fb2807a18cfdac13d3d9ba782eee",
+    "wof:geomhash":"fe61a968142928df8d70eecacdcb20a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":320613553,
-    "wof:lastmodified":1472598690,
+    "wof:lastmodified":1510943941,
     "wof:name":"Mountain Park Health Center",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        168974179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

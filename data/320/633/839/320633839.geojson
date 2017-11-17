@@ -7,6 +7,7 @@
     "addr:postcode":"85007",
     "addr:street":"N 18Th Ave Ste 450",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.098202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"150 N 18th Ave Ste 450",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_4W7q4h9tv2JU2DzoOrER8S_33.449752_-112.098202@1303263097"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2248bbc31a65bdaa9f887c0a618e36b",
+    "wof:geomhash":"5a5de3707093ca4c09c693a9da73662e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":320633839,
-    "wof:lastmodified":1491917031,
+    "wof:lastmodified":1510943568,
     "wof:name":"Medical Facilities Licensing",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        168916657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"

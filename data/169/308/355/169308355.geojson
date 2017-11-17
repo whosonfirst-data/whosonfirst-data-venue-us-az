@@ -7,13 +7,16 @@
     "addr:postcode":"85014",
     "addr:street":"E Missouri Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.058085,33.516563,-112.058085,33.516563",
     "geom:latitude":33.516563,
     "geom:longitude":-112.058085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1130 E Missouri Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_2y0qX9fqMB75u1h2eQSAzt_33.516563_-112.058085@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"08a948ec81c0b8b76524c0a0cb1ecfc6",
+    "wof:geomhash":"eb47b5d7f9d82fcb40ac495d7dcec864",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":169308355,
-    "wof:lastmodified":1472599423,
+    "wof:lastmodified":1510943346,
     "wof:name":"Davidson Myers & Associates",
     "wof:parent_id":85885501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169404355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

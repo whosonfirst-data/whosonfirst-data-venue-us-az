@@ -7,13 +7,16 @@
     "addr:postcode":"85004",
     "addr:street":"N Central Ave # 1800",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073891,33.476631,-112.073891,33.476631",
     "geom:latitude":33.476631,
     "geom:longitude":-112.073891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2600 N Central Ave # 1800",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3c3AbJi101XBKty1y9mC9H_33.476631_-112.073891@1303263097"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbb1dd12c46e281d45ec073d2cbdf638",
+    "wof:geomhash":"a47490975ee8388b8c1359015d7d5ce2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":320616311,
-    "wof:lastmodified":1472598704,
+    "wof:lastmodified":1510943225,
     "wof:name":"National Labor Relations Board",
     "wof:parent_id":85871013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169151767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

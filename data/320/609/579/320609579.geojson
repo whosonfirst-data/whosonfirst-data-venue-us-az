@@ -7,13 +7,16 @@
     "addr:postcode":"85004",
     "addr:street":"N Central Ave Ste 810",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.073827,33.450591,-112.073827,33.450591",
     "geom:latitude":33.450591,
     "geom:longitude":-112.073827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 N Central Ave Ste 810",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_1siUJv0Hilx83zgJ2w9unN_33.450591_-112.073827@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"299d977b44a2b923051eb03c5abac49b",
+    "wof:geomhash":"1bb3df1edabf76193765fc45e17d64e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":320609579,
-    "wof:lastmodified":1472598667,
+    "wof:lastmodified":1510942386,
     "wof:name":"Us Federal Public Defender",
     "wof:parent_id":85885503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169311777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"

@@ -7,13 +7,16 @@
     "addr:postcode":"85284",
     "addr:street":"E Warner Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.926163,33.33466,-111.926163,33.33466",
     "geom:latitude":33.33466,
     "geom:longitude":-111.926163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1006 E Warner Rd",
     "sg:city":"Tempe",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462214661,
-    "wof:geomhash":"88070fd648837044afa73af3dc1e2546",
+    "wof:geomhash":"2a440709119957fa246cafbd879416ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":756976857,
-    "wof:lastmodified":1472598766,
+    "wof:lastmodified":1510943968,
     "wof:name":"Barro's Pizza",
     "wof:parent_id":420535763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756989743
+    ],
+    "wof:supersedes":[
+        353507407
+    ],
     "wof:tags":[
         "pizza"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"85323",
     "addr:street":"W Papago Fwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.273244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10101 W Papago Fwy",
     "sg:city":"Avondale",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
         "sg:id":"SG_7WLUc2OHRA4caALoCo1jeD_33.460576_-112.273244@1303263121"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb695fcc72232c8ac6fbf2b6dc992cbc",
+    "wof:geomhash":"86bad20c64889c8c8e952909d0e056d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":353614819,
-    "wof:lastmodified":1491934738,
+    "wof:lastmodified":1510943021,
     "wof:name":"Avondale Dodge",
     "wof:parent_id":85832807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353617519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

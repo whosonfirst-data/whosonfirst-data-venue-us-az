@@ -7,13 +7,16 @@
     "addr:postcode":"85053",
     "addr:street":"W Bell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.116409,33.639973,-112.116409,33.639973",
     "geom:latitude":33.639973,
     "geom:longitude":-112.116409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2710 W Bell Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -37,10 +40,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2810912515,
         "sg:id":"SG_2hblcnJ5PHFG69gi4zTM2y_33.639973_-112.116409@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1c7741171e09aa9b8a571b8e204b4cc",
+    "wof:geomhash":"c9735bc129278080064becadaee90c68",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":169018711,
-    "wof:lastmodified":1472598724,
+    "wof:lastmodified":1510942412,
     "wof:name":"Silver Cinemas",
     "wof:parent_id":85850993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        336729677
+    ],
+    "wof:supersedes":[
+        336729677
+    ],
     "wof:tags":[]
 },
   "bbox": [

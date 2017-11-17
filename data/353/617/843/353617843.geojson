@@ -7,13 +7,16 @@
     "addr:postcode":"85323",
     "addr:street":"W Rancho Santa Fe Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.338098,33.459626,-112.338098,33.459626",
     "geom:latitude":33.459626,
     "geom:longitude":-112.338098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13055 W Rancho Santa Fe Boulevard",
     "sg:city":"Avondale",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_1d62GdLpJkScrFuEoYbc4m_33.459626_-112.338098@1303263121"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d416ee4ec2dee99532b07e90cb04b7",
+    "wof:geomhash":"c02490533a8efa07ef808e06d65095fe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":353617843,
-    "wof:lastmodified":1472598989,
+    "wof:lastmodified":1510941949,
     "wof:name":"Walmart",
     "wof:parent_id":85812557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353620819
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

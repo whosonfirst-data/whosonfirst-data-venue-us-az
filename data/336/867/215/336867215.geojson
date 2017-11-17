@@ -7,13 +7,16 @@
     "addr:postcode":"85225",
     "addr:street":"N Arizona Avenue Suite 7",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.842874,33.340218,-111.842874,33.340218",
     "geom:latitude":33.340218,
     "geom:longitude":-111.842874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 N Arizona Avenue Suite 7",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5spf4ApGB27ByZkgmkBGKb_33.340218_-111.842874@1303263112"
     },
     "wof:country":"US",
-    "wof:geomhash":"13829dcaa31c4d8231965047b8aab011",
+    "wof:geomhash":"a2d7d245343fa90f2c9634cc4f8b09f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":336867215,
-    "wof:lastmodified":1472599049,
+    "wof:lastmodified":1510943479,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336871733
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

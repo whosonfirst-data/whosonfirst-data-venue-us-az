@@ -7,13 +7,16 @@
     "addr:postcode":"85225",
     "addr:street":"W Chandler Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.896217,33.305532,-111.896217,33.305532",
     "geom:latitude":33.305532,
     "geom:longitude":-111.896217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 W Chandler Blvd Chandler Fashion Center",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_12irsjgrM9C3mtzwYduk8h_33.305532_-111.896217@1303263113"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca7cd33cc42431dadb534980f89d3ea0",
+    "wof:geomhash":"0cc84285aaf0e0ea015940c4cd7fb957",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":336877087,
-    "wof:lastmodified":1472599083,
+    "wof:lastmodified":1510942634,
     "wof:name":"Flip Flop Shop",
     "wof:parent_id":85841283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        336892009
+    ],
+    "wof:supersedes":[
+        168889809
+    ],
     "wof:tags":[
         "store"
     ]

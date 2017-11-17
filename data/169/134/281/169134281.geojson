@@ -7,13 +7,16 @@
     "addr:postcode":"85345",
     "addr:street":"W Peoria Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.206419,33.58172,-112.206419,33.58172",
     "geom:latitude":33.58172,
     "geom:longitude":-112.206419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6750 W Peoria Ave",
     "sg:city":"Peoria",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3qHLCwgVkGuFIXWTZYqMvE_33.581720_-112.206419@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"af7f337789e65d4b842803600ed54981",
+    "wof:geomhash":"68b1dc20901b68333906d86f5a748bf4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":169134281,
-    "wof:lastmodified":1472599285,
+    "wof:lastmodified":1510942263,
     "wof:name":"A-A B C Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169048425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

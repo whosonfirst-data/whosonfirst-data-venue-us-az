@@ -7,6 +7,7 @@
     "addr:postcode":"85018",
     "addr:street":"E Thomas Rd Ste 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.001183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3738 E Thomas Rd Ste 1",
     "sg:city":"Phoenix",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
         "sg:id":"SG_0ukXBPCZ8u9ydg9rRX3Yon_33.480457_-112.001183@1303263101"
     },
     "wof:country":"US",
-    "wof:geomhash":"c56b21f78916cbea91c428efaa1ca751",
+    "wof:geomhash":"8871a6aa2d002f915785d0780e458f50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":320757087,
-    "wof:lastmodified":1491890248,
+    "wof:lastmodified":1510943376,
     "wof:name":"Old Brass Rail",
     "wof:parent_id":85871019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        168987999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

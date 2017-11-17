@@ -7,6 +7,7 @@
     "addr:postcode":"85003",
     "addr:street":"S 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-112.077679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"111 S 3rd Ave",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_6f2UQ2TKSnowFe0WxiKxDb_33.447024_-112.077679@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"0428b16f7584b31c32cd500bb1c4bbb3",
+    "wof:geomhash":"0f2991e2323eacd60f63b1e1fdef0ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":320609167,
-    "wof:lastmodified":1491917073,
+    "wof:lastmodified":1510941305,
     "wof:name":"General Services Dept",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756963287
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telegraph"

@@ -7,13 +7,16 @@
     "addr:postcode":"85048",
     "addr:street":"E Chandler Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.99665,33.305119,-111.99665,33.305119",
     "geom:latitude":33.305119,
     "geom:longitude":-111.99665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4025 E Chandler Blvd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462214856,
-    "wof:geomhash":"4ce28d4c6eb09b33fd17d818fba3384e",
+    "wof:geomhash":"d3cd3fae0f924bf6aa667cc283bf9081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":756984277,
-    "wof:lastmodified":1472598794,
+    "wof:lastmodified":1510943534,
     "wof:name":"Star of India",
     "wof:parent_id":85802503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169329585
+    ],
+    "wof:supersedes":[
+        336708383
+    ],
     "wof:tags":[
         "indian",
         "asian"

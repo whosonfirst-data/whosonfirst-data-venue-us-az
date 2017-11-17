@@ -7,13 +7,16 @@
     "addr:postcode":"85715",
     "addr:street":"E Tanque Verde Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.844098,32.250757,-110.844098,32.250757",
     "geom:latitude":32.250757,
     "geom:longitude":-110.844098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6900 E Tanque Verde Rd",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_1c3VLz4QpM6576bH5BSFSL_32.250757_-110.844098@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"e852d70d148edaf73b18b8863a94c0fd",
+    "wof:geomhash":"e7780eb0eeebf6e905e8fb32669e709b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":153005435,
-    "wof:lastmodified":1472598634,
+    "wof:lastmodified":1510943035,
     "wof:name":"Arby's",
     "wof:parent_id":85828449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169048739
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
