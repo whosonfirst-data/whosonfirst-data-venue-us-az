@@ -2,18 +2,24 @@
   "id": 756962697,
   "type": "Feature",
   "properties": {
-    "addr:full":"1700 W Washington St Phoenix AZ 85007",
+    "addr:city":"Phoenix",
+    "addr:full":"1700 W Washington St Phoenix, Az 85007",
+    "addr:house_number":"1700",
     "addr:housenumber":"1700",
+    "addr:phone":"+1 602-542-4675",
     "addr:postcode":"85007",
+    "addr:road":"W Washington St",
+    "addr:state":"AZ",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.095818,33.448158,-112.095818,33.448158",
-    "geom:latitude":33.448158,
-    "geom:longitude":-112.095818,
+    "geom:bbox":"-112.09509,33.44998,-112.09509,33.44998",
+    "geom:latitude":33.44998,
+    "geom:longitude":-112.09509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1700 W Washington St",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "gallery",
         "government"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526751,
+        102529505
+    ],
     "wof:belongsto":[
         85688719,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400102,
         "sg:id":"SG_14xqnZWv5qxxUjkl4W4pMH_33.448518_-112.095894@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462214321,
-    "wof:geomhash":"a71d4c88b7a6afdee298a2cf557b5042",
+    "wof:geomhash":"62ffcca941fb5c763f8da305e7b8b0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":756962697,
-    "wof:lastmodified":1472598746,
+    "wof:lastmodified":1533754275,
     "wof:name":"Arizona State Capitol Museum",
     "wof:parent_id":85885505,
     "wof:placetype":"venue",
@@ -72,10 +83,10 @@
     ]
 },
   "bbox": [
-    -112.095818,
-    33.448158,
-    -112.095818,
-    33.448158
+    -112.09509,
+    33.44998,
+    -112.09509,
+    33.44998
 ],
-  "geometry": {"coordinates":[-112.09581799999999,33.448158],"type":"Point"}
+  "geometry": {"coordinates":[-112.09509,33.44998],"type":"Point"}
 }

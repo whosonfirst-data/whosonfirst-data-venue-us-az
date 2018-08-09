@@ -2,18 +2,24 @@
   "id": 153070741,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 N Main Ave Tucson AZ 85701",
+    "addr:city":"Tucson",
+    "addr:full":"140 N Main Ave Tucson, Az 85701-8218",
+    "addr:house_number":"140",
     "addr:housenumber":"140",
-    "addr:postcode":"85701",
+    "addr:phone":"+1 520-696-7450",
+    "addr:postcode":"85701-8218",
+    "addr:road":"N Main Ave",
+    "addr:state":"AZ",
     "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.97555,32.223007,-110.97555,32.223007",
-    "geom:latitude":32.223007,
-    "geom:longitude":-110.97555,
+    "geom:bbox":"-110.97539,32.22332,-110.97539,32.22332",
+    "geom:latitude":32.22332,
+    "geom:longitude":-110.97539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"140 N Main Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"85701",
     "sg:province":"AZ",
     "sg:website":"www.tucsonarts.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
         85917235,
         85633793,
@@ -37,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400443,
         "sg:id":"SG_4xK0oQ05olwzXYtbBNE6bA_32.223007_-110.975550@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6c93250141c2cda40ac3197b81ada7f",
+    "wof:geomhash":"124c415016dd51a222e9e4fdb0bc5ef6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +62,7 @@
         }
     ],
     "wof:id":153070741,
-    "wof:lastmodified":1472598906,
+    "wof:lastmodified":1533754279,
     "wof:name":"Tucson Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -61,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.97555,
-    32.223007,
-    -110.97555,
-    32.223007
+    -110.97539,
+    32.22332,
+    -110.97539,
+    32.22332
 ],
-  "geometry": {"coordinates":[-110.97555,32.223007],"type":"Point"}
+  "geometry": {"coordinates":[-110.97539,32.22332],"type":"Point"}
 }

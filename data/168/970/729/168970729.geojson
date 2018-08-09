@@ -2,18 +2,24 @@
   "id": 168970729,
   "type": "Feature",
   "properties": {
-    "addr:full":"4636 Fighter Aces Dr Mesa AZ 85215",
+    "addr:city":"Mesa",
+    "addr:full":"4636 E Fighter Aces Dr Mesa, Az 85215-2502",
+    "addr:house_number":"4636",
     "addr:housenumber":"4636",
-    "addr:postcode":"85215",
+    "addr:phone":"+1 602-830-4540",
+    "addr:postcode":"85215-2502",
+    "addr:road":"E Fighter Aces Dr",
+    "addr:state":"AZ",
     "addr:street":"Fighter Aces Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-111.73031,33.453811,-111.73031,33.453811",
-    "geom:latitude":33.453811,
-    "geom:longitude":-111.73031,
+    "geom:bbox":"-111.73045,33.45475,-111.73045,33.45475",
+    "geom:latitude":33.45475,
+    "geom:longitude":-111.73045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4636 Fighter Aces Dr",
     "sg:city":"Mesa",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 480 830 4540",
     "sg:postcode":"85215",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688719,
+        85811069,
         85633793,
         85917491,
         102087421,
-        85811069
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400240,
         "sg:id":"SG_3jZ7W4hNDB5SlXZgxn1UbY_33.453811_-111.730310@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d91b33bcaf7778afd094d4926e057a9",
+    "wof:geomhash":"5c25fc9b73e743f60948fde39f7ca0cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":168970729,
-    "wof:lastmodified":1472599238,
+    "wof:lastmodified":1533754290,
     "wof:name":"Champlin Fighter Museum",
     "wof:parent_id":85811069,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.73031,
-    33.453811,
-    -111.73031,
-    33.453811
+    -111.73045,
+    33.45475,
+    -111.73045,
+    33.45475
 ],
-  "geometry": {"coordinates":[-111.73031,33.453811],"type":"Point"}
+  "geometry": {"coordinates":[-111.73045,33.45475],"type":"Point"}
 }

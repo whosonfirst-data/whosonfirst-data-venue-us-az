@@ -2,18 +2,24 @@
   "id": 153070571,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S 6th Ave Tucson AZ 85701",
+    "addr:city":"Tucson",
+    "addr:full":"200 South 6Th Avenue Tucson, Az 85701",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 520-792-9985",
     "addr:postcode":"85701",
+    "addr:road":"South 6Th Avenue",
+    "addr:state":"AZ",
     "addr:street":"S 6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.968578,32.218567,-110.968578,32.218567",
-    "geom:latitude":32.218567,
-    "geom:longitude":-110.968578,
+    "geom:bbox":"-110.96869,32.21985,-110.96869,32.21985",
+    "geom:latitude":32.21985,
+    "geom:longitude":-110.96869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 S 6th Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,20 +34,25 @@
     "sg:postcode":"85701",
     "sg:province":"AZ",
     "sg:website":"www.tucsonchildrensmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
-        85688719,
+        85871757,
         85633793,
         85917235,
         102081135,
-        85871757
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400884,
         "sg:id":"SG_0wqMhJtmQz1FSpwYcs3ROI_32.218567_-110.968578@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"42276bbf80ca6e1d51d6fe2077ff8090",
+    "wof:geomhash":"d2e4c932f9854320d11d50e05334f773",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +64,8 @@
         }
     ],
     "wof:id":153070571,
-    "wof:lastmodified":1472598904,
-    "wof:name":"Tucson Children's Museum",
+    "wof:lastmodified":1533754279,
+    "wof:name":"Children'S Museum Tucson",
     "wof:parent_id":85871757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.968578,
-    32.218567,
-    -110.968578,
-    32.218567
+    -110.96869,
+    32.21985,
+    -110.96869,
+    32.21985
 ],
-  "geometry": {"coordinates":[-110.96857799999999,32.218567],"type":"Point"}
+  "geometry": {"coordinates":[-110.96869,32.21985],"type":"Point"}
 }

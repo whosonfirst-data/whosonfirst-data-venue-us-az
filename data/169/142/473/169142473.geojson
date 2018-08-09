@@ -2,18 +2,24 @@
   "id": 169142473,
   "type": "Feature",
   "properties": {
-    "addr:full":"1030 S Randolph Way Tucson AZ 85716",
+    "addr:city":"Tucson",
+    "addr:full":"1030 S Randolph Way Tucson, Az 85716-5835",
+    "addr:house_number":"1030",
     "addr:housenumber":"1030",
-    "addr:postcode":"85716",
+    "addr:phone":"+1 520-881-4753",
+    "addr:postcode":"85716-5835",
+    "addr:road":"S Randolph Way",
+    "addr:state":"AZ",
     "addr:street":"S Randolph Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.918036,32.20999,-110.918036,32.20999",
-    "geom:latitude":32.20999,
-    "geom:longitude":-110.918036,
+    "geom:bbox":"-110.91805,32.20889,-110.91805,32.20889",
+    "geom:latitude":32.20889,
+    "geom:longitude":-110.91805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1030 S Randolph Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 520 881 1078",
     "sg:postcode":"85716",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
-        85688719,
+        85871749,
         85633793,
         85917235,
         102081135,
-        85871749
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400454,
         "sg:id":"SG_7eVvwx6m4d0FVXm8BpC214_32.209990_-110.918036@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"dce8c7f7b18cce644d57a5215ba56128",
+    "wof:geomhash":"c9ee14b4b372e2516e95fbc89a4be0ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":169142473,
-    "wof:lastmodified":1472599281,
+    "wof:lastmodified":1533754288,
     "wof:name":"Tucson Zoological Society",
     "wof:parent_id":85871749,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.918036,
-    32.20999,
-    -110.918036,
-    32.20999
+    -110.91805,
+    32.20889,
+    -110.91805,
+    32.20889
 ],
-  "geometry": {"coordinates":[-110.918036,32.20999],"type":"Point"}
+  "geometry": {"coordinates":[-110.91804999999999,32.20889],"type":"Point"}
 }

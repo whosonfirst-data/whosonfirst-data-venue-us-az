@@ -2,18 +2,24 @@
   "id": 169148217,
   "type": "Feature",
   "properties": {
-    "addr:full":"1001 D Ave Douglas AZ 85607",
+    "addr:city":"Douglas",
+    "addr:full":"1001 D Ave Douglas, Az 85607",
+    "addr:house_number":"1001",
     "addr:housenumber":"1001",
+    "addr:phone":"+1 520-364-5226",
     "addr:postcode":"85607",
+    "addr:road":"D Ave",
+    "addr:state":"AZ",
     "addr:street":"D Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-109.549878,31.345515,-109.549878,31.345515",
-    "geom:latitude":31.345515,
-    "geom:longitude":-109.549878,
+    "geom:bbox":"-109.55036,31.35079,-109.55036,31.35079",
+    "geom:latitude":31.35079,
+    "geom:longitude":-109.55036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1001 D Ave",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -27,22 +33,26 @@
     "sg:phone":"+1 520 364 5226",
     "sg:postcode":"85607",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528775
+    ],
     "wof:belongsto":[
-        85688719,
+        85804277,
         85633793,
         85917167,
         102087425,
-        85804277,
-        85917171,
-        85885053
+        85688719,
+        85885053,
+        85917171
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400076,
         "sg:id":"SG_6tLtFU7Pmkc7cw4m4zyc1A_31.345515_-109.549878@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"56cdb5844d7bda46b589abba4b4308fa",
+    "wof:geomhash":"6a44dc3541dc1816b66276b19979563a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":169148217,
-    "wof:lastmodified":1472599285,
-    "wof:name":"Cochise County Historical Soc",
+    "wof:lastmodified":1533754288,
+    "wof:name":"Cochise County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -72,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -109.549878,
-    31.345515,
-    -109.549878,
-    31.345515
+    -109.55036,
+    31.35079,
+    -109.55036,
+    31.35079
 ],
-  "geometry": {"coordinates":[-109.54987800000001,31.345515],"type":"Point"}
+  "geometry": {"coordinates":[-109.55036,31.35079],"type":"Point"}
 }

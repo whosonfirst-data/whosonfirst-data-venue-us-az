@@ -2,18 +2,24 @@
   "id": 320777183,
   "type": "Feature",
   "properties": {
-    "addr:full":"737 E Hatcher Rd Phoenix AZ 85020",
+    "addr:city":"Phoenix",
+    "addr:full":"737 E Hatcher Rd Phoenix, Az 85020-2506",
+    "addr:house_number":"737",
     "addr:housenumber":"737",
-    "addr:postcode":"85020",
+    "addr:phone":"+1 602-331-3150",
+    "addr:postcode":"85020-2506",
+    "addr:road":"E Hatcher Rd",
+    "addr:state":"AZ",
     "addr:street":"E Hatcher Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.063057,33.571369,-112.063057,33.571369",
-    "geom:latitude":33.571369,
-    "geom:longitude":-112.063057,
+    "geom:bbox":"-112.0631,33.57112,-112.0631,33.57112",
+    "geom:latitude":33.57112,
+    "geom:longitude":-112.0631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"737 E Hatcher Rd",
     "sg:city":"Phoenix",
     "sg:classifiers":[
@@ -35,7 +41,11 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526751,
+        102529505
+    ],
     "wof:belongsto":[
         85688719,
         85633793,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400249,
         "sg:id":"SG_56curaAAc23dMP52PQjgZA_33.571369_-112.063057@1303263102"
     },
     "wof:country":"US",
-    "wof:geomhash":"87c70d92e90c864053c8b648c643bfdc",
+    "wof:geomhash":"5e574fe8e6c6e17563688d0833b338d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +72,7 @@
         }
     ],
     "wof:id":320777183,
-    "wof:lastmodified":1472598996,
+    "wof:lastmodified":1533754274,
     "wof:name":"Sunnyslope Historical Society",
     "wof:parent_id":85851493,
     "wof:placetype":"venue",
@@ -73,10 +84,10 @@
     ]
 },
   "bbox": [
-    -112.063057,
-    33.571369,
-    -112.063057,
-    33.571369
+    -112.0631,
+    33.57112,
+    -112.0631,
+    33.57112
 ],
-  "geometry": {"coordinates":[-112.063057,33.571369],"type":"Point"}
+  "geometry": {"coordinates":[-112.06310000000001,33.57112],"type":"Point"}
 }

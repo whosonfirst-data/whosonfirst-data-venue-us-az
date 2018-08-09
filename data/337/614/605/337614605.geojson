@@ -2,18 +2,24 @@
   "id": 337614605,
   "type": "Feature",
   "properties": {
-    "addr:full":"34505 N Scottsdale Rd Scottsdale AZ 85262",
+    "addr:city":"Scottsdale",
+    "addr:full":"34505 N Scottsdale Rd Scottsdale, Az 85266",
+    "addr:house_number":"34505",
     "addr:housenumber":"34505",
-    "addr:postcode":"85262",
+    "addr:phone":"+1 480-488-9817",
+    "addr:postcode":"85266",
+    "addr:road":"N Scottsdale Rd",
+    "addr:state":"AZ",
     "addr:street":"N Scottsdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-111.92644,33.79816,-111.92644,33.79816",
-    "geom:latitude":33.79816,
-    "geom:longitude":-111.92644,
+    "geom:bbox":"-111.92645,33.79807,-111.92645,33.79807",
+    "geom:latitude":33.79807,
+    "geom:longitude":-111.92645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"34505 N Scottsdale Rd",
     "sg:city":"Scottsdale",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
     "sg:phone":"+1 480 488 9817",
     "sg:postcode":"85262",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529505
+    ],
     "wof:belongsto":[
         85688719,
         85633793,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400065,
         "sg:id":"SG_7RjiBtrSBeJYRCLuE8U2CV_33.798160_-111.926440@1303263117"
     },
     "wof:country":"US",
-    "wof:geomhash":"27ad8a85583859ac50717c254b289b76",
+    "wof:geomhash":"cac049ee4a2d5f8e43b0b0c3234eaf3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":337614605,
-    "wof:lastmodified":1472598760,
-    "wof:name":"The Shop at Heard Museum North Scottsdale",
+    "wof:lastmodified":1533754274,
+    "wof:name":"Heard Museum North Scottsdale",
     "wof:parent_id":85880931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -111.92644,
-    33.79816,
-    -111.92644,
-    33.79816
+    -111.92645,
+    33.79807,
+    -111.92645,
+    33.79807
 ],
-  "geometry": {"coordinates":[-111.92644,33.79816],"type":"Point"}
+  "geometry": {"coordinates":[-111.92645,33.79807],"type":"Point"}
 }

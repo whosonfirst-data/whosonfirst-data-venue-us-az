@@ -2,18 +2,24 @@
   "id": 168958075,
   "type": "Feature",
   "properties": {
-    "addr:full":"541 E Deuce of Clubs Show Low AZ 85901",
+    "addr:city":"Show Low",
+    "addr:full":"541 E Deuce Of Clubs Show Low, Az 85901",
+    "addr:house_number":"541",
     "addr:housenumber":"541",
+    "addr:phone":"+1 928-532-7115",
     "addr:postcode":"85901",
+    "addr:road":"E Deuce Of Clubs",
+    "addr:state":"AZ",
     "addr:street":"E Deuce Of Clubs",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.036811,34.252661,-110.036811,34.252661",
-    "geom:latitude":34.252661,
-    "geom:longitude":-110.036811,
+    "geom:bbox":"-110.02991,34.25292,-110.02991,34.25292",
+    "geom:latitude":34.25292,
+    "geom:longitude":-110.02991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"541 E Deuce of Clubs",
     "sg:city":"Show Low",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 928 532 7115",
     "sg:postcode":"85901",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526733
+    ],
     "wof:belongsto":[
-        85688719,
+        85845979,
         85633793,
         85917581,
         102081137,
-        85845979
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400019,
         "sg:id":"SG_2Vl2L4BpnJEVQBWbMvxwLE_34.252661_-110.036811@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"1438d8e5201381addf6dc7abfeec9552",
+    "wof:geomhash":"1c8d3391534adeed8ce49618c9561ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":168958075,
-    "wof:lastmodified":1472599221,
-    "wof:name":"Show Low Historisal Society",
+    "wof:lastmodified":1533754289,
+    "wof:name":"Show Low Historial Society &",
     "wof:parent_id":85845979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.036811,
-    34.252661,
-    -110.036811,
-    34.252661
+    -110.02991,
+    34.25292,
+    -110.02991,
+    34.25292
 ],
-  "geometry": {"coordinates":[-110.036811,34.252661],"type":"Point"}
+  "geometry": {"coordinates":[-110.02991,34.25292],"type":"Point"}
 }

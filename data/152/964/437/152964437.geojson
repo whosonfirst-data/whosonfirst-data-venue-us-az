@@ -2,18 +2,24 @@
   "id": 152964437,
   "type": "Feature",
   "properties": {
-    "addr:full":"2150 N Alvernon Way Tucson AZ 85712",
+    "addr:city":"Tucson",
+    "addr:full":"2150 N Alvernon Way Tucson, Az 85712-3153",
+    "addr:house_number":"2150",
     "addr:housenumber":"2150",
-    "addr:postcode":"85712",
+    "addr:phone":"+1 520-326-9686",
+    "addr:postcode":"85712-3153",
+    "addr:road":"N Alvernon Way",
+    "addr:state":"AZ",
     "addr:street":"N Alvernon Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.909725,32.249271,-110.909725,32.249271",
-    "geom:latitude":32.249271,
-    "geom:longitude":-110.909725,
+    "geom:bbox":"-110.9098,32.24872,-110.9098,32.24872",
+    "geom:latitude":32.24872,
+    "geom:longitude":-110.9098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2150 N Alvernon Way",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -28,20 +34,25 @@
     "sg:postcode":"85712",
     "sg:province":"AZ",
     "sg:website":"www.tucsonbotanical.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
-        85688719,
+        85871719,
         85633793,
         85918125,
         102081135,
-        85871719
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400135,
         "sg:id":"SG_4uTFZHBqjhJsmiUqM2BzwB_32.249271_-110.909725@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9cfea4e473ad906c8e251dcd78b7a25",
+    "wof:geomhash":"d29d3511358e374dea0e6bfe6934cfd3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":152964437,
-    "wof:lastmodified":1472599089,
+    "wof:lastmodified":1533754278,
     "wof:name":"Tucson Botanical Gardens",
     "wof:parent_id":85871719,
     "wof:placetype":"venue",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.909725,
-    32.249271,
-    -110.909725,
-    32.249271
+    -110.9098,
+    32.24872,
+    -110.9098,
+    32.24872
 ],
-  "geometry": {"coordinates":[-110.90972499999999,32.249271],"type":"Point"}
+  "geometry": {"coordinates":[-110.9098,32.24872],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 153018921,
   "type": "Feature",
   "properties": {
-    "addr:full":"320 London Bridge Rd Lake Havasu City AZ 86403",
+    "addr:city":"Lk Havasu Cty",
+    "addr:full":"320 London Bridge Rd Lk Havasu Cty, Az 86403-4645",
+    "addr:house_number":"320",
     "addr:housenumber":"320",
-    "addr:postcode":"86403",
+    "addr:phone":"+1 928-854-4938",
+    "addr:postcode":"86403-4645",
+    "addr:road":"London Bridge Rd",
+    "addr:state":"AZ",
     "addr:street":"London Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-114.35057,34.479049,-114.35057,34.479049",
-    "geom:latitude":34.479049,
-    "geom:longitude":-114.35057,
+    "geom:bbox":"-114.35119,34.48002,-114.35119,34.48002",
+    "geom:latitude":34.48002,
+    "geom:longitude":-114.35119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"320 London Bridge Rd",
     "sg:city":"Lake Havasu City",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 928 854 4938",
     "sg:postcode":"86403",
     "sg:province":"AZ",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688719,
+        85845185,
         85633793,
         85917401,
         102087427,
-        85845185
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400411,
         "sg:id":"SG_3oe1gwAjjdQhfpWmYe2G4f_34.479049_-114.350570@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b6fb0508aa3328642cc6b20082461e0",
+    "wof:geomhash":"eaec4df8799b77e371cb926ce3e0ab82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":153018921,
-    "wof:lastmodified":1472598705,
-    "wof:name":"Lake Havasu Historical Society",
+    "wof:lastmodified":1533754277,
+    "wof:name":"Lake Havasu City Historical Society",
     "wof:parent_id":85845185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -114.35057,
-    34.479049,
-    -114.35057,
-    34.479049
+    -114.35119,
+    34.48002,
+    -114.35119,
+    34.48002
 ],
-  "geometry": {"coordinates":[-114.35057,34.479049],"type":"Point"}
+  "geometry": {"coordinates":[-114.35119,34.48002],"type":"Point"}
 }

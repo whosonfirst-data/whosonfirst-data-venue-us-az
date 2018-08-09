@@ -2,18 +2,24 @@
   "id": 353835671,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 N 1st Ave Tucson AZ 85719",
+    "addr:city":"Tucson",
+    "addr:full":"920 N 1St Ave Tucson, Az 85719-4818",
+    "addr:house_number":"920",
     "addr:housenumber":"920",
-    "addr:postcode":"85719",
+    "addr:phone":"+1 520-623-6652",
+    "addr:postcode":"85719-4818",
+    "addr:road":"N 1St Ave",
+    "addr:state":"AZ",
     "addr:street":"N 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.961053,32.233256,-110.961053,32.233256",
-    "geom:latitude":32.233256,
-    "geom:longitude":-110.961053,
+    "geom:bbox":"-110.96093,32.23326,-110.96093,32.23326",
+    "geom:latitude":32.23326,
+    "geom:longitude":-110.96093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"920 N 1st Ave",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "shipping"
     ],
     "sg:website":"http://www.usps.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
         85688719,
         85633793,
@@ -47,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400298,
         "sg:id":"SG_4HLtCFTVAQlmCQsyD5lfdf_32.233256_-110.961053@1303263126"
     },
     "wof:country":"US",
-    "wof:geomhash":"a1419f35b875edea3638fa1557b08a73",
+    "wof:geomhash":"b8808cc58def3a541795bb12854f9109",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":353835671,
-    "wof:lastmodified":1472599178,
-    "wof:name":"The Postal History Foundation",
+    "wof:lastmodified":1533754277,
+    "wof:name":"Postal History Foundation",
     "wof:parent_id":85871761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -110.961053,
-    32.233256,
-    -110.961053,
-    32.233256
+    -110.96093,
+    32.23326,
+    -110.96093,
+    32.23326
 ],
-  "geometry": {"coordinates":[-110.96105300000001,32.233256],"type":"Point"}
+  "geometry": {"coordinates":[-110.96093,32.23326],"type":"Point"}
 }

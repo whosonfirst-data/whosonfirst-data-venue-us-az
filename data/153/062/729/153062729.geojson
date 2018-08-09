@@ -2,18 +2,24 @@
   "id": 153062729,
   "type": "Feature",
   "properties": {
-    "addr:full":"949 E 2nd St Tucson AZ 85719",
+    "addr:city":"Tucson",
+    "addr:full":"949 E 2Nd Street Tucson, Az 85719-4840",
+    "addr:house_number":"949",
     "addr:housenumber":"949",
-    "addr:postcode":"85719",
+    "addr:phone":"+1 480-929-0292",
+    "addr:postcode":"85719-4840",
+    "addr:road":"E 2Nd Street",
+    "addr:state":"AZ",
     "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-110.957284,32.233073,-110.957284,32.233073",
-    "geom:latitude":32.233073,
-    "geom:longitude":-110.957284,
+    "geom:bbox":"-110.95736,32.23308,-110.95736,32.23308",
+    "geom:latitude":32.23308,
+    "geom:longitude":-110.95736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"949 E 2nd St",
     "sg:city":"Tucson",
     "sg:classifiers":[
@@ -31,20 +37,25 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525667,
+        102527853
+    ],
     "wof:belongsto":[
-        85688719,
+        85871769,
         85633793,
         85917235,
         102081135,
-        85871769
+        85688719
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400400095,
         "sg:id":"SG_5yTg85fRZbgpBin58aCpPa_32.233073_-110.957284@1294080769"
     },
     "wof:country":"US",
-    "wof:geomhash":"bebc36ee08244260638e0c273047d32b",
+    "wof:geomhash":"973c06f177f23e2a37a953a70edb3719",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":153062729,
-    "wof:lastmodified":1472598867,
-    "wof:name":"Historical Society Arizona",
+    "wof:lastmodified":1533754279,
+    "wof:name":"Arizona Historical Society Southern Division",
     "wof:parent_id":85871769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-az",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -110.957284,
-    32.233073,
-    -110.957284,
-    32.233073
+    -110.95736,
+    32.23308,
+    -110.95736,
+    32.23308
 ],
-  "geometry": {"coordinates":[-110.957284,32.233073],"type":"Point"}
+  "geometry": {"coordinates":[-110.95735999999999,32.23308],"type":"Point"}
 }
